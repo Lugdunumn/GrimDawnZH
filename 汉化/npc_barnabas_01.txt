@@ -1,0 +1,74 @@
+巴纳巴斯
+我听霍姆斯特德的道格拉斯说了，看来他已经准备好和我们交易。恶魔之路马上就能装满粮食了，这多亏了你。感谢你！
+这是我力所能及的。
+霍姆斯特德的事怎么样了？
+还在交涉中。
+霍姆斯特德的事怎么样了？
+那儿的人不相信我们。
+噢，不能怪他们。
+我会尽我所能。
+我们会活下去的，我确定。
+你找到去霍姆斯特德的路了吗？告诉我，这事儿有没有戏？我们有机会吗？
+我在那儿找到了一些人。
+有意思。我不觉得他们会分给我们粮食，对么？
+我需要和他们谈谈，再见。
+旅途如何？
+我该往哪儿走？
+通过我们修好的桥往恶魔之路的西北走。旅途需要到西北方很远的地方，而且我们不知道路上会碰见什么。先沿着路进入安克维亚山麓，穿过古安克维亚。幸运的话，双子瀑布附近的旧桥还会屹立在那儿。如果不是的话，你就要找走私者的通道了，这是深入破碎山脉的一条走私旧道。它应该能到霍姆斯特德。{^n}{^n}我们一定要看看那些田地还能不能养活我们，还是恐怖黎明像在伯尔维治那样把田地都毁了。
+走私者通道是哪儿？
+那个地下的旧洞穴曾帮助过许多走私贩逃避沿海道路上帝国巡逻兵的检查。走私者的通道从来都不是最安全的路，不过如果你要是想避开窥视的眼镜，那儿真是老天的恩赐啊。为啥呢,因为我年轻不安分的时候它帮了我好多次。当然了，这些都是陈年往事了。
+谢谢。
+我现在就去。
+我需要回去。
+来伙计，跟老巴纳巴斯喝一杯清水，庆祝一下你在伯尔维治的胜利。
+莫尔奈说你对食品短缺有法子？
+你算是找对人了。在世界完蛋之前，伯尔维治从西北方的大片田地获取粮食。修好了桥，我们需要找到一条去霍姆斯特德的路。{^n}{^n}此行你要到西北方很远处，我也不知道那边是个什么情况。先沿着路进入安克维亚山麓，穿过古安克维亚。幸运的话，双子瀑布附近的旧桥还会屹立在那儿。如果不是的话，你就要找走私者的通道了，这是深入破碎山脉的一条走私旧道。它应该能到霍姆斯特德。{^n}{^n}我们一定要看看那些田地还能不能养活我们，还是恐怖黎明像在伯尔维治那样把田地都毁了。
+我这就去。
+我能在那儿找到些什么？
+好几个月都没人去过北边霍姆斯特德那么远的地方了，所以我只能想象恐怖黎明之后可怕的东西会在那片山区里到处都是。小心行事。
+我会的。
+我已经找到霍姆斯特德了。
+哦？你这个了不得的年轻人。你在那儿见到了什么？
+
+多亏了你的帮助！至少我们能喝上一杯了……尽管连那玩意儿连威士忌的一根指头都比不上。
+这是我的荣幸。
+清楚那些蛇人还顺利么？人们都开始向我求水喝了。{^n}{^n}
+I've taken care of it.
+Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack. Useful for hauling back Scrap or whatever else you come across. I'm too old for that stuff now.
+Thank you. Glad to be of help.
+Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.
+Thank you. Glad to be of help.
+Have you cleared out the Slith den?
+Not yet, where is it again?
+Open the cellar in the shack behind me. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.
+I'll take care of it.
+Well, the good news is I got the water pumping again. The only problem is it smells like a sewer, only about a ten-fold worse.  {^n}{^n}Why, I haven' smelled something this rotten since...
+Since what?
+Since I've cleared out a den of Slith, ages ago. They're loathsome reptiles - make their homes in swamps and dank caves. {^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us. I'd bet good iron there is a nest in the cave that fuels our pump. {^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.
+How do I get to the cave?
+This key will open the cellar in the shack behind me, right by that acursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.
+I'll take care of the Slith.
+I don't have time for this.
+Did you get the Scrap?
+Will this suffice?
+Perfect! I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
+Glad I could help.
+
+Did you get the Scrap?
+Not yet, where can I find it?
+Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}You'll find enough in no time!
+I'll be back.
+The Captain send you over? You musta done quite a service with the Dead if he's got hands to spare for Ol' Barnabas. Let's get to business, yes?  {^n}{^n}Our wind pump's broken down again and we're running low on water. We're all out of parts, so I can't fix 'er up.  {^n}{^n}Can always melt down what weapons we have, but I'm not too fond of being devoured in my sleep. I'll need scrap from Lower Crossing.
+Where can I find it?
+Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}Where you get it isn' that important to me, just that you get it soon. We are running out of drinking water, nothing to be said about ever taking a bath again.
+I'll get the Scrap you need.
+Sorry, I don't have time.
+Um, why not just lower a bucket into the river?
+Have you seen the bodies floating out there?{^n}{^n}Surface water around here is rank with disease and decay. Our only hope is this well.{^n}{^n}Now are you going to get us some scrap or do I have to settle for sass?
+
+Is this enough Scrap?
+Impressive! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
+Glad I could help.
+
+So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.
+Take care.

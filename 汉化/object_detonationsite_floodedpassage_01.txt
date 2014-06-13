@@ -1,0 +1,7 @@
+Detonation Site
+Looks like a portion of the Flooded Passage has caved-in. You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 3 Dynamite to clear a path.
+Not enough Dynamite.
+Clear the Cave-in.
+Leave it.
+You have cleared this cave-in.
+Ok.

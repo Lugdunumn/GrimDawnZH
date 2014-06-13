@@ -1,0 +1,17 @@
+Ulgrim
+Ah, the stranger returns! Care for some bonerat ribs? Taste rank, but quite harmless! Or do you not 'trust' me?
+I'm sorry about earlier. (Tell him about the prison)
+
+Sorry, just passing through.
+Well I'll be, a living person! I've been stranded out here since Burrwitch fell. Fortified myself on this little patch of island, cooking whatever critters get too close while waiting for the inevitable end. You're a welcome sight for sore eyes!
+Burrwitch fell months ago. How have you survived this long?
+Well, I can cook for one! I used to work in the capital and had the honor of preparing meals for a couple noble houses and many foreign dignitaries. I'm not a fighter but I've learned to hunt a bit when necessary. It gets me by. Scraps of bone rat aren't exactly fine dining though. Most of all, I just keep quiet and observe. What about you? Where do you hail from?
+We could use a cook. (Tell him about the prison)
+This prison of yours sounds like heaven compared to my current dwelling. I bet I could do my share as well. Men fight better on full stomachs! How will we get all my equipment to Devil's Crossing?
+I can open a riftgate to safety. (Open Riftgate)
+A portal? I've only ever seen one of those before, and it wasn't spitting out the good guys. I really hope you're not trying to pull one on me. Here goes nothing.
+I'll see you in Devil's Crossing.
+Sorry, I have no idea who you are. (Keep the prison to yourself)
+Playing it close to the vest, eh? I can respect that, given the times. I assure you, I'm just an old cook doing his best to survive out here. Frankly, probably won't be doing much more surviving given the way things are looking out there.
+
+Can't take the chance. Good luck, old man.

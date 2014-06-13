@@ -1,0 +1,17 @@
+Torven
+Return to this refuge again if you need respite from your journey.
+Thank you.
+Ah, so you've returned. Do you have the necklaces?
+Will these suffice?
+Ah yes, there is raw power in these bones and my deft old hands will weave it into something more potent yet. I will have the finished ring for you shortly.
+Thank you.
+Our paths converge again.
+Farewell.
+You travel a dangerous path stranger. This solitary refuge is one of the few safe places left in the Wightmire. If you plan to set out on the road again, perhaps there is a way that we could help one another.
+And what might that be?
+The Slith are unnatural creatures and poison the land itself; so it seems only fitting that we should turn some of their vile magic against them. Their shamans carry bone necklaces, primitive things, but they carry primal power within them. I can weave this power into something more potent for you.{^n}{^n}If you bring me a few of their necklaces, and say 100 iron bits to aid us in return, I will fashion for you a magical ring. What say you?
+You have a deal.
+Not interested.
+Will these necklaces suffice?
+
+No thank you.

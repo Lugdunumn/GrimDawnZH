@@ -1,0 +1,37 @@
+Greven
+Welcome back to our humble camp.
+Farewell.
+Hello! What brings you to our camp?
+I found your elder out in the ruins. I'm sorry.
+Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find a talisman on him? It is a small object carved from bone. Please, if you have it, we will be happy to provide compensation for its return.
+Yes, actually. Here it is.
+At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
+You're welcome. Goodbye.
+No, I did not find a talisman. (Lie)
+Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
+I'm sorry for your loss. Goodbye.
+He did, but I lost it on the journey back.
+Oh? Please, if you could find the relic again, we would gladly compensate you for the trouble.
+I will find it again.
+Goodbye.
+Any luck in your search for Elder Mathias?
+I found the elder, I'm sorry.
+Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find the talisman on him?
+Yes, actually. Here it is.
+At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
+You're welcome. Goodbye.
+No, I did not find a talisman. (Lie)
+Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
+I'm sorry for your loss. Goodbye.
+Goodbye.
+Any luck in your search for Elder Mathias?
+Where should I look again?
+Head out west from the camp, past Staunton Mine. Elder Mathias fled into the ruins in that area.
+Thank you. I will resume the search.
+Still searching. Goodbye.
+Hello! Pleased to meet a friendly face out here. Bandits don't usually grant us the courtesy. Since you are traveling these parts, I was wondering if you could help us out.
+What do you need assistance with?
+Our elder, Mathias, has gone missing following a recent raid on our camp. The Elder was determined to keep our talisman, a precious relic of my people, away from their greedy hands and so he fled into the nearby ruins when the bandits showed up. It has been several days and I'm beginning to fear the worst. Please, if you find yourself exploring the ruins west of Staunton Mine, seek out Elder Mathias. If it is as I fear and the Elder is dead, please at least recover the talisman. It is a small object carved from bone and carries great spiritual significance to us. We would be eternally grateful for its return.
+I will search for your elder.
+I'm sorry. I cannot help you.
+I'm not interested. Goodbye.

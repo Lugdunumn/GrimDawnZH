@@ -1,0 +1,65 @@
+Duncan
+I don't blame you for your decision. Angrim is a fine blacksmith, the finest around to be sure. I'll do what I can for these people with what I got.
+Farewell.
+You're back! Do you have the Malleum Menhir?
+I'm sorry, but the hammer stays with Angrim.
+Ah, I...see...I guess this is good bye then. If you'll excuse me, I have to tend to the forge.
+Farewell.
+I'm almost finished here. I'll see you in Devil's Crossing.
+See you there.
+You're back! Do you have the Malleum Menhir?
+I persuaded Angrim to part with it. Here you go.
+I'm impressed. Angrim is a tough man to convince of anything, but I'm glad it did not have to come to blows. Thank you, I will do much good with this.
+So will you join me in Devil's Crossing?
+Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
+See you there.
+I had the hammer, but I misplaced it.
+What?! Go back out there and find it. That hammer is invaluable!
+I'm on it.
+You're back! Do you have the Malleum Menhir?
+I was forced to kill Angrim for it, but here it is.
+I wish it hadn't come to this. That is a terrible price to pay for this sacred relic. But the good of us all outweighs the life of one.{^n}{^n}I will have to toil away that much harder to make sure that Angrim's life was not taken in vain.
+So will you join me in Devil's Crossing?
+Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
+See you there.
+I had the hammer, but I misplaced it.
+What?! Go back out there and find it. That hammer is invaluable!
+I'm on it.
+So? Did you speak to Angrim?
+Where is he again?
+My master left the camp earlier today, heading northeast. He can't be far.
+
+
+I will find him.
+What is the Malleum Menhir?
+It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
+Where is Angrim again?
+
+I see.
+Why do you feel the hammer should go to you?
+My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
+Where is Angrim again?
+
+I understand.
+I'm still searching.
+Hello, traveler. If you find yourself going about these parts, I was wondering if you'd help us locate someone. I'm a bit tied up with the forge here.
+Someone disappeared?
+My master, Angrim, left our camp earlier today. He's intent on finding a group of survivors that he considers "worthy" of our smithing talents. We don't exactly see eye to eye on the matter of who we should be helping.{^n}{^n}Angrim wants to field an army and take the fight to the Aetherials. I'd rather save as many as I can, whether they can fight or not. I want to help these people, but without my master's forging hammer, the sacred Malleum Menhir, I won't be able to make anything worth a damn.
+A blacksmith? We could use you in Devil's Crossing.
+If you get Malleum Menhir back, I will gladly join you in Devil's Crossing, after I use it to help out around here.{^n}{^n}Please seek out my master and get Malleum Menhir back. I saw him heading out to the northeast. He couldn't have gotten far.
+I will find Angrim.
+I'm sorry, I cannot help you.
+Why do you feel the hammer should go to you?
+My master is an expert blacksmith, don't get my wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
+
+
+I understand.
+What is the Malleum Menhir?
+It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
+
+
+I see.
+What are you doing out here?
+Arming these people against the dangers of Cairn. Doing the best I can with what I've got.
+What did you need help with?
+Goodbye.

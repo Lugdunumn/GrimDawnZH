@@ -1,0 +1,63 @@
+Angrim
+You and I have nothing left to say to each other.
+I lost the Malleum Menhir.
+Yes, I found it shortly after you left. You continue to insult me with your presence. Take it and be gone.
+Thanks.
+Very well.
+Please see that Duncan uses the hammer to bring justice for Cairn.
+I lost the Malleum Menhir.
+You should be more careful with it. Forging hammers like this are incredibly hard to match. You're lucky I found it.
+I'm sorry, thank you.
+What will you do now?
+Much as you, my path still lies before me. I will find a way around this avalanche, and then I will seek out the Black Legion.
+What's the Black Legion?
+The Black Legion? Death's Bannermen? Surely you've heard of the Imperium's elite? Or were you living under a rock before the Grim Dawn?
+Why are you looking for them?
+I heard solid rumors that some of the Legion escaped the chaos that broke out in the capital. I intend to seek them out and aid them in the fight against the invaders.
+Good luck in your search.
+I...um, nevermind.
+Good luck out there.
+I will.
+Greetings, stranger. I hope you're out here fighting the good fight.
+I'm here for the Malleum Menhir.
+What do you know about that?
+Duncan needs it to help the refugees.
+He is a talented boy, that one. The way he weaves magical properties into his craft astounds even me sometimes. I prefer a finely honed blade and a solid shield to that nonsense though.{^n}{^n}Duncan was my finest apprentice, but he still needs to learn some priorities. Those people he's trying to help can't even help themselves. Our knowledge is a rare gift. We cannot squander it on those that refuse to fight for Cairn.
+I have a group in Devil's Crossing. You could join us.
+Devil's Crossing, eh? You certainly do seem like the capable sort. If the rest of your group is anything like you, well...humanity just might stand a chance.{^n}{^n}Very well, I will be your armorer. Together, we will strike back against the invaders and retake Cairn for humanity!
+On second thought, it's time the hammer was passed on.
+Actually, I think I'll just be taking the hammer.
+I'll see you in Devil's Crossing. (Side with Angrim: Open Riftgate)
+It is time the hammer was passed on.
+It is true, Duncan brings a fresh approach to the forge with his arcane weapons and he goes about his work with unrivaled energy, but he still lacks the experience to make weapons for real soldiers and masters of the blade.{^n}{^n}I cannot have the power of Malleum Menhir wasting away when we are at war.
+I will see that his work benefits humanity. (Side with Duncan)
+You'd put him to work, eh? You certainly do seem like the capable sort.{^n}{^n}*Angrim sighs.*{^n}{^n}Very well, Duncan will inherit the Malleum Menhir. Take it to him. Let him do his charity work, but after that...
+Thank you. He and I will do great things.
+We could use your talents in Devil's Crossing.
+Guess I'll just take it by force then.
+
+Doesn't matter. I'm taking it, by force if I must.
+You don't really think I'm going to just let you take it, do you?
+Don't try to fight me for it.
+I don't just make weapons, you know. I know how to use them too.{^n}{^n}If you want the Malleum Menhir, you'll have to get it over my dead body.
+I'm sorry, I'm just trying to help Duncan.
+Don't make me ask again. (Side with Duncan)
+I see that you won't be reasoned with. So be it. Take the pride of my life from me.{^n}{^n}You are a mockery of what it means to be human in these trying times.
+Glad we came to an understanding.
+So be it. (Side with Duncan: Attack)
+I'm sorry, I'm just trying to help Duncan.
+Then I guess you have to die. (Side with Duncan: Attack)
+What are you doing out here?
+Same as you, I suppose. Seeking my purpose in our fight to save Cairn. The Black Legion is out there still and they could surely use a blacksmith.
+The Black Legion?
+The Black Legion? Death's Bannermen? Surely you've heard of the Imperium's elite? Or were you living under a rock before the Grim Dawn?
+Why are you looking for them?
+I heard solid rumors that some of the Legion escaped the chaos that broke out in the capital. I intend to seek them out and aid them in the fight against the invaders.
+
+Good luck in your search.
+
+I...um, nevermind.
+
+Farewell.
+Move along.
+Farewell.

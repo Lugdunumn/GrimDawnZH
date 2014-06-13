@@ -1,0 +1,139 @@
+tagTutorialTitle=Tutorial Help
+tagTutorialRollOver=Check this box to disable tutorial pop-ups. Once disabled they can be manually re-enabled from the HUD help button.
+tagTutorialOf=of
+tagTutorialDisable=Disable Tutorial Tips
+
+
+tagTutorialTip08Title=Welcome to Grim Dawn
+tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by a seven-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
+
+tagTutorialTip09Title=Merchant Window
+tagTutorialTip09TextA=Merchants buy and sell weapons and equipment necessary to survive the dangers of Cairn.
+tagTutorialTip09TextB=In these desperate times, good equipment doesn't come cheap. Merchants won't pay much for common items, but magically imbued gear can fetch a good price.{^n}
+
+tagTutorialTip10Title=Riftgates
+tagTutorialTip10TextA=Secured Riftgates allow you to traverse quickly between various locations in Cairn. Left-click on a Riftgate to open the {^y}Riftgate Map{^w}.
+tagTutorialTip10TextB=You have discovered the Lower Crossing Riftgate. The locations of all the Riftgates you discover in the future will be stored on the {^y}Riftgate Map{^w}.
+tagTutorialTip10SubtitleA=Personal Riftgate:
+tagTutorialTip10TextC=As an Aether-touched human, you are capable of opening {^y}Personal Riftgates{^w}. To activate your Personal Riftgate, click on the Rift Travel button on the HUD.
+tagTutorialTip10CaptionA=Shortcut key: {^b}{%t0}{^w}{^n}
+
+tagTutorialTip11Title=Personal Riftgate
+tagTutorialTip11TextA=Personal Riftgates can be opened anywhere in the world and are linked to the Riftgate network.
+tagTutorialTip11CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip11TextB=As with the larger Riftgates, left-click on your personal Riftgate to open the {^y}Riftgate Map{^w}. Select any destination on the map to travel there.
+tagTutorialTip11TextC=Your Riftgate will remain open until you return to it. While it is open, your party members may travel to it as well. You can only have one personal Riftgate open at any given time.
+
+tagTutorialTip14Title=Potions
+tagTutorialTip14TextA=Health and Energy Potions restore your character's health and energy, respectively. To drink a potion, click on its image on the Quickbar or press the assigned hotkey.
+tagTutorialTip14TextB=Potions are initially assigned to the last two Quickbar Slots. You can manually assign Potions to any Quickbar slot by right-clicking on an empty slot and selecting a potion from the menu.
+tagTutorialTip14TextC=To drink a Potion, click on its image in the Quickbar or press the assigned hotkey.
+
+tagTutorialTip15Title=Level Up
+tagTutorialTip15TextA=You have gained a level. Each time your character levels up, you will earn Skill and Attribute points.{^n}{^n}You can assign Skill points in the {^y}Skill Window{^w}.
+tagTutorialTip15CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip15TextB=You can assign Attribute points in the {^y}Character Window{^w}. Each Attribute point increases an attribute by eight.
+tagTutorialTip15CaptionB=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
+
+tagTutorialTip16Title=Character Window
+tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats.
+tagTutorialTip16SubtitleA=Inventory:
+tagTutorialTip16TextB=To equip an item, right-click it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by clicking on it and pressing the "{^b}{%t0}{^w}" key.
+tagTutorialTip16SubtitleB=Attribute Points: 
+tagTutorialTip16TextC=Spend attribute points by clicking on the "{^y}+{^w}" buttons to the left of the desired attribute. Each attribute point increases the attribute by 8.
+
+tagTutorialTip17Title=Skill Mastery
+tagTutorialTip17TextA=Choosing a skill mastery is a character-defining decision. Different masteries cater to very different play styles, so choose wisely.
+tagTutorialTip17TextB=Once you choose a mastery and apply skill points, you will not be able to revert your mastery selection.
+tagTutorialTip17TextC=You will have the option to select a second mastery when your character reaches level 10.
+
+tagTutorialTip19Title=Components
+tagTutorialTip19TextA=Components can be used to upgrade your equipment. They always come in fragments, which can be combined for more potent bonuses.{^n}{^n}Legends speak of rare components teeming with ancient power, denoted by a light yellow color.
+tagTutorialTip19TextB=To use a component, right-click on it. You can then merge it with another matching fragment or apply it to an item.
+
+tagTutorialTip20Title=Using Components
+tagTutorialTip20SubtitleA=Attaching Components
+tagTutorialTip20TextA=Right-click a component to select it, then left-click on the item you wish to attach it to. Note that each component can only go in certain item types.
+tagTutorialTip20SubtitleB=Combining Components
+tagTutorialTip20TextB=You can combine component fragments of the same name to create more powerful bonuses. A completed component will generate an additional completion bonus.{^n}{^n}Component fragments of the same type may be attached to items after the first fragment has been applied.
+
+tagTutorialTip21Title=Second Skill Mastery
+tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the Skill Window. You are not required to select a second mastery, but you will always have the option after reaching level 10.
+
+tagTutorialTip22Title=Skill Window
+tagTutorialTip22TextA=You will earn additional skill points each time you gain a level. Invest these skill points in your mastery level or unlocked skills.
+tagTutorialTip22SubtitleA=Mastery Level
+tagTutorialTip22TextB=If you invest skill points in your skill mastery, you will unlock new tiers of skills. You can increase your mastery level by clicking on the mastery button in the lower left of the {^y}Skill Window{^w}.
+tagTutorialTip22TextC=You must have at least one point in your mastery level to unlock the first skill tier.
+tagTutorialTip22SubtitleB=Skill Level
+tagTutorialTip22TextD=Click on an unlocked skill icon to add points to that skill. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
+tagTutorialTip22TextE=Green lines indicate connections to that skill's modifiers. You must have at least one point in the base skill before you can invest in its modifiers.
+
+tagTutorialTip23Title=Skill Assignment
+tagTutorialTip23TextA=Active skills (square icons) need to be assigned to your mouse buttons or Quickbar before you can use them.{^n}{^n}To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
+tagTutorialTip23SubtitleA=Using Skills
+tagTutorialTip23TextB=Activate skills on the Quickbar by left-clicking the icon, or by pressing the assigned shortcut.
+tagTutorialTip23TextC=Passive skills (circular icons) are always active and do not need to be assigned to the Quickbar. Once you assign points to them, they will immediately provide their benefits.{^N}{^N}
+
+tagTutorialTip24Title=Death
+tagTutorialTip24TextA=When your health reaches 0, your character will die.{^n}{^n}Take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When that is not enough, remember to use potions and skills to stay alive.
+tagTutorialTip24TextB=When you die, you will lose some experience and your character will respawn in the last sanctuary you visited. The experience penalty will increase as your character gains levels, but you can regain some of the lost experience by recovering your Grave Marker.
+
+tagTutorialTip30Title=Assign Your Skills
+tagTutorialTip30TextA=You have unassigned active skills. Active skills need to be assigned to the Quickbar or mouse buttons before you can use them.
+tagTutorialTip30TextB=To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
+
+tagTutorialTip31Title=Use Health Potions
+tagTutorialTip31TextA=When your health gets low, consider drinking a health potion. They have a long cooldown, but they restore you to full health. To drink a potion, click on the potion icon on the Quickbar or press the assigned hotkey. 
+tagTutorialTip31TextB=You will find potions in chests and from monsters, but you can always purchase more from any merchant if you find yourself running low.
+
+tagTutorialTip32Title=Use Earned Attribute and Skill Points
+tagTutorialTip32TextA=You have unassigned Attribute and/or Skill points. Attribute points can be used to increase your Cunning, Physique and Spirit by 8 per point. Skill points can be used to increase your mastery level, unlock new skills, or improve skills you have already unlocked.
+
+tagTutorialTip33Title=Learn Skills
+tagTutorialTip33TextA=You have been investing all of your skill points in the mastery level rather than acquiring skills. When you gain a level, try putting some of your skill points into skills instead.
+tagTutorialTip33TextB=To apply skill points to an ability, click on an unlocked skill icon in the {^y}Skill Window{^w}. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
+
+tagTutorialTip34Title=Visit a Merchant
+tagTutorialTip34TextA=If your inventory becomes full, you may wish to visit a merchant and sell unwanted items.
+tagTutorialTip34TextB=Merchants can be found in human-controlled sanctuaries, but you may also encounter traveling merchants out in the world. Look for the merchant symbol on the Compass or in the Map Window.
+
+tagTutorialTip35Title=Pets
+tagTutorialTip35TextA=Pets automatically travel and fight alongside you. If you wish to give your pets direct commands, you can hold down "{^b}{%t0}{^w}" while clicking on the desired pet in the lower left of the screen, then select a target.
+tagTutorialTip35TextB=You can dismiss your pets at any time by right-clicking their portraits and selecting "{^Y}Disband Pet{^w}".
+
+tagTutorialTip36Title=Skill Reallocation
+tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selections. Click on a skill icon in the Spirit Guide's UI to remove one point from that skill. The cost of doing so increases as you remove subsequent skill points.
+tagTutorialTip36TextB=You cannot remove points invested in your Mastery level. In addition, you cannot remove the last point from a skill that has any modifiers with points invested in them.
+
+tagTutorialTip37Title=Smuggler Window
+tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.
+tagTutorialTip37TextB=You can expand your storage by clicking the Expand Stash button. This will cost you some Iron Bits.{^N}{^N}Click on Item Transfer to share items with your other characters.
+
+tagTutorialTip38Tile=Item Transfer
+tagTutorialTip38TextA=Items placed in the Smuggler's Item Transfer UI are shared between all your characters (separated by Normal and Hardcore mode)
+tagTutorialTip38SubtitleA=Transfer Between Characters
+tagTutorialTip38TextB=To transfer items, place them in the Item Transfer UI. When you load another character, you can access these items from the Smuggler.
+tagTutorialTip38SubtitleB=Transfer Between Players
+tagTutorialTip38TextC=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead.
+
+tagTutorialTip39Title=Inventor
+tagTutorialTip39TextA=Inventors are capable of removing components from items. Either the item or the component is preserved in the process.
+tagTutorialTip39SubtitleA=Removing Components
+tagTutorialTip39TextB=The removal of components from items costs a fee proportional to the combined value of the item and the component. Place an item with a component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the component will be lost. The same goes in reverse.{^N}{^N}
+
+tagTutorialTip42Title=Blacksmith
+tagTutorialTip42TextA=The Blacksmith is capable of crafting items of great power. He is already an experienced craftsman and everything he creates comes with a small crafting stat bonus, but his knowledge can be expanded upon with the discovery of new blueprints.
+tagTutorialTip42SubtitleA=Blueprints
+tagTutorialTip42TextB=The Blacksmith will learn to craft new items when you discover new blueprints. Blueprints can be earned from quests, or found out in the world.
+tagTutorialTip42SubtitleB=Crafting
+tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Place the required items into the designated spaces in the UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Combine button to craft the item.{^N}{^N}
+
+tagTutorialTip43Title=Blueprints
+tagTutorialTip43TextA=Blueprints are forgotten templates for the creation of powerful items, which a Blacksmith can study.
+tagTutorialTip43TextB=To learn a blueprint, right-click on it. If you have not yet learned this blueprint, it will be added to your Blacksmith's list of items.{^n}{^n}Blueprints are stored across all characters (separated by Normal and Hardcore mode) and you can only learn each Blueprint once.
+
+tagTutorialTip44Title=The Blacksmith is Missing!
+tagTutorialTip44TextA=You have learned a new blueprint, but you do not have a Blacksmith capable of crafting the item for you.{^n}{^n}You must first find a Blacksmith before you can craft items.{^n}{^n}The Blacksmith will know how to craft this new blueprint immediately.
+tagTutorialTip44TextB=

@@ -1,0 +1,27 @@
+Eva
+Thank you again! You saved many lives.
+Glad I could help.
+You've returned! Do you have the Royal Jelly?
+Yes, here it is.
+That's perfect! You have no idea how helpful this will be! Please, take some for the road ahead. You never know when you'll need it. And please, let me show you how to make some yourself. It is the least we could do for saving so many lives.
+Thank you.
+I'll be right back.
+How is the hunt for the Royal Jelly?
+Where are the hives again?
+There are two large ones that I know of: one south of here near the Rocky Coast and another to the north near Twin Falls. Please hurry.
+I will get on it right away.
+Still gathering more.
+You'll have to forgive me, but I must to tend to the wounded.
+You have quite a few men injured.
+Yes, the battle with Cronley's brutes has proven taxing on our people. I'm afraid some of them won't make it through the night.
+Anything I could do to help?
+Oh? Why yes, there is! We are too few to leave this camp undefended, but you could seek out the wasp hives around Old Arkovia. There are two large ones that I know of: one south of here near the Rocky Coast and another to the north near Twin Falls.{^n}{^n}If you bring me some Royal Jelly, I could create an old Rover remedy known to vastly accelerate healing. Why, if you do this for us, I'll happily show you how it's made. It would be the least we could do.
+I will get you the Royal Jelly.
+I'm sorry. I can't do this right now.
+Is this enough Royal Jelly?
+That's perfect! You have no idea how helpful this will be! Please, take some for the road ahead. You never know when you'll need it. And please, let me show you how to make some yourself. It is the least we could do for saving so many lives.
+Thank you.
+I'm sorry.
+Farewell.
+Greetings, stranger. I'm sorry, but I cannot talk right now. I must tend to the wounded.
+I'll get out of your way.

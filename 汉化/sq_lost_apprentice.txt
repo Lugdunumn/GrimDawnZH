@@ -1,0 +1,20 @@
+Devil's Crossing
+The Inventor's Apprentice
+Find the Inventor
+Kasparov had sent out his apprentice, Darlet, to collect parts for his research and she has yet to return. If she is still alive, she is bound to be in one of the cellars in the Burrwitch Estates. {^n}{^n}Kasparov feels a little responsible for her current situation and has implored you to find her.
+Find Kasparov's Apprentice in the cellars beneath the Burrwitch Estates
+
+Portal the Inventor Out
+You found Kasparov's Apprentice, Darlet, in a cellar underneath the Burrwitch Estates. {^n}{^n}You should open a portal for her so she can travel back to Devil's Crossing.
+Portal Kasparov's Apprentice to safety
+Portal Inventor to Safety
+You found Kasparov's Apprentice, Darlet, in a cellar underneath the Burrwitch Estates. {^n}{^n}You should find a way to get her back to Devil's Crossing. She mentioned Kasparov might be able to help.
+Find a way to get Kasparov's Apprentice to safety
+Speak with Darlet
+Kasparov's Apprentice should be safe back in Devil's Crossing. {^n}{^n}Speak to her to see how she is recovering from her ordeal.
+
+Speak to Darlet in Devil's Crossing
+
+
+
+

@@ -1,0 +1,63 @@
+Alicia
+Have you delivered the scrap to Silas?
+I bribed him so he leaves you alone for good.
+Thank you! I never would have imagined that we would be free of this oppression, but it appears Silas' loyalty could be bought. Please, take the scrap we collected for the tribute. It is the least we could do.
+Thank you.
+Have you delivered the scrap to Silas?
+Yes, he seemed pleased.
+Thank you! This situation may not be ideal, but as long as we provide them with fish and scrap, they leave us alone.
+I wish I could do more.
+I'm afraid such is our lot in life. At least they keep the area safe from beasts. Goodbye, stranger, and thank you again.
+You're welcome. Take care.
+Good luck. Farewell.
+Yes, he seemed pleased.
+Thank you! He fled shortly after he heard the news that Cronley is dead. I guess he got himself one last tribute.
+You're welcome. Take care.
+We are finally free of the Cronley's oppression and it's all thanks to you.
+Glad I could help.
+News of Cronley's demise has spread like wildfire. Our overseer, Silas, fled at first word. We are finally free of the Cronley's oppression and it's all thanks to you!
+They should not bother you any more.
+I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
+Thank you.
+They should not bother you any more.
+I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
+Thank you.
+They should not bother you any more.
+I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
+Thank you.
+Thank you again for your help.This situation may not be ideal, but as long as we provide Silas and his group with fish and scrap, they leave us alone.
+I wish I could do more.
+I'm afraid such is our lot in life. At least they keep the area safe from beasts. Goodbye, stranger, and thank you again.
+You're welcome. Take care.
+Good luck. Farewell.
+I cannot believe you killed Silas. If he doesn't report back...oh no, no no...
+I will deal with the rest of his gang too.
+How could you do this to us? When Silas doesn't report back, his gang will investigate.
+I ended this extortion. His gang is next.
+Please, just go. I pray that we survive the night.
+I did what had to be done.
+Are you mad? I warned you not to harm Silas and you ignored my warnings. Why would you do this?
+This extortion must end.
+It's not that simple. Silas is just a lackey. This was a delicate situation and you handled it like a mindless brute!
+I will deal with his masters next. Goodbye.
+I'm handling this. Goodbye.
+Any luck out there?
+Where would I find some scrap?
+Most of the homes in the Arkovian Foothills have likely been scoured by now. I suppose someone like you could give the bandits a taste of their own medicine by raiding the Four Hills. Silas wouldn't have a clue. He knows we wouldn't dare come near the camps ourselves.
+Thank you. I'll handle this.
+Still gathering scrap.
+Are you mad? If any harm comes to Silas, the rest of his gang will be out for blood!
+I'm handling this. Goodbye.
+Unless you want to work, you should turn around and head back out of here. We have nothing to give and we don't need anyone stirring up trouble.
+What is happening here?
+What's happening is we're just trying to stay alive and that means toiling for Cronley's gang. We're a ragtag collection of survivors who either wandered in here looking for protection or were captured by Cronley's thugs and put to work. Cronley's men use us in whatever way they please and it's a hard life but this place is better than what we knew out there on the road. I'll endure anything to keep my daughter safe and, at least for now, she's too young for Cronley's men to bother with.
+Anything I can do to help?
+Silas over there makes sure that we stay in line and meet Cronley's quota. The waters have grown increasingly dangerous and we've struggled to catch enough fish but we can probably fill our nets in time for the tribute. We still have to gather scrap though.{^n}{^n}We cannot miss our quota. The last time that happened, Silas took one of the children back to his camp and we never saw her again. Please, if you truly want to help, gather the scrap for our tribute and deliver it to Silas. However bad things may seem for us, they can only get worse. Cronley's gang hold all the hills overlooking New Harbor and they're sure to notice if Silas went missing. The retribution would be severe, so please, don't do anything stupid. We're the ones who will suffer for it.
+Of course. I will help you with your tribute.
+I am sorry, I cannot help you.
+I could take you all to Devil's Crossing via a rift.
+A strange offer but we cannot leave. The refugees here have become like a family to one another. Some of the children are being held by Cronley's men as insurance against us leaving. We all look out for one another here and we know if any one of us left, those who remained would be punished for it.
+What did you need me to do then?
+I understand.
+Good luck with that. Goodbye.
+Just passing through. Goodbye.

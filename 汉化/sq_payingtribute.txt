@@ -1,0 +1,37 @@
+Old Arkovia
+Paying Tributes
+Deliver item or kill bandit
+Alicia from New Harbor in Old Arkovia. Her village is being extorted by the nearby bandits and the quota for their deliveries keeps increasing. With her people spread thin trying to collect enough fish for the tribute, they have fallen behind on their scrap collecting. If they do not deliver enough scrap to Silas, their overseer, he will undoubtedly execute someone. Alicia was very clear that no harm should come to Silas as she fears retribution. She has asked you to collect the missing scrap in the village's stead. The bandits have a stronghold on the Four Hills nearby that should have scrap.
+Collect Scrap
+Deliver the Scrap to Silas at New Harbor
+Return
+You have delivered the scrap to Silas, ensuring that New Harbor does not suffer the wrath of the bandits. You should let Alicia know that Silas is appeased.
+Return to Alicia at New Harbor
+
+
+Bribe Return
+You have bribed Silas to leave New Harbor alone. You should let Alicia know that the outlaws will leave them alone from now on.
+
+Return to Alicia at New Harbor
+
+
+
+Kill Silas
+You have opted to slay Silas rather than perpetrating the extortion happening at New Harbor. Kill Silas and end his tyranny over the fishermen.
+
+Kill Silas
+
+Silas Killed
+You have slain Silas, liberating New Harbor of the bandit influence. You should let Alicia know of your actions.
+Return to Alicia at New Harbor
+
+
+
+
+Silas Fled
+You have slain Cronley and scattered his gang. Silas fled before you had a chance to deal with him. Speak to Alicia about the good news.
+
+Return to Alicia at New Harbor
+
+
+

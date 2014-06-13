@@ -1,0 +1,7 @@
+Building Site
+This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it.{^n}{^n}It will take 12 Scrap and 3000 Iron Bits to repair.
+Not enough materials..
+Repair the Bridge to the Coast Road.
+Leave it.
+You have restored this bridge.
+Ok.

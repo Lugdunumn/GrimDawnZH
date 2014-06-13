@@ -1,0 +1,51 @@
+Quade
+I've hear that Darius is dead. I'm glad we're on the same side in this conflict.
+Farewell.
+You're always welcome at our camp.
+Farewell.
+How goes the hunt?
+"Moneybags" Martin is dead.
+You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
+You're welcome.
+How goes the hunt?
+Where should I be looking?
+You should find "Moneybags" Martin in Cronley's Hideout underneath the Four Hills.
+I'll head there now.
+Still looking.
+Ready to cause some more mayhem?
+What have you got for me?
+Somewhere inside Cronley's Hideout underneath the Four Hills there lives a bastard by the name "Moneybags" Martin. He earned his moniker exploiting poor travelers, such as my old group.{^n}{^n}A few months ago, Martin and his band caught us out on the road, demanding all our valuables. I refused... and for that he took my eye.{^n}{^n}That was the day I left my Rover elders, no longer willing to let this unforgiving world spit all over our pacifist lifestyle. Together with my brothers and sisters, we fight against our enemy instead of hiding and praying.{^n}{^n}I can't just leave them to pursue my revenge though. That is why I'd like you to be the deliverer of my vengeance. Find Martin, leave his corpse to rot in those tunnels. Then return to me.
+I'll find "Moneybags" Martin.
+Hm, no thanks.
+I've already slain "Moneybags" Martin.
+You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
+You're welcome.
+Not interested.
+How goes your mission?
+I have destroyed the forges.
+I could hear the commotion you've caused from here. Well done, your payment as promised. Now... I'm wondering if you would be up for a little more work.
+What did you have in mind?
+
+Not interested.
+I'll return shortly.
+How goes your mission?
+Where are the forges again?
+Cronley's gang has several weapon forges around the Four Hills, just east of here. If you destroy enough of them, you will cripple their ability to rearm themselves.
+I'm on it.
+Still working on it.
+You've returned. Got it in you to help us out?
+What do you need?
+Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
+We have a deal.
+You're right. It's not my problem.
+Welcome to our camp. What brings you here?
+Mornay sent me.
+Ah, so he did make it across the river. That man had enough bullets in him to take down five men. Still not sure we got them all out.{^n}{^n}If Mornay sent you, then he must think we can help each other out. Care to put those weapons of yours to use?
+What do you need?
+Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
+We have a deal.
+You're right. It's not my problem.
+
+Just passing through.
+Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
+Just passing through.

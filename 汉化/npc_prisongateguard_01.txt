@@ -1,0 +1,9 @@
+Rook
+Welcome back to Devil's Crossing. I'll let you through.
+Thank you.
+The Captain said you are good to go. Don't start any trouble.
+Thank you.
+I've heard about what you're doing for us, risking your life out there.{^n}{^n}You've more than earned your keep. Please, come inside and rest a while.
+Thank you.
+Sorry, but I can't let you enter. You'll need to be cleared by the Captain before I let you through.
+I'll speak to the Captain then.

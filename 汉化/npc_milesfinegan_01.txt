@@ -1,0 +1,31 @@
+Myles Finegan
+Welcome back! Do you have the dynamite?
+Here you go.
+Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It's commendable. Please, follow me inside so that I can properly reward you.
+Alright. Thank you.
+Hello, friend! How goes the search for the dynamite?
+Where should I be looking again?
+The bandits camped out on the Four Hills in Old Arkovia surely have dynamite. I suppose you could also check the local mines.
+I will get on it.
+Still working on it.
+What are you doing out here?
+I was out in the Broken Hills doing research for my book when the Grim Dawn struck. Cut off from civilized society, I did the best I could out on my own. I've managed to survive off of the local flora and fauna, though I have to say the increased bandit activity has not made living out here any easier. And now it appears that even nature itself is against me. If you had not found me...I don't dare think of it.
+I will return with the dynamite.
+Hello there, stranger. You don't have the look of a bandit about you. What brings such a well-armed adventurer way out here into the middle of nowhere?
+My business is my own. What are you doing out here?
+I do admit, a man of my stature on his own in harpy-infested mountains must be a strange sight. I was out here working on my book when the Grim Dawn struck. Stranded between the wilderness and vicious bandits, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
+Do you need any help?
+You truly are a godsend, stranger. The bandits camped out on the Four Hills in Old Arkovia surely have dynamite. I suppose you could also check the local mines. If you bring me some, we can clear the rockslide and I can retrieve my belongings. Perhaps there is something among them that you would find acceptable as compensation for your aid.
+Sure, I'll help you out.
+You're on your own.
+Is this enough dynamite?
+Why, yes that will do! Aren't you the resourceful type!
+Here you go.
+Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It's commendable. Please, follow me inside so that I can properly reward you.
+Alright. Thank you.
+Not my problem.
+I am here to stop the bandits from attacking my home.
+What a noble pursuit. After the Grim Dawn stranded me out here, I claimed a nearby cave as my home; but nature, it seems, has decreed that I die out here instead. An avalanche collapsed the entrance not a day ago. All of my food and belongings are inside.
+
+Not my problem.
+None of your concern.

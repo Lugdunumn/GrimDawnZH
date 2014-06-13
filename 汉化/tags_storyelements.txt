@@ -1,0 +1,603 @@
+#Region Names
+
+tagMapDevilsCrossing01=Devil's Crossing
+tagMapLowerCrossing01=Lower Crossing
+tagMapBurialHill=Burial Hill
+tagMapOldDump=The Old Dump
+tagMapFoggyBank=Foggy Bank
+tagMapBurrwitchRoad01=Foggy Bank
+tagMapWightmire01=Wightmire
+tagMapSoddenHollow=Sodden Hollow
+tagMapFloodedPassage01=The Flooded Passage
+tagMapBurrwitchOutskirts01=Burrwitch Outskirts
+tagMapMolderingFields=Moldering Fields
+tagMapMudRow=Mud Row
+tagMapBurrwitchVillage01=Burrwitch Village
+tagMapWardensCellar01=The Warden's Cellar
+tagMapWardensLabratory01=Underground Transit
+tagMapWardensLabratory02=Hidden Laboratory
+tagMapLaboratoryStorerooms=Abandoned Storerooms
+tagMapLaboratoryJail=Underground Jail
+tagMapLaboratoryLivingQuarters=Living Quarters
+tagMapLaboratoryInner=Inner Laboratory
+tagMapOminousLair=Ominous Lair
+tagMapLowerCrossing=Lower Crossing
+tagMapHallowedHill=Hallowed Hill
+tagMapBurrwitchSlums=Burrwitch Slums
+tagMapDumpingGrounds=Dumping Grounds
+tagMapAbandonedWaterfront=Abandoned Waterfront
+tagMapMerchantsRow=Merchant's Row
+tagMapBurrwitchCenter=Burrwitch Center
+tagMapBurrwitchEstates=Burrwitch Estates
+tagMapBrokenTeeth=Broken Teeth
+tagMapDevilsSpur=Devil's Spur
+tagMapNecropolis=Necropolis
+tagMapOldGrove=Old Grove
+tagMapVoidlands=Voidlands
+
+tagMapBrokenHills=Broken Hills
+tagMapOldArkovia=Old Arkovia
+tagMapArkovianFoothills=Arkovian Foothills
+tagMapKymons=Kymon's Retreat
+tagMapCoastRoad=Coast Road
+tagMapTwinFalls=Twin Falls
+tagMapFourHills=Four Hills
+tagMapRockyCoast=Rocky Coast
+tagMapNewHarbor=New Harbor
+tagMapBarrenHighlands=Barren Highlands
+tagMapCrumblingWatch=CrumblingWatch
+tagMapCronleysHideout=Cronley's Hideout
+tagMapJaggedWaste=Jagged Waste
+tagMapDeadmansGulch=Deadman's Gulch
+tagMapHighpass=High Pass
+
+tagMapLedgewood01=Ledgewood
+tagMapWitheringFields01=Withering Fields
+tagMapHomestead01=Homestead
+
+#Underground Names
+
+tagUGLowerCrossingRatDen01=Putrid Den
+tagUGBurrwitchVillageRatDen01=Festering Lair
+tagUGCellar01=Forgotten Cellar
+tagUGCellar02=Depraved Sanctuary
+tagBurrwitchCellar01=Infested Cellar
+tagBurrwitchCellar02=Dank Cellar
+tagBurrwitchCellar03=Musty Cellar
+tagWightmireCellar01=Cultist's Lair
+tagBurrwitchRiverCave=River Passage
+tagUGBurialCave=The Burial Cave
+tagUGWightmireCave01=Cavern
+tagUGDevilsCrossingAquifer=Devil's Aquifer
+tagUGDevilsCrossingDungeon01=Prison Dungeons
+tagUGDevilsCrossingHiddenPassage01=Convict's Tunnel
+tagUGBurrwitchFloodedCellars=Flooded Cellar
+tagUGBurrwitchOutskirtsBasin=Smuggler's Basin
+tagUGFloodedPassageRuin=Sunken Reliquary
+
+tagUGArkovianFoothills01=Staunton Mine
+tagUGArkovianFoothills02=Spined Cove
+tagUGOldArkovia01=Hanneffy Mine
+tagUGOldArkovia02=Arkovian Undercity
+tagUGOldArkovia03=Swarming Hive
+tagUGOldArkovia04=Stirring Hive
+tagUGOldArkovia05=Cronley's Hideout
+tagUGBrokenHills01=Spined Cove
+tagUGBrokenHills02=The Steps of Torment
+tagUGBrokenHills02A=Pain
+tagUGBrokenHills02B=Misery
+tagUGBrokenHills02C=Suffering
+tagUGBrokenHills02D=Anguish
+tagUGBrokenHills02E=Uroboruuk's Torment
+tagUGBrokenHills03=Forsaken Den
+tagUGBrokenHills04=Smuggler's Pass
+tagUGBrokenHills05=Screeching Hollow
+
+#Riftgate Names
+
+tagRiftDevilsCrossing=Devil's Crossing Rift
+tagRiftLowerCrossing=Lower Crossing Rift
+tagRiftBurrwitchRoad=Foggy Bank Rift
+tagRiftWightmire=Wightmire Rift
+tagRiftFloodedPassage=Flooded Passage Rift
+tagRiftBurrwitchOutskirts=Burrwitch Outskirts Rift
+tagRiftBurrwitchVillage=Burrwitch Village Rift
+tagRiftWardensCellar=Warden's Cellar Rift
+tagRiftWardensLabratory01=Underground Transit Rift
+tagRiftWardensLabratory02=Warden's Laboratory Rift
+
+tagRiftBrokenHills=Broken Hills Rift
+tagRiftOldArkovia=Old Arkovia Rift
+tagRiftArkovianFoothills=Arkovian Foothills Rift
+tagRiftCronleysHideout=Cronley's Hideout Rift
+tagRiftTwinFalls=Twin Falls Rift
+tagRiftHighPass=High Pass Rift
+tagRiftJaggedWaste=Jagged Waste Rift
+tagRiftDeadmansGulch=Deadman's Gulch Rift
+
+tagRiftWitheringFields=Withering Fields Rift
+tagRiftHomestead=Homestead Rift
+
+tagRiftRandom01=Chthonic Rift
+
+#World Map Labels
+
+tagWorldMapBurrwitchEstates=Burrwitch{^n}Estates
+tagWorldMapAbandonedWaterFront=Abandoned{^n}Waterfront
+tagWorldMapBurrwitchVillage=Burrwitch{^n}Village
+tagWorldMapHallowedHill=Hallowed{^n}Hill
+tagWorldMapMudRow=Mud{^n}Row
+tagWorldMapMolderingFields=Moldering{^n}Fields
+tagWorldMapBurrwitchGraveyard=Burrwitch{^n}Graveyard
+tagWorldMapBurrwitchOutskirts=Burrwitch{^n}Outskirts
+tagWorldMapTheFoggyBank=The Foggy{^n}Bank
+tagWorldMapSoddenHollow=Sodden{^n}Hollow
+tagWorldMapWightmire=Wightmire
+tagWorldMapTheOldDump=The Old{^n}Dump
+tagWorldMapBurialHill=Burial{^n}Hill
+tagWorldMapLowerCrossing=Lower{^n}Crossing
+tagWorldMapDevilsCrossing=Devil's{^n}Crossing
+tagWorldMapKymonsRetreat=Kymon's{^n}Retreat
+tagWorldMapArkovianFoothills=Arkovian{^n}Foothills
+tagWorldMapCrumblingWatch=Crumbling{^n}Watch
+tagWorldMapTheRockyCoast=The Rocky{^n}Coast
+tagWorldMapStauntonMine=Staunton{^n}Mine
+tagWorldMapNewHarbor=New{^n}Harbor
+tagWorldMapTheFourHills=The Four{^n}Hills
+tagWorldMapOldArkovia=Old{^n}Arkovia
+tagWorldMapTheStepsOfTorment=The Steps{^n}Of Torment
+tagWorldMapBrokenHills=Broken Hills
+tagWorldMapTwinFalls=Twin Falls
+tagWorldMapBarrenHighlands=Barren{^n}Highlands
+tagWorldMapSmugglersPass=Smuggler's{^n}Pass
+
+#Signs
+
+tagSign_BurialHill=Burial Hill
+tagSign_DevilsCrossing=Devil's Crossing
+tagSign_Wightmire=Wightmire
+tagSign_Burrwitch=Burrwitch Village
+tagSign_Malmouth=Malmouth
+tagSign_BrokenHills=Broken Hills
+tagSign_CoastRoad=Arkovian Foothills
+tagSign_EastMarsh=East Marsh
+tagSign_Homestead=Homestead
+tagSign_MistyVale=Misty Vale
+tagSign_RockyCoast=Old Arkovia
+tagSign_FoothillsVillage=Kymon's Retreat
+
+tagSign_OldGrove=Old Grove
+
+tagGravestone_OldArkovia01=Here Lies: Robert
+tagGravestone_OldArkovia02=Here Lies: Rockford
+tagGravestone_OldArkovia03=Here Lies: Ryan
+
+#Points of Interest
+
+tagPOI001A=Entrance
+tagPOI001B=Exit
+tagPOI002A=Stairs Down
+tagPOI002B=Stairs Up
+tagPOI003A=Cave Entrance
+tagPOI003B=Cave Exit
+tagPOI004A=River Crossing
+tagPOI005A=Wasp Nest Entrance
+tagPOI005B=Wasp Nest Exit
+tagPOI006A=Ancient Ruins Entrance
+tagPOI006B=Ancient Ruins Exit
+tagPOI007A=Mine Entrance
+tagPOI007B=Mine Exit
+
+tagPOIFloodedPassageA=Flooded Passage Entrance
+tagPOIFloodedPassageB=Flooded Passage Exit
+tagPOICaveBurialHillA=Burial Hill Entrance
+tagPOICaveBurialHillB=Burial Hill Exit
+tagPOIPrisonCellarA=Prison Cellar Access
+tagPOIWardensCellarA=Warden's Cellar Entrance
+tagPOIWardensCellarB=Warden's Cellar Exit
+tagPOIUndergroundTransitA=Underground Transit Entrance
+tagPOIUndergroundTransitB=Underground Transit Exit
+tagPOIArkovianFoothillsMineA=Staunton Mine Entrance
+tagPOIArkovianFoothillsMineB=Staunton Mine Exit
+tagPOIHomesteadPassageMineA=Smuggler's Pass Entrance
+tagPOIHomesteadPassageMineB=Smuggler's Pass Exit
+tagPOIOldArkoviaRuinsA=Arkovian Undercity Entrance
+tagPOIOldArkoviaRuinsB=Arkovian Undercity Exit
+tagPOIOldArkoviaRuins2A=Arkovian Undercity (Floor 2) Entrance
+tagPOIOldArkoviaRuins2B=Arkovian Undercity (Floor 2) Exit
+tagPOIOldArkoviaRuins3A=Arkovian Undercity (Floor 3) Entrance
+tagPOIOldArkoviaRuins3B=Arkovian Undercity (Floor 3) Exit
+tagPOIBrokenHillsMylesCaveA=Myles' Hideout Entrance
+tagPOIBrokenHillsMylesCaveB=Forsaken Den Exit
+tagPOIOldArkoviaMineA=Cronley's Hideout Eentrance
+tagPOIOldArkoviaMineB=Cronley's Hideout Exit
+tagPOIFesteringLairA=Festering Lair Entrance
+tagPOIFesteringLairB=Festering Lair Exit
+
+tagPOIStepsOfTorment1A=Steps of Torment Entrance
+tagPOIStepsOfTorment1B=Steps of Torment Exit
+tagPOIStepsOfTorment2A=Steps of Torment (Floor 2) Entrance
+tagPOIStepsOfTorment2B=Steps of Torment (Floor 2) Exit
+tagPOIStepsOfTorment3A=Steps of Torment (Floor 3) Entrance
+tagPOIStepsOfTorment3B=Steps of Torment (Floor 3) Exit
+tagPOIStepsOfTorment4A=Steps of Torment (Floor 4) Entrance
+tagPOIStepsOfTorment4B=Steps of Torment (Floor 4) Exit
+tagPOIStepsOfTorment5A=Steps of Torment (Floor 5) Entrance
+tagPOIStepsOfTorment5B=Steps of Torment (Floor 5) Exit
+
+tagPOIQuest_Burrwitch=Secure the Burrwitch Riftgate
+tagPOIQuest_WardenLab=Find the Warden's Lab
+tagPOIQuest_ArkovianFoothills=Enter the Arkovian Foothills
+tagPOIQuest_Elsa=Find Elsa
+tagPOIQuestHomestead=Homestead
+tagPOIQuestHomesteadBridge=Twin Falls Bridge
+tagPOIQuestHomesteadTown=Homestead Town
+tagPOIQuest_Sacrifice=Isaac's Stash
+tagPOIQuest_StrangeKey=The Depraved Sanctuary
+
+
+#Notifications
+
+tagNotification_WightmireBurialCaveFound=The source of the Dead is near...
+tagNotification_WightmireReanimatorFound=A creature is reanimating corpses!
+tagNotification_WightmireCaravanFound=This carnage looks recent...
+tagNotification_WightmireCaravanDriverFound=A prisoner calls for help!
+tagNotification_InventoryBagAcquired=Inventory Bag Acquired!
+tagNotification_BurrwitchRiftgateEvent=The Riftgate is swarming with enemies!
+tagNotification_BurrwitchRiftgateSecured=The Burrwitch Riftgate is clear of enemies!
+tagNotification_WardenCellarFound=This must be the Warden's Cellar...
+tagNotification_WardenLabFound=A laboratory, the Warden must be nearby...
+tagNotification_LostApprenticeCellar=Someone has been here recently...
+tagNotification_LostApprenticeFound=Kasparov's apprentice is here!
+
+tagNotification_HS_RemoveTheHead_ElsaFound=It appears that Cronley does not have Elsa...
+tagNotification_HS_SpoilsOfTheGrimDawn=You have scoured the old ruins.
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=You have found the bridge connecting Old Arkovia to Homestead.
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=You have discovered an alternate route to Homestead.
+tagNotification_HS_WeNeedFood_HomesteadRegionFound=You have discovered Homestead.
+tagNotification_HS_WeNeedFood_HomesteadTownFound=You have discovered the Homestead town.
+tagNotification_HS_OldArkoviaPassagesCompleted=You have completed the Arkovian Passage and examined its contents.
+tagNotification_HS_OldArkoviaPassagesBossKilled=You acquire a piece of the Tainted One's shattered soul!
+
+tagNotification_WarningToughArea=A presence far more powerful than you dwells within this place...
+tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
+
+#NPC Names
+
+tagNPC_JohnBourbon=Captain John Bourbon
+tagNPC_Kasparov=Kasparov
+tagNPC_Harmond=Harmond
+tagNPC_Barnabas=Barnabas
+tagNPC_SybilHart=Sybil Hart
+tagNPC_LutherGraves=Luther Graves
+tagNPC_Ulgrim=Ulgrim
+
+tagNPC_Direni=Direni
+tagNPC_CaptiveInventor=Darlet
+
+tagNPC_GuardA04=McCaul - Watchman
+tagNPC_Guard_DCRanged01=Mainard - Watchman
+tagNPC_Guard_DCRanged02=Russ - Watchman
+tagNPC_Guard_DCMelee01=Brigs - Watchman
+tagNPC_Guard_DCMelee02=Oxley - Watchman
+tagNPC_BountyBoard=Devil's Crossing Bounty Board
+
+tagNPC_Guard_Female01=Guardian
+tagNPC_Guard_Female02=Ranger
+
+tagNPC_DevilsCrossing_01=Jasper
+tagNPC_DevilsCrossing_02=Captive Rover
+tagNPC_DevilsCrossing_03=Isaac
+tagNPC_DevilsCrossing_04=Torven
+tagNPC_DevilsCrossing_05=Kuldo
+
+tagNPC_Homestead_01=Minova
+tagNPC_Homestead_02=Darius Cronley
+tagNPC_Homestead_03=
+tagNPC_Homestead_04=Drew Larkin
+tagNPC_Homestead_05=Edmund "Shanks" Doyle
+tagNPC_Homestead_06=Elizabeth Skinner
+tagNPC_Homestead_07=Isaiah Reddan
+tagNPC_Homestead_08=Josephine Reddan
+tagNPC_Homestead_09=
+tagNPC_Homestead_10=Milah Skinner
+tagNPC_Homestead_11=Myles Finegan
+tagNPC_Homestead_12=
+tagNPC_Homestead_13=
+tagNPC_Homestead_14=
+tagNPC_Homestead_15=Stephen Skinner
+tagNPC_Homestead_16=Mornay
+tagNPC_Homestead_17=Elsa
+tagNPC_Homestead_18=
+tagNPC_Homestead_19=
+tagNPC_Homestead_20=
+tagNPC_Homestead_21=Bernard
+tagNPC_Homestead_22=Alicia
+tagNPC_Homestead_23=Silas
+tagNPC_Homestead_24=Greven
+tagNPC_Homestead_25=Elder Mathias
+tagNPC_Homestead_26=Quade
+tagNPC_Homestead_27=Eva
+tagNPC_Homestead_28=Hiram
+tagNPC_Homestead_29=Kalderos
+tagNPC_Homestead_30=Balvoruuk
+
+tagNPC_Necropolis_01=Angela Harrington
+tagNPC_Necropolis_02=Douglass Sullivan Oldbarrow
+tagNPC_Necropolis_03=Lord Reginald Marrowbane
+tagNPC_Necropolis_04=Morris Burton
+tagNPC_Necropolis_05=Samantha Colton
+tagNPC_Necropolis_06=Stanley Larsen
+tagNPC_Necropolis_07=Nathan
+tagNPC_Necropolis_08=Jonas
+
+
+tagNPC_DetonationSite=Detonation Site
+
+tagNPC_BrokenHillsBridge=Arkovian Foothills Bridge Repair Site
+tagNPC_OldGroveBridge=Old Grove Bridge Repair Site
+tagNPC_HomesteadBridge=Twin Falls Bridge Repair Site
+tagNPC_WightmireBridge=Wightmire Bridge Repair Site
+tagNPC_BurrwitchBridge=Burrwitch Bridge Repair Site
+
+
+tagNPC_JosephClaxton=Joseph Claxton
+tagNPC_MariaFletcher=Maria Fletcher
+tagNPC_NathanielGage=Nathaniel Gage
+tagNPC_ByronHale=Byron Hale
+tagNPC_AliciaDrake=Alicia Drake
+tagNPC_OliverLott=Oliver Lott
+tagNPC_SybilGreene=Sybil Greene
+
+
+#Flavor NPC Names
+
+tagNPC_Jailor=Hangman Jarvis
+tagNPC_Villager=Villager
+tagNPC_Flavor_DevilsCrossing01=Constance
+tagNPC_Flavor_DevilsCrossing02=Jane
+tagNPC_Flavor_DevilsCrossing03=Alex
+tagNPC_Flavor_DevilsCrossing04=Gertrude
+tagNPC_Flavor_DevilsCrossing05=Marcus
+tagNPC_Flavor_DevilsCrossing06=Darian
+
+tagNPC_Flavor_Homestead_01=
+tagNPC_Flavor_Homestead_02=
+tagNPC_Flavor_Homestead_03=Helen Fletcher
+tagNPC_Flavor_Homestead_04=Julius Cole
+tagNPC_Flavor_Homestead_05=
+tagNPC_Flavor_Homestead_06=Jebediah
+tagNPC_Flavor_Homestead_07=Oskar
+tagNPC_Flavor_Homestead_08=Judith
+tagNPC_Flavor_Homestead_09=Oskar Jr.
+tagNPC_Flavor_Homestead_10=Injured Rover
+tagNPC_Flavor_Homestead_11=Amkala
+tagNPC_Flavor_Homestead_12=Horace
+
+tagNPC_Flavor_Necropolis_01=Dean Oldbarrow
+tagNPC_Flavor_Necropolis_02=Denny Oldbarrow
+tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
+
+
+#Quest Items
+
+tagQuestItemHartsAmulet_Name=Hart's Amulet
+tagQuestItemHartsAmulet_Text=^b"To my dear brother: May this amulet keep you strong in battle. -Sybil"
+
+tagQuestItemCultistKey_Name=A Strange Key
+tagQuestItemCultistKey_Text=^b"The key is marked with many strange runes and depraved symbols characteristic of the cult of Ch'thon."
+tagQuestItemDirections_Name=Direni's Directions
+tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
+
+tagQuestChestLostJournal=Dusty Lectern
+tagQuestItemLostJournal_Name=Cultist Orders
+tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
+
+tagQuestItemDynamite=Dynamite
+tagQuestItemDynamiteDesc=^b"A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
+tagQuestItemSupplies=Supply Crate
+tagQuestItemSuppliesDesc=^b"A crate filled with valuable materials and non-perishable goods."
+tagQuestItemSlithNecklace=Slith Necklace
+tagQuestItemSlithNecklaceDesc=^b"Carried by Slith Shamans, for only they know what."
+tagQuestItemFabric=Fabric
+tagQuestItemFabricDesc=^b"A little worn and stained, but otherwise in good condition."
+
+tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
+tagQuestItemSaltMineKey_Text=^b"The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
+
+tagQuestItemForgottenPassage=Forgotten Passage
+tagQuestItemForgottenPassage_Desc=^b"A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
+
+tagQuestItemSmithHammer=Malleum Menhir
+tagQuestItemSmithHammer_Desc=^b"An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+
+#Journals
+
+tagLoreObj_InquisitorCreedA01Name=Journal of Inquisitor Creed - 1st Entry
+tagLoreObj_InquisitorCreedA01codexTitle=Inquisitor Creed - 1st Entry
+tagLoreObj_InquisitorCreedA01Text=I am currently en route to the village of Burrwitch in order to investigate a number of strange incidents that have been reported in this area. As dusk is drawing near and the swamps of this region are said to be hazardous to travel at night, I've reluctantly taken up lodging at a small squalid tavern in Lower Crossing.{^n}{^n}Perhaps I am weary from my hurried travels but I feel as if there is a strange pressure and electricity to the air. It is almost akin to the still before a thunderous summer gale but yet the sun shines and not a cloud is to be seen.  Everything seems as it should, but in my gut I feel that something terrible will soon come to pass...
+
+tagLoreObj_InquisitorCreedA02Name=Journal of Inquisitor Creed - 2nd Entry
+tagLoreObj_InquisitorCreedA02codexTitle=Inquisitor Creed - 2nd Entry
+tagLoreObj_InquisitorCreedA02Text=As I was packing to resume my journey to Burrwitch, my assistance was urgently requested at a logging camp in the Old Grove west of Devil's Crossing, where strange animal attacks have left three lumbermen listless and pale.{^n}{^n}Upon arriving, I received a somber greeting from the foreman who informed me that the bitten workers had gone mad and fled the premises. They were reported to have spoken in an unknown tongue.  The foreman showed me the remains of the animals. Two gray foxes and a hound, suffering some sort of horrific mange, lay in a hastily dug pit behind the outhouse. The foreman told me the animals suddenly died when confronted by the workers and a strange green vapor emanated from their remains. Shortly afterward, the three lumbermen fell ill and their mental state rapidly deteriorated. It appears that my presence in this region is most warranted.
+
+tagLoreObj_InquisitorCreedA03Name=Journal of Inquisitor Creed - 3rd Entry
+tagLoreObj_InquisitorCreedA03codexTitle=Inquisitor Creed - 3rd Entry
+tagLoreObj_InquisitorCreedA03Text=I've finally arrived in Burrwitch after passing through the dismal area known as Wightmire. For years, tales of supernatural occurrences have circulated about Wightmire and indeed the name itself makes one uneasy. I hadn't put much stock in them but my recent experiences lend some credence to the old tales.{^n}{^n}Nevertheless, I have reached my destination and it seems the Warden of Devil's Crossing, who resides in Burrwitch, somehow anticipated my arrival. A footman greeted me as soon as I entered town and insisted I accept Krieg's invitation to be put up at his manor. I find this very peculiar but I have accepted the offer as it may be my best chance to investigate the manor itself.{^n}{^n}Going to make this entry short as I've just been summoned to join Krieg for supper in the dining hall. This should prove...  illuminating.
+
+tagLoreObj_InquisitorCreedA04Name=Journal of Inquisitor Creed - 4th Entry
+tagLoreObj_InquisitorCreedA04codexTitle=Inquisitor Creed - 4th Entry
+tagLoreObj_InquisitorCreedA04Text=I've been a guest to Warden Krieg at his manor for over a week now and my suspicions that something terrible is going on here grow with each day. Every day, I set out to some destination in or around Burrwitch to investigate yet another unusual crime or ominous rumor. Some are easily dismissed as more mundane human crimes or merely fantastic tales, but many of my investigations have come to darker conclusions. I feel there is a pattern emerging here but I cannot yet put the pieces together.{^n}{^n}These are peripheral cases though and the main purpose of my involvement in them is to give pretense for my prolonged stay in Burrwitch. Krieg himself has become the focus of my primary investigation. Despite an overwhelming conviction that Krieg is not what he appears to be and is almost certainly involved in some sort of unnatural activity, I have found no irrefutable evidence of wrongdoing that could be used to open an official inquiry.{^n}{^n}Much of the manor itself is closed off to me. There are rooms upstairs from which Krieg and other visitors come and go but I am not permitted to enter. Stranger yet, I've awoken in the night to sounds like the creaking of wagons moving along a road but then looked out my window down upon the village and seen nothing. Where are these sounds coming from? The game of cat and mouse continues but, as of yet, I am not certain who is the cat and who is the mouse...
+
+tagLoreObject_PrisonNoteName=Crudely Scrawled Note
+tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...
+
+
+tagLoreObj_LowerCrossingA01Name=Harbormaster's Log - Lower Crossing
+tagLoreObj_LowerCrossingA01codexTitle=Harbormaster's Log
+tagLoreObj_LowerCrossingA01Text=Autumn fogs are appearing early this year but traffic remains unusually high.  There is a steady flow of small craft coming down from Malmouth and other townships to the Nor'East. Some of these boats are barely afloat burdened with what looks like people's every possession. These travelers, sometimes entire families, bring with them strange tales of wars and the unnatural. Bunch'a hogwash riling up the soft townsfolk. Can't complain tho', keeps the dock busy. Most are Westbound, trying to get as far away as they can.{^n}{^n}The lads at the docks are starting to lose their nerve. Some have talked about setting out West themselves but I've assured them this is all nonsense and will pass. Youth are easily caught up in the energy of the moment.
+
+tagLoreObj_BurrwitchB01Name=Harbormaster's Log - Burrwitch
+tagLoreObj_BurrwitchB01codexTitle=Harbormaster's Log
+tagLoreObj_BurrwitchB01Text=Another boat arrived filled with hooded prisoners, dozens of 'em. As usual, a wagon was waiting for them but from what I hear, it doesn't take 'em far. One of the loading boys came back from Burrwitch after visiting that there new doctor and he said the wagon stopped outside the Warden's mansion. The lad asked 'bout the prisoners and one of the handlers said "rehabilitation". Not sure what to make of that.{^n}{^n}There's been o'er a dozen of these prisoner transports in as many weeks. I just don't see how they can fit 'em all in that mansion. I don't care how big that place may be, Krieg won't be keeping a prison's worth of no good thieves under his roof. Somethin' peculiar is going on there and it don't settle right in my stomach. Might have to send word up the lake to Malmouth, get one of them inquisitors down here to look into this curiosity. Can't say I want one o'them inquisitors poking around here much either though. They make a man uneasy.
+
+
+tagLoreObj_LowerCrossingA02Name=Francis' Note
+tagLoreObj_LowerCrossingA02Text=I'm trapped here...I realize now, I will die in this house.  Margaret, I fear that you are already dead and so it may not be so bad if I am shortly to join you.  If by some miracle, you yet live and return here to find this note, please know that I am not angry with you. I've never regretted our life together but now only regret that I lost my temper and spoke unkind words when last we parted.{^n}{^n}I hope you will not think me a coward for what I am about to do. They are already in the house. I've barricaded myself in this room but it is only a matter of time before they break through.  All I can do now is choose the manner in which I face death and I would rather die a man than be changed into one of those horrid things or eaten alive.  I will love you always...{^n}{^n}Francis
+
+tagLoreObj_WightmireA01Name=Missive to Wightmire Bloodbound
+tagLoreObj_WightmireA01codexTitle=Bloodbound Missive
+tagLoreObj_WightmireA01Text=The time has come to strike at our Aetherial nemesis in Wightmire. Even now, we gather our forces in the hills above Burrwitch for an assault on the Village. However, before that can happen, we must first secure Wightmire so that there are no enemies at our backs.{^n}{^n}Though strong, loyal and ready to die in the name of Ch'thon, I believe you have insufficient Bloodbound to overcome the Aetherials presence. We have had great success recently in bringing forth more powerful servants of Ch'thon from the Void. A single Harbinger could wipe out all of the Aetherians in Wightmire and even take on Devil's Crossing, which could serve as a stronghold for our order in this region.{^n}{^n}To bring forth a Harbinger, you will need the blood and lives of at least three men. Gather the sacrifices however you see fit; either from refugees on the road, rover camps or chosen amongst your own Bloodbound. Inform me of your success when it is complete.{^n}{^n}Ulto Treig, Grand Priest
+
+tagLoreObj_WardensJournalA01Name=Warden Krieg's Journal
+tagLoreObj_WardensJournalA01Text=I have taken possession of my assigned vessel, the local prison warden. I appeared to him in his bed chamber and proposed the joining. I had anticipated fear and skepticism but these humans are apparently all too ready to enter into any pact they believe will profit them. Krieg is not a particularly strong willed human but he is persistent and constantly scratches at my consciousness. I have him under control though.{^n}{^n}Krieg's position as an incarcerator of other humans will greatly facilitate our efforts. His expansive dwelling has a massive cellar that I believe we can use to fashion an underground transit to conceal our activities and the transport of bodies. There is much work ahead to prepare for our Glorious Dawn but I rather enjoy this physical body. It has many advantages.
+
+tagLoreObj_WardensLabA01Name=Gethrand's Notes - 1st Entry
+tagLoreObj_WardensLabA01Text=It is unclear why the Aetherials are so interested in tissue preservation. One of my colleagues has posited that they may intend to use human corpses as vessels for possession when they bring more of their kind into our realm.{^n}{^n}Wagon loads of corpses continue to stream in day and night. The sheer quantity is staggering and I begin to suspect that they are not merely executed criminals as we've been told.
+
+tagLoreObj_WardensLabA02Name=Gethrand's Notes - 2nd Entry
+tagLoreObj_WardensLabA02Text=We entered stage two of our trials today but the results were not what I had anticipated.  We've progressed to the point where the corpses can endure for months, possibly years, with minimal, mostly external, deterioration. Our Aetherial overseer seemed satisfied and he, or it, unexpectedly placed his hand upon one of the corpses and released a spark of aetherial energy. The thing began to move as if it were alive again. It was a ghastly sight.{^n}{^n}What I found far more troubling though is that these corpses are clearly not meant to serve as Aetherial hosts. It has become known to me that they prefer living hosts. The sheer number of corpses they are hauling through here suggests a far worse realization: an army.
+
+tagLoreObj_WardensLabA03Name=Gethrand's Notes - Final Entry
+tagLoreObj_WardensLabA03Text=This will be my last entry as I have determined to end my life. I cannot bring myself to carry out these abominable experiments any longer. I may have already doomed humanity with my actions. Though I have long felt shunned by my fellows at the academy and thought the Aetherials could offer me something greater, I can no longer be a part of this. I fear that if they find my body, they will use me for their experimentations, so I must be discreet. Returning as one of those...things would be unbearable.
+
+tagLoreObj_WardensLabB01Name=Zanbrandt's Notes
+tagLoreObj_WardensLabB01Text=My colleague Gethrand took his life today - that shortsighted fool. He could never see the big picture and this project was no different. Gethrand could not fathom the glorious vision of the Aetherials and the role we will play as early human collaborators. This isn't about personal gain. We will elevate humanity! Certainly there has been a cost in lives but progress always has a price. So what of the dirty masses who will perish in the Glorious Dawn when the Aetherials reveal themselves to the world. To the Aetherials we are like some base primitive creature, as the Slith are to us. Those of us who will serve, or better yet, bond with an Aetherial, shall forge a new human future.
+
+tagLoreObj_WardensLabC01Name=Missive to Warden Krieg
+tagLoreObj_WardensLabC01Text=Warden Krieg,{^n}{^n}Excuse this crude form of communication. I am far to the North and it seems my thoughts are unable to reach you. In all future material correspondence we will use our host names and common human language forms.{^n}{^n}I write looking for clarification of recent perplexing reports on your conduct.  Is it true that you have been incarcerating and tormenting humans?  What is the purpose for this?  It would seem that your host's predilections are affecting your own behavior. You must bring this under your control and cease this superfluous activity.  Your role is to facilitate our laboratories with the collection of corpses. Limit yourself to the parameters of this task or you will be recalled.
+
+tagLoreObj_VilagerNoteB01Name=Alister's Diary
+tagLoreObj_VillagerNoteB01Text=1st entry{^n}Momma told me to write in this thing, so I suppose now is as good as ever, seeing as I'm grounded, again! So I pulled Abigail's hair. She started it! Why doesn't she have to sit in her room and write in her stupid diary?{^n}{^n}Tomorrow, I'll catch the biggest frog I can find in the marshes and leave it in sister's room. We'll see how she likes that.{^n}{^n}2nd entry{^n}So Momma's been reading my diary and now I'm grounded again. The frog got out before sister even saw it! Why isn't Poppa home yet? He was supposed to take me out to Burrwitch today and he's still not back from business.{^n}{^n}Alister's Diary - 3rd entry{^n}Momma's saying that I'm not allowed to play outside anymore. Perkins said that there are monsters roaming the marshes, but Momma said there is no such thing and she whooped me with the ladle for talking rumors again. I wish Poppa would come home already. I want to go to Burrwitch!{^n}{^n}Alister's Diary - 4th entry{^n}I'm scared. I'm really really scared. Momma locked me and sister in my room while she checked out some noises behind the house. It's been forever and now I hear noises inside the house too. Poppa, please come home and make the noises go away. I don't care about Burrwitch anymore. Just please come home, Poppa.
+
+TagLoreObj_VillagerNoteH01Name=Abby's Note
+TagLoreObj_VillagerNoteH01Text=Town is falling apart around me. Those things are everywhere. God knows what's making them rise. Half of Burrwitch is in flames and still they continue to multiply. No sense trying to stick this out so I'm packing some basics and leaving immediately. I hear the north is all but overrun so I'll try my luck in the south, through Wightmire.{^n}{^n}Horace, if you are reading this note, I'll make camp at Devil's Crossing. Last place I'd want to end up on a good day, but the prison sounds safer than being out in the wild with those things about. Meet me there, if you're still alive.
+
+TagLoreObj_VillagerNoteJ01Name=Nora's Note
+TagLoreObj_VillagerNoteJ01Text=Third bunch of bandits this month. You would think that with all that's happened recently people would be a bit more willing to help out one another. But no, seems the world is still teeming with scum who would take advantage of a bad situation.{^n}{^n}If you are a friend of these dirt-bags, follow me and die. There is still room on my belt for a few more notches. If perhaps you are just another lost soul wandering these ruins, don't look for friends out here. People out here are just as likely to slit your throat for a few bullets as to point you in a safe direction. I'm not going to hesitate to fire the first shot, and neither should you.
+
+TagLoreObj_Kymon01Name=Kymon's Scripture: First Passage
+TagLoreObj_Kymon01codexTitle=Kymon - First Passage
+TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laugher anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
+
+TagLoreObj_OldArkovia_History01Name=Last Days of Arkovia
+TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words undiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+
+tagLoreObj_FloodedPassageRuins01Name=Writings of Rolderathis - 1st Entry
+tagLoreObj_FloodedPassageRuins01codexTitle=Rolderathis - 1st Entry
+tagLoreObj_FloodedPassageRuins01Text=The end of days is upon us! Glorious Arkovia, beacon of the west, is crumbling from within. But fear not, brothers and sisters, for we are the chosen of Ishtak.{^n}{^n}Here, upon the sacred ground of our forefathers, we shall be safe from the ruin brought about by the hubris of the oligarchs. Here, we shall outlast the immortal plague and return to the surface as the second dawn of man.{^n}{^n}It is with a heavy heart that I seal the entrance to our temple. May Ishtak have mercy on the damned souls beyond these walls. They will find no solace here.
+
+tagLoreObj_FloodedPassageRuins02Name=Writings of Rolderathis - 2nd Entry
+tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2nd Entry
+tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again to renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+
+#Random Burrwitch Notes
+tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
+tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
+
+tagLoreObj_BookA02Name=Ch'thonic Heresy - Page 2
+tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Ch'thonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
+
+tagLoreObj_BookA03Name=Ch'thonic Heresy - Page 3
+tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Ch'thonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
+
+tagLoreObj_BookA04Name=Ch'thonic Heresy - Page 4
+tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Ch'thonian shall become the fiery vengeance of divine retribution. Those that call the Ch'thonian god shall taste righteous flame. Justice be done.
+
+tagLoreObj_CriminalA01Name=Criminal Records - Page 1
+tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
+
+tagLoreObj_CriminalA02Name=Criminal Records - Page 2
+tagLoreObj_CriminalA02Text=Bloody Jack{^n}{^n}Reckless murderer and known worshipper of Solael, the heathen god. Reports have been received of Bloody Jack's signature murders, a carved throat and witch symbols etched into the left breast, appearing increasingly close to Burrwitch. Citizens are advised to avoid traveling alone and to steer clear of forest roads whenever possible.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 400 royal crowns is offered for the successful capture and delivery of Bloody Jack alive.
+
+tagLoreObj_CriminalA03Name=Criminal Records - Page 3
+tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Ch'thonian cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
+
+tagLoreObj_BookC01Name=Gildam Arcanum - Page 1
+tagLoreObj_BookC01Text=To understand the flows of the Aether, one must first learn to appreciate its inherent risks. The arcane art is not a plaything, nor is it a tool meant to be abused. Countless young arcanists have lost their lives to carelessness and malpractice. Proper control of the Aether requires years of practice under the careful supervision of the Gildam Arcanum, the only formal office sanctioned to instruct and research the art of the arcane. Do not confuse what is lectured here with the teachings of the hypothetical witch gods, a common misconception amongst the uneducated. There are no gods. There is only reality and the science of the arcane.
+
+tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
+tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
+
+tagLoreObj_BookD01Name=Origin of the Slith - Page 1
+tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
+
+tagLoreObj_BookD02Name=Origin of the Slith - Page 2
+tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
+
+tagLoreObj_BookD03Name=Origin of the Slith - Page 3
+tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
+
+tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
+tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
+tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
+
+#Random Old Arkovia Notes
+tagLoreObj_OldArkovia_NoteA01Name=Malros Khas' Journal
+tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
+
+tagLoreObj_OldArkovia_NoteB01Name=Passing Judgment
+tagLoreObj_OldArkovia_NoteB01Text=This is to be a record of the passing of the final verdict regarding the practice of necromancy and its prominence in Arkovian society.{^n}{^n}The grand court has reviewed the case of one Olurokk who had willfully and consciously committed the despicable act of raising the deceased form of his neighbor's wife and using her to torture and exploit the victim for personal pleasure and financial gain. Under the weight of undeniable evidence and witness reports, this court had no choice but to sentence the necromancer Olurokk to hanging until dead.{^n}{^n}This crime is but a drop in the well of the sins committed by necromancers in our land. The people have spoken and action must be taken. For this, and countless other crimes, against nature, against the gods and against Arkovia, let it be known that the practice of necromancy, the most vile of the ancient arts, is henceforth forbidden from the lands of Arkovia under the strictest of punishments. Those found ignorant of this proclamation shall be transported, without trial, to the Steps of Torment, where they shall be locked away to the last of their days in the deepest pits of Anguish.
+
+tagLoreObj_OldArkovia_BookA01Name=Forbidden Art - Part 1
+tagLoreObj_OldArkovia_BookA01Text=They whisper about us when they think we're not listening. They fear what we can do, and yet they crave it. It is only in man's nature to fear what he does not understand and our art is no different. Necromancy was never held in high regard in Arkovian society, but it is only in recent years that we have been treated with such growing animosity.{^n}{^n}Now with the recent formal decree from the high court we are not just outcasts, we are criminals. What they fail to understand is that the only crime committed that day was against the pursuit of knowledge and the advancement of our people. Already they are rounding up my brethren under the guise of justice and taking them deep into their den of torture they call the Steps of Torment. I suppose it is only a matter of time before they coming knocking on my door.
+
+tagLoreObj_OldArkovia_BookA02Name=Forbidden Art - Part 2
+tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n} Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
+
+tagLoreObj_OldArkovia_BookA03Name=Forbidden Art - Part 3
+tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
+
+
+#Guards
+
+tagNPC_GateGuardA01=Rook - Gate Keeper
+
+
+#Merchants and Other Services
+
+tagNPC_MerchantA01=Roan
+tagStoreTitle_MerchantA01=Salvage Dealer
+
+tagNPC_MerchantA02=Kerrick
+tagStoreTitle_MerchantA02=Salvage Dealer
+
+tagNPC_MerchantA03=Luther Graves
+tagStoreTitle_MerchantA03=Shady Dealer
+
+tagNPC_MerchantB01=Benny the Vagrant
+tagStoreTitle_MerchantB01=Connoisseur of Illicit Goods
+
+tagNPC_MerchantB02=Morris Burton
+tagStoreTitle_MerchantB02=Rare Goods
+
+tagNPC_MerchantC01=Marris Kas
+tagStoreTitle_MerchantC01=Wares of the Lost
+
+tagNPC_MerchantT01=Roving Dealer
+tagStoreTitle_MerchantT01=Roving Dealer
+
+tagNPC_SmugglerA01=Carlile
+tagStoreTitle_SmugglerA01=Smuggler
+
+tagNPC_ReallocatorA01=Mullone
+tagStoreTitle_ReallocatorA01=Spirit Guide
+
+tagNPC_InventorA01=Darlet
+tagStoreTitle_InventorA01=Inventor
+
+tagNPC_SmithA01=Angrim
+tagStoreTitle_SmithA01=Forgemaster
+tagStoreDesc_SmithA01_1={^b}Practiced Skill
+tagStoreDesc_SmithA01_2=Angrim uses his many years of experience to forge deadly weapons and fortify armor.
+tagStoreDesc_SmithA01_3= 
+tagStoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+tagNPC_SmithA02=Duncan
+tagStoreTitle_SmithA02=Arcane Blacksmith
+tagStoreDesc_SmithA02_1={^b}Arcane Forging
+tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and armor with arcane properties.
+tagStoreDesc_SmithA02_3= 
+tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+tagStoreTitle_SmithA01=Blacksmith

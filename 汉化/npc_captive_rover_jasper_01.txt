@@ -1,0 +1,13 @@
+Jasper
+Please, stay your weapon stranger; we're no outlaws! We were captured and put to work here in the mine. I hope you're here to set us free?
+You're slaves here?
+So it would seem and nothing is worse to a rover than being confined. We're part of a rover band that set up camp in a secluded part of Wightmire hoping to avoid trouble but trouble found us anyway.{^n}{^n}They captured four of us but young Larkin and two other men who were here already died from overwork. They just left their bodies down here with us... Rovers follow the path of peace but I can't help thinking the world is a better place since you sent those outlaws to meet their judgment.
+I can get you to Devil's Crossing using a riftgate.
+A riftgate? Curious. I thank you for your kind offer, but we should return to our people out in the swamps. That is our path.
+Very well.
+We will spread word of your deed. Should you ever find yourself in the company of the Rovers, you will always find a place beside our fire.
+Take care.
+I killed the bandits. You are free to go.
+
+Thank you again for giving us back our freedom. We will set out to rejoin our people once we've had a chance to rest.
+Travel safe.

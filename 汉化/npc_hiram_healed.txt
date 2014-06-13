@@ -1,0 +1,11 @@
+Hiram
+Thank you. You've done us all a great service.
+Glad I could help.
+Does the beast still live?
+Where should I be looking?
+Gulgoth, the Rampaging was last seen beyond the barricade down the road.
+I will slay it.
+Yes, I'm still searching.
+Thank you for your medical aid. I feel like new and ready to get out there again. But I dread the thought of facing the rogue troll that's been rampaging around these parts. It nearly killed me the first time. I don't want to give it another chance.{^n}{^n}Please, find and slay the beast. It's a danger to our camp and to all travelers. Look for it beyond the barricade, down the road.
+I will end the beast's life.
+I'm sorry, I can't help you.

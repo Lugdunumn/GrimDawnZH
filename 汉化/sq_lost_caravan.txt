@@ -1,0 +1,25 @@
+Devil's Crossing
+The Lost Caravan
+Found Caravan
+You happened upon a wrecked caravan along the road near the Foggy Bank. Though there are signs of a fight, no driver can be seen. {^n}{^n}Slith tracks and blood can be seen leading deeper into the swamp. Perhaps the driver yet lives. Check the Slith camps around the Foggy Bank for the unfortunate traveler.
+
+Search for the Caravan Driver at the Slith Camps along Burrwitch Road
+
+Speak to Caravan Driver
+Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
+Speak to the captured Caravan Driver
+Portal Luther Graves to Safety (Backup for old characters, should no longer be applicable)
+Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
+Speak to the captured Caravan Driver
+Check on Luther Graves in DC
+Luther Graves should be safe back in Devil's Crossing. {^n}{^n}Speak to him to see how he is faring.
+
+
+Speak to Luther Graves at Devil's Crossing
+
+
+
+
+
+
+

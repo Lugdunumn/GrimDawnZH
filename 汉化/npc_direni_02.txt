@@ -1,0 +1,18 @@
+Direni
+Well, well. Looks like the hero's here. Thanks for covering for me!
+Direni! I trusted you. Why?
+Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
+What if I want to join too?
+Hah! That's a good one. Darius warned me about the likes of you. Only place for you is in a ditch.
+So be it. Die! (Attack)
+You worthless scum! (Attack)
+You're pathetic. I regret ever trusting you. (Attack)
+Direni! You worthless traitor. (Attack)
+Well, well. Looks like I get to try out my new powers today.
+Aren't you from Devil's Crossing? Why are you doing this?
+Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
+What's your issue with Bourbon?
+I was a prisoner in Devil's Crossing back when it still served as an actual prison. When the world went down the slith hole, I stayed there with Darius and his group; it was the safest place I could think of. Clearly Bourbon thought the same when he showed up with the rest of the survivors. Things escalated quickly, but in the end Bourbon had more firepower. Those prisoners that survived were driven out and 'set free'.{^n}{^n}I hid when the fighting got ugly and bided my time. Came out later looking like just another refugee. Course, I kept myself busy. The water pump was my work, you know. After you restored the bridge, I returned to the boss. Things sure have changed since then!
+You're a worthless traitor! (Attack)
+You are nothing but scum. You deserve to die. (Attack)
+Abomination! (Attack)

@@ -1,0 +1,153 @@
+Mornay
+There are few people I hold in high regard, and I count you and Bourbon among them.
+Any other areas you explored?
+I've explored many regions after the Grim Dawn struck. What would you like to know about?
+What's to the Northwest?
+The roads to the Northwest are treacherous. The Aetherial presence there is less but foul creatures proliferate in the wilds and restless spirits walk the world. No less dangerous are the desperate and depraved humans stalking the roads, preying upon the weak. It's been the same with every region I've explored, either it is held by a powerful enemy force or else fought over by numerous lesser groups, each dangerous in their own way. The realm is shattered and I don't know how we can ever hope to put it back together.
+
+Thanks.
+What can you tell me about Homestead?
+Homestead is not going to be easy to reclaim. It's a real mess. Scattered Aetherial corruptions roam the fields but the Cult of Ch'thon has a strong presence. One of the most horrible things I've encountered, among a host of atrocities, are the Ch'thonic blood farms: row upon row of humans hanging from posts, some dead, some still living, their blood draining into catch basins like sap being collected from trees. I've heard the Ch'thonians use the blood to empower their sorcery and summon creatures up from the void. To make matters worse, gigantic terrifying insects as large as horses have infested some of the fields. I'd wager they slipped through the weakened veil between realities. Then there's the necromancers...
+
+Thanks.
+What's the furthest North you've gone?
+The further North you travel, the more you encounter strange anomalies caused by aetherial power: distortions in reality, swirling vortexes of energy, fields of aetherfire... it defies the senses. In some places, you can be killed by the air itself. There's no way to fight against that, you just have to run and hope you can run fast enough. Even if humankind eventually drives these outsiders back to their own realms, how are we going to restore the land?
+
+Thanks.
+What else is out there?
+I don't know whether this is just hopeful delusion or something more but a few of the drifters I encountered spoke of another human enclave in the mountains. They talked about a fortress built of salt rock that could repel any Aetherial attack. This fantasy doesn't consider that salt would dissolve in the rain. While that might be fanciful nonsense, there are quite a lot of old mines up in the mountains. It's possible some people found refuge in an old salt mine.
+
+Thanks.
+Actually, nevermind. Farewell.
+I spotted Elsa out there. She's still alive.
+You have no idea how relieved this makes me. I must go find her!
+Don't. She wants nothing to do with you.
+*Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
+It's good to let go.
+It's a dangerous journey. Don't risk it.
+I survived out there for weeks. Don't you worry about me.
+
+Nevermind.
+Yes, you should.
+Ah, back on the road again. Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
+Good luck.
+Farewell.
+Now that we're not in any imminent danger, we need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and our supply runs are coming up dry. We need a reliable source of food and we need it fast.{^n}{^n}Barnabas has some ideas as to what we can do. Speak to him immediately.
+I will speak to Barnabas.
+I must do something else first.
+Now that Devil's Crossing not in any imminent danger, you need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and supply runs are coming up dry. These people need a reliable source of food and they need it fast.{^n}{^n}Barnabas has some ideas as to what you can do. Speak to him immediately.{^n}{^n}Me? I'm heading out there again. I must find Elsa.
+I will speak to Barnabas.
+I must do something else first.
+Well? Is it finished?
+Darius is no more and his gang is scattered.
+The world is a little safer today with that monster dead. Now what of Elsa? You must have seen something?
+I spotted her out there. She's still alive.
+You have no idea how relieved this makes me. I must go find her!
+Don't. She wants nothing to do with you.
+*Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
+It's good to let go. What do we do now?
+It's a dangerous journey. Don't risk it.
+I survived out there for weeks. Don't you worry about me.
+
+Nevermind. What do we do now?
+
+Yes, you should.
+Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
+Good luck. What do we do now?
+
+I found no trace of Elsa. (Lie)
+
+Darius did not have Elsa.
+Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
+What do we do now?
+
+The world is a little safer today with that monster dead. Now on to our ongoing list of problems.
+What is it now?
+
+
+Later.
+How goes the campaign against Darius?
+Where do I need to go again?
+Head northwest out of Devil's Crossing and follow the road through the Arkovian Foothills until you enter Old Arkovia. The Four Hills are at the northern point. Darius' gang has several fortified camps around there, including an old mine shaft.{^n}{^n}When I last saw Quade, he was moving his group near Four Hills.
+I will handle it.
+Getting back out there soon.
+Good. Every minute wasted is more time Darius has to plan his next move.
+Bye.
+I found Elsa, she's still out there in the wild.
+You have no idea how relieved this makes me. I must go find her!
+Don't. She wants nothing to do with you.
+*Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
+It's good to let go.
+It's a dangerous journey. Don't risk it.
+I survived out there for weeks. Don't you worry about me.
+
+Nevermind.
+Yes, you should.
+Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me. We have to deal with Cronley first though.
+Good luck.
+Darius does not have Elsa.
+Damnation! Perhaps...perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
+Good luck.
+Darius Cronley...{^n}{^n}Last I've seen his face, they almost hung him for a double homicide. The Warden intervened at the last minute in favor of a life sentence in Devil's Crossing. Seems there were ulterior motives after all.{^n}{^n}Darius Cronley is the devil made manifest, devious and manipulative with a penchant for sin of every kind. He's the one running this gang and he's the one we need to go after next.
+Do you have a plan?
+We have to hit them fast and hard, leave no room for a counterstrike. I've only seen a portion of their operations in the region, but they are really entrenched on the Four Hills in Old Arkovia.{^n}{^n}"Shanks" surely wasn't Darius' only lieutenant, so find the rest and kill them. We don't want one of them taking over after Darius is dealt with. I don't have any names for you, but they will probably have equally clever prison names as our dead friend "Shanks".When that's finished, you need to cut off the head of this operation, Darius Cronley. If what I hear is true, you will find him hiding out in the mines underneath the Four Hills.{^n}{^n}Lastly, my scouting partner, Elsa, must still be out there with them. If I ventured a guess, Cronley has her in his clutches. Save her from that brute. I hear you are quite capable, so don't let me down.{^n}{^n}When you find yourself out there, I recommend you seek out a man by the name Quade. He and his group forsook the peaceful ways of the Rovers in favor of fighting back against the outlaws. And I'm glad they did. It was Quade's people that pulled me from the jaws of death.
+I will get on it.
+I will be back.
+What happened to Elsa?
+I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. Quade's band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world.
+I will get on it.
+I will be back.
+What was the plan again?
+
+I've already found Elsa.
+You have no idea how relieved this makes me. Once Cronley is dealt with, I'm heading out there. I must go find her!
+Don't. She wants nothing to do with you.
+*Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
+It's good to let go. Now what of Cronley?
+
+It's a dangerous journey. Don't risk it.
+I survived out there for weeks. Don't you worry about me.
+
+Nevermind. What of Cronley?
+
+Yes, you should.
+Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me. But now we have more important matters to attend to.
+Yes, you had a plan?
+
+Do you have a plan?
+We have to hit them fast and hard, leave no room for a counterstrike. I've only seen a portion of their operations in the region, but they are really entrenched on the Four Hills in Old Arkovia.{^n}{^n}"Shanks" surely wasn't Darius' only lieutenant, so find the rest and kill them. We don't want one of them taking over after Darius is dealt with. I don't have any names for you, but they will probably have equally clever prison names as our dead friend "Shanks".When that's finished, you need to cut off the head of this operation, Darius Cronley. If what I hear is true, you will find him hiding out in the mines underneath the Four Hills.{^n}{^n}When you find yourself out there, I recommend you seek out a man by the name Quade. He and his group forsook the peaceful ways of the Rovers in favor of fighting back against the outlaws. And I'm glad they did. It was Quade's people that pulled me from the jaws of death.
+I will get on it.
+I will be back.
+Well? Did they like our housewarming gift?
+I killed the man in charge, by the name "Shanks".
+You work fast. I like that. We'll need more of that for what's coming next.
+What's our next target?
+
+Still here? There's a bullet in my chest, but I will go out there myself if you insist.
+Where do I need to go again?
+We don't have time for this. Head northwest out of Devil's Crossing, across the bridge into the Arkovian Foothills. Seek out the outlaws and introduce yourself.
+On my way.
+I'm heading out.
+So you must be the kid that's been causing a stir in my absence. You've done good by dispatching Krieg. I knew that man in life, I dread to think of what he had become as an Aetherial.
+Captain Bourbon said to speak with you about the outlaws.
+Aye, an old mess has come back to finally bite us right in the ass. The river's kept them at bay for now, what with the broken bridge. It seems the bastards have garnered a taste for the one hole in the world they were once so eager to escape.{^n}{^n}I'm not going to beat around the bush. We're at war, and if we don't take the fight to them, they will surely bring it to us. I'd much rather fight on my own terms. Wouldn't you?
+What's the plan of action?
+Before we do anything, we'll need to get that bridge repaired. Got men ready to do the work and some scrap to get you started, just need to provide the remaining raw materials.{^n}{^n}Once that's all finished, I need you to enter the Arkovian Foothills and show those bastards we're not a prize for the taking. Last I saw of them, they were mobilizing for something big across the river. Why don't you head on over there and introduce yourself.
+Understood.
+What happened during your expedition to the northwest?
+I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. A band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world. We need to organize an offensive and every second counts!
+Don't you think you are mixing personal vendetta into this?
+The Grim Dawn took my wife. Elsa is like a daughter to me and I'm not going to let it take her too. Way I see it, Devil's Crossing needs this situation resolved as soon as possible and I want those scum dead for taking Elsa. Seems our goals align, eh?
+Very well.
+What's the plan of action?
+With the bridge northwest repaired, I need you to enter the Arkovian Foothills and show those bastards we're not a prize for the taking. Last I saw of them, they were mobilizing for something big across the river. Why don't you head on over there and introduce yourself.
+I already crossed the bridge and killed a man named "Shanks".
+Understood.
+What happened during your expedition to the northwest?
+I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. A band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world. We need to organize an offensive and every second counts!
+Don't you think you are mixing personal vendetta into this?
+The Grim Dawn took my wife. Elsa is like a daughter to me and I'm not going to let it take her too. Way I see it, Devil's Crossing needs this situation resolved as soon as possible and I want those scum dead for taking Elsa. Seems our goals align, eh?
+I already crossed the bridge and killed a man named "Shanks".
+Very well.
+Move along. I'm here to speak with the Captain.
+Goodbye.

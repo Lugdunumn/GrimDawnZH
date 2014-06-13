@@ -1,0 +1,11 @@
+Building Site
+This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}Unfortunately that content is not yet ready, so you cannot cross just yet!
+What! Where is the rest?!
+We are still working on the content beyond this point. Check back on our site for updates!
+Very well.
+This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}It will take 30 Scrap and 15000 Iron Bits to repair.
+Not enough materials.
+Repair the Bridge to Homestead
+Leave it.
+You have restored this bridge.
+Ok.

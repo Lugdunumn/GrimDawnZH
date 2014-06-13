@@ -1,0 +1,21 @@
+Bernard
+Welcome back to our humble camp. May your road be always safe and the wind ever at your back.
+Farewell.
+You've returned. Was your venture successful?
+I destroyed the barricade.
+A job well done!{^n}{^n}Thank you. You've done good by us, and we won't forget it.
+My pleasure.
+Hello again! How goes your search for the dynamite?
+Where should I be looking again?
+I reckon there should be some dynamite lying around Staunton Mine to the west.
+Thanks. I will get to it.
+Still searching. Goodbye.
+Greetings, stranger. A pleasure to meet someone who doesn't begin a meeting with weapons. Can't say the same for the gang up the hill to the east.
+You're having trouble with bandits?
+Violent and bloodthirsy murderers all of them. Everything we despise in this world. And now they've set up a barricade along the road to trap travelers such as ourselves. We've set up camp here while we decide what to do.{^n}{^n}The best course of action would be to blow that barricade, allowing our brothers and sisters of the road to travel in peace; however, we lack the means to do so. Say, you look like a capable sort. Let's make a deal. Staunton Mine to the west of here is abandoned, but it may have some explosives. If you recover some dynamite and use it to destroy that wretched blockade, I can offer you some coin for your troubles. What do you say?
+Sure, I'll help you out.
+I'm not interested.
+I already destroyed the blockade.
+You astound me, stranger.{^n}{^n}Thank you. You've done good by us, and we won't forget it.
+Always a pleasure to ruin an outlaw's day.
+Farewell.

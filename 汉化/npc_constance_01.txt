@@ -1,0 +1,37 @@
+Constance
+I'm... I'm sorry, I misjudged you. You do so much to keep us all safe.
+I take it these are your children?
+No, my children are dead. I left them alone at home while I went off to... visit our neighbor. Captain John found me hiding in the neighbor's cellar like a coward. What kind of mad gods would leave the innocent to be slaughtered while wretches like me are spared? Captain John brought me here, he gave me these children, Jane and Alex, to look after. Caring for them is the only thing that keeps me going.
+I'm sorry for your loss.
+How are Oscar and Judith doing?
+Those poor things. They've been through so much, but I think they're finally starting to warm up to Devil's Crossing.
+Will you be alright taking care of them?
+It is the least I can do for Captain John. I will raise these children the best I can.
+Thank you.
+Glad to hear it.
+Just doing my part.
+Did you find some fabric?
+Yes. Here it is.
+Great! This is more than enough to clean this place up a bit. Should also have some leftover to make some new clothes. Many people here are wearing nothing but rags.{^n}{^n}Oh, and please take this jacket. I've been working on these for Brigs and the other guards, but I think you've earned the first one.
+Thank you. Happy to help.
+Any luck out there?
+Where should I be looking again?
+The Waterfront in Burrwitch is where I would look. The docks received regular shipments of goods before the Grim Dawn. Hopefully there is some fabric left behind in the wreckage.
+I'll head to Burrwitch now.
+
+
+Still searching.
+I'm sorry if I insulted you earlier. Your origins were just a bit...startling.{^n}{^n}I hear that you brave the dangers beyond Lower Crossing. I was wondering if you could help gather some materials.
+What do you need?
+You see, I was a seamstress before the Grim Dawn. Nothing special, made just enough to get by. But now I see an opportunity to use my trade to make a difference around here.{^n}{^n}I would like to sew some new canopies, and maybe some new clothes if there is enough fabric left. Alex and Jane deserve better than this. If you could please gather any fabric you find, the people here would be grateful. The Waterfront in Burrwitch would be a good place to start looking.
+I will get the fabric.
+I have more important matters to attend to.
+Is this enough fabric?
+
+
+Goodbye.
+You're that one that was possessed! You stay away from me and the children or I'll scream and Captain John will come deal with you as he should have from the start!
+Calm down lady; I don't mean you any harm. I just wanted to talk.
+Please...just leave me alone and stay away from the children.
+As you say.
+Very well.

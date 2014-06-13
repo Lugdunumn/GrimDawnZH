@@ -1,0 +1,7 @@
+Building Site
+This bridge once connected the Burrwitch to SOMEPLACE. It must be restored before you can cross it.{^n}{^n}It will take 2 Scrap and 500 Iron Bits to repair.
+Not enough materials.
+Repair the Bridge to SOMEPLACE.
+Leave it.
+You have restored this bridge.
+Ok.

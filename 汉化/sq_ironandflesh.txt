@@ -1,0 +1,13 @@
+Devil's Crossing
+Flesh and Iron
+Kill Mutants
+Harmond's lust for the suffering of the Dead seems insatiable. He now wishes to hear news of the destruction of Fleshwarped mutants. You will likely find many of these monstrosities roaming around Burrwitch. {^n}{^n}Return to him after you have slain a few.
+Fleshwarped mutants Slain
+
+Return to Harmond
+You have killed enough Fleshwarped mutants to share gory stories with Harmond all through the night. {^n}{^n}Return to him in Devil's Crossing.
+Return to Harmond in Devil's Crossing
+
+
+
+

@@ -1,0 +1,146 @@
+John Bourbon
+What's with all the commotion?
+Direni was sabotaging us. He damaged the well pump!
+I trusted that son of a rifthound! Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.
+I do what I can.
+You are a real asset to this community. Anything I can do for you?
+
+Farewell.
+I trust that you are handling everything alright?
+
+Yes. Goodbye for now.
+The Warden's defeat is a great victory for us, nay for all of humankind, but there are many more Aetherials out there, some much more powerful than Krieg. Perhaps more disturbing though, there are those of our own kind who would see us dead to take what little we have or just for the pleasure of killing. Among the innocent who passed through this prison on their way to Krieg's lab were many violent criminals; murderers and worse. Many of them escaped to the northwest after the Grim Dawn, forming into ruthless gangs who prey upon drifters still traveling the roads.{^n}{^n}Since a river separates us and them, they have not been a problem thus far; except we need farmers to get back to the business of growing food before we all starve to death. The farmland that supplied this region is to the northwest and we need to secure a hold there. Mornay recently returned from Old Arkovia to the northwest and can give you details on the outlaw situation and what needs to be done.{^n}{^n}I realize that you have been through much in recent days, but we cannot rest just yet.
+I will speak to him.
+I need some time.
+I have some questions.
+I will answer what I can.
+How was Mornay able to explore Old Arkovia?
+The bridge was destroyed after his treck north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
+I have another question.
+What will happen to Burrwitch now?
+I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
+I have another question.
+How long do you think we can hold out here?
+With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
+I have another question.
+Now that the Warden lies dead, what is our next step?
+
+That is all for now.
+You mentioned the Warden is already dead. Tell me, what happened?
+
+Is it finished? Is the Warden dead?
+I tracked him down and took his life.
+
+Any luck tracking down the Warden?
+Not yet.
+Do not underestimate the Warden. He was a cruel man, being possessed likely did little to improve his disposition.
+I'll be careful.
+Good work! While you were gone, I dug through some of the files in this office, and I think we have our target. {^n}{^n}As you are acutely aware, Aetherials can possess humans and bend them to their will. {^n}{^n}I always had my suspicions, but now I have little doubt: The former Warden of this prison is possessed, well before the Grim Dawn in fact.
+How can you be sure?
+There have been countless holes in the prison records, prisoners just disappearing never to be seen again. The Warden's personal logs paint a more complete picture. {^n}{^n}He's been transferring prisoners into a secret facility underneath his mansion in Burrwitch Village for years. What for, I do not know but I'm sure it wasn't for rehabilitation. There are also several mentions of Aetherials and rift gates. {^n}{^n}I need you to find this man, or whatever he has become.
+Where can I find him?
+Warden Krieg owned a mansion in the northern district of Burrwitch Village. The logs indicate that his facilities can be reached via the cellar. {^n}{^n}I'm afraid I don't have more to go on, but if we want to strike back at the Aetherial power structure in the region, the Warden is our prime target.
+I will end the Warden's life.
+I need to think about this.
+The Warden is already dead.
+Is that so? Care to elaborate?
+I tracked him down and took his life.
+
+You mentioned you've already been to Burrwitch Village. Tell me, what is the situation there?
+
+Have you found a riftgate in Burrwitch? What's the situation out there?
+Swarming with Aetherial corruption, but the rift gate is secure.
+
+We need a secure way into Burrwitch Village. Everything hinges on it.
+Will do.
+One of my scouts came back with news, making our next move clear. {^n}{^n}The Dead are heavily concentrated in Burrwitch Village to the north, past the swamps of Wightmire. There must be a reason why. Perhaps the Aetherial behind these attacks is there. {^n}{^n}We can't know for sure without investigating deeper.
+How can I help?
+You've proven yourself quite resourceful thus far! {^n}{^n}Your ability to secure riftgates for human use could be a turning point in our situation. With all the activity around Burrwitch, there is bound to be a riftgate. {^n}{^n}If you can capture it, that will give us a solid foothold in the area.
+How do I get to Burrwitch?
+Follow the road north, through Wightmire. Though, in the current state of things, you will likely have to leave the road behind well before you reach the village. {^n}{^n}Keep pressing north and you will eventually reach the outskirts of Burrwitch. It's surrounded by a palisade wall, so you will have to find a way inside. {^n}{^n}Once you've secured the riftgate, return to Devil's Crossing.
+I'm ready.
+This sounds like suicide. Find someone else.
+I've already been to Burrwitch.
+That's excellent! What is the situation there?
+Swarming with Aetherial corruption, but the riftgate is secure.
+
+Good, you're back. I've heard good things from both Kasparov and Barnabas. You are a real asset to this community.
+Thank you.
+
+I'm still waiting for one of my scouts to report in.  {^n}{^n}Take some time to mingle with the other survivors and speak to Kasparov and Barnabas. It sounds like they could use your help.  {^n}{^n}Meet me in my office, inside the prison, when you're finished.
+I'll be off then.
+I'd like to ask a few questions.
+I'll try my best to answer them. You've earned that much.
+Where are Kasparov and Barnabas again?
+Both are outside the Prison. Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.
+
+I'm off to speak with Kasparov and Barnabas.
+The hangman called me 'Taken'. What did he mean?
+It's our word for those possessed by Aetherials. {^n}{^n}Taken can be difficult to distinguish from normal humans but you, or whatever possessed you, stumbled through the rift gate here and became trapped by Kasparov's wards. {^n}{^n}As you were dangling from the gallows, we watched as the spirit left your body to die. That was when I had Jarvis cut you down. {^n}{^n}I won't lie to you; it's not going to be easy for folks around here to get used to you... nature of the times.
+
+I'm off to speak with Kasparov and Barnabas.
+What is the situation here?
+You've gained us a small victory by killing the Reanimator, but our struggle is far from over.
+
+I'm off to speak with Kasparov and Barnabas.
+What are these Aetherials?
+That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary.  I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
+
+I'm off to speak with Kasparov and Barnabas.
+I need some time to plan our strategy. In the meantime, there are others around Devil's Crossing who could use your help. Take a moment to mingle with your fellow survivors. {^n}{^n}Kasparov, our resident scientist, is really eager to speak with you. He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials. {^n}{^n}Barnabas, our handyman, said he needed help with our water pump. When you're done assisting them, speak with me in my office inside the prison.
+I will speak to them.
+I've had enough for right now.
+Where can I find them?
+Both are outside the Prison. Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.
+Got it, I will go speak to them.
+I need some time.
+I'd like to ask a few questions.
+I'll try my best to answer them. You've earned that much.
+The hangman called me 'Taken'. What did he mean?
+It's our word for those possessed by Aetherials. {^n}{^n}Taken can be difficult to distinguish from normal humans but you, or whatever possessed you, stumbled through the rift gate here and became trapped by Kasparov's wards. {^n}{^n}As you were dangling from the gallows, we watched as the spirit left your body to die. That was when I had Jarvis cut you down. {^n}{^n}I won't lie to you; it's not going to be easy for folks around here to get used to you... nature of the times.
+I'll return.
+
+Where can I find Barnabas and Kasparov?
+What is the situation here?
+You've gained us a small victory by killing the Reanimator, but our struggle is far from over.
+I'll return.
+
+Where can I find Barnabas and Kasparov?
+What are these Aetherials?
+That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary.  I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
+
+I'll return.
+Where can I find Barnabas and Kasparov?
+The Dead attacks have slowed and their numbers are thinning. I take that as a sign that you've dealt with the source?
+I have killed the Reanimator.
+A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}I've sent word to the gate guard. Speak to him and he should let you in. Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
+Thank you.
+
+What is it now? The Dead are rising in droves and will overwhelm us with sheer numbers at the rate things are going! {^n}{^n}Head to Burial Hill and destroy whatever is reviving them!
+Where can I find Burial Hill again?
+Head out through Lower Crossing and make your way up to the road, there should be a signpost pointing to Burial Hill, just beyond town.  {^n}{^n}Go there and find out what's causing the dead to rise!
+On my way.
+
+I'm off to Burial Hill.
+
+You're not looking too bad for someone just back from the brink of death! You were Taken, possessed by the same creatures that have been reanimating these zombies here. {^n}{^n}Normally I'd have burned you with the rest, to be safe, but we've lost too many people to the Dead. I need someone expendable, someone with nothing to lose but a lot to gain. Right now, you're that person. {^n}{^n}Prove your worth to me and the survivors of Devil's Crossing may just welcome you.
+What is it you want me to do?
+The bodies of the dead are rising again in some horrible unlife. Corpses don't just get up and move around on their own. {^n}{^n}Something is reanimating our deceased with Aetherial energy. We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town. {^n}{^n}I want you to go to Burial Hill, find whatever is controlling those abominations and destroy it.
+Where can I find Burial Hill?
+You will need to fight your way through Lower Crossing. Once you've crossed the stream on the far side of town, there will be a beaten path leading up to Burial Hill. {^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too. Help us in our hour of need, and I will open Devil's Crossing to you.
+I'll find what's reanimating those corpses.
+I'll find what's reanimating those corpses.
+I need some time to consider all this.
+I'd like to ask about something else.
+Very well, but make it quick. The longer you linger, the more Dead gather at Lower Crossing.
+What is the situation here?
+That Aetherial really scrambled your memories, huh? The world has turned into a nightmare and there are things far worse than walking corpses out there. This old prison now serves as the last human refuge in these parts. {^n}{^n}We get the occasional drifter passing through here with tales of other sanctuaries, but nothing I've been able to confirm. I don't think there is much left of our kind beyond these walls but ruthless bandits, strange cults and greedy salvagers eager to make a profit even in these desperate times. {^n}{^n}You want my advice? Make yourself useful here. Your other option is to die out there.
+
+
+I'm off to Burial Hill.
+What are the Aetherials?
+That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary. I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
+
+
+I'm off to Burial Hill.
+Nevermind. Where can I find Burial Hill?

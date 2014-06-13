@@ -1,0 +1,24 @@
+Devil's Crossing
+A Cultist in the Midst
+Confront Direni
+You discovered a curious note within the ruins of Burrwitch.{^n}{^n}Inside, you found damning evidence that Direni at Devil's Crossing has been secretly in league with the Cult of Ch'thon, and is responsible for some of the recent troubles that have befallen the refuge.{^n}{^n}You should confront him before he has a chance to further sabotage the survivors' only sanctuary.
+Confront Direni at Devil's Crossing
+
+
+
+
+
+Kill Direni
+Upon seeing the evidence, Direni has become violent and threatens the safety of the denizens of Devil's Crossing. {^n}{^n}You must eliminate him before anyone gets hurt.
+
+
+Kill Direni
+
+
+Bring Note to Bourbon
+Direni is dead and John Bourbon of Devil's Crossing will surely want to hear an explanation. {^n}{^n}Bring the cultist note to him.
+Speak to John Bourbon
+
+
+
+

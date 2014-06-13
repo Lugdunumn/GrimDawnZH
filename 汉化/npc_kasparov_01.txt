@@ -1,0 +1,44 @@
+Kasparov
+You're back! Is there anything I can help you with?
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
+I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.  {^n}{^n}She mentioned you. You should speak with her.
+I'll do that.
+Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
+I'll keep looking.
+Ah, we've been so preoccupied with this riftgate business that I completely forgot about my apprentice, Darlet! {^n}{^n}I sent her out to the Burrwitch Estates to fetch parts for our research and she's been gone entirely too long. Seems her ineptitude carries beyond just the workstation.
+You lost your apprentice?
+I have to say, I do feel a little responsible for her now that she's my apprentice. Could you please go out there and find that hopeless girl?
+I will keep an eye out.
+She can take care of herself.
+Did you bring back the Aether Crystal fragments I require?
+Here they are.
+Excellent, these will do perfectly! I'll just place them into my device here and... oh my. That's not right, not at all. That pulse, it wasn't supposed to go off. Oh dear. One, two, three... yes, my fingers are still intact. Did it reach you too? How do you feel?
+I feel... stronger.
+Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+Um... I think we're done here.
+
+Um... I think we're done here.
+I'd be happy to speak with you, but I'm really busy with this prototype. Bring me back the Aether Crystal fragments and we can proceed further.
+Where can I find the Aether Crystals again?
+You'll be looking for large formations of crystals with an unnatural green glow. They are strewn about the landscape now, anywhere the Aetherials have left their mark. Shouldn't be too hard to find, especially around places with large concentrations of corpses. {^n}{^n}I'd check the graveyard. Be careful though. Those crystals are a bit unstable around the living.
+I'll bring some back.
+Welcome to my workshop! I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant! Evidently, cutting you off that noose was the best decision the Captain made that day... {^n}{^n}Ah! Where are my manners? I'm Kasparov, scientist and inventor. What brings you to my humble shop?
+The Captain said you wanted to speak with me?
+Riftgates, yes! The Aetherials use them to get around. I was working on a way to close them, but then you stumbled through ours! {^n}{^n}We have never seen a human, possessed or otherwise, pass through one before. Not a living one anyway. It was then that I realized that we could put these portals to use! {^n}{^n}There is something about you that is attuned to the riftgates and I intend to replicate it!
+Wait... I what?
+You don't remember anything, do you? I may have... taken some liberties while you were out cold. It was just a few tests, a blood sample or two. Nothing major. {^n}{^n}The results were... curious. It appears that your body is still teeming with residual Aether energies. Don't worry, you won't be growing any new limbs, probably. But I'm going on tangents here! I believe that, with a correctly tuned pulse of Aether energy, we can replicate this phenomenon in a controlled manner, as in without the need for pesky possession. I've been working on just the device to do it, but it needs power. For that, I require Aether Crystal fragments.
+Where can I find them?
+You'll be looking for large formations of crystals with an unnatural green glow. They are strewn about the landscape now, anywhere the Aetherials have left their mark. Shouldn't be too hard to find, especially around places with large concentrations of corpses. {^n}{^n}I'd check the graveyard. Be careful though. Those crystals are a bit unstable around the living.
+I'll bring some back.
+Sorry I don't have the time.
+Aether Crystals... like these?
+Excellent, these will do perfectly! I'll just place them into my device here and... oh my. That's not right, not at all. That pulse, it wasn't supposed to go off. Oh dear. One, two, three... yes, my fingers are still intact. Did it reach you too? How do you feel?
+I feel... stronger.
+Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+Um... I think we're done here.
+
+Um... I think we're done here.
+Ah, you must be the Taken! I heard about that mess at the gallows, grisly business. I don't care for it. {^n}{^n}I'm quite eager to learn more about you, but you really should speak to the Captain before wandering too much around the camp.
+Alright.

@@ -1,0 +1,54 @@
+Elsa
+ACCUSE OR NOT
+
+QUESTION ABOUT DISAPPEARANCES
+
+You again?
+Where's Mornay?
+You mean he came out here looking for me? That fool probably got himself eaten by a troll.
+You're awfully content with that.
+He and I never saw eye to eye. I don't wish anything evil upon him, but whether he lives or dies doesn't matter much to me either.
+Goodbye.
+Perhaps I should go look for him.
+Stuff.
+Goodbye.
+Looking for trouble? I've gutted punks much tougher than you, so just give me a reason.
+Do you happen to know Mornay from Devil's Crossing?
+Yes... I know Mornay. Idiot nearly got me killed out in Old Arkovia. Bandits got us in the night, drawn to his damned fire. They tied me up and dragged me back towards their camp, probably to share me with the rest of the gang.{^n}{^n}Shame for them they weren't very good at tying knots. I slit their throats while they slept and made off on my own.
+Why didn't you return to Mornay?
+Well, for starters I thought he was dead. But no matter. That fawning loser can't seem to get over the loss of his wife. Frankly, it felt like he was trying to make me a replacement. I didn't have any strong connections with Devil's Crossing, so I decided to see what else was out there.
+Should I tell him you're alive?
+Don't care either way what you do. Far as I'm concerned, we have nothing left to say to each other.
+
+
+Goodbye.
+What are you doing out here?
+I'm sorry, when did we become close friends?
+You don't see a lone traveler out here that often.
+Could say the same about you. If you must know, I'm traveling north. I've heard there are still some relatively untouched places in the mountains. If not, I've heard people are trying to establish a hold in Homestead and I'm sure they could use help; that place is a mess.
+Devil's Crossing is in the south. It's safe.
+I'd rather try my luck out here than be penned up with bad company in that old prison.
+
+
+Alright. Farewell.
+You're always welcome back in Devil's Crossing.
+Thanks but I have no plans to return there. I'd rather find my fate on the open road.
+
+
+Alright. Farewell.
+Good luck out there.
+Nevermind, sorry I asked.
+What can you tell me of this area?
+I can tell you it's swarming with trolls and harpies, and that your best bet would be to leave by whatever way you got here.{^n}{^n}I was headed for Smuggler's Pass, which leads through the mountains but found the way blocked by half-troll tribes. If you're not familiar with trolls and their ilk, they have a perverse predilection to abduct and keep humans as mates. That's not the fate I have planned for myself, so I'm biding my time, looking for another way through.
+I take it you have some experience with trolls?
+I'm not sure how you meant that but, in either case, no. I've never seen a troll until after the Grim Dawn, just heard the odd tales of travelers gone missing or abductions from villages in the mountains. Apparently there were a lot more of them living up in these remote parts than anyone realized.{^n}{^n}In some folklore, trolls are a primitive ancestor of humankind that never advanced beyond their bestial impulses. Others say they're the terrible result of generations of inbreeding among small mountain tribes. They're temperamental, greedy and extremely violent; with just enough cunning to be dangerous.
+
+
+Interesting. Thanks.
+
+
+Thanks for the info.
+NEW STUFF FOR ACT 3
+Things to say.
+Bye.
+Alright then.

@@ -1,0 +1,58 @@
+Silas
+I'm goin', I'm goin'. Got money to spend anyhow.
+Good.
+Back to work with ya. Quota's goin' up next week, ya know.
+I think I'm going to kill you this time.
+Ya watch yer litte mouth or I'll have to carve ya another.
+You die today. (Attack)
+Nevermind.
+Whatever you say.
+Back to work with ya. Quota's goin' up next week, ya know.
+Whatever you say.
+What ya comin' near me fer? Git back to work.
+What are you doing here?
+New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
+Extortion? Men like you deserve to die.
+A man might take that as a threat. Ya ain' threatenin' me, are ya?
+
+
+Perhaps I am. (Attack)
+Nevermind.
+
+I've got the scrap.
+What ya waitin' for then. Give it here.
+Will this suffice?
+Good, good. Now back to work with ya.
+Whatever.
+On second thought, I think I'd rather kill you.
+Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
+Fine, take the scrap and choke on it.
+
+No, I'm sure. You die. (Attack)
+Nevermind.
+How much coin would it take to make you leave?
+Now yer talking my language. Look, I don' much care for this joint and a bit o' coin sure might raise a man's reputation up above, see? Gimme 2500 Iron Bits and I'll tell Darius this place ain' worth the trouble no more.
+Just take the scrap.
+Deal. (Give 2500 Iron Bits)
+Good, good. Glad to be done with this slith hole. Now git out of my sight 'fore I change my mind.
+You better be gone when I return.
+Whatever you say.
+On second thought, I think I'd rather kill you.
+Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
+
+No, I'm sure. You die. (Attack)
+Nevermind.
+Nevermind.
+I think you should leave before someone gets hurt.
+
+No more scrap. You die today.
+Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
+
+No, I'm sure. You die. (Attack)
+Nevermind.
+Forget it.
+What ya comin' near me fer? Git back to work.
+What's going on here?
+New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
+Nevermind.
+I'm going.

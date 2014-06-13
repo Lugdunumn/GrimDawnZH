@@ -1,4 +1,4 @@
-Devil's Crossing
+Ä§¹íÂ·¿Ú
 Tale of Two Blacksmiths
 Speak to Angrim
 Duncan, a young blacksmith at a refugee camp in the Burrwitch Outskirts, has implored you to seek out his master, Angrim. Angrim left the camp recently, heading northeast, to seek out what he called "more capable" individuals. Duncan wishes to help the refugees survive by providing them with proper equipment, but for this he needs the Malleum Menhir, an ancient forging hammer in the possession of his master.{^n}{^n}If you recover the hammer from Angrim, then Duncan can make the lives of the refugees easier, after which he will gladly join you at Devil's Crossing.

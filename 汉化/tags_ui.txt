@@ -860,18 +860,18 @@ tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
 
 #SystemStatsSkillUI
 
-tagOptionsMenuReturn=Return to Game
-tagOptionsMenuSave=Save Game
-tagOptionsMenuExit=Exit to Main Menu
-tagOptionsMenuQuit=Quit to Desktop
-tagOptionsMenuOptions=Options Menu
-tagOptionsMenuGameSaved=Your game is Saved
-tagOptionsMenuAreUSure=Are you sure you want to exit to the main menu?
-tagInfoTitle=Information
-tagInfoButtonYes=Yes
-tagInfoButtonNo=No
-tagInfoButtonOk=OK
-tagGameOver=You are dead!
+tagOptionsMenuReturn=回到游戏
+tagOptionsMenuSave=保存游戏
+tagOptionsMenuExit=回到主菜单
+tagOptionsMenuQuit=退出到桌面
+tagOptionsMenuOptions=选项菜单
+tagOptionsMenuGameSaved=你的游戏已保存
+tagOptionsMenuAreUSure=你确定你要退出到主菜单吗？
+tagInfoTitle=信息
+tagInfoButtonYes=是
+tagInfoButtonNo=否
+tagInfoButtonOk=好
+tagGameOver=你死亡了！
 
 SimpleStringFormat={%s0}
 SkillBaseNamesFormat={    %s0}

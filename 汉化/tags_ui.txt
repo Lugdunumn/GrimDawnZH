@@ -819,8 +819,8 @@ tagStorageError01=You do not have enough gold to purchase a storage expansion.
 tagChatSend=发送给...
 tagChatCommand01=队伍
 tagChatCommand02=所有人
-tagChatCommand03=Reply
-tagChatCommand04=Tell
+tagChatCommand03=回复
+tagChatCommand04=告知
 
 #Maps
 
@@ -1236,7 +1236,7 @@ DamageDurationReduced= {^E}防御削减
 DamageDurationFire= {^E}燃烧伤害
 DamageDurationLife= {^E}活力衰减
 DamageDurationLifeLeach= {^E}生命吸取
-DamageDurationLightning= {^E}触电伤害
+DamageDurationLightning= {^E}电击伤害
 DamageDurationManaLeach= {^E}能量吸取
 DamageDurationOffensiveAbility= {^E}目标进攻能力降低
 DamageDurationOffensiveReduction= {^E}目标物理伤害降低
@@ -1279,25 +1279,25 @@ DamageModifierChaosR={%+.0f0}-{%.0f1}% {^E}混乱攻击
 DamageModifierAether={%+.0f0}% {^E}以太伤害
 DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}以太伤害
 DamageModifierKnockdown={%+.0f0}% {^E}击倒持续时间
-DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}Knockdown Duration
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}击倒持续时间
 
-DamageDurationModifierPhysical={%+.0f0}% {^E}Internal Trauma Damage 
-DamageDurationModifierBleeding={%+.0f0}% {^E}Bleeding Damage 
-DamageDurationModifierCold={%+.0f0}% {^E}Frostburn Damage 
-DamageDurationModifierFire={%+.0f0}% {^E}Burn Damage 
-DamageDurationModifierPoison={%+.0f0}% {^E}Poison Damage 
-DamageDurationModifierLightning={%+.0f0}% {^E}Electrocute Damage 
-DamageDurationModifierLife={%+.0f0}% {^E}Vitality Decay 
-DamageDurationModifierAttackSpeed={%+.0f0}% {^E}Slow Attack 
-DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}Slow Casting 
-DamageDurationModifierRunSpeed={%+.0f0}% {^E}Slow Movement 
-DamageDurationModifierLifeLeach={%+.0f0}% {^E}Life Leech 
-DamageDurationModifierManaLeach={%+.0f0}% {^E}Energy Leech 
-DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}Reduction in Target's Offensive Ability
-DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}Reduction in Target's Defensive Ability
-DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}Reduced target 物理伤害 
-ImprovedTimeFormat={^E}with {^H}{%+.0f0}% {^E}Increased Duration
-ImprovedTimeFormatR= {^E}with {^H}{%+.0f0}-{%.0f1}% {^E}Increased Duration
+DamageDurationModifierPhysical={%+.0f0}% {^E}内伤伤害
+DamageDurationModifierBleeding={%+.0f0}% {^E}流血伤害
+DamageDurationModifierCold={%+.0f0}% {^E}霜燃伤害
+DamageDurationModifierFire={%+.0f0}% {^E}燃烧伤害
+DamageDurationModifierPoison={%+.0f0}% {^E}毒素伤害
+DamageDurationModifierLightning={%+.0f0}% {^E}电击伤害
+DamageDurationModifierLife={%+.0f0}% {^E}活力衰减
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}攻击减速
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}施法减速
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}移动减速
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}生命吸取
+DamageDurationModifierManaLeach={%+.0f0}% {^E}能量吸取
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}目标进攻能力降低
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}目标防御能力降低
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}目标物理伤害降低
+ImprovedTimeFormat={^E}with {^H}{%+.0f0}% {^E}持续时间提升
+ImprovedTimeFormatR= {^E}with {^H}{%+.0f0}-{%.0f1}% {^E}持续时间提升
 
 RetaliationCold={%t0} {^E}Cold Retaliation
 RetaliationFire={%t0} {^E}Fire Retaliation
@@ -1452,52 +1452,52 @@ RacialBonusAbsoluteDefense={%.0f0} {^E}Less Damage from {%s1}
 RacialBonusRaceName={%s0}
 
 
-tagDamageSleep={^E}Put target to Sleep for {^H}{%t0} {%z1}
-tagDamageModifierSleep={%+.0f0}% {^E}Sleep Damage
-tagDefenseSleep={%.0f0}% {^E}Sleep Resistance
-tagDefenseSleepModifier={%+.0f0}% {^E}Sleep Resistance
-tagDamageModifierTotalDamage={%+.0f0}% {^E}Total Damage
-tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
-tagMindcontrolledMonster=Mind-controlled
-tagSparkMaxNumber=Affects up to {%d0} targets
+tagDamageSleep={^E}使目标睡眠 {^H}{%t0} {%z1}
+tagDamageModifierSleep={%+.0f0}% {^E}睡眠伤害
+tagDefenseSleep={%.0f0}% {^E}睡眠抗性
+tagDefenseSleepModifier={%+.0f0}% {^E}睡眠抗性
+tagDamageModifierTotalDamage={%+.0f0}% {^E}总伤害
+tagTotalSpeedResistance={%.0f0}% {^E}减速抗性
+tagMindcontrolledMonster=心灵控制
+tagSparkMaxNumber=最多影响 {%d0} 个目标
 
-tagItemGrantSkill=Grants Skill:
-tagItemSkill= (Granted by Item)
-tagItemSkillShort= (Item)
-tagEffect=Effect:
-tagSkillGrantEffect=Secondary Effect:
+tagItemGrantSkill=授予技能:
+tagItemSkill= (从物品获取)
+tagItemSkillShort= (物品)
+tagEffect=效果:
+tagSkillGrantEffect=次级效果:
 
-tagInspectTitle=Inspect
-tagInspectOption=Inspect Player
-tagInspectWarning=That player is too far away to be inspected.
-tagGroup01=PVP Enabled
-tagGroup02=Auto Group Enabled
-tagAutoItemSkill= (Granted by Item - Passive Activation)
-tagExclusiveSkill=Exclusive Skill - Only one Exclusive Skill can be active at any one time.
+tagInspectTitle=查看
+tagInspectOption=查看玩家
+tagInspectWarning=该玩家超出查看距离。
+tagGroup01=PVP开启
+tagGroup02=自动组队开启
+tagAutoItemSkill= (从物品获取 - 被动激活)
+tagExclusiveSkill=专有技能 - 同一时间只能激活一个专有技能。
 
-tagAutoSort=Auto Sort
-tagAttributeUndo=Undo
+tagAutoSort=自动整理
+tagAttributeUndo=撤销
 
-tagQuestItem=Quest Item
+tagQuestItem=任务物品
 
 
-tagCR_Jewelry=Jewelry:
-tagRelicError=You cannot apply a relic or charm to an Epic or Legendary item.
+tagCR_Jewelry=宝石:
+tagRelicError=你不能把一个圣物或符咒附到一个史诗或传奇物品上，
 
 tagExperienceDisplayFormat=现有经验 : {^y}{%t0}{^w}  ~  到达下一等级还需经验 : {^y}{%t1}
-tagCXP=XP : {%t0}
+tagCXP=经验值 : {%t0}
 tagDifficulty01=普通难度
 tagDifficulty02=史诗难度 
 tagDifficulty03=传奇难度
 tagGrave01=玩家坟墓 ~ {%t0}
 tagGrave02=死于 {%t0}
 tagGrave03=经验回收 : {%d0}
-tagHeroXPShort={%d0} Hero XP
-tagBossXPShort={%d0} Boss XP
-tagBossXPLong01=Boss Monster Killed
-tagBossXPLong02={%d0} XP Granted
-tagHeroXPLong01=Hero Monster Killed
-tagHeroXPLong02={%d0} XP Granted
+tagHeroXPShort={%d0} 英雄经验值
+tagBossXPShort={%d0} 头领经验值
+tagBossXPLong01=头领怪物击杀
+tagBossXPLong02={%d0} 经验获取
+tagHeroXPLong01=英雄怪物击杀
+tagHeroXPLong02={%d0} 经验获取
 
 tagPetBonusNameAllPets=为所有宠物加成:
 tagPetBonusNameOnePet=为 {%s0} 宠物加成:

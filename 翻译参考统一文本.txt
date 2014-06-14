@@ -1,5 +1,10 @@
 人名&地名&怪物名
 ==
+Silas塞拉斯
+
+Jasper 贾斯伯
+
+isaac 艾萨克
 
 Devil's Crossing 魔鬼路口
 
@@ -288,4 +293,3 @@ Undead 不死族
 The Black Legion 黑暗军团
 
 各种属性
-==

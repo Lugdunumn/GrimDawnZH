@@ -20,7 +20,7 @@ tagWeaponSwordA012=征服者
 tagWeaponSwordA013=马刀
 
 tagWeaponSwordB001=萨拉查的君权剑
-tagWeaponSwordB001Desc=^b“Granted to the Blade of Ch'thon for his unwavering service。”
+tagWeaponSwordB001Desc=“Granted to the Blade of Ch'thon for his unwavering service。”
 tagWeaponSwordB002=幽光阔剑
 tagWeaponSwordB003=幽光长剑
 tagWeaponSwordB004=抛光长剑
@@ -29,39 +29,39 @@ tagWeaponSwordB006=抛光的征服者
 
 tagWeaponSwordC001=避雷针
 tagWeaponSwordC002=猎犬之咬
-tagWeaponSwordC002Desc=^b"此剑的剑刃散发着腐化与堕落。"
+tagWeaponSwordC002Desc="此剑的剑刃散发着腐化与堕落。"
 tagWeaponSwordC003=预兆之剑
 tagWeaponSwordC004=疯狂
-tagWeaponSwordC004Desc=^b"扭曲的剑刃会使接触到它的人全部发疯。"
+tagWeaponSwordC004Desc="扭曲的剑刃会使接触到它的人全部发疯。"
 tagWeaponSwordC005=血肉切割者
 tagWeaponSwordC006=鲜血收割者之爪
 tagWeaponSwordC007=决斗士之剑
-tagWeaponSwordC007Desc=^b“此剑由历代剑术大师精心校准。”
+tagWeaponSwordC007Desc=“此剑由历代剑术大师精心校准。”
 tagWeaponSwordC008=执法官
-tagWeaponSwordC008Desc=^b“当仅仅贿赂政敌已不足以解决问题的时候，马尔茅斯的大法官会采取另一种解决之道。”
+tagWeaponSwordC008Desc=“当仅仅贿赂政敌已不足以解决问题的时候，马尔茅斯的大法官会采取另一种解决之道。”
 tagWeaponSwordC009=火焰烙印
 tagWeaponSwordC010=窃魂者
 tagWeaponSwordC011=燃冰
 tagWeaponSwordC012=Ritual Carver
 tagWeaponSwordC013=暗杀者的召唤
-tagWeaponSwordC013Desc=^b“这把剑嵌入了一小瓶能引起麻痹并最终致死的毒液。”
+tagWeaponSwordC013Desc=“这把剑嵌入了一小瓶能引起麻痹并最终致死的毒液。”
 tagWeaponSwordC014=眼盲刺客的剃刀
 tagWeaponSwordC015=圣约的血匕首
 tagWeaponSwordC016=威利的剃刀
-tagWeaponSwordC016Desc=^b“刀刃怎么砍也不会钝。”
+tagWeaponSwordC016Desc=“刀刃怎么砍也不会钝。”
 
 tagWeaponSwordD001=猩红之刺
-tagWeaponSwordD001Desc=^b“这把武器的持有者充满了对鲜血永无止境的饥渴。”
+tagWeaponSwordD001Desc=“这把武器的持有者充满了对鲜血永无止境的饥渴。”
 tagWeaponSwordD002=水晶剑
-tagWeaponSwordD002Desc=^b"A Soladrin crystal blade teeming with untapped power."
+tagWeaponSwordD002Desc="A Soladrin crystal blade teeming with untapped power."
 tagWeaponSwordD003=残酷命运
 tagWeaponSwordD004=心灵扭曲
 tagWeaponSwordD005=贝若纳斯，重铸之剑
-tagWeaponSwordD005Desc=^b"The slayer of Beronath once broken, reforged at last."
+tagWeaponSwordD005Desc="The slayer of Beronath once broken, reforged at last."
 tagWeaponSwordD006=死亡
-tagWeaponSwordD006Desc=^b“看着这把剑，你能感受到自己的死期。”
+tagWeaponSwordD006Desc=“看着这把剑，你能感受到自己的死期。”
 tagWeaponSwordD007=花园
-tagWeaponSwordD007Desc=^b“只要看到这把武器，你的内心就会充满希望”
+tagWeaponSwordD007Desc=“只要看到这把武器，你的内心就会充满希望”
 
 
 tagWeaponBluntA000=木棒
@@ -78,7 +78,7 @@ tagWeaponBluntA010=节杖
 
 tagWeaponBluntB000=火炬
 tagWeaponBluntB001=典狱长的裁决
-tagWeaponBluntB001Desc=^b“不知道有多少无辜的人死于这把武器的摆布。”
+tagWeaponBluntB001Desc=“不知道有多少无辜的人死于这把武器的摆布。”
 tagWeaponBluntB002=典狱长的审判
 tagWeaponBluntB003=巨魔捣骨锤
 tagWeaponBluntB004=巨魔碎骨锤
@@ -86,35 +86,35 @@ tagWeaponBluntB005=幽光晨星锤
 tagWeaponBluntB006=幽光大头棒
 tagWeaponBluntB007=基尔利安的碎颅锤
 tagWeaponBluntB008=剥皮人的火炬
-tagWeaponBluntB008Desc=^b"A desperate man's last hope..."
+tagWeaponBluntB008Desc="A desperate man's last hope..."
 tagWeaponBluntB009=Adept's Bladed Mace
 tagWeaponBluntB010=熟工晨星锤
 tagWeaponBluntB011=熟工凸缘钉头锤
 
 tagWeaponBluntC001=Aetherwoe
 tagWeaponBluntC002=Anarchy
-tagWeaponBluntC002Desc=^b"This once holy scepter has been twisted into its current form after being anointed with the living blood of Ch'thon."
+tagWeaponBluntC002Desc="This once holy scepter has been twisted into its current form after being anointed with the living blood of Ch'thon."
 tagWeaponBluntC003=Touch of Malice
-tagWeaponBluntC003Desc=^b"A despicable weapon that has claimed countless human lives."
+tagWeaponBluntC003Desc="A despicable weapon that has claimed countless human lives."
 tagWeaponBluntC004=Guardsman's Hammer
 tagWeaponBluntC005=Blackwood Wand
 tagWeaponBluntC006=Sacred Hammer of Eternal Wrath
 tagWeaponBluntC007=Blessed Torch
-tagWeaponBluntC007Desc=^b"The burning hammer of the Guardians of Menhir."
+tagWeaponBluntC007Desc="The burning hammer of the Guardians of Menhir."
 tagWeaponBluntC008=Spiritcrusher
 tagWeaponBluntC009=Defiance
-tagWeaponBluntC009Desc=^b"The embodiment of the adaptability of mankind."
+tagWeaponBluntC009Desc="The embodiment of the adaptability of mankind."
 tagWeaponBluntC010=Aethersteel Arbiter
 tagWeaponBluntC011=Fist of the Blind Assassin
 
 tagWeaponBluntD001=Death Omen
-tagWeaponBluntD001Desc=^b"The harbinger of death."
+tagWeaponBluntD001Desc="The harbinger of death."
 tagWeaponBluntD002=Beacon of the Winter's Veil
 tagWeaponBluntD003=Agony
 tagWeaponBluntD004=Herald of the Apocalypse
-tagWeaponBluntD004Desc=^b"Rumored to have torn open the first rift at the beginning of the Grim Dawn."
+tagWeaponBluntD004Desc="Rumored to have torn open the first rift at the beginning of the Grim Dawn."
 tagWeaponBluntD005=Pestilence of Dreeg
-tagWeaponBluntD005Desc=^b"Bearer of the seven plagues of the witch god Dreeg."
+tagWeaponBluntD005Desc="Bearer of the seven plagues of the witch god Dreeg."
 tagWeaponBluntD006=Dawnbreaker's Sledge
 
 
@@ -135,30 +135,30 @@ tagWeaponAxeB003=Pit Master's Axe
 
 tagWeaponAxeC001=Cruel Edge
 tagWeaponAxeC002=Reaper's Touch
-tagWeaponAxeC002Desc=^b"An ancient implement of ritual sacrifice, forged by a long-dead people."
+tagWeaponAxeC002Desc="An ancient implement of ritual sacrifice, forged by a long-dead people."
 tagWeaponAxeC003=Gorefeast
 tagWeaponAxeC004=Bloodreaper's Cleaver
 tagWeaponAxeC005=Storm's Edge
 tagWeaponAxeC006=Krieg's Cleaver
-tagWeaponAxeC006Desc=^b"A cruel weapon owned by a cruel man."
+tagWeaponAxeC006Desc="A cruel weapon owned by a cruel man."
 tagWeaponAxeC007=Maleficus
 tagWeaponAxeC008=Doomsaw of Gluttony
 tagWeaponAxeC009=Thirsting Maw
 tagWeaponAxeC010=Immaterial Edge
-tagWeaponAxeC010Desc=^b"The edge of this weapon harnesses the Aether itself."
+tagWeaponAxeC010Desc="The edge of this weapon harnesses the Aether itself."
 tagWeaponAxeC011=Notched Bone of a Thousand Deaths
-tagWeaponAxeC011Desc=^b"Every notch is a life claimed."
+tagWeaponAxeC011Desc="Every notch is a life claimed."
 tagWeaponAxeC012=Corpse Desecrator
 tagWeaponAxeC013=Chonag'Ri
-tagWeaponAxeC013Desc=^b"A shamanistic axe comprising of various unidentifiable human and animal bones."
+tagWeaponAxeC013Desc="A shamanistic axe comprising of various unidentifiable human and animal bones."
 
 tagWeaponAxeD001=The Butcher of Burrwitch
-tagWeaponAxeD001Desc=^b"Embodiment of the madness and depravity that overwhelmed the people of Cairn following the Grim Dawn."
+tagWeaponAxeD001Desc="Embodiment of the madness and depravity that overwhelmed the people of Cairn following the Grim Dawn."
 tagWeaponAxeD002=Crescent Moon
-tagWeaponAxeD002Desc=^b"Blessed weapon of moon worshippers, thought destroyed during the Sacred Purge."
+tagWeaponAxeD002Desc="Blessed weapon of moon worshippers, thought destroyed during the Sacred Purge."
 tagWeaponAxeD003=Brutallax
 tagWeaponAxeD004=Earthsplitter
-tagWeaponAxeD004Desc=^b"Legends speak of a mortal who, when beseeched by the gods, cleaved Mount Menhir in two, forming Menhir's Twins."
+tagWeaponAxeD004Desc="Legends speak of a mortal who, when beseeched by the gods, cleaved Mount Menhir in two, forming Menhir's Twins."
 tagWeaponAxeD005=Damnation
 
 
@@ -178,26 +178,26 @@ tagWeaponGun1hB002=Hand Mortar
 tagWeaponGun1hB003=Shrapnel Pistol
 
 tagWeaponGun1hC001=Leander Greene's Hand Cannon
-tagWeaponGun1hC001Desc=^b"Taken from the cold dead hands of the Blackwater bandit."
+tagWeaponGun1hC001Desc="Taken from the cold dead hands of the Blackwater bandit."
 tagWeaponGun1hC002=Witchstalker
-tagWeaponGun1hC002Desc=^b"Infused with dark magic to battle foul abusers of the arcane on their own terms."
+tagWeaponGun1hC002Desc="Infused with dark magic to battle foul abusers of the arcane on their own terms."
 tagWeaponGun1hC003=Orwell's Revolver
-tagWeaponGun1hC003Desc=^b"The old priest wasn't known for his peace talks."
+tagWeaponGun1hC003Desc="The old priest wasn't known for his peace talks."
 tagWeaponGun1hC004=Marauder's Fury
 tagWeaponGun1hC005=Marauder's Justice
 tagWeaponGun1hC006=The Slugger
 tagWeaponGun1hC007=3rd Company's Revolver
-tagWeaponGun1hC007Desc=^b"Inscribed on the barrel is a single word: Loyal."
+tagWeaponGun1hC007Desc="Inscribed on the barrel is a single word: Loyal."
 tagWeaponGun1hC008=Mutiny
 tagWeaponGun1hC009=Outlaw's Retribution
-tagWeaponGun1hC009Desc=^b"A twisted sense of justice."
+tagWeaponGun1hC009Desc="A twisted sense of justice."
 tagWeaponGun1hC010=Slime Bolter
 tagWeaponGun1hC011=Soulflayer
 tagWeaponGun1hC012=Plagueborne Revolver
 tagWeaponGun1hC013=The Mediator
 tagWeaponGun1hC014=Frigid Barrel of the Relentless North
 tagWeaponGun1hC015=Burrwitch Peacekeeper
-tagWeaponGun1hC015Desc=^b"Trusted sidearm of Sheriff Harmon Griffith."
+tagWeaponGun1hC015Desc="Trusted sidearm of Sheriff Harmon Griffith."
 tagWeaponGun1hC016=Menhir's Pennance
 tagWeaponGun1hC017=Oathbreaker
 
@@ -230,25 +230,25 @@ tagWeaponGun2hB003=Shrapnel Gun
 
 tagWeaponGun2hC001=The Huntsman
 tagWeaponGun2hC002=The Eye
-tagWeaponGun2hC002Desc=^b"One shot, one kill"
+tagWeaponGun2hC002Desc="One shot, one kill"
 tagWeaponGun2hC003=Hellmaw Shotgun
 tagWeaponGun2hC004=Devil's Mark
 tagWeaponGun2hC005=Will of Fate
-tagWeaponGun2hC005Desc=^b"Every bullet is destined to meet its true mark."
+tagWeaponGun2hC005Desc="Every bullet is destined to meet its true mark."
 tagWeaponGun2hC006=The Scarlet Marksman
 tagWeaponGun2hC007=Salt-core Bolter
-tagWeaponGun2hC007Desc=^b"A scrapped-together weapon designed to destroy Aetherials."
+tagWeaponGun2hC007Desc="A scrapped-together weapon designed to destroy Aetherials."
 tagWeaponGun2hC008=Wrathbringer
 tagWeaponGun2hC009=Thunderclap
 tagWeaponGun2hC010=Sharpshooter's Bolt Rifle
 
 tagWeaponGun2hD001=The Adversary
 tagWeaponGun2hD002=Witching Hour
-tagWeaponGun2hD002Desc=^b"Weapon used by followers of the witch gods to defend their sanctuaries from the wrath of the inquisition."
+tagWeaponGun2hD002Desc="Weapon used by followers of the witch gods to defend their sanctuaries from the wrath of the inquisition."
 tagWeaponGun2hD003=Hellborne
-tagWeaponGun2hD003Desc=^b"The barrel spews forth the fury of the seven hells."
+tagWeaponGun2hD003Desc="The barrel spews forth the fury of the seven hells."
 tagWeaponGun2hD004=Vortex of Souls
-tagWeaponGun2hD004Desc=^b"Every shot fired sends a ripples through the aether."
+tagWeaponGun2hD004Desc="Every shot fired sends a ripples through the aether."
 tagWeaponGun2hD005=Gutripper
 
 
@@ -261,27 +261,27 @@ tagWeaponCrossbow2hB001=Spectral Crossbow
 tagWeaponCrossbow2hB002=Spectral Arbalest
 
 tagWeaponCrossbow2hC001=Boltspitter
-tagWeaponCrossbow2hC001Desc=^b"A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
+tagWeaponCrossbow2hC001Desc="A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
 tagWeaponCrossbow2hC002=Malady
 tagWeaponCrossbow2hC003=Curse of Burrwitch
-tagWeaponCrossbow2hC003Desc=^b"An ill-fated weapon with too many past owners to speak of."
+tagWeaponCrossbow2hC003Desc="An ill-fated weapon with too many past owners to speak of."
 tagWeaponCrossbow2hC004=Blackwood Arbalest
-tagWeaponCrossbow2hC004Desc=^b"Crafted using wood from the forest outside Blackwood Manor."
+tagWeaponCrossbow2hC004Desc="Crafted using wood from the forest outside Blackwood Manor."
 tagWeaponCrossbow2hC005=Frigid Quillbreath
 tagWeaponCrossbow2hC006=Stake-Thrower
 tagWeaponCrossbow2hC007=The Arachnid's Embrace
 tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
-tagWeaponCrossbow2hC008Desc=^b"Symbolic weapon of devout followers of Bysmiel."
+tagWeaponCrossbow2hC008Desc="Symbolic weapon of devout followers of Bysmiel."
 tagWeaponCrossbow2hC009=Ulda'Jax
-tagWeaponCrossbow2hC009Desc=^b"A crude, yet surprisingly effective, weapon of the mountain wilds."
+tagWeaponCrossbow2hC009Desc="A crude, yet surprisingly effective, weapon of the mountain wilds."
 tagWeaponCrossbow2hC010=Herald's Protector
 
 tagWeaponCrossbow2hD001=Silverbolt
-tagWeaponCrossbow2hD001Desc=^b"The weapon of choice for Demon Hunter Edith the Bloodied, Chthonian cultist turned demonslayer."
+tagWeaponCrossbow2hD001Desc="The weapon of choice for Demon Hunter Edith the Bloodied, Chthonian cultist turned demonslayer."
 tagWeaponCrossbow2hD002=Quillthrower of Dreeg
-tagWeaponCrossbow2hD002Desc=^b"Infused with the very essence of the witch god Dreeg."
+tagWeaponCrossbow2hD002Desc="Infused with the very essence of the witch god Dreeg."
 tagWeaponCrossbow2hD003=Dragon of the North
-tagWeaponCrossbow2hD003Desc=^b"The rimeblood dragon of the chilling northern winds."
+tagWeaponCrossbow2hD003Desc="The rimeblood dragon of the chilling northern winds."
 tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
@@ -300,9 +300,9 @@ tagWeaponMelee2hA011=Warmaul
 
 tagWeaponMelee2hB001=Troll Headsmasher
 tagWeaponMelee2hB002=Troll Skullcrusher
-tagWeaponMelee2hB003=Brutal Great Axe (2H NYI)
-tagWeaponMelee2hB004=Brutal Carver (2H NYI)
-tagWeaponMelee2hB005=Brutal Decapitator (2H NYI)
+tagWeaponMelee2hB003=Brutal Great Axe
+tagWeaponMelee2hB004=Brutal Carver
+tagWeaponMelee2hB005=Brutal Decapitator
 tagWeaponMelee2hB006=Alkamos' Scythe
 tagWeaponMelee2hB007=Spectral War Axe
 tagWeaponMelee2hB008=Alkamos' Warsword
@@ -311,38 +311,38 @@ tagWeaponMelee2hB009=Spectral Warmaul
 tagWeaponMelee2hC001=Gutwrench Eviscerator
 tagWeaponMelee2hC002=Massacre
 tagWeaponMelee2hC003=Slithbane
-tagWeaponMelee2hC003Desc=^b"Earned its name for the countless abomination skulls it crushed."
+tagWeaponMelee2hC003Desc="Earned its name for the countless abomination skulls it crushed."
 tagWeaponMelee2hC004=Falcon's Claw
 tagWeaponMelee2hC005=Tremor
 tagWeaponMelee2hC006=The Conduit
-tagWeaponMelee2hC006Desc=^b"A rare success in the experimentation of arcane forging techniques."
+tagWeaponMelee2hC006Desc="A rare success in the experimentation of arcane forging techniques."
 tagWeaponMelee2hC007=Boneshard Lacerator
 tagWeaponMelee2hC008=Golemfist Gavel
 tagWeaponMelee2hC009=Wrathblade
 tagWeaponMelee2hC010=The Farmstead Liberator
-tagWeaponMelee2hC010Desc=^b"A historic weapon from the rebellion of Farmstead, mercilessly crushed by Imperial forces."
+tagWeaponMelee2hC010Desc="A historic weapon from the rebellion of Farmstead, mercilessly crushed by Imperial forces."
 tagWeaponMelee2hC011=Alvarick's Rebuke
 tagWeaponMelee2hC012=Prismatic Eviscerator
 tagWeaponMelee2hC013=Razorleaf Glaive
-tagWeaponMelee2hC013Desc=^b"Forged using ancient techniques now lost to the ages."
+tagWeaponMelee2hC013Desc="Forged using ancient techniques now lost to the ages."
 tagWeaponMelee2hC014=Scythe of Tenebris
-tagWeaponMelee2hC014Desc=^b"The Lifestealer of Tenebris, the Blood Drinker."
+tagWeaponMelee2hC014Desc="The Lifestealer of Tenebris, the Blood Drinker."
 tagWeaponMelee2hC015=Warhammer of Heavenly Judgment
-tagWeaponMelee2hC015Desc=^b"Great hammer of Brother Bernard Mellington of the Templar."
+tagWeaponMelee2hC015Desc="Great hammer of Brother Bernard Mellington of the Templar."
 tagWeaponMelee2hC016=Champion of the Light
 
 tagWeaponMelee2hD001=Stonefist Rebuke
 tagWeaponMelee2hD002=The Guillotine
 tagWeaponMelee2hD003=Nightshade's Reach
-tagWeaponMelee2hD003Desc=^b"Unorthodox tool of Master of Assassins Belanor. Few Nightblades had ever mastered the art of the greatsword as he had."
+tagWeaponMelee2hD003Desc="Unorthodox tool of Master of Assassins Belanor. Few Nightblades had ever mastered the art of the greatsword as he had."
 tagWeaponMelee2hD004=Obsidian Juggernaut
-tagWeaponMelee2hD004Desc=^b"Forged within the molten depths of a living volcano."
+tagWeaponMelee2hD004Desc="Forged within the molten depths of a living volcano."
 tagWeaponMelee2hD005=Infernal Brimstone
-tagWeaponMelee2hD005Desc=^b"Birthed when the blessed spear of Paladin Allister Forgebearer met with the heart of a greater demon."
+tagWeaponMelee2hD005Desc="Birthed when the blessed spear of Paladin Allister Forgebearer met with the heart of a greater demon."
 tagWeaponMelee2hD006=Stormreaver
-tagWeaponMelee2hD006Desc=^b"Charged over countless lightning storms, this weapon is primed to unleash nature's fury."
+tagWeaponMelee2hD006Desc="Charged over countless lightning storms, this weapon is primed to unleash nature's fury."
 tagWeaponMelee2hD007=Bane of the Winter King
-tagWeaponMelee2hD007Desc=^b"Sacred blade of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
+tagWeaponMelee2hD007Desc="Sacred blade of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
 tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
 
@@ -376,7 +376,7 @@ tagShieldA009=Rondache
 tagShieldA010=Kite Shield
 
 tagShieldB001=Warden's Bulwark
-tagShieldB001Desc=^b"Forged from hardened steel and ruthless hatred."
+tagShieldB001Desc="Forged from hardened steel and ruthless hatred."
 tagShieldB002=Warden's Fortress
 tagShieldB003=Spectral Shield
 tagShieldB004=Spectral War Shield
@@ -386,27 +386,27 @@ tagShieldB007=Sovereign Shield
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Elementium
-tagShieldC002Desc=^b"Blessed by the Templars of Menhir as a bulwark against the elements."
+tagShieldC002Desc="Blessed by the Templars of Menhir as a bulwark against the elements."
 tagShieldC003=Guardsman's Defender
 tagShieldC004=Flamebreaker
 tagShieldC005=Devil's Grin
 tagShieldC006=Maw of the Beast
 tagShieldC007=Crest of the Black Legion
-tagShieldC007Desc=^b"Carried by the Black Legion of the Imperial army, also known as the Death's Bannermen."
+tagShieldC007Desc="Carried by the Black Legion of the Imperial army, also known as the Death's Bannermen."
 tagShieldC008=Lichguard
 tagShieldC009=Dawnshard Bulwark
-tagShieldC009Desc=^b"Forged from the purest shard of soladrin crystal."
+tagShieldC009Desc="Forged from the purest shard of soladrin crystal."
 tagShieldC010=Templar's Faith
 tagShieldC011=Shield of Redemption
 tagShieldC012=Oathbreaker's Guard
 
 tagShieldD001=Meat Shield
-tagShieldD001Desc=^b"Necromantic shield molded from the chest cavity of an unfortunate peasant."
+tagShieldD001Desc="Necromantic shield molded from the chest cavity of an unfortunate peasant."
 tagShieldD002=The Final Stop
-tagShieldD002Desc=^b"Forged by railyard workers during a desparate battle against the rising Chthonian forces."
+tagShieldD002Desc="Forged by railyard workers during a desparate battle against the rising Chthonian forces."
 tagShieldD003=The Untouchable
 tagShieldD004=Will of the Living
-tagShieldD004Desc=^b"Formerly  the King's Crest, this shield was reborn in Chthonian flame as a paragon of mankind."
+tagShieldD004Desc="Formerly  the King's Crest, this shield was reborn in Chthonian flame as a paragon of mankind."
 tagShieldD005=Dawnbreaker's Duty
 
 
@@ -442,9 +442,9 @@ tagFocusA012=Eldritch Wand
 tagFocusA014=Eldritch Wand
 
 tagFocusB001=Zarthuzellan's Codex
-tagFocusB001Desc=^b"Filled with fiery invocations to consecrate the nonbelievers."
+tagFocusB001Desc="Filled with fiery invocations to consecrate the nonbelievers."
 tagFocusB002=Rolderathis' Tome
-tagFocusB002Desc=^b"Words within this tome chill your heart with their maddening hatred."
+tagFocusB002Desc="Words within this tome chill your heart with their maddening hatred."
 tagFocusB003A=Glyphed Archive
 tagFocusB003B=Occult Horn
 tagFocusB004A=Glyphed Spellbook
@@ -458,26 +458,26 @@ tagFocusC003=Maiven's Tome
 tagFocusC004=Heretic's Tome
 tagFocusC005=Malformed Effigy
 tagFocusC006=Banshee's Misery
-tagFocusC006Desc=^b"Wails of misery emanate from this tome with every page turn."
+tagFocusC006Desc="Wails of misery emanate from this tome with every page turn."
 tagFocusC007=Wyrmclaw
 tagFocusC008=Black Grimoire of Og'Napesh
-tagFocusC008Desc=^b"The dark writings of Og'Napesh, condemned necromancer."
+tagFocusC008Desc="The dark writings of Og'Napesh, condemned necromancer."
 tagFocusC009=Edrick's Backscratcher
 tagFocusC010=Sacred Texts of Menhir
-tagFocusC010Desc=^b"Scripture once carried by the devout knights of Menhir."
+tagFocusC010Desc="Scripture once carried by the devout knights of Menhir."
 tagFocusC011=Nocturnis
 tagFocusC012=Channeling Orb of the Covenant
 
 tagFocusD001=Fiend's Resolve
 tagFocusD002=Aldanar's Vanity
 tagFocusD003=Codex of Lies
-tagFocusD003Desc=^b"Forbidden texts of the witch god Solael, as recorded by Cabalist Hester Maughan."
+tagFocusD003Desc="Forbidden texts of the witch god Solael, as recorded by Cabalist Hester Maughan."
 tagFocusD004=Tome of Names
-tagFocusD004Desc=^b"This book contains the names of every mortal that ever was and ever will be."
+tagFocusD004Desc="This book contains the names of every mortal that ever was and ever will be."
 tagFocusD005=Blood Orb of Cht'thon
-tagFocusD005Desc=^b"Fanatical cabalists swear that a drop of their ancient god's blood is contained within this orb."
+tagFocusD005Desc="Fanatical cabalists swear that a drop of their ancient god's blood is contained within this orb."
 tagFocusD006=Speaker for the Dead
-tagFocusD006Desc=^b"A compilation of poems and religious texts intended for burial rites."
+tagFocusD006Desc="A compilation of poems and religious texts intended for burial rites."
 tagFocusD007=Archmage's Codex
 
 
@@ -522,8 +522,8 @@ tagStyle005=Brigandine
 tagStyle006=Embroidered
 tagStyle007=Ornate
 tagStyle008=Gilded
-tagStyle009=Patchwork
 
+tagStyle009=Patchwork
 tagStyle010=Leather
 tagStyle011=Hide
 tagStyle012=Fur-lined
@@ -559,6 +559,8 @@ tagStyle038=Savage
 tagStyle039=Novice
 tagStyle040=Apprentice
 
+tagStyle041=Exalted
+tagStyle042=Opulent
 #ArmorClass
 tagArmorClass01=Caster Armor
 tagArmorClass02=Light Armor
@@ -595,21 +597,21 @@ tagHeadB010=Ranger's Casque
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
 tagHeadC003=Nether Crown
-tagHeadC003Desc=^b"Once worn by the first and only Arcanist king of Cairn, King Samuel Drake, before he was stripped of his title and executed for heresy by the clergy."
+tagHeadC003Desc="Once worn by the first and only Arcanist king of Cairn, King Samuel Drake, before he was stripped of his title and executed for heresy by the clergy."
 tagHeadC004=Crown of Command
 tagHeadC005=Templar's Headguard
-tagheadC005Desc=^b"An initiate's helm for the Guardians of Menhir."
+tagheadC005Desc="An initiate's helm for the Guardians of Menhir."
 tagHeadC006=Guardsman's Helm
 tagHeadC007=Explorer's Cover
 tagHeadC008=Maiven's Hood
 tagHeadC009=Bloodreaper's Cowl
 tagHeadC010=Eye of the Beholder
-tagHeadC010Desc=^b"A gazer eye worn by a mad witch obsessed with appearances and beauty."
+tagHeadC010Desc="A gazer eye worn by a mad witch obsessed with appearances and beauty."
 tagHeadC011=Mask of Delirium
 tagHeadC012=Tempest of the Void
 tagHeadC013=Glory of the Silver Knight
 tagHeadC014=Terror of the Grove
-tagHeadC014Desc=^b"Cut from the hide of an ancient Thorned Horror."
+tagHeadC014Desc="Cut from the hide of an ancient Thorned Horror."
 tagHeadC015=Spiritweaver Circlet
 tagHeadC016=Outcast's Hood
 tagHeadC017=Herald's Mask
@@ -621,12 +623,12 @@ tagHeadC022=Cowl of the Paragon
 tagHeadC023=Dawnguard Helm
 
 tagHeadD001=Maw of Despair
-tagHeadD001Desc=^b"Look upon me and despair, for your hour has struck."
+tagHeadD001Desc="Look upon me and despair, for your hour has struck."
 tagHeadD002=Dread-Mask of Anat'Gurgoth
 tagHeadD003=Whisperer of Secrets
-tagheadD003Desc=^b"Whispers dark secrets into the ears of your victims prior to the killing blow."
+tagheadD003Desc="Whispers dark secrets into the ears of your victims prior to the killing blow."
 tagHeadD004=Abyssal Mask
-tagheadD004Desc=^b"Bound by death to a death unbound."
+tagheadD004Desc="Bound by death to a death unbound."
 tagHeadD005=Circlet of the Great Serpent
 tagHeadD006=Faceguard of Justice
 tagHeadD007=Beastcaller's Cowl
@@ -653,18 +655,18 @@ tagShoulderB006=Murderer's Epaulets
 tagShoulderB007=Isaac's Spaulders
 
 tagShoulderC001=Razorback's Spined Mantle
-tagShoulderC001Desc=^b"Stitched together from the carcass of Razorback."
+tagShoulderC001Desc="Stitched together from the carcass of Razorback."
 tagShoulderC002=Astral Mantle
 tagShoulderC003=Warlord's Spaulders
 tagShoulderC004=Guardsman's Spaulders
 tagShoulderC005=Grenadier Shoulderguard
-tagShoulderC005Desc=^b"Seared and shredded by shrapnel, this shoulderguard nevertheless retains much of its protective qualities."
+tagShoulderC005Desc="Seared and shredded by shrapnel, this shoulderguard nevertheless retains much of its protective qualities."
 tagShoulderC006=Mantle of the Weeping Eye
-tagShoulderC006Desc=^b"Symbolic garment of a secretive order eradicated during the reign of the Arcanist King, Samuel Drake."
+tagShoulderC006Desc="Symbolic garment of a secretive order eradicated during the reign of the Arcanist King, Samuel Drake."
 tagShoulderC007=Shellshock Epaulets
 tagShoulderC008=Decorated Pauldrons
 tagShoulderC009=Mantle of the Patron
-tagShoulderC009Desc=^b"A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
+tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
 tagShoulderC010=Shoulderguards of Redemption
 tagShoulderC011=Sharpshooter's Cover
 tagShoulderC012=Unholy Mantle of the Covenant
@@ -672,13 +674,13 @@ tagShoulderC013=Shouldeguard of the Paragon
 tagShoulderC014=Dawnguard Epaulets
 
 tagShoulderD001=Fateweaver's Mantle
-tagShoulderD001Desc=^b"The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
+tagShoulderD001Desc="The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
 tagShoulderD002=Templar's Pauldrons
-tagShoulderD002Desc=^b"Pauldrons bestowed upon initiates who had risen to the full rank of Templar."
+tagShoulderD002Desc="Pauldrons bestowed upon initiates who had risen to the full rank of Templar."
 tagShoulderD003=Bloodfury Spaulders
 tagShoulderD004=Shadowflame Mantle
 tagShoulderD005=Titan Pauldrons
-tagShoulderD005Desc=^b"The markings on these pauldrons are as if from another era."
+tagShoulderD005Desc="The markings on these pauldrons are as if from another era."
 tagShoulderD006=Shoulderguards of Justice
 tagShoulderD007=Beastcaller's Shoulderpads
 tagShoulderD008=Dawnbreaker's Shoulderguard
@@ -712,7 +714,7 @@ tagTorsoB002=Murderer's Breastplate
 tagTorsoB003=Fortified Doublet
 
 tagTorsoC001=
-tagTorsoC002=Ornate Chestguard
+tagTorsoC002=Nightstalker's Chestguard
 tagTorsoC003=Gunslinger's Jacket
 tagTorsoC004=Malduin's Cloth
 tagTorsoC005=Doomforged Breastplate
@@ -722,30 +724,30 @@ tagTorsoC008=Bloodreaper's Coat
 tagTorsoC009=Fanatic's Overcoat
 tagTorsoC010=Fused Carapace Armor
 tagTorsoC011=Skinflayer Raiment
-tagTorsoC011Desc=^b"It is unknown as to how many victims it took to sew together these foul robes."
+tagTorsoC011Desc="It is unknown as to how many victims it took to sew together these foul robes."
 tagTorsoC012=Obsidian-Plate Cuirass
 tagTorsoC013=Magnison's Trench Coat
 tagTorsoC014=Vestment of Mourning
-tagTorsoC014Desc=^b"Priest's robes once worn by members of the Weeping Eye cabal."
+tagTorsoC014Desc="Priest's robes once worn by members of the Weeping Eye cabal."
 tagTorsoC015=Spidersilk Hauberk
 tagTorsoC016=Cloth of Unspeakable Invocation
-tagTorsoC016Desc=^b"Chthonian robes worn only by elite members of the bloodthirsty cult."
+tagTorsoC016Desc="Chthonian robes worn only by elite members of the bloodthirsty cult."
 tagTorsoC017=Herald's Jacket
 tagTorsoC018=Chestguard of Redemption
 tagTorsoC019=Stealth Jacket of the Blind Assassin
 tagTorsoC020=Sharpshooter's Coat
 tagTorsoC021=Dawnguard Plate
 tagTorsoC022=Zolhan's Battle Plate
-tagTorsoC022Desc=^b"Armor commissioned by the famed battle master, Zolhan."
+tagTorsoC022Desc="Armor commissioned by the famed battle master, Zolhan."
 
 tagTorsoD001=Fiendscale Jacket
 tagTorsoD002=Devil's Cage Hauberk
 tagTorsoD003=Shroud of Illusion
-tagTorsoD003Desc=^b"The strange cloth shimmers and fades with the light, creating a mesmerizing illusion around the wearer."
+tagTorsoD003Desc="The strange cloth shimmers and fades with the light, creating a mesmerizing illusion around the wearer."
 tagTorsoD004=Vestments of the Great Guardian
-tagTorsoD004Desc=^b"Robes of the high priest of Dreeg, charged with safeguarding the witch god's earthly concerns."
+tagTorsoD004Desc="Robes of the high priest of Dreeg, charged with safeguarding the witch god's earthly concerns."
 tagTorsoD005=Dread Armor of Azragor
-tagTorsoD005Desc=^b"Azragor was a brutal man feared amongst his fellow knights for his underhanded, yet difficult to prove, tactics."
+tagTorsoD005Desc="Azragor was a brutal man feared amongst his fellow knights for his underhanded, yet difficult to prove, tactics."
 tagTorsoD006=Chestguard of Justice
 tagTorsoD007=Beastcaller's Shroud
 tagTorsoD008=Demonslayer's Jacket
@@ -765,7 +767,9 @@ tagWaistA004=Leather Belt
 tagWaistA005=Chain Belt
 tagWaistA006=Infantry Waistguard
 tagWaistA007=Platemail Girdle
-tagWaistA008=Imperial Belt
+tagWaistA008=Assault Belt
+tagWaistA009=Imperial Belt
+tagWaistA010=Exalted Belt
 
 tagWaistB001=Bounty Hunter's Girdle
 tagWaistB002=Shockweave Sash
@@ -776,7 +780,7 @@ tagWaistB006=Wraithbone Sash
 
 tagWaistC001=Oldenar's Stabilizer
 tagWaistC002=Frizzick's Utility Pack
-tagWaistC002Desc=^b"Worked wonders for Frizzick until it ran out of zombie repellant."
+tagWaistC002Desc="Worked wonders for Frizzick until it ran out of zombie repellant."
 tagWaistC003=Alchemist's Belt
 tagWaistC004=Marauder's Ammo Belt
 tagWaistC005=Warchief's Glory
@@ -784,10 +788,10 @@ tagWaistC006=Headhunter's Trophy
 tagWaistC007=Acolyte's Cord
 tagWaistC008=Chthonian Thread Sash
 tagWaistC009=Bloodbathed Links
-tagWaistC009Desc=^b"Forever dripping with fresh blood."
+tagWaistC009Desc="Forever dripping with fresh blood."
 tagWaistC010=Cord of the Ancestor
 tagWaistC011=Chains of Anguish
-tagWaistC011Desc=^b"The chains grant unspeakable power, but at equal cost in blood."
+tagWaistC011Desc="The chains grant unspeakable power, but at equal cost in blood."
 tagWaistC012=Warpath Girdle
 tagWaistC013=Sharpshooter's Pouch
 
@@ -796,12 +800,12 @@ tagWaistD002=Blade Breaker Sash
 tagWaistD003=Boneweave Girdle
 tagWaistD004=Voidmancer's Cord
 tagWaistD005=Guthook Belt
-tagWaistD005Desc=^b"Once worn by an eccentric mass murderer convinced that wearing the entrails of his victims would in turn protect his own."
+tagWaistD005Desc="Once worn by an eccentric mass murderer convinced that wearing the entrails of his victims would in turn protect his own."
 tagWaistD006=Girdle of Stolen Dreams
 tagWaistD007=Spellbreaker Waistguard
-tagWaistD007Desc=^b"Waistguard worn by the Spellbreaker regiment, a selective group of paladins within the Templar of Menhir."
+tagWaistD007Desc="Waistguard worn by the Spellbreaker regiment, a selective group of paladins within the Templar of Menhir."
 tagWaistD008=Phantom-Thread Girdle
-tagWaistD008Desc=^b"Woven using thread spun upon the Satan's Spindle from the souls of the damned."
+tagWaistD008Desc="Woven using thread spun upon the Satan's Spindle from the souls of the damned."
 tagWaistD009=Wildblood Girdle
 
 
@@ -827,10 +831,10 @@ tagHandsC006=Soul's Touch
 tagHandsC007=Inscribed Bracers
 tagHandsC008=Brawler's Gloves
 tagHandsC009=Runic Bracers
-tagHandsC009Desc=^b"Engraved upon the steel are powerful symbols of immortality."
+tagHandsC009Desc="Engraved upon the steel are powerful symbols of immortality."
 tagHandsC010=Blacksteel Gauntlets
 tagHandsC011=Silktouch Handwraps
-tagHandsC011Desc=^b"Bask in the shadows, for in the darkness you are invincible."
+tagHandsC011Desc="Bask in the shadows, for in the darkness you are invincible."
 tagHandsC012=Herald's Gloves
 tagHandsC013=Menhir's Touch
 tagHandsC014=Handguards of Redemption
@@ -838,12 +842,12 @@ tagHandsC015=Dawnguard Gauntlets
 tagHandsC016=Embergrip Handguards
 
 tagHandsD001=Grasp of Unchained Might
-tagHandsD001Desc=^b"Gloves blessed with the ferocity of Oleron himself."
+tagHandsD001Desc="Gloves blessed with the ferocity of Oleron himself."
 tagHandsD002=Druid's Touch of the Everliving Forest
 tagHandsD003=Voidsteel Gauntlets
-tagHandsD003Desc=^b"Forged over the smoldering corpse of a Chthonian harbinger."
+tagHandsD003Desc="Forged over the smoldering corpse of a Chthonian harbinger."
 tagHandsD004=Necromancer's Deathgrips
-tagHandsD004Desc=^b"Channeling necromancer's gloves that still retain some of the mage's grisly power."
+tagHandsD004Desc="Channeling necromancer's gloves that still retain some of the mage's grisly power."
 tagHandsD005=Wyrmbone Handguards
 tagHandsD006=Handguards of Justice
 tagHandsD007=Beastcaller's Handwraps
@@ -865,26 +869,26 @@ tagLegsC002=Hermit's Legguards
 tagLegsC003=Swampdweller's Legguards
 tagLegsC004=Explorer's Trousers
 tagLegsC005=Soiled Trousers
-tagLegsC005Desc=^b"The previous owner seems to have left a little surprise in the seat of these trousers."
+tagLegsC005Desc="The previous owner seems to have left a little surprise in the seat of these trousers."
 tagLegsC006=Slithscale Legwraps
 tagLegsC007=Templar's Leg Armor
 tagLegsC008=Legplates of Valor
 tagLegsC009=Flesheater Legwraps
-tagLegsC009Desc=^b"The origins of some objects are best left to the annals history."
+tagLegsC009Desc="The origins of some objects are best left to the annals history."
 tagLegsC010=Shadeleather Leggings
 tagLegsC011=Hulking Legguards
 tagLegsC012=Legguards of Redemption
 tagLegsC013=Dawnguard Legplates
 
 tagLegsD001=Demonbone Legplates
-tagLegsD001Desc=^b"The real challenge in the creation of this armor came in acquiring the necessary parts."
+tagLegsD001Desc="The real challenge in the creation of this armor came in acquiring the necessary parts."
 
 tagLegsD002=Boneweave Leggings
 tagLegsD003=Deathwhisper Leggings
 tagLegsD004=Hellforged Legplates
-tagLegsD004Desc=^b"Forged in the smoldering breath of a hellhound."
+tagLegsD004Desc="Forged in the smoldering breath of a hellhound."
 tagLegsD005=Spellweave Legwraps
-tagLegsD005Desc=^b"Dozens of incantations and words of power were whispered into the thread which now forms this armor."
+tagLegsD005Desc="Dozens of incantations and words of power were whispered into the thread which now forms this armor."
 tagLegsD006=Legguards of Justice
 tagLegsD007=Beastcaller's Leggings
 tagLegsD008=Archmage's Leggings
@@ -906,31 +910,31 @@ tagFeetB004=Squire's Greaves
 tagFeetC001=Molten Walkers
 tagFeetC002=Windborne Greaves
 tagFeetC003=Boots of Unseeing Swiftness
-tagFeetC003Desc=^b"These boots appear to be of a make and material unlike any of this world."
+tagFeetC003Desc="These boots appear to be of a make and material unlike any of this world."
 tagFeetC004=Stonewrought Groundbreakers
 tagFeetC005=Explorer's Footpads
 tagFeetC006=Bloodreaper's Boots
 tagFeetC007=The Final March
-tagFeetC007Desc=^b"Each step bears the weight of a thousand soldiers who lost their lives to Chthonian Forces."
+tagFeetC007Desc="Each step bears the weight of a thousand soldiers who lost their lives to Chthonian Forces."
 tagFeetC008=Rifthound Leather Boots
-tagFeetC008Desc=^b"Good for nothing beasts, but they make great boots."
+tagFeetC008Desc="Good for nothing beasts, but they make great boots."
 tagFeetC009=Dreadnought Footpads
 tagFeetC010=Hellion Greaves
 tagFeetC011=Serpentine Wraps
 tagFeetC012=Desecrator Treads
-tagFeetC012Desc=^b"In the wake of unfathomable odds, leave nought but a trail of desecration."
+tagFeetC012Desc="In the wake of unfathomable odds, leave nought but a trail of desecration."
 tagFeetC013=Herald's Boots
 tagFeetC014=Footguards of Redemption
 tagFeetC015=Dawnguard Greaves
 
 tagFeetD001=Golemborn Greaves
 tagFeetD002=Wyrmscale Footguards
-tagFeetD002Desc=^b"The creature that supplied these scales is believed to be long extinct."
+tagFeetD002Desc="The creature that supplied these scales is believed to be long extinct."
 tagFeetD003=Venomspine Greaves
-tagFeetD003Desc=^b"The spines drip with the venom of several different species of spider and snake."
+tagFeetD003Desc="The spines drip with the venom of several different species of spider and snake."
 tagFeetD004=Voidwalker Footpads
 tagFeetD005=Boneshatter Treads
-tagFeetD005Desc=^b"Built with a heavy sole to maximize the sickening crunch of snapping bones."
+tagFeetD005Desc="Built with a heavy sole to maximize the sickening crunch of snapping bones."
 tagFeetD006=Footguards of Justice
 tagFeetD007=Beastcaller's Treads
 tagFeetD008=Demonslayer's Greaves
@@ -954,19 +958,11 @@ tagRingA012=Inscribed Band
 tagRingA013=Diamond Signet
 
 tagRingB001=Reddan Memento Ring
-tagRingB001Desc=^b"A worn out inscription along the band says: With love - Amelia"
+tagRingB001Desc="A worn out inscription along the band says: With love - Amelia"
 tagRingB002=Cronley's Signet
-tagRingB002Desc=^b"Stained with the blood of his victims, now joined by his own."
+tagRingB002Desc="Stained with the blood of his victims, now joined by his own."
 tagRingB003=Skinner Family Seal
-tagRingB003Desc=^b"Likely the most valuable item the family had ever owned."
-tagRingB004A=Alkamos' Dread
-tagRingB004B=Alkamos' Misery
-tagRingB004C=Alkamos' Agony
-tagRingB004Desc=^b"Death...."
-tagRingB005A=Alkamos' Suffering
-tagRingB005B=Alkamos' Anguish
-tagRingB005C=Alkamos' Torment
-tagRingB005Desc=^b"Agony..."
+tagRingB003Desc="Likely the most valuable item the family had ever owned."
 
 
 tagRingC001=Marrow Band
@@ -975,10 +971,10 @@ tagRingC003=Lorekeeper's Band
 tagRingC004=Twilight Signet
 tagRingC005=Blackwatch Seal
 tagRingC006=Starfire
-tagRingC006Desc=^b"Cast from a burning remains of a fallen star."
+tagRingC006Desc="Cast from the burning remains of a fallen star."
 tagRingC007=Bloodseal
 tagRingC008=Aetherlord's Signet
-tagRingC008Desc=^b"A ring commonly carried by nobles possessed by Aetherial spirits."
+tagRingC008Desc="A ring commonly carried by nobles possessed by Aetherial spirits."
 tagRingC009=Eternal Band
 tagRingC010=Oblitorix
 tagRingC011=Band of Wandering Souls
@@ -989,17 +985,23 @@ tagRingC015=Ring of Valiance
 tagRingC016=Signet of Valiance
 tagRingC017=Right Hand of Carnage
 tagRingC018=Left Hand of Carnage
+tagRingC019A=Alkamos' Dread
+tagRingC019B=Alkamos' Agony
+tagRingC019Desc="Death...."
+tagRingC020A=Alkamos' Anguish
+tagRingC020B=Alkamos' Torment
+tagRingC020Desc="Agony..."
 
 tagRingD001=Signet of the Fallen
 tagRingD002=Glyph of Kelphat'Zoth
-tagRingD002Desc=^b"Signed granted by Kelphat'Zoth, Grand Harbinger of Ch'Thon, upon his most loyal followers."
+tagRingD002Desc="Signed granted by Kelphat'Zoth, Grand Harbinger of Ch'Thon, upon his most loyal followers."
 tagRingD003=Lifegiver Signet
 tagRingD004=Time-Flux Band
 tagRingD005=Screams of the Ether
-tagRingD006Desc=^b"A mockery of the agonizing possession process."
+tagRingD006Desc="A mockery of the agonizing possession process."
 tagRingD006=Entropic Coil
 tagRingD007=Ring of the Black Matriarch
-tagRingD007Desc=^b"Signet of the Black Matriach, a ruthless assassin who utilized spider venom to paralyze and execute her opponents."
+tagRingD007Desc="Signet of the Black Matriach, a ruthless assassin who utilized spider venom to paralyze and execute her opponents."
 tagRingD008=Band of the Eternal Haunt
 tagRingD009=The Hand of Mercy
 tagRingD010=The Fist of Vengeance
@@ -1023,48 +1025,48 @@ tagNecklaceA012=Inscribed Amulet
 tagNecklaceA013=Diamond Pendant
 
 tagNecklaceB001=Putrid Necklace
-tagNecklaceB001Desc=^b"The skull is coated with a putrid slime."
+tagNecklaceB001Desc="The skull is coated with a putrid slime."
 
 tagNecklaceC001=Amulet of the Eye
-tagNecklaceC001Desc=^b"A peerless eye darts back and forth within the gem."
+tagNecklaceC001Desc="A peerless eye darts back and forth within the gem."
 tagNecklaceC002=Alazra's Ruby
 tagNecklaceC003=Bloodmoon
 tagNecklaceC004=Devil's Charm
-tagNecklaceC004Desc=^b"A Forked Tongue weaving lies and deceit."
+tagNecklaceC004Desc="A Forked Tongue weaving lies and deceit."
 tagNecklaceC005=Maiven's Lens
 tagNecklaceC006=Warp Shard
-tagNecklaceC006Desc=^b"The shard appears to twist reality itself."
+tagNecklaceC006Desc="The shard appears to twist reality itself."
 tagNecklaceC007=Warmaster's Pride
 tagNecklaceC008=Spiritstone Charm
 tagNecklaceC009=Vortex Stone
 tagNecklaceC010=Death Ward
-tagNecklaceC010Desc=^b"A charm once worn to ward off evil spirits."
+tagNecklaceC010Desc="A charm once worn to ward off evil spirits."
 tagNecklaceC011=Essence of Beronath
-tagNecklaceC011Desc=^b"Trapped residual essence of the great beast Beronath."
+tagNecklaceC011Desc="Trapped residual essence of the great beast Beronath."
 tagNecklaceC012=Bane of Nuram'Siin
 tagNecklaceC013=Lapis Lupus
 tagNecklaceC014=Avarice of Androneus
-tagNecklaceC014Desc=^b"A perfect emerald openly flaunted by Master of Taxes Androneus Phillian, prior to his introduction to a knife in the back."
+tagNecklaceC014Desc="A perfect emerald openly flaunted by Master of Taxes Androneus Phillian, prior to his introduction to a knife in the back."
 tagNecklaceC015=Herald's Ward
 tagNecklaceC016=Unseeing Eye of the Blind Assassin
 tagNecklaceC017=Pendant of the Royal Crown
 tagNecklaceC018=Pendant of Valiance
 tagNecklaceC019=Wretched Necessity
-tagNecklaceC019Desc=^b"A mere glance at this gem creates an intense desire to take it as your own."
+tagNecklaceC019Desc="A mere glance at this gem creates an intense desire to take it as your own."
 
 tagNecklaceD001=Will of Bysmiel
 tagNecklaceD002=Thread of Mortality
 tagNecklaceD003=Avatar of Mercy
-tagNecklaceD003Desc=^b"First of the seven sacred virtues of humanity."
+tagNecklaceD003Desc="First of the seven sacred virtues of humanity."
 tagNecklaceD004=Sovereign Ruby of Domination
 tagNecklaceD005=The Peerless Eye of Beronath
-tagNecklaceD005Desc=^b"The embalmbed eye of the great beast, Beronath."
+tagNecklaceD005Desc="The embalmbed eye of the great beast, Beronath."
 tagNecklaceD006=Starfury Emerald
 tagNecklaceD007=Essence of the Grim Dawn
-tagNecklaceD007Desc=^b"A physical manifestation of the suffering and death witnessed at the beginning of the Grim Dawn."
+tagNecklaceD007Desc="A physical manifestation of the suffering and death witnessed at the beginning of the Grim Dawn."
 tagNecklaceD008=Deathbound Amethyst
 tagNecklaceD009=Celestial Stone of Halakor
-tagNecklaceD009Desc=^b"Focusing gem of Arcanist Geneve Halakor, who forsook her order and its teachings to become a Templar of Menhir."
+tagNecklaceD009Desc="Focusing gem of Arcanist Geneve Halakor, who forsook her order and its teachings to become a Templar of Menhir."
 tagNecklaceD010=Doombringer
 tagNecklaceD011=Beastcaller's Charm
 tagNecklaceD012=Dawnbreaker's Beacon
@@ -1088,28 +1090,28 @@ tagMedalC003=Insignia of Justice
 tagMedalC004=Bloodreaper's Mark
 tagMedalC005=Crimson Heart
 tagMedalC006=Combat Medic's Mark
-tagMedalC006Desc=^b"Bestowed upon battle-hardened medics for their valiant service in the heat of combat."
+tagMedalC006Desc="Bestowed upon battle-hardened medics for their valiant service in the heat of combat."
 tagMedalC007=Mark of the Templar
 tagMedalC008=Arcanum Sigil
 tagMedalC009=Vanguard Star
 tagMedalC010=Badge of the Crimson Company
-tagMedalC010Desc=^b"Symbol of the Crimson Company, a ruthlessly effective mercenary group."
+tagMedalC010Desc="Symbol of the Crimson Company, a ruthlessly effective mercenary group."
 tagMedalC011=Menhir's Sign
 tagMedalC012=Unholy Sigil of the Covenant
 tagMedalC013=Ribbon of Valiance
 
 tagMedalD001=Mark of the Apostate
-tagMedalD001Desc=^b"Symbol once forced upon heretics, later worn with pride by worshippers of the witch gods."
+tagMedalD001Desc="Symbol once forced upon heretics, later worn with pride by worshippers of the witch gods."
 tagMedalD002=Badge of Mastery
 tagMedalD003=Mark of Divinity
 tagMedalD004=Sigil of the Bear King
-tagMedalD004Desc=^b"Sigil of King Ursal Benedict IV, also known as the Bear King."
+tagMedalD004Desc="Sigil of King Ursal Benedict IV, also known as the Bear King."
 tagMedalD005=Blood Sigil of Ch'Thon
 tagMedalD006=Direwolf Crest
-tagMedalD006Desc=^b"Crest of the great white wolf, patron animal of the northern wastes."
+tagMedalD006Desc="Crest of the great white wolf, patron animal of the northern wastes."
 tagMedalD007=Undying Oath
 tagMedalD008=Markovian's Stratagem
-tagMedalD008Desc=^b"Named in honor of the famed tactician Markovian, this medal was awarded to only the most distinguished generals."
+tagMedalD008Desc="Named in honor of the famed tactician Markovian, this medal was awarded to only the most distinguished generals."
 
 
 #Blueprints
@@ -1165,10 +1167,24 @@ tagBlueprint_RelicD018=Blueprint: Relic - Bysmiel's Domination
 tagBlueprint_RelicD019=Blueprint: Relic - Oleron's Wrath
 tagBlueprint_RelicD020=Blueprint: Relic - Menhir's Bastion
 
+tagBlueprint_ComponentA01=Blueprint: Aether Soul
+tagBlueprint_ComponentA02=Blueprint: Ballistic Plating
+tagBlueprint_ComponentA03=Blueprint: Blessed Steel
+tagBlueprint_ComponentA04=Blueprint: Focusing Prism
+tagBlueprint_ComponentA05=Blueprint: Leathery Hide
+tagBlueprint_ComponentA06=Blueprint: Restless Remains
+tagBlueprint_ComponentA07=Blueprint: Rotten Heart
+tagBlueprint_ComponentA08=Blueprint: Runestone
+tagBlueprint_ComponentA09=Blueprint: Sanctified Bone
+tagBlueprint_ComponentA10=Blueprint: Spined Carapace
+tagBlueprint_ComponentA11=Blueprint: VengefulWraith
 tagBlueprint_ComponentC01=Blueprint: Oleron's Blood
 tagBlueprint_ComponentC02=Blueprint: Shard of Beronath
 tagBlueprint_ComponentC03=Blueprint: Arcane Spark
 tagBlueprint_ComponentC04=Blueprint: Prismatic Diamond
+tagBlueprint_ComponentC05=Blueprint: Haunted Steel
+tagBlueprint_ComponentC06=Blueprint: Mark of Mogdrogen
+
 
 tagBlueprint_WaistB001=Blueprint: Bounty Hunter's Girdle
 tagBlueprint_WaistB002=Blueprint: Shockweave Sash
@@ -1186,9 +1202,9 @@ tagBlueprint_WeaponB006=Blueprint: Shrapnel Gun
 tagBlueprint_WeaponB007=Blueprint: Honed Longsword
 tagBlueprint_WeaponB008=Blueprint: Honed Broadsword
 tagBlueprint_WeaponB009=Blueprint: Honed Conqueror
-tagBlueprint_WeaponB010=Blueprint: Barbaric Great Axe
-tagBlueprint_WeaponB011=Blueprint: Barbaric Cleaver
-tagBlueprint_WeaponB012=Blueprint: Barbaric Decapitator
+tagBlueprint_WeaponB010=Blueprint: Brutal Great Axe
+tagBlueprint_WeaponB011=Blueprint: Brutal Cleaver
+tagBlueprint_WeaponB012=Blueprint: Brutal Decapitator
 tagBlueprint_WeaponB013=Blueprint: Glyphed Archive
 tagBlueprint_WeaponB014=Blueprint: Glyphed Spellbook
 tagBlueprint_WeaponB015=Blueprint: Glyphed Tome
@@ -1230,6 +1246,7 @@ tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
 
 
 tagBlueprint_MiscA01=Blueprint: Skeleton Key
+tagBlueprint_MiscA01Desc=An ancient crafting technique known only by a select few.
 
 tagBlueprint_MaterialA01=Blueprint: Aether Cluster
 
@@ -1241,105 +1258,105 @@ tagDeviceTier02=Transcendent
 tagDeviceTier03=Mythical
 
 tagRelicB001=Calamity
-tagRelicB001Desc=^b"Unbridled destruction."
+tagRelicB001Desc="Unbridled destruction."
 tagRelicB002=Ruination
-tagRelicB002Desc=^b"Reckless devastation."
+tagRelicB002Desc="Reckless devastation."
 tagRelicB003=Equilibrium
-tagRelicB003Desc=^b"Balance in an elemental sea of unrest."
+tagRelicB003Desc="Balance in an elemental sea of unrest."
 tagRelicB004=Glacier
-tagRelicB004Desc=^b"A core of ice and a heart of stone."
+tagRelicB004Desc="A core of ice and a heart of stone."
 tagRelicB005=Squall
-tagRelicB005Desc=^b"The tumultuous spirit of Ultos, Arkovian god of the sky."
+tagRelicB005Desc="The tumultuous spirit of Ultos, Arkovian god of the sky."
 tagRelicB006=Inferno
-tagRelicB006Desc=^b"The contained vengeance of Ulzuin."
+tagRelicB006Desc="The contained vengeance of Ulzuin."
 tagRelicB007=Corruption
-tagRelicB007Desc=^b"The suffering of Cairn made manifest."
+tagRelicB007Desc="The suffering of Cairn made manifest."
 tagRelicB008=Sanctuary
-tagRelicB008Desc=^b"Safe haven in these trying times."
+tagRelicB008Desc="Safe haven in these trying times."
 tagRelicB009=Guile
-tagRelicB009Desc=^b"Subtlety and wit over brute force and muscle."
+tagRelicB009Desc="Subtlety and wit over brute force and muscle."
 tagRelicB010=Rampage
-tagRelicB010Desc=^b"Unmatched passion to wage war in the name of Oleron."
+tagRelicB010Desc="Unmatched passion to wage war in the name of Oleron."
 tagRelicB011=Mistborn Talisman
-tagRelicB011Desc=^b"A talisman carried by trolls to drive them into a mindless battlerage that does not end until every enemy lies dead."
+tagRelicB011Desc="A talisman carried by trolls to drive them into a mindless battlerage that does not end until every enemy lies dead."
 tagRelicB012=Bladesworn Talisman
-tagRelicB012Desc=^b"A symbol of expertise in the art of wielding two melee weapons at the same time."
+tagRelicB012Desc="A symbol of expertise in the art of wielding two melee weapons at the same time."
 tagRelicB013=Gunslinger's Talisman
-tagRelicB013Desc=^b"A symbol of expertise in the art of firing two pistols at the same time with lethal accuracy."
+tagRelicB013Desc="A symbol of expertise in the art of firing two pistols at the same time with lethal accuracy."
 tagRelicB014=Bone Talisman
-tagRelicB014Desc=^b"This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
+tagRelicB014Desc="This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
 
 tagRelicC001=Arbiter
-tagRelicC001Desc=^b"Justice, unbiased and fair..."
+tagRelicC001Desc="Justice, unbiased and fair..."
 tagRelicC002=Fortress
-tagRelicC002Desc=^b"The immovable defender and bastion of the weak."
+tagRelicC002Desc="The immovable defender and bastion of the weak."
 tagRelicC003=Slaughter
-tagRelicC003Desc=^b"Not all nightblade assignments end with a clean kill."
+tagRelicC003Desc="Not all nightblade assignments end with a clean kill."
 tagRelicC004=Juggernaut
-tagRelicC004Desc=^b"A force of destruction that will not be denied."
+tagRelicC004Desc="A force of destruction that will not be denied."
 tagRelicC005=Terror
-tagRelicC005Desc=^b"Visions of terror and horrors from the dark places of the world."
+tagRelicC005Desc="Visions of terror and horrors from the dark places of the world."
 tagRelicC006=Torment
-tagRelicC006Desc=^b"A memento of the Arkovian Steps of Torment, filled with the agony of its innumerable victims."
+tagRelicC006Desc="A memento of the Arkovian Steps of Torment, filled with the agony of its innumerable victims."
 tagRelicC007=Haunt
-tagRelicC007Desc=^b"Ageless spirits, eager to escape into the world of the living."
+tagRelicC007Desc="Ageless spirits, eager to escape into the world of the living."
 tagRelicC008=Conflagration
-tagRelicC008Desc=^b"The breath of Ulzuin."
+tagRelicC008Desc="The breath of Ulzuin."
 tagRelicC009=Savagery
-tagRelicC009Desc=^b"Embrace the call of the wild."
+tagRelicC009Desc="Embrace the call of the wild."
 tagRelicC010=Deathchill
-tagRelicC010Desc=^b"The chilling touch of death lingers hungrily over all..."
+tagRelicC010Desc="The chilling touch of death lingers hungrily over all..."
 tagRelicC011=Sacrifice
-tagRelicC011Desc=^b"Spill blood so that those who cannot will never have to."
+tagRelicC011Desc="Spill blood so that those who cannot will never have to."
 tagRelicC012=Zeal
-tagRelicC012Desc=^b"Wage war with reckless abandon."
+tagRelicC012Desc="Wage war with reckless abandon."
 tagRelicC013=Desolation
-tagRelicC013Desc=^b"Leave nothing but desolation in your wake."
+tagRelicC013Desc="Leave nothing but desolation in your wake."
 tagRelicC014=Blight
-tagRelicC014Desc=^b"The master stroke of the nine plagues of Dreeg."
+tagRelicC014Desc="The master stroke of the nine plagues of Dreeg."
 tagRelicC015=Ancestor
-tagRelicC015Desc=^b"Within our ancestry lies the key to true potential."
+tagRelicC015Desc="Within our ancestry lies the key to true potential."
 
 tagRelicD001=Aegis
-tagRelicD001Desc=^b"The guiding light of Ishtak cleanses of pain and fills with renewed resolve."
+tagRelicD001Desc="The guiding light of Ishtak cleanses of pain and fills with renewed resolve."
 tagRelicD002=Malediction
-tagRelicD002Desc=^b"Plague and disease are an unmatched force, felling both the cripple and the warrior alike."
+tagRelicD002Desc="Plague and disease are an unmatched force, felling both the cripple and the warrior alike."
 tagRelicD003=Nemesis
-tagRelicD003Desc=^b"The moon as my guide, shadows my allies. I am the hunter..."
+tagRelicD003Desc="The moon as my guide, shadows my allies. I am the hunter..."
 tagRelicD004=Citadel
-tagRelicD004Desc=^b"Become like the unbreachable citadel and behold as your enemies meet their doom before your insurmountable walls."
+tagRelicD004Desc="Become like the unbreachable citadel and behold as your enemies meet their doom before your insurmountable walls."
 tagRelicD005=Eye of the Storm
-tagRelicD005Desc=^b"Those who seek divine power need but to look up to the skies during a lightning storm."
+tagRelicD005Desc="Those who seek divine power need but to look up to the skies during a lightning storm."
 tagRelicD006=Reckoning
-tagRelicD006Desc=^b"For every blow, reckoning a thousand-fold."
+tagRelicD006Desc="For every blow, reckoning a thousand-fold."
 tagRelicD007=Scourge
-tagRelicD007Desc=^b"I fear not the reaper, for I am death incarnate."
+tagRelicD007Desc="I fear not the reaper, for I am death incarnate."
 tagRelicD008=Ulzuin's Pyroclasm
-tagRelicD008Desc=^b"Bathe the world in cleansing fire..."
+tagRelicD008Desc="Bathe the world in cleansing fire..."
 tagRelicD009=Necrosis
-tagRelicD009Desc=^b"In the end of all things, we all share the same fate."
+tagRelicD009Desc="In the end of all things, we all share the same fate."
 tagRelicD010=Agrivix's Malice
-tagRelicD010Desc=^b"The secrets of the aether are ours for the taking. I simply do not fear what lies beyond the veil."
+tagRelicD010Desc="The secrets of the aether are ours for the taking. I simply do not fear what lies beyond the veil."
 tagRelicD011=Oblivion
-tagRelicD011Desc=^b"I have looked into the great dark beyond expecting the empty void. I never expected it to look back."
+tagRelicD011Desc="I have looked into the great dark beyond expecting the empty void. I never expected it to look back."
 tagRelicD012=Belgothian's Carnage
-tagRelicD012Desc=^b"My brother nightblades have their methods, and I have mine. There are no innocents."
+tagRelicD012Desc="My brother nightblades have their methods, and I have mine. There are no innocents."
 tagRelicD013=Annihilation
-tagRelicD013Desc=^b"The skies shall tear asunder, and fire shall rain from crimson heavens..."
+tagRelicD013Desc="The skies shall tear asunder, and fire shall rain from crimson heavens..."
 tagRelicD014=Avenger
-tagRelicD014Desc=^b"It is true, you have landed a mighty blow; but the last one shall be mine."
+tagRelicD014Desc="It is true, you have landed a mighty blow; but the last one shall be mine."
 tagRelicD015=Primal Instinct
-tagRelicD015Desc=^b"Come forth, my minions. It is time to feast..."
+tagRelicD015Desc="Come forth, my minions. It is time to feast..."
 tagRelicD016=Solael's Devastation
-tagRelicD016Desc=^b"They said no man could harness such power, so I ceased to be a man."
+tagRelicD016Desc="They said no man could harness such power, so I ceased to be a man."
 tagRelicD017=Dreeg's Affliction
-tagRelicD017Desc=^b"The greatest secret kept from you is the fallacy of your fragile mortality."
+tagRelicD017Desc="The greatest secret kept from you is the fallacy of your fragile mortality."
 tagRelicD018=Bysmiel's Domination
-tagRelicD018Desc=^b"Look at them, little puppets, all moving along my invisible strings."
+tagRelicD018Desc="Look at them, little puppets, all moving along my invisible strings."
 tagRelicD019=Oleron's Wrath
-tagRelicD019Desc=^b"Blood... agony... death. Will you deny the drums of war?"
+tagRelicD019Desc="Blood... agony... death. Will you deny the drums of war?"
 tagRelicD020=Menhir's Bastion
-tagRelicD020Desc=^b"The earth will suffer neither foul spirit nor vile blood heathens. Rise up to her defense and Cairn will rise with you."
+tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood heathens. Rise up to her defense and Cairn will rise with you."
 
 
 #Crafting
@@ -1355,27 +1372,27 @@ tagCraftTabMiscA=Accessories and Consumables
 tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
 
 tagCraftMaterial_RoyalJelly=Royal Jelly
-tagCraftMaterial_RoyalJelly_Desc=^b"Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
+tagCraftMaterial_RoyalJelly_Desc="Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
 tagCraftMaterial_AetherShard=Aether Shard
-tagCraftMaterial_AetherShard_Desc=^b"A large shard from an aether crystal formation, still teeming with untapped power."
+tagCraftMaterial_AetherShard_Desc="A large shard from an aether crystal formation, still teeming with untapped power."
 tagCraftMaterial_AetherCluster=Aether Cluster
-tagCraftMaterial_AetherCluster_Desc=^b"A concentrated cluster of Aether Shards, bursting with unstable energies."
+tagCraftMaterial_AetherCluster_Desc="A concentrated cluster of Aether Shards, bursting with unstable energies."
 tagCraftMaterial_TaintedBrain=Tainted Brain Matter
-tagCraftMaterial_TaintedBrain_Desc=^b"Brain tissue scarred and twisted by the manipulations of a powerful Aetherial."
+tagCraftMaterial_TaintedBrain_Desc="Brain tissue scarred and twisted by the manipulations of a powerful Aetherial."
 tagCraftMaterial_BloodChthon=Blood of Ch'thon
-tagCraftMaterial_BloodChthon_Desc=^b"Coalesced essence of the void god."
+tagCraftMaterial_BloodChthon_Desc="Coalesced essence of the void god."
 tagCraftMaterial_AncientHeart=Ancient Heart
-tagCraftMaterial_AncientHeart_Desc=^b"It continues to beat within your bag with an eerily steady rhythm."
+tagCraftMaterial_AncientHeart_Desc="It continues to beat within your bag with an eerily steady rhythm."
 tagCraftMaterial_Manticore=Manticore Eye (Not available until Act 3)
-tagCraftMaterial_Mancitore_Desc=^b"The sharp eye of an unmatched predator."
+tagCraftMaterial_Mancitore_Desc="The sharp eye of an unmatched predator."
 tagCraftMaterial_SkeletonKey=Skeleton Key
-tagCraftMaterial_SkeletonKey_Desc=^b"If the stories are to be believed, this key will open nearly any ancient door."
+tagCraftMaterial_SkeletonKey_Desc="If the stories are to be believed, this key will open nearly any ancient door."
 
-tagCraftRandomItemDesc=^bThe blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
-tagCraftComponentDesc=^bExperienced forging technique can yield materials of superior quality.
-tagCraftComponentRareDesc=^bAn extraordinary crafting technique thought lost to the ages.
-tagCraftShardBeronathDesc=^bTransmute steel into a shard of the sacred Beronath.
-tagCraftRelicDesc=^bAncient forging technique thought lost to the Grim Dawn.
+tagCraftRandomItemDesc=The blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
+tagCraftComponentDesc=Experienced forging technique can yield materials of superior quality.
+tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to the ages.
+tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
+tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
 
 tagCraftRandomAxe=Enchanted Axe
 tagCraftRandomBlunt=Enchanted Mace
@@ -1385,6 +1402,9 @@ tagCraftRandomGun2h=Enchanted Two-Handed Gun
 tagCraftRandomShield=Enchanted Shield
 tagCraftRandomSword=Enchanted Sword
 tagCraftRandomGun1h=Enchanted One-Handed Gun
+tagCraftRandomAxe2h=Enchanted Two-Handed Axe
+tagCraftRandomBlunt2h=Enchanted Two-Handed Mace
+tagCraftRandomSword2h=Enchanted Two-Handed Sword
 
 tagCraftRandomRing=Enchanted Ring
 tagCraftRandomNecklace=Enchanted Necklace
@@ -1420,7 +1440,7 @@ tagSuppliesError=
 tagScrollDirections=[Right-Click to Consume]
 
 tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
-tagConsumableRoyalJellyBalmBlueprintDesc=^b"A secret medicinal technique of the Rovers."
+tagConsumableRoyalJellyBalmBlueprintDesc="A secret medicinal technique of the Rovers."
 tagConsumableBlueprintA01=Recipe: Flamedrinker Ointment
 tagConsumableBlueprintA02=Recipe: Frostshroud Ointment
 tagConsumableBlueprintA03=Recipe: Stormshroud Ointment
@@ -1434,55 +1454,55 @@ tagConsumableBlueprintA10=Recipe: Venomfang Oil
 tagConsumableBlueprintA11=Recipe: Bloodfang Oil
 tagConsumableBlueprintA12=Recipe: Arcanum Oil
 tagConsumableBlueprintA13=Recipe: Elixir of the Ancients
-tagConsumableBlueprintA13Desc=^b"A forgotten art that dabbles in forbidden magic."
+tagConsumableBlueprintA13Desc="A forgotten art that dabbles in forbidden magic."
 tagConsumableBlueprintA14=Recipe: Elixir of the Aether
-tagConsumableBlueprintA14Desc=^b"A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
+tagConsumableBlueprintA14Desc="A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
 tagConsumableBlueprintA15=Recipe: Elixir of the Void
-tagConsumableBlueprintA15Desc=^b"A concoction often used by the Cult of Ch'thon to bring them closer to their god."
+tagConsumableBlueprintA15Desc="A concoction often used by the Cult of Ch'thon to bring them closer to their god."
 tagConsumableBlueprintA16=Recipe: Elixir of the Hunt
-tagConsumableBlueprintA16Desc=^b"A mixture used by hunters to better track their prey."
+tagConsumableBlueprintA16Desc="A mixture used by hunters to better track their prey."
 
 tagConsumable_RoyalJellyBalm=Royal Jelly Balm
-tagConsumable_RoyalJellyBalmDesc=^b"A soothing concoction made from concentrated Royal Jelly."
+tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
 tagConsumableA01=Flamedrinker Ointment
-tagConsumableA01Desc=^b"A foul-smelling concoction which refuses to catch fire."
+tagConsumableA01Desc="A foul-smelling concoction which refuses to catch fire."
 tagConsumableA02=Frostshroud Ointment
-tagConsumableA02Desc=^b"A dense concoction that's strangely warm to the touch."
+tagConsumableA02Desc="A dense concoction that's strangely warm to the touch."
 tagConsumableA03=Stormshroud Ointment
-tagConsumableA03Desc=^b"A slimy concoction that deflects electrical energy."
+tagConsumableA03Desc="A slimy concoction that deflects electrical energy."
 tagConsumableA04=Venomguard Ointment
-tagConsumableA04Desc=^b"A sweet-smelling concoction that neutralizes most toxins."
+tagConsumableA04Desc="A sweet-smelling concoction that neutralizes most toxins."
 tagConsumableA05=Bloodbound Ointment
-tagConsumableA05Desc=^b"A thick concoction that constantly shifts between black and a deep bloody red."
+tagConsumableA05Desc="A thick concoction that constantly shifts between black and a deep bloody red."
 tagConsumableA06=Spiritbane Ointment
-tagConsumableA06Desc=^b"A glowing concoction that gives off a strange warmth."
+tagConsumableA06Desc="A glowing concoction that gives off a strange warmth."
 tagConsumableA07=Deathwhisper Ointment
-tagConsumableA07Desc=^b"A nauseating concoction that bubbles and shifts even after application."
+tagConsumableA07Desc="A nauseating concoction that bubbles and shifts even after application."
 tagConsumableA08=Hoarfrost Ointment
-tagConsumableA08Desc=^b"An oily concoction so warm it's nearly scalding to the touch."
+tagConsumableA08Desc="An oily concoction so warm it's nearly scalding to the touch."
 tagConsumableA09=Lifestealer Oil
-tagConsumableA09Desc=^b"A repulsive toxin used to draw the life out of the intended target."
+tagConsumableA09Desc="A repulsive toxin used to draw the life out of the intended target."
 tagConsumableA10=Venomfang Oil
-tagConsumableA10Desc=^b"A vile toxin mixed from various poisonous creatures, with a touch of slith venom."
+tagConsumableA10Desc="A vile toxin mixed from various poisonous creatures, with a touch of slith venom."
 tagConsumableA11=Bloodfang Oil
-tagConsumableA11Desc=^b"A foul toxin which induces heavy bleeding in the target."
+tagConsumableA11Desc="A foul toxin which induces heavy bleeding in the target."
 tagConsumableA12=Arcanum Oil
-tagConsumableA12Desc=^b"A mixture employed by the Gildam Arcanum to enhance the focal properties of weapons."
+tagConsumableA12Desc="A mixture employed by the Gildam Arcanum to enhance the focal properties of weapons."
 tagConsumableA13=Elixir of the Ancients
-tagConsumableA13Desc=^b"A powerful elixir derived from the ancient beasts of Cairn."
+tagConsumableA13Desc="A powerful elixir derived from the ancient beasts of Cairn."
 tagConsumableA14=Elixir of the Aether
-tagConsumableA14Desc=^b"A powerful elixir derived from the essence of the Aether."
+tagConsumableA14Desc="A powerful elixir derived from the essence of the Aether."
 tagConsumableA15=Elixir of the Void
-tagConsumableA15Desc=^b"A powerful elixir derived by foul blood magic."
+tagConsumableA15Desc="A powerful elixir derived by foul blood magic."
 tagConsumableA16=Elixir of the Hunt
-tagConsumableA16Desc=^b"A powerful elixir employed by hunters and assassins to better track their prey."
+tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to better track their prey."
 
 
 #ItemNote
 
 tagNoteHelp=[Right-Click to Read]
 tagNoteKnown=[Already Known]
-tagNoteExcerpt=^b"{%t}.."
+tagNoteExcerpt="{%t}.."
 
 #ItemEnchantment
 
@@ -1502,264 +1522,264 @@ tagComponentCombine=[Right-Click to Combine]
 tagComponentConfirmation=Are you sure you want to complete this combination?
 
 tagCompA001Name=Spined Carapace
-tagCompA001Desc=^b"A thick carapace lined with jagged spines."^w^n(Used in all armor)
+tagCompA001Desc="A thick carapace lined with jagged spines."^w^n(Used in all armor)
 
 tagCompA002Name=Ballistic Plating
-tagCompA002Desc=^b"Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
+tagCompA002Desc="Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
 
 tagCompA003Name=Sanctified Bone
-tagCompA003Desc=^b"Desecrated bones made pure again by priests of various faiths."^w^n(Used in chest armor)
+tagCompA003Desc="The purified bones of a paladin slain in righteous combat"^w^n(Used in chest armor)
 
 tagCompA004Name=Leathery Hide
-tagCompA004Desc=^b"A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
+tagCompA004Desc="A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
 
 tagCompA005Name=Runestone
-tagCompA005Desc=^b"A mysterious rune decorates this stone."^w^n(Used in head armor)
+tagCompA005Desc="A mysterious rune decorates this stone."^w^n(Used in head armor)
 
 tagCompA006Name=Mutagenic Ichor
-tagCompA006Desc=^b"Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and off-hands)
+tagCompA006Desc="Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA007Name=Rotten Heart
-tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
+tagCompA007Desc="A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
 
 tagCompA008Name=Mutated Scales
-tagCompA008Desc=^b"Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in chest and shoulder armor)
+tagCompA008Desc="Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in chest and shoulder armor)
 
 tagCompA009Name=Corpse Dust
-tagCompA009Desc=^b"Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
+tagCompA009Desc="Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
 
 tagCompA010Name=Soul Shard
-tagCompA010Desc=^b"A magical gem used by witch hunters rumored to trap the souls of the damned."^w^n(Used in amulets and medals)
+tagCompA010Desc="A magical gem used by witch hunters rumored to trap the souls of the damned."^w^n(Used in amulets and medals)
 
 tagCompA011Name=Ectoplasm
-tagCompA011Desc=^b"A gelatinous residue sometimes left behind by non-corporeal entities."^w^n(Used in rings and amulets)
+tagCompA011Desc="A gelatinous residue sometimes left behind by non-corporeal entities."^w^n(Used in rings and amulets)
 
 tagCompA012Name=Blessed Steel
-tagCompA012Desc=^b"Steel blessed by the priests of Menhir to vanquish the spreading darkness."^w^n(Used in all weapons, shields and off-hands)
+tagCompA012Desc="Steel blessed by the priests of Menhir to vanquish the spreading darkness."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA013Name=Venomous Fang
-tagCompA013Desc=^b"A ferocious fang still dripping with foul toxins."^w^n(Used in melee weapons)
+tagCompA013Desc="A ferocious fang still dripping with foul toxins."^w^n(Used in melee weapons)
 
 tagCompA014Name=Purified Salt
-tagCompA014Desc=^b"Rock salt extracted for the exorcism and deterrence of otherworldly demons."^w^n(Used in all weapons, shields and off-hands)
+tagCompA014Desc="Rock salt extracted for the exorcism and deterrence of otherworldly demons."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA015Name=Hollowed Fang
-tagCompA015Desc=^b"A curved fang intended for the consumption of vital fluids."^w^n(Used in all weapons, shields and off-hands)
+tagCompA015Desc="A curved fang intended for the consumption of vital fluids."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA016Name=Severed Claw
-tagCompA016Desc=^b"A ruthless claw torn from the limb of a mighty beast."^w^n(Used in all weapons, shields and off-hands)
+tagCompA016Desc="A ruthless claw torn from the limb of a mighty beast."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA017Name=Imbued Silver
-tagCompA017Desc=^b"Silver dust enhanced with powerful sorcery."^w^n(Used in all weapons, shields and off-hands)
+tagCompA017Desc="Silver dust enhanced with powerful sorcery."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA018Name=Vicious Spikes
-tagCompA018Desc=^b"Savage spikes from an unnatural being."^w^n(Used in shields)
+tagCompA018Desc="Savage spikes from an unnatural being."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA019Name=Radiant Gem
-tagCompA019Desc=^b"A reflective gem that shimmers with the elements."^w^n(Used in shields and off-hands)
+tagCompA019Desc="A reflective gem that shimmers with the elements."^w^n(Used in shields and off-hands)
 
 tagCompA020Name=Hell's Bane Ammo
-tagCompA020Desc=^b"Consecrated ammunition intended to inflict great pain upon those of impure intent."^w^n(Used in guns and crossbows)
+tagCompA020Desc="Consecrated ammunition intended to inflict great pain upon those of impure intent."^w^n(Used in guns and crossbows)
 
 tagCompA021Name=Deathchill Bolts
-tagCompA021Desc=^b"Deliver the cold chill of death upon your enemies."^w^n(Used in guns and crossbows)
+tagCompA021Desc="Deliver the cold chill of death upon your enemies."^w^n(Used in guns and crossbows)
 
 tagCompA022Name=Aether Soul
-tagCompA022Desc=^b"A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."^w^n(Used in amulets and medals)
+tagCompA022Desc="A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."^w^n(Used in amulets and medals)
 
 tagCompA023Name=Rigid Shell
-tagCompA023Desc=^b"A tough shell seemingly impervious to shock."^w^n(Used in all armor)
+tagCompA023Desc="A tough shell seemingly impervious to shock."^w^n(Used in all armor)
 
 tagCompA024Name=Molten Skin
-tagCompA024Desc=^b"A thick layer of skin from a fiery creature."^w^n(Used in all armor)
+tagCompA024Desc="A thick layer of skin from a fiery creature."^w^n(Used in all armor)
 
 tagCompA025Name=Enchanted Flint
-tagCompA025Desc=^b"This enchanted flint will impart a spirit of flame within any weapon it caresses."^w^n(Used in melee weapons)
+tagCompA025Desc="This enchanted flint will impart a spirit of flame within any weapon it caresses."^w^n(Used in melee weapons)
 
 tagCompA026Name=Coldstone
-tagCompA026Desc=^b"In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."^w^n(Used in melee weapons)
+tagCompA026Desc="In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."^w^n(Used in melee weapons)
 
 tagCompA027Name=Amber
-tagCompA027Desc=^b"It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons)
+tagCompA027Desc="It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons)
 
 tagCompA028Name=Vitriolic Gallstone
-tagCompA028Desc=^b"Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons)
+tagCompA028Desc="Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons)
 
 tagCompA029Name=Blessed Whetstone
-tagCompA029Desc=^b"Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes and swords)
+tagCompA029Desc="Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes and swords)
 
 tagCompA030Name=Silk Swatch
-tagCompA030Desc=^b"Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."^w^n(Used in shoulder, chest and leg armor)
+tagCompA030Desc="Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."^w^n(Used in shoulder, chest and leg armor)
 
 tagCompA031Name=Scaled Hide
-tagCompA031Desc=^b"These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
+tagCompA031Desc="These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
 
 tagCompA032Name=Flintcore Bolts
-tagCompA032Desc=^b"The enchanted core sparks flame with any surface."^w^n(Used in guns and crossbows)
+tagCompA032Desc="The enchanted core sparks flame with any surface."^w^n(Used in guns and crossbows)
 
 tagCompA033Name=Venom-Tipped Ammo
-tagCompA033Desc=^b"Toxins from a poisonous maw coat the tip of this ammunition."^w^n(Used in guns and crossbows)
+tagCompA033Desc="Toxins from a poisonous maw coat the tip of this ammunition."^w^n(Used in guns and crossbows)
 
 tagCompA034Name=Mark of the Traveler
-tagCompA034Desc=^b"Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."^w^n(Used in boots)
+tagCompA034Desc="Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."^w^n(Used in boots)
 
 tagCompA035Name=Consecrated Wrappings
-tagCompA035Desc=^b"Blood stained wrappings worn by Ch'thonic cultists."^w^n(Used in hand armor)
+tagCompA035Desc="Blood stained wrappings worn by Ch'thonic cultists."^w^n(Used in hand armor)
 
 tagCompA036Name=Restless Remains
-tagCompA036Desc=^b"The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
+tagCompA036Desc="The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
 
 tagCompA037Name=Dense Fur
-tagCompA037Desc=^b"A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
+tagCompA037Desc="A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
 
 tagCompA038Name=Serrated Spike
-tagCompA038Desc=^b"A flimsy but extremely sharp spike from a beast."^w^n(Used in all weapons, shields and off-hands)
+tagCompA038Desc="A flimsy but extremely sharp spike from a beast."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA039Name=Searing Ember
-tagCompA039Desc=^b"An everlasting ember from a burnt-down home."^w^n(Used in all weapons, shields and off-hands)
+tagCompA039Desc="An everlasting ember from a burnt-down home."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA040Name=Chilled Steel
-tagCompA040Desc=^b"This steel is infused with a chilling winter wind."^w^n(Used in all weapons, shields and off-hands)
+tagCompA040Desc="This steel is infused with a chilling winter wind."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA041Name=Cracked Lodestone
-tagCompA041Desc=^b"Sparks of energy jump across its surface."^w^n(Used in all weapons, shields and off-hands)
+tagCompA041Desc="Sparks of energy jump across its surface."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA042Name=Chipped Claw
-tagCompA042Desc=^b"A claw from a ruthless predator that finally met its match."^w^n(Used in all weapons, shields and off-hands)
+tagCompA042Desc="A claw from a ruthless predator that finally met its match."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA043Name=Scavenged Plating
-tagCompA043Desc=^b"Plating from armor that's seen better days."^w^n(Used in all armor)
+tagCompA043Desc="Plating from armor that's seen better days."^w^n(Used in all armor)
 
 tagCompA044Name=Bristly Fur
-tagCompA044Desc=^b"A thick patch of fur from an unnatural beast."^w^n(Used in all armor)
+tagCompA044Desc="A thick patch of fur from an unnatural beast."^w^n(Used in all armor)
 
 tagCompA045Name=Resilient Plating
-tagCompA045Desc=^b"A plate of armor that's survived countless battles and looks fit to survive many more."^w^n(Used in shields, off-hands, chest and shoulder armor)
+tagCompA045Desc="A plate of armor that's survived countless battles and looks fit to survive many more."^w^n(Used in shields, off-hands, chest and shoulder armor)
 
 tagCompA046Name=Polished Emerald
-tagCompA046Desc=^b"A fine gem polished to perfection."^w^n(Used in shields, off-hands, rings, head and chest armor)
+tagCompA046Desc="A fine gem polished to perfection."^w^n(Used in shields, off-hands, rings, head and chest armor)
 
 tagCompA047Name=Frozen Heart
-tagCompA047Desc=^b"Eternally encased in black ice."^w^n(Used in rings)
+tagCompA047Desc="Eternally encased in black ice."^w^n(Used in rings)
 
 tagCompA048Name=Roiling Blood
-tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
+tagCompA048Desc="Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
 
 tagCompA049Name=Wardstone
-tagCompA049Desc=^b"A stone etching of an ancient protective symbol."^w^n(Used in amulets)
+tagCompA049Desc="A stone etching of an ancient protective symbol."^w^n(Used in amulets)
 
 tagCompA050Name=Focusing Prism
-tagCompA050Desc=^b"Used by arcanists to channel their powers during particularly straining rituals."^w^n(Used amulets)
+tagCompA050Desc="Used by arcanists to channel their powers during particularly straining rituals."^w^n(Used in amulets)
 
 tagCompA051Name=Black Tallow
-tagCompA051Desc=^b"Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
+tagCompA051Desc="Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
 
 tagCompA052Name=Vengeful Wraith
-tagCompA052Desc=^b"A spirit of vengeance."^w^n(Used in amulets and medals)
+tagCompA052Desc="A spirit of vengeance."^w^n(Used in amulets and medals)
 
 tagCompA053Name=Mark of Illusions
-tagCompA053Desc=^b"A symbol of power used in many inscriptions."^w^n(Used in rings and amulets)
+tagCompA053Desc="A symbol of power used in many inscriptions."^w^n(Used in rings and amulets)
 
 tagCompA054Name=Vicious Jawbone
-tagCompA054Desc=^b"The jaw of a beast built to snap bones as if they were sticks."^w^n(Used in amulets and medals)
+tagCompA054Desc="The jaw of a beast built to snap bones as if they were sticks."^w^n(Used in amulets and medals)
 
 tagCompA055Name=Wrathstone
-tagCompA055Desc=^b"It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
+tagCompA055Desc="It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
 
 tagCompA056Name=Riftstone
-tagCompA056Desc=^b"Teeming with the raw power of a riftgate."^w^n(Used in melee weapons)
+tagCompA056Desc="Teeming with the raw power of the void."^w^n(Used in melee weapons)
 
 tagCompA057Name=Aethersteel Bolts
-tagCompA057Desc=^b"Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)
+tagCompA057Desc="Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)
 
 tagCompA058Name=Void-Touched Ammo
-tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
+tagCompA058Desc="Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
 
 tagCompA059Name=Aethersteel Alloy
-tagCompA059Desc=^b"An exceptionally light yet durable metal."^w^n(Used in shields)
+tagCompA059Desc="An exceptionally light yet durable metal."^w^n(Used in shields)
 
 tagCompA060Name=Battered Shell
-tagCompA060Desc=^b"A shell that has survived seemingly impossible blows."^w^n(Used in shields)
+tagCompA060Desc="A shell that has survived seemingly impossible blows."^w^n(Used in shields)
 
 tagCompA061Name=Viscous Venom
-tagCompA061Desc=^b"Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
+tagCompA061Desc="Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
 
 
 tagCompB001Name=^kBindings of Bysmiel
-tagCompB001Desc=^b"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
+tagCompB001Desc="Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
 
 tagCompB002Name=^kChains of Oleron
-tagCompB002Desc=^b"The broken chains once used to contain the fury of the deity Oleron."^w^n(Used in chest armor)
+tagCompB002Desc="The broken chains once used to contain the fury of the deity Oleron."^w^n(Used in chest armor)
 
 tagCompB003Name=^kHallowed Ground
-tagCompB003Desc=^b"Dirt from the base of the standing stones of Menhir."^w^n(Used in chest armor)
+tagCompB003Desc="Dirt from the base of the standing stones of Menhir."^w^n(Used in chest armor)
 
 tagCompB004Name=^kPrismatic Diamond
-tagCompB004Desc=^b"The core shimmers with untold power."^w^n(Used in head armor)
+tagCompB004Desc="The core shimmers with untold power."^w^n(Used in head armor)
 
 tagCompB005Name=^kSpellwoven Threads
-tagCompB005Desc=^b"Strips of fabric cut from the death shroud of a once powerful magi."^w^n(Used in hand armor)
+tagCompB005Desc="Strips of fabric cut from the death shroud of a once powerful magi."^w^n(Used in hand armor)
 
 tagCompB006Name=^kUnholy Inscription
-tagCompB006Desc=^b"Words of power from an ancient language that cannot be spoken by mortal men."^w^n(Used in hand armor)
+tagCompB006Desc="Words of power from an ancient language that cannot be spoken by mortal men."^w^n(Used in hand armor)
 
 tagCompB007Name=^kAncient Armor Plate
-tagCompB007Desc=^b"Plating from a once mighty set of armor."^w^n(Used in chest and leg armor)
+tagCompB007Desc="Plating from a once mighty set of armor."^w^n(Used in chest and leg armor)
 
 tagCompB008Name=^kArcane Lens
-tagCompB008Desc=^b"A locus for the arcane flows of the universe."^w^n(Used in amulets)
+tagCompB008Desc="A locus for the arcane flows of the universe."^w^n(Used in amulets)
 
 tagCompB009Name=^kDevil-Touched Ammo
-tagCompB009Desc=^b"Infused with sacrilegious flame."^w^n(Used in guns and crossbows)
+tagCompB009Desc="Infused with sacrilegious flame."^w^n(Used in guns and crossbows)
 
 tagCompB010Name=^kSilvercore Bolts
-tagCompB010Desc=^b"Purge evil with the faintest scratch."^w^n(Used in guns and crossbows)
+tagCompB010Desc="Purge evil with the faintest scratch."^w^n(Used in guns and crossbows)
 
 tagCompB011Name=^kSymbol of Solael
-tagCompB011Desc=^b"A secret symbol used by followers of Solael to identify themselves to one another."^w^n(Used in all weapons, shields and off-hands)
+tagCompB011Desc="A secret symbol used by followers of Solael to identify themselves to one another."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompB012Name=^kMark of Dreeg
-tagCompB012Desc=^b"An inscription of a lidless eye dripping tears of vitriolic blood."^w^n(Used in all weapons, shields and off-hands)
+tagCompB012Desc="An inscription of a lidless eye dripping tears of vitriolic blood."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompB013Name=^kHaunted Steel
-tagCompB013Desc=^b"It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
+tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompB014Name=^kShard of Beronath
-tagCompB014Desc=^b"But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in axes and swords)
+tagCompB014Desc="But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in axes and swords)
 
 tagCompB015Name=^kBloody Whetstone
-tagCompB015Desc=^b"Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
+tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
 
 tagCompB016Name=^kAttuned Lodestone
-tagCompB016Desc=^b"These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
+tagCompB016Desc="These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
 
 tagCompB017Name=^kMark of Mogdrogen
-tagCompB017Desc=^b"A secret mark worn by druidic worshipers of Mogdrogen, the beast god."^w^n(Used in boots)
+tagCompB017Desc="A secret mark worn by druidic worshipers of Mogdrogen, the beast god."^w^n(Used in boots)
 
 tagCompB018Name=^kDread Skull
-tagCompB018Desc=^b"An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
+tagCompB018Desc="An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
 
 tagCompB019Name=^kArcane Spark
-tagCompB019Desc=^b"A spark of the purest arcane energy."^w^n(Used in amulets)
+tagCompB019Desc="A spark of the purest arcane energy."^w^n(Used in amulets)
 
 tagCompB020Name=^kMark of the Myrmidon
-tagCompB020Desc=^b"A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
+tagCompB020Desc="A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
 
 tagCompB021Name=^kOleron's Blood
-tagCompB021Desc=^b"Sacred blood of the war god."^w^n(Used in all weapons)
+tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons)
 
 tagCompB022Name=^kKilrian's Shattered Soul
-tagCompB022Desc=^b"The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
+tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
 
 
 tagCompAetherCrystal=Aether Crystal
-tagCompAetherCrystalDesc=^b"A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
+tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
 
 tagCompAmmoBox=Ammunition Box
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
 
 tagCompAScrap=Scrap
-tagCompAScrapDesc=^b"Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures."
+tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures."
 
 
 #Misc
@@ -1768,26 +1788,32 @@ tagMoney01=Iron Bits
 tagMoneyFormat={^s}{%d0}  {%s1}
 
 tagPotionHealthA01=Tonic of Mending
-tagPotionHealthA01Desc=^b"Seals wounds and mends broken bones."
+tagPotionHealthA01Desc="Seals wounds and mends broken bones."
 tagPotionHealthA02=Tonic of Healing
-tagPotionHealthA02Desc=^b"Seals wounds and mends broken bones."
+tagPotionHealthA02Desc="Seals wounds and mends broken bones."
 tagPotionHealthA03=Tonic of Revival
-tagPotionHealthA03Desc=^b"Seals wounds and mends broken bones."
+tagPotionHealthA03Desc="Seals wounds and mends broken bones."
 
 tagPotionEnergyA01=Elixir of Spirit
-tagPotionEnergyA01Desc=^b"Rejuvenates the mind and spirit."
+tagPotionEnergyA01Desc="Rejuvenates the mind and spirit."
+
+tagPotionConstitutionA01=Food Ration
+tagPotionConstitutionA01Desc="Tastes like stale dirt but lasts forever and restores lost constitution."
+
+tagPotionConstitutionB01=Vital Essence
+tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to restore lost constitution.
 
 tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[While holding, right-click to combine stacks]
 
 # Bonuses
 
-tagBonusLifePercentAbs=Restores {%.0f0}% + {%.0f1} Life
-tagBonusLifePercent=Restores {%.0f0}% Life
-tagBonusLifeAbs=Restores {%.0f0} Life
-tagBonusManaPercentAbs=Restores {%.0f0}% + {%.0f1} Energy
-tagBonusManaPercent=Restores {%.0f0}% Energy
-tagBonusManaAbs=Restores {%.0f0}% Energy
+tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Life
+tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Life
+tagBonusLifeAbs={^E}Restores {^H}{%.0f0} {^E}Life
+tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
+tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
+tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusExperience={%+d0} Experience
 tagBonusMoney={%+d0} Iron
 tagBonusSkillPoint={%+d0} Skill Points
@@ -1795,92 +1821,93 @@ tagBonusAttribPoint={%+d0} Attribute Points
 
 #ItemSets
 
-tagItemSetB001Name=Wrath of Alkamos
-tagItemSetB001Desc=
 
 tagItemSetC001Name=Guardsman's Raiment
-tagItemSetC001Desc=^b"Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
+tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
 
 tagItemSetC002Name=Explorer's Garments
-tagItemSetC002Desc=^b"Light but durable armor for the eager traveler."
+tagItemSetC002Desc="Light but durable armor for the eager traveler."
 
 tagItemSetC003Name=Maiven's Sanctuary
-tagItemSetC003Desc=^b"Regalia honoring the legendary Arcanist Maiven."
+tagItemSetC003Desc="Regalia honoring the legendary Arcanist Maiven."
 
 tagItemSetC004Name=Bloodreaper's Glory
-tagItemSetC004Desc=^b"Armor and weapons used only by the most bloodthirsty assassins of Cairn."
+tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
 tagItemSetC005Name=Marauder's Justice
-tagItemSetC005Desc=^b"Judge, jury, and executioner."
+tagItemSetC005Desc="Judge, jury, and executioner."
 
 tagItemSetC006Name=Herald's Regalia
-tagItemSetC006Desc=^b"Armor worn by the King's herald on diplomatic missions."
+tagItemSetC006Desc="Armor worn by the King's herald on diplomatic missions."
 
 tagItemSetC007Name=Menhir's Touch
-tagItemSetC007Desc=^b"Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
+tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
 
 tagItemSetC008Name=Redemption
-tagItemSetC008Desc=^b"Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
+tagItemSetC008Desc="Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
 
 tagItemSetC009Name=The Unseeing Eye
-tagItemSetC009Desc=^b"The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
+tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
 
 tagItemSetC010Name=Sharpshooter's Mark
-tagItemSetC010Desc=^b"Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
+tagItemSetC010Desc="Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
 
 tagItemSetC011Name=Unholy Covenant
-tagItemSetC011Desc=^b"Cabal regalia worn during unspeakable rituals."
+tagItemSetC011Desc="Cabal regalia worn during unspeakable rituals."
 
 tagItemSetC012Name=Royal Exuberance
-tagItemSetC012Desc=^b"Royal collection of jewelry thought lost to the ravages of the Grim Dawn."
+tagItemSetC012Desc="Royal collection of jewelry thought lost to the ravages of the Grim Dawn."
 
 tagItemSetC013Name=Oathbreaker
-tagItemSetC013Desc=^b"Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
+tagItemSetC013Desc="Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
 
 tagItemSetC014Name=Adorments of Valiance
-tagItemSetC014Desc=^b"Commendations bestowed upon soldiers for heroic actions in time of war."
+tagItemSetC014Desc="Commendations bestowed upon soldiers for heroic actions in time of war."
 
 tagItemSetC015Name=Carnage
-tagItemSetC015Desc=^b"These rings inspire bloodshed in whoever wears them."
+tagItemSetC015Desc="These rings inspire bloodshed in whoever wears them."
 
 tagItemSetC016Name=The Paragon of Arcanum
-tagItemSetC016Desc=^b"Regalia bestowed upon arcanists who had made extraordinary leaps in the understanding of the arcane."
+tagItemSetC016Desc="Regalia bestowed upon arcanists who had made extraordinary leaps in the understanding of the arcane."
 
 tagItemSetC017Name=Dawnguard
-tagItemSetC017Desc=^b"Armor worn only by the most zealous defenders of the holy faith of Menhir."
+tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy faith of Menhir."
+
+tagItemSetC018Name=Wrath of Alkamos
+tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia"
 
 tagItemSetD001Name=Justicar Armor
-tagItemSetD001Desc=^b"Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
+tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
 
 tagItemSetD002Name=The Sacred Balance
-tagItemSetD002Desc=^b"The very essence of Life and Death is imbued within these blades."
+tagItemSetD002Desc="The very essence of Life and Death is imbued within these blades."
 
 tagItemSetD003Name=Beastcaller's Regalia
-tagItemSetD003Desc=^b"Might of the bear, wisdom of the owl, fury of the wolf."
+tagItemSetD003Desc="Might of the bear, wisdom of the owl, fury of the wolf."
 
 tagItemSetD004Name=Dawnbreaker's Light
-tagItemSetD004Desc=^b"The wrath of the sun against the encroaching darkness."
+tagItemSetD004Desc="The wrath of the sun against the encroaching darkness."
 
 tagItemSetD005Name=The Harbinger
-tagItemSetD005Desc=^b"Tools of the Harbinger, renowned bounty hunter in the outskirts of Erulan."
+tagItemSetD005Desc="Tools of the Harbinger, renowned bounty hunter in the outskirts of Erulan."
 
 tagItemSetD006Name=Judicator's Signets
-tagItemSetD006Desc=^b"The fates of many decided by the heavy hand of one."
+tagItemSetD006Desc="The fates of many decided by the heavy hand of one."
 
 tagItemSetD007Name=Demonslayer's Garb
-tagItemSetD007Desc=^b"Attire of Oliver Barnstead, pious follower of Menhir and exorcist of demons."
+tagItemSetD007Desc="Attire of Oliver Barnstead, pious follower of Menhir and exorcist of demons."
 
 tagItemSetD008Name=Barrelsmith's Twins
-tagItemSetD008Desc=^b"Forged together, fight as one."
+tagItemSetD008Desc="Forged together, fight as one."
 
 tagItemSetD009Name=Wildblood Vanguard
-tagItemSetD009Desc=^b"A collection from a less civilized era."
+tagItemSetD009Desc="A collection from a less civilized era."
 
 tagItemSetD010Name=The Archmage
-tagItemSetD010Desc=^b"Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
+tagItemSetD010Desc="Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
 
 tagItemSetD011Name=Invoker's Elements
-tagItemSetD011Desc=^b"The raging power of a volcano balanced by the chill of the northern wind."
+tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the northern wind."
 
 
 #Prefixes
@@ -1943,7 +1970,7 @@ tagPrefixAO005=Searing
 tagPrefixAO006=Poisoned
 tagPrefixAO007=Charged
 tagPrefixAO008=Vampiric
-tagPrefixAO009=Spectral
+tagPrefixAO009=Haunted
 tagPrefixAO010=Sapping
 tagPrefixAO011=Corrosive
 tagPrefixAO012=Warped
@@ -2215,6 +2242,7 @@ tagAutoSkillCondition11= ({%d0}% Chance on Block)
 #LootChests
 
 tagChestWoodA01=Weathered Chest
+tagChestRationA01=Journeyman's Pack
 tagChestWoodB01=Polished Chest
 tagChestMetalA01=Metal Strongbox
 tagChestMetalB01=Ornate Strongbox
@@ -2228,6 +2256,7 @@ tagChestSlithAltarC01=Slith Altar
 tagChestStoneMonolithC01=Stone Chest
 tagChestStoneSarcophagusC01=Ancient Sarcophagus
 tagChestBoneChestD01=Bone Reliquary
+tagChestBoneChestD02=Bone Coffer
 
 tagChestRackArmorA01=Armor Rack
 tagChestRackArmorB01=Armor Collection
@@ -2249,6 +2278,8 @@ tagChestHeroD03=Supreme Chest
 tagChestHeroD03_Dropped=Supreme Spoils
 tagChestHeroD04=Magnificent Chest
 tagChestHeroD04_Dropped=Magnificent Spoils
+tagChestHeroD05=Glorious Chest
+tagChestHeroD06=Transcendent Chest
 
 tagBreakableA01=Barrel
 tagBreakableA02=Crate
@@ -2276,6 +2307,9 @@ tagChestOneShot_Generic02=Exalted Stash
 tagChestOneShot_BurrwitchCave01=Monster's Hoard
 tagChestOneShot_LowerCrossingCave01=Monster's Hoard
 
+#Interactive Objects
+tagShrineConstitutionA01=Untouched Meal
+
 #Breakables
 
 tagWoodenDoor=Wooden Door
@@ -2302,13 +2336,13 @@ tagCellDoor=Cell Door
 tagPrisonEntranceDoor=Burrwitch Prison Gate
 tagMineDoor=Mine Door
 tagEpicDoor_StepsOfTorment=Gates of Anguish
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by the Ancients
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by Ancient Power
 tagLocked= {^R} ~ Locked
 
 #Quest Rewards
 
 tagQuestItemBrothersAmulet=Sister's Amulet of Lifegiving
-tagQuestItemBrothersAmuletDesc=^b"To my dear brother: May this amulet keep you strong in battle. -Sybil"
+tagQuestItemBrothersAmuletDesc="To my dear brother: May this amulet keep you strong in battle. -Sybil"
 
 tagQuestItemSlithRing=Slith Primal Ring
-tagQuestItemSlithRingDesc=^b"There is a lingering stench about this ring that won't wash out."
+tagQuestItemSlithRingDesc="There is a lingering stench about this ring that won't wash out."

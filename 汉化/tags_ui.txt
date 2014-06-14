@@ -767,20 +767,20 @@ tagCraftingAxes=斧类
 tagCraftingBlunt=钝器
 tagCraftingSwords=剑类
 
-tagCraftingOneHanded=O单手武器
+tagCraftingOneHanded=单手武器
 tagCraftingTwoHanded=双手武器
 
 tagCraftingBelts=腰部
 tagCraftingHelms=头部
 tagCraftingTorso=胸部
-tagCraftingShoulders=S肩部
+tagCraftingShoulders=肩部
 tagCraftingLegs=腿部
 tagCraftingHands=手部
 tagCraftingFeet=脚部
 tagCraftingOffhands=副手武器
 tagCraftingShields=盾牌
 
-tagCraftingComponents=COMPONENTS
+tagCraftingComponents=部件
 tagCraftingAccessories=饰品
 tagCraftingConsumables=耗材
 tagCraftingMaterials=材料
@@ -799,7 +799,7 @@ tagDividingCost=回收花费
 #Smuggler
 
 tagStorageRefund=Storage Refund
-tagCaravanTitle=Smuggler
+tagCaravanTitle=走私
 tagCaravanCost=花费: {%d0}
 tagCaravanRefund=Refund: {%d0}
 tagCaravanExpand=Expand Stash
@@ -818,21 +818,21 @@ tagStorageError01=You do not have enough gold to purchase a storage expansion.
 tagChatSend=发送给...
 tagChatCommand01=队伍
 tagChatCommand02=所有人
-tagChatCommand03=Reply
+tagChatCommand03=回复
 tagChatCommand04=Tell
 
 #Maps
 
 tagAerialMapCenteredButton=Center
-tagAerialMapZoomText=Zoom
+tagAerialMapZoomText=缩放
 
-tagMapWindowName=Local Map
+tagMapWindowName=本地地图
 tagRiftWindowName=Rift Map
-tagWorldMapWindowName=World Map
+tagWorldMapWindowName=世界地图
 
 tagMapSymbolAOI=POI
 tagMapSymbolAOIDesc=A point of interest.
-tagMapSymbolSmuggler=Smuggler
+tagMapSymbolSmuggler=走私犯
 tagMapSymbolSmugglerDesc=一个存储你的装备并能在你的角色之间运送装备的不法人物.
 tagMapSymbolHero=玩家
 tagMapSymbolHeroDesc=你的当前位置.
@@ -853,7 +853,7 @@ tagMapSymbolVendorDesc=一个资源货物的商人.
 tagMapSymbolWitch=灵魂向导
 tagMapSymbolWitchDesc=一个能够帮助你忘却技能的灵魂人物.
 tagMapSymbolShrine=Shrine
-tagMapSymbolShrineDesc=DESCRIPTION FOR SHRINE
+tagMapSymbolShrineDesc=Shrine的描述(暂无)
 tagMapSymbolSmith=铁匠
 tagMapSymbolSmithDesc=一个能够制作新物品的娴熟工匠.
 
@@ -969,11 +969,11 @@ tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement fo
 tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for all Weapons
 tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for all Weapons
 
-SkillManaCostReductionR=-{%.0f0}% Skill Energy Cost
-SkillCooldownReductionR=+{%.0f0}% Skill Cooldown Reduction
+SkillManaCostReductionR=-{%.0f0}% 技能能量消耗
+SkillCooldownReductionR=+{%.0f0}% 技能冷却减少
 SkillProjectileSpeedModifierR={%+.0f0}% Increase in Projectile Speed
-SkillManaCostReductionModifierR=-{%.0f0}% Skill Energy Cost
-SkillCooldownReductionModifierR=-{%.0f0}% Skill Recharge
+SkillManaCostReductionModifierR=-{%.0f0}% 技能能量消耗
+SkillCooldownReductionModifierR=-{%.0f0}% 技能冷却时间
 
 tagAttackSpeedNotSet=Speed:  Not Set
 tagAttackSpeedVerySlow=Speed:  Very Slow

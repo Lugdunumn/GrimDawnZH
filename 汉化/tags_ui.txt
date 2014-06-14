@@ -1382,8 +1382,8 @@ RetaliationDurationModifierPoison={%+.0f0}% {^E}毒素反击
 
 DefenseAbsorptionProtection={%.0f0} 护甲
 DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 护甲
-DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}护甲
-DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}护甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}护甲
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}护甲
 DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}护甲加成
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}护甲加成
 DefensePhysical={%.0f0}% {^E}物理伤害抗性

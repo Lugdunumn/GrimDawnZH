@@ -1472,10 +1472,10 @@ RacialBonusAbsoluteDefense={%.0f0} {^E}Less Damage from {%s1}
 RacialBonusRaceName={%s0}
 
 
-tagDamageSleep={^E}使目标睡眠 {^H}{%t0} {%z1}
-tagDamageModifierSleep={%+.0f0}% {^E}睡眠伤害
-tagDefenseSleep={%.0f0}% {^E}睡眠抗性
-tagDefenseSleepModifier={%+.0f0}% {^E}睡眠抗性
+tagDamageSleep={^E}使目标昏睡 {^H}{%t0} {%z1}
+tagDamageModifierSleep={%+.0f0}% {^E}昏睡伤害
+tagDefenseSleep={%.0f0}% {^E}昏睡抗性
+tagDefenseSleepModifier={%+.0f0}% {^E}昏睡抗性
 tagDamageModifierTotalDamage={%+.0f0}% {^E}总伤害
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}Total Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}减速抗性

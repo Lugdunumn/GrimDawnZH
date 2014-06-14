@@ -1,12 +1,12 @@
-Devil's Crossing
-Flesh and Iron
-Kill Mutants
-Harmond's lust for the suffering of the Dead seems insatiable. He now wishes to hear news of the destruction of Fleshwarped mutants. You will likely find many of these monstrosities roaming around Burrwitch. {^n}{^n}Return to him after you have slain a few.
-Fleshwarped mutants Slain
+魔鬼路口
+肉与铁
+杀死变异体
+哈曼德对于死亡痛苦的欲望看起来好像贪得无厌。 他现在希望听到畸形的变异体消亡的消息。 你在伯尔维治附近很有可能找到很多游离在外的巨大而丑陋的怪物。 {^n}{^n}杀掉几个后回到他那里。
+杀死畸形的变异体
 
-Return to Harmond
-You have killed enough Fleshwarped mutants to share gory stories with Harmond all through the night. {^n}{^n}Return to him in Devil's Crossing.
-Return to Harmond in Devil's Crossing
+回到哈曼德那里
+你杀死了足够的畸形变异体而有资格和哈曼德分享整晚的光荣故事。 {^n}{^n}回到在魔鬼路口的他那里。
+回到在魔鬼路口的哈曼德那里。
 
 
 

@@ -1,6 +1,6 @@
 人名&地名&怪物名
 ==
-Cairn 世界名   凯恩？
+Cairn 世界名 凯恩
 
 Silas塞拉斯
 
@@ -14,7 +14,7 @@ John Bourbon 约翰·波旁
 
 Burrwitch 伯尔维治
 
-Aetherial 以太族/虚灵
+Aetherial 虚灵
 
 Wightmire 尸妖泥沼
 
@@ -66,13 +66,13 @@ Slith 蛇人
 
 Viloth the Corruptor 腐化者维洛丝
 
-Homestead 霍姆斯特德（直译）/家园（意译）地名还是直译吧？
+Homestead 霍姆斯特德
 
 Twin Falls 双子瀑布
 
 Smuggler's Pass 走私者的通道
 
-Douglass Oldbarrow 道格拉斯·古冢（感觉直译意译均可）
+Douglass Oldbarrow 道格拉斯·古冢
 
 Alex 阿莱克斯
 
@@ -86,8 +86,29 @@ Judith 朱迪斯
 
 Cronley's Hideout 克隆利的藏身处
 
+Bernard 伯纳德
+
+Staunton Mine 斯汤顿矿洞
+
+Darlet 达莱特
+
+Luther Graves 卢瑟·格雷夫斯
+
+三巫神：Bysmiel 俾斯麦尔 Solael 索拉尔 Dreeg 德里格
+
+
 物品装备
 ===
+
+Constitution 给养 （次级回复系统）
+
+Blueprint 设计图
+
+Recipe 配方
+
+Fabric 织物
+
+Iron 铁币
 
 Shiv 匕首
 
@@ -133,13 +154,9 @@ Lightning Rod 避雷针
 
 Hound's Bite 猎犬之咬
 
-"The blade's edge reeks of rot and corruption." “此剑的剑刃散发着腐化与堕落。”
-
 Omen 预兆
 
 Madness 疯狂
-
-"The twisted edge of madness drives all it touches insane." “扭曲的剑刃会使接触到它的人全部发疯。”
 
 Blood Carver 血肉收割者
 
@@ -147,11 +164,7 @@ Bloodreaper's Claw 鲜血收割者之爪
 
 Duelist's Sabre 决斗士之剑
 
-"Delicately balanced by generations of master swordsmen." “此剑由历代剑术大师精心校准。”
-
 Magistrate's Censor 执法官
-
-"When bribing political adversaries proved insufficient, the Magistrate of Malmouth employed alternate means of negotiation." “当仅仅贿赂政敌已不足以解决问题的时候，马尔茅斯的大法官会采取另一种解决之道。”
 
 Flamebrand 火焰烙印
 
@@ -163,23 +176,15 @@ Ritual Carver 仪式切刀
 
 Assassin's Calling 暗杀者的召唤
 
-"A small vial of poison is embedded in the blade, inducing stiffening paralysis and eventual death." “这把剑嵌入了一小瓶能引起麻痹并最终致死的毒液。”
-
 Razor of the Blind Assassin 眼盲刺客的剃刀
 
 Bloodied Dagger of the Covenant 圣约的血匕首
 
 Willie's Razor 威利的剃刀
 
-"The edge of this blade never dulls." “刀刃怎么切也不会钝。”
-
 Crimson Spike 猩红之刺
 
-"The weapon fills its bearer with an unquenchable thirst for blood." “这把武器的持有者充满了对鲜血永无止境的饥渴。”
-
 Crystallum 水晶剑
-
-"A Soladrin crystal blade teeming with untapped power." 
 
 Grim Fate 残酷命运
 
@@ -187,17 +192,9 @@ Mindwarp 心灵扭曲
 
 Beronath, Reforged 贝若纳斯，重铸之剑
 
-"The slayer of Beronath once broken, reforged at last."
-
 Nex 死亡
 
-"You can sense your own mortality when looking upon this blade." 
-“看着这把剑，你能感受到自己的死期。”
-
 Ortus 花园
-
-"The mere sight of this blade fills you with hope." “只要看到这把武器，你的内心就会充满希望。”
-
 
 Club 木棒
 
@@ -225,8 +222,6 @@ Torch 火炬
 
 Warden's Verdict 典狱长的裁决
 
-"It is unclear how many innocent men lost their lives at the mercy of this weapon." “不知道有多少无辜的人死于这把武器的摆布。"
-
 Warden's Judgement 典狱长的审判
 
 Troll Bonesmasher 巨魔捣骨锤
@@ -240,8 +235,6 @@ Spectral Bludgeon 幽光大头棒
 Kilrian's Skullbreaker 基尔利安的碎颅锤
 
 Skinner's Torch 剥皮人的火炬
-
-"A desperate man's last hope..." 
 
 Adept's Bladed Mace 熟工刃锤
 
@@ -265,14 +258,14 @@ Battlemage 战斗法师
 Pyromance 烈焰术士
 Saboteur 破坏之王
 Deathdealer 夺命煞星
-With Hunter 魔法猎人 （还是有敌法师的的意思？）
+With Hunter 魔法猎人
 Warlock 秘法术士
 Nightstalker 暗夜行者
 
 种族&势力
 ==
 
-Aetherials 虚灵/以太族
+Aetherials 虚灵
 
 Cthonians 冥灵
 
@@ -295,3 +288,7 @@ Undead 不死族
 The Black Legion 黑暗军团
 
 各种属性
+
+代码使用指南
+
+换行 {^n} 已发现文字过长时会出现省略号，所以翻译完成后要人为优化加入换行才能显示全部文字，尤其是装备。UI可以完全显示，但是过长也极不和谐

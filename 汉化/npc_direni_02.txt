@@ -1,18 +1,18 @@
-Direni
-Well, well. Looks like the hero's here. Thanks for covering for me!
-Direni! I trusted you. Why?
-Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
-What if I want to join too?
-Hah! That's a good one. Darius warned me about the likes of you. Only place for you is in a ditch.
-So be it. Die! (Attack)
-You worthless scum! (Attack)
-You're pathetic. I regret ever trusting you. (Attack)
-Direni! You worthless traitor. (Attack)
-Well, well. Looks like I get to try out my new powers today.
-Aren't you from Devil's Crossing? Why are you doing this?
-Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
-What's your issue with Bourbon?
-I was a prisoner in Devil's Crossing back when it still served as an actual prison. When the world went down the slith hole, I stayed there with Darius and his group; it was the safest place I could think of. Clearly Bourbon thought the same when he showed up with the rest of the survivors. Things escalated quickly, but in the end Bourbon had more firepower. Those prisoners that survived were driven out and 'set free'.{^n}{^n}I hid when the fighting got ugly and bided my time. Came out later looking like just another refugee. Course, I kept myself busy. The water pump was my work, you know. After you restored the bridge, I returned to the boss. Things sure have changed since then!
-You're a worthless traitor! (Attack)
-You are nothing but scum. You deserve to die. (Attack)
-Abomination! (Attack)
+狄瑞尼
+好啊, 好啊. 大英雄来了. 多谢为我掩饰!
+狄瑞尼! 我相信了你. 为什么?
+波旁要付出代价, 别无选择. 不是针对你, 不是个人的问题, 但你是唯一挡在了魔鬼路口与德莱厄斯的计划间的人.{^n}{^n}我把你除掉, 德莱厄斯将赐予我更多他的高贵的能力, 波旁也将被绞死. 或许我在和魔鬼做交易, 但是在魔鬼路口,地狱肯定比饥饿强多了.
+如果我也想加入呢?
+哈! 那再好不过. 德莱厄斯警示过我你们这样的人. 你们唯一应该在的地方是臭水沟.
+那就这样. 去死吧! (攻击)
+没用的败类! (攻击)
+你真可怜. 我后悔曾经相信过你. (攻击)
+狄瑞尼! 你这个没用的叛徒. (攻击)
+好吧, 好吧. 看起来我今天要试试我的新能力了.
+你不是恶魔路口的人吗? 你为什么这样做?
+波旁要付出代价, 别无选择. 不是针对你, 不是个人的问题, 但你是唯一挡在了魔鬼路口与德莱厄斯的计划间的人.{^n}{^n}我把你除掉, 德莱厄斯将赐予我更多他的高贵的能力, 波旁也将被绞死. 或许我在和魔鬼做交易, 但是在魔鬼路口,地狱肯定比饥饿强多了.
+你和波旁到底有什么恩怨?
+在以前恶魔路口还是个监狱的时候我是这里的囚犯. 当世界成为了蛇人温巢的时候, 我与德莱厄斯与他的一伙人待在这里; 这是我能想到的最安全的地方了. 显然当波旁与其他幸存者出现在这里的时候他也是这么认为的. 事情发展的很迅速, 只不过最后波旁他们拥有更多的火力. 那些幸存的囚犯被驱逐并 '被释放'.{^n}{^n}当争斗恶化的时候我藏了起来等待时机. 等我随后出来寻找其他人的时候. 当然, 我让自己不至于闲着. 水泵是我的杰作, 你知道的. 在你修复了桥之后, 我回到了老板那里. 从那开始事情就已经改变了!
+你这个没用的叛徒! (攻击)
+你这个没用的败类. 你应该去死. (攻击)
+令人憎恶的恶行! (攻击)

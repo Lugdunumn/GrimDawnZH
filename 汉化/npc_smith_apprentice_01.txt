@@ -1,4 +1,6 @@
 Duncan
+Greetings, traveler.
+Farewell.
 I don't blame you for your decision. Angrim is a fine blacksmith, the finest around to be sure. I'll do what I can for these people with what I got.
 Farewell.
 You're back! Do you have the Malleum Menhir?
@@ -50,7 +52,7 @@ If you get Malleum Menhir back, I will gladly join you in Devil's Crossing, afte
 I will find Angrim.
 I'm sorry, I cannot help you.
 Why do you feel the hammer should go to you?
-My master is an expert blacksmith, don't get my wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
+My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
 
 
 I understand.

@@ -31,7 +31,13 @@ Nevermind.
 Yes, you should.
 Ah, back on the road again. Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
 Good luck.
+
+Darius did not have Elsa.
+Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
+Good luck.
 Farewell.
+Move along. I'm here to speak with the Captain.
+Goodbye.
 Now that we're not in any imminent danger, we need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and our supply runs are coming up dry. We need a reliable source of food and we need it fast.{^n}{^n}Barnabas has some ideas as to what we can do. Speak to him immediately.
 I will speak to Barnabas.
 I must do something else first.

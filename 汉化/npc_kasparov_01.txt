@@ -1,9 +1,44 @@
 Kasparov
+Hello there, friend. What can Kasparov do for you?
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
+Just passing through.
+Your allies have already provided me with the materials I required for my experiment. They are quite industrious.
+Very well.
+Hmm, yes? Do you have the dynamite we require?
+Here it is.
+Oh, good good! Let us start the experiment immediately! Darlet! Prep the blast furnace!
+Is this safe?
+Of course! I am fully confident that it will function as intended. Well, uh, there may be a slight chance that we will tear apart reality when the artifact is consumed by the conflagration...{^n}{^n}But chances of that are very low. So low! One in a billion. You're safe. Really.
+This can't end well.
+Aha! I was correct! Just look at these wonderful components. We can finally begin studying artifacts properly. If only the Erulan Museum Society could see me now. They would be absolutely furious!{^n}{^n}Oh, and uh, If you wish, you can have Darlet break down any items you find. Just bring her more explosives.
+I...um, thanks.
+I think I'll step back.
+Not yet.
+Hmm, yes? Do you have the dynamite we require?
+Where should I look?
+There are several run-down mines out past the northwest bridge, in the Arkovian Foothills and Old Arkovia. I'd start by looking there.
+I'll check them out.
+Not yet.
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
+Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+
+Oh no, not another experiment...
 You're back! Is there anything I can help you with?
 Can you provide me with Inventor services?
 Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
 Hmm, alright.
-I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.  {^n}{^n}She mentioned you. You should speak with her.
+Your allies have already rescued my incompetent apprentice. So I imagine we are finished, yes?
+Very well.
+I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.{^n}{^n}She mentioned you. You should speak with her.
 I'll do that.
 Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
 I'll keep looking.
@@ -11,6 +46,8 @@ Ah, we've been so preoccupied with this riftgate business that I completely forg
 You lost your apprentice?
 I have to say, I do feel a little responsible for her now that she's my apprentice. Could you please go out there and find that hopeless girl?
 I will keep an eye out.
+Ah, your allies have already provided me with everything I need. But thank you for asking.
+Very well.
 She can take care of herself.
 Did you bring back the Aether Crystal fragments I require?
 Here they are.
@@ -18,6 +55,7 @@ Excellent, these will do perfectly! I'll just place them into my device here and
 I feel... stronger.
 Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
 Um... I think we're done here.
+
 
 Um... I think we're done here.
 I'd be happy to speak with you, but I'm really busy with this prototype. Bring me back the Aether Crystal fragments and we can proceed further.
@@ -38,6 +76,12 @@ Excellent, these will do perfectly! I'll just place them into my device here and
 I feel... stronger.
 Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
 Um... I think we're done here.
+
+
+Um... I think we're done here.
+Did my ally deliver the crystals?
+Ah, yes yes! There was a bit of an...explosion, but I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+
 
 Um... I think we're done here.
 Ah, you must be the Taken! I heard about that mess at the gallows, grisly business. I don't care for it. {^n}{^n}I'm quite eager to learn more about you, but you really should speak to the Captain before wandering too much around the camp.

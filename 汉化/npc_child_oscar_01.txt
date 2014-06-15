@@ -1,15 +1,6 @@
 Oscar Jr.
-You're really brave! Someday I want to be brave like you.
-How are you holding up?
-I miss dad...{^n}{^n}*Oscar looks ready to cry, but then lifts his head with resolve.*{^n}{^n}But I have to be brave, for Judith.
-Just listen to what Constance tells you.
-That's a good kid.
-Take care.
-Cronley was scary. Thank you for bringing us here.
-You're welcome.
-Dad said I should look out for Judith. So I will!
-
-Good idea. Take care now.
+Please! Let us out! Cronley said he's going to... expe... experama... do bad things to us!
+Help is on the way.
 Please! Let us out! Cronley said he's going to... expe... experama... do bad things to us!
 Ok. I'm going to open a rift.
 That sounds scary. Are you sure?
@@ -25,3 +16,5 @@ Bad men came after you left the village. They...{^n}{^n}*Oscar starts to cry*{^n
 
 
 I'll be right back.
+Please! Let us out! Cronley said he's going to... expe... experama... do bad things to us!
+Help is on the way.

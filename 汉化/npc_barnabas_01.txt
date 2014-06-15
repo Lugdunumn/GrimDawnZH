@@ -1,6 +1,8 @@
 巴纳巴斯
 我听霍姆斯特德的道格拉斯说了，看来他已经准备好和我们交易。恶魔之路马上就能装满粮食了，这多亏了你。感谢你！
 这是我力所能及的。
+Your allies already made good work of everythin' I needed done.
+Very well.
 霍姆斯特德的事怎么样了？
 还在交涉中。
 霍姆斯特德的事怎么样了？
@@ -69,6 +71,10 @@ Have you seen the bodies floating out there?{^n}{^n}Surface water around here is
 Is this enough Scrap?
 Impressive! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
 Glad I could help.
+
+Did my ally deliver the scrap?
+Yes indeed! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
+Glad we could help.
 
 So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.
 Take care.

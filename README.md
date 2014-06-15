@@ -1,7 +1,9 @@
 恐怖黎明中文本地化
 ===
 
-beta18版汉化正在进行中
+beta19版汉化正在进行中
+所有文本均已升级至beta19，先同步或反向更新后再进行修改！
+翻译时注意使用`中文标点符号`，中文不需要留大量空格
 
 查看beta19文本变动：https://github.com/esclaveDuReve/GrimDawn/compare/beta19
 

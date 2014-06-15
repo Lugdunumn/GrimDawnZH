@@ -24,7 +24,6 @@ tagSkillClassName0207=
 tagSkillClassName0208=
 tagSkillClassName0209=
 tagSkillClassName0304=魔法猎人
-#敌法师？
 tagSkillClassName0305=秘法术士
 tagSkillClassName0306=
 tagSkillClassName0307=
@@ -101,6 +100,8 @@ tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts en
 
 tagClass01SkillName04A=War Cry
 tagClass01SkillDescription04A=A blood-chilling war cry weakens the resolve of your foes and disrupts their focus.
+tagClass01SkillName04C=Terrify
+tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge.
 tagClass01SkillName04B=Break Morale
 tagClass01SkillDescription04B=War Cry shatters enemy morale, rendering them powerless against you.
 
@@ -117,7 +118,7 @@ tagClass01SkillDescription06B=Named for the famed fighting master, this attack u
 tagClass01SkillName07A=Fighting Spirit
 tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
 tagClass01SkillName08A=Menhir's Will
-tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield.
+tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield or two-handed melee weapon.
 
 tagClass01SkillName09A=Field Command
 tagClass01SkillDescription09A=A superior sense of discipline and knowledge of battlefield tactics makes you a natural leader in the heat of battle. ^oThis ability must be toggled to maintain its effect.
@@ -345,6 +346,8 @@ tagClass04SkillName01B=Heart Seeker
 tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
 tagClass04SkillName01C=Nether Edge
 tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
+tagClass04SkillName01D=Frenetic Throw
+tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
 
 tagClass04SkillName02A=Shadow Strike
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
@@ -375,16 +378,16 @@ tagClass04SkillName05F=Execution
 tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive very long. ^oThis is a dual-wielding technique.
 
 tagClass04SkillName06A=Pneumatic Burst
-tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oThis technique requires melee weapons.
+tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oThis technique requires one-handed melee weapons.
 tagClass04SkillName06B=Shadow Dance
 tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
 tagClass04SkillName06C=Elemental Awakening
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 
 tagClass04SkillName07A=Veil of Shadow
-tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, obscuring their sight and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
+tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
 tagClass04SkillName07B=Night's Chill
-tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, slowing their attacks and enfeebling their minds.
+tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
 
 tagClass04SkillName08A=Blade Spirit
 tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
@@ -608,7 +611,7 @@ tagItemSkillA007Name=Focus
 tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
 
 tagItemSkillA008Name=Survival Instincts
-tagItemSkillA008Desc=Provides a boost of adrenaline at low health, temporarily increasing run speed.
+tagItemSkillA008Desc=Provides a boost of adrenaline, temporarily increasing run speed.
 
 tagItemSkillA009Name=Lightning Nova
 tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
@@ -696,6 +699,11 @@ tagItemSkillB024Desc=Smash your foe with a crushing blow.
 
 tagItemSkillB025Name=Lightning Bolt
 tagItemSkillB025Desc=A pure bolt of lightning strikes your target.
+
+tagItemSkillB026NameA=Spectral Strike
+tagItemSkillB026DescA=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
+tagItemSkillB026NameB=Rimefire
+tagItemSkillB026DescB=A ring of spectral flame expands around you.
 
 
 tagItemSkillC002Name=Lightning Orb
@@ -831,6 +839,8 @@ tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but w
 
 tagItemSkillC043Name=Ring of Everlasting Flame
 tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC043NameB=Ring of Everlasting Flame
+tagItemSkillC043DescB=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed.
 
 tagItemSkillC044Name=Curse of Crushed Resolve
 tagItemSkillC044Desc=A mind-numbing word of power that dulls the senses of your enemies and robs them of their vigor.
@@ -1012,7 +1022,7 @@ tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
 tagCompSkillA003Name=Banish
 tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
 
-tagCompSkillA004Name=Piercing Aura
+tagCompSkillA004Name=Piercing Aura I
 tagCompSkillA004Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA005Name=Blade Ward I
@@ -1079,10 +1089,10 @@ tagCompSkillA025Name=Sacred Strike
 tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
 
 tagCompSkillA026Name=Shield Slam
-tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely.
+tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
 tagCompSkillA027Name=Shield Spike
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes.
+tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^oRequires a melee weapon.
 
 tagCompSkillA028Name=Silver Edge
 tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
@@ -1092,6 +1102,15 @@ tagCompSkillA029Desc=Slam your enemy with an overpowering blow.
 
 tagCompSkillA030Name=Slam II
 tagCompSkillA030Desc=Slam your enemy with an overpowering blow.
+
+tagCompSkillA031Name=Piercing Aura II
+tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA032Name=Aether Aura
+tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA033Name=Chaos Strike
+tagCompSkillA033Desc=Strike at your enemies with the destructive power of the void.
 
 tagCompSkillB001Name=Demonfire
 tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
@@ -1109,7 +1128,8 @@ tagCompSkillB005Name=Solael's Flame
 tagCompSkillB005Desc=Coat your target with the dark flame of Solael.
 
 tagCompSkillB006Name=Oleron's Might
-tagCompSkillB006Desc=Strikes with your weapon, inflicting grevious wounds and crippling the target.
+tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and crippling the target.
+
 
 
 #Relic Skills
@@ -1158,6 +1178,7 @@ tagRelicSkillC001Desc=Pass righteous judgement upon the wicked.
 
 tagRelicSkillC002Name=Living Fortress
 tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oRequires a shield.
+tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and magic alike. ^oRequires a shield.
 
 tagRelicSkillC003Name=Bloodbath
 tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
@@ -1175,7 +1196,7 @@ tagRelicSkillC007Name=Haunt
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
 tagRelicSkillC008Name=Conflagration
-tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it.
+tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
 
 tagRelicSkillC009Name=Summon Stormhound
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.

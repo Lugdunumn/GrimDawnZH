@@ -139,13 +139,20 @@ tagTutorialTip44TextA=你学会了一个新设计图，但没有能为你制作�
 tagTutorialTip44TextB=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 tagTutorialTip45Title=体力
 tagTutorialTip45TextA=当战斗结束而你的生命条不满时， 一项叫做体力的系统将会激活。{^N}{^N}体力会迅速的补充你的生命条， 但自身也会在此进程中逐渐耗尽。 在你生命跳上的黄色指示器就是你的体力。{^N}{^N}
 tagTutorialTip45TextB=当你找到食物补给或生命精华,或者当你升级与死亡后,体力都会自动补充。{^N}{^N}如果你的体力耗尽， 你将不能继续在战斗外迅速的恢复生命。{^N}{^N}
+=======
+tagTutorialTip45Title=Constitution
+tagTutorialTip45TextA=When combat ends and your health bar is not full， a secondary regeneration system activates called Constitution。{^N}{^N}Constitution will rapidly refill your health bar， but will also be drained in the process。 The yellow indicator over your health bar is your Constitution。{^N}{^N}
+tagTutorialTip45TextB=Constitution automatically refills when you find Food Rations or Vital Essence， and when you reach the next Character Level or Die。{^N}{^N}If your Constitution runs out， you will no longer rapidly regenerate health outside of combat。{^N}{^N}
+>>>>>>> parent of def3b21... 教程完成
 
-tagTutorialTip46Title=体力耗尽
-tagTutorialTip46TextA=你的体力耗尽了你将不能继续在战斗外迅速的恢复生命。 你可以通过食物补给或生命精华恢复你的体力。
+tagTutorialTip46Title=Out of Constitution
+tagTutorialTip46TextA=You have run out of Constitution and will no longer rapidly regenerate health out of combat。 You can restore your Constitution with Food Rations or Vital Essence。
 
+<<<<<<< HEAD
 tagTutorialTip47Title=分解
 tagTutorialTip47TextA=你为发明家解锁了一项新特性， 允许你将物品分解成废铁， 同时有几率生成一个部件碎片。 物品越强力， 生成的部件越可能强力。
 tagTutorialTip47SubtitleA=分解物品
@@ -163,3 +170,9 @@ tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物�
 tagTutorialTip47SubtitleA=分解一件物品
 stagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
 >>>>>>> e5652c8f95cef690f4725ff3cbe12add429514ed
+=======
+tagTutorialTip47Title=Dismantling
+tagTutorialTip47TextA=You have unlocked a new feature for the Inventor， allowing you to break down items into Scrap， with a chance of generating a Component piece。 The more powerful the item， the more likely it will generate powerful Components。
+tagTutorialTip47SubtitleA=Dismantling an Item
+stagTutorialTip47TextB=To Dismantle an item， you will require Dynamite and iron bits。 A Dismantled item is destroyed forever。 Place an item of at least Magical quality in the Inventor's Dismantling UI to begin。{^N}{^N}Upon pressing the Dismantle button， the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts。{^N}{^N}
+>>>>>>> parent of def3b21... 教程完成

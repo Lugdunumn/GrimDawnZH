@@ -9,7 +9,7 @@ tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我�
 
 tagTutorialTip09Title=商人界面
 tagTutorialTip09TextA=商人出售与收购在凯恩的险境中生存所必需的武器与装备。
-tagTutorialTip09TextB=在这绝望的时期，好的装备可不便宜。商人们不会为普通物品出高价， 但是充满魔力的装备能够卖到好价钱。{^n}
+tagTutorialTip09TextB=在这绝望的时期，好的装备可不便宜。商人们不会为普通物品出高价，但是充满魔力的装备能够卖到好价钱。{^n}
 
 tagTutorialTip10Title=传送裂缝
 tagTutorialTip10TextA=安全的传送裂缝允许你在凯恩的众多地点间快速移动。左键点击传送裂缝以打开{^y}传送地图{^w}。
@@ -26,7 +26,7 @@ tagTutorialTip11TextC=你的传送裂缝将一直持续开启直到你的返回�
 
 tagTutorialTip14Title=药水
 tagTutorialTip14TextA=生命与能量药水分别能够回复你的角色的生命和能量。要饮用药水，点击快捷栏内的图标或者按下指定的快捷键。
-tagTutorialTip14TextB=药水默认被分配到快捷栏的最后两格内。 通过右击空的快捷栏并从菜单选择一种药水你可以手动设定药水到任意快捷栏。
+tagTutorialTip14TextB=药水默认被分配到快捷栏的最后两格内。通过右击空的快捷栏并从菜单选择一种药水你可以手动设定药水到任意快捷栏。
 tagTutorialTip14TextC=要饮用药水，点击快捷栏内的图标或者按下指定的快捷键。
 
 tagTutorialTip15Title=升级
@@ -49,7 +49,7 @@ tagTutorialTip17TextB=一旦你选择了一项专精并点了技能点，你将�
 tagTutorialTip17TextC=当你的角色到达10级时你将获得选择第二个专精的选择权。
 
 tagTutorialTip19Title=附加部件
-tagTutorialTip19TextA=部件可以用来升级装备。他们通常呈碎片形式， 可以合成获得更强力的奖励。{^n}{^n}神话中提到的稀有部件充满了古老的能量，显示为浅黄色。
+tagTutorialTip19TextA=部件可以用来升级装备。他们通常呈碎片形式，可以合成获得更强力的奖励。{^n}{^n}神话中提到的稀有部件充满了古老的能量，显示为浅黄色。
 tagTutorialTip19TextB=要使用部件，在它上面右击。你可以将它合并到匹配的碎片或者将它附加到装备上。
 
 tagTutorialTip20Title=使用部件
@@ -59,7 +59,7 @@ tagTutorialTip20SubtitleB=合成部件
 tagTutorialTip20TextB=你可以合成相同名字的部件碎片来获得更强力的奖励。完整的部件将生成额外的奖励。{^n}{^n}相同名字的部件碎片可以在第一块碎片附加过的物品上继续附加。
 
 tagTutorialTip21Title=第二技能专精
-tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开技能窗口。 你不必一定要选第二专精，但是在到达10级后你一直会获得选择权。
+tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开技能窗口。第二专精不是必须的，但是在到达10级后你将总会有权选择它。
 
 tagTutorialTip22Title=技能窗口
 tagTutorialTip22TextA=每次你升级的时候都将获得技能点。将你的技能点投资到专精等级上或解锁技能。
@@ -93,7 +93,7 @@ tagTutorialTip32TextA=你有未分配的属性点或技能点。属性点能够�
 
 tagTutorialTip33Title=学习技能
 tagTutorialTip33TextA=你一直在投资你的技能点到专精上而没有投资技能。当你升级时，试着将一些技能点投入到技能上。
-tagTutorialTip33TextB=要在一项能力上投入技能点， 点击 {^y}技能窗口{^w} 上的解锁技能图标。 第一个技能点将允许你使用该能力。 额外的技能点将使能力增强。
+tagTutorialTip33TextB=要在一项能力上投入技能点，点击 {^y}技能窗口{^w} 上的解锁技能图标。第一个技能点将允许你使用该能力。 额外的技能点将使能力增强。
 
 tagTutorialTip34Title=拜访商人
 tagTutorialTip34TextA=如果你的背包满了，你会想到拜访商人并出售一些不想要的物品。
@@ -104,7 +104,7 @@ tagTutorialTip35TextA=宠物会自动行进与你并肩战斗。如果你想要�
 tagTutorialTip35TextB=你可以在任何时候通过在它们的头像上右键并选择“{^Y}解散宠物{^w}”来解散你的宠物。
 
 tagTutorialTip36Title=技能重新分配
-tagTutorialTip36TextA=灵魂向导允许你复原技能点选择。在灵魂向导的界面上点击技能图标来从该技能上移除一点技能点。 其花费将随着你移除随后的技能点而增多。
+tagTutorialTip36TextA=灵魂向导允许你复原技能点选择。在灵魂向导的界面上点击技能图标来从该技能上移除一点技能点。其花费将随着你移除随后的技能点而增多。
 tagTutorialTip36TextB=你不能移除投资在专精上的技能点。此外，你不能移除在技能修正上面投资了的技能上的最后一点。
 
 tagTutorialTip37Title=走私窗口
@@ -138,6 +138,7 @@ tagTutorialTip44Title=铁匠不见了!
 tagTutorialTip44TextA=你学会了一个新设计图，但没有能为你制作物品的铁匠。{^n}{^n}你必须先找到一个铁匠才能制作物品。{^n}{^n}铁匠会马上知道怎么用这个设计图制作物品。
 tagTutorialTip44TextB=
 
+<<<<<<< HEAD
 tagTutorialTip45Title=体力
 tagTutorialTip45TextA=当战斗结束而你的生命条不满时， 一项叫做体力的系统将会激活。{^N}{^N}体力会迅速的补充你的生命条， 但自身也会在此进程中逐渐耗尽。 在你生命跳上的黄色指示器就是你的体力。{^N}{^N}
 tagTutorialTip45TextB=当你找到食物补给或生命精华,或者当你升级与死亡后,体力都会自动补充。{^N}{^N}如果你的体力耗尽， 你将不能继续在战斗外迅速的恢复生命。{^N}{^N}
@@ -149,3 +150,16 @@ tagTutorialTip47Title=分解
 tagTutorialTip47TextA=你为发明家解锁了一项新特性， 允许你将物品分解成废铁， 同时有几率生成一个部件碎片。 物品越强力， 生成的部件越可能强力。
 tagTutorialTip47SubtitleA=分解物品
 stagTutorialTip47TextB=要分解物品， 你将需要炸药和铁币。 被分解的物品将被永久摧毁。 将一个至少魔法品质的物品放入发明家的分解界面以开始。{^N}{^N}当按下分解按钮， 所需的炸药和铁壁将被扣除而物品将被变成基本零件。{^N}{^N}
+=======
+tagTutorialTip45Title=给养
+tagTutorialTip45TextA=当战斗你的生命值未满时，一个叫做给养的次级回复系统就会激活。{^N}{^N}给养会快速补满你的生命，但是在这个过程中也会被消耗。在你的生命槽内的黄色能量槽显示的就是给养的多少。{^N}{^N}
+tagTutorialTip45TextB=当你找到食物给养和生命精华的时候给养会自动进行补充，升级或者角色死亡亦会如此。{^N}{^N}如果你的给养消耗完了，脱离战斗后生命值不会再快速回复。{^N}{^N}
+
+tagTutorialTip46Title=给养不足
+tagTutorialTip46TextA=你的给养消耗完了，脱离战斗后生命值不会再快速回复。你可以通过收集食物给养和生命精华来补充给养。
+
+tagTutorialTip47Title=分解
+tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废铁，在此过程中有几率额外产生一个部件。越是强力的物品，越有机会分解出部件。
+tagTutorialTip47SubtitleA=分解一件物品
+stagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
+>>>>>>> e5652c8f95cef690f4725ff3cbe12add429514ed

@@ -1,6 +1,8 @@
 Bernard
 Welcome back to our humble camp. May your road be always safe and the wind ever at your back.
 Farewell.
+Your allies have served the region well by destroying that barricade.
+Farewell.
 You've returned. Was your venture successful?
 I destroyed the barricade.
 A job well done!{^n}{^n}Thank you. You've done good by us, and we won't forget it.

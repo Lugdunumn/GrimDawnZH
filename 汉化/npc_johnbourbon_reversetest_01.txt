@@ -4,8 +4,27 @@ Direni was sabotaging us. He damaged the well pump!
 I trusted that son of a rifthound! Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.
 I do what I can.
 You are a real asset to this community. Anything I can do for you?
-
+I have some questions.
+I will answer what I can.
+How was Mornay able to explore Old Arkovia?
+The bridge was destroyed after his treck north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
+I have another question.
 Farewell.
+What will happen to Burrwitch now?
+I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
+I have another question.
+Farewell.
+How long do you think we can hold out here?
+With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
+I have another question.
+Farewell.
+That is all for now.
+Farewell.
+Your allies have already provided us with assistance. I have no information for you.
+Very well.
+I trust that you are handling everything alright?
+
+Yes. Goodbye for now.
 I trust that you are handling everything alright?
 
 Yes. Goodbye for now.
@@ -17,12 +36,15 @@ I will answer what I can.
 How was Mornay able to explore Old Arkovia?
 The bridge was destroyed after his treck north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
 I have another question.
+Farewell.
 What will happen to Burrwitch now?
 I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
 I have another question.
+Farewell.
 How long do you think we can hold out here?
 With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
 I have another question.
+Farewell.
 Now that the Warden lies dead, what is our next step?
 
 That is all for now.
@@ -128,6 +150,7 @@ What is it you want me to do?
 The bodies of the dead are rising again in some horrible unlife. Corpses don't just get up and move around on their own. {^n}{^n}Something is reanimating our deceased with Aetherial energy. We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town. {^n}{^n}I want you to go to Burial Hill, find whatever is controlling those abominations and destroy it.
 Where can I find Burial Hill?
 You will need to fight your way through Lower Crossing. Once you've crossed the stream on the far side of town, there will be a beaten path leading up to Burial Hill. {^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too. Help us in our hour of need, and I will open Devil's Crossing to you.
+I'll find what's reanimating those corpses.
 I'll find what's reanimating those corpses.
 I'll find what's reanimating those corpses.
 I need some time to consider all this.

@@ -50,6 +50,7 @@ tagMapCronleysHideout=Cronley's Hideout
 tagMapJaggedWaste=Jagged Waste
 tagMapDeadmansGulch=Deadman's Gulch
 tagMapHighpass=High Pass
+tagMapAlpineRoad=Alpine Road
 
 tagMapLedgewood01=Ledgewood
 tagMapWitheringFields01=Withering Fields
@@ -114,6 +115,7 @@ tagRiftTwinFalls=Twin Falls Rift
 tagRiftHighPass=High Pass Rift
 tagRiftJaggedWaste=Jagged Waste Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
+tagRiftAlpineRoad=Alpine Road Rift
 
 tagRiftWitheringFields=Withering Fields Rift
 tagRiftHomestead=Homestead Rift
@@ -367,9 +369,9 @@ tagNPC_Flavor_Homestead_03=Helen Fletcher
 tagNPC_Flavor_Homestead_04=Julius Cole
 tagNPC_Flavor_Homestead_05=
 tagNPC_Flavor_Homestead_06=Jebediah
-tagNPC_Flavor_Homestead_07=Oskar
+tagNPC_Flavor_Homestead_07=Oscar
 tagNPC_Flavor_Homestead_08=Judith
-tagNPC_Flavor_Homestead_09=Oskar Jr.
+tagNPC_Flavor_Homestead_09=Oscar Jr.
 tagNPC_Flavor_Homestead_10=Injured Rover
 tagNPC_Flavor_Homestead_11=Amkala
 tagNPC_Flavor_Homestead_12=Horace
@@ -382,10 +384,10 @@ tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=Hart's Amulet
-tagQuestItemHartsAmulet_Text=^b"To my dear brother: May this amulet keep you strong in battle. -Sybil"
+tagQuestItemHartsAmulet_Text="To my dear brother: May this amulet keep you strong in battle. -Sybil"
 
 tagQuestItemCultistKey_Name=A Strange Key
-tagQuestItemCultistKey_Text=^b"The key is marked with many strange runes and depraved symbols characteristic of the cult of Ch'thon."
+tagQuestItemCultistKey_Text="The key is marked with many strange runes and depraved symbols characteristic of the cult of Ch'thon."
 tagQuestItemDirections_Name=Direni's Directions
 tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
 
@@ -394,22 +396,22 @@ tagQuestItemLostJournal_Name=Cultist Orders
 tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
 
 tagQuestItemDynamite=Dynamite
-tagQuestItemDynamiteDesc=^b"A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
+tagQuestItemDynamiteDesc="A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
 tagQuestItemSupplies=Supply Crate
-tagQuestItemSuppliesDesc=^b"A crate filled with valuable materials and non-perishable goods."
+tagQuestItemSuppliesDesc="A crate filled with valuable materials and non-perishable goods."
 tagQuestItemSlithNecklace=Slith Necklace
-tagQuestItemSlithNecklaceDesc=^b"Carried by Slith Shamans, for only they know what."
+tagQuestItemSlithNecklaceDesc="Carried by Slith Shamans, for only they know what."
 tagQuestItemFabric=Fabric
-tagQuestItemFabricDesc=^b"A little worn and stained, but otherwise in good condition."
+tagQuestItemFabricDesc="A little worn and stained, but otherwise in good condition."
 
 tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
-tagQuestItemSaltMineKey_Text=^b"The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
+tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
 
 tagQuestItemForgottenPassage=Forgotten Passage
-tagQuestItemForgottenPassage_Desc=^b"A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
+tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
 
 tagQuestItemSmithHammer=Malleum Menhir
-tagQuestItemSmithHammer_Desc=^b"An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+tagQuestItemSmithHammer_Desc="An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
 
 #Journals
 
@@ -478,7 +480,7 @@ TagLoreObj_VillagerNoteJ01Text=Third bunch of bandits this month. You would thin
 
 TagLoreObj_Kymon01Name=Kymon's Scripture: First Passage
 TagLoreObj_Kymon01codexTitle=Kymon - First Passage
-TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laugher anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
+TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laughter anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
 
 TagLoreObj_OldArkovia_History01Name=Last Days of Arkovia
 TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words undiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
@@ -489,7 +491,12 @@ tagLoreObj_FloodedPassageRuins01Text=The end of days is upon us! Glorious Arkovi
 
 tagLoreObj_FloodedPassageRuins02Name=Writings of Rolderathis - 2nd Entry
 tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2nd Entry
-tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again to renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again and renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+
+tagLoreObj_StepsOfTorment01Name=Writings of Zarthuzellan
+tagLoreObj_StepsOfTorment01codexTitle=Writings of Zarthuzellan
+tagLoreObj_StepsOfTorment01Text=The one they call Uroboruuk makes mockery of the gods. The Lord Executioner cut at his flesh, but the wounds refused to bleed. His limbs grow back; his skin is impervious to flame.{^n}{^n}I believe the time has come for me to descend into that vile place and deal with the heathen myself. We shall see how he reacts to the cleansing flame of the divine.
+
 
 #Random Burrwitch Notes
 tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
@@ -588,16 +595,16 @@ tagStoreTitle_InventorA01=Inventor
 
 tagNPC_SmithA01=Angrim
 tagStoreTitle_SmithA01=Forgemaster
-tagStoreDesc_SmithA01_1={^b}Practiced Skill
+tagStoreDesc_SmithA01_1={}Practiced Skill
 tagStoreDesc_SmithA01_2=Angrim uses his many years of experience to forge deadly weapons and fortify armor.
 tagStoreDesc_SmithA01_3= 
 tagStoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
 tagNPC_SmithA02=Duncan
 tagStoreTitle_SmithA02=Arcane Blacksmith
-tagStoreDesc_SmithA02_1={^b}Arcane Forging
+tagStoreDesc_SmithA02_1={}Arcane Forging
 tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and armor with arcane properties.
 tagStoreDesc_SmithA02_3= 
 tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
-tagStoreTitle_SmithA01=Blacksmith
+tagStoreTitle_SmithA03=Blacksmith

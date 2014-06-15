@@ -3,6 +3,7 @@ The Ironclad Chef
 Check on Chef
 You have successfully transported Ulgrim the Cook from the wilds and into Devil's Crossing. {^n}{^n}Speak to him and see how he is faring amongst the survivors.
 
+
 Speak to Ulgrim the Cook in Devil's Crossing
 
 

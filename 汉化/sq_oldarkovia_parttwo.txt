@@ -1,9 +1,16 @@
 Old Arkovia
-Final Rest
+Descent into Torment
 Slay Boss
-
-
+Kalderos has instructed you to descend into the Steps of Torment, the ruined remants of Arkovia's dark history. Once inside, you must seek out the Grand Priest Zarthuzellan, who resides on the third floor. When you have destroyed the corrupted priest, the way will be clear to the doors sealing off the deepest pits of the Steps of Torment. The Steps of Torment are located deep within the Broken Hills.
+Slay Grand Priest Zarthuzellan
 
 Speak to Ghost
+You have destroyed the undead remains of Grand Priest Zarthuzellan and earned the right to your reward. Speak with the spirit of Kalderos, who is awaiting you within Zarthuzellan's chamber in the Steps of Torment, on the third floor.
+
+
+
+Speak to Kalderos in the Steps of Torment
+
+
 
 

@@ -561,6 +561,7 @@ tagStyle040=Apprentice
 
 tagStyle041=Exalted
 tagStyle042=Opulent
+
 #ArmorClass
 tagArmorClass01=Caster Armor
 tagArmorClass02=Light Armor
@@ -963,7 +964,6 @@ tagRingB002=Cronley's Signet
 tagRingB002Desc="Stained with the blood of his victims, now joined by his own."
 tagRingB003=Skinner Family Seal
 tagRingB003Desc="Likely the most valuable item the family had ever owned."
-
 
 tagRingC001=Marrow Band
 tagRingC002=Obsidian Seal

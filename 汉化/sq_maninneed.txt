@@ -4,13 +4,18 @@ Get dynamite
 You encountered a lone traveler, Myles Finegan, outside of a collapsed cave entrance in the Broken Hills, near the Tower of Exile. As this was his only safe haven, he implored you to help him acquire some dynamite from the bandits camped out in Old Arkovia so that he can clear the way into his hideout and retrieve his belongings.
 Collect Dynamite
 Deliver the Dynamite to Myles Finnegan in Broken Hills
+
 Speak to Myles
 You provided Myles with some dynamite, which he used to clear the way to his hideout. Follow him inside his cave in the Broken Hills to receive your reward.
+
 
 Speak to Myles Finegan in his cave
 
 Kill Myles
 Myles has betrayed you. He is in fact a devout of Ch'thon and his cave is a sanctuary for his despicable acts. It was all a ruse to lure you in. Slay Myles within the Forsaken Den in the Broken Hills.
+
+
+
 Slay Myles within the Forsaken Den in the Broken Hills
 
 

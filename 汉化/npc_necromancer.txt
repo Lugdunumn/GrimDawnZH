@@ -1,70 +1,56 @@
-Spirit of Lord Octavius
-complete
-questions
+Balvoruuk
+Greetings.
+I have some questions.
+You may ask.
+Why do the undead not bother you?
+I have disguised my presence from them, and Kalderos is but another spirit wandering Cairn. The illusion would not hold against the numbers roaming the Undercity however; thus our predicament.
+I have another question.
+I see.
+Why are you here cleansing the dead?
+The sins of Arkovia need not corrupt this land anymore. I do this because it must be done.
+I have another question.
+Farewell.
+What is the Order of Death's Vigil?
+All you need to know is that I am here in the service of Cairn.
+I have another question.
+Fine.
+Nevermind.
+Farewell.
+Greetings.
+Where is Kalderos?
+He is awaiting you at the Steps of Torment, as I had instructed. The Steps of Torment lie within the Broken Hills.
+Thank you.
 
+Farewell.
+Greetings.
+Farewell.
+Have you done as I asked?
+The Oligarchs are no more.
+Splendid. My trust in you was not misplaced. Speak to Kalderos at the Steps of Torment, in the Broken Hills. He will guide you.
+Very well.
 
+Farewell.
+Have you done as I asked?
+Where do I go again?
+You must venture into the Arkovian Undercity. Its entrance lies in the ruins to the west of here. There you will find the spirits of the Oligarchs. Banish their rotten souls from this world!
+I will go there now.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-turnin 3
-
-
-
-progress 3
-
-
-
-
-
-offer 3
-
-
-
-
-
-turn in 2
-
-
-
-progress 2
-
-
-
-
-
-offer 2
-
-
-
-
-
-turnin
-
-
-
-progress
-
-
-
-
-
-offer
-
-
-
-
-
+Farewell.
+Greetings. You do not know me, but I have heard of you. I am Balvoruuk, of the Order of Death's Vigil. Your exploits leads me to believe that you may just be who I need for my...assignment.
+Assignment?
+Yes. I am here to purge this land of several malevolent spirits. Their tainted presence has corrupted Arkovia long enough.{^n}{^n}However, my masters have underestimated the degree to which these ancient Oligarchs have surrounded themselves with their former subjects. The Arkovian Undercity is swarming with the dead; I admit, far more than I could handle without the aid of my brothers. But you, you are quickly proving to be a force of reckoning this world has never seen. Travel down into the Undercity and banish the spirits of Nomos Dred, Laudos Vagra and Rhovena Kur. When you are finished, seek out my companion, Kalderos, at the entrance to the Steps of Torment. He will guide you to your final target.
+I will do this task.
+I cannot do this.
+I have already banished the Oligarchs.
+Splendid. My trust in you was not misplaced. Speak to Kalderos at the Steps of Torment, in the Broken Hills. He will guide you.
+Very well.
+I want no part in this.
+That spirit, are you a necromancer?
+Does Kalderos frighten you? Yes, I am of the Order. I would have hoped that a pariah such as yourself would be more understanding of the prejudice people of my...practice are faced with.{^n}{^n}Now will you listen to my proposition or will you continue to stare into the deathless eyes of my companion?
+What did you want me to do?
+I should kill you where you stand.
+I assure you, any form of hostility against me would be a futile venture. Besides, I am not here to quarrel with you. If you will not perform my task, then our meeting is at an end.
+What did you want me to do?
+We're finished here.
+I don't deal with your kind.
+I don't want to know.

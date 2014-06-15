@@ -1,70 +1,72 @@
-Spirit of Lord Octavius
-complete
-questions
+Kalderos
+You have done well, but even greater challenges await within the depths of Torment.
+I have some questions.
+Ask and I shall answer.
+What lies beyond these doors?
+These doors were sealed off by Uroboruuk himself after he doomed the Arkovians to their lifeless fate. Beyond them are the Arkovians he cursed to an eternity of suffering; only a fraction of the torment they put upon him.{^n}{^n}You must be wary. The damned trapped below will pose a far greater challenge than any you've yet faced within these halls.
+Who was Uroboruuk?
+He was a great scholar and master of the necrotic arts. His greatest and most terrible achievement was turning the Arkovians' lust for immortality against them.
+I have another question.
+Thank you.
+I have another question.
+Thank you.
+What do I do with the Skeleton Key?
+It will open many ancient doors, including the ones before you. But beware, the key will be destroyed once used and the doors will seal promptly behind you.{^n}{^n}Once inside, the only way out is past the Lord Executioner...or through death.
+The Lord Executioner?
+Alkamos...he was the Arkovian charged with Uorobruuk's torment. Now he will suffer for all eternity.
+I have another question.
+Good to know.
+Can I re-open the doors?
+No...once the doors are sealed, you will have to return another day...
+I have another question.
+I see.
+I have another question.
+Thank you.
+What was the purpose of the Steps of Torment?
+It was a place of torture and life-long imprisonment for those the Arkovians deemed unworthy of their 'perfect' society. In the end, it served as a prison for all necromancers of Arkovian descent.
+I have another question.
+I see. Thank you.
+Why are you serving Balvoruuk?
+I am sworn to protect him, even in death. He has proven to be a most interesting companion in my afterlife.
+I have another question.
+Interesting.
+Nevermind.
+Goodbye.
+Your allies have done well, but even greater challenges await.
+Goodbye.
+You have destroyed the priest.
+It is finished.
+My master will be pleased. For your service, I bestow upon you this key. It is the only way to unlock the ancient places of this world.
+Ancient Places?
+Yes. Many doors were sealed long ago by ancient powers now lost. The doors before you were secured by such means.{^n}{^n}But I must warn you: The key will be destroyed once used, and the doors will not remain open for long. Once inside, the only way out is past the Lord Executioner...or through death.
 
 
+I understand.
+I will use it well.
+I can still feel the presence of Zarthuzellan. You must destroy him.
+Where is he again?
+The Grand Priest Zarthuzellan dwells on the third floor of the Steps of Torment. You will find him before a set of ancient doors.
+I will go there now.
+I will deal with him soon.
+The Grand Priest Zarthuzellan was the Arkovian upon whose word all Arkovian necromancers were banished to the Steps of Torment. Even in death, he continues to gather the lost souls of Arkovia to his mad word.{^n}{^n}The time has come to scatter his flock and erase this stain upon the world for good. You must travel deep within the Steps of Torment. On the third floor, you will find the priest at his desecrated altar. Purge him from this place and I shall join you below.
+I will do as you ask.
+I will not do this.
+I have already slain the Grand Priest.
+My master will be pleased. For your service, I bestow upon you this key. It is the only way to unlock the ancient places of this world. One such door lies below, in the chamber of the Grand Priest. Meet me there.
+I will do so.
+You have done as we asked. I am pleased to see this.
+The Oligarchs are gone.
+With their corrupted souls destroyed, this land will begin to heal...in time. What I must ask of you next is a far more dire challenge.
+What is next?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-turnin 3
-
-
-
-progress 3
-
-
-
-
-
-offer 3
-
-
-
-
-
-turn in 2
-
-
-
-progress 2
-
-
-
-
-
-offer 2
-
-
-
-
-
-turnin
-
-
-
-progress
-
-
-
-
-
-offer
-
-
-
-
-
+I've had enough of all this.
+Your task is unfinished.
+Where do I go again?
+Enter the Arkovian Undercity. Its entrance lies in the ruins to the west of here. There you will find the spirits of the Oligarchs.
+Thank you.
+I will return.
+Greetings, mortal.
+You are not like other ghosts I've encountered.
+You speak of the dead roaming these ruins? No, I am willingly bound to this immortal form. They...were not as fortunate.
+I...see.
+Goodbye.

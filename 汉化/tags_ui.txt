@@ -764,6 +764,41 @@ tagCraftingInsterComponent=Add components specified by a blueprint to these slot
 
 #Subheadings
 
+<<<<<<< HEAD
+tagCraftingAxes=斧类
+tagCraftingBlunt=钝器
+tagCraftingSwords=剑类
+
+tagCraftingOneHanded=单手武器
+tagCraftingTwoHanded=双手武器
+
+tagCraftingBelts=腰部
+tagCraftingHelms=头部
+tagCraftingTorso=胸部
+tagCraftingShoulders=肩部
+tagCraftingLegs=腿部
+tagCraftingHands=手部
+tagCraftingFeet=脚部
+tagCraftingOffhands=副手武器
+tagCraftingShields=盾牌
+
+tagCraftingComponents=部件
+tagCraftingAccessories=饰品
+tagCraftingConsumables=消耗品
+tagCraftingMaterials=材料
+
+tagCraftingRelics=遗物
+
+tagDividerTab02=回收
+tagDividerRoll02=回收器被用来从物品上分离附加部件.  不幸的是, 回收工序的不完善会摧毁物品或附加部件中的一个，不过你可以做出选择.
+
+tagDividingButtonKeepItem=保留物品
+tagDividingBoxInfo=将带有附加部件的物品放入回收器.
+tagDividingButtonKeepComponent=保留附加部件
+tagDividingKeepItemWarning=选择回收物品将会摧毁附加的部件.
+tagDividingKeepComponentWarning=选择回收附加部件将会摧毁物品.
+tagDividingCost=回收花费
+=======
 tagCraftingAxes=AXES
 tagCraftingBlunt=BLUNT
 tagCraftingSwords=SWORDS
@@ -809,11 +844,12 @@ tagDismantleButton=Choosing to dismantle will destroy this item.
 tagDismantleDestroyItemWarning=Choosing to dismantle will destroy this item. Continue?
 tagDismantleDestroyItemComponentWarning=Choosing to dismantle will destroy this item and keep the component. Continue?
 
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 #Smuggler
 
 tagStorageRefund=Storage Refund
-tagCaravanTitle=Smuggler
-tagCaravanCost=Cost: {%d0}
+tagCaravanTitle=走私
+tagCaravanCost=花费: {%d0}
 tagCaravanRefund=Refund: {%d0}
 tagCaravanExpand=Expand Stash
 tagCaravanItemStorage=Item Stash
@@ -832,6 +868,10 @@ tagChatSend=发送给...
 tagChatCommand01=队伍
 tagChatCommand02=所有人
 tagChatCommand03=回复
+<<<<<<< HEAD
+tagChatCommand04=Tell
+
+=======
 tagChatCommand04=告知
 tagChatCommand05=Mute
 tagChatCommand06=Unmute
@@ -839,42 +879,49 @@ tagChatBrag=Hover over to see my {%t0}{%t1}{^-} ...
 
 #NPC Conversation
 tagNpcConversationBusy=That NPC is busy talking with another player.
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 #Maps
 
 tagAerialMapCenteredButton=Center
-tagAerialMapZoomText=Zoom
+tagAerialMapZoomText=缩放
 
-tagMapWindowName=Local Map
-tagRiftWindowName=Rift Map
-tagWorldMapWindowName=World Map
+tagMapWindowName=本地地图
+tagRiftWindowName=裂缝地图
+tagWorldMapWindowName=世界地图
 
 tagMapSymbolAOI=POI
 tagMapSymbolAOIDesc=A point of interest.
-tagMapSymbolSmuggler=Smuggler
-tagMapSymbolSmugglerDesc=A shady character who will store your gear and transport it between your characters.
-tagMapSymbolHero=Player
-tagMapSymbolHeroDesc=Your current Location.
-tagMapSymbolInventor=Inventor
-tagMapSymbolInventorDesc=A tinker capable of removing components from gear.
-tagMapSymbolMission=Quest
-tagMapSymbolMissionDesc=Currently active quest.
+tagMapSymbolSmuggler=走私犯
+tagMapSymbolSmugglerDesc=一个存储你的装备并能在你的角色之间运送装备的不法人物.
+tagMapSymbolHero=玩家
+tagMapSymbolHeroDesc=你的当前位置.
+tagMapSymbolInventor=发明家
+tagMapSymbolInventorDesc=一个有从装备上移除附加部件本事的修补匠.
+tagMapSymbolMission=任务
+tagMapSymbolMissionDesc=当前任务.
 tagMapSymbolNPC=NPC
-tagMapSymbolNPCDesc=A non-playable character.
+tagMapSymbolNPCDesc=非玩家角色.
 tagMapSymbolGroup=Group
-tagMapSymbolGroupDesc=Location of your group members.
-tagMapSymbolRespawn=Healer
-tagMapSymbolRespawnDesc=A healer trained in rejuvenation and the sealing of griveous wounds.
-tagMapSymbolRiftgate=Riftgate
-tagMapSymbolRiftgateDesc=An otherwordly rift capable of transporting you to other locations.
-tagMapSymbolVendor=Vendor
-tagMapSymbolVendorDesc=A merchant of martial goods.
-tagMapSymbolWitch=Spirit Guide
-tagMapSymbolWitchDesc=A spiritual figure who can help you unlearn your skills.
+tagMapSymbolGroupDesc=你的组员的位置.
+tagMapSymbolRespawn=治疗师
+tagMapSymbolRespawnDesc=一个在恢复活力与缝合严重创伤方面训练有素的治疗师.
+tagMapSymbolRiftgate=裂缝之门
+tagMapSymbolRiftgateDesc=一个能够传送你到其他地点的非现实世界空间裂缝.
+tagMapSymbolVendor=商贩
+tagMapSymbolVendorDesc=一个资源货物的商人.
+tagMapSymbolWitch=灵魂向导
+tagMapSymbolWitchDesc=一个能够帮助你忘却技能的灵魂人物.
 tagMapSymbolShrine=Shrine
+<<<<<<< HEAD
+tagMapSymbolShrineDesc=Shrine的描述(暂无)
+tagMapSymbolSmith=铁匠
+tagMapSymbolSmithDesc=一个能够制作新物品的娴熟工匠.
+=======
 tagMapSymbolShrine=Object of Interest
 tagMapSymbolShrineDesc=Something of use may be found at this location.
 tagMapSymbolSmith=Smith
 tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 
 #SystemStatsSkillUI
 
@@ -894,15 +941,29 @@ tagGameOver=你死亡了！
 SimpleStringFormat={%s0}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
-ManaDisplayFormat=Energy  {%d0} / {%d1} ({%d2} Reserved)
-LifeDisplayFormat=Health  {%d0} / {%d1}
-ExperienceDisplayFormat=Current Experience : {^y}{%d0}{^w}  ~  Experience to Next Level : {^y}{%d1}
+ManaDisplayFormat=能量  {%d0} / {%d1} ({%d2} Reserved)
+LifeDisplayFormat=生命  {%d0} / {%d1}
+ExperienceDisplayFormat=当前经验值 : {^y}{%d0}{^w}  ~  Experience to Next Level : {^y}{%d1}
 
-tagExpDisplayFormat=Current Experience : {^y}{%t0}{^w}  ~  Experience till Next Level : {^y}{%t1}
+tagExpDisplayFormat=当前经验值 : {^y}{%t0}{^w}  ~  Experience till Next Level : {^y}{%t1}
 
 tagCharAttribute01={%+.0f0} {^E}Cunning
 tagCharAttribute02={%+.0f0} {^E}Physique
 tagCharAttribute03={%+.0f0} {^E}Spirit
+<<<<<<< HEAD
+tagCharAttribute04={%+.0f0} {^E}生命
+tagCharAttribute05={%+.0f0} {^E}能量
+tagCharLifeRegen={%+.1f0} {^E}每秒生命再生
+tagCharManaRegen={%+.1f0} {^E}每秒能量再生
+
+tagCharAttribute01Modifier={%+.0f0}% {^E}灵巧
+tagCharAttribute02Modifier={%+.0f0}% {^E}体格
+tagCharAttribute03Modifier={%+.0f0}% {^E}精神
+tagCharAttribute04Modifier={%+.0f0}% {^E}生命
+tagCharAttribute05Modifier={%+.0f0}% {^E}能量
+tagCharLifeRegenModifier={^E}生命再生提高 {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}能量再生提高 {^H}{%.0f0}%
+=======
 tagCharAttribute04={%+.0f0} {^E}Health
 tagCharAttribute05={%+.0f0} {^E}Energy
 tagCharConstitution={%+.0f0} {^E}Constitution
@@ -917,12 +978,87 @@ tagCharAttribute05Modifier={%+.0f0}% {^E}Energy
 tagCharConstitutionModifier={%+.0f0}% {^E}Constitution
 tagCharLifeRegenModifier={^E}Increases Health Regeneration by {^H}{%.0f0}%
 tagCharManaRegenModifier={^E}Increases Energy Regeneration by {^H}{%.0f0}%
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 
 tagCharManaLimitReserve={%+.0f0} {^E}Energy Reserved
 tagCharManaLimitReserveReduction=-{%.0f0} {^E}Reserved Energy Cost
 tagCharManaLimitReserveModifier={+%.0f0}% {^E}Energy Reserve
 tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}Energy Reserve
 
+<<<<<<< HEAD
+tagCharRunSpeed={%+.0f0}% {^E}移动速度
+tagCharSpellCastSpeed={%+.0f0}% {^E}施法速度
+tagCharAttackSpeed={%+.0f0}% {^E}攻击速度
+tagCharTotalSpeedModifier={%+.0f0}% {^E}全部速度
+tagCharRunSpeedModifier={%+.0f0}% {^E}移动速度
+tagCharSpellCastSpeedModifier={%+.0f0}% {^E}施法速度
+tagCharAttackSpeedModifier={%+.0f0}% {^E}攻击速度
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} 灵巧
+tagCharAttribute02R={%+.0f0}-{%.0f1} 体格
+tagCharAttribute03R={%+.0f0}-{%.0f1} 精神
+tagCharAttribute04R={%+.0f0}-{%.0f1} 生命
+tagCharAttribute05R={%+.0f0}-{%.0f1} 能量
+tagCharLifeRegenR={%+.1f0}-{%.1f1} 每秒生命再生
+tagCharManaRegenR={%+.1f0}-{%.1f1} 每秒能量再生
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% 灵巧
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% 体格
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% 精神
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% 生命
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% 能量
+tagCharLifeRegenModifierR=生命再生提高 {%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR=能量再生提高 {%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} Energy Reserved
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) Reserved Energy Cost
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% Energy Reserve
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) Energy Reserve
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% Movement Speed
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% Casting Speed
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% Attack Speed
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% Total Speed
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% Movement Speed
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% Casting Speed
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% Attack Speed
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} Offensive Ability
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} Defensive Ability
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% Offensive Ability
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% Defensive Ability
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% Shield Recovery Time
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% Energy Absorbed from Enemy Spells
+tagCharDodgePercentR={%.0f0}-{%.0f1}% Chance to Avoid Melee Attacks
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% Chance to Avoid Projectiles
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% Experience Gained
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% Light Radius
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}% Reduction to all Requirements
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) Player Level Requirement for Items
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Armor
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) Cunning Requirement for Armor
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Armor
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Jewelry
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Jewelry
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Jewelry
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Shields
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Shields
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Shields
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Melee Weapons
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Melee Weapons
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Melee Weapons
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Ranged Weapons
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Ranged Weapons
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Ranged Weapons
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Staff Weapons
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Staff Weapons
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Staff Weapons
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for all Weapons
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for all Weapons
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for all Weapons
+
+SkillManaCostReductionR=-{%.0f0}% 技能能量消耗
+SkillCooldownReductionR=+{%.0f0}% 技能冷却减少
+SkillProjectileSpeedModifierR={%+.0f0}% 抛射速度提升
+SkillManaCostReductionModifierR=-{%.0f0}% 技能能量消耗
+SkillCooldownReductionModifierR=-{%.0f0}% 技能冷却时间
+=======
 tagCharRunSpeed={%+.0f0}% {^E}Movement Speed
 tagCharSpellCastSpeed={%+.0f0}% {^E}Casting Speed
 tagCharAttackSpeed={%+.0f0}% {^E}Attack Speed
@@ -995,6 +1131,7 @@ SkillCooldownReductionR=+{%.0f0}% {^E}Skill Cooldown Reduction
 SkillProjectileSpeedModifierR={%+.0f0}% {^E}Increase in Projectile Speed
 SkillManaCostReductionModifierR=-{%.0f0}% {^E}Skill Energy Cost
 SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 
 tagAttackSpeedNotSet=Speed:  Not Set
 tagAttackSpeedVerySlow=Speed:  Very Slow
@@ -1043,17 +1180,17 @@ tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}Cunning Requirement for all Wea
 tagChanceOf={%.1f0}% {^E}{Chance of {^H}
 tagChanceTo={%.1f0}% {^E}{Chance to {^H}
 
-Strength=Physique
-Dexterity=Cunning
-Intelligence=Spirit
-Life=Health
-Mana=Energy
-UnusedPointsText={%d0} Unused Points
-LifeText={%.0f0} Health
-ManaText={%.0f0} Energy
-StrengthText={%.0f0} Physique
-DexterityText={%.0f0} Cunning
-IntelligenceText={%.0f0} Spirit
+Strength=体格
+Dexterity=灵巧
+Intelligence=精神
+Life=生命
+Mana=能量
+UnusedPointsText={%d0} 可用点数
+LifeText={%.0f0} 生命
+ManaText={%.0f0} 能量
+StrengthText={%.0f0} 体格
+DexterityText={%.0f0} 灵巧
+IntelligenceText={%.0f0} 精神
 FloatFormat={%.0f0}
 Float1Format={%.1f0}
 Float2Format={%.2f0}
@@ -1560,15 +1697,40 @@ tagEmptyHotSlot=清空此快捷键栏按钮。
 
 #Multiplayer
 
+<<<<<<< HEAD
+tagMPGroup=Group
+tagMPInGame=In Game
+tagMPCharName=角色名称
+=======
 tagMPGroup=组队
 tagMPInGame=游戏内
 tagMPCharName=人物姓名
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 tagMPCharLevel=等级
 tagMPCharClass=职业
 tagMPAdd=添加
 tagMPRemove=移除
 tagMPMessage=消息
 tagMPInvite=邀请
+<<<<<<< HEAD
+tagMPLeave=离开
+tagMPBan=封禁
+tagMPAvailable=Available Players
+tagMPGroup1=Group 1
+tagMPGroup2=Group 2
+tagMPGroup3=Group 3
+tagMPInviteMessage={%t0} 邀请你加入队伍.
+tagMPInviteError={%t0} 已在一个队伍中了.
+tagMPInviteSend={%t0} 已被发送邀请加入你的队伍.
+tagMPInviteRemove={%t0} 已被移出队伍.
+tagMPMessageJoin={%t0} 已加入你的队伍.
+tagMPMessageLeave={%t0} 已离开你的队伍.
+tagMPMessageDeny={%t0} 拒绝了你的邀请.
+tagMPMessageBan={%t0} 已被从游戏中封禁.
+tagMPMessageGameJoin={%t0} 已加入游戏.  游戏难度等级已根据人数调整.
+tagMPMessageGameLeave={%t0} 已离开游戏.
+tagMPQuestionBan=你确定要从游戏中封禁 {%t0} 吗?
+=======
 tagMPLeave=离开队伍
 tagMPBan=封禁
 tagMPAvailable=现有玩家
@@ -1586,6 +1748,7 @@ tagMPMessageBan={%t0} 在游戏中被封禁。
 tagMPMessageGameJoin={%t0} 加入了游戏。  难度等级已经为更多玩家进行调整。
 tagMPMessageGameLeave={%t0} 离开了游戏。
 tagMPQuestionBan=你确定你要在游戏中封禁 {%t0} ?
+>>>>>>> d174d6a7d323efad18d2a652872c9884d54880ec
 tagMPInviteAccept=接受
 tagMPInviteDeny=拒绝
 tagMPStats=游戏状态

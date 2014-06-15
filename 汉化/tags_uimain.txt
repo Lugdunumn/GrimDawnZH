@@ -328,6 +328,7 @@ tagCharImportTQCampaign=恐怖黎明战役角色
 tagCharImportTQCustom=恐怖黎明自定义角色
 tagCharImportTitle=恐怖黎明自定义角色
 tagCharImportTitle=导入角色
+
 tagLobbyLock=密码已锁定
 tagLobbyDifficulty=难度
 tagLobbyAutoparty=已开启自动组队
@@ -364,6 +365,7 @@ tagLobbyServerTypeFriends=好友
 tagLobbyServerTypeRecent=最近的玩家
 
 tagCharDetailsPlayerLevel=等级：
+tagCharDetailsItemLevel=物品等级：
 tagCharDetailsPlayerLocation=位置：
 tagCharDetailsFaction=势力状态
 tagCharDetailsActiveQuests=已激活的任务：

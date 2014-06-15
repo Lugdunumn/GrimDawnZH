@@ -895,7 +895,7 @@ ManaDisplayFormat=能量{%d0}/{%d1} ({%d2} 预留)
 LifeDisplayFormat=生命{%d0}/{%d1}
 ExperienceDisplayFormat=当前经验值：{^y}{%d0}{^w}  ~  距离下一级还有：{^y}{%d1}
 
-tagExpDisplayFormat=当前经验值：{^y}{%t0}{^w}  ~  聚集下一级还有：{^y}{%t1}
+tagExpDisplayFormat=当前经验值：{^y}{%t0}{^w}  ~  距离下一级还有：{^y}{%t1}
 
 tagCharAttribute01={%+.0f0} {^E}灵巧
 tagCharAttribute02={%+.0f0} {^E}体格

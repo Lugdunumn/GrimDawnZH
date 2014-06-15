@@ -138,14 +138,14 @@ tagTutorialTip44Title=铁匠不见了!
 tagTutorialTip44TextA=你学会了一个新设计图，但没有能为你制作物品的铁匠。{^n}{^n}你必须先找到一个铁匠才能制作物品。{^n}{^n}铁匠会马上知道怎么用这个设计图制作物品。
 tagTutorialTip44TextB=
 
-tagTutorialTip45Title=Constitution
-tagTutorialTip45TextA=When combat ends and your health bar is not full， a secondary regeneration system activates called Constitution。{^N}{^N}Constitution will rapidly refill your health bar， but will also be drained in the process。 The yellow indicator over your health bar is your Constitution。{^N}{^N}
-tagTutorialTip45TextB=Constitution automatically refills when you find Food Rations or Vital Essence， and when you reach the next Character Level or Die。{^N}{^N}If your Constitution runs out， you will no longer rapidly regenerate health outside of combat。{^N}{^N}
+tagTutorialTip45Title=体力
+tagTutorialTip45TextA=当战斗结束而你的生命条不满时， 一项叫做体力的系统将会激活。{^N}{^N}体力会迅速的补充你的生命条， 但自身也会在此进程中逐渐耗尽。 在你生命跳上的黄色指示器就是你的体力。{^N}{^N}
+tagTutorialTip45TextB=当你找到食物补给或生命精华,或者当你升级与死亡后,体力都会自动补充。{^N}{^N}如果你的体力耗尽， 你将不能继续在战斗外迅速的恢复生命。{^N}{^N}
 
-tagTutorialTip46Title=Out of Constitution
-tagTutorialTip46TextA=You have run out of Constitution and will no longer rapidly regenerate health out of combat。 You can restore your Constitution with Food Rations or Vital Essence。
+tagTutorialTip46Title=体力耗尽
+tagTutorialTip46TextA=你的体力耗尽了你将不能继续在战斗外迅速的恢复生命。 你可以通过食物补给或生命精华恢复你的体力。
 
-tagTutorialTip47Title=Dismantling
-tagTutorialTip47TextA=You have unlocked a new feature for the Inventor， allowing you to break down items into Scrap， with a chance of generating a Component piece。 The more powerful the item， the more likely it will generate powerful Components。
-tagTutorialTip47SubtitleA=Dismantling an Item
-stagTutorialTip47TextB=To Dismantle an item， you will require Dynamite and iron bits。 A Dismantled item is destroyed forever。 Place an item of at least Magical quality in the Inventor's Dismantling UI to begin。{^N}{^N}Upon pressing the Dismantle button， the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts。{^N}{^N}
+tagTutorialTip47Title=分解
+tagTutorialTip47TextA=你为发明家解锁了一项新特性， 允许你将物品分解成废铁， 同时有几率生成一个部件碎片。 物品越强力， 生成的部件越可能强力。
+tagTutorialTip47SubtitleA=分解物品
+stagTutorialTip47TextB=要分解物品， 你将需要炸药和铁币。 被分解的物品将被永久摧毁。 将一个至少魔法品质的物品放入发明家的分解界面以开始。{^N}{^N}当按下分解按钮， 所需的炸药和铁壁将被扣除而物品将被变成基本零件。{^N}{^N}

@@ -1,9 +1,16 @@
 Old Arkovia
-Final Rest
-Slay Boss
-
-
+Old Scars
+Slay Oligarchs
+Balvoruuk, a necromancer who sought you out in Old Arkovia, has tasked you with eradicating the spirits of three Arkovian Oligarchs still roaming the ruins of the Arkovian Undercity. The Oligarchs were once known by these names: Nomos Dred, Laudos Vagra and Rhovena Kur. If you destroy these vile spirits, then Kalderos, Balvoruuk's ghostly minion, will instruct you on what to do next. The Arkovian Undercity can be accessed through the ruins in the hills overlooking the Rocky Coast, in Old Arkovia.
+Slay Nomos Dred
+Slay Laudos Vagra
+Slay Rhovena Kur
 
 Speak to Ghost
+You have erased the spirits of the Oligarchs from this world. Speak Balvoruuk's ghostly minion, Kalderos, outside of the Steps of Torment. The Steps of Torment can only be reached through the Broken Hills.
+
+
+
+Speak to Kalderos outside of the Steps of Torment
 
 

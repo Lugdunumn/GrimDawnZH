@@ -179,6 +179,7 @@ tagEnemyStoneClanShamanB01=Groble ~ Stone Clan Geomancer
 
 tagEnemyEmberClanScavengerA01=Groble ~ Ember Clan Scavenger
 tagEnemyEmberClanRangedA01=Groble ~ Ember Clan Tracker
+tagEnemyEmberClanRangedB01=Groble ~ Ember Clan Huntmaster
 tagEnemyEmberClanWarriorA01=Groble ~ Ember Clan Warrior
 tagEnemyEmberClanWarriorB01=Groble ~ Ember Clan Champion
 
@@ -338,6 +339,17 @@ tagInsectSwarmHeroH01=Issk, the Hive Mind
 tagInsectSwarmHeroH02=Avarix ~ Electrified
 tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
 
+#Manticores
+
+tagEnemyManticoreB01=Manticore Blackmane
+tagEnemyManticoreB02=Manticore Nightstalker
+tagEnemyManticoreC01=Manticore Alpha
+
+tagManticoreHeroH01=Raxa, the Jade Huntress
+tagManticoreHeroH02=Neleron, the Eyes of Death
+tagManticoreHeroH03=Uroxis Swiftclaw ~ Swift
+tagManticoreHeroH04=Waroxis Crimsonclaw ~ Bruiser
+
 #CreatureRaptor
 
 tagEnemyRaptorA_JuvenileA01=Carrion Raptor ~ Hatchling
@@ -496,6 +508,7 @@ tagThornedHorrorHeroH03=Blackthorn ~ Reflective
 tagThornedHorrorHeroH04=Rotthorn ~ Diseased
 tagThornedHorrorHeroH05=Everbark ~ Regenerator
 tagThornedHorrorHeroH06=Rimebark ~ Frozen
+tagThornedHorrorHeroH07=Aetheros
 
 
 #Traps
@@ -530,6 +543,30 @@ tagTrollHeroH05=Wontlak ~ Frozen
 tagBossTrollB01=Gulgoth, the Rampaging
 tagBossTrollB02=Voldrak, the Destroyer
 
+#Underdwellers
+
+tagEnemyCaveTrollHalfA01=Underdweller Brute
+tagEnemyCaveTrollHalfB01=Underdweller Savage
+tagEnemyCaveTrollHalfB02=Underdweller Mystic
+tagEnemyCaveGrobleA01=Underdweller Runt
+tagEnemyCaveGrobleB01=Underdweller Ritualist
+tagEnemyCaveTrollB01=Underdweller Troll
+tagEnemyCaveTrollC01=Underdweller Behemoth
+tagEnemyCaveSpiderA01=Terrorweave Spiderling
+tagEnemyCaveSpiderB01=Terrorweave Arachnid
+tagEnemyCaveSpiderB02=Terrorweave Widow
+tagEnemyCaveSpiderC01=Terrorweave Matriarch
+
+tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
+tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
+tagCaveTrollHalfHeroH03=Savarok ~ Shielded
+tagCaveGrobleHeroH01=Akala ~ Swift
+tagCaveGrobleHeroH02=Ulbalak ~ Supporter
+tagCaveTrollHeroH01=Balglak, the Cave Warden
+tagCaveTrollHeroH02=Toros ~ Charger
+tagCaveSpiderHeroH01=Ungoliax, the Darkness
+tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
+tagCaveSpiderHeroH03=Ravnix ~ Swift
 
 #Vultures
 

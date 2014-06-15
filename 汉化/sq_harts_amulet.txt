@@ -10,6 +10,7 @@ Return the Amulet to Sybil Hart in Devil's Crossing
 
 
 
+
 Field Return
 You found a strange amulet on one of the Dead near the Sodden Hollow in Wightmire. It bears the following inscription: "To my dear brother: May this amulet keep you strong in battle. -Sybil". {^n}{^n}Return it to Sybil Hart in Devil's Crossing.
 Collect Milton Hart's Amulet

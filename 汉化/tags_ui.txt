@@ -199,7 +199,7 @@ tagSkillUndoClass=撤销职业选择
 tagSkillUndoPoints=撤销加点
 tagSkillClassSelect=选择职业
 tagCurrentLevel=当前等级：{%d0}
-tagNextLevel=下一等级所需经验值：{%d0}
+tagNextLevel=下一等级：{%d0}
 tagSkillClassSelectInfo=选择一个职业{^n}{^n}一旦你做出了选择并且退出了技能窗口，你的选择将被永久固定。
 tagSkillReq01=还需要{%d0}点额外点数在{%s1}中。
 tagSkillReq01Singular=还需要{%d0}点额外点数在{%s1}中。
@@ -334,7 +334,7 @@ tagCharStatsDPS=每秒伤害
 tagCharStatsDPSDescription=每秒造成的平均伤害，不考虑敌人防御。
 
 tagCharStatsArmorTotal=护甲等级
-tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}奖励由所有非护甲装备的加和整除护甲栏位的个数而得。
+tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。奖励由所有非护甲装备的加和整除护甲栏位的个数而得。
 tagCharStatsHitArmor=该部位被击中几率
 tagCharStatsArmorUnprotected=没有穿着护甲
 tagCharStatsArmorNA=N/A
@@ -670,7 +670,7 @@ tagRecordMonsterKillsInfo=你的角色击杀的怪物总数。
 tagRecordChampionKills=精英击杀
 tagRecordChampionKillsInfo=你的角色击杀的敌方英雄和头领数量。
 
-tagRecordHighestMonster=举行怪物击杀
+tagRecordHighestMonster=最强力怪物击杀
 tagRecordHighestMonsterInfo=你的角色击杀最强有力的怪物。
 
 tagRecordHighestDamage=造成伤害
@@ -1159,7 +1159,7 @@ ProjectilePiercingChance={%.1f0}% {^E}穿过敌人
 
 
 tagTooltipPetsHeader=战宠
-tagTooltipSkillsHeader=授得技能
+tagTooltipSkillsHeader=授予技能
 
 tagShieldBlockInfo={%.0f0}%的几率格挡{^W}{%.0f1}伤害
 

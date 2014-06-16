@@ -1,4 +1,4 @@
-tagTitleScreenText=恐怖黎明早期先行版{^n}©2014 Crate Entertainment, LLC{^n}{^n}欢迎试玩恐怖黎明早期先行版! 我们非常重视您的反馈。{^n}{^n}请前往www.grimdawn.com{^n}网站来参与到恐怖黎明的开发中来!
+tagTitleScreenText=恐怖黎明早期先行版{^n}©2014 Crate Entertainment有限责任公司{^n}{^n}欢迎试玩恐怖黎明早期先行版! 我们非常重视您的反馈。{^n}{^n}请前往www.grimdawn.com{^n}网站来参与到恐怖黎明的开发中来!
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息

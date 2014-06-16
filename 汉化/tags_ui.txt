@@ -334,7 +334,7 @@ tagCharStatsDPS=每秒伤害
 tagCharStatsDPSDescription=每秒造成的平均伤害，不考虑敌人防御。
 
 tagCharStatsArmorTotal=护甲等级
-tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。奖励由所有非护甲装备的加和整除护甲栏位的个数而得。
+tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}奖励由所有非护甲装备的加和整除护甲栏位的个数而得。
 tagCharStatsHitArmor=该部位被击中几率
 tagCharStatsArmorUnprotected=没有穿着护甲
 tagCharStatsArmorNA=N/A
@@ -429,7 +429,7 @@ tagCharStatsCooldownReductionInfo=技能冷却时间减少的百分数。
 tagCharStatsManaCostReduction=技能的能量消耗减少
 tagCharStatsManaCostReductionInfo=减少技能施放所消耗能量的百分数。
 
-tagCharStatsPercentHealthDamage=生命值百分比减少伤害（类似于暗黑压碎性打击）
+tagCharStatsPercentHealthDamage=生命值百分比减少伤害
 tagCharStatsPercentHealthDamageInfo=基础攻击每一击所造成的计算当前生命值百分比的伤害，已含加成。
 
 tagCharStatsFireAbsDmg=火焰伤害
@@ -521,7 +521,7 @@ tagCharStatsPetRunSpeednfo=你的战宠和召唤物的移动速度加成的百�
 tagCharStatsPetOA=攻击能力加成
 tagCharStatsPetOAInfo=你的战宠和召唤物的攻击能力加成的百分数。
 
-tagCharStatsPetDA=战宠防御能力
+tagCharStatsPetDA=战宠防御能力加成
 tagCharStatsPetDAInfo=你的战宠和召唤物的防御能力加成的百分数。
 
 #Char Stats Tab 3 人物属性栏3

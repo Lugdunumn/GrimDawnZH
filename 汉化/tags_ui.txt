@@ -786,8 +786,8 @@ tagCraftingMaterials=材料
 
 tagCraftingRelics=圣物
 
-tagDividerTab02=回收
-tagDividerRoll02=回收装置被用来从物品上分离附加部件。不幸的是，回收工序的不完善会摧毁物品或附加部件中的一个，不过你可以做出选择。
+tagDividerTab01=回收
+tagDividerRoll01=回收装置被用来从物品上分离附加部件。不幸的是，回收工序的不完善会摧毁物品或附加部件中的一个，不过你可以做出选择。
 
 tagDividerTab02=分解
 tagDividerRoll02=分解装置被用来拆解强力的物品以得到其基本的部分，发明家还没有学会这项技能。（尚未实装）

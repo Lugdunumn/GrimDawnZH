@@ -158,7 +158,7 @@ tagClass01SkillDescription05C=极大地增强刀锋横扫的威力并提升其�
 #Class02
 
 tagClass02SkillName00A=爆破者
-tagClass02SkillDescription00A=Expertise in the combination of science and sorcery to unleash fiery hell upon the battlefield.
+tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的地狱。
 
 tagClass02SkillName01A=Grenado
 tagClass02SkillDescription01A=The grenado is a recent invention that has quickly grown in use on the battlefield where it has evened the playing field between sorcerous manipulation and conventional weaponry.
@@ -337,19 +337,19 @@ tagClass03SkillDescription15A=Seals the target within a protective, healing sanc
 
 #Class04
 
-tagClass04SkillName00=Nightblade
-tagClass04SkillDescription00=Practice in the arts of illusion and whirling blades.
+tagClass04SkillName00=夜刃
+tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
-tagClass04SkillName01A=Phantasmal Blades
-tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl conjured blades infused with shadow magic that rends through flesh like paper.
-tagClass04SkillName01B=Heart Seeker
-tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
-tagClass04SkillName01C=Nether Edge
-tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
-tagClass04SkillName01D=Frenetic Throw
-tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
+tagClass04SkillName01A=幻影刀锋
+tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤的刀刃如纸片一般撕裂肉体。
+tagClass04SkillName01B=寻心击
+tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而隐形幻线能从受害者身上吸取生命力。 
+tagClass04SkillName01C=幽冥之刃
+tagClass04SkillDescription01C=使幻影刀锋具有暗黑魔法，是一种仅在最恶劣情况下才会使用的令人厌恶的技能。
+tagClass04SkillName01D=狂热投掷
+tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋但是单个刀锋的杀伤力降低。
 
-tagClass04SkillName02A=Shadow Strike
+tagClass04SkillName02A=暗影突袭
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
 tagClass04SkillName02B=Nidalla's Justifiable Ends
 tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.

@@ -28,6 +28,10 @@ Kasparov 卡斯帕罗夫
 
 Barnabas 巴纳巴斯
 
+The Old Dump 古旧垃圾场
+
+Foggy Bank 迷雾河畔
+
 Old Arkovia 古安克维亚
 
 Darius Cronley 德莱厄斯·克隆利
@@ -35,6 +39,8 @@ Darius Cronley 德莱厄斯·克隆利
 Four Hills 四山
 
 Mornay 莫尔奈
+
+The Flooded Passage洪水通道
 
 Rook 鲁克
 

@@ -150,32 +150,32 @@ tagWeaponAxeC011=锯齿千人斩
 tagWeaponAxeC011Desc=“每个锯齿都代表着一条生命。”
 tagWeaponAxeC012=尸体亵渎者
 tagWeaponAxeC013=Chonag'Ri
-tagWeaponAxeC013Desc="A shamanistic axe comprising of various unidentifiable human and animal bones."
+tagWeaponAxeC013Desc=“一把由各种人类和动物的骨头组成的萨满斧。”
 
-tagWeaponAxeD001=The Butcher of Burrwitch
+tagWeaponAxeD001=伯尔维治屠夫
 tagWeaponAxeD001Desc="Embodiment of the madness and depravity that overwhelmed the people of Cairn following the Grim Dawn."
-tagWeaponAxeD002=Crescent Moon
-tagWeaponAxeD002Desc="Blessed weapon of moon worshippers, thought destroyed during the Sacred Purge."
+tagWeaponAxeD002=新月
+tagWeaponAxeD002Desc=“月之崇拜者的神圣武器，被认为在神圣净化中被摧毁。”
 tagWeaponAxeD003=Brutallax
-tagWeaponAxeD004=Earthsplitter
+tagWeaponAxeD004=裂地
 tagWeaponAxeD004Desc="Legends speak of a mortal who, when beseeched by the gods, cleaved Mount Menhir in two, forming Menhir's Twins."
-tagWeaponAxeD005=Damnation
+tagWeaponAxeD005=天谴
 
 
-tagWeaponGun1hA001=Hand-Blunderbuss
+tagWeaponGun1hA001=手持喇叭枪
 tagWeaponGun1hA002=Howdah
 tagWeaponGun1hA003=Pepperbox Gun
-tagWeaponGun1hA004=Hand Cannon
-tagWeaponGun1hA005=Revolver
-tagWeaponGun1hA006=Sixgun
-tagWeaponGun1hA007=Derringer
-tagWeaponGun1hA008=Repeater
-tagWeaponGun1hA009=Scope Revolver
-tagWeaponGun1hA010=Volley Gun
+tagWeaponGun1hA004=手持加农炮
+tagWeaponGun1hA005=左轮手枪
+tagWeaponGun1hA006=六发左轮
+tagWeaponGun1hA007=大口径短筒手枪
+tagWeaponGun1hA008=连发枪
+tagWeaponGun1hA009=精准左轮手枪
+tagWeaponGun1hA010=齐射枪
 
-tagWeaponGun1hB001=Double-Barrel Pistol
-tagWeaponGun1hB002=Hand Mortar
-tagWeaponGun1hB003=Shrapnel Pistol
+tagWeaponGun1hB001=双管手枪
+tagWeaponGun1hB002=手持迫击炮
+tagWeaponGun1hB003=弹片手枪
 
 tagWeaponGun1hC001=Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc="Taken from the cold dead hands of the Blackwater bandit."
@@ -286,17 +286,17 @@ tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
 
-tagWeaponMelee2hA001=Greatsword
-tagWeaponMelee2hA002=Warsword
-tagWeaponMelee2hA003=Claymore
-tagWeaponMelee2hA004=Flamberge
-tagWeaponMelee2hA005=Great Axe
-tagWeaponMelee2hA006=War Axe
-tagWeaponMelee2hA007=Scythe
-tagWeaponMelee2hA008=Halberd
-tagWeaponMelee2hA009=Maul
-tagWeaponMelee2hA010=Sledgehammer
-tagWeaponMelee2hA011=Warmaul
+tagWeaponMelee2hA001=双手剑
+tagWeaponMelee2hA002=战剑
+tagWeaponMelee2hA003=双刃刀
+tagWeaponMelee2hA004=双手饰剑
+tagWeaponMelee2hA005=双手斧
+tagWeaponMelee2hA006=战斧
+tagWeaponMelee2hA007=镰刀
+tagWeaponMelee2hA008=战戟
+tagWeaponMelee2hA009=槌
+tagWeaponMelee2hA010=长柄锤
+tagWeaponMelee2hA011=战锤
 
 tagWeaponMelee2hB001=Troll Headsmasher
 tagWeaponMelee2hB002=Troll Skullcrusher

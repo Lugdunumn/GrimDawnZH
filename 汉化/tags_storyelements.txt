@@ -1,14 +1,14 @@
 #Region Names
 
-tagMapDevilsCrossing01=Devil's Crossing
-tagMapLowerCrossing01=Lower Crossing
-tagMapBurialHill=Burial Hill
-tagMapOldDump=The Old Dump
-tagMapFoggyBank=Foggy Bank
-tagMapBurrwitchRoad01=Foggy Bank
-tagMapWightmire01=Wightmire
+tagMapDevilsCrossing01=魔鬼路口
+tagMapLowerCrossing01=下游渡口
+tagMapBurialHill=殓葬山脉
+tagMapOldDump=古旧垃圾场
+tagMapFoggyBank=迷雾河畔
+tagMapBurrwitchRoad01=迷雾河畔
+tagMapWightmire01=尸妖泥沼
 tagMapSoddenHollow=Sodden Hollow
-tagMapFloodedPassage01=The Flooded Passage
+tagMapFloodedPassage01=洪水通道
 tagMapBurrwitchOutskirts01=Burrwitch Outskirts
 tagMapMolderingFields=Moldering Fields
 tagMapMudRow=Mud Row

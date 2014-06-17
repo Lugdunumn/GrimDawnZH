@@ -1316,7 +1316,7 @@ DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}目标防御能力降低
 DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}目标物理伤害降低
 ImprovedTimeFormat={^E}with {^H}{%+.0f0}% {^E}持续时间提升
 ImprovedTimeFormatR= {^E}伴随 {^H}{%+.0f0}-{%.0f1}% {^E}持续时间提升
-
+#对于后文的XX减少。感觉提及百分比，是不是削减更为合适一些。减少反击看起来比较奇怪不好理解，当然了，大家商量一下- -
 RetaliationCold={%t0} {^E}冰冻反击
 RetaliationFire={%t0} {^E}火焰反击
 RetaliationLife={%t0} {^E}活力反击

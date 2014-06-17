@@ -6,6 +6,12 @@ Silas塞拉斯
 
 Jasper 贾斯伯
 
+marcus 马库斯
+
+gertrude 格特鲁德
+
+Depraved Sanctuary 堕落圣殿
+
 isaac 艾萨克
 
 Devil's Crossing 魔鬼路口
@@ -38,6 +44,8 @@ Arkovian Foothills 安克维亚山麓
 
 Broken Hill 破碎山脉
 
+rocky coast 岩石海岸
+
 Aether crystal 虚化水晶/以太水晶？
 
 Hangman Jarvis 刽子手·贾维斯
@@ -55,6 +63,8 @@ Kyzogg the Reanimator 死尸复生者凯奥格
 Wardens Cellar 典狱长的地窖
 
 Warden Krieg 典狱长克里格
+
+Cult of Ch'thon 冥神邪教
 
 Rovers 流浪者
 

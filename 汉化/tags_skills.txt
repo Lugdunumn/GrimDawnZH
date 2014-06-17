@@ -46,13 +46,13 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the{^n}most hellish conditions and hold the line against the deadliest{^n}enemies of the empire. Soldiers prefer the use of close combat{^n}weaponry, such as a sword and shield, but can also prove{^n}formidable with firearms. What a Soldier may lack in outright{^n}damage output is made up for in fortitude and leadership.
+tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，{^n}也能在面对帝国最凶恶的敌人时坚守阵地。{^n}士兵更喜欢近身作战的兵器，诸如剑与盾，{^n}但用起火器来也同样是得心应手。士兵最不擅长的是假装英勇无畏{^n}和领导别人。
 
 tagSkillClassDescription02=Pyrotechnic masters of the imperial army; Demolitionists are{^n}part engineer; part sorcerer. They were used to break enemy{^n}ranks and breach fortifications with their devastating array{^n}of explosives and destructive magic. They usually prefer to{^n}fight at range; engaging enemies with guns, traps and explosives{^n}but they can also be proficient with melee weapons.
 
 tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch{^n}power, the Occultist's craft focuses heavily on summoning and{^n}borrowed powers granted by the three witch "gods" Bysmiel,{^n}Solael and Dreeg. Their diverse arts include abhorrent curses{^n}and spells that inflict damage with poison, acid, and entropic{^n}energy. Excelling with neither sword nor gun, they can use{^n}either to augment their offense.
 
-tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装。他们精通所有兵器，但更令人畏惧的是他们赖以为生的，刀刀致命的剑术。夜刃不适合面对面地硬撼强敌，他要么依靠幻想快速接近敌人，发动毁灭性的的攻势，要么远距离投射幽光刃。
+tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装。他们精通所有兵器，但更令人畏惧的是他们赖以为生的，刀刀致命的剑术。夜刃不适合面对面地硬撼强敌，他要么依靠幻象快速接近敌人，发动毁灭性的的攻势，要么远距离投射幽光刃。
 
 tagSkillClassDescription05=对于秘术师来说，魔法的显现根本就是不是什么秘密，也不是什么神的旨意，而是一门需要研究的学问。这种对知识的渴求让所有秘术师都渴望发明新法术，然后用自己的名字为之命名。秘术师随意糅合虚灵和各种元素的能量，创造出了许多能毁灭一支小型军队的法术。不过，使用了如此强大的力量，防守起来自是力不从心。
 
@@ -80,84 +80,84 @@ tagClass01SkillName00A=士兵
 tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对凯恩世界严酷的现实。
 
 tagClass01SkillName01A=节奏打击
-tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  When used as your default weapon attack, Cadence will magnify the power of every 3rd strike.
-tagClass01SkillName01B=Fighting Form
-tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding. ^oWith melee weapons, the resonance causes Cadence to strike additional nearby targets.
-tagClass01SkillName01C=Deadly Momentum
-tagClass01SkillDescription01C=Cadence strikes with tremendous force, giving each Cadence strike a chance to inflict additional painful effects.
+tagClass01SkillDescription01A=战斗时，自然地跟随的周期性节奏感，施展抑扬顿挫的打击，每次第三击造成大量伤害。虽然可以被预判，但却强效有力，难以实施反击。
+tagClass01SkillName01B=格斗姿态
+tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的额外目标
+tagClass01SkillName01C=致死旋律
+tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机会获得额外伤害效果。
 
-tagClass01SkillName02A=Forcewave
-tagClass01SkillDescription02A=Such force is channeled into the attack that it compresses the very air, projecting out a wave of energy that stuns and damages foes. ^oThis attack requires a shield.
-tagClass01SkillName02B=Rending Force
-tagClass01SkillDescription02B=Forcewave shatters enemy armor, making them more susceptible to physical attacks.
-tagClass01SkillName02C=Internal Trauma
-tagClass01SkillDescription02C=Forcewave shatters bones and ruptures organs, causing profuse internal and external bleeding.
+tagClass01SkillName02A=力场波
+tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出能量波眩晕敌人并造成伤害。^o该技能发动需要装备盾牌。
+tagClass01SkillName02B=裂甲之力
+tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容易受到物理伤害。
+tagClass01SkillName02C=内部创伤
+tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大量的内外出血。
 
-tagClass01SkillName03A=Blitz
-tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon.
-tagClass01SkillName03B=Blindside
-tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts enemies off-balance, reducing their combat prowess.
+tagClass01SkillName03A=闪击
+tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。
+tagClass01SkillName03B=攻其不备
+tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
 
-tagClass01SkillName04A=War Cry
-tagClass01SkillDescription04A=A blood-chilling war cry weakens the resolve of your foes and disrupts their focus.
-tagClass01SkillName04C=Terrify
-tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge.
-tagClass01SkillName04B=Break Morale
-tagClass01SkillDescription04B=War Cry shatters enemy morale, rendering them powerless against you.
+tagClass01SkillName04A=战吼
+tagClass01SkillDescription04A=毛骨悚然的战吼能削弱敌人的意志，分散他们的注意力。
+tagClass01SkillName04C=恐惧之吼
+tagClass01SkillDescription04C=不坚强的敌人在听到你可怕的挑衅声后会逃走。
+tagClass01SkillName04B=破胆
+tagClass01SkillDescription04B=战吼粉碎敌人的斗志，导致他们无力与你战斗。
 
-tagClass01SkillName05A=Blade Arc
-tagClass01SkillDescription05A=An arched swing that slices through multiple enemies around you. ^oRequires a melee weapon.
-tagClass01SkillName05B=Laceration
-tagClass01SkillDescription05B=Expert technique causes Blade Arc to strike more enemies and to tear them open, causing bleeding.
+tagClass01SkillName05A=刀锋横扫
+tagClass01SkillDescription05A=弧形挥动武器能切开周围的多个敌人。^o需要近战武器。
+tagClass01SkillName05B=撕裂
+tagClass01SkillDescription05B=刀锋横扫的高级技巧，攻击时撕开敌人，造成流血。
 
-tagClass01SkillName06A=Markovian's Advantage
-tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses.
-tagClass01SkillName06B=Zolhan's Technique
-tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful thrust to imbalance your opponents. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
+tagClass01SkillName06A=马尔可夫优势
+tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。
+tagClass01SkillName06B=佐尔汉的技艺
+tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡^o当使用一把近战武器发动时，会击中附近多个目标。
 
-tagClass01SkillName07A=Fighting Spirit
-tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
-tagClass01SkillName08A=Menhir's Will
-tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield or two-handed melee weapon.
+tagClass01SkillName07A=战意
+tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反激起你的怒气，在攻击中使出更大的力量。
+tagClass01SkillName08A=曼海尔的意志
+tagClass01SkillDescription08A=当你接近死亡时，曼海尔不屈的意志将灌注给你新的力量。^o需要盾牌或者双手近战武器
 
-tagClass01SkillName09A=Field Command
-tagClass01SkillDescription09A=A superior sense of discipline and knowledge of battlefield tactics makes you a natural leader in the heat of battle. ^oThis ability must be toggled to maintain its effect.
-tagClass01SkillName09B=Squad Tactics
-tagClass01SkillDescription09B=Inspires your allies to perform to the very best of their abilities.
+tagClass01SkillName09A=指挥领域
+tagClass01SkillDescription09A= 卓越的纪律感和战术知识让你成为战斗领袖。^o此技能须开启以保持生效。
+tagClass01SkillName09B=小队战术
+tagClass01SkillDescription09B=激励你的队友，增强他们的战力。
 
-tagClass01SkillName10A=Military Conditioning
-tagClass01SkillDescription10A=Heavily regimented military training strengthens and fortifies the body against the hardships of war.
-tagClass01SkillName11A=Veterancy
-tagClass01SkillDescription11A=Experience in some of the toughest theatres of the colonial wars has given you the ability to survive ordeals that would be fatal to others.
-tagClass01SkillName12A=Decorated Soldier
-tagClass01SkillDescription12A=An ability to remain calm and think clearly in the heat of battle enables veterans to more easily spot the gaps in an enemy's defense, or predict the flow of their attacks so that they can be easily countered.
+tagClass01SkillName10A=军事素养
+tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战争的耐受力
+tagClass01SkillName11A=久经沙场
+tagClass01SkillDescription11A=战争的严苛使你获得了在战争中存活的宝贵经验。
+tagClass01SkillName12A=功勋卓著
+tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来施以反击。
 
-tagClass01SkillName13A=Menhir's Bulwark
-tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oRequires a shield.
+tagClass01SkillName13A=曼海尔的壁垒
+tagClass01SkillDescription13A=召唤大地之神曼海尔，保佑其追随者拥有大地一般的韧性。^o需要一面盾牌。
 
-tagClass01SkillName14A=Oleron's Rage
-tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an ancient aspect that inspires unwavering ferocity in his followers.
+tagClass01SkillName14A=奥莱隆之怒
+tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞起其追随者无法动摇的凶猛战意。
 
-tagClass01SkillName15A=Overguard
-tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
+tagClass01SkillName15A=战斗警觉
+tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意识。你只能在很短的时间内维持该状态^o需要一面盾牌。
 
-tagClass01SkillName16=Scars of Battle
-tagClass01SkillDescription16=Through countless violent encounters, you have seen the worst that battle has to offer. The horrors of war no longer hinder your actions, and neither does a little spilled blood.
+tagClass01SkillName16=百战之躯
+tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了最为严酷的战场。战争所谓的恐怖和小小的伤口，都已无法再阻碍你。
 
-tagClass01SkillName17=Counter Strike
-tagClass01SkillDescription17=Enter a state of intense readiness in order to unleash lightning-fast counter strikes against your attackers. ^oThis ability must be toggled to maintain its effect.
+tagClass01SkillName17=防守反击
+tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击 ^o此技能须开启以保持生效。
 
 
-tagClass01SkillName09C=Hold the Line
+tagClass01SkillName09C=坚守
 tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
-tagClass01SkillName05C=Death Arc
-tagClass01SkillDescription05C=Greatly magnifies the power of Blade Arc and increases the number of targets hit.
+tagClass01SkillName05C=死亡之弧
+tagClass01SkillDescription05C=极大地增强刀锋横扫的威力并提升其击中目标个数。
 
 
 
 #Class02
 
-tagClass02SkillName00A=Demolitionist
+tagClass02SkillName00A=爆破者
 tagClass02SkillDescription00A=Expertise in the combination of science and sorcery to unleash fiery hell upon the battlefield.
 
 tagClass02SkillName01A=Grenado
@@ -1322,22 +1322,22 @@ tagConsumableSkill_A16Desc=Fills you with boundless energy.
 
 MasteriesAvailable=Select from {%d0} Additional Tabs
 NoMasteriesAvailable=No Additional Tabs Available
-SkillPointsAvailable={%d0} Unused Skill Points
-SkillPointsAvailableSingular={%d0} Unused Skill Point
-NoSkillPointsAvailable=No Skill Points Available
+SkillPointsAvailable={%d0}未使用技能点数
+SkillPointsAvailableSingular={%d0}未使用技能点数
+NoSkillPointsAvailable=无可用技能点
 
 #SkillsReallocator
 
-tagReallocateError01=You need to remove all points from all modifiers before you can remove the last point from this skill.
-tagReallocateError02=You do not have enough gold to remove any more skill points.
-tagReallocateError03=You cannot remove points from your Mastery.
-tagDecreaseMasteryError=Cannot reclaim points from the mastery.
-tagReclaimPoint=Click to Reclaim Skill Point (Cost {^y}{%t0}{^-})
+tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
+tagReallocateError02=金钱不足。
+tagReallocateError03=不能从专精中撤销点数。
+tagDecreaseMasteryError=不能从专精中撤销点数。
+tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-})
 tagReclaimBase=Remove Modifiers to Reclaim Final Point
-tagReclaimNoPoints=No Points to Reclaim
-tagReclaimNoGold=Insufficient Gold (Cost {^y}{%t0}{^r})
-tagReallocateTitle=Skill Reallocation
-tagReallocationDescription=Clicking on a skill icon will remove a skill point.  The cost to remove a skill point increases with each point removed.
+tagReclaimNoPoints=没有技能点数可以撤销
+tagReclaimNoGold=金钱不足(费用{^y}{%t0}{^r})
+tagReallocateTitle=技能重置
+tagReallocationDescription=点击技能图标会移除一个技能点，每移除一个加点费用都会随之增加。
 
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me

@@ -2226,123 +2226,123 @@ tagSuffixB028_Sh_A=of Storms
 
 #ItemSkills
 
-tagAutoSkillCondition01= ({%d0}% Chance on Low Health)
-tagAutoSkillCondition02= ({%d0}% Chance on Low Energy)
-tagAutoSkillCondition03= ({%d0}% Chance when Hit)
-tagAutoSkillCondition04= ({%d0}% Chance when Hit by Melee Attacks)
-tagAutoSkillCondition05= ({%d0}% Chance when Hit by Ranged Attacks)
-tagAutoSkillCondition06= ({%d0}% Chance when a Buff is Cast)
-tagAutoSkillCondition07= ({%d0}% Chance on Attack)
-tagAutoSkillCondition08= (Active while Equipped)
-tagAutoSkillCondition09= ({%d0}% Chance when Hit by a Critical)
-tagAutoSkillCondition10= ({%d0}% Chance on Critical Attack)
-tagAutoSkillCondition11= ({%d0}% Chance on Block)
+tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时生效)
+tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时生效)
+tagAutoSkillCondition03= ({%d0}% 的几率在攻击时生效)
+tagAutoSkillCondition04= ({%d0}% 的几率在受到物理攻击时生效)
+tagAutoSkillCondition05= ({%d0}% 的几率在受到远程攻击时生效)
+tagAutoSkillCondition06= ({%d0}% 的几率在施放增益效果时生效)
+tagAutoSkillCondition07= ({%d0}% 的几率在攻击时生效)
+tagAutoSkillCondition08= (装备时生效)
+tagAutoSkillCondition09= ({%d0}% 的几率在受到致命伤害时生效)
+tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时生效)
+tagAutoSkillCondition11= ({%d0}% 的几率在格挡时生效)
 
 
 #LootChests
 
-tagChestWoodA01=Weathered Chest
-tagChestRationA01=Journeyman's Pack
-tagChestWoodB01=Polished Chest
-tagChestMetalA01=Metal Strongbox
-tagChestMetalB01=Ornate Strongbox
-tagChestNaturalA01=Marked Rock
-tagChestNaturalA02=Uprooted Stump
-tagChestCorpseA01=Rotting Corpse
-tagChestRockCairnA01=Rock Cairn
-tagChestStoneAltarC01=Stone Altar
-tagChestCocoonA01=Cocooned Remains
-tagChestSlithAltarC01=Slith Altar
-tagChestStoneMonolithC01=Stone Chest
-tagChestStoneSarcophagusC01=Ancient Sarcophagus
-tagChestBoneChestD01=Bone Reliquary
-tagChestBoneChestD02=Bone Coffer
+tagChestWoodA01=风化的箱子
+tagChestRationA01=旅行者的包
+tagChestWoodB01=光亮的箱子
+tagChestMetalA01=金属保险箱
+tagChestMetalB01=华丽保险箱
+tagChestNaturalA01=有记号的岩石
+tagChestNaturalA02=连根拔起的树桩
+tagChestCorpseA01=腐烂的尸体
+tagChestRockCairnA01=岩石堆
+tagChestStoneAltarC01=石头祭坛
+tagChestCocoonA01=茧状残骸
+tagChestSlithAltarC01=蛇人祭坛
+tagChestStoneMonolithC01=石质箱子
+tagChestStoneSarcophagusC01=古老的石棺
+tagChestBoneChestD01=骨质的遗骨匣
+tagChestBoneChestD02=骨质的箱子
 
-tagChestRackArmorA01=Armor Rack
-tagChestRackArmorB01=Armor Collection
-tagChestRackWeaponsA01=Weapons Rack
-tagChestRackWeaponsB01=Weapons Collection
+tagChestRackArmorA01=盔甲架
+tagChestRackArmorB01=盔甲陈列处
+tagChestRackWeaponsA01=武器架
+tagChestRackWeaponsB01=武器陈列处
 
-tagChestCorpse_Mornay=Mornay's Corpse
-tagChestCorpse_RoverElder=Elder Mathias' Corpse
-tagChestCorpse_Jacob=Jacob's Corpse
+tagChestCorpse_Mornay=莫尔奈的尸体
+tagChestCorpse_RoverElder=马赛厄斯的尸体
+tagChestCorpse_Jacob=雅各布的尸体
 
-tagLectern_WardensLabA01=Research Journal
-tagLectern_OldArkoviaRuinsA01=Ancient Lectern
+tagLectern_WardensLabA01=研究日志
+tagLectern_OldArkoviaRuinsA01=古老的讲台
 
-tagChestHeroD01=Heroic Chest
-tagChestHeroD01_Dropped=Heroic Spoils
-tagChestHeroD02=Grand Chest
-tagChestHeroD02_Dropped=Grand Spoils
-tagChestHeroD03=Supreme Chest
-tagChestHeroD03_Dropped=Supreme Spoils
-tagChestHeroD04=Magnificent Chest
-tagChestHeroD04_Dropped=Magnificent Spoils
-tagChestHeroD05=Glorious Chest
-tagChestHeroD06=Transcendent Chest
+tagChestHeroD01=英雄的宝箱
+tagChestHeroD01_Dropped=英雄的战利品
+tagChestHeroD02=豪华的宝箱
+tagChestHeroD02_Dropped=豪华的战利品
+tagChestHeroD03=至高的宝箱
+tagChestHeroD03_Dropped=至高的战利品
+tagChestHeroD04=宏伟的宝箱
+tagChestHeroD04_Dropped=宏伟的战利品
+tagChestHeroD05=华丽的宝箱
+tagChestHeroD06=卓越的宝箱
 
-tagBreakableA01=Barrel
-tagBreakableA02=Crate
-tagBreakableJugA01=Jug
-tagBreakableBonePileHumanA01=Human Remains
-tagBreakableBonePileHumanA02=Human Remains
-tagBreakableJunkPileA01=Junk Pile
-tagBreakableGrobleTotemA01=Groble Totem
-tagBreakableSlithPileA01=Slith Refuse
-tagBreakableScrapPileA01=Scrap Pile
-tagBreakableWaspClusterA01=Wasp Nest
-tagBreakableUrnA01=Dilapidated Urn
-tagBreakableUrnB01=Ancient Urn
-tagBreakableUrnClusterA01=Urn Cluster
+tagBreakableA01=桶
+tagBreakableA02=板条箱
+tagBreakableJugA01=壶
+tagBreakableBonePileHumanA01=人体残骸
+tagBreakableBonePileHumanA02=人体残骸
+tagBreakableJunkPileA01=垃圾堆
+tagBreakableGrobleTotemA01=戈布尔图腾
+tagBreakableSlithPileA01=蛇人废弃物
+tagBreakableScrapPileA01=废铁堆
+tagBreakableWaspClusterA01=蜂窝
+tagBreakableUrnA01=破旧的瓮
+tagBreakableUrnB01=古老的瓮
+tagBreakableUrnClusterA01=翁堆
 
-tagChestLocked= {^R} ~ Locked
-tagChestLockedBoss= {^R} ~ Locked by a Powerful Presence
-tagChestLockedQuest= {^R} ~ Locked by a Quest
+tagChestLocked= {^R} ~ 锁着的
+tagChestLockedBoss= {^R} ~ 被强大生物锁着的
+tagChestLockedQuest= {^R} ~ 被任务锁着的
 
-tagChestBossOneShot_Warden=Warden's Chest
-tagChestBossOneShot_Darius=Darius' Chest
-tagChestOneShot_Sacrifice=Isaac's Stash
-tagChestOneShot_Generic01=Glorious Stash
-tagChestOneShot_Generic02=Exalted Stash
-tagChestOneShot_BurrwitchCave01=Monster's Hoard
-tagChestOneShot_LowerCrossingCave01=Monster's Hoard
+tagChestBossOneShot_Warden=典狱长的箱子
+tagChestBossOneShot_Darius=德莱厄斯的箱子
+tagChestOneShot_Sacrifice=艾萨克的珍藏
+tagChestOneShot_Generic01=辉煌珍藏
+tagChestOneShot_Generic02=崇高珍藏
+tagChestOneShot_BurrwitchCave01=怪物的宝藏
+tagChestOneShot_LowerCrossingCave01=怪物的宝藏
 
 #Interactive Objects
-tagShrineConstitutionA01=Untouched Meal
+tagShrineConstitutionA01=未动过的饭
 
 #Breakables
 
-tagWoodenDoor=Wooden Door
+tagWoodenDoor=木门
 
 #Dungeon Doors
 
-tagUGDoorCave01=Cave Entrance
-tagUGDoorTrapdoor01=Trap Door
-tagUGDoorTrapDoorLocked01=Locked Trap Door
-tagUGDoorLadder01=Rickety Ladder
-tagUGDoorCellarDoor01=Cellar Door
-tagUGDoorMine01=Mine Entrance
-tagUGDoorRuin01=Ruin Entrance
-tagUGDoorIronDoorSecret01=Iron Door
-tagUGDoorPortcullisFloor01=Portcullis
-tagDoorLocked=Locked 
+tagUGDoorCave01=洞穴入口
+tagUGDoorTrapdoor01=陷阱门
+tagUGDoorTrapDoorLocked01=锁着的陷阱门
+tagUGDoorLadder01=摇摇欲坠的梯子 
+tagUGDoorCellarDoor01=地窖入口
+tagUGDoorMine01=矿坑入口
+tagUGDoorRuin01=废墟入口
+tagUGDoorIronDoorSecret01=铁门
+tagUGDoorPortcullisFloor01=吊门
+tagDoorLocked=锁着的
 
-tagDoorOneWay01=Escape to the Surface
-tagDoorLever01=Portcullis Control
+tagDoorOneWay01=通往地表的出口
+tagDoorLever01=吊门控制器
 
 #Doors
 
-tagCellDoor=Cell Door
-tagPrisonEntranceDoor=Burrwitch Prison Gate
-tagMineDoor=Mine Door
-tagEpicDoor_StepsOfTorment=Gates of Anguish
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by Ancient Power
-tagLocked= {^R} ~ Locked
+tagCellDoor=牢门
+tagPrisonEntranceDoor=伯尔维治监狱大门
+tagMineDoor=矿井门
+tagEpicDoor_StepsOfTorment=痛苦之门
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
+tagLocked= {^R} ~ 锁着的
 
 #Quest Rewards
 
-tagQuestItemBrothersAmulet=Sister's Amulet of Lifegiving
-tagQuestItemBrothersAmuletDesc="To my dear brother: May this amulet keep you strong in battle. -Sybil"
+tagQuestItemBrothersAmulet=妹妹的赋生之护身符
+tagQuestItemBrothersAmuletDesc="致亲爱的哥哥: 愿这枚护身符能让你在战斗中保持强壮。 -西比尔"
 
-tagQuestItemSlithRing=Slith Primal Ring
-tagQuestItemSlithRingDesc="There is a lingering stench about this ring that won't wash out."
+tagQuestItemSlithRing=蛇人原始戒指
+tagQuestItemSlithRingDesc="这枚戒指有股挥之不去的恶臭。"

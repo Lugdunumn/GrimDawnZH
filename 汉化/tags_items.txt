@@ -147,7 +147,7 @@ tagWeaponAxeC009=饥渴
 tagWeaponAxeC010=无形之锋
 tagWeaponAxeC010Desc=“斧刃驾驭着虚化之力。”
 tagWeaponAxeC011=锯齿千人斩
-tagWeaponAxeC011Desc=“每个锯齿都代表着一条生命。”
+tagWeaponAxeC011Desc=“每个锯齿都代表着一条性命。”
 tagWeaponAxeC012=尸体亵渎者
 tagWeaponAxeC013=Chonag'Ri
 tagWeaponAxeC013Desc=“一把由各种人类和动物的骨头组成的萨满斧。”
@@ -1500,8 +1500,8 @@ tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to bet
 
 #ItemNote
 
-tagNoteHelp=[Right-Click to Read]
-tagNoteKnown=[Already Known]
+tagNoteHelp=[右键点击来阅读]
+tagNoteKnown=[已读过]
 tagNoteExcerpt="{%t}.."
 
 #ItemEnchantment
@@ -1511,14 +1511,14 @@ tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
 
 #ItemComponents
 
-tagComponentIncomplete=Partial Component
-tagComponentComplete=Completed Component
+tagComponentIncomplete=部分部件
+tagComponentComplete=完整部件
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentBonus=Completion Bonus:
-tagComponentQualities=Component Qualities:
-tagComponentHelp=[Right-Click to Apply or Combine]
-tagComponentError=[Cannot Use - Requirements Not Met]
-tagComponentCombine=[Right-Click to Combine]
+tagComponentBonus=完整奖励：
+tagComponentQualities=部件品质：
+tagComponentHelp=[右键点击以镶嵌或组合]
+tagComponentError=[无法使用 - Requirements Not Met]
+tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=Are you sure you want to complete this combination?
 
 tagCompA001Name=Spined Carapace
@@ -1784,26 +1784,26 @@ tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade me
 
 #Misc
 
-tagMoney01=Iron Bits
+tagMoney01=铁币
 tagMoneyFormat={^s}{%d0}  {%s1}
 
-tagPotionHealthA01=Tonic of Mending
-tagPotionHealthA01Desc="Seals wounds and mends broken bones."
-tagPotionHealthA02=Tonic of Healing
-tagPotionHealthA02Desc="Seals wounds and mends broken bones."
-tagPotionHealthA03=Tonic of Revival
-tagPotionHealthA03Desc="Seals wounds and mends broken bones."
+tagPotionHealthA01=修复药水
+tagPotionHealthA01Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA02=治疗药水
+tagPotionHealthA02Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA03=恢复药水
+tagPotionHealthA03Desc=“愈合伤口，修复骨折。”
 
-tagPotionEnergyA01=Elixir of Spirit
-tagPotionEnergyA01Desc="Rejuvenates the mind and spirit."
+tagPotionEnergyA01=精神药水
+tagPotionEnergyA01Desc=“恢复精神，补充灵魂之力。”
 
-tagPotionConstitutionA01=Food Ration
+tagPotionConstitutionA01=食物补给
 tagPotionConstitutionA01Desc="Tastes like stale dirt but lasts forever and restores lost constitution."
 
-tagPotionConstitutionB01=Vital Essence
+tagPotionConstitutionB01=生命·精华
 tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to restore lost constitution.
 
-tagPotionDirections=[Right-Click to Consume]
+tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[While holding, right-click to combine stacks]
 
 # Bonuses
@@ -1815,23 +1815,23 @@ tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
 tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusExperience={%+d0} Experience
-tagBonusMoney={%+d0} Iron
+tagBonusMoney={%+d0}铁币
 tagBonusSkillPoint={%+d0} Skill Points
 tagBonusAttribPoint={%+d0} Attribute Points
 
 #ItemSets
 
 
-tagItemSetC001Name=Guardsman's Raiment
+tagItemSetC001Name=帝国卫兵的戎装
 tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
 
-tagItemSetC002Name=Explorer's Garments
+tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc="Light but durable armor for the eager traveler."
 
 tagItemSetC003Name=Maiven's Sanctuary
 tagItemSetC003Desc="Regalia honoring the legendary Arcanist Maiven."
 
-tagItemSetC004Name=Bloodreaper's Glory
+tagItemSetC004Name=鲜血收割者的荣耀
 tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
 tagItemSetC005Name=Marauder's Justice

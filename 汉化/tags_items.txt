@@ -1,6 +1,6 @@
-#装备显示组合：前缀/品质/类型/名称/后缀 汉化时需要调整
+#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4} 汉化时需要调整顺序
 
-tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 
 #武器
 
@@ -2293,7 +2293,7 @@ tagBreakableScrapPileA01=废铁堆
 tagBreakableWaspClusterA01=蜂窝
 tagBreakableUrnA01=破旧的瓮
 tagBreakableUrnB01=古老的瓮
-tagBreakableUrnClusterA01=翁堆
+tagBreakableUrnClusterA01=瓮堆
 
 tagChestLocked= {^R} ~ 锁着的
 tagChestLockedBoss= {^R} ~ 被强大生物锁着的

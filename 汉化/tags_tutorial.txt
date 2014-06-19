@@ -9,7 +9,7 @@ tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我�
 
 tagTutorialTip09Title=商人界面
 tagTutorialTip09TextA=商人出售与收购在凯{^n}恩世界的险境中生存{^n}所必需的武器装备。
-tagTutorialTip09TextB=在这绝望的时期，{^n}好的装备可不便宜{^n}。商人们不会为普{^n}通物品出高价，但{^n}是充满魔力的装备{^n}能够卖到好价钱。
+tagTutorialTip09TextB=在这绝望的时期，好{^n}的装备可不便宜。商{^n}人们不会为普通物品{^n}出高价，但是充满魔{^n}力的装备能够卖到好{^n}价钱。
 
 tagTutorialTip10Title=传送裂缝
 tagTutorialTip10TextA=安全的传送裂缝允许你在凯恩的众多地点间快速移动。左键点击传送裂缝以打开{^y}传送地图{^w}。

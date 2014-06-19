@@ -1,6 +1,6 @@
-#装备显示组合：前缀/品质/类型/名称/后缀 汉化时需要调整
+#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4} 汉化时需要调整顺序
 
-tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 
 #武器
 
@@ -147,7 +147,7 @@ tagWeaponAxeC009=饥渴
 tagWeaponAxeC010=无形之锋
 tagWeaponAxeC010Desc=“斧刃驾驭着虚化之力。”
 tagWeaponAxeC011=锯齿千人斩
-tagWeaponAxeC011Desc=“每个锯齿都代表着一条生命。”
+tagWeaponAxeC011Desc=“每个锯齿都代表着一条性命。”
 tagWeaponAxeC012=尸体亵渎者
 tagWeaponAxeC013=Chonag'Ri
 tagWeaponAxeC013Desc=“一把由各种人类和动物的骨头组成的萨满斧。”
@@ -483,89 +483,89 @@ tagFocusD007=Archmage's Codex
 
 #WEAPON_QUALITY
 
-TagQualityBrokenWeapon01=Broken
-TagQualityBrokenWeapon02=Shattered
-TagQualityBrokenWeapon03=Bent
-TagQualityBrokenArmor01=Ruined
-TagQualityBrokenAll01=Destroyed
+TagQualityBrokenWeapon01=破损的
+TagQualityBrokenWeapon02=破碎的
+TagQualityBrokenWeapon03=弯曲的
+TagQualityBrokenArmor01=废弃的
+TagQualityBrokenAll01=毁坏的
 
-tagQualityWeaponMetal01=Scrapmetal
-tagQualityWeaponMetal02=Tarnished
-tagQualityWeaponMetal03=Iron
-tagQualityWeaponMetal04=Steel
-tagQualityWeaponMetal05=Imbued
-tagQualityWeaponMetal06=Raider
-tagQualityWeaponMetal07=Assault
-tagQualityWeaponMetal08=Imperial
-tagQualityWeaponMetal09=Exalted
+tagQualityWeaponMetal01=废铁
+tagQualityWeaponMetal02=生锈
+tagQualityWeaponMetal03=铁制
+tagQualityWeaponMetal04=钢制
+tagQualityWeaponMetal05=灌魔
+tagQualityWeaponMetal06=追击
+tagQualityWeaponMetal07=突袭
+tagQualityWeaponMetal08=帝国
+tagQualityWeaponMetal09=尊贵
 
-tagQualityWeaponWood01=Splintered
-tagQualityWeaponWood02=Crude
-tagQualityWeaponWood03=Savage
-tagQualityWeaponWood04=Weathered
-tagQualityWeaponWood05=Solid
-tagQualityWeaponWood06=Polished
-tagQualityWeaponWood07=Imbued
-tagQualityWeaponWood08=Raider
-tagQualityWeaponWood09=Assault
-tagQualityWeaponWood10=Imperial
-tagQualityWeaponWood11=Exalted
+tagQualityWeaponWood01=碎裂
+tagQualityWeaponWood02=粗糙
+tagQualityWeaponWood03=原始
+tagQualityWeaponWood04=风化
+tagQualityWeaponWood05=坚固
+tagQualityWeaponWood06=抛光
+tagQualityWeaponWood07=灌魔
+tagQualityWeaponWood08=追击
+tagQualityWeaponWood09=突袭
+tagQualityWeaponWood10=帝国
+tagQualityWeaponWood11=尊贵
 
 
 #ARMOR_STYLES
 
-tagStyle001=Worn
-tagStyle002=Cloth
-tagStyle003=Padded
-tagStyle004=Quilted
-tagStyle005=Brigandine
-tagStyle006=Embroidered
-tagStyle007=Ornate
-tagStyle008=Gilded
+tagStyle001=陈旧
+tagStyle002=布制
+tagStyle003=棉制
+tagStyle004=缝合
+tagStyle005=缀鳞
+tagStyle006=镶边
+tagStyle007=雕饰
+tagStyle008=镀金
 
-tagStyle009=Patchwork
-tagStyle010=Leather
-tagStyle011=Hide
-tagStyle012=Fur-lined
-tagStyle013=Spiked
-tagStyle014=Frontier
-tagStyle015=Hinterland
-tagStyle016=Raider
+tagStyle009=碎料
+tagStyle010=革制
+tagStyle011=兽皮
+tagStyle012=毛皮
+tagStyle013=尖刺
+tagStyle014=戍边
+tagStyle015=蛮荒
+tagStyle016=奇袭
 
-tagStyle017=Restored
-tagStyle018=Salvaged
-tagStyle019=Engraved
-tagStyle020=Combat
-tagStyle021=Infantry
-tagStyle022=Imperial
+tagStyle017=复原
+tagStyle018=废旧
+tagStyle019=蚀刻
+tagStyle020=战用
+tagStyle021=步兵
+tagStyle022=帝国
 
-tagStyle023=Scrapmetal
-tagStyle024=Splinted
-tagStyle025=Chain
-tagStyle026=Chainmail
-tagStyle027=Scalemail
-tagStyle028=Bronze
-tagStyle029=Steel
+tagStyle023=废铁
+tagStyle024=板条
+tagStyle025=锁链
+tagStyle026=链甲
+tagStyle027=鳞甲
+tagStyle028=铜制
+tagStyle029=钢制
 tagStyle030=Plate
-tagStyle031=Plated
-tagStyle032=Field
-tagStyle033=Heavy
-tagStyle034=Assault
+tagStyle031=板甲
+tagStyle032=野战
+tagStyle033=重型
+tagStyle034=突袭
 
-tagStyle035=Studded
-tagStyle036=Woven
-tagStyle037=Reinforced
-tagStyle038=Savage
-tagStyle039=Novice
-tagStyle040=Apprentice
+tagStyle035=钉甲
+tagStyle036=机织
+tagStyle037=强化
+tagStyle038=原始
+tagStyle039=见习
+tagStyle040=学徒
 
-tagStyle041=Exalted
-tagStyle042=Opulent
+tagStyle041=镀金
+tagStyle042=丰饶
 
 #ArmorClass
-tagArmorClass01=Caster Armor
-tagArmorClass02=Light Armor
-tagArmorClass03=Heavy Armor
+tagArmorClass01=法袍
+tagArmorClass02=轻甲
+tagArmorClass03=重甲
 
 #ArmorHead
 
@@ -1500,8 +1500,8 @@ tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to bet
 
 #ItemNote
 
-tagNoteHelp=[Right-Click to Read]
-tagNoteKnown=[Already Known]
+tagNoteHelp=[右键点击来阅读]
+tagNoteKnown=[已读过]
 tagNoteExcerpt="{%t}.."
 
 #ItemEnchantment
@@ -1511,14 +1511,14 @@ tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
 
 #ItemComponents
 
-tagComponentIncomplete=Partial Component
-tagComponentComplete=Completed Component
+tagComponentIncomplete=部分部件
+tagComponentComplete=完整部件
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentBonus=Completion Bonus:
-tagComponentQualities=Component Qualities:
-tagComponentHelp=[Right-Click to Apply or Combine]
-tagComponentError=[Cannot Use - Requirements Not Met]
-tagComponentCombine=[Right-Click to Combine]
+tagComponentBonus=完整奖励：
+tagComponentQualities=部件品质：
+tagComponentHelp=[右键点击以镶嵌或组合]
+tagComponentError=[无法使用 - Requirements Not Met]
+tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=Are you sure you want to complete this combination?
 
 tagCompA001Name=Spined Carapace
@@ -1784,26 +1784,26 @@ tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade me
 
 #Misc
 
-tagMoney01=Iron Bits
+tagMoney01=铁币
 tagMoneyFormat={^s}{%d0}  {%s1}
 
-tagPotionHealthA01=Tonic of Mending
-tagPotionHealthA01Desc="Seals wounds and mends broken bones."
-tagPotionHealthA02=Tonic of Healing
-tagPotionHealthA02Desc="Seals wounds and mends broken bones."
-tagPotionHealthA03=Tonic of Revival
-tagPotionHealthA03Desc="Seals wounds and mends broken bones."
+tagPotionHealthA01=修复药水
+tagPotionHealthA01Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA02=治疗药水
+tagPotionHealthA02Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA03=恢复药水
+tagPotionHealthA03Desc=“愈合伤口，修复骨折。”
 
-tagPotionEnergyA01=Elixir of Spirit
-tagPotionEnergyA01Desc="Rejuvenates the mind and spirit."
+tagPotionEnergyA01=精神药水
+tagPotionEnergyA01Desc=“恢复精神，补充灵魂之力。”
 
-tagPotionConstitutionA01=Food Ration
+tagPotionConstitutionA01=食物补给
 tagPotionConstitutionA01Desc="Tastes like stale dirt but lasts forever and restores lost constitution."
 
-tagPotionConstitutionB01=Vital Essence
+tagPotionConstitutionB01=生命·精华
 tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to restore lost constitution.
 
-tagPotionDirections=[Right-Click to Consume]
+tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[While holding, right-click to combine stacks]
 
 # Bonuses
@@ -1815,23 +1815,23 @@ tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
 tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusExperience={%+d0} Experience
-tagBonusMoney={%+d0} Iron
+tagBonusMoney={%+d0}铁币
 tagBonusSkillPoint={%+d0} Skill Points
 tagBonusAttribPoint={%+d0} Attribute Points
 
 #ItemSets
 
 
-tagItemSetC001Name=Guardsman's Raiment
+tagItemSetC001Name=帝国卫兵的戎装
 tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
 
-tagItemSetC002Name=Explorer's Garments
+tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc="Light but durable armor for the eager traveler."
 
 tagItemSetC003Name=Maiven's Sanctuary
 tagItemSetC003Desc="Regalia honoring the legendary Arcanist Maiven."
 
-tagItemSetC004Name=Bloodreaper's Glory
+tagItemSetC004Name=鲜血收割者的荣耀
 tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
 tagItemSetC005Name=Marauder's Justice
@@ -2293,7 +2293,7 @@ tagBreakableScrapPileA01=废铁堆
 tagBreakableWaspClusterA01=蜂窝
 tagBreakableUrnA01=破旧的瓮
 tagBreakableUrnB01=古老的瓮
-tagBreakableUrnClusterA01=翁堆
+tagBreakableUrnClusterA01=瓮堆
 
 tagChestLocked= {^R} ~ 锁着的
 tagChestLockedBoss= {^R} ~ 被强大生物锁着的

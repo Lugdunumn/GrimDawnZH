@@ -1,6 +1,6 @@
 艾丽西亚
-Please move on. We have nothing to offer you.
-Just passing through. Goodbye.
+请离开。我们没有可提供给你的东西。
+我只是路过的。再见。
 你把废铁交给赛拉斯了吗？
 我贿赂了他所以他再也不会干涉你们了。
 谢谢你！我从来没有想象过我们能从这种压迫中得到自由，但似乎塞拉斯的的忠诚可以被收买。请你带上我们收集的废铁作为贡品。这是我们仅能做的事情。
@@ -11,55 +11,55 @@ Just passing through. Goodbye.
 我希望我能做更多。
 恐怕这就是我们的命运。至少他们从野兽口中保证了这片区域的安全。再见，陌生人，再次感谢你。
 不用谢。保重。
-祝好运。再见。
+祝你好运。再见。
 是的，他好像很高兴。
-谢谢你！他听到克隆利死了的消息不久之后逃走了。我才这是他最后一次得到贡品。
+谢谢你！他听到克隆利死了的消息不久之后逃走了。我猜这是他最后一次得到贡品。
 不用谢。保重。
 我们最终都从克隆利的压迫中得到了解放，这都要感谢你！
 很高兴我能帮忙。
 克隆例死亡的消息就像野火一样传开了。我们的工头，塞拉斯，在第一时间逃跑了。我们最终都从克隆利的压迫中得到了解放，这都要感谢你！
 他们不会再来打扰你们了。
-I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
-Thank you.
-They should not bother you any more.
-I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
-Thank you.
-They should not bother you any more.
-I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
-Thank you.
-Thank you again for your help.This situation may not be ideal, but as long as we provide Silas and his group with fish and scrap, they leave us alone.
-I wish I could do more.
-I'm afraid such is our lot in life. At least they keep the area safe from beasts. Goodbye, stranger, and thank you again.
-You're welcome. Take care.
-Good luck. Farewell.
-I cannot believe you killed Silas. If he doesn't report back...oh no, no no...
-I will deal with the rest of his gang too.
-How could you do this to us? When Silas doesn't report back, his gang will investigate.
-I ended this extortion. His gang is next.
-Please, just go. I pray that we survive the night.
-I did what had to be done.
-Are you mad? I warned you not to harm Silas and you ignored my warnings. Why would you do this?
-This extortion must end.
-It's not that simple. Silas is just a lackey. This was a delicate situation and you handled it like a mindless brute!
-I will deal with his masters next. Goodbye.
-I'm handling this. Goodbye.
-Any luck out there?
-Where would I find some scrap?
-Most of the homes in the Arkovian Foothills have likely been scoured by now. I suppose someone like you could give the bandits a taste of their own medicine by raiding the Four Hills. Silas wouldn't have a clue. He knows we wouldn't dare come near the camps ourselves.
-Thank you. I'll handle this.
-Still gathering scrap.
-Are you mad? If any harm comes to Silas, the rest of his gang will be out for blood!
-I'm handling this. Goodbye.
-Unless you want to work, you should turn around and head back out of here. We have nothing to give and we don't need anyone stirring up trouble.
-What is happening here?
-What's happening is we're just trying to stay alive and that means toiling for Cronley's gang. We're a ragtag collection of survivors who either wandered in here looking for protection or were captured by Cronley's thugs and put to work. Cronley's men use us in whatever way they please and it's a hard life but this place is better than what we knew out there on the road. I'll endure anything to keep my daughter safe and, at least for now, she's too young for Cronley's men to bother with.
-Anything I can do to help?
-Silas over there makes sure that we stay in line and meet Cronley's quota. The waters have grown increasingly dangerous and we've struggled to catch enough fish but we can probably fill our nets in time for the tribute. We still have to gather scrap though.{^n}{^n}We cannot miss our quota. The last time that happened, Silas took one of the children back to his camp and we never saw her again. Please, if you truly want to help, gather the scrap for our tribute and deliver it to Silas. However bad things may seem for us, they can only get worse. Cronley's gang hold all the hills overlooking New Harbor and they're sure to notice if Silas went missing. The retribution would be severe, so please, don't do anything stupid. We're the ones who will suffer for it.
-Of course. I will help you with your tribute.
-I am sorry, I cannot help you.
-I could take you all to Devil's Crossing via a rift.
-A strange offer but we cannot leave. The refugees here have become like a family to one another. Some of the children are being held by Cronley's men as insurance against us leaving. We all look out for one another here and we know if any one of us left, those who remained would be punished for it.
-What did you need me to do then?
-I understand.
-Good luck with that. Goodbye.
-Just passing through. Goodbye.
+我不知道我們该如何报答你，但请你收下这个废铁。我们本来准备把这个废铁当作下一个献给塞拉斯的贡品，但现在我们不需要了。
+谢谢你。
+他们再也不会干涉你们了。
+我不知道我們该如何报答你，但请你收下这个废铁。我们本来准备把这个废铁当作下一个献给塞拉斯的贡品，但现在我们不需要了。
+谢谢你。
+他们再也不会干涉你们了。
+我不知道我們该如何报答你，但请你收下这个废铁。我们本来准备把这个废铁当作下一个献给塞拉斯的贡品，但现在我们不需要了。
+谢谢你。
+再次感谢你的帮助。这种情况可能不太理想，但是只要我们给他们提供鱼和废铁，他们就不会干涉我们。
+我希望我能做更多。
+恐怕这就是我们的命运。至少他们从野兽口中保证了这片区域的安全。 再见，陌生人，再次感谢你。
+不用谢。保重。
+祝你好运。再见。
+我无法相信你杀了塞拉斯。如果他没回去报告。。。糟糕了，糟糕了。。。
+我将会处理他的余党。
+你为何要这么对我们？当塞拉斯没回去报告，他的帮会将会调查。
+我终止了这个敲诈。接下来是他的帮会。
+拜托你走吧。我祈祷我们能撑过今晚。
+我做了该做的事。
+你疯了吗？我已经警告你不要伤害塞拉斯，但你却无视我的警告。为何你要这么做？
+这敲诈必须结束。
+事情不是这么简单。塞拉斯只是个跑腿。这是个微妙的情况，但你却像个没脑的畜牲般处理了此事。
+接下来我会处理他的雇主们。再见。
+我会处理此事。再见。
+有任何收获吗？
+在哪儿可以寻获一些废铁？
+大部分位于安克维亚山麓的屋子可能都被搜遍了。我认为你这样的人可以通过袭击四山，以其人之道还治其人之身。塞拉斯不会有头绪。他知道我们不敢靠近那片营地。
+谢谢你。我会处理此事。
+还在收集废铁。
+你疯了吗？如果塞拉斯受到任何伤害，他帮会里其余的成员将会前来寻仇！
+我正在处理此事。再见。
+除了你要工作，你应该转身离开这里。我们没有可供应的东西，我们也不需要任何人兴风作浪。
+这里发生了什么事？
+我们只想尝试好好地生存，这代表我们必须为克隆利的帮会劳碌。我们是一群混杂的生还者，要么游荡至此以寻求庇护或被克隆利的恶棍抓去干活。克隆利的恶棍随意指使我们。虽然生活艰苦，但是这地方比起我们所知道的道路更好。为了我女儿的安全，我将忍受一切。至少现在她还年幼，克隆利的恶棍不会打她的主意。
+有什么可以帮忙的吗？
+在那儿的塞拉斯确保我们遵守规则并且满足克隆利的配额。水域已经变得越来越危险，尽管我们需要挣扎以捕捉足够的鱼，但是我们也许可以及时赶上进供的份量。虽然如此，我们仍然得收集废铁。{^n}{^n}我们不能错过我们的配额。最后一次发生时，塞拉斯把其中一位女孩带回营地，我们再也没有见过她了。如果你真的想帮忙，那么为我们接下来的进供收集废铁并交给塞拉斯。不论我们看似有多么糟糕情况，只会变得更糟。克隆利的帮会占据所有俯视新港的山脉。如果塞拉斯的失踪，他们一定会注意到。报应将会非常严重，所以请你不要有任何愚笨的举动。我们将会为此遭殃。
+当然了。我会帮助你进供。
+对不起，我无法帮助你。
+我能通过传送裂缝把你们带去魔鬼路口。
+一个奇特的提议，但我们不能离开。这里的难民都犹如彼此的家人。有的孩子被克隆利的恶棍持为保险，以防范我们离开。我们相互照应并且晓得如果我们任何一人离开这里，留下的人将为此遭受惩罚。
+那么你需要我做什么呢？
+我明白了。
+祝你好运。再见。
+我只是路过的。再见。

@@ -1,6 +1,6 @@
 #装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4} 汉化时需要调整顺序
 
-tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
+tagItemNameOrder={%_s0}{%_s4}{%_s1}{%_s2}{%_s3}
 
 #武器
 
@@ -87,9 +87,9 @@ tagWeaponBluntB006=幽光大头棒
 tagWeaponBluntB007=基尔利安的碎颅锤
 tagWeaponBluntB008=剥皮人的火炬
 tagWeaponBluntB008Desc=“一个绝望之人的最后希望……”
-tagWeaponBluntB009=熟工刃锤
-tagWeaponBluntB010=熟工晨星锤
-tagWeaponBluntB011=熟工凸缘钉头锤
+tagWeaponBluntB009=专家级刃锤
+tagWeaponBluntB010=专家级晨星锤
+tagWeaponBluntB011=专家级凸缘钉头锤
 
 tagWeaponBluntC001=虚化之灾
 tagWeaponBluntC002=混沌无序
@@ -274,7 +274,7 @@ tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
 tagWeaponCrossbow2hC008Desc="Symbolic weapon of devout followers of Bysmiel."
 tagWeaponCrossbow2hC009=Ulda'Jax
 tagWeaponCrossbow2hC009Desc="A crude, yet surprisingly effective, weapon of the mountain wilds."
-tagWeaponCrossbow2hC010=Herald's Protector
+tagWeaponCrossbow2hC010=使者的保卫者
 
 tagWeaponCrossbow2hD001=Silverbolt
 tagWeaponCrossbow2hD001Desc="The weapon of choice for Demon Hunter Edith the Bloodied, Chthonian cultist turned demonslayer."
@@ -423,23 +423,23 @@ tagQualityShieldA10=Imperial
 tagQualityShieldA11=Exalted
 
 
-#Focus
+#Focus 聚能法器
 
-tagFocusA001=Musty Tome
-tagFocusA002=Fleshbound Tome
-tagFocusA003=Runebound Archive
-tagFocusA004=Leatherbound Spellbook
-tagFocusA005=Eldritch Tome
-tagFocusA006=Arcane Codex
-tagFocusA013=Arcane Codex
+tagFocusA001=发霉的宝典
+tagFocusA002=鲜血魔典
+tagFocusA003=符文档案
+tagFocusA004=蒙皮魔法书
+tagFocusA005=魔力宝典
+tagFocusA006=秘法手抄本
+tagFocusA013=秘法手抄本
 
-tagFocusA007=Runed Bone
-tagFocusA008=Fiendish Effigy
-tagFocusA009=Etched Horn
-tagFocusA010=Glyphed Skull
-tagFocusA011=Savage Wand
-tagFocusA012=Eldritch Wand
-tagFocusA014=Eldritch Wand
+tagFocusA007=符文之骨
+tagFocusA008=恶魔傀儡
+tagFocusA009=蚀刻之角
+tagFocusA010=秘文头骨
+tagFocusA011=原始魔杖
+tagFocusA012=怪异魔杖
+tagFocusA014=怪异魔杖
 
 tagFocusB001=Zarthuzellan's Codex
 tagFocusB001Desc="Filled with fiery invocations to consecrate the nonbelievers."
@@ -466,7 +466,7 @@ tagFocusC009=Edrick's Backscratcher
 tagFocusC010=Sacred Texts of Menhir
 tagFocusC010Desc="Scripture once carried by the devout knights of Menhir."
 tagFocusC011=Nocturnis
-tagFocusC012=Channeling Orb of the Covenant
+tagFocusC012=圣约的引能宝珠
 
 tagFocusD001=Fiend's Resolve
 tagFocusD002=Aldanar's Vanity
@@ -478,16 +478,16 @@ tagFocusD005=Blood Orb of Cht'thon
 tagFocusD005Desc="Fanatical cabalists swear that a drop of their ancient god's blood is contained within this orb."
 tagFocusD006=Speaker for the Dead
 tagFocusD006Desc="A compilation of poems and religious texts intended for burial rites."
-tagFocusD007=Archmage's Codex
+tagFocusD007=大法师的手抄本
 
 
 #WEAPON_QUALITY
 
-TagQualityBrokenWeapon01=破损的
-TagQualityBrokenWeapon02=破碎的
-TagQualityBrokenWeapon03=弯曲的
-TagQualityBrokenArmor01=废弃的
-TagQualityBrokenAll01=毁坏的
+TagQualityBrokenWeapon01=破损
+TagQualityBrokenWeapon02=破碎
+TagQualityBrokenWeapon03=弯曲
+TagQualityBrokenArmor01=废弃
+TagQualityBrokenAll01=毁坏
 
 tagQualityWeaponMetal01=废铁
 tagQualityWeaponMetal02=生锈
@@ -497,7 +497,7 @@ tagQualityWeaponMetal05=灌魔
 tagQualityWeaponMetal06=追击
 tagQualityWeaponMetal07=突袭
 tagQualityWeaponMetal08=帝国
-tagQualityWeaponMetal09=尊贵
+tagQualityWeaponMetal09=尊崇
 
 tagQualityWeaponWood01=碎裂
 tagQualityWeaponWood02=粗糙
@@ -509,7 +509,7 @@ tagQualityWeaponWood07=灌魔
 tagQualityWeaponWood08=追击
 tagQualityWeaponWood09=突袭
 tagQualityWeaponWood10=帝国
-tagQualityWeaponWood11=尊贵
+tagQualityWeaponWood11=尊崇
 
 
 #ARMOR_STYLES
@@ -546,7 +546,7 @@ tagStyle026=链甲
 tagStyle027=鳞甲
 tagStyle028=铜制
 tagStyle029=钢制
-tagStyle030=Plate
+tagStyle030=板甲
 tagStyle031=板甲
 tagStyle032=野战
 tagStyle033=重型
@@ -569,73 +569,73 @@ tagArmorClass03=重甲
 
 #ArmorHead
 
-tagHeadA001=Helm
-tagHeadA002=Cap
-tagHeadA003=Helmet
-tagHeadA004=Mask
-tagHeadA005=Coif
-tagHeadA006=Basinet
-tagHeadA007=Casque
-tagHeadA008=Hat
-tagHeadA009=Visage
-tagHeadA010=Cowl
-tagHeadA011=Hood
-tagHeadA012=Circlet
-tagHeadA013=Diadem
-tagHeadA014=Coronet
+tagHeadA001=头盔
+tagHeadA002=无边帽
+tagHeadA003=盔帽
+tagHeadA004=面具
+tagHeadA005=罩帽
+tagHeadA006=轻盔
+tagHeadA007=兜盔
+tagHeadA008=宽檐帽
+tagHeadA009=护面
+tagHeadA010=风帽
+tagHeadA011=兜帽
+tagHeadA012=头环
+tagHeadA013=权冠
+tagHeadA014=宝冠
 
-tagHeadB001=Incendiary Helm
-tagHeadB002=Incendiary Casque
-tagHeadB003=Ascended Helm
-tagHeadB004=Ascended Casque
-tagHeadB005=Murderer's Coif
-tagHeadB006=Murderer's Cowl
-tagHeadB007=Adept's Hood
-tagHeadB008=Ranger's Helm
-tagHeadB009=Adept's Circlet
-tagHeadB010=Ranger's Casque
+tagHeadB001=烈火头盔
+tagHeadB002=烈火兜盔
+tagHeadB003=升灵头盔
+tagHeadB004=升灵兜盔
+tagHeadB005=谋杀者的罩帽
+tagHeadB006=谋杀者的风帽
+tagHeadB007=专家级兜帽
+tagHeadB008=游侠之盔
+tagHeadB009=专家级头环
+tagHeadB010=游侠之兜盔
 
-tagHeadC001=Stormcaller's Circlet
-tagHeadC002=Berserker's Cowl
-tagHeadC003=Nether Crown
-tagHeadC003Desc="Once worn by the first and only Arcanist king of Cairn, King Samuel Drake, before he was stripped of his title and executed for heresy by the clergy."
-tagHeadC004=Crown of Command
-tagHeadC005=Templar's Headguard
-tagheadC005Desc="An initiate's helm for the Guardians of Menhir."
-tagHeadC006=Guardsman's Helm
-tagHeadC007=Explorer's Cover
-tagHeadC008=Maiven's Hood
-tagHeadC009=Bloodreaper's Cowl
-tagHeadC010=Eye of the Beholder
-tagHeadC010Desc="A gazer eye worn by a mad witch obsessed with appearances and beauty."
-tagHeadC011=Mask of Delirium
-tagHeadC012=Tempest of the Void
-tagHeadC013=Glory of the Silver Knight
-tagHeadC014=Terror of the Grove
-tagHeadC014Desc="Cut from the hide of an ancient Thorned Horror."
-tagHeadC015=Spiritweaver Circlet
-tagHeadC016=Outcast's Hood
-tagHeadC017=Herald's Mask
-tagHeadC018=Faceguard of Redemption
-tagHeadC019=Cowl of the Blind Assassin
-tagHeadC020=Sharpshooter's Glass Eye
-tagHeadC021=Unholy Visage of the Covenant
-tagHeadC022=Cowl of the Paragon
-tagHeadC023=Dawnguard Helm
+tagHeadC001=风暴召唤者的头环
+tagHeadC002=狂战士的风帽
+tagHeadC003=幽冥王冠
+tagHeadC003Desc=“曾被戴在凯恩世界第一位也是唯一一位秘术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位和被教士以异端的罪名处死之前。”
+tagHeadC004=指挥王冠
+tagHeadC005=圣殿骑士之盔
+tagheadC005Desc=“曼海尔的守卫者的入门防具。”
+tagHeadC006=帝国卫兵的头盔
+tagHeadC007=探险者的头巾
+tagHeadC008=麦文的兜帽
+tagHeadC009=鲜血收割者的风帽
+tagHeadC010=眼魔之目
+tagHeadC010Desc=“一位痴迷于外表与美貌的发狂女巫戴着这只凝视的眼睛。”
+tagHeadC011=狂热面具
+tagHeadC012=虚空风暴
+tagHeadC013=白银骑士之荣耀
+tagHeadC014=林地之恐惧
+tagHeadC014Desc=“从一只满身荆棘的古老怪物身上切下来的一部分。”
+tagHeadC015=灵魂编织者头环
+tagHeadC016=流浪者的兜帽
+tagHeadC017=使者的面具
+tagHeadC018=救赎面甲
+tagHeadC019=盲眼刺客的风帽
+tagHeadC020=神射手的玻璃义眼
+tagHeadC021=不结圣约的护面
+tagHeadC022=巅峰之风帽
+tagHeadC023=黎明守卫头盔
 
-tagHeadD001=Maw of Despair
-tagHeadD001Desc="Look upon me and despair, for your hour has struck."
-tagHeadD002=Dread-Mask of Anat'Gurgoth
-tagHeadD003=Whisperer of Secrets
-tagheadD003Desc="Whispers dark secrets into the ears of your victims prior to the killing blow."
-tagHeadD004=Abyssal Mask
-tagheadD004Desc="Bound by death to a death unbound."
-tagHeadD005=Circlet of the Great Serpent
-tagHeadD006=Faceguard of Justice
-tagHeadD007=Beastcaller's Cowl
-tagHeadD008=Mask of the Harbinger
-tagHeadD009=Demonslayer's Hat
-tagHeadD010=Archmage's Hat
+tagHeadD001=绝望之吼
+tagHeadD001Desc=“抬头看看我和绝望，因为你死期已至。”
+tagHeadD002=阿娜特·哥洛斯的恐怖面罩
+tagHeadD003=秘密耳语者
+tagheadD003Desc=“在容易被一击致命的受害者耳中低语着黑暗的秘密。”
+tagHeadD004=深渊面具
+tagheadD004Desc=“一面被死亡萦绕的面具，授予从死亡中得以解脱的亡者。”
+tagHeadD005=巨蛇头环
+tagHeadD006=公正面甲
+tagHeadD007=野兽召唤师的风帽
+tagHeadD008=先驱者的面具
+tagHeadD009=屠魔者的宽檐帽
+tagHeadD010=大法师的宽檐帽
 
 
 #ArmorShoulders
@@ -670,7 +670,7 @@ tagShoulderC009=Mantle of the Patron
 tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
 tagShoulderC010=Shoulderguards of Redemption
 tagShoulderC011=Sharpshooter's Cover
-tagShoulderC012=Unholy Mantle of the Covenant
+tagShoulderC012=不洁圣约之护肩
 tagShoulderC013=Shouldeguard of the Paragon
 tagShoulderC014=Dawnguard Epaulets
 
@@ -683,7 +683,7 @@ tagShoulderD004=Shadowflame Mantle
 tagShoulderD005=Titan Pauldrons
 tagShoulderD005Desc="The markings on these pauldrons are as if from another era."
 tagShoulderD006=Shoulderguards of Justice
-tagShoulderD007=Beastcaller's Shoulderpads
+tagShoulderD007=野兽召唤师的护肩
 tagShoulderD008=Dawnbreaker's Shoulderguard
 tagShoulderD009=Wildblood Mantle
 tagShoulderD010=Archamge's Mantle
@@ -733,7 +733,7 @@ tagTorsoC014Desc="Priest's robes once worn by members of the Weeping Eye cabal."
 tagTorsoC015=Spidersilk Hauberk
 tagTorsoC016=Cloth of Unspeakable Invocation
 tagTorsoC016Desc="Chthonian robes worn only by elite members of the bloodthirsty cult."
-tagTorsoC017=Herald's Jacket
+tagTorsoC017=使者的夹克
 tagTorsoC018=Chestguard of Redemption
 tagTorsoC019=Stealth Jacket of the Blind Assassin
 tagTorsoC020=Sharpshooter's Coat
@@ -750,9 +750,9 @@ tagTorsoD004Desc="Robes of the high priest of Dreeg, charged with safeguarding t
 tagTorsoD005=Dread Armor of Azragor
 tagTorsoD005Desc="Azragor was a brutal man feared amongst his fellow knights for his underhanded, yet difficult to prove, tactics."
 tagTorsoD006=Chestguard of Justice
-tagTorsoD007=Beastcaller's Shroud
-tagTorsoD008=Demonslayer's Jacket
-tagTorsoD009=Archmage's Robe
+tagTorsoD007=野兽召唤师的披风
+tagTorsoD008=屠魔者的外套
+tagTorsoD009=大法师的长袍
 
 tagTorsoM001=Ragged Tunic
 tagTorsoM002=Bloodstained Tunic
@@ -836,7 +836,7 @@ tagHandsC009Desc="Engraved upon the steel are powerful symbols of immortality."
 tagHandsC010=Blacksteel Gauntlets
 tagHandsC011=Silktouch Handwraps
 tagHandsC011Desc="Bask in the shadows, for in the darkness you are invincible."
-tagHandsC012=Herald's Gloves
+tagHandsC012=使者的手套
 tagHandsC013=Menhir's Touch
 tagHandsC014=Handguards of Redemption
 tagHandsC015=Dawnguard Gauntlets
@@ -851,9 +851,9 @@ tagHandsD004=Necromancer's Deathgrips
 tagHandsD004Desc="Channeling necromancer's gloves that still retain some of the mage's grisly power."
 tagHandsD005=Wyrmbone Handguards
 tagHandsD006=Handguards of Justice
-tagHandsD007=Beastcaller's Handwraps
+tagHandsD007=野兽召唤师的裹手
 tagHandsD008=Harbinger's Grasp
-tagHandsD009=Archmage's Handwraps
+tagHandsD009=大法师的裹手
 
 
 #ArmorLegs
@@ -891,8 +891,8 @@ tagLegsD004Desc="Forged in the smoldering breath of a hellhound."
 tagLegsD005=Spellweave Legwraps
 tagLegsD005Desc="Dozens of incantations and words of power were whispered into the thread which now forms this armor."
 tagLegsD006=Legguards of Justice
-tagLegsD007=Beastcaller's Leggings
-tagLegsD008=Archmage's Leggings
+tagLegsD007=野兽召唤师的护腿
+tagLegsD008=大法师的护腿
 
 
 #ArmorFeet
@@ -924,7 +924,7 @@ tagFeetC010=Hellion Greaves
 tagFeetC011=Serpentine Wraps
 tagFeetC012=Desecrator Treads
 tagFeetC012Desc="In the wake of unfathomable odds, leave nought but a trail of desecration."
-tagFeetC013=Herald's Boots
+tagFeetC013=使者的靴子
 tagFeetC014=Footguards of Redemption
 tagFeetC015=Dawnguard Greaves
 
@@ -937,9 +937,9 @@ tagFeetD004=Voidwalker Footpads
 tagFeetD005=Boneshatter Treads
 tagFeetD005Desc="Built with a heavy sole to maximize the sickening crunch of snapping bones."
 tagFeetD006=Footguards of Justice
-tagFeetD007=Beastcaller's Treads
+tagFeetD007=野兽召唤师的便鞋
 tagFeetD008=Demonslayer's Greaves
-tagFeetD009=Archmage's Boots
+tagFeetD009=大法师的靴子
 
 
 #Rings
@@ -1005,7 +1005,7 @@ tagRingD007Desc="Signet of the Black Matriach, a ruthless assassin who utilized 
 tagRingD008=Band of the Eternal Haunt
 tagRingD009=The Hand of Mercy
 tagRingD010=The Fist of Vengeance
-tagRingD011=Archmage's Signet
+tagRingD011=大法师的玺戒 
 
 
 #Necklaces
@@ -1047,7 +1047,7 @@ tagNecklaceC012=Bane of Nuram'Siin
 tagNecklaceC013=Lapis Lupus
 tagNecklaceC014=Avarice of Androneus
 tagNecklaceC014Desc="A perfect emerald openly flaunted by Master of Taxes Androneus Phillian, prior to his introduction to a knife in the back."
-tagNecklaceC015=Herald's Ward
+tagNecklaceC015=使者的守护项圈
 tagNecklaceC016=Unseeing Eye of the Blind Assassin
 tagNecklaceC017=Pendant of the Royal Crown
 tagNecklaceC018=Pendant of Valiance
@@ -1068,7 +1068,7 @@ tagNecklaceD008=Deathbound Amethyst
 tagNecklaceD009=Celestial Stone of Halakor
 tagNecklaceD009Desc="Focusing gem of Arcanist Geneve Halakor, who forsook her order and its teachings to become a Templar of Menhir."
 tagNecklaceD010=Doombringer
-tagNecklaceD011=Beastcaller's Charm
+tagNecklaceD011=野兽召唤师的符咒
 tagNecklaceD012=Dawnbreaker's Beacon
 tagNecklaceD013=Demonslayer's Defense
 
@@ -1097,7 +1097,7 @@ tagMedalC009=Vanguard Star
 tagMedalC010=Badge of the Crimson Company
 tagMedalC010Desc="Symbol of the Crimson Company, a ruthlessly effective mercenary group."
 tagMedalC011=Menhir's Sign
-tagMedalC012=Unholy Sigil of the Covenant
+tagMedalC012=不洁圣约之印记
 tagMedalC013=Ribbon of Valiance
 
 tagMedalD001=Mark of the Apostate
@@ -1837,8 +1837,8 @@ tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassi
 tagItemSetC005Name=Marauder's Justice
 tagItemSetC005Desc="Judge, jury, and executioner."
 
-tagItemSetC006Name=Herald's Regalia
-tagItemSetC006Desc="Armor worn by the King's herald on diplomatic missions."
+tagItemSetC006Name=使者的华服
+tagItemSetC006Desc=“执行外交使命的君王的使节所穿的服饰。”
 
 tagItemSetC007Name=Menhir's Touch
 tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
@@ -1852,7 +1852,7 @@ tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when
 tagItemSetC010Name=Sharpshooter's Mark
 tagItemSetC010Desc="Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
 
-tagItemSetC011Name=Unholy Covenant
+tagItemSetC011Name=不洁圣约
 tagItemSetC011Desc="Cabal regalia worn during unspeakable rituals."
 
 tagItemSetC012Name=Royal Exuberance
@@ -1882,8 +1882,8 @@ tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians 
 tagItemSetD002Name=The Sacred Balance
 tagItemSetD002Desc="The very essence of Life and Death is imbued within these blades."
 
-tagItemSetD003Name=Beastcaller's Regalia
-tagItemSetD003Desc="Might of the bear, wisdom of the owl, fury of the wolf."
+tagItemSetD003Name=野兽召唤师的华服
+tagItemSetD003Desc=“巨熊之力，夜枭之智，灵狼之怒。”
 
 tagItemSetD004Name=Dawnbreaker's Light
 tagItemSetD004Desc="The wrath of the sun against the encroaching darkness."
@@ -1903,7 +1903,7 @@ tagItemSetD008Desc="Forged together, fight as one."
 tagItemSetD009Name=Wildblood Vanguard
 tagItemSetD009Desc="A collection from a less civilized era."
 
-tagItemSetD010Name=The Archmage
+tagItemSetD010Name=大法师
 tagItemSetD010Desc="Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
 
 tagItemSetD011Name=Invoker's Elements
@@ -1912,7 +1912,7 @@ tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the n
 
 #Prefixes
 
-tagPrefixAA002=Enlightening
+tagPrefixAA002=启悟
 tagPrefixAA003=Luminous
 tagPrefixAA004=Shrewd
 tagPrefixAA005=Mighty
@@ -1922,11 +1922,11 @@ tagPrefixAA008=Energizing
 tagPrefixAA009=Aggressive
 tagPrefixAA010=Stalwart
 
-tagPrefixAA011=Soldier's
-tagPrefixAA012=Demolitionist's
-tagPrefixAA013=Occultist's
-tagPrefixAA014=Nightblade's
-tagPrefixAA015=Arcanist's
+tagPrefixAA011=士兵之
+tagPrefixAA012=爆破师之
+tagPrefixAA013=术士之
+tagPrefixAA014=夜刃之
+tagPrefixAA015=秘术师之
 
 tagPrefixAA016=Restorative
 tagPrefixAA017=Subjugator's

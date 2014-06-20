@@ -52,7 +52,7 @@ Broken Hill 破碎山脉
 
 rocky coast 岩石海岸
 
-Aether crystal 虚化水晶/以太水晶？
+Aether crystal 虚化水晶
 
 Hangman Jarvis 刽子手·贾维斯
 
@@ -257,11 +257,11 @@ Kilrian's Skullbreaker 基尔利安的碎颅锤
 
 Skinner's Torch 剥皮人的火炬
 
-Adept's Bladed Mace 熟工刃锤
+Adept's Bladed Mace 专家级刃锤
 
-Adept's Morningstar 熟工晨星锤
+Adept's Morningstar 专家级晨星锤
 
-Adept's Flanged Mace 熟工凸缘钉头锤
+Adept's Flanged Mace 专家级凸缘钉头锤
 
 职业&技能
 ==
@@ -313,3 +313,9 @@ The Black Legion 黑暗军团
 代码使用指南
 
 换行 {^n} 已发现文字过长时会出现省略号，所以翻译完成后要人为优化加入换行才能显示全部文字，尤其是装备。UI可以完全显示，但是过长也极不和谐
+
+{%s} 字符串 用于文字 例子：CharacterLevelDescription={%s0} - [Level {%d1}] => 士兵 35级
+
+{%d} 十进制数字
+
+{%.0f0} 浮点数 用于小数

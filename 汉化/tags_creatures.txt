@@ -1,16 +1,16 @@
 #CreatureAllSurvivors
 
-tagSurvivorGuardGenericRangedA01=Survivor ~ Scout
-tagSurvivorGuardGenericRangedB01=Survivor ~ Skirmisher
-tagSurvivorGuardGenericMeleeA01=Survivor ~ Defender
-tagSurvivorGuardGenericMeleeB01=Survivor ~ Guardian
+tagSurvivorGuardGenericRangedA01=幸存者 ~ 侦察兵
+tagSurvivorGuardGenericRangedB01=幸存者 ~ 游击兵
+tagSurvivorGuardGenericMeleeA01=幸存者 ~ 防御者
+tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
 
-tagHumanRover_GuardGeneric_MeleeA01=Rover Enforcer
+tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 
 
 #CreatureAetherial
 
-tagAetherCrystalA01=Aether Crystal
+tagAetherCrystalA01=虚化水晶
 tagAnomalyB01=Warp Elemental
 tagWindDevil_PoisonA01=Poison Wind Devil
 
@@ -642,66 +642,66 @@ tagReanimatorBossH03=Chilldread
 
 #Pets
 
-tagPetRavenA01=Great Raven
-tagPetHellhoundA01=Hellhound
-tagPetWhirlwindA01=Whirlwind
+tagPetRavenA01=风暴巨鸦
+tagPetHellhoundA01=地狱魔犬
+tagPetWhirlwindA01=旋风
 
-tagPetBladeSwarmA01=Blade Spirit
+tagPetBladeSwarmA01=刀锋之灵
 
-tagPetThermiteMineA01=Flare Mine
-tagPetMortarTrapA01=Mortar Trap
+tagPetThermiteMineA01=燃烧地雷
+tagPetMortarTrapA01=砂浆陷阱
 
-tagItemFleshHulkA01=Flesh Hulk
-tagItemGuardianA01=Stalwart Guardian
-tagItemGuardianA02=Frenzied Guardian
-tagItemAncestorA01=Ancestral Spirit
-tagItemRevenantA01=Revenant of Og'Napesh
-tagRelicStormhound=Stormhound
-tagRelicNemesis=Nemesis
-tagRelicSwarm=Swarmling
+tagItemFleshHulkA01=血肉巨人
+tagItemGuardianA01=坚定守卫
+tagItemGuardianA02=狂暴守卫
+tagItemAncestorA01=先祖之魂
+tagItemRevenantA01=奥格纳佩什的亡魂
+tagRelicStormhound=风暴猎犬
+tagRelicNemesis=复仇女神
+tagRelicSwarm=虫群
 
 #EnemySummons
 
-tagEnemySummonHellspawn=Hellspawn
-tagEnemySummonChthonianMinion=Salazar's Harbinger
-tagEnemySummonDariusAetherCrystal=Unstable Aether Formation
-tagEnemySummonRifthound=Azure Rifthound
+tagEnemySummonHellspawn=地狱生物
+tagEnemySummonChthonianMinion=萨拉查的先锋
+tagEnemySummonDariusAetherCrystal=不稳定的虚化编队
+tagEnemySummonRifthound=蓝色裂隙魔犬
 
 #Boss&Quest
 
-tagQuestEnemyReanimator=Kyzogg the Reanimator
-tagQuestEnemyMiltonHart=Milton Hart
-tagQuestEnemyBanditForge=Outlaw Forge
-tagQuestChthonianMonstrosity=Maga'Thel, the Unraveler
+tagQuestEnemyReanimator=死尸复生者凯奥格
+tagQuestEnemyMiltonHart=弥尔顿·哈特
+tagQuestEnemyBanditForge=非法熔炉
+tagQuestChthonianMonstrosity=拆解者马加赛尔
 
-tagBossTheWarden01=The Warden
+tagBossTheWarden01=典狱长
 
 #Races
 
-tagRace001=Undead
-tagRace002=Beastkin
-tagRace003=Aetherial
-tagRace004=Chthonic
-tagRace005=Aether Corruption
-tagRace006=Bloodsworn
+tagRace001=亡灵
+tagRace002=兽人
+tagRace003=虚灵
+tagRace004=冥灵
+tagRace005=虚灵的腐朽仆从
+tagRace006=血誓
 tagRace007=Eldritch
-tagRace008=Insectoid
-tagRace009=Human
+tagRace008=昆虫族
+tagRace009=人类
 tagRace010=Construct
-tagRace011=Riftspawn
-tagRace012=Beast
+tagRace011=裂隙生物
+tagRace012=野兽
 tagRace013=Magical
-tagRace001P=Undead
-tagRace002P=Beastkin
-tagRace003P=Aetherials
-tagRace004P=Chthonics
-tagRace005P=Aether Corruptions
-tagRace006P=Bloodsworn
+tagRace001P=亡灵
+tagRace002P=兽人
+tagRace003P=虚灵
+tagRace004P=冥灵
+tagRace005P=虚灵的腐朽仆从
+tagRace006P=血誓
 tagRace007P=Eldritch
-tagRace008P=Insectoids
-tagRace009P=Humans
+tagRace008P=昆虫族
+tagRace009P=人类
 tagRace010P=Constructs
-tagRace011P=Riftspawn
-tagRace012P=Beasts
+tagRace011P=裂隙生物
+tagRace012P=野兽
 tagRace013P=Magical
 

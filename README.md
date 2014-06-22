@@ -27,4 +27,8 @@ beta19版汉化正在进行中
 
 `“商人出售与收购在凯恩...`
 
+在线加空格工具：http://yojigen-pocket.blogspot.fr/p/space.html
+
+已知需要加空格的文件：mq_ sq_ items(只有描述部分) skills（描述） storyelements（故事线）tutorial 
+
 请优先汉化怪物、装备、技能和界面，争取尽早发布第一版可用的汉化包:) 

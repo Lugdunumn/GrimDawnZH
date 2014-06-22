@@ -351,79 +351,79 @@ tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋但是�
 
 tagClass04SkillName02A=暗影突袭
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
-tagClass04SkillName02B=Nidalla's Justifiable Ends
+tagClass04SkillName02B=尼达拉的正义裁决
 tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
-tagClass04SkillName02C=Nightfall
+tagClass04SkillName02C=夜临
 tagClass04SkillDescription02C=As you reappear and engage your prime target, a pall of darkness will descend upon surrounding enemies like the darkest, coldest night, chilling their blood and invading their minds with an uncontrollable weariness.
 
-tagClass04SkillName03A=Blade Barrier
+tagClass04SkillName03A=刀锋刺盾
 tagClass04SkillDescription03A=For a master Nightblade, Belgothian was rumored to lack fine control of his conjuring; but he had the unremitting willpower to summon so many blades that they would form an impenetrable shield surrounding him, giving him a moment of respite from his foes.
 
-tagClass04SkillName04A=Ring of Steel
+tagClass04SkillName04A=钢铁指环
 tagClass04SkillDescription04A=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
-tagClass04SkillName04B=Circle of Slaughter
+tagClass04SkillName04B=屠戮之环
 tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
 
-tagClass04SkillName05A=Dual Blades
+tagClass04SkillName05A=双刃
 tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oEnables the ability to dual wield melee weapons.
-tagClass04SkillName05B=Belgothian's Shears
+tagClass04SkillName05B=贝尔歌德人之剪
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
-tagClass04SkillName05C=Amarasta's Quick Cut
+tagClass04SkillName05C=阿玛里斯塔的瞬影
 tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
-tagClass04SkillName05D=Whirling Death
+tagClass04SkillName05D=死亡旋风
 tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
-tagClass04SkillName05E=Nidalla's Hidden Hand
+tagClass04SkillName05E=尼达拉的隐手
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
-tagClass04SkillName05F=Execution
+tagClass04SkillName05F=处决
 tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive very long. ^oThis is a dual-wielding technique.
 
-tagClass04SkillName06A=Pneumatic Burst
+tagClass04SkillName06A=气爆
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oThis technique requires one-handed melee weapons.
-tagClass04SkillName06B=Shadow Dance
+tagClass04SkillName06B=暗影之舞
 tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
-tagClass04SkillName06C=Elemental Awakening
+tagClass04SkillName06C=元素觉醒
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 
-tagClass04SkillName07A=Veil of Shadow
+tagClass04SkillName07A=暗影面纱
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
-tagClass04SkillName07B=Night's Chill
+tagClass04SkillName07B=夜之寒气
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
 
-tagClass04SkillName08A=Blade Spirit
+tagClass04SkillName08A=刀灵
 tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
-tagClass04SkillName08PetA=Whirling Blades
-tagClass04SkillName08PetB=Blade Burst
+tagClass04SkillName08PetA=回旋之刃
+tagClass04SkillName08PetB=刀刃突击
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
 
-tagClass04SkillName11A=Blade Trap
+tagClass04SkillName11A=刀锋陷阱
 tagClass04SkillDescription11A=Your command of Nightblade techniques allows you to entrap enemies within a prison of deadly phantasmal blades.
-tagClass04SkillName11B=Devouring Blades
+tagClass04SkillName11B=毁灭刀锋
 tagClass04SkillDescription11B=The phantasmal blades drain the life essence of the foes trapped within their grasp, transferring it to you.
 
-tagClass04SkillName10A=Blade Swarm
+tagClass04SkillName10A=刀阵
 tagClass04SkillDescription10A=Conjure a swarm of phantasmal blades to envelop your foes, lacerating their flesh and driving the weak of heart into terror.
-tagClass04SkillName10B=Amarasta's Double Edge
+tagClass04SkillName10B=阿玛里斯塔的双刃
 tagClass04SkillDescription10B=A master technique that causes the Blade Swarm to turn the weapons of your foes against themselves, causing them to inflict further suffering with their own tools of war.
 
-tagClass04SkillName13A=Phantasmal Armor
+tagClass04SkillName13A=幻影护甲
 tagClass04SkillDescription13A=A metaphysical barrier forms around you, brought into being through the focused power of mind and spirit. This barrier repels physical damage and transfers energy from magical attacks into your own pneuma reserves.
-tagClass04SkillName13B=Anatomy of Murder
+tagClass04SkillName13B=凶杀解剖
 tagClass04SkillDescription13B=Knowledge prized by royal assassins, the extensive study of anatomy familiarizes you with all of the most vulnerable and damaging locations in which to slide a blade. 
-tagClass04SkillName13C=Merciless Repertoire
+tagClass04SkillName13C=无情终章
 tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledge of poisons and elemental powers can be the most effective means to gain the upper hand in combat.
 
 
-tagClass04SkillName04C=Devouring Blades
+tagClass04SkillName04C=毁灭刀锋
 tagClass04SkillDescription04C=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
-tagClass04SkillName07X=Deepening Darkness
+tagClass04SkillName07X=深化黑暗
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
-tagClass04SkillName07C=Amarasta's Unseen Blade
+tagClass04SkillName07C=阿玛里斯塔的隐刀
 tagClass04SkillDescription07C=Throughout combat with the nightblade, wounds appear on enemies where no weapon was seen to strike.
-tagClass04SkillName09A=Life Taker
+tagClass04SkillName09A=生命接收者
 tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the nightblade, allowing them to grow stronger even as the life leaves their quarry.
-tagClass04SkillName12A=Pneuma Tap
+tagClass04SkillName12A=精神抽取
 tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
-tagClass04SkillName13D=Merciless Repertoire
+tagClass04SkillName13D=无情终章
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 tagClass04SkillName14A=Lethal Gambit

@@ -46,7 +46,7 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的{^n}条件下生存，也能在面对帝国最凶恶{^n}的敌人时坚守阵地。士兵更喜欢近身{^n}作战的兵器，诸如剑与盾，但用起火{^n}器来也同样是得心应手。士兵最不擅{^n}长的是假装英勇无畏和领导别人。
+tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。士兵最不擅长的是假装英勇无畏和领导别人。
 
 tagSkillClassDescription02=Pyrotechnic masters of the imperial army; Demolitionists are{^n}part engineer; part sorcerer. They were used to break enemy{^n}ranks and breach fortifications with their devastating array{^n}of explosives and destructive magic. They usually prefer to{^n}fight at range; engaging enemies with guns, traps and explosives{^n}but they can also be proficient with melee weapons.
 
@@ -82,76 +82,76 @@ tagClass01SkillDescription00A=只 有 极 度 强 健 的 体 魄 才 能 勇 �
 tagClass01SkillName01A=节奏打击
 tagClass01SkillDescription01A=战 斗 时 ， 自 然 地 跟 随 周 期 性 的 节奏 感 ， 施 展 抑 扬 顿 挫 的 打 击 ， 每 次 第 三 击 造 成 大 量 伤 害 。 虽 然 可 以 被 预 判 ， 但 却 强 效 有 力 ，难 以 实 施 反 击 。
 tagClass01SkillName01B=格斗姿态
-tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的{^n}额外目标
+tagClass01SkillDescription01B=愤 怒 的 节 奏 对 周 围 的 敌 人 产 生 共 振 ， 造 成 严 重 的 出  血 。^o如 使 用 近 战 武 器 ， 共 振 效 果 会 使  节 奏 打 击 击 中 附 近 的 额 外 目 标
 tagClass01SkillName01C=致死旋律
-tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机会获得额外伤害效果。
+tagClass01SkillDescription01C=使 用 巨 大 的 力 量 施 展 节 奏 打 击 ， 有 机 会 获 得 额 外 伤 害 效 果 。
 
 tagClass01SkillName02A=力场波
-tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出能量波眩晕敌人并造成伤害。^o该技能发动需要装备盾牌。
+tagClass01SkillDescription02A=攻 击 时 通 入 能 量 来 压缩 空 气 ， 投 射 出 能 量 波 眩 晕 敌 人 并 造 成 伤 害 。^o该 技 能 发 动 需 要 装 备 盾 牌 。
 tagClass01SkillName02B=裂甲之力
-tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容易受到物理伤害。
+tagClass01SkillDescription02B=力 场 波 粉 碎 敌 人 的 护 甲 ， 使 他 们 更 容 易 受 到 物 理 伤 害 。
 tagClass01SkillName02C=内部创伤
-tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大量的内外出血。
+tagClass01SkillDescription02C=力 场 波 粉 碎 骨 骼 ， 损 伤 内 脏 ， 造 成 大 量 的 内 外 出 血 。
 
 tagClass01SkillName03A=闪击
-tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。
+tagClass01SkillDescription03A=带 着 毁 灭 性 的 动 能 冲 入 敌 群 ，发 动 突 袭 。^o需 要 一 把 近 战 武 器 。
 tagClass01SkillName03B=攻其不备
-tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
+tagClass01SkillDescription03B=你 的 攻 击 突 然 而 猛 烈 ， 使 敌 人 失 去 平 衡 ， 降 低 作 战 能 力 。
 
 tagClass01SkillName04A=战吼
-tagClass01SkillDescription04A=毛骨悚然的战吼能削弱敌人的意志，分散他们的注意力。
+tagClass01SkillDescription04A=毛 骨 悚 然 的 战 吼 能 削 弱 敌 人 的 意 志 ， 分 散 他 们 的 注 意 力 。
 tagClass01SkillName04C=恐惧之吼
-tagClass01SkillDescription04C=不坚强的敌人在听到你可怕的挑衅声后会逃走。
+tagClass01SkillDescription04C=不 坚 强 的 敌 人 在 听 到 你 可 怕 的 挑 衅 声 后 会 逃 走 。
 tagClass01SkillName04B=破胆
-tagClass01SkillDescription04B=战吼粉碎敌人的斗志，导致他们无力与你战斗。
+tagClass01SkillDescription04B=战 吼 粉 碎 敌 人 的 斗 志 ， 导 致 他 们 无 力 与 你 战 斗 。
 
 tagClass01SkillName05A=刀锋横扫
-tagClass01SkillDescription05A=弧形挥动武器能切开周围的多个敌人。^o需要近战武器。
+tagClass01SkillDescription05A=弧 形 挥 动 武 器 能 切 开 周 围 的 多 个 敌 人 。^o需 要 近 战 武 器 。
 tagClass01SkillName05B=撕裂
-tagClass01SkillDescription05B=刀锋横扫的高级技巧，攻击时撕开敌人，造成流血。
+tagClass01SkillDescription05B=刀 锋 横 扫 的 高 级 技 巧 ， 攻 击 时 撕 开 敌 人 ， 造 成 流 血 。
 
 tagClass01SkillName06A=马尔可夫优势
-tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。
+tagClass01SkillDescription06A=著 名 战 术 家 马 尔 可 夫 总 是 谋 划 从 高 处 进 攻 。 这 个 经 典 攻 击 的 灵 感 正 是 来 自 马 尔 可 夫 的 战 术 ， 招 牌 是 强 力 的 向 下 攻 击 ， 摔 绊 敌 人 让 他 们 失 去 平 衡 ， 削 弱 他 们 的 防 御 。 
 tagClass01SkillName06B=佐尔汉的技艺
-tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡^o当使用一把近战武器发动时，会击中附近多个目标。
+tagClass01SkillDescription06B=以 一 个 著 名 的 格 斗 大 师 命 名 ， 攻 击 时 放 低 重 心 ， 猛 推 敌 人 来 使 他 们 失 去 平 衡^o当 使 用 一 把 近 战 武 器 发 动 时 ， 会 击 中 附 近 多 个 目 标 。
 
 tagClass01SkillName07A=战意
-tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反激起你的怒气，在攻击中使出更大的力量。
+tagClass01SkillDescription07A=敌 人 攻 击 的 刺 痛 无 法 使 你 屈 服 ， 相 反 激 起 你 的 怒 气 ， 在 攻 击 中 使 出 更 大 的 力 量 。
 tagClass01SkillName08A=曼海尔的意志
-tagClass01SkillDescription08A=当你接近死亡时，曼海尔不屈的意志将灌注给你新的力量。^o需要盾牌或者双手近战武器
+tagClass01SkillDescription08A=当 你 接 近 死 亡 时 ， 曼 海 尔 不 屈 的 意 志 将 灌 注 给 你 新 的 力 量 。^o需 要 盾 牌 或 者 双 手 近 战 武 器
 
 tagClass01SkillName09A=指挥领域
-tagClass01SkillDescription09A=卓越的纪律感和战术知识让你成为战斗领袖。^o此技能须开启以保持生效。
+tagClass01SkillDescription09A=卓 越 的 纪 律 感 和 战 术 知 识 让 你 成 为 战 斗 领 袖 。^o此技 能 须 开 启 以 保 持 生 效 。
 tagClass01SkillName09B=小队战术
-tagClass01SkillDescription09B=激励你的队友，增强他们的战力。
+tagClass01SkillDescription09B=激 励 你 的 队 友 ， 增 强 他 们 的 战 力 。
 
 tagClass01SkillName10A=军事素养
-tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战争的耐受力
+tagClass01SkillDescription10A=严 格 的 军 事 训 练 增 强 了 身 体 对 严 酷 战 争 的 耐 受 力
 tagClass01SkillName11A=久经沙场
-tagClass01SkillDescription11A=战争的严苛使你获得了在战争中存活的宝贵经验。
+tagClass01SkillDescription11A=战 争 的 严 苛 使 你 获 得 了 在 战 争 中 存 活 的 宝 贵 经 验 。
 tagClass01SkillName12A=功勋卓著
-tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来施以反击。
+tagClass01SkillDescription12A=在 白 热 化 的 战 场 上 保 持 冷 静 思 考 的 能 力 ， 使 老 兵 们 能 够 更 轻 易 地 切 入 敌 人 的 防 御 空 档 ， 或 是 预 判 敌 人 的 攻 击 节 奏 来 施 以 反 击 。
 
 tagClass01SkillName13A=曼海尔的壁垒
-tagClass01SkillDescription13A=召唤大地之神曼海尔，保佑其追随者拥有大地一般的韧性。^o需要一面盾牌。
+tagClass01SkillDescription13A=召 唤 大 地 之 神 曼 海 尔 ， 保 佑 其 追 随 者 拥 有 大 地 一 般 的 韧 性 。^o需 要 一 面 盾 牌 。
 
 tagClass01SkillName14A=奥莱隆之怒
-tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞起其追随者无法动摇的凶猛战意。
+tagClass01SkillDescription14A=召 唤 远 古 战 神 奥 莱 隆 ， 鼓 舞 起 其 追 随 者 无 法 动 摇 的 凶 猛 战 意 。
 
 tagClass01SkillName15A=战斗警觉
-tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意识。你只能在很短的时间内维持该状态。^o需要一面盾牌。
+tagClass01SkillDescription15A=进 入 防 御 姿 态 ， 极 大 的 增 强 你 的 战 斗 意 识 。 你 只 能 在 很 短 的 时 间 内 维 持 该 状 态 。^o需 要 一 面 盾 牌 。
 
 tagClass01SkillName16=百战之躯
-tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了最为严酷的战场。战争所谓的恐怖和小小的伤口，都已无法再阻碍你。
+tagClass01SkillDescription16=经 历 了 无 数 战 火 洗 礼 ， 你 已 经 见 识 过 了 最 为 严 酷 的 战 场 。 战 争 所 谓 的 恐 怖 和 小 小 的 伤 口 ， 都 已 无 法 再 阻 碍 你 。
 
 tagClass01SkillName17=防守反击
-tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击。^o此技能须开启以保持生效。
+tagClass01SkillDescription17=进 入 极 度 灵 敏 的 状 态 来 发 动 闪 电 般 的 反 击 。^o此 技 能 须 开 启 以 保 持 生 效 。
 
 
 tagClass01SkillName09C=坚守
 tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
 tagClass01SkillName05C=死亡之弧
-tagClass01SkillDescription05C=极大地增强刀锋横扫的威力并提升其击中目标个数。
+tagClass01SkillDescription05C=极 大 地 增 强 刀 锋 横 扫 的 威 力 并 提 升 其 击 中 目 标 个 数 。
 
 
 
@@ -341,13 +341,13 @@ tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
 tagClass04SkillName01A=幻影刀锋
-tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤的刀刃如纸片一般撕裂肉体。
+tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 如 纸 片 一 般 撕 裂 肉 体 。
 tagClass04SkillName01B=寻心击
-tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而隐形幻线能从受害者身上吸取生命力。 
+tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召  唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
 tagClass04SkillName01C=幽冥之刃
-tagClass04SkillDescription01C=使幻影刀锋具有暗黑魔法，是一种仅在最恶劣情况下才会使用的令人厌恶的技能。
+tagClass04SkillDescription01C=使 幻 影 刀 锋 具 有 暗 黑 魔 法 ， 是 一 种 仅 在 最 恶 劣 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
 tagClass04SkillName01D=狂热投掷
-tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋但是单个刀锋的杀伤力降低。
+tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
 
 tagClass04SkillName02A=暗影突袭
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.

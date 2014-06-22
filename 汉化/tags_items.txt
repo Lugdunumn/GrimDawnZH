@@ -277,7 +277,7 @@ tagWeaponCrossbow2hC009Desc=“山 地 野 人 的 武 器 ， 工 艺 粗 糙 �
 tagWeaponCrossbow2hC010=使者的保卫者
 
 tagWeaponCrossbow2hD001=银箭
-tagWeaponCrossbow2hD001Desc=“恶 魔 猎 人 嗜 血 的 伊 迪 斯 选 用 了 这 把 武 器 ， 昔 日 冥 神 的 狂 热 信 徒   变 成 了 屠 魔 者 。”
+tagWeaponCrossbow2hD001Desc=“恶 魔 猎 人 嗜 血 的 伊 迪 斯 选 用 了 这 把 武 器 ， 昔 日 冥 神 的 狂 热 信 徒 变 成 了 屠 魔 者 。”
 tagWeaponCrossbow2hD002=德里格的尖刺弩
 tagWeaponCrossbow2hD002Desc=“被 灌 注 以 巫 神 德 里 格 真 正 本 体 之 力 的 武 器 。”
 tagWeaponCrossbow2hD003=北地巨龙
@@ -598,21 +598,21 @@ tagHeadB010=游侠之兜盔
 tagHeadC001=风暴召唤者的头环
 tagHeadC002=狂战士的风帽
 tagHeadC003=幽冥王冠
-tagHeadC003Desc=“曾被戴在凯恩世界第一位也是唯一一位秘术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位和被教士以异端的罪名处死之前。”
+tagHeadC003Desc=“曾 被 戴 在 凯 恩 世 界 第 一 位 也 是 唯 一 一 位 秘 术 师 君 王 塞 缪 尔 · 德 雷 克 的 头 上 ， 当 然 这 是 在 其 被 剥 夺 王 位 和 被 教 士 以 异 端 的 罪 名 处 死 之 前 。”
 tagHeadC004=指挥王冠
 tagHeadC005=圣殿骑士之盔
-tagheadC005Desc=“曼海尔的守卫者的入门防具。”
+tagheadC005Desc=“曼 海 尔 的 守 卫 者 的 入 门 防 具 。”
 tagHeadC006=帝国卫兵的头盔
 tagHeadC007=探险者的头巾
 tagHeadC008=麦文的兜帽
 tagHeadC009=鲜血收割者的风帽
 tagHeadC010=眼魔之目
-tagHeadC010Desc=“一位痴迷于外表与美貌的发狂女巫戴着这只凝视的眼睛。”
+tagHeadC010Desc=“一 位 痴 迷 于 外 表 与 美 貌 的 发 狂 女 巫 戴 着 这 只 凝 视 的  眼 睛 。”
 tagHeadC011=狂热面具
 tagHeadC012=虚空风暴
 tagHeadC013=白银骑士之荣耀
 tagHeadC014=林地之恐惧
-tagHeadC014Desc=“从一只满身荆棘的古老怪物身上切下来的一部分。”
+tagHeadC014Desc=“从 一 只 满 身 荆 棘 的 古 老 怪 物 身 上 切 下 来 的 一 部 分 。”
 tagHeadC015=灵魂编织者头环
 tagHeadC016=流浪者的兜帽
 tagHeadC017=使者的面具
@@ -624,12 +624,12 @@ tagHeadC022=巅峰之风帽
 tagHeadC023=黎明守卫头盔
 
 tagHeadD001=绝望之吼
-tagHeadD001Desc=“抬头看看我和绝望，因为你死期已至。”
+tagHeadD001Desc=“抬 头 看 看 我 和 绝 望 ， 因 为 你 死 期 已 至 。”
 tagHeadD002=阿娜特·哥洛斯的恐怖面罩
 tagHeadD003=秘密耳语者
-tagheadD003Desc=“在容易被一击致命的受害者耳中低语着黑暗的秘密。”
+tagheadD003Desc=“在 不 堪 一 击 的 受 害 者 耳 中 低 语 着 黑 暗 的 秘 密 。”
 tagHeadD004=深渊面具
-tagheadD004Desc=“一面被死亡萦绕的面具，授予从死亡中得以解脱的亡者。”
+tagheadD004Desc=“一 面 被 死 亡 萦 绕 的 面 具 ， 授 予 从 死 亡 中 得 以 解 脱 的 亡 者 。”
 tagHeadD005=巨蛇头环
 tagHeadD006=公正面甲
 tagHeadD007=野兽召唤师的风帽
@@ -1787,21 +1787,21 @@ tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade me
 tagMoney01=铁币
 tagMoneyFormat={^s}{%d0}  {%s1}
 
-tagPotionHealthA01=修复药水
-tagPotionHealthA01Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA01=愈合药水
+tagPotionHealthA01Desc=“愈 合 伤 口 ， 修 复 骨 折 。”
 tagPotionHealthA02=治疗药水
-tagPotionHealthA02Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA02Desc=“愈 合 伤 口 ， 修 复 骨 折 。”
 tagPotionHealthA03=恢复药水
-tagPotionHealthA03Desc=“愈合伤口，修复骨折。”
+tagPotionHealthA03Desc=“愈 合 伤 口 ， 修 复 骨 折 。”
 
 tagPotionEnergyA01=精神药水
-tagPotionEnergyA01Desc=“恢复精神，补充灵魂之力。”
+tagPotionEnergyA01Desc=“恢 复 精 神 ， 补 充 灵 魂 之 力 。”
 
 tagPotionConstitutionA01=食物补给
-tagPotionConstitutionA01Desc="Tastes like stale dirt but lasts forever and restores lost constitution."
+tagPotionConstitutionA01Desc=“尝 起 来 像 腐 烂 的 污 物 ， 不 过 却 能 永 久 保 存 ， 还 能 回 复 体 力 。”
 
-tagPotionConstitutionB01=生命·精华
-tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to restore lost constitution.
+tagPotionConstitutionB01=生命精华
+tagPotionConstitutionB01Desc=“拥 有 着 挥 之 不 去 的 生 命 能 量 ， 能 够 被 吸 收 以 回 复 体 力 。”
 
 tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[While holding, right-click to combine stacks]
@@ -1838,7 +1838,7 @@ tagItemSetC005Name=Marauder's Justice
 tagItemSetC005Desc="Judge, jury, and executioner."
 
 tagItemSetC006Name=使者的华服
-tagItemSetC006Desc=“执行外交使命的君王的使节所穿的服饰。”
+tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 之 使 节 所 穿 的 服 饰 。”
 
 tagItemSetC007Name=Menhir's Touch
 tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
@@ -1883,7 +1883,7 @@ tagItemSetD002Name=The Sacred Balance
 tagItemSetD002Desc="The very essence of Life and Death is imbued within these blades."
 
 tagItemSetD003Name=野兽召唤师的华服
-tagItemSetD003Desc=“巨熊之力，夜枭之智，灵狼之怒。”
+tagItemSetD003Desc=“巨 熊 之 力 ， 夜 枭 之 智 ， 灵 狼 之 怒 。”
 
 tagItemSetD004Name=Dawnbreaker's Light
 tagItemSetD004Desc="The wrath of the sun against the encroaching darkness."

@@ -1,23 +1,23 @@
-Bernard
-Welcome back to our humble camp. May your road be always safe and the wind ever at your back.
-Farewell.
-Your allies have served the region well by destroying that barricade.
-Farewell.
-You've returned. Was your venture successful?
-I destroyed the barricade.
-A job well done!{^n}{^n}Thank you. You've done good by us, and we won't forget it.
-My pleasure.
-Hello again! How goes your search for the dynamite?
-Where should I be looking again?
-I reckon there should be some dynamite lying around Staunton Mine to the west.
-Thanks. I will get to it.
-Still searching. Goodbye.
-Greetings, stranger. A pleasure to meet someone who doesn't begin a meeting with weapons. Can't say the same for the gang up the hill to the east.
-You're having trouble with bandits?
-Violent and bloodthirsy murderers all of them. Everything we despise in this world. And now they've set up a barricade along the road to trap travelers such as ourselves. We've set up camp here while we decide what to do.{^n}{^n}The best course of action would be to blow that barricade, allowing our brothers and sisters of the road to travel in peace; however, we lack the means to do so. Say, you look like a capable sort. Let's make a deal. Staunton Mine to the west of here is abandoned, but it may have some explosives. If you recover some dynamite and use it to destroy that wretched blockade, I can offer you some coin for your troubles. What do you say?
-Sure, I'll help you out.
-I'm not interested.
-I already destroyed the blockade.
-You astound me, stranger.{^n}{^n}Thank you. You've done good by us, and we won't forget it.
-Always a pleasure to ruin an outlaw's day.
-Farewell.
+伯纳德
+欢迎回到我们简陋的营地。愿你的道路总是安全，并且一路顺风。
+再见。
+你的盟友们靠破坏路障很好地为这区域出了一份力。
+再见。
+你回来了。你的冒险成功了吗？
+我破坏了路障。
+干得很出色！{^n}{^n}谢谢你。你为我们做了好事，我们不会忘记的。
+这是我的荣幸。
+你好！炸药的搜索进行得如何？
+我应该在哪儿寻获炸药？
+我估计位于西边的斯汤顿矿洞周围还残留着一些炸药。
+谢谢。我会处理这件事。
+还在搜寻。再见了。
+你好，陌生人。很高兴能遇见一位不以武器为见面开端的人。东边丘陵上的那帮人就不同了。
+你有匪徒方面的烦恼吗？
+他们都是些暴力及嗜血的凶手。我们在这世界上所鄙视的一切。现在他们沿路设置路障以拦下像我们这样的旅客。在决定该怎么行动的当儿，我们便在这儿设置营地。{^n}{^n}最好的方法便是把路障给炸了，这样就能让路上的兄弟姐妹们安心赶路；但是我们心余力绌。我说啊，你看起来挺能干的。让我们做个交易吧。这里以西的斯汤顿矿洞已被废弃了，但是那儿可能还残留些炸药。如果你回收一些炸药并使用它们炸毁那令人讨厌的路障，我可以为你的付出提供你一点儿钱币。你觉得如何？
+当然了，我会帮助你的。
+我没兴趣。
+我已经破坏路障了。
+你让我感到惊讶，陌生人。{^n}{^n}谢谢你。你为我们做了好事，我们不会忘记的。
+总是很高兴可以毁掉歹徒的日子。
+再见了。

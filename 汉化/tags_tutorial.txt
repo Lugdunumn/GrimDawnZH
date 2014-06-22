@@ -5,32 +5,32 @@ tagTutorialDisable=禁用教程提示
 
 
 tagTutorialTip08Title=欢迎来到恐怖黎明
-tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我们希望你享受游戏这部分开始的内容。请记住这只是由七个人的工作室制作的预览版本。你将会遇到bug、未完成的特色内容和大约只有游戏的第一章第二章和第三章的情况。我们欢迎你们在论坛www.grimdawn.com反馈bug和游戏体验。
+tagTutorialTip08TextA=再 次 感 谢 支 持 我 们 并 帮 助 改 进 恐 怖 黎 明 ！ 我 们 希 望 你 享 受 游 戏 这 部 分 开 始 的 内 容 。 请 记 住 这 只 是 由 七 个 人 的 工 作 室 制 作 的 预 览 版 本 。 你 将 会 遇 到 b u g 、 未 完 成 的 特 色 内 容 和 大 约 只 有 游 戏 的 第 一 章 第 二 章 和 第 三 章 的 情 况 。 我 们 欢 迎 你 们 在 论 坛 www.grimdawn.com 反 馈 bug 和 游 戏 体 验 。
 
 tagTutorialTip09Title=商人界面
-tagTutorialTip09TextA=商人出售与收购在凯{^n}恩世界的险境中生存{^n}所必需的武器装备。
-tagTutorialTip09TextB=在这绝望的时期，好{^n}的装备可不便宜。商{^n}人们不会为普通物品{^n}出高价，但是充满魔{^n}力的装备能够卖到好{^n}价钱。
+tagTutorialTip09TextA=商 人 出 售 与 收 购 在 凯 恩 世 界 的 险 境 中 生 存 所 必 需 的 武 器 装 备 。
+tagTutorialTip09TextB=在 这 绝 望 的 时 期 ， 好 的 装 备 可 不 便 宜 。 商 人 们 不 会 为 普 通 物 品 出 高 价 ， 但 是 充 满 魔 力 的 装 备 能 够 卖 到 好 价 钱 。
 
 tagTutorialTip10Title=传送裂缝
-tagTutorialTip10TextA=安全的传送裂缝允许你在凯恩的众多地点间快速移动。左键点击传送裂缝以打开{^y}传送地图{^w}。
-tagTutorialTip10TextB=你发现了下游渡口的传送裂缝。你将来所发现的所有传送裂缝的位置会存储在{^y}传送地图{^w}。
+tagTutorialTip10TextA=安 全 的 传 送 裂 缝 允 许 你 在 凯恩 的 众 多 地 点 间快 速 移 动 。左 键 点 击传 送 裂 缝以 打 开 {^y} 传 送 地 图 {^w}。
+tagTutorialTip10TextB=你 发 现 了 下 游 渡 口 的 传 送 裂 缝 。 你 将 来 所 发 现 的 所 有 传 送 裂 缝 的 位 置 会 存 储 在{^y}传 送 地 图{^w}。
 tagTutorialTip10SubtitleA=个人传送裂缝:
-tagTutorialTip10TextC=作为一个接触过虚化之力的人类，你拥有打开{^y}个人传送裂缝{^w}的能力。要激活你的个人传送裂缝，点击信息面板上的传送旅行按钮。
+tagTutorialTip10TextC=作 为 一 个 接 触 过 虚 化 之力 的 人 类 ， 你 拥 有 打 开{^y}个 人 传 送 裂 缝{^w}的 能 力 。 要 激 活 你 的 个 人 传 送 裂 缝 ， 点 击 信 息 面 板 上 的 传 送 旅 行 按 钮 。
 tagTutorialTip10CaptionA=快捷键：{^b}{%t0}{^w}{^n}
 
 tagTutorialTip11Title=个人传送裂缝
-tagTutorialTip11TextA=个人传送裂缝可以在世界上任何地点打开并且会连接到传送裂缝网络。
+tagTutorialTip11TextA=个 人 传 送 裂 缝可 以 在 世 界 上 任 何 地 点 打 开 并  且 会 连 接 到 传 送 裂 缝 网 络 。
 tagTutorialTip11CaptionA=快捷键：{^b}{%t0}{^w}
-tagTutorialTip11TextB=与大型传送裂缝一样，左键点击你的个人传送裂缝{^y}传送地图{^w}。在地图上选择要到达的目的地。
-tagTutorialTip11TextC=你的传送裂缝将一直持续开启直到你的返回。当它开启的时候，你的队伍成员也可以传送到它的位置。 在任何时间段内你只能同时开启一个个人传送裂缝。
+tagTutorialTip11TextB=与 大 型 传 送 裂  缝 一 样 ， 左 键 点 击 你 的 个  人 传 送 裂 缝{^y}传 送 地 图{^w}。 在 地 图 上 选 择 要 到 达的 目 的 地 。
+tagTutorialTip11TextC=你 的 传 送 裂 缝 将 一 直 持 续 开 启 直 到 你 的 返 回 。 当 它 开 启 的 时 候 ， 你 的 队 伍 成 员 也 可 以 传 送 到 它 的 位 置 。 在 任 何 时 间 段 内 你 只 能 同 时 开 启 一 个 个 人 传 送 裂 缝 。
 
 tagTutorialTip14Title=药水
-tagTutorialTip14TextA=生命与能量药水分别能够回复你的角色的生命和能量。要饮用药水，点击快捷栏内的图标或者按下指定的快捷键。
-tagTutorialTip14TextB=药水默认被分配到快捷栏的最后两格内。通过右击空的快捷栏并从菜单选择一种药水你可以手动设定药水到任意快捷栏。
-tagTutorialTip14TextC=要饮用药水，点击快捷栏内的图标或者按下指定的快捷键。
+tagTutorialTip14TextA=生 命 与 能 量 药 水 分 别 能 够 回 复 你 的 角 色 的 生 命 和 能 量 。 要 饮 用 药 水 ， 点 击 快 捷 栏 内 的 图 标 或 者 按 下 指 定 的 快 捷 键 。
+tagTutorialTip14TextB=药 水 默 认 被 分 配 到 快 捷 栏  的 最 后 两 格 内 。 通 过 右 击 空 的 快 捷 栏 并 从 菜 单 选 择 一 种 药 水 你 可 以 手 动 设 定 药 水 到 任 意 快 捷 栏 。
+tagTutorialTip14TextC=要 饮 用 药 水 ， 点 击 快 捷 栏 内 的 图 标 或 者 按 下 指 定 的 快 捷 键 。
 
 tagTutorialTip15Title=升级
-tagTutorialTip15TextA=你提升了一个等级。每次你的角色升级的时候，你会获得技能点和属性点。{^n}{^n}你可以在{^y}技能窗口{^w}分配技能点。
+tagTutorialTip15TextA=你 提 升 了 一 个 等 级 。 每 次 你 的 角 色 升 级 的 时 候 ， 你 会 获 得 技 能 点 和 属 性 点 。{^n}{^n}你 可 以 在{^y}技 能 窗 口{^w}分 配 技 能 点 。
 tagTutorialTip15CaptionA=快捷键：{^b}{%t0}{^w}
 tagTutorialTip15TextB=你可以在{^y}角色窗口{^w}分配属性点。每个属性点提升8点属性。
 tagTutorialTip15CaptionB=快捷键：{^b}{%t0}{^w}

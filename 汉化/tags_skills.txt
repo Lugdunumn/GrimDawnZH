@@ -77,81 +77,81 @@ tagSkillUsableReady=技能准备就绪
 #Class01 职业01
 
 tagClass01SkillName00A=士兵
-tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对{^n}凯恩世界严酷的现实。
+tagClass01SkillDescription00A=只 有 极 度 强 健 的 体 魄 才 能 勇 敢 地 面 对 凯 恩 世 界 严 酷 的 现 实 。
 
 tagClass01SkillName01A=节奏打击
-tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感{^n}，施展抑扬顿挫的打击，每次第三击{^n}造成大量伤害。虽然可以被预判，但{^n}却强效有力，难以实施反击。
+tagClass01SkillDescription01A=战 斗 时 ， 自 然 地 跟 随 周 期 性 的 节奏 感 ， 施 展 抑 扬 顿 挫 的 打 击 ， 每 次 第 三 击 造 成 大 量 伤 害 。 虽 然 可 以 被 预 判 ， 但 却 强 效 有 力 ，难 以 实 施 反 击 。
 tagClass01SkillName01B=格斗姿态
-tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，{^n}造成严重的出血。^o如使用近战武器{^n}，共振效果会使节奏打击击中附近的{^n}额外目标
+tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的{^n}额外目标
 tagClass01SkillName01C=致死旋律
-tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机{^n}会获得额外伤害效果。
+tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机会获得额外伤害效果。
 
 tagClass01SkillName02A=力场波
-tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出{^n}能量波眩晕敌人并造成伤害。^o该技{^n}能发动需要装备盾牌。
+tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出能量波眩晕敌人并造成伤害。^o该技能发动需要装备盾牌。
 tagClass01SkillName02B=裂甲之力
-tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容{^n}易受到物理伤害。
+tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容易受到物理伤害。
 tagClass01SkillName02C=内部创伤
-tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大{^n}量的内外出血。
+tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大量的内外出血。
 
 tagClass01SkillName03A=闪击
-tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突{^n}袭。^o需要一把近战武器。
+tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。
 tagClass01SkillName03B=攻其不备
-tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平{^n}衡，降低作战能力。
+tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
 
 tagClass01SkillName04A=战吼
-tagClass01SkillDescription04A=毛骨悚然的战吼能削弱敌人的意志，{^n}分散他们的注意力。
+tagClass01SkillDescription04A=毛骨悚然的战吼能削弱敌人的意志，分散他们的注意力。
 tagClass01SkillName04C=恐惧之吼
-tagClass01SkillDescription04C=不坚强的敌人在听到你可怕的挑衅声{^n}后会逃走。
+tagClass01SkillDescription04C=不坚强的敌人在听到你可怕的挑衅声后会逃走。
 tagClass01SkillName04B=破胆
-tagClass01SkillDescription04B=战吼粉碎敌人的斗志，导致他们无力{^n}与你战斗。
+tagClass01SkillDescription04B=战吼粉碎敌人的斗志，导致他们无力与你战斗。
 
 tagClass01SkillName05A=刀锋横扫
-tagClass01SkillDescription05A=弧形挥动武器能切开周围的多个敌人{^n}。^o需要近战武器。
+tagClass01SkillDescription05A=弧形挥动武器能切开周围的多个敌人。^o需要近战武器。
 tagClass01SkillName05B=撕裂
-tagClass01SkillDescription05B=刀锋横扫的高级技巧，攻击时撕开敌{^n}人，造成流血。
+tagClass01SkillDescription05B=刀锋横扫的高级技巧，攻击时撕开敌人，造成流血。
 
 tagClass01SkillName06A=马尔可夫优势
-tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处{^n}进攻。这个经典攻击的灵感正是来自{^n}马尔可夫的战术，招牌是强力的向下{^n}攻击，摔绊敌人让他们失去平衡，削{^n}弱他们的防御。
+tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。
 tagClass01SkillName06B=佐尔汉的技艺
-tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时{^n}放低重心，猛推敌人来使他们失去平{^n}衡^o当使用一把近战武器发动时，会{^n}击中附近多个目标。
+tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡^o当使用一把近战武器发动时，会击中附近多个目标。
 
 tagClass01SkillName07A=战意
-tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反{^n}激起你的怒气，在攻击中使出更大的{^n}力量。
+tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反激起你的怒气，在攻击中使出更大的力量。
 tagClass01SkillName08A=曼海尔的意志
-tagClass01SkillDescription08A=当你接近死亡时，曼海尔不屈的意志{^n}将灌注给你新的力量。^o需要盾牌或者{^n}双手近战武器
+tagClass01SkillDescription08A=当你接近死亡时，曼海尔不屈的意志将灌注给你新的力量。^o需要盾牌或者双手近战武器
 
 tagClass01SkillName09A=指挥领域
-tagClass01SkillDescription09A=卓越的纪律感和战术知识让你成为战{^n}斗领袖。^o此技能须开启以保持生效。
+tagClass01SkillDescription09A=卓越的纪律感和战术知识让你成为战斗领袖。^o此技能须开启以保持生效。
 tagClass01SkillName09B=小队战术
 tagClass01SkillDescription09B=激励你的队友，增强他们的战力。
 
 tagClass01SkillName10A=军事素养
-tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战{^n}争的耐受力
+tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战争的耐受力
 tagClass01SkillName11A=久经沙场
-tagClass01SkillDescription11A=战争的严苛使你获得了在战争中存活{^n}的宝贵经验。
+tagClass01SkillDescription11A=战争的严苛使你获得了在战争中存活的宝贵经验。
 tagClass01SkillName12A=功勋卓著
-tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能{^n}力，使老兵们能够更轻易地切入敌人{^n}的防御空档，或是预判敌人的攻击节{^n}奏来施以反击。
+tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来施以反击。
 
 tagClass01SkillName13A=曼海尔的壁垒
-tagClass01SkillDescription13A=召唤大地之神曼海尔，保佑其追随者{^n}拥有大地一般的韧性。^o需要一面盾牌。
+tagClass01SkillDescription13A=召唤大地之神曼海尔，保佑其追随者拥有大地一般的韧性。^o需要一面盾牌。
 
 tagClass01SkillName14A=奥莱隆之怒
-tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞起其追随{^n}者无法动摇的凶猛战意。
+tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞起其追随者无法动摇的凶猛战意。
 
 tagClass01SkillName15A=战斗警觉
-tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗{^n}意识。你只能在很短的时间内维持该{^n}状态。^o需要一面盾牌。
+tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意识。你只能在很短的时间内维持该状态。^o需要一面盾牌。
 
 tagClass01SkillName16=百战之躯
-tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过{^n}了最为严酷的战场。战争所谓的恐怖{^n}和小小的伤口，都已无法再阻碍你。
+tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了最为严酷的战场。战争所谓的恐怖和小小的伤口，都已无法再阻碍你。
 
 tagClass01SkillName17=防守反击
-tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的{^n}反击。^o此技能须开启以保持生效。
+tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击。^o此技能须开启以保持生效。
 
 
 tagClass01SkillName09C=坚守
 tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
 tagClass01SkillName05C=死亡之弧
-tagClass01SkillDescription05C=极大地增强刀锋横扫的威力并提升其{^n}击中目标个数。
+tagClass01SkillDescription05C=极大地增强刀锋横扫的威力并提升其击中目标个数。
 
 
 

@@ -20,7 +20,7 @@ tagWeaponSwordA012=征服者
 tagWeaponSwordA013=马刀
 
 tagWeaponSwordB001=萨拉查的君权剑
-tagWeaponSwordB001Desc=“此剑由冥神授予萨拉查以表彰他坚定不移{^n}的追随。”
+tagWeaponSwordB001Desc=“此 剑 由 冥 神 授 予 萨 拉 查 以 表 彰 他 坚 定 不 移 的 追 随 。”
 tagWeaponSwordB002=幽光阔剑
 tagWeaponSwordB003=幽光长剑
 tagWeaponSwordB004=抛光长剑
@@ -29,39 +29,39 @@ tagWeaponSwordB006=抛光的征服者
 
 tagWeaponSwordC001=避雷针
 tagWeaponSwordC002=猎犬之咬
-tagWeaponSwordC002Desc="此剑的剑刃散发着腐化与堕落。"
+tagWeaponSwordC002Desc="此 剑 的 剑 刃 散 发 着 腐 化 与 堕 落 。"
 tagWeaponSwordC003=预兆之剑
 tagWeaponSwordC004=疯狂
-tagWeaponSwordC004Desc="扭曲的剑刃会使接触到它的人全部发疯。"
+tagWeaponSwordC004Desc="扭 曲 的 剑 刃 会 使 接 触 到 它 的 人 全 部 发 疯 。"
 tagWeaponSwordC005=血肉切割者
 tagWeaponSwordC006=鲜血收割者之爪
 tagWeaponSwordC007=决斗士之剑
-tagWeaponSwordC007Desc=“此剑由历代剑术大师精心校准。”
+tagWeaponSwordC007Desc=“此 剑 由 历 代 剑 术 大 师 精 心 校 准 。”
 tagWeaponSwordC008=执法官
-tagWeaponSwordC008Desc=“当仅仅贿赂政敌已不足以解决问题时，马{^n}尔茅斯的大法官会采取另一种解决之道。”
+tagWeaponSwordC008Desc=“当 仅 仅 贿 赂 政 敌 已 不 足 以 解 决 问 题 时 ， 马 尔 茅 斯 的 大 法 官 会 采 取 另 一 种 解 决 之 道 。”
 tagWeaponSwordC009=火焰烙印
 tagWeaponSwordC010=窃魂者
 tagWeaponSwordC011=燃冰
 tagWeaponSwordC012=礼仪切刀
 tagWeaponSwordC013=暗杀者的召唤
-tagWeaponSwordC013Desc=“这把剑嵌入了一小瓶能引起麻痹并最终致{^n}死的毒液。”
+tagWeaponSwordC013Desc=“这 把 剑 嵌 入 了 一 小 瓶 能 引 起 麻 痹 并 最 终 致 死 的 毒 液 。”
 tagWeaponSwordC014=眼盲刺客的剃刀
 tagWeaponSwordC015=圣约的血匕首
 tagWeaponSwordC016=威利的剃刀
-tagWeaponSwordC016Desc=“刀刃怎么砍也不会钝。”
+tagWeaponSwordC016Desc=“刀 刃 怎 么 砍 也 不 会 钝 。”
 
 tagWeaponSwordD001=猩红之刺
-tagWeaponSwordD001Desc=“这把武器的持有者充满了对鲜血永无止境{^n}的饥渴。”
+tagWeaponSwordD001Desc=“这 把 武 器 的 持 有 者 充 满 了 对 鲜 血 永 无 止 境 的 饥 渴 。”
 tagWeaponSwordD002=水晶剑
-tagWeaponSwordD002Desc=“一把充满着未开发能量的索拉丁水晶剑。”
+tagWeaponSwordD002Desc=“一 把 充 满 着 未 开 发 能 量 的 索 拉 丁 水 晶 剑 。”
 tagWeaponSwordD003=残酷命运
 tagWeaponSwordD004=心灵扭曲
 tagWeaponSwordD005=贝若纳斯，重铸之剑
-tagWeaponSwordD005Desc="这把屠杀贝若纳斯的剑曾经损坏，最终得{^n}以重铸。"
+tagWeaponSwordD005Desc="这 把 屠 杀 贝 若 纳 斯 的 剑 曾 经 损 坏 ， 最 终 得 以 重 铸 。"
 tagWeaponSwordD006=死亡
-tagWeaponSwordD006Desc=“看着这把剑，你能感受到自己的死期。”
+tagWeaponSwordD006Desc=“看 着 这 把 剑 ， 你 能 感 受 到 自 己 的 死 期 。”
 tagWeaponSwordD007=花园
-tagWeaponSwordD007Desc=“只要看到这把武器，你的内心就会充满希{^n}望”
+tagWeaponSwordD007Desc=“只 要 看 到 这 把 武 器 ， 你 的 内 心 就 会 充 满 希 望 。”
 
 
 tagWeaponBluntA000=木棒
@@ -78,7 +78,7 @@ tagWeaponBluntA010=节杖
 
 tagWeaponBluntB000=火炬
 tagWeaponBluntB001=典狱长的裁决
-tagWeaponBluntB001Desc=“不知道有多少无辜的人死于这把武器的摆{^n}布。”
+tagWeaponBluntB001Desc=“不 知 道 有 多 少 无 辜 的 人 死 于 这 把 武 器 的 摆 布 。”
 tagWeaponBluntB002=典狱长的审判
 tagWeaponBluntB003=巨魔捣骨锤
 tagWeaponBluntB004=巨魔碎骨锤
@@ -86,35 +86,35 @@ tagWeaponBluntB005=幽光晨星锤
 tagWeaponBluntB006=幽光大头棒
 tagWeaponBluntB007=基尔利安的碎颅锤
 tagWeaponBluntB008=剥皮人的火炬
-tagWeaponBluntB008Desc=“一个绝望之人的最后希望……”
+tagWeaponBluntB008Desc=“一 个 绝 望 之 人 的 最 后 希 望……”
 tagWeaponBluntB009=专家级刃锤
 tagWeaponBluntB010=专家级晨星锤
 tagWeaponBluntB011=专家级凸缘钉头锤
 
 tagWeaponBluntC001=虚化之灾
 tagWeaponBluntC002=混沌无序
-tagWeaponBluntC002Desc=“这把神圣的节杖在被冥神鲜血擦拭之后，{^n}变成了如今这副扭曲的形状。”
+tagWeaponBluntC002Desc=“这 把 神 圣 的 节 杖 在 被 冥 神 鲜 血 擦 拭 之 后 ， 变 成 了 如 今 这 副 扭 曲 的 形 状 。”
 tagWeaponBluntC003=怨恶之触
-tagWeaponBluntC003Desc=“一把夺去了无数人生命的邪恶武器。”
+tagWeaponBluntC003Desc=“一 把 夺 去 了 无 数 人 生 命 的 邪 恶 武 器 。”
 tagWeaponBluntC004=卫士之锤
 tagWeaponBluntC005=黒木之棍
 tagWeaponBluntC006=无尽愤怒圣锤
 tagWeaponBluntC007=祝福火炬
-tagWeaponBluntC007Desc=“曼海尔卫士们的燃烧战锤。”
+tagWeaponBluntC007Desc=“曼 海 尔 卫 士 们 的 燃 烧 战 锤 。”
 tagWeaponBluntC008=碎魂者
 tagWeaponBluntC009=抗争
-tagWeaponBluntC009Desc=“人类适应能力的化身。”
+tagWeaponBluntC009Desc=“人 类 适 应 能 力 的 化 身 。”
 tagWeaponBluntC010=虚化钢铁仲裁锤
 tagWeaponBluntC011=眼盲刺客之拳
 
 tagWeaponBluntD001=死亡之兆
-tagWeaponBluntD001Desc=“死亡到来的预兆。”
+tagWeaponBluntD001Desc=“死 亡 到 来 的 预 兆 。”
 tagWeaponBluntD002=冬幕节的烟火
 tagWeaponBluntD003=痛苦
 tagWeaponBluntD004=末日使者
-tagWeaponBluntD004Desc=“谣传是它在恐怖黎明开始时撕裂出第一道{^n}裂缝之门。”
+tagWeaponBluntD004Desc=“谣 传 是 它 在 恐 怖 黎 明 开 始 时 撕 裂 出 第 一 道 裂 缝 之 门 。”
 tagWeaponBluntD005=德里格之瘟疫
-tagWeaponBluntD005Desc=“承载着巫神德里格的七种天灾。”
+tagWeaponBluntD005Desc=“承 载 着 巫 神 德 里 格 的 七 种 天 灾 。”
 tagWeaponBluntD006=破晓巨锤
 
 
@@ -135,30 +135,30 @@ tagWeaponAxeB003=矿主斧
 
 tagWeaponAxeC001=残忍之锋
 tagWeaponAxeC002=死神之触
-tagWeaponAxeC002Desc=“一件古老献祭仪式用具，由一位早已死去{^n}之人所铸造。”
+tagWeaponAxeC002Desc=“一 件 古 老 献 祭 仪 式 用 具 ， 由 一 位 早 已 死 去 之 人 所 铸 造 。”
 tagWeaponAxeC003=血块盛宴
 tagWeaponAxeC004=鲜血收割者之斧
 tagWeaponAxeC005=风暴边缘
 tagWeaponAxeC006=克里格的切肉斧
-tagWeaponAxeC006Desc=“一把凶残者拥有的凶残武器。”
+tagWeaponAxeC006Desc=“一 把 凶 残 者 拥 有 的 凶 残 武 器 。”
 tagWeaponAxeC007=邪恶
 tagWeaponAxeC008=饕餮魔锯
 tagWeaponAxeC009=饥渴
 tagWeaponAxeC010=无形之锋
-tagWeaponAxeC010Desc=“斧刃驾驭着虚化之力。”
+tagWeaponAxeC010Desc=“斧 刃 驾 驭 着 虚 化 之 力 。”
 tagWeaponAxeC011=锯齿千人斩
-tagWeaponAxeC011Desc=“每个锯齿都代表着一条性命。”
+tagWeaponAxeC011Desc=“每 个 锯 齿 都 代 表 着 一 条 性 命 。”
 tagWeaponAxeC012=尸体亵渎者
 tagWeaponAxeC013=乔纳格·日
-tagWeaponAxeC013Desc=“一把由各种人类和动物的骨头组成的萨满{^n}斧。”
+tagWeaponAxeC013Desc=“一 把 由 各 种 人 类 和 动 物 的 骨 头 组 成 的 萨 满 斧 。”
 
 tagWeaponAxeD001=伯尔维治屠夫
-tagWeaponAxeD001Desc=“恐怖黎明之后，凯恩世界的人类崩溃于疯{^n}狂与腐化之下的具体体现。”
+tagWeaponAxeD001Desc=“恐 怖 黎 明 之 后 ， 凯 恩 世 界 的 人 类 崩 溃 于 疯 狂 与 腐 化 之 下 的 具 体 体 现 。”
 tagWeaponAxeD002=新月
-tagWeaponAxeD002Desc=“月之崇拜者的神圣武器，被认为在神圣净{^n}化中被摧毁。”
+tagWeaponAxeD002Desc=“月 之 崇 拜 者 的 神 圣 武 器 ， 被 认 为 在  神 圣 净 化 中 被 摧 毁 。”
 tagWeaponAxeD003=凶蛮
 tagWeaponAxeD004=裂地
-tagWeaponAxeD004Desc=“传说一位凡人拿着这把武器，不顾诸神的{^n}乞求而劈开了曼海尔山。由此形成了曼海{^n}尔双子山。”
+tagWeaponAxeD004Desc=“传 说 一 位 凡 人 拿 着 这 把 武 器 ， 不 顾 诸 神 的 乞 求 而 劈 开 了 曼 海 尔 山 。 因 此 形 成 了 曼 海 尔 双 子 山 。”
 tagWeaponAxeD005=天谴
 
 
@@ -178,26 +178,26 @@ tagWeaponGun1hB002=手持迫击炮
 tagWeaponGun1hB003=霰弹手枪
 
 tagWeaponGun1hC001=利安德·格林的手持火炮
-tagWeaponGun1hC001Desc=“从黑水强盗冰冷的死尸手中夺来的武器。”
+tagWeaponGun1hC001Desc=“从 黑 水 强 盗 冰 冷 的 死 尸 手 中 夺 来 的 武 器 。”
 tagWeaponGun1hC002=辟邪
-tagWeaponGun1hC002Desc=“这把武器被灌注了黑魔法，用来战胜那些{^n}滥用秘法能量的邪恶之辈”
+tagWeaponGun1hC002Desc=“这 把 武 器 被 灌 注 了 黑 魔 法 ， 用 来 战 胜 那 些 滥 用 秘 法 能 量 的 邪 恶 之 辈 。”
 tagWeaponGun1hC003=奥威尔的左轮手枪
-tagWeaponGun1hC003Desc=“这位老牧师最出名的可不是跟人和平谈判。”
+tagWeaponGun1hC003Desc=“这 位 老 牧 师 最 出 名 的 可 不 是 跟 人 和 平 谈 判 。”
 tagWeaponGun1hC004=掠夺者的怒火
 tagWeaponGun1hC005=掠夺者的正义
 tagWeaponGun1hC006=重炮手
 tagWeaponGun1hC007=第三连队的左轮枪
-tagWeaponGun1hC007Desc=“枪管上只写了一个词：忠诚。”
+tagWeaponGun1hC007Desc=“枪 管 上 只 写 了 一 个 词 ： 忠 诚 。”
 tagWeaponGun1hC008=反叛
 tagWeaponGun1hC009=法外之徒的惩罚
-tagWeaponGun1hC009Desc=“代表着一种扭曲了的正义。”
+tagWeaponGun1hC009Desc=“代 表 着 一 种 扭 曲 了 的 正 义 。”
 tagWeaponGun1hC010=粘液爆弹枪
 tagWeaponGun1hC011=噬魂
 tagWeaponGun1hC012=瘟疫之源
 tagWeaponGun1hC013=调停人
 tagWeaponGun1hC014=北地极寒
 tagWeaponGun1hC015=伯尔维治的和平卫士
-tagWeaponGun1hC015Desc=“警长哈蒙·格里菲斯的可靠配枪。”
+tagWeaponGun1hC015Desc=“警 长 哈 蒙 · 格 里 菲 斯 的 可 靠 配 枪 。”
 tagWeaponGun1hC016=曼海尔的忏悔
 tagWeaponGun1hC017=毁誓枪
 
@@ -230,25 +230,25 @@ tagWeaponGun2hB003=榴弹枪
 
 tagWeaponGun2hC001=猎人
 tagWeaponGun2hC002=鹰眼
-tagWeaponGun2hC002Desc=“一击必杀。”
+tagWeaponGun2hC002Desc=“ 一 击 必 杀 。”
 tagWeaponGun2hC003=深渊猎枪
 tagWeaponGun2hC004=恶魔印记
 tagWeaponGun2hC005=命运之意志
-tagWeaponGun2hC005Desc=“每一发子弹都注定会碰上它真正的目标。”
+tagWeaponGun2hC005Desc=“每 一 发 子 弹 都 注 定 会 碰 上 它 真 正 的 目 标 。”
 tagWeaponGun2hC006=猩红神射手
 tagWeaponGun2hC007=盐核之枪
-tagWeaponGun2hC007Desc=“一支为了消灭虚灵而组装起来的枪。”
+tagWeaponGun2hC007Desc=“一 支 为 了 消 灭 虚 灵 而 组 装 起 来 的 枪 。”
 tagWeaponGun2hC008=愤怒使者
 tagWeaponGun2hC009=霹雳
 tagWeaponGun2hC010=神射手的步枪
 
 tagWeaponGun2hD001=撒旦
 tagWeaponGun2hD002=巫异時刻
-tagWeaponGun2hD002Desc=“巫神的追随者用来保卫其圣殿不被教廷的{^n}愤怒所摧毁的武器。”
+tagWeaponGun2hD002Desc=“巫 神 的 追 随 者 用 来 保 卫 其 圣 殿 不 被 教 廷 的 愤 怒 所 摧 毁 的 武 器 。”
 tagWeaponGun2hD003=地狱降生
-tagWeaponGun2hD003Desc=“枪管向前喷涌着来自七大地狱的愤怒。”
+tagWeaponGun2hD003Desc=“枪 管 向 前 喷 涌 着 来 自 七 大 地 狱 的 愤 怒 。”
 tagWeaponGun2hD004=灵魂旋风
-tagWeaponGun2hD004Desc=“发出去的每一枪都会产生虚化之力的波动。”
+tagWeaponGun2hD004Desc=“发 出 去 的 每 一 枪 都 会 产 生 虚 化 之 力 的 波 动 。”
 tagWeaponGun2hD005=裂肠者
 
 
@@ -261,27 +261,27 @@ tagWeaponCrossbow2hB001=幽光十字弩
 tagWeaponCrossbow2hB002=幽光强弩
 
 tagWeaponCrossbow2hC001=雷霆十字枪
-tagWeaponCrossbow2hC001Desc=“一支原型武器。不幸的是，发明者在该武{^n}器能被量产之前已死于非命。”
+tagWeaponCrossbow2hC001Desc=“一 支 原 型 武 器 。 不 幸 的 是 ， 发 明 者 在 该 武 器 能 被 量 产 之 前 已 死 于 非 命 。”
 tagWeaponCrossbow2hC002=疾病
 tagWeaponCrossbow2hC003=伯尔维治的诅咒
-tagWeaponCrossbow2hC003Desc=“一支带来厄运的武器，它能讲述给你无数{^n}曾经拥有过它的人的故事。”
+tagWeaponCrossbow2hC003Desc=“一 支 带 来 厄 运 的 武 器 ， 它 能 讲 述 给 你 无 数 曾 经 拥 有 过 它 的 人 的 故 事 。”
 tagWeaponCrossbow2hC004=黒木强弩
-tagWeaponCrossbow2hC004Desc=“由来自黒木庄园之外森林的木材所打造。”
+tagWeaponCrossbow2hC004Desc=“由 来 自 黒 木 庄 园 之 外 森 林 的 木 材 所 打 造 。”
 tagWeaponCrossbow2hC005=严寒之息
 tagWeaponCrossbow2hC006=掷桩弩
 tagWeaponCrossbow2hC007=蜘蛛之拥
 tagWeaponCrossbow2hC008=俾斯麦尔的悲惨乌鸦之弩
-tagWeaponCrossbow2hC008Desc=“俾斯麦尔的虔诚追随者所用的标志性武器。”
+tagWeaponCrossbow2hC008Desc=“俾 斯 麦 尔 的 虔 诚 追 随 者 所 用 的 标 志 性 武 器 。”
 tagWeaponCrossbow2hC009=尤达·贾克斯
-tagWeaponCrossbow2hC009Desc=“山地野人的武器，工艺粗糙，却好用的得{^n}令人感到吃惊。”
+tagWeaponCrossbow2hC009Desc=“山 地 野 人 的 武 器 ， 工 艺 粗 糙 ， 却 好 用 的 得 令 人 感 到 吃 惊 。”
 tagWeaponCrossbow2hC010=使者的保卫者
 
 tagWeaponCrossbow2hD001=银箭
-tagWeaponCrossbow2hD001Desc=“恶魔猎人嗜血的伊迪斯所选用了这把武器{^n}，昔日冥神的狂热信徒也变成了屠魔者。”
+tagWeaponCrossbow2hD001Desc=“恶 魔 猎 人 嗜 血 的 伊 迪 斯 选 用 了 这 把 武 器 ， 昔 日 冥 神 的 狂 热 信 徒   变 成 了 屠 魔 者 。”
 tagWeaponCrossbow2hD002=德里格的尖刺弩
-tagWeaponCrossbow2hD002Desc=“被灌注以巫神德里格真正本体之力的武器。”
+tagWeaponCrossbow2hD002Desc=“被 灌 注 以 巫 神 德 里 格 真 正 本 体 之 力 的 武 器 。”
 tagWeaponCrossbow2hD003=北地巨龙
-tagWeaponCrossbow2hD003Desc=“源自北地刺骨寒风中的霜血巨龙。”
+tagWeaponCrossbow2hD003Desc=“源 自 北 地 刺 骨 寒 风 中 的 霜 血 巨 龙 。”
 tagWeaponCrossbow2hD004=拉卡·贾克斯
 tagWeaponCrossbow2hD005=永恒苦难之先兆
 
@@ -2342,7 +2342,7 @@ tagLocked= {^R} ~ 锁着的
 #Quest Rewards
 
 tagQuestItemBrothersAmulet=妹妹的赋生之护身符
-tagQuestItemBrothersAmuletDesc="致亲爱的哥哥: 愿这枚护身符能让你在战斗中保持强壮。 -西比尔"
+tagQuestItemBrothersAmuletDesc="致 亲 爱 的 哥 哥 :  愿 这 枚 护 身 符 能 让 你 在 战 斗 中 保 持 强 壮 。  - 西 比 尔"
 
 tagQuestItemSlithRing=蛇人原始戒指
-tagQuestItemSlithRingDesc="这枚戒指有股挥之不去的恶臭。"
+tagQuestItemSlithRingDesc="这 枚 戒 指 有 股 挥 之 不 去 的 恶 臭 。"

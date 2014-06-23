@@ -333,10 +333,10 @@ tagCharHeaderMisc=杂项
 tagCharStatsDPS=每秒伤害
 tagCharStatsDPSDescription=每秒造成的平均伤害，不考虑敌人防御。
 
-tagCharStatsArmorTotal=护甲等级
-tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}奖励由所有非护甲装备的加和整除护甲栏位的个数而得。
-tagCharStatsHitArmor=击中几率
-tagCharStatsArmorUnprotected=无护甲
+tagCharStatsArmorTotal=护 甲 等 级
+tagCharStatsArmorTotalDescription=护 甲 等 级 越 高 ， 受 到 的 物 理 伤 害 就 越 少 。{^n}{^n}奖 励 由 所 有 非 护 甲 装 备 的 加 和 整 除 护 甲 栏 位 的 个 数 而 得 。
+tagCharStatsHitArmor=击 中 几 率
+tagCharStatsArmorUnprotected=无 护 甲
 tagCharStatsArmorNA=N/A
 tagCharStatsArmorBonus=奖励：
 tagCharStatsArmorHead=头部：

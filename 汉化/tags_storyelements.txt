@@ -125,33 +125,33 @@ tagRiftRandom01=冥灵传送门
 #World Map Labels
 
 tagWorldMapBurrwitchEstates=伯尔维治{^n}庄园
-tagWorldMapAbandonedWaterFront=废弃{^n}码头
-tagWorldMapBurrwitchVillage=伯尔维治{^n}村
-tagWorldMapHallowedHill=神圣{^n}丘陵
-tagWorldMapMudRow=泥泞{^n}街道
-tagWorldMapMolderingFields=腐坏{^n}田地
+tagWorldMapAbandonedWaterFront=废弃码头
+tagWorldMapBurrwitchVillage=伯尔维治村
+tagWorldMapHallowedHill=神圣丘陵
+tagWorldMapMudRow=泥泞街道
+tagWorldMapMolderingFields=腐坏田地
 tagWorldMapBurrwitchGraveyard=伯尔维治{^n}墓园
 tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
-tagWorldMapTheFoggyBank=迷雾{^n}河畔
-tagWorldMapSoddenHollow=湿润{^n}山谷
+tagWorldMapTheFoggyBank=迷雾河畔
+tagWorldMapSoddenHollow=湿润山谷
 tagWorldMapWightmire=尸妖泥沼
 tagWorldMapTheOldDump=古旧{^n}垃圾场
-tagWorldMapBurialHill=殓葬{^n}山
-tagWorldMapLowerCrossing=下游{^n}渡口
-tagWorldMapDevilsCrossing=魔鬼{^n}路口
+tagWorldMapBurialHill=殓葬山
+tagWorldMapLowerCrossing=下游渡口
+tagWorldMapDevilsCrossing=魔鬼路口
 tagWorldMapKymonsRetreat=凯蒙的{^n}隐居处
 tagWorldMapArkovianFoothills=安克维亚{^n}山麓
 tagWorldMapCrumblingWatch=Crumbling{^n}Watch
-tagWorldMapTheRockyCoast=岩石{^n}海岸
-tagWorldMapStauntonMine=斯汤顿{^n}矿洞
+tagWorldMapTheRockyCoast=岩石海岸
+tagWorldMapStauntonMine=斯汤顿矿洞
 tagWorldMapNewHarbor=新港
 tagWorldMapTheFourHills=四山
-tagWorldMapOldArkovia=古{^n}安克维亚
-tagWorldMapTheStepsOfTorment=苦痛{^n}阶梯
+tagWorldMapOldArkovia=古安克{^n}维亚
+tagWorldMapTheStepsOfTorment=苦痛阶梯
 tagWorldMapBrokenHills=破碎丘陵
 tagWorldMapTwinFalls=双子瀑布
-tagWorldMapBarrenHighlands=贫瘠{^n}高地
-tagWorldMapSmugglersPass=走私者的{^n}通道
+tagWorldMapBarrenHighlands=贫瘠高地
+tagWorldMapSmugglersPass=走私者的通道
 
 #Signs
 

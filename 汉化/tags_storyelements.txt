@@ -22,29 +22,29 @@ tagMapLaboratoryLivingQuarters=生活区
 tagMapLaboratoryInner=实验室内部
 tagMapOminousLair=险恶巢穴
 tagMapLowerCrossing=下游渡口
-tagMapHallowedHill=神圣山脉
+tagMapHallowedHill=神圣丘陵
 tagMapBurrwitchSlums=伯尔维治贫民区
 tagMapDumpingGrounds=垃圾场
 tagMapAbandonedWaterfront=废弃码头
-tagMapMerchantsRow=Merchant's Row
+tagMapMerchantsRow=商业街
 tagMapBurrwitchCenter=伯尔维治中心
 tagMapBurrwitchEstates=伯尔维治庄园
-tagMapBrokenTeeth=Broken Teeth
-tagMapDevilsSpur=Devil's Spur
-tagMapNecropolis=Necropolis
-tagMapOldGrove=Old Grove
-tagMapVoidlands=Voidlands
+tagMapBrokenTeeth=破碎之牙
+tagMapDevilsSpur=恶魔山脊
+tagMapNecropolis=大墓地
+tagMapOldGrove=古老林地
+tagMapVoidlands=虚无之地
 
-tagMapBrokenHills=破碎山脉
+tagMapBrokenHills=破碎丘陵
 tagMapOldArkovia=古安克维亚
 tagMapArkovianFoothills=安克维亚山麓
-tagMapKymons=Kymon's Retreat
-tagMapCoastRoad=Coast Road
+tagMapKymons=凯蒙的隐居处
+tagMapCoastRoad=海岸之路
 tagMapTwinFalls=双子瀑布
 tagMapFourHills=四山
-tagMapRockyCoast=Rocky Coast
+tagMapRockyCoast=岩石海岸
 tagMapNewHarbor=新港
-tagMapBarrenHighlands=Barren Highlands
+tagMapBarrenHighlands=贫瘠高地
 tagMapCrumblingWatch=CrumblingWatch
 tagMapCronleysHideout=克隆利的藏身处
 tagMapJaggedWaste=Jagged Waste
@@ -76,22 +76,22 @@ tagUGBurrwitchFloodedCellars=Flooded Cellar
 tagUGBurrwitchOutskirtsBasin=Smuggler's Basin
 tagUGFloodedPassageRuin=Sunken Reliquary
 
-tagUGArkovianFoothills01=Staunton Mine
+tagUGArkovianFoothills01=斯汤顿矿洞
 tagUGArkovianFoothills02=Spined Cove
 tagUGOldArkovia01=Hanneffy Mine
 tagUGOldArkovia02=Arkovian Undercity
 tagUGOldArkovia03=Swarming Hive
 tagUGOldArkovia04=Stirring Hive
-tagUGOldArkovia05=Cronley's Hideout
+tagUGOldArkovia05=克隆利的藏身处
 tagUGBrokenHills01=Spined Cove
-tagUGBrokenHills02=The Steps of Torment
-tagUGBrokenHills02A=Pain
-tagUGBrokenHills02B=Misery
-tagUGBrokenHills02C=Suffering
-tagUGBrokenHills02D=Anguish
+tagUGBrokenHills02=苦痛阶梯
+tagUGBrokenHills02A=痛苦
+tagUGBrokenHills02B=不幸
+tagUGBrokenHills02C=折磨
+tagUGBrokenHills02D=悲恸
 tagUGBrokenHills02E=Uroboruuk's Torment
 tagUGBrokenHills03=Forsaken Den
-tagUGBrokenHills04=Smuggler's Pass
+tagUGBrokenHills04=走私者的通道
 tagUGBrokenHills05=Screeching Hollow
 
 #Riftgate Names
@@ -101,57 +101,57 @@ tagRiftLowerCrossing=下游渡口传送门
 tagRiftBurrwitchRoad=迷雾河畔传送门
 tagRiftWightmire=尸妖泥沼传送门
 tagRiftFloodedPassage=洪水通道传送门
-tagRiftBurrwitchOutskirts=Burrwitch Outskirts Rift
-tagRiftBurrwitchVillage=Burrwitch Village Rift
-tagRiftWardensCellar=Warden's Cellar Rift
-tagRiftWardensLabratory01=Underground Transit Rift
-tagRiftWardensLabratory02=Warden's Laboratory Rift
+tagRiftBurrwitchOutskirts=伯尔维治庄园传送门
+tagRiftBurrwitchVillage=伯尔维治村传送门
+tagRiftWardensCellar=典狱长的地窖传送门
+tagRiftWardensLabratory01=地下通道传送门
+tagRiftWardensLabratory02=典狱长的实验室传送门
 
-tagRiftBrokenHills=Broken Hills Rift
-tagRiftOldArkovia=Old Arkovia Rift
-tagRiftArkovianFoothills=Arkovian Foothills Rift
-tagRiftCronleysHideout=Cronley's Hideout Rift
-tagRiftTwinFalls=Twin Falls Rift
+tagRiftBrokenHills=破碎丘陵传送门
+tagRiftOldArkovia=古安克维亚传送门
+tagRiftArkovianFoothills=安克维亚山麓传送门
+tagRiftCronleysHideout=克隆利的藏身处传送门
+tagRiftTwinFalls=双子瀑布传送门
 tagRiftHighPass=High Pass Rift
 tagRiftJaggedWaste=Jagged Waste Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
 tagRiftAlpineRoad=Alpine Road Rift
 
-tagRiftWitheringFields=Withering Fields Rift
-tagRiftHomestead=Homestead Rift
+tagRiftWitheringFields=干枯农田传送门
+tagRiftHomestead=霍姆斯特德传送门
 
-tagRiftRandom01=Chthonic Rift
+tagRiftRandom01=冥灵传送门
 
 #World Map Labels
 
-tagWorldMapBurrwitchEstates=Burrwitch{^n}Estates
-tagWorldMapAbandonedWaterFront=Abandoned{^n}Waterfront
-tagWorldMapBurrwitchVillage=Burrwitch{^n}Village
-tagWorldMapHallowedHill=Hallowed{^n}Hill
-tagWorldMapMudRow=Mud{^n}Row
-tagWorldMapMolderingFields=Moldering{^n}Fields
-tagWorldMapBurrwitchGraveyard=Burrwitch{^n}Graveyard
-tagWorldMapBurrwitchOutskirts=Burrwitch{^n}Outskirts
-tagWorldMapTheFoggyBank=The Foggy{^n}Bank
-tagWorldMapSoddenHollow=Sodden{^n}Hollow
-tagWorldMapWightmire=Wightmire
-tagWorldMapTheOldDump=The Old{^n}Dump
-tagWorldMapBurialHill=Burial{^n}Hill
-tagWorldMapLowerCrossing=Lower{^n}Crossing
-tagWorldMapDevilsCrossing=Devil's{^n}Crossing
-tagWorldMapKymonsRetreat=Kymon's{^n}Retreat
-tagWorldMapArkovianFoothills=Arkovian{^n}Foothills
+tagWorldMapBurrwitchEstates=伯尔维治{^n}庄园
+tagWorldMapAbandonedWaterFront=废弃{^n}码头
+tagWorldMapBurrwitchVillage=伯尔维治{^n}村
+tagWorldMapHallowedHill=神圣{^n}丘陵
+tagWorldMapMudRow=泥泞{^n}街道
+tagWorldMapMolderingFields=腐坏{^n}田地
+tagWorldMapBurrwitchGraveyard=伯尔维治{^n}墓园
+tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
+tagWorldMapTheFoggyBank=迷雾{^n}河畔
+tagWorldMapSoddenHollow=湿润{^n}山谷
+tagWorldMapWightmire=尸妖泥沼
+tagWorldMapTheOldDump=古旧{^n}垃圾场
+tagWorldMapBurialHill=殓葬{^n}山
+tagWorldMapLowerCrossing=下游{^n}渡口
+tagWorldMapDevilsCrossing=魔鬼{^n}路口
+tagWorldMapKymonsRetreat=凯蒙的{^n}隐居处
+tagWorldMapArkovianFoothills=安克维亚{^n}山麓
 tagWorldMapCrumblingWatch=Crumbling{^n}Watch
-tagWorldMapTheRockyCoast=The Rocky{^n}Coast
-tagWorldMapStauntonMine=Staunton{^n}Mine
-tagWorldMapNewHarbor=New{^n}Harbor
-tagWorldMapTheFourHills=The Four{^n}Hills
-tagWorldMapOldArkovia=Old{^n}Arkovia
-tagWorldMapTheStepsOfTorment=The Steps{^n}Of Torment
-tagWorldMapBrokenHills=Broken Hills
-tagWorldMapTwinFalls=Twin Falls
-tagWorldMapBarrenHighlands=Barren{^n}Highlands
-tagWorldMapSmugglersPass=Smuggler's{^n}Pass
+tagWorldMapTheRockyCoast=岩石{^n}海岸
+tagWorldMapStauntonMine=斯汤顿{^n}矿洞
+tagWorldMapNewHarbor=新港
+tagWorldMapTheFourHills=四山
+tagWorldMapOldArkovia=古{^n}安克维亚
+tagWorldMapTheStepsOfTorment=苦痛{^n}阶梯
+tagWorldMapBrokenHills=破碎丘陵
+tagWorldMapTwinFalls=双子瀑布
+tagWorldMapBarrenHighlands=贫瘠{^n}高地
+tagWorldMapSmugglersPass=走私者的{^n}通道
 
 #Signs
 
@@ -558,7 +558,7 @@ tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They c
 
 #Guards
 
-tagNPC_GateGuardA01=Rook - Gate Keeper
+tagNPC_GateGuardA01=鲁克 - 看门人
 
 
 #Merchants and Other Services
@@ -585,10 +585,10 @@ tagNPC_MerchantT01=Roving Dealer
 tagStoreTitle_MerchantT01=Roving Dealer
 
 tagNPC_SmugglerA01=Carlile
-tagStoreTitle_SmugglerA01=Smuggler
+tagStoreTitle_SmugglerA01=走私犯
 
 tagNPC_ReallocatorA01=Mullone
-tagStoreTitle_ReallocatorA01=Spirit Guide
+tagStoreTitle_ReallocatorA01=灵魂向导
 
 tagNPC_InventorA01=Darlet
 tagStoreTitle_InventorA01=Inventor
@@ -601,10 +601,10 @@ tagStoreDesc_SmithA01_3=
 tagStoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
 tagNPC_SmithA02=Duncan
-tagStoreTitle_SmithA02=Arcane Blacksmith
+tagStoreTitle_SmithA02=玄秘铁匠
 tagStoreDesc_SmithA02_1={}Arcane Forging
 tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and armor with arcane properties.
 tagStoreDesc_SmithA02_3= 
 tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
-tagStoreTitle_SmithA03=Blacksmith
+tagStoreTitle_SmithA03=铁匠

@@ -46,15 +46,15 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。士兵最不擅长的是假装英勇无畏和领导别人。
+tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。
 
-tagSkillClassDescription02=Pyrotechnic masters of the imperial army; Demolitionists are{^n}part engineer; part sorcerer. They were used to break enemy{^n}ranks and breach fortifications with their devastating array{^n}of explosives and destructive magic. They usually prefer to{^n}fight at range; engaging enemies with guns, traps and explosives{^n}but they can also be proficient with melee weapons.
+tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 被 用 于 使 用 他 们 可 怕 的 一 系 列 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 在 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 使 用 近 战 武 器 。
 
-tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch{^n}power, the Occultist's craft focuses heavily on summoning and{^n}borrowed powers granted by the three witch "gods" Bysmiel,{^n}Solael and Dreeg. Their diverse arts include abhorrent curses{^n}and spells that inflict damage with poison, acid, and entropic{^n}energy. Excelling with neither sword nor gun, they can use{^n}either to augment their offense.
+tagSkillClassDescription03=曾 近 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。
 
-tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装。他们精通所有兵器，但更令人畏惧的是他们赖以为生的，刀刀致命的剑术。夜刃不适合面对面地硬撼强敌，他要么依靠幻象快速接近敌人，发动毁灭性的的攻势，要么远距离投射幽光刃。
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幽 光 刃 。
 
-tagSkillClassDescription05=对于秘术师来说，魔法的显现根本就是不是什么秘密，也不是什么神的旨意，而是一门需要研究的学问。这种对知识的渴求让所有秘术师都渴望发明新法术，然后用自己的名字为之命名。秘术师随意糅合虚灵和各种元素的能量，创造出了许多能毁灭一支小型军队的法术。不过，使用了如此强大的力量，防守起来自是力不从心。
+tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
 
 tagSkillClassDescription06=
 
@@ -149,7 +149,7 @@ tagClass01SkillDescription17=进 入 极 度 灵 敏 的 状 态 来 发 动 闪
 
 
 tagClass01SkillName09C=坚守
-tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
+tagClass01SkillDescription09C=强 大 的 领 导 力 有 助 于 维 持 战 斗 中 的 士 气 与 队 形 ， 使 你 和 你 的 盟 友 在 本 该 绝 望 的 情 况 下 也 能 占 据 优 势 。
 tagClass01SkillName05C=死亡之弧
 tagClass01SkillDescription05C=极 大 地 增 强 刀 锋 横 扫 的 威 力 并 提 升 其 击 中 目 标 个 数 。
 
@@ -158,23 +158,23 @@ tagClass01SkillDescription05C=极 大 地 增 强 刀 锋 横 扫 的 威 力 �
 #Class02
 
 tagClass02SkillName00A=爆破者
-tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的地狱。
+tagClass02SkillDescription00A=科 学 与 魔 法 相 结 合 的 专 业 技 能 在 战 场 上 释 放 炽 热 的 地 狱 。
 
-tagClass02SkillName01A=Grenado
-tagClass02SkillDescription01A=The grenado is a recent invention that has quickly grown in use on the battlefield where it has evened the playing field between sorcerous manipulation and conventional weaponry.
-tagClass02SkillName01B=High Impact
-tagClass02SkillDescription01B=An improved design on the standard Grenado causes it to explode with intense heat and gives it a chance to inflict devastating physical harm.
-tagClass02SkillName01C=Skyfire Grenado
-tagClass02SkillDescription01C=When just exploding an enemy is not enough, this alchemical alteration to Grenado's chemistry unleashes a maelstrom of electricity upon detonation.
+tagClass02SkillName01A=手榴弹
+tagClass02SkillDescription01A=手 榴 弹 是 一 项 被 快 速 普 及 应 用 于 战 场 的 近 代 发 明 ， 使 战 场 上 的 巫 术 操 控 和 常 规 武 器 间 的 较 量 得 到 了 平 衡 .
+tagClass02SkillName01B=高热冲击
+tagClass02SkillDescription01B=在 标 准 手 榴 弹 上 的 改 进 设 计 使 它 爆 发 出 炽 热 并 有 机 会 造 成 可 怕 的 物 理 伤 害 。
+tagClass02SkillName01C=天火手榴弹
+tagClass02SkillDescription01C=当 仅 仅 炸 到 一 个 敌 人 并 不 足 够 时 ， 这 项 对 手 榴 弹 化 学 成 分 的 炼 金 改 造 能 在 引 爆 后 释 放 电 力 漩 涡 。
 
-tagClass02SkillName02A=Flashbang
-tagClass02SkillDescription02A=A blinding light temporarily confuses enemies and disrupts their ability to defend themselves.
-tagClass02SkillName02B=Searing Light
-tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce their ability to land attacks.
+tagClass02SkillName02A=闪光弹
+tagClass02SkillDescription02A=一 道 致 盲 闪 光 暂 时 使 敌 人 陷 入 混 乱 并 破 坏 他 们 防 护 自 身 的 能 力 。
+tagClass02SkillName02B=灼热之光
+tagClass02SkillDescription02B=烙 进 敌 人 视 网 膜 的 残 像 弱 化 他 们 造 成 伤 害 的 能 力 。
 
-tagClass02SkillName03A=Fire Strike
-tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. When used as your default weapon attack, Fire Strike inflicts additional physical and fire damage.
-tagClass02SkillName03B=Explosive Strike
+tagClass02SkillName03A=火力冲击
+tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 艺 引 发 军 事 攻 击 燃 烧 敌 人 周 围 的 空 气 。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 力 打 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
+tagClass02SkillName03B=爆炸冲击
 tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict great physical harm.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
 tagClass02SkillName03C=Static Strike
 tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.

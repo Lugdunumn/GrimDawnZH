@@ -640,53 +640,53 @@ tagHeadD010=大法师的宽檐帽
 
 #ArmorShoulders
 
-tagShoulderA001=Spaulders
-tagShoulderA002=Mantle
-tagShoulderA003=Shoulderguard
-tagShoulderA004=Epaulets
-tagShoulderA005=Shoulderplates
-tagShoulderA006=Pauldrons
+tagShoulderA001=肩甲
+tagShoulderA002=披风
+tagShoulderA003=护肩
+tagShoulderA004=肩章
+tagShoulderA005=护肩甲
+tagShoulderA006=肩铠
 
-tagShoulderB001=Incendiary Spaulders
-tagShoulderB002=Incendiary Shoulderplates
-tagShoulderB003=Ascended Spaulders
-tagShoulderB004=Ascended Shoulderplates
-tagShoulderB005=Murderer's Spaulders
-tagShoulderB006=Murderer's Epaulets
-tagShoulderB007=Isaac's Spaulders
+tagShoulderB001=燃烧肩甲
+tagShoulderB002=燃烧护肩甲
+tagShoulderB003=攀登者肩甲
+tagShoulderB004=攀登者护肩甲
+tagShoulderB005=凶手的肩甲
+tagShoulderB006=凶手的肩章
+tagShoulderB007=艾萨克的肩甲
 
-tagShoulderC001=Razorback's Spined Mantle
-tagShoulderC001Desc="Stitched together from the carcass of Razorback."
-tagShoulderC002=Astral Mantle
-tagShoulderC003=Warlord's Spaulders
-tagShoulderC004=Guardsman's Spaulders
-tagShoulderC005=Grenadier Shoulderguard
-tagShoulderC005Desc="Seared and shredded by shrapnel, this shoulderguard nevertheless retains much of its protective qualities."
-tagShoulderC006=Mantle of the Weeping Eye
+tagShoulderC001=猎魔刺骨披风
+tagShoulderC001Desc="与猎魔的尸体连接在一起。"
+tagShoulderC002=星光披风
+tagShoulderC003=军阀的肩甲
+tagShoulderC004=卫兵的肩甲
+tagShoulderC005=掷弹兵护肩
+tagShoulderC005Desc="Seared and shredded by shrapnel, this 护肩 nevertheless retains much of its protective qualities."
+tagShoulderC006=披风 of the Weeping Eye
 tagShoulderC006Desc="Symbolic garment of a secretive order eradicated during the reign of the Arcanist King, Samuel Drake."
-tagShoulderC007=Shellshock Epaulets
-tagShoulderC008=Decorated Pauldrons
-tagShoulderC009=Mantle of the Patron
-tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
-tagShoulderC010=Shoulderguards of Redemption
-tagShoulderC011=Sharpshooter's Cover
+tagShoulderC007=弹震症肩章
+tagShoulderC008=装饰肩铠
+tagShoulderC009=庇护者披风
+tagShoulderC009Desc="A 披风 of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
+tagShoulderC010=救赎护肩
+tagShoulderC011=神枪手的护罩
 tagShoulderC012=不洁圣约之护肩
-tagShoulderC013=Shouldeguard of the Paragon
-tagShoulderC014=Dawnguard Epaulets
+tagShoulderC013=百诺肯护肩
+tagShoulderC014=黎明守卫肩章
 
-tagShoulderD001=Fateweaver's Mantle
-tagShoulderD001Desc="The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
-tagShoulderD002=Templar's Pauldrons
-tagShoulderD002Desc="Pauldrons bestowed upon initiates who had risen to the full rank of Templar."
-tagShoulderD003=Bloodfury Spaulders
-tagShoulderD004=Shadowflame Mantle
-tagShoulderD005=Titan Pauldrons
-tagShoulderD005Desc="The markings on these pauldrons are as if from another era."
-tagShoulderD006=Shoulderguards of Justice
+tagShoulderD001=织命女的披风
+tagShoulderD001Desc="命运的股绳，就像无尽的编制，缠绕和磨损着人的岁月。"
+tagShoulderD002=圣殿肩铠
+tagShoulderD002Desc="肩铠赐予达到圣殿满秩的信徒。"
+tagShoulderD003=血腥魔女肩甲
+tagShoulderD004=暗影烈焰披风
+tagShoulderD005=泰坦肩铠
+tagShoulderD005Desc="在这些肩铠上的标记好像来自另一个纪元。"
+tagShoulderD006=正义护肩
 tagShoulderD007=野兽召唤师的护肩
-tagShoulderD008=Dawnbreaker's Shoulderguard
-tagShoulderD009=Wildblood Mantle
-tagShoulderD010=Archamge's Mantle
+tagShoulderD008=黎明破坏者的护肩
+tagShoulderD009=狂野之血披风
+tagShoulderD010=大法师的披风
 
 
 #ArmorTorso

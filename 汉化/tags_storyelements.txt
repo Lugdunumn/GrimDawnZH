@@ -45,54 +45,54 @@ tagMapFourHills=四山
 tagMapRockyCoast=岩石海岸
 tagMapNewHarbor=新港
 tagMapBarrenHighlands=贫瘠高地
-tagMapCrumblingWatch=CrumblingWatch
+tagMapCrumblingWatch=瞭望塔遗迹
 tagMapCronleysHideout=克隆利的藏身处
-tagMapJaggedWaste=Jagged Waste
-tagMapDeadmansGulch=Deadman's Gulch
-tagMapHighpass=High Pass
-tagMapAlpineRoad=Alpine Road
+tagMapJaggedWaste=锯齿荒地
+tagMapDeadmansGulch=亡者峡谷
+tagMapHighpass=高地山口
+tagMapAlpineRoad=高山道路
 
-tagMapLedgewood01=Ledgewood
-tagMapWitheringFields01=Withering Fields
+tagMapLedgewood01=利奇伍德
+tagMapWitheringFields01=干枯田地
 tagMapHomestead01=霍姆斯特德
 
 #Underground Names
 
-tagUGLowerCrossingRatDen01=Putrid Den
-tagUGBurrwitchVillageRatDen01=Festering Lair
-tagUGCellar01=Forgotten Cellar
-tagUGCellar02=Depraved Sanctuary
-tagBurrwitchCellar01=Infested Cellar
-tagBurrwitchCellar02=Dank Cellar
-tagBurrwitchCellar03=Musty Cellar
-tagWightmireCellar01=Cultist's Lair
-tagBurrwitchRiverCave=River Passage
-tagUGBurialCave=The Burial Cave
-tagUGWightmireCave01=Cavern
-tagUGDevilsCrossingAquifer=Devil's Aquifer
-tagUGDevilsCrossingDungeon01=Prison Dungeons
-tagUGDevilsCrossingHiddenPassage01=Convict's Tunnel
-tagUGBurrwitchFloodedCellars=Flooded Cellar
-tagUGBurrwitchOutskirtsBasin=Smuggler's Basin
-tagUGFloodedPassageRuin=Sunken Reliquary
+tagUGLowerCrossingRatDen01=腐败兽穴
+tagUGBurrwitchVillageRatDen01=溃烂巢穴
+tagUGCellar01=被遗忘的地窖
+tagUGCellar02=堕落圣殿
+tagBurrwitchCellar01=感染地窖
+tagBurrwitchCellar02=阴湿地窖
+tagBurrwitchCellar03=发霉地窖
+tagWightmireCellar01=邪教徒藏身处
+tagBurrwitchRiverCave=河流通道
+tagUGBurialCave=殓葬洞穴
+tagUGWightmireCave01=洞窟
+tagUGDevilsCrossingAquifer=恶魔含水层
+tagUGDevilsCrossingDungeon01=监牢地下城
+tagUGDevilsCrossingHiddenPassage01=罪犯隧道
+tagUGBurrwitchFloodedCellars=浸没的地窖
+tagUGBurrwitchOutskirtsBasin=走私者的水潭
+tagUGFloodedPassageRuin=沉没圣地
 
 tagUGArkovianFoothills01=斯汤顿矿洞
-tagUGArkovianFoothills02=Spined Cove
-tagUGOldArkovia01=Hanneffy Mine
-tagUGOldArkovia02=Arkovian Undercity
-tagUGOldArkovia03=Swarming Hive
-tagUGOldArkovia04=Stirring Hive
+tagUGArkovianFoothills02=脊状峡谷
+tagUGOldArkovia01=汉内法矿洞
+tagUGOldArkovia02=安克维亚地下城
+tagUGOldArkovia03=分群蜂巢
+tagUGOldArkovia04=活跃蜂巢
 tagUGOldArkovia05=克隆利的藏身处
-tagUGBrokenHills01=Spined Cove
+tagUGBrokenHills01=脊状峡谷
 tagUGBrokenHills02=苦痛阶梯
 tagUGBrokenHills02A=痛苦
 tagUGBrokenHills02B=不幸
 tagUGBrokenHills02C=折磨
 tagUGBrokenHills02D=悲恸
-tagUGBrokenHills02E=Uroboruuk's Torment
-tagUGBrokenHills03=Forsaken Den
+tagUGBrokenHills02E=犹若波拉克的折磨
+tagUGBrokenHills03=废弃兽穴
 tagUGBrokenHills04=走私者的通道
-tagUGBrokenHills05=Screeching Hollow
+tagUGBrokenHills05=尖啸山谷
 
 #Riftgate Names
 
@@ -112,12 +112,12 @@ tagRiftOldArkovia=古安克维亚传送门
 tagRiftArkovianFoothills=安克维亚山麓传送门
 tagRiftCronleysHideout=克隆利的藏身处传送门
 tagRiftTwinFalls=双子瀑布传送门
-tagRiftHighPass=High Pass Rift
-tagRiftJaggedWaste=Jagged Waste Rift
-tagRiftDeadmansGulch=Deadman's Gulch Rift
-tagRiftAlpineRoad=Alpine Road Rift
+tagRiftHighPass=高地山口传送门
+tagRiftJaggedWaste=锯齿荒地传送门
+tagRiftDeadmansGulch=亡者峡谷传送门
+tagRiftAlpineRoad=高山道路传送门
 
-tagRiftWitheringFields=干枯农田传送门
+tagRiftWitheringFields=干枯田地传送门
 tagRiftHomestead=霍姆斯特德传送门
 
 tagRiftRandom01=冥灵传送门
@@ -141,7 +141,7 @@ tagWorldMapLowerCrossing=下游渡口
 tagWorldMapDevilsCrossing=魔鬼路口
 tagWorldMapKymonsRetreat=凯蒙的{^n}隐居处
 tagWorldMapArkovianFoothills=安克维亚{^n}山麓
-tagWorldMapCrumblingWatch=Crumbling{^n}Watch
+tagWorldMapCrumblingWatch=瞭望塔遗迹
 tagWorldMapTheRockyCoast=岩石海岸
 tagWorldMapStauntonMine=斯汤顿矿洞
 tagWorldMapNewHarbor=新港
@@ -155,254 +155,254 @@ tagWorldMapSmugglersPass=走私者的通道
 
 #Signs
 
-tagSign_BurialHill=Burial Hill
-tagSign_DevilsCrossing=Devil's Crossing
-tagSign_Wightmire=Wightmire
-tagSign_Burrwitch=Burrwitch Village
-tagSign_Malmouth=Malmouth
-tagSign_BrokenHills=Broken Hills
-tagSign_CoastRoad=Arkovian Foothills
-tagSign_EastMarsh=East Marsh
-tagSign_Homestead=Homestead
-tagSign_MistyVale=Misty Vale
-tagSign_RockyCoast=Old Arkovia
-tagSign_FoothillsVillage=Kymon's Retreat
+tagSign_BurialHill=殓葬山
+tagSign_DevilsCrossing=魔鬼路口
+tagSign_Wightmire=尸妖泥沼
+tagSign_Burrwitch=伯尔维治村
+tagSign_Malmouth=马尔茅斯
+tagSign_BrokenHills=破碎丘陵
+tagSign_CoastRoad=安克维亚山麓
+tagSign_EastMarsh=东部沼泽
+tagSign_Homestead=霍姆斯特德
+tagSign_MistyVale=雾色河谷
+tagSign_RockyCoast=古安克维亚
+tagSign_FoothillsVillage=凯蒙的隐居处
 
-tagSign_OldGrove=Old Grove
+tagSign_OldGrove=古老林地
 
-tagGravestone_OldArkovia01=Here Lies: Robert
-tagGravestone_OldArkovia02=Here Lies: Rockford
-tagGravestone_OldArkovia03=Here Lies: Ryan
+tagGravestone_OldArkovia01=这里埋葬着：罗伯特
+tagGravestone_OldArkovia02=这里埋葬着：洛克福德
+tagGravestone_OldArkovia03=这里埋葬着：瑞恩
 
 #Points of Interest
 
-tagPOI001A=Entrance
-tagPOI001B=Exit
-tagPOI002A=Stairs Down
-tagPOI002B=Stairs Up
-tagPOI003A=Cave Entrance
-tagPOI003B=Cave Exit
-tagPOI004A=River Crossing
-tagPOI005A=Wasp Nest Entrance
-tagPOI005B=Wasp Nest Exit
-tagPOI006A=Ancient Ruins Entrance
-tagPOI006B=Ancient Ruins Exit
-tagPOI007A=Mine Entrance
-tagPOI007B=Mine Exit
+tagPOI001A=入口
+tagPOI001B=出口
+tagPOI002A=下层阶梯
+tagPOI002B=上层阶梯
+tagPOI003A=洞穴入口
+tagPOI003B=洞穴出口
+tagPOI004A=渡口
+tagPOI005A=蜂巢入口
+tagPOI005B=蜂巢出口
+tagPOI006A=古代遗迹入口
+tagPOI006B=古代遗迹出口
+tagPOI007A=矿洞入口
+tagPOI007B=矿洞出口
 
-tagPOIFloodedPassageA=Flooded Passage Entrance
-tagPOIFloodedPassageB=Flooded Passage Exit
-tagPOICaveBurialHillA=Burial Hill Entrance
-tagPOICaveBurialHillB=Burial Hill Exit
-tagPOIPrisonCellarA=Prison Cellar Access
-tagPOIWardensCellarA=Warden's Cellar Entrance
-tagPOIWardensCellarB=Warden's Cellar Exit
-tagPOIUndergroundTransitA=Underground Transit Entrance
-tagPOIUndergroundTransitB=Underground Transit Exit
-tagPOIArkovianFoothillsMineA=Staunton Mine Entrance
-tagPOIArkovianFoothillsMineB=Staunton Mine Exit
-tagPOIHomesteadPassageMineA=Smuggler's Pass Entrance
-tagPOIHomesteadPassageMineB=Smuggler's Pass Exit
-tagPOIOldArkoviaRuinsA=Arkovian Undercity Entrance
-tagPOIOldArkoviaRuinsB=Arkovian Undercity Exit
-tagPOIOldArkoviaRuins2A=Arkovian Undercity (Floor 2) Entrance
-tagPOIOldArkoviaRuins2B=Arkovian Undercity (Floor 2) Exit
-tagPOIOldArkoviaRuins3A=Arkovian Undercity (Floor 3) Entrance
-tagPOIOldArkoviaRuins3B=Arkovian Undercity (Floor 3) Exit
-tagPOIBrokenHillsMylesCaveA=Myles' Hideout Entrance
-tagPOIBrokenHillsMylesCaveB=Forsaken Den Exit
-tagPOIOldArkoviaMineA=Cronley's Hideout Eentrance
-tagPOIOldArkoviaMineB=Cronley's Hideout Exit
-tagPOIFesteringLairA=Festering Lair Entrance
-tagPOIFesteringLairB=Festering Lair Exit
+tagPOIFloodedPassageA=洪水通道入口
+tagPOIFloodedPassageB=洪水通道出口
+tagPOICaveBurialHillA=殓葬山入口
+tagPOICaveBurialHillB=殓葬山出口
+tagPOIPrisonCellarA=监牢入口
+tagPOIWardensCellarA=典狱长的地窖入口
+tagPOIWardensCellarB=典狱长的地窖出口
+tagPOIUndergroundTransitA=地下通道入口
+tagPOIUndergroundTransitB=地下通道出口
+tagPOIArkovianFoothillsMineA=斯汤顿矿洞入口
+tagPOIArkovianFoothillsMineB=斯汤顿矿洞出口
+tagPOIHomesteadPassageMineA=走私者的通道入口
+tagPOIHomesteadPassageMineB=走私者的通道出口
+tagPOIOldArkoviaRuinsA=安克维亚地下城入口
+tagPOIOldArkoviaRuinsB=安克维亚地下城出口
+tagPOIOldArkoviaRuins2A=安克维亚地下城(第二层)入口
+tagPOIOldArkoviaRuins2B=安克维亚地下城(第二层)出口
+tagPOIOldArkoviaRuins3A=安克维亚地下城(第三层)入口
+tagPOIOldArkoviaRuins3B=安克维亚地下城(第三层)出口
+tagPOIBrokenHillsMylesCaveA=迈尔斯的藏身处入口
+tagPOIBrokenHillsMylesCaveB=废弃兽穴出口
+tagPOIOldArkoviaMineA=克隆利的藏身处入口
+tagPOIOldArkoviaMineB=克隆利的藏身处出口
+tagPOIFesteringLairA=溃烂巢穴入口
+tagPOIFesteringLairB=溃烂巢穴出口
 
-tagPOIStepsOfTorment1A=Steps of Torment Entrance
-tagPOIStepsOfTorment1B=Steps of Torment Exit
-tagPOIStepsOfTorment2A=Steps of Torment (Floor 2) Entrance
-tagPOIStepsOfTorment2B=Steps of Torment (Floor 2) Exit
-tagPOIStepsOfTorment3A=Steps of Torment (Floor 3) Entrance
-tagPOIStepsOfTorment3B=Steps of Torment (Floor 3) Exit
-tagPOIStepsOfTorment4A=Steps of Torment (Floor 4) Entrance
-tagPOIStepsOfTorment4B=Steps of Torment (Floor 4) Exit
-tagPOIStepsOfTorment5A=Steps of Torment (Floor 5) Entrance
-tagPOIStepsOfTorment5B=Steps of Torment (Floor 5) Exit
+tagPOIStepsOfTorment1A=苦痛阶梯入口
+tagPOIStepsOfTorment1B=苦痛阶梯出口
+tagPOIStepsOfTorment2A=苦痛阶梯(第二层)入口
+tagPOIStepsOfTorment2B=苦痛阶梯(第二层)出口
+tagPOIStepsOfTorment3A=苦痛阶梯(第三层)入口
+tagPOIStepsOfTorment3B=苦痛阶梯(第三层)出口
+tagPOIStepsOfTorment4A=苦痛阶梯(第四层)入口
+tagPOIStepsOfTorment4B=苦痛阶梯(第四层)出口
+tagPOIStepsOfTorment5A=苦痛阶梯(第五层)入口
+tagPOIStepsOfTorment5B=苦痛阶梯(第五层)出口
 
-tagPOIQuest_Burrwitch=Secure the Burrwitch Riftgate
-tagPOIQuest_WardenLab=Find the Warden's Lab
-tagPOIQuest_ArkovianFoothills=Enter the Arkovian Foothills
-tagPOIQuest_Elsa=Find Elsa
-tagPOIQuestHomestead=Homestead
-tagPOIQuestHomesteadBridge=Twin Falls Bridge
-tagPOIQuestHomesteadTown=Homestead Town
-tagPOIQuest_Sacrifice=Isaac's Stash
-tagPOIQuest_StrangeKey=The Depraved Sanctuary
+tagPOIQuest_Burrwitch=清理伯尔维治传送门
+tagPOIQuest_WardenLab=找到典狱长的实验室
+tagPOIQuest_ArkovianFoothills=进入安克维亚山麓
+tagPOIQuest_Elsa=找到艾尔莎
+tagPOIQuestHomestead=霍姆斯特德
+tagPOIQuestHomesteadBridge=双子瀑布桥
+tagPOIQuestHomesteadTown=霍姆斯特德镇
+tagPOIQuest_Sacrifice=艾萨克的宝藏
+tagPOIQuest_StrangeKey=堕落圣殿
 
 
 #Notifications
 
-tagNotification_WightmireBurialCaveFound=The source of the Dead is near...
-tagNotification_WightmireReanimatorFound=A creature is reanimating corpses!
-tagNotification_WightmireCaravanFound=This carnage looks recent...
-tagNotification_WightmireCaravanDriverFound=A prisoner calls for help!
-tagNotification_InventoryBagAcquired=Inventory Bag Acquired!
-tagNotification_BurrwitchRiftgateEvent=The Riftgate is swarming with enemies!
-tagNotification_BurrwitchRiftgateSecured=The Burrwitch Riftgate is clear of enemies!
-tagNotification_WardenCellarFound=This must be the Warden's Cellar...
-tagNotification_WardenLabFound=A laboratory, the Warden must be nearby...
-tagNotification_LostApprenticeCellar=Someone has been here recently...
-tagNotification_LostApprenticeFound=Kasparov's apprentice is here!
+tagNotification_WightmireBurialCaveFound=离死尸之源已经不远了……
+tagNotification_WightmireReanimatorFound=一只生物正在复生尸体！
+tagNotification_WightmireCaravanFound=这场屠杀刚发生过不久……
+tagNotification_WightmireCaravanDriverFound=一位俘虏在呼救！
+tagNotification_InventoryBagAcquired=得到储物袋！
+tagNotification_BurrwitchRiftgateEvent=裂缝传送门正在产生敌人！
+tagNotification_BurrwitchRiftgateSecured=伯尔维治的传送门已经被清理干净了！
+tagNotification_WardenCellarFound=这一定就是典狱长的地窖了……
+tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
+tagNotification_LostApprenticeCellar=有人最近来过这儿……
+tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
 
-tagNotification_HS_RemoveTheHead_ElsaFound=It appears that Cronley does not have Elsa...
-tagNotification_HS_SpoilsOfTheGrimDawn=You have scoured the old ruins.
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=You have found the bridge connecting Old Arkovia to Homestead.
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=You have discovered an alternate route to Homestead.
-tagNotification_HS_WeNeedFood_HomesteadRegionFound=You have discovered Homestead.
-tagNotification_HS_WeNeedFood_HomesteadTownFound=You have discovered the Homestead town.
-tagNotification_HS_OldArkoviaPassagesCompleted=You have completed the Arkovian Passage and examined its contents.
-tagNotification_HS_OldArkoviaPassagesBossKilled=You acquire a piece of the Tainted One's shattered soul!
+tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
+tagNotification_HS_SpoilsOfTheGrimDawn=你搜寻到了古老的遗迹。
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=你找到了连接古安克维亚与霍姆斯特德的桥。
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=你发现了去往霍姆斯特德的另一条路。
+tagNotification_HS_WeNeedFood_HomesteadRegionFound=你找到了霍姆斯特德。
+tagNotification_HS_WeNeedFood_HomesteadTownFound=你找到了霍姆斯特德镇。
+tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
+tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
 
-tagNotification_WarningToughArea=A presence far more powerful than you dwells within this place...
-tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
+tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这个地方……
+tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门的连接……
 
 #NPC Names
 
-tagNPC_JohnBourbon=Captain John Bourbon
-tagNPC_Kasparov=Kasparov
-tagNPC_Harmond=Harmond
-tagNPC_Barnabas=Barnabas
-tagNPC_SybilHart=Sybil Hart
-tagNPC_LutherGraves=Luther Graves
-tagNPC_Ulgrim=Ulgrim
+tagNPC_JohnBourbon=约翰·波旁队长
+tagNPC_Kasparov=卡斯帕罗夫
+tagNPC_Harmond=哈蒙德
+tagNPC_Barnabas=巴纳巴斯
+tagNPC_SybilHart=西比尔·哈特
+tagNPC_LutherGraves=卢瑟·格雷夫斯
+tagNPC_Ulgrim=厄尔格姆
 
-tagNPC_Direni=Direni
-tagNPC_CaptiveInventor=Darlet
+tagNPC_Direni=狄瑞尼
+tagNPC_CaptiveInventor=达莱特
 
-tagNPC_GuardA04=McCaul - Watchman
-tagNPC_Guard_DCRanged01=Mainard - Watchman
-tagNPC_Guard_DCRanged02=Russ - Watchman
-tagNPC_Guard_DCMelee01=Brigs - Watchman
-tagNPC_Guard_DCMelee02=Oxley - Watchman
-tagNPC_BountyBoard=Devil's Crossing Bounty Board
+tagNPC_GuardA04=守卫-麦考尔 
+tagNPC_Guard_DCRanged01=守卫-梅纳德
+tagNPC_Guard_DCRanged02=守卫-拉斯
+tagNPC_Guard_DCMelee01=守卫-布瑞格斯
+tagNPC_Guard_DCMelee02=守卫-奥克斯利
+tagNPC_BountyBoard=魔鬼路口悬赏
 
-tagNPC_Guard_Female01=Guardian
-tagNPC_Guard_Female02=Ranger
+tagNPC_Guard_Female01=守卫
+tagNPC_Guard_Female02=突击手
 
-tagNPC_DevilsCrossing_01=Jasper
-tagNPC_DevilsCrossing_02=Captive Rover
-tagNPC_DevilsCrossing_03=Isaac
-tagNPC_DevilsCrossing_04=Torven
-tagNPC_DevilsCrossing_05=Kuldo
+tagNPC_DevilsCrossing_01=贾斯伯
+tagNPC_DevilsCrossing_02=俘虏罗弗
+tagNPC_DevilsCrossing_03=艾萨克
+tagNPC_DevilsCrossing_04=托尔文
+tagNPC_DevilsCrossing_05=库尔多
 
-tagNPC_Homestead_01=Minova
-tagNPC_Homestead_02=Darius Cronley
+tagNPC_Homestead_01=米诺娃
+tagNPC_Homestead_02=德莱厄斯·克隆利
 tagNPC_Homestead_03=
-tagNPC_Homestead_04=Drew Larkin
-tagNPC_Homestead_05=Edmund "Shanks" Doyle
-tagNPC_Homestead_06=Elizabeth Skinner
-tagNPC_Homestead_07=Isaiah Reddan
-tagNPC_Homestead_08=Josephine Reddan
+tagNPC_Homestead_04=德鲁·拉金
+tagNPC_Homestead_05=“长腿”埃德蒙·道尔
+tagNPC_Homestead_06=伊丽莎白·斯金纳
+tagNPC_Homestead_07=以赛亚·瑞丹
+tagNPC_Homestead_08=约瑟芬·瑞丹
 tagNPC_Homestead_09=
-tagNPC_Homestead_10=Milah Skinner
-tagNPC_Homestead_11=Myles Finegan
+tagNPC_Homestead_10=米拉·斯金纳
+tagNPC_Homestead_11=迈尔斯·法恩根
 tagNPC_Homestead_12=
 tagNPC_Homestead_13=
 tagNPC_Homestead_14=
-tagNPC_Homestead_15=Stephen Skinner
-tagNPC_Homestead_16=Mornay
-tagNPC_Homestead_17=Elsa
+tagNPC_Homestead_15=史蒂芬·斯金纳
+tagNPC_Homestead_16=莫尔奈
+tagNPC_Homestead_17=艾尔莎
 tagNPC_Homestead_18=
 tagNPC_Homestead_19=
 tagNPC_Homestead_20=
-tagNPC_Homestead_21=Bernard
-tagNPC_Homestead_22=Alicia
-tagNPC_Homestead_23=Silas
-tagNPC_Homestead_24=Greven
-tagNPC_Homestead_25=Elder Mathias
-tagNPC_Homestead_26=Quade
-tagNPC_Homestead_27=Eva
-tagNPC_Homestead_28=Hiram
-tagNPC_Homestead_29=Kalderos
-tagNPC_Homestead_30=Balvoruuk
+tagNPC_Homestead_21=伯纳德
+tagNPC_Homestead_22=艾丽西亚
+tagNPC_Homestead_23=塞拉斯
+tagNPC_Homestead_24=格雷文
+tagNPC_Homestead_25=埃尔德·马赛亚斯
+tagNPC_Homestead_26=奎德
+tagNPC_Homestead_27=艾娃
+tagNPC_Homestead_28=海勒姆
+tagNPC_Homestead_29=卡尔德罗斯
+tagNPC_Homestead_30=巴尔沃拉克
 
-tagNPC_Necropolis_01=Angela Harrington
-tagNPC_Necropolis_02=Douglass Sullivan Oldbarrow
-tagNPC_Necropolis_03=Lord Reginald Marrowbane
-tagNPC_Necropolis_04=Morris Burton
-tagNPC_Necropolis_05=Samantha Colton
-tagNPC_Necropolis_06=Stanley Larsen
-tagNPC_Necropolis_07=Nathan
-tagNPC_Necropolis_08=Jonas
-
-
-tagNPC_DetonationSite=Detonation Site
-
-tagNPC_BrokenHillsBridge=Arkovian Foothills Bridge Repair Site
-tagNPC_OldGroveBridge=Old Grove Bridge Repair Site
-tagNPC_HomesteadBridge=Twin Falls Bridge Repair Site
-tagNPC_WightmireBridge=Wightmire Bridge Repair Site
-tagNPC_BurrwitchBridge=Burrwitch Bridge Repair Site
+tagNPC_Necropolis_01=安吉拉·哈林顿
+tagNPC_Necropolis_02=道格拉斯·沙利文·古冢
+tagNPC_Necropolis_03=洛德·雷金纳德·马洛贝恩
+tagNPC_Necropolis_04=莫里斯·波顿
+tagNPC_Necropolis_05=萨曼莎·科尔顿
+tagNPC_Necropolis_06=斯坦利·拉森
+tagNPC_Necropolis_07=内森
+tagNPC_Necropolis_08=乔纳斯
 
 
-tagNPC_JosephClaxton=Joseph Claxton
-tagNPC_MariaFletcher=Maria Fletcher
-tagNPC_NathanielGage=Nathaniel Gage
-tagNPC_ByronHale=Byron Hale
-tagNPC_AliciaDrake=Alicia Drake
-tagNPC_OliverLott=Oliver Lott
-tagNPC_SybilGreene=Sybil Greene
+tagNPC_DetonationSite=爆破点
+
+tagNPC_BrokenHillsBridge=安克维亚山麓桥梁修理处
+tagNPC_OldGroveBridge=古老林地桥梁修理处
+tagNPC_HomesteadBridge=双子瀑布桥梁修理处
+tagNPC_WightmireBridge=尸妖泥沼桥梁修理处
+tagNPC_BurrwitchBridge=伯尔维治桥梁修理处
+
+
+tagNPC_JosephClaxton=约瑟夫·克莱斯顿
+tagNPC_MariaFletcher=玛利亚·弗莱彻
+tagNPC_NathanielGage=纳撒尼尔·盖奇
+tagNPC_ByronHale=拜伦·黑尔
+tagNPC_AliciaDrake=艾丽西亚·德雷克
+tagNPC_OliverLott=奥利弗·洛特
+tagNPC_SybilGreene=西比尔·格林
 
 
 #Flavor NPC Names
 
-tagNPC_Jailor=Hangman Jarvis
-tagNPC_Villager=Villager
-tagNPC_Flavor_DevilsCrossing01=Constance
-tagNPC_Flavor_DevilsCrossing02=Jane
-tagNPC_Flavor_DevilsCrossing03=Alex
-tagNPC_Flavor_DevilsCrossing04=Gertrude
-tagNPC_Flavor_DevilsCrossing05=Marcus
-tagNPC_Flavor_DevilsCrossing06=Darian
+tagNPC_Jailor=刽子手·贾维斯
+tagNPC_Villager=村民
+tagNPC_Flavor_DevilsCrossing01=康斯坦茨
+tagNPC_Flavor_DevilsCrossing02=简
+tagNPC_Flavor_DevilsCrossing03=阿莱克斯
+tagNPC_Flavor_DevilsCrossing04=格特鲁德
+tagNPC_Flavor_DevilsCrossing05=马库斯
+tagNPC_Flavor_DevilsCrossing06=达里安
 
 tagNPC_Flavor_Homestead_01=
 tagNPC_Flavor_Homestead_02=
-tagNPC_Flavor_Homestead_03=Helen Fletcher
-tagNPC_Flavor_Homestead_04=Julius Cole
+tagNPC_Flavor_Homestead_03=海伦·弗莱彻
+tagNPC_Flavor_Homestead_04=朱利叶斯·科尔
 tagNPC_Flavor_Homestead_05=
-tagNPC_Flavor_Homestead_06=Jebediah
-tagNPC_Flavor_Homestead_07=Oscar
-tagNPC_Flavor_Homestead_08=Judith
-tagNPC_Flavor_Homestead_09=Oscar Jr.
-tagNPC_Flavor_Homestead_10=Injured Rover
-tagNPC_Flavor_Homestead_11=Amkala
-tagNPC_Flavor_Homestead_12=Horace
+tagNPC_Flavor_Homestead_06=杰贝代亚
+tagNPC_Flavor_Homestead_07=奥斯卡
+tagNPC_Flavor_Homestead_08=朱迪斯
+tagNPC_Flavor_Homestead_09=小奥斯卡
+tagNPC_Flavor_Homestead_10=受伤的流浪者
+tagNPC_Flavor_Homestead_11=阿卡拉
+tagNPC_Flavor_Homestead_12=贺拉斯
 
-tagNPC_Flavor_Necropolis_01=Dean Oldbarrow
-tagNPC_Flavor_Necropolis_02=Denny Oldbarrow
-tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
+tagNPC_Flavor_Necropolis_01=迪恩·古冢
+tagNPC_Flavor_Necropolis_02=丹尼·古冢
+tagNPC_Flavor_Necropolis_03=玛利亚·古冢
 
 
 #Quest Items
 
-tagQuestItemHartsAmulet_Name=Hart's Amulet
-tagQuestItemHartsAmulet_Text="To my dear brother: May this amulet keep you strong in battle. -Sybil"
+tagQuestItemHartsAmulet_Name=哈特的项链
+tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 兄 弟 ： 希 望 这 项 链 能 在 战 场 上 保 佑 你 。-西 比 尔”
 
-tagQuestItemCultistKey_Name=A Strange Key
-tagQuestItemCultistKey_Text="The key is marked with many strange runes and depraved symbols characteristic of the cult of Ch'thon."
-tagQuestItemDirections_Name=Direni's Directions
+tagQuestItemCultistKey_Name=奇特的钥匙
+tagQuestItemCultistKey_Text=“这 把 钥 匙 标 注 着 冥 神 麾 下 邪 教 徒 所 使 用 的 诸 多 奇 异 符 文 和 堕 落 符 号 。”
+tagQuestItemDirections_Name=狄瑞尼的指引
 tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
 
-tagQuestChestLostJournal=Dusty Lectern
-tagQuestItemLostJournal_Name=Cultist Orders
+tagQuestChestLostJournal=积灰的诵经台
+tagQuestItemLostJournal_Name=邪教徒的命令
 tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
 
-tagQuestItemDynamite=Dynamite
+tagQuestItemDynamite=炸药
 tagQuestItemDynamiteDesc="A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
-tagQuestItemSupplies=Supply Crate
-tagQuestItemSuppliesDesc="A crate filled with valuable materials and non-perishable goods."
-tagQuestItemSlithNecklace=Slith Necklace
-tagQuestItemSlithNecklaceDesc="Carried by Slith Shamans, for only they know what."
-tagQuestItemFabric=Fabric
-tagQuestItemFabricDesc="A little worn and stained, but otherwise in good condition."
+tagQuestItemSupplies=补给箱
+tagQuestItemSuppliesDesc=“装 满 了 有 价 值 的 材 料 和 不 易 腐 坏 食 物 的 板 条 箱 。”
+tagQuestItemSlithNecklace=蛇人项链
+tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 所 戴 的 项 链 ， 只 有 它 们 才 明 白 有 什 么 用 。”
+tagQuestItemFabric=织物
+tagQuestItemFabricDesc=“有 点 旧 有 点 脏 ， 但 是 其 他 方 面 都 挺 好 。”
 
 tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
 tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
@@ -558,53 +558,53 @@ tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They c
 
 #Guards
 
-tagNPC_GateGuardA01=鲁克 - 看门人
+tagNPC_GateGuardA01=守门人-鲁克 
 
 
 #Merchants and Other Services
 
-tagNPC_MerchantA01=Roan
-tagStoreTitle_MerchantA01=Salvage Dealer
+tagNPC_MerchantA01=罗恩
+tagStoreTitle_MerchantA01=收集品商人
 
-tagNPC_MerchantA02=Kerrick
-tagStoreTitle_MerchantA02=Salvage Dealer
+tagNPC_MerchantA02=克里克
+tagStoreTitle_MerchantA02=收集品商人
 
-tagNPC_MerchantA03=Luther Graves
-tagStoreTitle_MerchantA03=Shady Dealer
+tagNPC_MerchantA03=卢瑟·格雷夫斯
+tagStoreTitle_MerchantA03=赃物贩子
 
-tagNPC_MerchantB01=Benny the Vagrant
-tagStoreTitle_MerchantB01=Connoisseur of Illicit Goods
+tagNPC_MerchantB01=游民本尼
+tagStoreTitle_MerchantB01=违禁物鉴赏家
 
-tagNPC_MerchantB02=Morris Burton
-tagStoreTitle_MerchantB02=Rare Goods
+tagNPC_MerchantB02=莫里斯·波顿
+tagStoreTitle_MerchantB02=稀有货物商人
 
-tagNPC_MerchantC01=Marris Kas
-tagStoreTitle_MerchantC01=Wares of the Lost
+tagNPC_MerchantC01=马里斯·卡斯
+tagStoreTitle_MerchantC01=遗失货物商人
 
-tagNPC_MerchantT01=Roving Dealer
-tagStoreTitle_MerchantT01=Roving Dealer
+tagNPC_MerchantT01=流动商人
+tagStoreTitle_MerchantT01=流动商人
 
-tagNPC_SmugglerA01=Carlile
-tagStoreTitle_SmugglerA01=走私犯
+tagNPC_SmugglerA01=卡莱尔
+tagStoreTitle_SmugglerA01=走私者
 
-tagNPC_ReallocatorA01=Mullone
+tagNPC_ReallocatorA01=马隆
 tagStoreTitle_ReallocatorA01=灵魂向导
 
-tagNPC_InventorA01=Darlet
-tagStoreTitle_InventorA01=Inventor
+tagNPC_InventorA01=达莱特
+tagStoreTitle_InventorA01=发明家
 
-tagNPC_SmithA01=Angrim
-tagStoreTitle_SmithA01=Forgemaster
-tagStoreDesc_SmithA01_1={}Practiced Skill
-tagStoreDesc_SmithA01_2=Angrim uses his many years of experience to forge deadly weapons and fortify armor.
+tagNPC_SmithA01=安格瑞姆
+tagStoreTitle_SmithA01=锻造大师
+tagStoreDesc_SmithA01_1={}精湛技艺
+tagStoreDesc_SmithA01_2=安格瑞姆运用他多年的经验打造出夺命的武器和坚不可摧的护甲。
 tagStoreDesc_SmithA01_3= 
-tagStoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
-tagNPC_SmithA02=Duncan
+tagNPC_SmithA02=邓肯
 tagStoreTitle_SmithA02=玄秘铁匠
-tagStoreDesc_SmithA02_1={}Arcane Forging
-tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and armor with arcane properties.
+tagStoreDesc_SmithA02_1={}玄秘锻造
+tagStoreDesc_SmithA02_2=邓肯运用实验性的技术为武器和护甲注入魔力
 tagStoreDesc_SmithA02_3= 
-tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一：
 
 tagStoreTitle_SmithA03=铁匠

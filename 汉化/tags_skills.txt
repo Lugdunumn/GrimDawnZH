@@ -175,17 +175,17 @@ tagClass02SkillDescription02B=烙 进 敌 人 视 网 膜 的 残 像 弱 化 �
 tagClass02SkillName03A=火力冲击
 tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 艺 引 发 军 事 攻 击 燃 烧 敌 人 周 围 的 空 气 。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 力 打 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
 tagClass02SkillName03B=爆炸冲击
-tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict great physical harm.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
-tagClass02SkillName03C=Static Strike
-tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
-tagClass02SkillName03D=Splinter
-tagClass02SkillDescription03D=Further improves upon Fire Strike, adding piercing shrapnel and enhancing its fiery payload. ^oRanged attacks will also splinter into molten fragments.
+tagClass02SkillDescription03B=提 高 火 力 冲 击 的 效 力 ， 有 几 率 造 成 大 量 物 理 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
+tagClass02SkillName03C=静态冲击
+tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 力 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
+tagClass02SkillName03D=火力裂片
+tagClass02SkillDescription03D=对 火 力 冲 击 的 进 一 步 改 进 ， 增 加 穿 甲 弹 片 并 增 强 它 的 火 热 负 载 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
 
-tagClass02SkillName04A=Canister Bomb
-tagClass02SkillDescription04A=An explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. 
-tagClass02SkillName04B=Improved Casing
-tagClass02SkillDescription04B=An adjustment to the Canister Bomb's casing improves its concussive power, inflicting internal trauma on enemies and slowing them down; all in an even larger blast radius.
-tagClass02SkillName04C=Piercing Blast
+tagClass02SkillName04A=碳罐炸弹
+tagClass02SkillDescription04A=填 装 了 更 多 爆 炸 物 的 炸 药 ， 这 项 恐 怖 的 发 明 能 够 击 垮 一 整 片 敌 人 。
+tagClass02SkillName04B=改良外壳
+tagClass02SkillDescription04B=对 碳 罐 炸 弹 外 壳 的 调 整 增 强 了 其 震 荡 威 力 ， 对 敌 人 造 成 持 续 创 伤 并 使 其 减 速 ； 还 拥 有 更 大 的 爆 炸 范 围 。
+tagClass02SkillName04C=穿透爆炸
 tagClass02SkillDescription04C=A more efficient packing technique adds piercing shrapnel and increases the fiery devastation of Canister Bomb.
 
 tagClass02SkillName05A=Mortar Trap

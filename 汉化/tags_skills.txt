@@ -164,7 +164,7 @@ tagClass02SkillName01A=手榴弹
 tagClass02SkillDescription01A=手 榴 弹 是 一 项 被 快 速 普 及 应 用 于 战 场 的 近 代 发 明 ， 使 战 场 上 的 巫 术 操 控 和 常 规 武 器 间 的 较 量 得 到 了 平 衡 .
 tagClass02SkillName01B=高热冲击
 tagClass02SkillDescription01B=在 标 准 手 榴 弹 上 的 改 进 设 计 使 它 爆 发 出 炽 热 并 有 机 会 造 成 可 怕 的 物 理 伤 害 。
-tagClass02SkillName01C=天火手榴弹
+tagClass02SkillName01C=天火手雷
 tagClass02SkillDescription01C=当 仅 仅 炸 到 一 个 敌 人 并 不 足 够 时 ， 这 项 对 手 榴 弹 化 学 成 分 的 炼 金 改 造 能 在 引 爆 后 释 放 电 力 漩 涡 。
 
 tagClass02SkillName02A=闪光弹

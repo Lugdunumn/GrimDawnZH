@@ -370,57 +370,57 @@ tagShieldA003=斗盾
 tagShieldA004=塔盾
 tagShieldA005=防暴盾
 tagShieldA006=战盾
-tagShieldA007=羊皮盾
-tagShieldA008=步兵盾
-tagShieldA009=轻圆盾
-tagShieldA010=筝型盾
+tagShieldA007=圣盾
+tagShieldA008=轻圆盾
+tagShieldA009=步兵盾
+tagShieldA010=鸢盾
 
 tagShieldB001=典狱长的壁垒
 tagShieldB001Desc="用 硬 化 钢 与 无 情 仇 恨 锻 造 而 成 。"
 tagShieldB002=典狱长的堡垒
-tagShieldB003=幽灵盾
-tagShieldB004=幽灵战盾
-tagShieldB005=战斗盾牌
-tagShieldB006=攻城盾牌
-tagShieldB007=君主盾牌
+tagShieldB003=幽光盾
+tagShieldB004=幽光战盾
+tagShieldB005=军用盾
+tagShieldB006=攻城盾
+tagShieldB007=君权盾
 
 tagShieldC001=魔鬼路口防御者
 tagShieldC002=源质
-tagShieldC002Desc="获 得 巨 石 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
+tagShieldC002Desc="获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
 tagShieldC003=卫兵的防御者
 tagShieldC004=火焰破坏者
 tagShieldC005=魔鬼笑容
-tagShieldC006=野兽之胃
+tagShieldC006=野兽之喉
 tagShieldC007=黑暗军团盾徽
 tagShieldC007Desc="由 帝 国 军 队 中 也 被 称 为 死 神 的 封 臣 的 黑 暗 军 团 所 持 有 。"
 tagShieldC008=巫妖守卫
 tagShieldC009=黎明碎片壁垒
-tagShieldC009Desc="Forged from the purest shard of soladrin crystal."
-tagShieldC010=Templar's Faith
-tagShieldC011=Shield of Redemption
-tagShieldC012=Oathbreaker's Guard
+tagShieldC009Desc=“以 最 纯 净 的 索 拉 丁 水 晶 碎 片 锻 造 而 成 。”
+tagShieldC010=圣殿骑士的信仰
+tagShieldC011=救赎之盾
+tagShieldC012=毁誓者的守护
 
-tagShieldD001=Meat Shield
-tagShieldD001Desc="Necromantic shield molded from the chest cavity of an unfortunate peasant."
-tagShieldD002=The Final Stop
-tagShieldD002Desc="Forged by railyard workers during a desparate battle against the rising Chthonian forces."
-tagShieldD003=The Untouchable
-tagShieldD004=Will of the Living
-tagShieldD004Desc="Formerly  the King's Crest, this shield was reborn in Chthonian flame as a paragon of mankind."
-tagShieldD005=Dawnbreaker's Duty
+tagShieldD001=血肉之盾
+tagShieldD001Desc=“用 一 位 不 幸 农 夫 的 胸 腔 塑 性 而 成 的 死 灵 之 盾 。”
+tagShieldD002=终点站
+tagShieldD002Desc=“在 一 场 对 抗 冥 灵 势 力 的 绝 望 战 斗 中 ， 由 筑 路 工 人 所 打 造 的 盾 牌 。”
+tagShieldD003=不可触碰
+tagShieldD004=生存意志
+tagShieldD004Desc=“它 曾 是 君 王 的 盾 形 徽 章 ， 作 为 人 类 不 屈 的 典 范 在 冥 灵 的 烈 火 中 重 生 为 一 面 盾 牌 。”
+tagShieldD005=破晓者的使命
 
 
-tagQualityShieldA01=Scrapmetal
-tagQualityShieldA02=Rusty
-tagQualityShieldA03=Improvised
-tagQualityShieldA04=Tarnished
-tagQualityShieldA05=Raider
-tagQualityShieldA06=Fortified
-tagQualityShieldA07=Weathered
-tagQualityShieldA08=Reinforced
-tagQualityShieldA09=Assault
-tagQualityShieldA10=Imperial
-tagQualityShieldA11=Exalted
+tagQualityShieldA01=废铁
+tagQualityShieldA02=生锈
+tagQualityShieldA03=简易
+tagQualityShieldA04=晦暗
+tagQualityShieldA05=追击
+tagQualityShieldA06=强固
+tagQualityShieldA07=风化
+tagQualityShieldA08=强化
+tagQualityShieldA09=突袭
+tagQualityShieldA10=帝国
+tagQualityShieldA11=尊崇
 
 
 #Focus 聚能法器
@@ -441,43 +441,43 @@ tagFocusA011=原始魔杖
 tagFocusA012=怪异魔杖
 tagFocusA014=怪异魔杖
 
-tagFocusB001=Zarthuzellan's Codex
-tagFocusB001Desc="Filled with fiery invocations to consecrate the nonbelievers."
-tagFocusB002=Rolderathis' Tome
-tagFocusB002Desc="Words within this tome chill your heart with their maddening hatred."
-tagFocusB003A=Glyphed Archive
-tagFocusB003B=Occult Horn
-tagFocusB004A=Glyphed Spellbook
-tagFocusB004B=Occult Skull
-tagFocusB005A=Glyphed Tome
-tagFocusB005B=Occult Wand
+tagFocusB001=扎尔萨兰的手抄本
+tagFocusB001Desc=“写 满 了 各 种 为 神 奉 献 无 信 仰 者 的 火 焰 邪 术 。”
+tagFocusB002=罗德拉西斯的宝典
+tagFocusB002Desc=“书 中 带 有 令 人 发 狂 仇 恨 的 词 句 让 你 感 到 寒 心 彻 骨 。”
+tagFocusB003A=秘文档案
+tagFocusB003B=奥秘之角
+tagFocusB004A=秘文魔法书
+tagFocusB004B=奥秘头骨
+tagFocusB005A=秘文宝典
+tagFocusB005B=奥秘魔杖
 
-tagFocusC001=Dementia
-tagFocusC002=Crushing Will
-tagFocusC003=Maiven's Tome
-tagFocusC004=Heretic's Tome
-tagFocusC005=Malformed Effigy
-tagFocusC006=Banshee's Misery
-tagFocusC006Desc="Wails of misery emanate from this tome with every page turn."
-tagFocusC007=Wyrmclaw
-tagFocusC008=Black Grimoire of Og'Napesh
-tagFocusC008Desc="The dark writings of Og'Napesh, condemned necromancer."
-tagFocusC009=Edrick's Backscratcher
-tagFocusC010=Sacred Texts of Menhir
-tagFocusC010Desc="Scripture once carried by the devout knights of Menhir."
-tagFocusC011=Nocturnis
+tagFocusC001=狂乱
+tagFocusC002=粉碎意志
+tagFocusC003=麦文的宝典
+tagFocusC004=异端宝典
+tagFocusC005=畸形傀儡
+tagFocusC006=女妖之痛
+tagFocusC006Desc=“书 中 每 一 页 都 发 出 悲 惨 的 哀 嚎 。”
+tagFocusC007=龙爪
+tagFocusC008=奥格纳佩什的黑魔法书
+tagFocusC008Desc=“奥 格 纳 佩 什 ， 被 判 处 死 刑 的 死 灵 法 师 ， 写 下 了 这 部 黑 暗 的 著 作 。”
+tagFocusC009=埃德里克的抓耙子
+tagFocusC010=曼海尔的圣典
+tagFocusC010Desc=“曾 由 曼 海 尔 虔 诚 的 骑 士 所 携 带 的 圣 经 。”
+tagFocusC011=暗夜
 tagFocusC012=圣约的引能宝珠
 
-tagFocusD001=Fiend's Resolve
-tagFocusD002=Aldanar's Vanity
-tagFocusD003=Codex of Lies
-tagFocusD003Desc="Forbidden texts of the witch god Solael, as recorded by Cabalist Hester Maughan."
-tagFocusD004=Tome of Names
-tagFocusD004Desc="This book contains the names of every mortal that ever was and ever will be."
-tagFocusD005=Blood Orb of Cht'thon
-tagFocusD005Desc="Fanatical cabalists swear that a drop of their ancient god's blood is contained within this orb."
-tagFocusD006=Speaker for the Dead
-tagFocusD006Desc="A compilation of poems and religious texts intended for burial rites."
+tagFocusD001=魔鬼决心
+tagFocusD002=艾达娜的虚荣
+tagFocusD003=谎言手抄本
+tagFocusD003Desc=“由 秘 术 师 海 丝 特·莫 恩 所 记 录 下 来 的 ， 巫 神 索 拉 尔 的 违 禁 文 字 。”
+tagFocusD004=名册
+tagFocusD004Desc=“这 本 书 写 着 每 个 过 去 与 未 来 的 凡 人的 姓 名 。”
+tagFocusD005=冥神血珠
+tagFocusD005Desc=“狂 热 的 异 教 徒 佩 戴 着 这 枚 包 含 冥 神 血 滴 的 法 珠 。”
+tagFocusD006=亡者之语
+tagFocusD006Desc=“用 于 葬 礼 的 诗 集 与 宗 教 文 本 的 汇 编 文 集 。”
 tagFocusD007=大法师的手抄本
 
 
@@ -640,53 +640,53 @@ tagHeadD010=大法师的宽檐帽
 
 #ArmorShoulders
 
-tagShoulderA001=Spaulders
-tagShoulderA002=Mantle
-tagShoulderA003=Shoulderguard
-tagShoulderA004=Epaulets
-tagShoulderA005=Shoulderplates
-tagShoulderA006=Pauldrons
+tagShoulderA001=肩甲
+tagShoulderA002=披肩
+tagShoulderA003=护肩
+tagShoulderA004=肩饰
+tagShoulderA005=肩胄
+tagShoulderA006=肩铠
 
-tagShoulderB001=Incendiary Spaulders
-tagShoulderB002=Incendiary Shoulderplates
-tagShoulderB003=Ascended Spaulders
-tagShoulderB004=Ascended Shoulderplates
-tagShoulderB005=Murderer's Spaulders
-tagShoulderB006=Murderer's Epaulets
-tagShoulderB007=Isaac's Spaulders
+tagShoulderB001=烈火肩甲
+tagShoulderB002=烈火肩胄
+tagShoulderB003=升灵肩甲
+tagShoulderB004=升灵肩胄
+tagShoulderB005=凶徒肩甲
+tagShoulderB006=凶徒肩饰
+tagShoulderB007=艾萨克的肩甲
 
-tagShoulderC001=Razorback's Spined Mantle
-tagShoulderC001Desc="Stitched together from the carcass of Razorback."
-tagShoulderC002=Astral Mantle
-tagShoulderC003=Warlord's Spaulders
-tagShoulderC004=Guardsman's Spaulders
-tagShoulderC005=Grenadier Shoulderguard
-tagShoulderC005Desc="Seared and shredded by shrapnel, this shoulderguard nevertheless retains much of its protective qualities."
-tagShoulderC006=Mantle of the Weeping Eye
-tagShoulderC006Desc="Symbolic garment of a secretive order eradicated during the reign of the Arcanist King, Samuel Drake."
-tagShoulderC007=Shellshock Epaulets
-tagShoulderC008=Decorated Pauldrons
-tagShoulderC009=Mantle of the Patron
-tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
-tagShoulderC010=Shoulderguards of Redemption
-tagShoulderC011=Sharpshooter's Cover
-tagShoulderC012=不洁圣约之护肩
-tagShoulderC013=Shouldeguard of the Paragon
-tagShoulderC014=Dawnguard Epaulets
+tagShoulderC001=剃刀背的尖刺披肩
+tagShoulderC001Desc=“用 剃 刀 背 的 尸 体 缝 制 而 成 。”
+tagShoulderC002=星光披肩
+tagShoulderC003=军阀的肩甲
+tagShoulderC004=帝国卫兵的肩甲
+tagShoulderC005=掷弹兵护肩
+tagShoulderC005Desc=“历 经 弹 片 的 灼 烧 与 切 割 ， 这 件 护 肩 却 依 然 保 留 着 大 部 分 防 护 能 力 。”
+tagShoulderC006=哭泣之眼披肩
+tagShoulderC006Desc=“一 支 神 秘 教 团 的 标 志 性 服 饰 ， 此 教 团 已 在 秘 法 师 王 塞 缪 尔·德 雷 克 执 政 期 间 被 铲 除 。”
+tagShoulderC007=弹震症肩饰
+tagShoulderC008=盛饰肩铠
+tagShoulderC009=守护者披肩
+tagShoulderC009Desc=“巫 神 俾 斯 麦 尔 赐 予 其 凡 人 追 随 者 的 披 肩 ， 由 风 暴 巨 鸦 的 羽 毛 制 成 。”
+tagShoulderC010=救赎护肩
+tagShoulderC011=神射手的披风
+tagShoulderC012=不洁圣约的护肩
+tagShoulderC013=秘术典范的护肩
+tagShoulderC014=黎明守卫肩饰
 
-tagShoulderD001=Fateweaver's Mantle
-tagShoulderD001Desc="The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
-tagShoulderD002=Templar's Pauldrons
-tagShoulderD002Desc="Pauldrons bestowed upon initiates who had risen to the full rank of Templar."
-tagShoulderD003=Bloodfury Spaulders
-tagShoulderD004=Shadowflame Mantle
-tagShoulderD005=Titan Pauldrons
-tagShoulderD005Desc="The markings on these pauldrons are as if from another era."
-tagShoulderD006=Shoulderguards of Justice
+tagShoulderD001=命运编织者披肩
+tagShoulderD001Desc=“命 运 的 股 绳 ，就 像 无 尽 的 编 织 ， 缠 绕 和 磨 损 着 人 的 岁 月 。”
+tagShoulderD002=圣殿骑士的肩铠
+tagShoulderD002Desc=“肩 铠 赐 予 位 列 顶 尖 圣 殿 骑 士 的 信 徒 。”
+tagShoulderD003=血怒肩甲
+tagShoulderD004=暗影烈焰披风
+tagShoulderD005=泰坦肩铠
+tagShoulderD005Desc=“这 件 肩 铠 上 的 标 记 好 像 来 自 另 一 个 纪 元 。”
+tagShoulderD006=正义护肩
 tagShoulderD007=野兽召唤师的护肩
-tagShoulderD008=Dawnbreaker's Shoulderguard
-tagShoulderD009=Wildblood Mantle
-tagShoulderD010=Archamge's Mantle
+tagShoulderD008=黎明破坏者的护肩
+tagShoulderD009=狂野之血披肩
+tagShoulderD010=大法师的披肩
 
 
 #ArmorTorso
@@ -1097,7 +1097,7 @@ tagMedalC009=Vanguard Star
 tagMedalC010=Badge of the Crimson Company
 tagMedalC010Desc="Symbol of the Crimson Company, a ruthlessly effective mercenary group."
 tagMedalC011=Menhir's Sign
-tagMedalC012=不洁圣约之印记
+tagMedalC012=不洁圣约的印记
 tagMedalC013=Ribbon of Valiance
 
 tagMedalD001=Mark of the Apostate
@@ -1511,13 +1511,13 @@ tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
 
 #ItemComponents
 
-tagComponentIncomplete=部分部件
+tagComponentIncomplete=部件碎片
 tagComponentComplete=完整部件
 tagComponentNumber={%s0 - %d1 / %d2}
 tagComponentBonus=完整奖励：
 tagComponentQualities=部件品质：
 tagComponentHelp=[右键点击以镶嵌或组合]
-tagComponentError=[无法使用 - Requirements Not Met]
+tagComponentError=[无法使用-需求未满足]
 tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=Are you sure you want to complete this combination?
 
@@ -1828,37 +1828,37 @@ tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal 
 tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc="Light but durable armor for the eager traveler."
 
-tagItemSetC003Name=Maiven's Sanctuary
-tagItemSetC003Desc="Regalia honoring the legendary Arcanist Maiven."
+tagItemSetC003Name=麦文的圣装
+tagItemSetC003Desc=“向 传 奇 般 的 秘 术 师 麦 文 致 敬 的 盛 装 。”
 
 tagItemSetC004Name=鲜血收割者的荣耀
 tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
-tagItemSetC005Name=Marauder's Justice
+tagItemSetC005Name=掠夺者的正义
 tagItemSetC005Desc="Judge, jury, and executioner."
 
 tagItemSetC006Name=使者的华服
 tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 之 使 节 所 穿 的 服 饰 。”
 
-tagItemSetC007Name=Menhir's Touch
+tagItemSetC007Name=曼海尔之触
 tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
 
-tagItemSetC008Name=Redemption
+tagItemSetC008Name=救赎
 tagItemSetC008Desc="Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
 
-tagItemSetC009Name=The Unseeing Eye
+tagItemSetC009Name=盲眼
 tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
 
-tagItemSetC010Name=Sharpshooter's Mark
+tagItemSetC010Name=神射手的徽记
 tagItemSetC010Desc="Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
 
 tagItemSetC011Name=不洁圣约
 tagItemSetC011Desc="Cabal regalia worn during unspeakable rituals."
 
-tagItemSetC012Name=Royal Exuberance
+tagItemSetC012Name=皇室奢华
 tagItemSetC012Desc="Royal collection of jewelry thought lost to the ravages of the Grim Dawn."
 
-tagItemSetC013Name=Oathbreaker
+tagItemSetC013Name=毁誓者
 tagItemSetC013Desc="Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
 
 tagItemSetC014Name=Adorments of Valiance
@@ -1867,8 +1867,8 @@ tagItemSetC014Desc="Commendations bestowed upon soldiers for heroic actions in t
 tagItemSetC015Name=Carnage
 tagItemSetC015Desc="These rings inspire bloodshed in whoever wears them."
 
-tagItemSetC016Name=The Paragon of Arcanum
-tagItemSetC016Desc="Regalia bestowed upon arcanists who had made extraordinary leaps in the understanding of the arcane."
+tagItemSetC016Name=秘术典范
+tagItemSetC016Desc=“这 套 华 服 授 予 给 在 秘 术 学 研 究 中 取 得 重 大 成 就 的  秘 术 师 。”
 
 tagItemSetC017Name=Dawnguard
 tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy faith of Menhir."
@@ -1922,11 +1922,11 @@ tagPrefixAA008=Energizing
 tagPrefixAA009=Aggressive
 tagPrefixAA010=Stalwart
 
-tagPrefixAA011=士兵之
-tagPrefixAA012=爆破师之
-tagPrefixAA013=术士之
-tagPrefixAA014=夜刃之
-tagPrefixAA015=秘术师之
+tagPrefixAA011=士兵的
+tagPrefixAA012=爆破师的
+tagPrefixAA013=术士的
+tagPrefixAA014=夜刃的
+tagPrefixAA015=秘术师的
 
 tagPrefixAA016=Restorative
 tagPrefixAA017=Subjugator's

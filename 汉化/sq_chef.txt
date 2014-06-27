@@ -1,10 +1,10 @@
-Devil's Crossing
-The Ironclad Chef
-Check on Chef
-You have successfully transported Ulgrim the Cook from the wilds and into Devil's Crossing. {^n}{^n}Speak to him and see how he is faring amongst the survivors.
+魔鬼路口
+铁甲厨师
+审查厨师
+你 成 功 的 将 厨 师 厄 尔 格 姆 从 野 外 转 移 至 魔 鬼 路 口。 {^n}{^n}跟 他 对 话 并 且 了 解 他 在 幸 存 者 中 的 表 现。
 
 
-Speak to Ulgrim the Cook in Devil's Crossing
+前往魔鬼路口和厨师厄尔格姆对话
 
 
 

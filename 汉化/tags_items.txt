@@ -1922,11 +1922,11 @@ tagPrefixAA008=Energizing
 tagPrefixAA009=Aggressive
 tagPrefixAA010=Stalwart
 
-tagPrefixAA011=士兵之
-tagPrefixAA012=爆破师之
-tagPrefixAA013=术士之
-tagPrefixAA014=夜刃之
-tagPrefixAA015=秘术师之
+tagPrefixAA011=士兵的
+tagPrefixAA012=爆破师的
+tagPrefixAA013=术士的
+tagPrefixAA014=夜刃的
+tagPrefixAA015=秘术师的
 
 tagPrefixAA016=Restorative
 tagPrefixAA017=Subjugator's

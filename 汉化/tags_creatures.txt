@@ -589,13 +589,13 @@ tagWormHeroH03=Stonespitter ~ Shielded
 
 #CreatureZombie
 
-tagEnemyZombieA01=Walking Dead
+tagEnemyZombieA01=行尸
 tagEnemyZombieB01=Wretcher
-tagEnemyZombieC01=Fury
-tagEnemyZombieD01=Cold One
+tagEnemyZombieC01=怒尸
+tagEnemyZombieD01=冻尸
 tagEnemyZombieE01=Night Terror
-tagEnemyZombieF01=Burning Dead
-tagEnemyZombieG01=Plague Walker
+tagEnemyZombieF01=燃尸
+tagEnemyZombieG01=毒尸
 tagEnemyZombieSoldierA01=Rotting Soldier
 tagEnemyZombieSoldierB01=Rotting Emberguard
 tagEnemyZombieBerserkerA01=Corpsefiend
@@ -614,7 +614,7 @@ tagZombieHeroH06=Aldanar, the Undying
 tagZombieHeroH07=Gutripper ~ Unstoppable
 tagZombieHeroH08=Teselon ~ Electrified
 tagZombieHeroH09=Blightfeast ~ Charger
-tagZombieHeroH10=Alrick Magefire
+tagZombieHeroH10=巫火 艾尔瑞克
 
 #CreatureZombieHound
 

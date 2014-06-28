@@ -361,7 +361,7 @@ tagWeaponCrossbow1hA003=滑轮弩
 tagWeaponCrossbow1hA004=连弩
 
 
-#Shields
+#Shields 盾牌
 
 tagShieldA000=木盾
 tagShieldA001=小圆盾
@@ -532,7 +532,7 @@ tagStyle014=戍边
 tagStyle015=蛮荒
 tagStyle016=奇袭
 
-tagStyle017=复原
+tagStyle017=修复
 tagStyle018=废旧
 tagStyle019=蚀刻
 tagStyle020=战用
@@ -567,7 +567,7 @@ tagArmorClass01=法袍
 tagArmorClass02=轻甲
 tagArmorClass03=重甲
 
-#ArmorHead
+#ArmorHead 头盔
 
 tagHeadA001=头盔
 tagHeadA002=无边帽
@@ -638,7 +638,7 @@ tagHeadD009=屠魔者的宽檐帽
 tagHeadD010=大法师的宽檐帽
 
 
-#ArmorShoulders
+#ArmorShoulders 肩甲
 
 tagShoulderA001=肩甲
 tagShoulderA002=披肩
@@ -689,7 +689,7 @@ tagShoulderD009=狂野之血披肩
 tagShoulderD010=大法师的披肩
 
 
-#ArmorTorso
+#ArmorTorso 护甲
 
 tagTorsoA000=Clothing
 tagTorsoA001L=Coat
@@ -759,7 +759,7 @@ tagTorsoM002=Bloodstained Tunic
 tagTorsoM003=Bloodstained Robes
 
 
-#ArmorWaist
+#ArmorWaist 腰带
 
 tagWaistA001=Cloth Strap
 tagWaistA002=Woven Cord
@@ -810,7 +810,7 @@ tagWaistD008Desc="Woven using thread spun upon the Satan's Spindle from the soul
 tagWaistD009=Wildblood Girdle
 
 
-#ArmorHands
+#ArmorHands 手套
 
 tagHandsA001=Gloves
 tagHandsA002=Vambraces
@@ -856,7 +856,7 @@ tagHandsD008=Harbinger's Grasp
 tagHandsD009=大法师的裹手
 
 
-#ArmorLegs
+#ArmorLegs 护腿
 
 tagLegsA001=Pants
 tagLegsA002=Leggings
@@ -895,7 +895,7 @@ tagLegsD007=野兽召唤师的护腿
 tagLegsD008=大法师的护腿
 
 
-#ArmorFeet
+#ArmorFeet 鞋子
 
 tagFeetA001=Footpads
 tagFeetA002=Boots
@@ -942,7 +942,7 @@ tagFeetD008=Demonslayer's Greaves
 tagFeetD009=大法师的靴子
 
 
-#Rings
+#Rings 戒指
 
 tagRingA001=Copper Band
 tagRingA002=Silver Band
@@ -1008,7 +1008,7 @@ tagRingD010=The Fist of Vengeance
 tagRingD011=大法师的玺戒 
 
 
-#Necklaces
+#Necklaces 项链
 
 tagNecklaceA001=Claw Fetish
 tagNecklaceA002=Silver Amulet
@@ -1073,7 +1073,7 @@ tagNecklaceD012=Dawnbreaker's Beacon
 tagNecklaceD013=Demonslayer's Defense
 
 
-#Medals
+#Medals 勋章
 
 tagMedalA001=Ribbon
 tagMedalA002=Badge
@@ -1114,7 +1114,7 @@ tagMedalD008=Markovian's Stratagem
 tagMedalD008Desc="Named in honor of the famed tactician Markovian, this medal was awarded to only the most distinguished generals."
 
 
-#Blueprints
+#Blueprints 设计图
 tagTestBlueprint=Blueprint: Item Name of the Awesomesauce
 tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
 
@@ -1250,7 +1250,7 @@ tagBlueprint_MiscA01Desc=An ancient crafting technique known only by a select fe
 
 tagBlueprint_MaterialA01=Blueprint: Aether Cluster
 
-#Relics
+#Relics 圣物
 
 tagDeviceBonus=Completion Bonus:
 tagDeviceTier01=Empowered
@@ -1359,7 +1359,7 @@ tagRelicD020=Menhir's Bastion
 tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood heathens. Rise up to her defense and Cairn will rise with you."
 
 
-#Crafting
+#Crafting 锻造
 tagCraftTabArtifactA=Relics
 tagCraftTabArtifactB=Talismans, relics and artifacts of great power.
 tagCraftTabMeleeA=Melee Weapons
@@ -1435,7 +1435,7 @@ tagSuppliesHelp=[Crafting Supplies are used with Blueprints]
 tagSuppliesError=
 
 
-#Consumables
+#Consumables 消耗品
 
 tagScrollDirections=[Right-Click to Consume]
 
@@ -1498,18 +1498,18 @@ tagConsumableA16=Elixir of the Hunt
 tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to better track their prey."
 
 
-#ItemNote
+#ItemNote 阅读记录
 
 tagNoteHelp=[右键点击来阅读]
 tagNoteKnown=[已读过]
 tagNoteExcerpt="{%t}.."
 
-#ItemEnchantment
+#ItemEnchantment 附魔
 
-tagEnchantmentUsable=Right click to Enchant Item.
-tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
+tagEnchantmentUsable=右键点击以附魔
+tagEnchantmentUnusable=[无法使用 - 未满足需求]
 
-#ItemComponents
+#ItemComponents 部件
 
 tagComponentIncomplete=部件碎片
 tagComponentComplete=完整部件
@@ -1519,7 +1519,7 @@ tagComponentQualities=部件品质：
 tagComponentHelp=[右键点击以镶嵌或组合]
 tagComponentError=[无法使用-需求未满足]
 tagComponentCombine=[右键点击以组合]
-tagComponentConfirmation=Are you sure you want to complete this combination?
+tagComponentConfirmation=你确定要组合成完整部件吗？
 
 tagCompA001Name=Spined Carapace
 tagCompA001Desc="A thick carapace lined with jagged spines."^w^n(Used in all armor)
@@ -1772,17 +1772,17 @@ tagCompB022Name=^kKilrian's Shattered Soul
 tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
 
 
-tagCompAetherCrystal=Aether Crystal
+tagCompAetherCrystal=虚化水晶
 tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
 
 tagCompAmmoBox=Ammunition Box
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
 
-tagCompAScrap=Scrap
+tagCompAScrap=废铁
 tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures."
 
 
-#Misc
+#Misc 杂项
 
 tagMoney01=铁币
 tagMoneyFormat={^s}{%d0}  {%s1}
@@ -1804,22 +1804,22 @@ tagPotionConstitutionB01=生命精华
 tagPotionConstitutionB01Desc=“拥 有 着 挥 之 不 去 的 生 命 能 量 ， 能 够 被 吸 收 以 回 复 体 力 。”
 
 tagPotionDirections=[右键点击以使用]
-tagCombineStacks=[While holding, right-click to combine stacks]
+tagCombineStacks=[当选取时，右键点击以合并堆叠]
 
-# Bonuses
+# Bonuses 奖励
 
-tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Life
-tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Life
-tagBonusLifeAbs={^E}Restores {^H}{%.0f0} {^E}Life
-tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
-tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
-tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
-tagBonusExperience={%+d0} Experience
+tagBonusLifePercentAbs={^E}回复 {^H}{%.0f0}% + {%.0f1} {^E}生命
+tagBonusLifePercent={^E}回复 {^H}{%.0f0}% {^E}的生命
+tagBonusLifeAbs={^E}回复 {^H}{%.0f0} {^E}生命
+tagBonusManaPercentAbs={^E}回复 {^H}{%.0f0}% + {%.0f1} {^E}能量
+tagBonusManaPercent={^E}回复 {^H}{%.0f0}% {^E}的能量
+tagBonusManaAbs={^E}回复 {^H}{%.0f0}% {^E}能量
+tagBonusExperience={%+d0} 的经验值
 tagBonusMoney={%+d0}铁币
-tagBonusSkillPoint={%+d0} Skill Points
-tagBonusAttribPoint={%+d0} Attribute Points
+tagBonusSkillPoint={%+d0} 技能点数
+tagBonusAttribPoint={%+d0} 属性点数
 
-#ItemSets
+#ItemSets 套装
 
 
 tagItemSetC001Name=帝国卫兵的戎装
@@ -1910,17 +1910,17 @@ tagItemSetD011Name=Invoker's Elements
 tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the northern wind."
 
 
-#Prefixes
+#Prefixes前缀
 
 tagPrefixAA002=启悟
-tagPrefixAA003=Luminous
-tagPrefixAA004=Shrewd
-tagPrefixAA005=Mighty
-tagPrefixAA006=Mystic
-tagPrefixAA007=Vigorous
-tagPrefixAA008=Energizing
-tagPrefixAA009=Aggressive
-tagPrefixAA010=Stalwart
+tagPrefixAA003=光耀
+tagPrefixAA004=敏锐
+tagPrefixAA005=武力
+tagPrefixAA006=神秘
+tagPrefixAA007=活力
+tagPrefixAA008=能源
+tagPrefixAA009=侵攻
+tagPrefixAA010=健壮
 
 tagPrefixAA011=士兵的
 tagPrefixAA012=爆破师的
@@ -1928,303 +1928,303 @@ tagPrefixAA013=术士的
 tagPrefixAA014=夜刃的
 tagPrefixAA015=秘术师的
 
-tagPrefixAA016=Restorative
-tagPrefixAA017=Subjugator's
-tagPrefixAA018=Wanderer's
+tagPrefixAA016=恢复
+tagPrefixAA017=征服者的
+tagPrefixAA018=漫游者的
 
-tagPrefixAA019=Tenacious
+tagPrefixAA019=坚韧
 
-tagPrefixAD001=Impenetrable
-tagPrefixAD002=Insulating
-tagPrefixAD003=Sheltering
-tagPrefixAD004=Negating
-tagPrefixAD005=Purging
-tagPrefixAD006=Impervious
-tagPrefixAD007=Impervious
-tagPrefixAD008=Impervious
-tagPrefixAD009=Impervious
-tagPrefixAD010=Resistant
-tagPrefixAD011=Resistant
-tagPrefixAD012=Resistant
-tagPrefixAD013=Resistant
-tagPrefixAD014=Resistant
-tagPrefixAD015=Resistant
-tagPrefixAD016=Preserving
-tagPrefixAD017=Ordered
-tagPrefixAD018=Warding
-tagPrefixAD019=Resolute
-tagPrefixAD020=Nullifying
-tagPrefixAD021=Prismatic
-tagPrefixAD022=Rugged
-tagPrefixAD023=Stanching
-tagPrefixAD024=Thawing
-tagPrefixAD025=Durable
-tagPrefixAD026=Enduring
-tagPrefixAD027=Impenetrable
+tagPrefixAD001=铁壁
+tagPrefixAD002=绝缘
+tagPrefixAD003=庇护
+tagPrefixAD004=否定
+tagPrefixAD005=净化
+tagPrefixAD006=磐石
+tagPrefixAD007=磐石
+tagPrefixAD008=磐石
+tagPrefixAD009=磐石
+tagPrefixAD010=抵抗
+tagPrefixAD011=抵抗
+tagPrefixAD012=抵抗
+tagPrefixAD013=抵抗
+tagPrefixAD014=抵抗
+tagPrefixAD015=抵抗
+tagPrefixAD016=防腐
+tagPrefixAD017=有序
+tagPrefixAD018=守护
+tagPrefixAD019=坚毅
+tagPrefixAD020=化解
+tagPrefixAD021=棱光
+tagPrefixAD022=凹凸
+tagPrefixAD023=止血
+tagPrefixAD024=融雪
+tagPrefixAD025=耐久
+tagPrefixAD026=弥新
+tagPrefixAD027=铁壁
 
-tagPrefixAO001=Superior
-tagPrefixAO002=Crushing
-tagPrefixAO003=Puncturing
-tagPrefixAO004=Chilled
-tagPrefixAO005=Searing
-tagPrefixAO006=Poisoned
-tagPrefixAO007=Charged
-tagPrefixAO008=Vampiric
-tagPrefixAO009=Haunted
-tagPrefixAO010=Sapping
-tagPrefixAO011=Corrosive
-tagPrefixAO012=Warped
-tagPrefixAO013=Corrupted
+tagPrefixAO001=优质
+tagPrefixAO002=碾压
+tagPrefixAO003=刺穿
+tagPrefixAO004=冰冻
+tagPrefixAO005=灼热
+tagPrefixAO006=涂毒
+tagPrefixAO007=带电
+tagPrefixAO008=吸血
+tagPrefixAO009=噬魂
+tagPrefixAO010=吸蚀
+tagPrefixAO011=侵蚀
+tagPrefixAO012=弯曲
+tagPrefixAO013=腐化
 
-tagPrefixB001_WpnMelee1h_A=Tyrant's
-tagPrefixB002_WpnMelee1h_A=Savage
-tagPrefixB003_WpnMelee1h_A=Inquisitor's
-tagPrefixB004_WpnMelee1h_A=Plaguebearer's
-tagPrefixB005_WpnMelee1h_A=Barbaric
-tagPrefixB006_WpnMelee1h_A=Bloodthirsty
-tagPrefixB007_WpnMelee1h_A=Officer's
-tagPrefixB008_WpnMelee1h_A=Demonic
-tagPrefixB009_WpnMelee1h_A=Infernal
-tagPrefixB010_WpnMelee1h_A=Flamecaster
-tagPrefixB010_WpnMelee1h_B=Flamecaster
-tagPrefixB011_WpnMelee1h_A=Eldritch
-tagPrefixB012_WpnMelee1h_A=Skyfallen
-tagPrefixB013_WpnMelee1h_A=Frostborn
-tagPrefixB014_WpnMelee1h_A=Earthbound
-tagPrefixB015_WpnMelee1h_A=Stormheart
-tagPrefixB016_WpnMelee1h_A=Hellfire
-tagPrefixB017_WpnMelee1h_A=Hoarfrost
-tagPrefixB018_WpnMelee1h_A=Venomfang
-tagPrefixB019_WpnMelee1h_A=Aetherfire
-tagPrefixB020_WpnMelee1h_A=Sinister
-tagPrefixB021_WpnMelee1h_A=Heart Piercing
-tagPrefixB022_WpnMelee1h_A=Frenzied
+tagPrefixB001_WpnMelee1h_A=暴君
+tagPrefixB002_WpnMelee1h_A=野蛮
+tagPrefixB003_WpnMelee1h_A=审判官
+tagPrefixB004_WpnMelee1h_A=病瘟
+tagPrefixB005_WpnMelee1h_A=蛮族
+tagPrefixB006_WpnMelee1h_A=嗜血
+tagPrefixB007_WpnMelee1h_A=士官
+tagPrefixB008_WpnMelee1h_A=恶魔
+tagPrefixB009_WpnMelee1h_A=地狱
+tagPrefixB010_WpnMelee1h_A=投火
+tagPrefixB010_WpnMelee1h_B=投火
+tagPrefixB011_WpnMelee1h_A=神邪
+tagPrefixB012_WpnMelee1h_A=天崩
+tagPrefixB013_WpnMelee1h_A=霜裔
+tagPrefixB014_WpnMelee1h_A=地缚
+tagPrefixB015_WpnMelee1h_A=雷心
+tagPrefixB016_WpnMelee1h_A=地狱火
+tagPrefixB017_WpnMelee1h_A=白霜
+tagPrefixB018_WpnMelee1h_A=毒牙
+tagPrefixB019_WpnMelee1h_A=虚火
+tagPrefixB020_WpnMelee1h_A=邪恶
+tagPrefixB021_WpnMelee1h_A=穿心
+tagPrefixB022_WpnMelee1h_A=狂怒
 
-tagPrefixB001_Ar_A=Celestial
-tagPrefixB002_Ar_A=Rampage
-tagPrefixB003_Ar_A=Renegade's
-tagPrefixB004_Ar_A=Lich's
-tagPrefixB005_Ar_A=Harmonious
-tagPrefixB006_Ar_A=Dread Lord's
-tagPrefixB007_Ar_A=Devastating
-tagPrefixB008_Ar_A=Ancient
-tagPrefixB009_Ar_A=Tempest
-tagPrefixB010_Ar_A=Survivalist's
-tagPrefixB011_Ar_A=Maniacal
-tagPrefixB012_Ar_A=Overseer's
-tagPrefixB013_Ar_A=Paladin's
-tagPrefixB014_Ar_A=Seraphim
-tagPrefixB015_Ar_A=Consecrated
-tagPrefixB016_Ar_A=Rimefrost
-tagPrefixB017_Ar_A=Blighted
-tagPrefixB018_Ar_A=Incorruptible
-tagPrefixB019_Ar_A=Light Bringer's
-tagPrefixB020_Ar_A=Unyielding
-tagPrefixB021_Ar_A=Resonant
-tagPrefixB022_Ar_A=Menacing
-tagPrefixB023_Ar_A=Formidable
-tagPrefixB024_Ar_A=Imposing
-tagPrefixB025_Ar_A=Merciless
-tagPrefixB026_Ar_A=Cutthroat's
-tagPrefixB027_Ar_A=Bloodletter's
-tagPrefixB028_Ar_A=Stonehide
-tagPrefixB029_Ar_A=General's
+tagPrefixB001_Ar_A=天体
+tagPrefixB002_Ar_A=暴怒
+tagPrefixB003_Ar_A=变节
+tagPrefixB004_Ar_A=巫妖
+tagPrefixB005_Ar_A=和谐
+tagPrefixB006_Ar_A=魔王
+tagPrefixB007_Ar_A=毁灭
+tagPrefixB008_Ar_A=远古
+tagPrefixB009_Ar_A=风暴
+tagPrefixB010_Ar_A=幸存
+tagPrefixB011_Ar_A=狂热
+tagPrefixB012_Ar_A=督军
+tagPrefixB013_Ar_A=游侠
+tagPrefixB014_Ar_A=天使
+tagPrefixB015_Ar_A=神圣
+tagPrefixB016_Ar_A=霜冻
+tagPrefixB017_Ar_A=枯萎
+tagPrefixB018_Ar_A=不朽
+tagPrefixB019_Ar_A=光明使者
+tagPrefixB020_Ar_A=不屈
+tagPrefixB021_Ar_A=共鸣
+tagPrefixB022_Ar_A=威吓
+tagPrefixB023_Ar_A=敬畏
+tagPrefixB024_Ar_A=壮丽
+tagPrefixB025_Ar_A=无情
+tagPrefixB026_Ar_A=割喉
+tagPrefixB027_Ar_A=放血
+tagPrefixB028_Ar_A=石肤
+tagPrefixB029_Ar_A=将军
 
-tagPrefixB001_Class_A=Commando's
-tagPrefixB002_Class_A=Witchblade's
-tagPrefixB003_Class_A=Blademaster's
-tagPrefixB004_Class_A=Battlemage's
-tagPrefixB005_Class_A=Pyromancer's
-tagPrefixB006_Class_A=Saboteur's
-tagPrefixB007_Class_A=Deathdealer's
-tagPrefixB008_Class_A=Witch Hunter's
-tagPrefixB009_Class_A=Warlock's
-tagPrefixB010_Class_A=Nightstalker's
-tagPrefixB011_Class_A=Warrior's
-tagPrefixB012_Class_A=Arsonist's
-tagPrefixB013_Class_A=Heretic's
-tagPrefixB014_Class_A=Assassin's
-tagPrefixB015_Class_A=Magi's
+tagPrefixB001_Class_A=突击司令的
+tagPrefixB002_Class_A=巫师之人刃的
+tagPrefixB003_Class_A=剑术大师的
+tagPrefixB004_Class_A=战斗法师的
+tagPrefixB005_Class_A=烈焰术士的
+tagPrefixB006_Class_A=破坏之王的
+tagPrefixB007_Class_A=夺命煞星的
+tagPrefixB008_Class_A=魔法猎人的
+tagPrefixB009_Class_A=秘法术士的
+tagPrefixB010_Class_A=暗夜行者的
+tagPrefixB011_Class_A=战士的
+tagPrefixB012_Class_A=纵火者的
+tagPrefixB013_Class_A=异教徒的
+tagPrefixB014_Class_A=刺客的
+tagPrefixB015_Class_A=法师的
 
-tagPrefixB001_Sh_A=Immovable
-tagPrefixB002_Sh_A=Keeper's
-tagPrefixB003_Sh_A=Supercharged
-tagPrefixB004_Sh_A=Chronomancer's
-tagPrefixB005_Sh_A=Overlord's
-tagPrefixB006_Sh_A=Houndmaster's
-tagPrefixB007_Sh_A=Sandstorm
-tagPrefixB008_Sh_A=Glacial
-tagPrefixB009_Sh_A=Thunderstruck
-tagPrefixB010_Sh_A=Caustic
-tagPrefixB011_Sh_A=Destroyer's
-tagPrefixB012_Sh_A=Flamewall
-tagPrefixB013_Sh_A=Glacial
-tagPrefixB014_Sh_A=Thunderstruck
-tagPrefixB015_Sh_A=Caustic
-tagPrefixB016_Sh_A=Stonehide
+tagPrefixB001_Sh_A=恒定
+tagPrefixB002_Sh_A=看守者
+tagPrefixB003_Sh_A=过载
+tagPrefixB004_Sh_A=时光术士
+tagPrefixB005_Sh_A=霸主
+tagPrefixB006_Sh_A=驯犬者
+tagPrefixB007_Sh_A=沙暴
+tagPrefixB008_Sh_A=冰川
+tagPrefixB009_Sh_A=雷击
+tagPrefixB010_Sh_A=腐蚀
+tagPrefixB011_Sh_A=破坏者
+tagPrefixB012_Sh_A=火墙
+tagPrefixB013_Sh_A=冰川
+tagPrefixB014_Sh_A=雷击
+tagPrefixB015_Sh_A=腐蚀
+tagPrefixB016_Sh_A=石肤
 
-#Suffixes
+#Suffixes 后缀
 
-tagSuffixA001=of Prowess
-tagSuffixA002=of Fortitude
-tagSuffixA003=of Psyche
-tagSuffixA004=of the Wolf
-tagSuffixA005=of the Fox
-tagSuffixA006=of the Boar
-tagSuffixA007=of the Eagle
+tagSuffixA001=英勇之
+tagSuffixA002=刚毅之
+tagSuffixA003=灵魂之
+tagSuffixA004=狂狼之
+tagSuffixA005=灵狐之
+tagSuffixA006=野猪之
+tagSuffixA007=雄鹰之
 
-tagSuffixA008=of Vitality
-tagSuffixA009=of Wisdom
-tagSuffixA010=of Potency
-tagSuffixA011=of Meditation
+tagSuffixA008=活力之
+tagSuffixA009=智慧之
+tagSuffixA010=潜能之
+tagSuffixA011=冥想之
 
-tagSuffixA014=of Alacrity
-tagSuffixA015=of Haste
-tagSuffixA016=of Celerity
-tagSuffixA017=of Zeal
-tagSuffixA017B=of Clout
+tagSuffixA014=轻快之
+tagSuffixA015=急速之
+tagSuffixA016=迅捷之
+tagSuffixA017=狂热之
+tagSuffixA017B=权力之
 
-tagSuffixA018=of Attack
-tagSuffixA019=of Protection
-tagSuffixA020=of Readiness
+tagSuffixA018=进击之
+tagSuffixA019=保护之
+tagSuffixA020=迅速之
 
-tagSuffixA022=of Detoxification
-tagSuffixA023=of Coagulation
+tagSuffixA022=解毒之
+tagSuffixA023=凝固之
 
-tagSuffixA024=of the Hunt
-tagSuffixA025=of Murder
-tagSuffixA026=of Banishment
-tagSuffixA027=of Exorcism
+tagSuffixA024=狩猎之
+tagSuffixA025=谋杀之
+tagSuffixA026=流放之
+tagSuffixA027=驱魔之
 
-tagSuffixA028=of Ruin
-tagSuffixA029=of Frostbite
-tagSuffixA030=of Scorching
-tagSuffixA031=of Thunder
-tagSuffixA032=of Corrosion
-tagSuffixA033=of Decay
-tagSuffixA034=of Venom
-tagSuffixA035=of Blood
-tagSuffixA036=of Fortification
-tagSuffixA037=of Thorns
-tagSuffixA038=of the Aether
-tagSuffixA039=of the Void
-tagSuffixA040=of Spines
+tagSuffixA028=毁灭之
+tagSuffixA029=霜寒之
+tagSuffixA030=灼热之
+tagSuffixA031=雷霆之
+tagSuffixA032=腐蚀之
+tagSuffixA033=凋零之
+tagSuffixA034=剧毒之
+tagSuffixA035=鲜血之
+tagSuffixA036=强固之
+tagSuffixA037=荆棘之
+tagSuffixA038=虚化之
+tagSuffixA039=虚无之
+tagSuffixA040=尖刺之
 
-tagSuffixA041=of Mending
-tagSuffixA042=of Renewal
-tagSuffixA043=of the Tortoise
-tagSuffixA044=of the Wolverine
-tagSuffixA045=of the Badger
-tagSuffixA046=of the Slith
-tagSuffixA047=of the Sea
-tagSuffixA048=of the Mountain
+tagSuffixA041=愈合之
+tagSuffixA042=复苏之
+tagSuffixA043=玄武之
+tagSuffixA044=狼獾之
+tagSuffixA045=獾皮之
+tagSuffixA046=蛇人之
+tagSuffixA047=沧海之
+tagSuffixA048=山岳之
 
-tagSuffixA049=of the Bat
-tagSuffixA050=of the Viper
-tagSuffixA051=of the Bull
-tagSuffixA052=of the Owl
-tagSuffixA053=of the Rifthound
-tagSuffixA054=of the Desert
-tagSuffixA055=of the Arctic
-tagSuffixA056=of the Wastes
-tagSuffixA057=of the Swamp
-tagSuffixA058=of the Wind
-tagSuffixA059=of the Wraith
+tagSuffixA049=蝙蝠之
+tagSuffixA050=蝮蛇之
+tagSuffixA051=公牛之
+tagSuffixA052=夜枭之
+tagSuffixA053=魔犬之
+tagSuffixA054=荒漠之
+tagSuffixA055=极地之
+tagSuffixA056=废土之
+tagSuffixA057=沼泽之
+tagSuffixA058=狂风之
+tagSuffixA059=幽魂之
 
-tagSuffixB001_Wpn_A=of Conflagration
-tagSuffixB002_Wpn_A=of Insanity
-tagSuffixB003_Wpn_A=of Sanctification
-tagSuffixB004_Wpn_A=of the Abyss
-tagSuffixB005_Wpn_A=of the Sage
-tagSuffixB006_Wpn_A=of the Slayer
-tagSuffixB007_Wpn_A=of Voracity
-tagSuffixB008_Wpn_A=of the Devourer
-tagSuffixB009_Wpn_A=of Fervor
-tagSuffixB010_Wpn_A=of Cruelty
-tagSuffixB011_Wpn_A=of Ruthlessness
-tagSuffixB012_Wpn_A=of Bestial Rage
-tagSuffixB013_Wpn_A=of Fury
-tagSuffixB014_Wpn_A=of Ferocity
-tagSuffixB015_Wpn_A=of Slaughter
-tagSuffixB016_Wpn_A=of Onslaught
-tagSuffixB017_Wpn_A=of Wildfire
-tagSuffixB018_Wpn_A=of Torrents
-tagSuffixB019_Wpn_A=of Shattering
-tagSuffixB020_Wpn_A=of Blight
-tagSuffixB021_Wpn_A=of the Defiler
-tagSuffixB022_Wpn_A=of the Abomination
-tagSuffixB023_Wpn_A=of Annihilation
-tagSuffixB024_Wpn_A=of the Elements
-tagSuffixB025_Wpn_A=of Binding
-tagSuffixB026_Wpn_A=of Affliction
-tagSuffixB027_Wpn_A=of Piercing Darkness
+tagSuffixB001_Wpn_A=爆炎之
+tagSuffixB002_Wpn_A=疯狂之
+tagSuffixB003_Wpn_A=圣灵之
+tagSuffixB004_Wpn_A=深渊之
+tagSuffixB005_Wpn_A=圣贤之
+tagSuffixB006_Wpn_A=杀手之
+tagSuffixB007_Wpn_A=贪婪之
+tagSuffixB008_Wpn_A=吞噬之
+tagSuffixB009_Wpn_A=热忱之
+tagSuffixB010_Wpn_A=残酷之
+tagSuffixB011_Wpn_A=无情之
+tagSuffixB012_Wpn_A=愤兽之
+tagSuffixB013_Wpn_A=怒火之
+tagSuffixB014_Wpn_A=凶猛之
+tagSuffixB015_Wpn_A=杀戮之
+tagSuffixB016_Wpn_A=猛袭之
+tagSuffixB017_Wpn_A=野火之
+tagSuffixB018_Wpn_A=激流之
+tagSuffixB019_Wpn_A=碎裂之
+tagSuffixB020_Wpn_A=枯萎之
+tagSuffixB021_Wpn_A=污染之
+tagSuffixB022_Wpn_A=憎恶之
+tagSuffixB023_Wpn_A=灭绝之
+tagSuffixB024_Wpn_A=元素之
+tagSuffixB025_Wpn_A=缚魂之
+tagSuffixB026_Wpn_A=折磨之
+tagSuffixB027_Wpn_A=破暗之
 
-tagSuffixB001_Ar_A=of Arcane Lore
-tagSuffixB002_Ar_A=of Menhir's Wall
-tagSuffixB003_Ar_A=of Ulzuin's Flame
-tagSuffixB004_Ar_A=of Dreeg's Gaze
-tagSuffixB005_Ar_A=of Solael's Malice
-tagSuffixB006_Ar_A=of Oleron's Wrath
-tagSuffixB007_Ar_A=of Nature's Bounty
-tagSuffixB008_Ar_A=of Albrecht's Focus
-tagSuffixB009_Ar_A=of the Gildam Arcanum
-tagSuffixB010_Ar_A=of the Void
-tagSuffixB011_Ar_A=of the Druid
-tagSuffixB012_Ar_A=of Blades
-tagSuffixB013_Ar_A=of Heroism
-tagSuffixB014_Ar_A=of the Dranghoul
-tagSuffixB015_Ar_A=of the Wild
-tagSuffixB016_Ar_A=of the Untamed
-tagSuffixB017_Ar_A=of the Hellhound
-tagSuffixB018_Ar_A=of the Glacier
-tagSuffixB019_Ar_A=of the Hurricane
-tagSuffixB020_Ar_A=of the Basilisk
-tagSuffixB021_Ar_A=of the Slith
-tagSuffixB022_Ar_A=of Anomalies
-tagSuffixB023_Ar_A=of the Diviner
-tagSuffixB024_Ar_A=of the Flesh Hulk
-tagSuffixB025_Ar_A=of the Harbinger
-tagSuffixB026_Ar_A=of Balanced Steel
-tagSuffixB027_Ar_A=of Supremacy
-tagSuffixB028_Ar_A=of Shadows
-tagSuffixB029_Ar_A=of Vicious Barbs
-tagSuffixB030_Ar_A=of Butchery
-tagSuffixB031_Ar_A=of Incantations
-tagSuffixB032_Ar_A=of Insight
-tagSuffixB033_Ar_A=of Desolation
-tagSuffixB034_Ar_A=of Survival
-tagSuffixB035_Ar_A=of Kings
+tagSuffixB001_Ar_A=奥术之
+tagSuffixB002_Ar_A=曼海尔的壁垒之
+tagSuffixB003_Ar_A=乌尔祖因的烈焰之
+tagSuffixB004_Ar_A=德里格的凝视之
+tagSuffixB005_Ar_A=索拉尔的怨恨之
+tagSuffixB006_Ar_A=奥莱隆的愤怒之
+tagSuffixB007_Ar_A=自然馈赠之
+tagSuffixB008_Ar_A=阿波切特的聚焦之
+tagSuffixB009_Ar_A=吉尔达姆的秘学之
+tagSuffixB010_Ar_A=虚无之
+tagSuffixB011_Ar_A=德鲁伊之
+tagSuffixB012_Ar_A=刀锋之
+tagSuffixB013_Ar_A=英雄之
+tagSuffixB014_Ar_A=怒吼巨兽之
+tagSuffixB015_Ar_A=野性之
+tagSuffixB016_Ar_A=不羁之
+tagSuffixB017_Ar_A=地狱犬之
+tagSuffixB018_Ar_A=冰川之
+tagSuffixB019_Ar_A=飓风之
+tagSuffixB020_Ar_A=蛇怪之
+tagSuffixB021_Ar_A=蛇人之
+tagSuffixB022_Ar_A=异常之
+tagSuffixB023_Ar_A=预言之
+tagSuffixB024_Ar_A=血肉巨人之
+tagSuffixB025_Ar_A=先锋之
+tagSuffixB026_Ar_A=平衡钢之
+tagSuffixB027_Ar_A=霸权之
+tagSuffixB028_Ar_A=暗影之
+tagSuffixB029_Ar_A=邪刺之
+tagSuffixB030_Ar_A=屠杀之
+tagSuffixB031_Ar_A=符咒之
+tagSuffixB032_Ar_A=洞察之
+tagSuffixB033_Ar_A=荒芜之
+tagSuffixB034_Ar_A=生存之
+tagSuffixB035_Ar_A=君王之
 
-tagSuffixB001_Sh_A=of Immortality
-tagSuffixB002_Sh_A=of Valor
-tagSuffixB003_Sh_A=of the Protector
-tagSuffixB004_Sh_A=of the Oracle
-tagSuffixB005_Sh_A=of Spectres
-tagSuffixB006_Sh_A=of Serenity
-tagSuffixB007_Sh_A=of Wildfire
-tagSuffixB008_Sh_A=of Shattering
-tagSuffixB009_Sh_A=of Torrents
-tagSuffixB010_Sh_A=of Blight
-tagSuffixB011_Sh_A=of the Defiler
-tagSuffixB012_Sh_A=of the Abomination
-tagSuffixB013_Sh_A=of Corruption
-tagSuffixB014_Sh_A=of Vengeance
-tagSuffixB015_Sh_A=of the Sage
-tagSuffixB016_Sh_A=of the Guardian
-tagSuffixB017_Sh_A=of Wildfire
-tagSuffixB018_Sh_A=of Shattering
-tagSuffixB019_Sh_A=of Torrents
-tagSuffixB020_Sh_A=of Blight
-tagSuffixB021_Sh_A=of Menhir's Wall
-tagSuffixB022_Sh_A=of Annihilation
-tagSuffixB023_Sh_A=of Rituals
-tagSuffixB024_Sh_A=of Binding
-tagSuffixB025_Sh_A=of Affliction
-tagSuffixB026_Sh_A=of the Sands
-tagSuffixB027_Sh_A=of Death's Chill
-tagSuffixB028_Sh_A=of Storms
+tagSuffixB001_Sh_A=不朽之
+tagSuffixB002_Sh_A=勇气之
+tagSuffixB003_Sh_A=防御者之
+tagSuffixB004_Sh_A=神谕之
+tagSuffixB005_Sh_A=幽鬼之
+tagSuffixB006_Sh_A=宁静之
+tagSuffixB007_Sh_A=野火之
+tagSuffixB008_Sh_A=碎裂之
+tagSuffixB009_Sh_A=激流之
+tagSuffixB010_Sh_A=枯萎之
+tagSuffixB011_Sh_A=污染者之
+tagSuffixB012_Sh_A=憎恶之
+tagSuffixB013_Sh_A=腐化之
+tagSuffixB014_Sh_A=复仇之
+tagSuffixB015_Sh_A=圣贤之
+tagSuffixB016_Sh_A=守卫之
+tagSuffixB017_Sh_A=野火之
+tagSuffixB018_Sh_A=碎裂之
+tagSuffixB019_Sh_A=激流之
+tagSuffixB020_Sh_A=枯萎之
+tagSuffixB021_Sh_A=曼海尔的壁垒之
+tagSuffixB022_Sh_A=灭绝之
+tagSuffixB023_Sh_A=仪式之
+tagSuffixB024_Sh_A=缚魂之
+tagSuffixB025_Sh_A=折磨之
+tagSuffixB026_Sh_A=流沙之
+tagSuffixB027_Sh_A=死寒之
+tagSuffixB028_Sh_A=风暴之
 
-#ItemSkills
+#ItemSkills 物品技能
 
 tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时生效)
 tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时生效)
@@ -2239,7 +2239,7 @@ tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时生效)
 tagAutoSkillCondition11= ({%d0}% 的几率在格挡时生效)
 
 
-#LootChests
+#LootChests 宝箱
 
 tagChestWoodA01=风化的箱子
 tagChestRationA01=旅行者的包
@@ -2310,11 +2310,11 @@ tagChestOneShot_LowerCrossingCave01=怪物的宝藏
 #Interactive Objects
 tagShrineConstitutionA01=未动过的饭
 
-#Breakables
+#Breakables 可破坏
 
 tagWoodenDoor=木门
 
-#Dungeon Doors
+#Dungeon Doors 地下城大门
 
 tagUGDoorCave01=洞穴入口
 tagUGDoorTrapdoor01=陷阱门
@@ -2330,7 +2330,7 @@ tagDoorLocked=锁着的
 tagDoorOneWay01=通往地表的出口
 tagDoorLever01=吊门控制器
 
-#Doors
+#Doors 门
 
 tagCellDoor=牢门
 tagPrisonEntranceDoor=伯尔维治监狱大门
@@ -2339,7 +2339,7 @@ tagEpicDoor_StepsOfTorment=痛苦之门
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
 tagLocked= {^R} ~ 锁着的
 
-#Quest Rewards
+#Quest Rewards 任务奖励
 
 tagQuestItemBrothersAmulet=妹妹的赋生之护身符
 tagQuestItemBrothersAmuletDesc="致 亲 爱 的 哥 哥 :  愿 这 枚 护 身 符 能 让 你 在 战 斗 中 保 持 强 壮 。  - 西 比 尔"

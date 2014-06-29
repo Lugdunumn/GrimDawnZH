@@ -11,48 +11,48 @@ tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 #CreatureAetherial
 
 tagAetherCrystalA01=虚化水晶
-tagAnomalyB01=Warp Elemental
-tagWindDevil_PoisonA01=Poison Wind Devil
+tagAnomalyB01=扭曲元素
+tagWindDevil_PoisonA01=毒风恶魔
 
-tagEnemyPossessedA01=Possessed Noble
-tagEnemyPossessedB01=Possessed Spellbinder
-tagEnemyPossessedC01=Possessed Warlock
+tagEnemyPossessedA01=失心贵族
+tagEnemyPossessedB01=失心法师
+tagEnemyPossessedC01=失心术士
 
-tagEnemyAetherialA01=Aetherial Watcher
-tagEnemyAetherialB01=Aetherial Wraith
-tagEnemyAetherialC01=Aetherial Spectre
+tagEnemyAetherialA01=虚灵看守
+tagEnemyAetherialB01=虚灵幻影
+tagEnemyAetherialC01=虚灵幽魂
 
-tagAetherialPhantomHeroH01=Aetherblaze
-tagAetherialPhantomHeroH02=Corpus ~ Supporter
-tagAetherialPhantomHeroH03=Espiris ~ Regenerator
+tagAetherialPhantomHeroH01=虚化烈焰
+tagAetherialPhantomHeroH02=科尔普斯 ~ 支援者
+tagAetherialPhantomHeroH03=埃斯匹瑞斯 ~ 回复者
 
 #CreatureBoar
 
-tagEnemyBoarA01=Stonetusk
-tagEnemyBoarA02=Gargantuan Stonetusk
-tagEnemyBoarB01=Ironhide Stonetusk
+tagEnemyBoarA01=石牙野猪
+tagEnemyBoarA02=巨型石牙野猪
+tagEnemyBoarB01=硬皮石牙野猪
 
-tagBoarHeroH01=Dreadtusk, the Hunter's Bane
-tagBoarHeroH02=Ragesnout ~ Swift
-tagBoarHeroH03=Hellmane ~ Burning
-tagBoarHeroH04=Rotmane~ Diseased
+tagBoarHeroH01=猎人梦魇 恐怖獠牙
+tagBoarHeroH02=怒目 ~ 迅捷
+tagBoarHeroH03=地狱鬃毛 ~ 燃烧
+tagBoarHeroH04=腐坏鬃毛 ~ 疾病
 
 
-#CreatureBoneRat
+#CreatureBoneRat 骨背鼠
 
-tagEnemyBoneRatMeleeA01=Boneback Gnasher
-tagEnemyBoneRatRangedA01=Boneback
+tagEnemyBoneRatMeleeA01=骨背啮咬者
+tagEnemyBoneRatRangedA01=骨背鼠
 
-tagEnemyBoneRatMeleeB01=Rabid Boneback
-tagEnemyBoneRatMeleeB02=Boneback Plaguebearer
+tagEnemyBoneRatMeleeB01=狂暴骨背鼠
+tagEnemyBoneRatMeleeB02=骨背瘟疫散布者
 
-tagEnemyBoneRatMeleeB02_Summon=Halion's Wittle Rat
+tagEnemyBoneRatMeleeB02_Summon=海里昂的白鼠
 
-tagBoneRatHeroH01=Maledictus
-tagBoneRatHeroH02=Razorback
-tagBoneRatHeroH03=Rotbite ~ Diseased
-tagBoneRatHeroH04=Bilewart ~ Swift
-tagBoneRatHeroH05=Rimeclaw ~ Frozen
+tagBoneRatHeroH01=诅咒者
+tagBoneRatHeroH02=剃刀背
+tagBoneRatHeroH03=腐坏之咬 ~ 疾病
+tagBoneRatHeroH04=Bilewart ~ 迅捷
+tagBoneRatHeroH05=寒霜之爪 ~ 冰冻
 
 tagBoneRatMiniBoss01=Grundleplith the Hoarder
 
@@ -83,7 +83,7 @@ tagVoidFiendHeroH03=Sen'Thel Voidbringer
 tagVoidFiendHeroH04=Nii'Thel ~ Bruiser
 tagVoidFiendHeroH05=Gurgoth'Siin ~ Burning
 
-#CreatureDranghoul
+#CreatureDranghoul 咆哮巨兽
 
 tagEnemyDrangoulWarriorA01=Dranghoul Enforcer
 tagEnemyDrangoulWarriorB01=Dranghoul Tyrant
@@ -96,15 +96,15 @@ tagDranghoulHeroH03=Ooglar ~ Unstoppable
 tagDranghoulHeroH04=Reeve ~ Burning
 tagDranghoulHeroH05=Wovaar ~ Frozen
 
-#CreatureFleshHulk
+#CreatureFleshHulk 血肉巨人
 
-tagEnemyFleshHulkA01=Flesh Hulk
-tagEnemyFleshHulkB01=Ironside Hulk
-tagEnemyFleshHulkC01=Rage Hulk
+tagEnemyFleshHulkA01=血肉巨人
+tagEnemyFleshHulkB01=石肤巨人
+tagEnemyFleshHulkC01=暴怒巨人
 
-tagFleshHulkHeroH01=Bonebreaker
-tagFleshHulkHeroH02=Faldonir Aetherborn
-tagFleshHulkHeroH03=Malnotris ~ Unstoppable
+tagFleshHulkHeroH01=碎骨者
+tagFleshHulkHeroH02=虚化之裔 法尔多尼
+tagFleshHulkHeroH03=马诺崔斯 ~ Unstoppable
 tagFleshHulkHeroH04=Festerlis ~ Bruiser
 
 #CreatureGazer
@@ -589,13 +589,13 @@ tagWormHeroH03=Stonespitter ~ Shielded
 
 #CreatureZombie
 
-tagEnemyZombieA01=Walking Dead
+tagEnemyZombieA01=行尸
 tagEnemyZombieB01=Wretcher
-tagEnemyZombieC01=Fury
-tagEnemyZombieD01=Cold One
+tagEnemyZombieC01=怒尸
+tagEnemyZombieD01=冻尸
 tagEnemyZombieE01=Night Terror
-tagEnemyZombieF01=Burning Dead
-tagEnemyZombieG01=Plague Walker
+tagEnemyZombieF01=燃尸
+tagEnemyZombieG01=毒尸
 tagEnemyZombieSoldierA01=Rotting Soldier
 tagEnemyZombieSoldierB01=Rotting Emberguard
 tagEnemyZombieBerserkerA01=Corpsefiend
@@ -614,7 +614,7 @@ tagZombieHeroH06=Aldanar, the Undying
 tagZombieHeroH07=Gutripper ~ Unstoppable
 tagZombieHeroH08=Teselon ~ Electrified
 tagZombieHeroH09=Blightfeast ~ Charger
-tagZombieHeroH10=Alrick Magefire
+tagZombieHeroH10=巫火 艾尔瑞克
 
 #CreatureZombieHound
 

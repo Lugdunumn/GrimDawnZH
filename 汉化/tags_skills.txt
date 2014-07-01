@@ -199,14 +199,14 @@ tagClass02SkillDescription05D=向 敌 人 发 射 爆 炸 的 迫 击 炮 弹 �
 tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
 
-tagClass02SkillName06A=铝热地雷
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame.
-tagClass02SkillName06B=Lightning Arc
+tagClass02SkillName06A=铝 热 地 雷
+tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
+tagClass02SkillName06B=弧 光 闪 电
 tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
-tagClass02SkillName06C=Flame Jet
+tagClass02SkillName06C=烈 焰 喷 射
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 
-tagClass02SkillName07A=Unquenchable Flame
+tagClass02SkillName07A=不 熄 烈 焰
 tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
 tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Stun Jacks, Grenado and Canister Bomb]

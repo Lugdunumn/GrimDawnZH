@@ -101,7 +101,7 @@ tagRiftLowerCrossing=下游渡口传送门
 tagRiftBurrwitchRoad=迷雾河畔传送门
 tagRiftWightmire=尸妖泥沼传送门
 tagRiftFloodedPassage=洪水通道传送门
-tagRiftBurrwitchOutskirts=伯尔维治庄园传送门
+tagRiftBurrwitchOutskirts=伯尔维治郊外传送门
 tagRiftBurrwitchVillage=伯尔维治村传送门
 tagRiftWardensCellar=典狱长的地窖传送门
 tagRiftWardensLabratory01=地下通道传送门
@@ -261,7 +261,7 @@ tagNotification_HS_WeNeedFood_HomesteadTownFound=你找到了霍姆斯特德镇�
 tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
 
-tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这个地方……
+tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门的连接……
 
 #NPC Names

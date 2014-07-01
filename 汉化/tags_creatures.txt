@@ -223,10 +223,10 @@ tagEnemyHarvestmanA01=
 tagEnemyHarvestmanB01=
 tagEnemyHarvestmanC01=
 
-tagHarvestmanHeroH01=Nemedian, the Reaper
-tagHarvestmanHeroH02=Effigus, the Infested
-tagHarvestmanHeroH03=Asper ~ Swift
-tagHarvestmanHeroH04=Crowfiend ~ Bruiser
+tagHarvestmanHeroH01=收割者 内米笛安
+tagHarvestmanHeroH02=感染者 艾菲格斯
+tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
+tagHarvestmanHeroH04=乌鸦凶煞 ~ 压碎者
 
 #CreatureHuman
 
@@ -261,47 +261,47 @@ tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ Champion
 tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ Ascended
 
 tagHumanOutlawLeader01=德莱厄斯·克隆利
-tagHumanOutlawMiniBoss01=Edmund "Shanks" Doyle
-tagHumanOutlawMiniBoss02=Silas "The Skinner"
-tagHumanOutlawMiniBoss03=Dravko "The Torch"
-tagHumanOutlawMiniBoss04="Madman" Wilcox
-tagHumanOutlawMiniBoss05=Sleyvak "The Breaker"
-tagHumanOutlawMiniBoss06="Boomer" Slocum
-tagHumanOutlawMiniBoss07=Ashe "The Wall" Farrell
-tagHumanOutlawMiniBoss08=Nicholas Balthazar
+tagHumanOutlawMiniBoss01=“长腿” 埃德蒙·道尔
+tagHumanOutlawMiniBoss02=“剥皮人” 塞拉斯
+tagHumanOutlawMiniBoss03=“火把” 德拉沃科
+tagHumanOutlawMiniBoss04=“疯子” 威尔克斯
+tagHumanOutlawMiniBoss05=“破坏者” 斯雷瓦克
+tagHumanOutlawMiniBoss06=“轰鸣” 斯洛克姆
+tagHumanOutlawMiniBoss07=“墙壁” 阿什·法雷尔
+tagHumanOutlawMiniBoss08=尼古拉斯·巴尔萨泽
 
-tagHumanOutlawHeroH01=Leander "Blackwater" Greene
-tagHumanHeroH01=Bloody Jack
-tagHumanHeroH02=Delnar Black Eye
-tagHumanHeroH03=Hudson Fury
-tagHumanHeroH04=Nadra, the Shadow
-tagHumanHeroH05=Serul Shadesong
-tagHumanHeroH06=Wiley, the Slasher ~ Swift
-tagHumanHeroH07=Everett, the Bloodbound ~ Burning
-tagHumanHeroH08=Dred One-Eye
-tagHumanHeroH09=Meric Aether-Touched ~ Charger
-tagHumanHeroH10=Eldon "Snakeskin" ~ Regenerator
+tagHumanOutlawHeroH01=“黑水” 利安德·格林
+tagHumanHeroH01=血腥杰克
+tagHumanHeroH02=德尔纳·黑眼
+tagHumanHeroH03=哈德森·福瑞
+tagHumanHeroH04=暗影 纳德拉
+tagHumanHeroH05=塞鲁·暗歌
+tagHumanHeroH06=切割者 威利 ~ 迅捷
+tagHumanHeroH07=血咒 埃弗雷特 ~ 燃烧
+tagHumanHeroH08=德雷德·独眼
+tagHumanHeroH09=梅力克·虚化之触 ~ 冲锋
+tagHumanHeroH10=“蛇皮” 埃尔登 ~ 回复者
 
-tagHumanBoss01="Moneybags" Martin
-tagHumanBoss02=Halion "The Rat"
-tagHumanBoss03=Nicholas Balthazar
-tagHumanBoss04=Boris, Master of the Pit
+tagHumanBoss01=“守财奴” 马丁
+tagHumanBoss02=“耗子” 海里昂
+tagHumanBoss03=尼古拉斯·巴尔萨泽
+tagHumanBoss04=矿主 鲍里斯
 
 tagHumanRoverA_A01=流浪者
 tagHumanRoverA_B01=流浪者 侦察兵
 tagHumanRoverA_C01=流浪者 强制者
 
-#CreatureInsectDermapteran
+#CreatureInsectDermapteran 蠼螋
 
-tagEnemyDermapteranWarriorA01=Dermapteran Reaver
+tagEnemyDermapteranWarriorA01=蠼螋 掠夺者
 tagEnemyWeavilA01=Dermapteran Weavil
 
 tagEnemySummonWeavilA01=Infestor
 
-tagDermapteranHeroH01=Harpallax, the Suneater
+tagDermapteranHeroH01=噬日者 Harpallax
 tagDermapteranHeroH02=Corrosinax
-tagDermapteranHeroH03=Wasparex ~ Swift
-tagDermapteranHeroH04=Olmarix ~ Electrified
+tagDermapteranHeroH03=Wasparex ~ 迅捷
+tagDermapteranHeroH04=Olmarix ~ 带电
 
 #CreatureInsectMosquito
 

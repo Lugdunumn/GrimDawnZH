@@ -199,23 +199,23 @@ tagClass02SkillDescription05D=向 敌 人 发 射 爆 炸 的 迫 击 炮 弹 �
 tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
 
-tagClass02SkillName06A=铝热地雷
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame.
-tagClass02SkillName06B=Lightning Arc
+tagClass02SkillName06A=铝 热 地 雷
+tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
+tagClass02SkillName06B=弧 光 闪 电
 tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
-tagClass02SkillName06C=Flame Jet
+tagClass02SkillName06C=烈 焰 喷 射
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 
-tagClass02SkillName07A=Unquenchable Flame
+tagClass02SkillName07A=不 熄 烈 焰
 tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
-tagClass02SkillName07B=Ulzuin's Chosen
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Stun Jacks, Grenado and Canister Bomb]
+tagClass02SkillName07B=乌 祖 因 的 选 召
+tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 震 击 千 金 ， 手 榴 弹 和 碳 罐 炸 弹]
 
-tagClass02SkillName08A=Blackwater Cocktail
+tagClass02SkillName08A=黑 水 鸡 尾 酒
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
-tagClass02SkillName08B=Intense Heat
+tagClass02SkillName08B=酷 热 高 温
 tagClass02SkillDescription08B=A hotter burning Blackwater solution melts armor and incinerates flesh.
-tagClass02SkillName08C=Agonizing Flames
+tagClass02SkillName08C=痛 苦 之 焰
 tagClass02SkillDescription08C=Driven mad by the searing pain of their flame covered bodies, enemy ranks scatter in panic with those still able to function barely able to strike back.
 
 tagClass02SkillName09A=Stun Jacks

@@ -209,7 +209,7 @@ tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerat
 tagClass02SkillName07A=不 熄 烈 焰
 tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
 tagClass02SkillName07B=乌 祖 因 的 选 召
-tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于Stun Jacks， 手 榴 弹 和 碳 罐 炸 弹]
+tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 震 击 千 金 ， 手 榴 弹 和 碳 罐 炸 弹]
 
 tagClass02SkillName08A=黑 水 鸡 尾 酒
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.

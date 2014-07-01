@@ -1465,10 +1465,10 @@ DefenseLifeDurationModifier={%+.0f0}%{^E}活力衰减持续时间减少
 DefenseLifeLeachDurationModifier={%+.0f0}%{^E}生命吸取持续时间减少
 DefenseManaLeachDurationModifier={%+.0f0}%{^E}能量吸取持续时间减少
 
-RacialBonusPercentDamage={%+.0f0}%{^E}攻击致{%s1}
-RacialBonusAbsoluteDamage={%+.0f0}{^E}攻击致{%s1}
-RacialBonusPercentDefense={%.0f0}%{^E}攻击来自{%s1}
-RacialBonusAbsoluteDefense={%.0f0}{^E}攻击来自{%s1}
+RacialBonusPercentDamage={%+.0f0}%{^E}的伤害致{%s1}
+RacialBonusAbsoluteDamage={%+.0f0}{^E}点伤害致{%s1}
+RacialBonusPercentDefense=来自{%s1}的伤害减少{%.0f0}%{^E}
+RacialBonusAbsoluteDefense=来自{%s1}的伤害减少{%.0f0}{^E}点
 RacialBonusRaceName={%s0}
 
 

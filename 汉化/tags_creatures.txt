@@ -51,50 +51,50 @@ tagEnemyBoneRatMeleeB02_Summon=海里昂的白鼠
 tagBoneRatHeroH01=诅咒者
 tagBoneRatHeroH02=剃刀背
 tagBoneRatHeroH03=腐坏之咬 ~ 疾病
-tagBoneRatHeroH04=Bilewart ~ 迅捷
+tagBoneRatHeroH04=愤怒之瘤 ~ 迅捷
 tagBoneRatHeroH05=寒霜之爪 ~ 冰冻
 
-tagBoneRatMiniBoss01=Grundleplith the Hoarder
+tagBoneRatMiniBoss01=贮藏者 格兰德佩里斯
 
 #CreatureChthonian
 
-tagEnemyChthonianMinionA01=Chthonian Harbinger
-tagEnemyChthonianMinionB01=Chthonian Bloodletter
-tagEnemyChthonianMinionC01=Chthonian Blightbringer
+tagEnemyChthonianMinionA01=冥灵先锋
+tagEnemyChthonianMinionB01=冥灵放血者
+tagEnemyChthonianMinionC01=冥灵凋零使者
 
 
-tagChthonianMinionHeroH01=Charn'Daroth
-tagChthonianMinionHeroH02=Elnar'Daroth
-tagChthonianMinionHeroH03=Fos'Daroth
-tagChthonianMinionHeroH04=Ordran'Daroth
-tagChthonianMinionHeroH05=Pulv'Daroth
-tagChthonianMinionHeroH06=Maga'Lugal ~ Defender
-tagChthonianMinionHeroH07=Sharanatu ~ Shielded
+tagChthonianMinionHeroH01=恰恩·达若斯
+tagChthonianMinionHeroH02=埃尔纳·达若斯
+tagChthonianMinionHeroH03=福斯·达若斯
+tagChthonianMinionHeroH04=奥尔杜安·达若斯
+tagChthonianMinionHeroH05=帕尔夫·达若斯
+tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
+tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
 #CreatureCthonianFiend
 
-tagEnemyVoidFiendA01=Void Fiend
-tagEnemyVoidFiendA02=Void Anomaly
-tagEnemyVoidFiendC01=Void Abomination
+tagEnemyVoidFiendA01=虚空恶魔
+tagEnemyVoidFiendA02=虚空异兽
+tagEnemyVoidFiendC01=虚空憎恶
 
-tagVoidFiendHeroH01=Innugaru, Horror of the Void
-tagVoidFiendHeroH02=Hiln'Raz, the Dark Omen
-tagVoidFiendHeroH03=Sen'Thel Voidbringer
-tagVoidFiendHeroH04=Nii'Thel ~ Bruiser
-tagVoidFiendHeroH05=Gurgoth'Siin ~ Burning
+tagVoidFiendHeroH01=虚空恐惧 因努盖如
+tagVoidFiendHeroH02=黑暗预兆 海尔恩·拉兹
+tagVoidFiendHeroH03=虚空使者 森·特尔
+tagVoidFiendHeroH04=尼·特尔 ~ 压碎者
+tagVoidFiendHeroH05=古尔哥特·西恩 ~ 燃烧
 
 #CreatureDranghoul 咆哮巨兽
 
-tagEnemyDrangoulWarriorA01=Dranghoul Enforcer
-tagEnemyDrangoulWarriorB01=Dranghoul Tyrant
+tagEnemyDrangoulWarriorA01=咆哮巨兽 执行者
+tagEnemyDrangoulWarriorB01=咆哮巨兽 暴君
 
-tagDranghoulMiniBoss01=Gutworm, the Maneater
+tagDranghoulMiniBoss01=食人者 格特沃姆
 
-tagDranghoulHeroH01=Ralture, the Untouchable
-tagDranghoulHeroH02=Rugaru, the Houndmaster
-tagDranghoulHeroH03=Ooglar ~ Unstoppable
-tagDranghoulHeroH04=Reeve ~ Burning
-tagDranghoulHeroH05=Wovaar ~ Frozen
+tagDranghoulHeroH01=难以企及的拉尔切
+tagDranghoulHeroH02=驯犬师 鲁迦鲁
+tagDranghoulHeroH03=奥格拉 ~ 免疫控制
+tagDranghoulHeroH04=里夫 ~ 燃烧
+tagDranghoulHeroH05=沃瓦尔 ~ 冰冻
 
 #CreatureFleshHulk 血肉巨人
 
@@ -104,118 +104,118 @@ tagEnemyFleshHulkC01=暴怒巨人
 
 tagFleshHulkHeroH01=碎骨者
 tagFleshHulkHeroH02=虚化之裔 法尔多尼
-tagFleshHulkHeroH03=马诺崔斯 ~ Unstoppable
-tagFleshHulkHeroH04=Festerlis ~ Bruiser
+tagFleshHulkHeroH03=马诺崔斯 ~ 免疫控制
+tagFleshHulkHeroH04=菲斯特利斯 ~ 压碎者
 
 #CreatureGazer
 
-tagEnemyGazerA01=Corruption
-tagEnemyGazerB01=Overseer
-tagEnemyGazerC01=Overmind
+tagEnemyGazerA01=腐化
+tagEnemyGazerB01=监察
+tagEnemyGazerC01=主宰
 
-tagGazerHeroH01=Mesmer
-tagGazerHeroH02=Bane'Zal, the Hellborn
-tagGazerHeroH03=Darlax, Devourer of Dreams
-tagGazerHeroH04=Beholdan ~ Reflective
-tagGazerHeroH05=Garminix ~ Regenerator
-tagGazerHeroH06=Illumin ~ Electrified
+tagGazerHeroH01=麦斯默
+tagGazerHeroH02=地狱降生 贝恩扎尔
+tagGazerHeroH03=食梦者 达拉克斯
+tagGazerHeroH04=观察者 ~ 伤害反弹
+tagGazerHeroH05=加米尼斯 ~ 回复者
+tagGazerHeroH06=亮光 ~ 带电
 
 #CreatureGhost
 
-tagEnemyGhostA01=Apparition
-tagEnemyGhostB01=Haunted Noble
-tagEnemyGhostB02=Haunted Champion
+tagEnemyGhostA01=幽灵
+tagEnemyGhostB01=幽灵贵族
+tagEnemyGhostB02=幽灵勇士
 
-tagHeroGhostH01=Lady Valavan, the Wandering Soul
-tagHeroGhostH02=Lord Blacktail ~ Reflective
-tagHeroGhostH03=Lady Rosenthal ~ Regenerator
-tagHeroGhostH04=Stormshriek ~ Electrified
-tagHeroGhostH05=Lord Oldrakan ~ Swift
+tagHeroGhostH01=游魂 瓦拉凡女士
+tagHeroGhostH02=黑尾领主 ~ 伤害反弹
+tagHeroGhostH03=罗森塔尔女士 ~ 回复者
+tagHeroGhostH04=风暴尖啸 ~ 带电
+tagHeroGhostH05=奥尔德拉康领主 ~ 迅捷
 
-tagGhostBoss01=Baron Wradlith, Lord of the Lost Souls
-tagGhostBoss02=Nomos Dred
-tagGhostBoss03=Laudos Vagra
-tagGhostBoss04=Rhovena Kur
-tagGhostBoss05=Alkamos, Lord Executioner
+tagGhostBoss01=堕落之魂领主 拉德里斯男爵
+tagGhostBoss02=诺莫斯·德雷德
+tagGhostBoss03=劳多斯·瓦格拉
+tagGhostBoss04=罗威娜·库尔
+tagGhostBoss05=行刑者领主 阿卡莫斯
 
-#CreatureGolem
+#CreatureGolem 傀儡
 
-tagEnemyGolemRockA01=Earthen Shambler
-tagEnemyGolemRockB01=Mossy Shambler
-tagEnemyGolemRockC01=Stonewrought  Shambler
-tagEnemyGolemRockMiniBoss01=Ancient Shambler
+tagEnemyGolemRockA01=大地蹒跚者
+tagEnemyGolemRockB01=苔藓蹒跚者
+tagEnemyGolemRockC01=巨石蹒跚者
+tagEnemyGolemRockMiniBoss01=远古蹒跚者
 
-tagGolemRockHeroH01=Hammerton
-tagGolemRockHeroH02=Haldras Flamespitter
-tagGolemRockHeroH03=Stoneheart ~ Reflective
-tagGolemRockHeroH04=Stonegrinder ~ Charger
-tagGolemRockHeroH05=Rimestone ~ Frozen
+tagGolemRockHeroH01=哈默顿
+tagGolemRockHeroH02=喷火者 哈德拉斯
+tagGolemRockHeroH03=石心 ~ 伤害反弹
+tagGolemRockHeroH04=石磨 ~ 冲锋
+tagGolemRockHeroH05=霜石 ~ 冰冻
 
 #CreatureGrobles
 
-tagEnemySnakeClanScavengerA01=Groble ~ Snake Clan Scavenger
-tagEnemySnakeClanRangedA01=Groble ~ Snake Clan Tracker
-tagEnemySnakeClanWarriorA01=Groble ~ Snake Clan Warrior
-tagEnemySnakeClanWarriorB01=Groble ~ Snake Clan Champion
+tagEnemySnakeClanScavengerA01=格罗布 ~ 蛇之部落 拾荒者
+tagEnemySnakeClanRangedA01=格罗布 ~ 蛇之部落 追踪者
+tagEnemySnakeClanWarriorA01=格罗布 ~ 蛇之部落 战士
+tagEnemySnakeClanWarriorB01=格罗布 ~ 蛇之部落 勇士
 
-tagEnemySnakeClanShamanA01=Groble ~ Snake Clan Witchdoctor
-tagEnemySnakeClanShamanB01=Groble ~ Snake Clan Venomancer
+tagEnemySnakeClanShamanA01=格罗布 ~ 蛇之部落 巫医
+tagEnemySnakeClanShamanB01=格罗布 ~ 蛇之部落 剧毒术士
 
-tagEnemySkyClanScavengerA01=Groble ~ Sky Clan Scavenger
-tagEnemySkyClanRangedA01=Groble ~ Sky Clan Tracker
-tagEnemySkyClanWarriorA01=Groble ~ Sky Clan Warrior
-tagEnemySkyClanWarriorB01=Groble ~ Sky Clan Champion
+tagEnemySkyClanScavengerA01=格罗布 ~ 天之部落 拾荒者
+tagEnemySkyClanRangedA01=格罗布 ~ 天之部落 追踪者
+tagEnemySkyClanWarriorA01=格罗布 ~ 天之部落 战士
+tagEnemySkyClanWarriorB01=格罗布 ~ 天之部落 勇士
 
-tagEnemySkyClanShamanA01=Groble ~ Sky Clan Witchdoctor
-tagEnemySkyClanShamanB01=Groble ~ Sky Clan Stormcaller
+tagEnemySkyClanShamanA01=格罗布 ~ 天之部落 巫医
+tagEnemySkyClanShamanB01=格罗布 ~ 天之部落 风暴召唤者
 
-tagEnemyStoneClanScavengerA01=Groble ~ Stone Clan Scavenger
-tagEnemyStoneClanRangedA01=Groble ~ Stone Clan Tracker
-tagEnemyStoneClanWarriorA01=Groble ~ Stone Clan Warrior
-tagEnemyStoneClanWarriorB01=Groble ~ Stone Clan Champion
+tagEnemyStoneClanScavengerA01=格罗布 ~ 石之部落 拾荒者
+tagEnemyStoneClanRangedA01=格罗布 ~ 石之部落 追踪者
+tagEnemyStoneClanWarriorA01=格罗布 ~ 石之部落 战士
+tagEnemyStoneClanWarriorB01=格罗布 ~ 石之部落 勇士
 
-tagEnemyStoneClanShamanA01=Groble ~ Stone Clan Witchdoctor
-tagEnemyStoneClanShamanB01=Groble ~ Stone Clan Geomancer
+tagEnemyStoneClanShamanA01=格罗布 ~ 石之部落 巫医
+tagEnemyStoneClanShamanB01=格罗布 ~ 石之部落 地卜师
 
-tagEnemyEmberClanScavengerA01=Groble ~ Ember Clan Scavenger
-tagEnemyEmberClanRangedA01=Groble ~ Ember Clan Tracker
-tagEnemyEmberClanRangedB01=Groble ~ Ember Clan Huntmaster
-tagEnemyEmberClanWarriorA01=Groble ~ Ember Clan Warrior
-tagEnemyEmberClanWarriorB01=Groble ~ Ember Clan Champion
+tagEnemyEmberClanScavengerA01=格罗布 ~ 火之部落 拾荒者
+tagEnemyEmberClanRangedA01=格罗布 ~ 火之部落 追踪者
+tagEnemyEmberClanRangedB01=格罗布 ~ 火之部落 狩猎大师
+tagEnemyEmberClanWarriorA01=格罗布 ~ 火之部落 战士
+tagEnemyEmberClanWarriorB01=格罗布 ~ 火之部落 勇士
 
-tagEnemyEmberClanShamanA01=Groble ~ Ember Clan Witchdoctor
-tagEnemyEmberClanShamanB01=Groble ~ Ember Clan Pyromancer
+tagEnemyEmberClanShamanA01=格罗布 ~ 火之部落 巫医
+tagEnemyEmberClanShamanB01=格罗布 ~ 火之部落 烈焰术士
 
-tagEnemyDeathClanScavengerA01=Groble ~ Death Clan Scavenger
-tagEnemyDeathClanRangedA01=Groble ~ Death Clan Tracker
-tagEnemyDeathClanWarriorA01=Groble ~ Death Clan Warrior
-tagEnemyDeathClanWarriorB01=Groble ~ Death Clan Champion
+tagEnemyDeathClanScavengerA01=格罗布 ~ 死之部落 拾荒者
+tagEnemyDeathClanRangedA01=格罗布 ~ 死之部落 追踪者
+tagEnemyDeathClanWarriorA01=格罗布 ~ 死之部落 战士
+tagEnemyDeathClanWarriorB01=格罗布 ~ 死之部落 勇士
 
-tagEnemyDeathClanShamanA01=Groble ~ Death Clan Witchdoctor
-tagEnemyDeathClanShamanB01=Groble ~ Death Clan Bonecaster
+tagEnemyDeathClanShamanA01=格罗布 ~ 死之部落 巫医
+tagEnemyDeathClanShamanB01=格罗布 ~ 死之部落 白骨法师
 
-tagGrobleShamanHeroH01=Deshigu Chillbane
-tagGrobleShamanHeroH02=Nabinok
-tagGrobleShamanHeroH03=Nirlamnack ~ Reflective
-tagGrobleHeroH01=Torgru, the Flametouched
-tagGrobleHeroH02=Arbagol, the Shank
-tagGrobleHeroH03=Uldagu Flame-Eater
-tagGrobleHeroH04=Molbagdal Stormcaller
-tagGrobleHeroH05=Holborack ~ Defender
+tagGrobleShamanHeroH01=冰冷刺骨 德士古
+tagGrobleShamanHeroH02=纳比诺克
+tagGrobleShamanHeroH03=尼尔拉姆纳克 ~ 伤害反弹
+tagGrobleHeroH01=烈火之触 托尔格鲁
+tagGrobleHeroH02=小腿 阿尔巴戈
+tagGrobleHeroH03=食火者 乌达古
+tagGrobleHeroH04=风暴召唤者 摩尔巴格达
+tagGrobleHeroH05=霍尔伯拉克 ~ 防御者
 
-#Harpy
+#Harpy 鹰身女妖
 
-tagEnemyHarpyA01=Harpy Flesh Ripper
-tagEnemyHarpyB01=Harpy Death Wind
-tagEnemyHarpyC01=Harpy Accursed Oracle
+tagEnemyHarpyA01=鹰身女妖 血肉撕裂者
+tagEnemyHarpyB01=鹰身女妖 死亡之风
+tagEnemyHarpyC01=鹰身女妖 厄运神使
 
-tagHarpyHeroH01=Malexna, the Stormweaver
-tagHarpyHeroH02=Blazewing
-tagHarpyHeroH03=Tyrronax, the Great Watcher
-tagHarpyHeroH04=Scyliss, the Stormtouched ~ Electrified
-tagHarpyHeroH05=Holdrexna, the Windwalker ~ Swift
+tagHarpyHeroH01=风暴编织者 玛莱克丝娜
+tagHarpyHeroH02=烈火之翼
+tagHarpyHeroH03=守望者 泰若纳克丝
+tagHarpyHeroH04=风暴之触 赛丽丝 ~ 带电
+tagHarpyHeroH05=风行者 霍德雷克斯娜 ~ 迅捷
 
-tagHarpyBossB01=Lutra the Abandoned
+tagHarpyBossB01=被遗忘的卢特拉
 
 #CreatureHarvestman
 
@@ -223,85 +223,85 @@ tagEnemyHarvestmanA01=
 tagEnemyHarvestmanB01=
 tagEnemyHarvestmanC01=
 
-tagHarvestmanHeroH01=Nemedian, the Reaper
-tagHarvestmanHeroH02=Effigus, the Infested
-tagHarvestmanHeroH03=Asper ~ Swift
-tagHarvestmanHeroH04=Crowfiend ~ Bruiser
+tagHarvestmanHeroH01=收割者 内米笛安
+tagHarvestmanHeroH02=感染者 艾菲格斯
+tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
+tagHarvestmanHeroH04=乌鸦凶煞 ~ 压碎者
 
 #CreatureHuman
 
-tagEnemyBloodswornA01=Bloodsworn Adulant
-tagEnemyBloodswornB01=Bloodsworn Zealot
-tagEnemyBloodswornC01=Bloodsworn Priest
+tagEnemyBloodswornA01=血誓 崇拜者
+tagEnemyBloodswornB01=血誓 狂热者
+tagEnemyBloodswornC01=血誓 牧师
 
-tagHumanCultistHeroH01=Julius Crowley, the Mindbender
-tagEnemyBloodswornMiniBoss01=Salazar, Blade of Ch'thon
+tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
+tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
 
-tagEnemyHumanOutlaw_Wightmire_MeleeA01=Convict ~ Lackey
-tagEnemyHumanOutlaw_Wightmire_MeleeB01=Convict ~ Thug
-tagEnemyHumanOutlaw_Wightmire_MeleeB02=Convict ~ Brute
-tagEnemyHumanOutlaw_Wightmire_MeleeB03=Convict ~ Sadist
-tagEnemyHumanOutlaw_Wightmire_RangedA01=Convict ~ Gunman
-tagEnemyHumanOutlaw_Wightmire_RangedB01=Convict ~ Skirmisher
+tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
+tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯  ~ 恶棍
+tagEnemyHumanOutlaw_Wightmire_MeleeB02=罪犯  ~ 暴徒
+tagEnemyHumanOutlaw_Wightmire_MeleeB03=罪犯  ~ 施虐者
+tagEnemyHumanOutlaw_Wightmire_RangedA01=罪犯  ~ 枪手
+tagEnemyHumanOutlaw_Wightmire_RangedB01=罪犯  ~ 游击兵
 
-tagEnemyHumanOutlaw_MeleeA01=Cronley's Gang ~ Lackey
-tagEnemyHumanOutlaw_MeleeB01=Cronley's Gang ~ Thug
-tagEnemyHumanOutlaw_MeleeB02=Cronley's Gang ~ Brute
-tagEnemyHumanOutlaw_MeleeB03=Cronley's Gang ~ Sadist
-tagEnemyHumanOutlaw_RangedA01=Cronley's Gang ~ Gunman
-tagEnemyHumanOutlaw_RangedB01=Cronley's Gang ~ Skirmisher
-tagEnemyHumanOutlaw_ArsonistC01=Cronley's Gang ~ Arsonist
-tagEnemyHumanOutlaw_MurdererC01=Cronley's Gang ~ Murderer
-tagEnemyHumanOutlaw_HereticC01=Cronley's Gang ~ Heretic
+tagEnemyHumanOutlaw_MeleeA01=克隆利帮 ~ 侍从
+tagEnemyHumanOutlaw_MeleeB01=克隆利帮 ~ 恶棍
+tagEnemyHumanOutlaw_MeleeB02=克隆利帮 ~ 暴徒
+tagEnemyHumanOutlaw_MeleeB03=克隆利帮 ~ 施虐者
+tagEnemyHumanOutlaw_RangedA01=克隆利帮 ~ 枪手
+tagEnemyHumanOutlaw_RangedB01=克隆利帮 ~ 游击兵
+tagEnemyHumanOutlaw_ArsonistC01=克隆利帮 ~ 纵火犯
+tagEnemyHumanOutlaw_MurdererC01=克隆利帮 ~ 杀人犯
+tagEnemyHumanOutlaw_HereticC01=克隆利帮 ~ 异教徒
 
-tagEnemyHumanOutlaw_AetherA01=Cronley's Gang ~ Chosen
-tagEnemyHumanOutlaw_AetherA02=Cronley's Gang ~ Chosen
-tagEnemyHumanOutlaw_AetherB01=Cronley's Gang ~ Destined
-tagEnemyHumanOutlaw_AetherB02=Cronley's Gang ~ Champion
-tagEnemyHumanOutlaw_AetherC01=Cronley's Gang ~ Ascended
+tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ Chosen
+tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ Chosen
+tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ Destined
+tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ Champion
+tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ Ascended
 
-tagHumanOutlawLeader01=Darius Cronley
-tagHumanOutlawMiniBoss01=Edmund "Shanks" Doyle
-tagHumanOutlawMiniBoss02=Silas "The Skinner"
-tagHumanOutlawMiniBoss03=Dravko "The Torch"
-tagHumanOutlawMiniBoss04="Madman" Wilcox
-tagHumanOutlawMiniBoss05=Sleyvak "The Breaker"
-tagHumanOutlawMiniBoss06="Boomer" Slocum
-tagHumanOutlawMiniBoss07=Ashe "The Wall" Farrell
-tagHumanOutlawMiniBoss08=Nicholas Balthazar
+tagHumanOutlawLeader01=德莱厄斯·克隆利
+tagHumanOutlawMiniBoss01=“长腿” 埃德蒙·道尔
+tagHumanOutlawMiniBoss02=“剥皮人” 塞拉斯
+tagHumanOutlawMiniBoss03=“火把” 德拉沃科
+tagHumanOutlawMiniBoss04=“疯子” 威尔克斯
+tagHumanOutlawMiniBoss05=“破坏者” 斯雷瓦克
+tagHumanOutlawMiniBoss06=“轰鸣” 斯洛克姆
+tagHumanOutlawMiniBoss07=“墙壁” 阿什·法雷尔
+tagHumanOutlawMiniBoss08=尼古拉斯·巴尔萨泽
 
-tagHumanOutlawHeroH01=Leander "Blackwater" Greene
-tagHumanHeroH01=Bloody Jack
-tagHumanHeroH02=Delnar Black Eye
-tagHumanHeroH03=Hudson Fury
-tagHumanHeroH04=Nadra, the Shadow
-tagHumanHeroH05=Serul Shadesong
-tagHumanHeroH06=Wiley, the Slasher ~ Swift
-tagHumanHeroH07=Everett, the Bloodbound ~ Burning
-tagHumanHeroH08=Dred One-Eye
-tagHumanHeroH09=Meric Aether-Touched ~ Charger
-tagHumanHeroH10=Eldon "Snakeskin" ~ Regenerator
+tagHumanOutlawHeroH01=“黑水” 利安德·格林
+tagHumanHeroH01=血腥杰克
+tagHumanHeroH02=德尔纳·黑眼
+tagHumanHeroH03=哈德森·福瑞
+tagHumanHeroH04=暗影 纳德拉
+tagHumanHeroH05=塞鲁·暗歌
+tagHumanHeroH06=切割者 威利 ~ 迅捷
+tagHumanHeroH07=血咒 埃弗雷特 ~ 燃烧
+tagHumanHeroH08=德雷德·独眼
+tagHumanHeroH09=梅力克·虚化之触 ~ 冲锋
+tagHumanHeroH10=“蛇皮” 埃尔登 ~ 回复者
 
-tagHumanBoss01="Moneybags" Martin
-tagHumanBoss02=Halion "The Rat"
-tagHumanBoss03=Nicholas Balthazar
-tagHumanBoss04=Boris, Master of the Pit
+tagHumanBoss01=“守财奴” 马丁
+tagHumanBoss02=“耗子” 海里昂
+tagHumanBoss03=尼古拉斯·巴尔萨泽
+tagHumanBoss04=矿主 鲍里斯
 
-tagHumanRoverA_A01=Rover
-tagHumanRoverA_B01=Rover Scout
-tagHumanRoverA_C01=Rover Enforcer
+tagHumanRoverA_A01=流浪者
+tagHumanRoverA_B01=流浪者 侦察兵
+tagHumanRoverA_C01=流浪者 强制者
 
-#CreatureInsectDermapteran
+#CreatureInsectDermapteran 蠼螋
 
-tagEnemyDermapteranWarriorA01=Dermapteran Reaver
+tagEnemyDermapteranWarriorA01=蠼螋 掠夺者
 tagEnemyWeavilA01=Dermapteran Weavil
 
 tagEnemySummonWeavilA01=Infestor
 
-tagDermapteranHeroH01=Harpallax, the Suneater
+tagDermapteranHeroH01=噬日者 Harpallax
 tagDermapteranHeroH02=Corrosinax
-tagDermapteranHeroH03=Wasparex ~ Swift
-tagDermapteranHeroH04=Olmarix ~ Electrified
+tagDermapteranHeroH03=Wasparex ~ 迅捷
+tagDermapteranHeroH04=Olmarix ~ 带电
 
 #CreatureInsectMosquito
 
@@ -669,10 +669,10 @@ tagEnemySummonRifthound=蓝色裂隙魔犬
 
 #Boss&Quest
 
-tagQuestEnemyReanimator=死尸复生者凯奥格
+tagQuestEnemyReanimator=死尸复生者 凯奥格
 tagQuestEnemyMiltonHart=弥尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
-tagQuestChthonianMonstrosity=拆解者马加赛尔
+tagQuestChthonianMonstrosity=拆解者 马加赛尔
 
 tagBossTheWarden01=典狱长
 

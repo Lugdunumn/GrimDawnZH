@@ -121,7 +121,7 @@ tagClass01SkillName08A=曼海尔的意志
 tagClass01SkillDescription08A=当 你 接 近 死 亡 时 ， 曼 海 尔 不 屈 的 意 志 将 灌 注 给 你 新 的 力 量 。^o需 要 盾 牌 或 者 双 手 近 战 武 器
 
 tagClass01SkillName09A=指挥领域
-tagClass01SkillDescription09A=卓 越 的 纪 律 感 和 战 术 知 识 让 你 成 为 战 斗 领 袖 。^o此技 能 须 开 启 以 保 持 生 效 。
+tagClass01SkillDescription09A=卓 越 的 纪 律 感 和 战 术 知 识 让 你 成 为 战 斗 领 袖 。^o此 技 能 需 开 启 以 保 持 生 效 。
 tagClass01SkillName09B=小队战术
 tagClass01SkillDescription09B=激 励 你 的 队 友 ， 增 强 他 们 的 战 力 。
 
@@ -145,7 +145,7 @@ tagClass01SkillName16=百战之躯
 tagClass01SkillDescription16=经 历 了 无 数 战 火 洗 礼 ， 你 已 经 见 识 过 了 最 为 严 酷 的 战 场 。 战 争 所 谓 的 恐 怖 和 小 小 的 伤 口 ， 都 已 无 法 再 阻 碍 你 。
 
 tagClass01SkillName17=防守反击
-tagClass01SkillDescription17=进 入 极 度 灵 敏 的 状 态 来 发 动 闪 电 般 的 反 击 。^o此 技 能 须 开 启 以 保 持 生 效 。
+tagClass01SkillDescription17=进 入 极 度 灵 敏 的 状 态 来 发 动 闪 电 般 的 反 击 。^o此 技 能 需 开 启 以 保 持 生 效 。
 
 
 tagClass01SkillName09C=坚守
@@ -202,45 +202,45 @@ tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 �
 tagClass02SkillName06A=铝 热 地 雷
 tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
 tagClass02SkillName06B=弧 光 闪 电
-tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
+tagClass02SkillDescription06B=同 时 应 用 烟 火 制 造 术 和 炼 金 术 ， 对 铝 热 地 雷 的 致 命 改 进 让 它 可 以 用 灼 热 火 焰 与 电 流 烧 焦 敌 人 。
 tagClass02SkillName06C=烈 焰 喷 射
-tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
+tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
 
 tagClass02SkillName07A=不 熄 烈 焰
-tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
+tagClass02SkillDescription07A=像 多 数 爆 破 者 那 样 ， 达 到 烟 火 制 造 工 艺 的 神 秘 境 界 能 提 供 能 非 一 般 的 持 久 与 炙 热 燃 烧 的 火 与 电 。
 tagClass02SkillName07B=乌 祖 因 的 选 召
-tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 震 击 千 金 ， 手 榴 弹 和 碳 罐 炸 弹]
+tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 眩 晕 千 金 ， 手 榴 弹 和 碳 罐 炸 弹]
 
 tagClass02SkillName08A=黑 水 鸡 尾 酒
-tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
+tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
 tagClass02SkillName08B=酷 热 高 温
-tagClass02SkillDescription08B=A hotter burning Blackwater solution melts armor and incinerates flesh.
+tagClass02SkillDescription08B=高 热 燃 烧 的 黑 水 溶 液 能 融 化 护 甲 并 烧 焦 皮 肉 。
 tagClass02SkillName08C=痛 苦 之 焰
-tagClass02SkillDescription08C=Driven mad by the searing pain of their flame covered bodies, enemy ranks scatter in panic with those still able to function barely able to strike back.
+tagClass02SkillDescription08C=被 烈 焰 焚 身 造 成 的 灼 烧 之 痛 所 逼 疯 了 的 敌 人 会 队 形 散 乱 几 乎 无 法 进 行 还 击 。
 
-tagClass02SkillName09A=Stun Jacks
-tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
-tagClass02SkillName09B=Full Spread
-tagClass02SkillDescription09B=Boosts the electrical capacity of each stun jack and increases the number of jacks that can be thrown at once.
+tagClass02SkillName09A=眩 晕 千 金
+tagClass02SkillDescription09A=扔 出 一 排 小 型 的 带 电 千 斤 顶 暂 时 阻 止 敌 人 前 进 。
+tagClass02SkillName09B=火 力 全 开
+tagClass02SkillDescription09B=提 升 每 个 眩 晕 千 斤 顶 的 电 力 容 量 ， 并 增 加 一 次 能 扔 出 的 千 斤 顶 数 量 。
 
 
-tagClass02SkillName12A=Blast Shield
-tagClass02SkillDescription12A=A combination of military equipment and sorcery creates a shield capable of absorbing a fixed amount of pierce and fire damage before collapsing.
-tagClass02SkillName12B=Temper
-tagClass02SkillDescription12B=The sorcerous flame powering the Blast Shield is extended to equipped weapons and armor, tempering them beyond conventional methods.
+tagClass02SkillName12A=防 爆 护 盾
+tagClass02SkillDescription12A=军 事 装 备 与 巫 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+tagClass02SkillName12B=回 火
+tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 回 火 处 理 。
 
-tagClass02SkillName13A=Vindictive Flame
-tagClass02SkillDescription13A=Ulzuin's eternal flame once brought life and healing to the world, but betrayal and torment twisted this gift into a weapon of vengeance. Those sworn to Ulzuin receive vigor in battle and fiery retaliation upon their foes. ^oThis ability must be toggled to maintain its effect.
-tagClass02SkillName13B=Ulzuin's Wrath
-tagClass02SkillDescription13B=As the flame of Ulzuin scorches adjacent enemies, bolts of sorcerous flame and electricity will arc out to strike more distant foes.
+tagClass02SkillName13A=复 仇 烈 焰
+tagClass02SkillDescription13A=乌 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 乌 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass02SkillName13B=乌 祖 因 的 愤 怒
+tagClass02SkillDescription13B=乌 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
 
-tagClass02SkillName10A=Lightning Charge
+tagClass02SkillName10A=闪 电 炸 弹
 tagClass02SkillDescription10A=Lobs a powerful electrically charged bomb at enemies. Effective against tough single targets.
-tagClass02SkillName10B=Overload
+tagClass02SkillName10B=超 载
 tagClass02SkillDescription10B=Increases the electrical damage of Lightning Charge.
-tagClass02SkillName11A=Heavy Ordnance
+tagClass02SkillName11A=重 型 武 器
 tagClass02SkillDescription11A=Increases the firepower of Grenado and Canister Bomb.
-tagClass02SkillName14A=High Impact
+tagClass02SkillName14A=火 力 冲 击
 tagClass02SkillDescription14A=A powerful attack that does increased damage and knocks down most small to mid-sized enemies.
 
 

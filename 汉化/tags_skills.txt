@@ -48,11 +48,11 @@ tagSkillClassName0809=
 
 tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。
 
-tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 被 用 于 使 用 他 们 可 怕 的 一 系 列 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 在 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 使 用 近 战 武 器 。
+tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
 
-tagSkillClassDescription03=曾 近 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。
+tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幽 光 刃 。
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
 
 tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
 
@@ -172,16 +172,16 @@ tagClass02SkillDescription02A=一 道 致 盲 闪 光 暂 时 使 敌 人 陷 �
 tagClass02SkillName02B=灼热之光
 tagClass02SkillDescription02B=烙 进 敌 人 视 网 膜 的 残 像 弱 化 他 们 造 成 伤 害 的 能 力 。
 
-tagClass02SkillName03A=火力冲击
-tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 艺 引 发 军 事 攻 击 燃 烧 敌 人 周 围 的 空 气 。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 力 打 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
+tagClass02SkillName03A=火焰冲击
+tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 术 ， 引 发 燃 烧 敌 人 周 围 空 气 的 攻 击。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 焰 冲 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
 tagClass02SkillName03B=爆炸冲击
-tagClass02SkillDescription03B=提 高 火 力 冲 击 的 效 力 ， 有 几 率 造 成 大 量 物 理 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
+tagClass02SkillDescription03B=提 高 火 焰 冲 击 的 效 力 ， 有 几 率 造 成 大 量 物 理 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
 tagClass02SkillName03C=静态冲击
-tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 力 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
-tagClass02SkillName03D=火力裂片
+tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 焰 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
+tagClass02SkillName03D=裂片
 tagClass02SkillDescription03D=对 火 力 冲 击 的 进 一 步 改 进 ， 增 加 穿 甲 弹 片 并 增 强 它 的 火 热 负 载 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
 
-tagClass02SkillName04A=碳罐炸弹
+tagClass02SkillName04A=罐式炸弹
 tagClass02SkillDescription04A=填 装 了 更 多 爆 炸 物 的 炸 药 ， 这 项 恐 怖 的 发 明 能 够 击 垮 一 整 片 敌 人 。
 tagClass02SkillName04B=改良外壳
 tagClass02SkillDescription04B=对 碳 罐 炸 弹 外 壳 的 调 整 增 强 了 其 震 荡 威 力 ， 对 敌 人 造 成 持 续 创 伤 并 使 其 减 速 ； 还 拥 有 更 大 的 爆 炸 范 围 。
@@ -199,69 +199,69 @@ tagClass02SkillDescription05D=向 敌 人 发 射 爆 炸 的 迫 击 炮 弹 �
 tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
 
-tagClass02SkillName06A=铝 热 地 雷
+tagClass02SkillName06A=铝热地雷
 tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
-tagClass02SkillName06B=弧 光 闪 电
+tagClass02SkillName06B=电弧
 tagClass02SkillDescription06B=同 时 应 用 烟 火 制 造 术 和 炼 金 术 ， 对 铝 热 地 雷 的 致 命 改 进 让 它 可 以 用 灼 热 火 焰 与 电 流 烧 焦 敌 人 。
-tagClass02SkillName06C=烈 焰 喷 射
+tagClass02SkillName06C=烈焰喷射
 tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
 
-tagClass02SkillName07A=不 熄 烈 焰
+tagClass02SkillName07A=不熄烈焰
 tagClass02SkillDescription07A=像 多 数 爆 破 者 那 样 ， 达 到 烟 火 制 造 工 艺 的 神 秘 境 界 能 提 供 能 非 一 般 的 持 久 与 炙 热 燃 烧 的 火 与 电 。
-tagClass02SkillName07B=乌 祖 因 的 选 召
+tagClass02SkillName07B=乌祖因的选召
 tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 眩 晕 千 金 ， 手 榴 弹 和 碳 罐 炸 弹]
 
-tagClass02SkillName08A=黑 水 鸡 尾 酒
+tagClass02SkillName08A=黑水鸡尾酒
 tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
-tagClass02SkillName08B=酷 热 高 温
+tagClass02SkillName08B=酷热高温
 tagClass02SkillDescription08B=高 热 燃 烧 的 黑 水 溶 液 能 融 化 护 甲 并 烧 焦 皮 肉 。
-tagClass02SkillName08C=痛 苦 之 焰
+tagClass02SkillName08C=痛苦之焰
 tagClass02SkillDescription08C=被 烈 焰 焚 身 造 成 的 灼 烧 之 痛 所 逼 疯 了 的 敌 人 会 队 形 散 乱 几 乎 无 法 进 行 还 击 。
 
-tagClass02SkillName09A=眩 晕 千 金
+tagClass02SkillName09A=眩晕千金
 tagClass02SkillDescription09A=扔 出 一 排 小 型 的 带 电 千 斤 顶 暂 时 阻 止 敌 人 前 进 。
-tagClass02SkillName09B=火 力 全 开
+tagClass02SkillName09B=火力全开
 tagClass02SkillDescription09B=提 升 每 个 眩 晕 千 斤 顶 的 电 力 容 量 ， 并 增 加 一 次 能 扔 出 的 千 斤 顶 数 量 。
 
 
-tagClass02SkillName12A=防 爆 护 盾
+tagClass02SkillName12A=防爆护盾
 tagClass02SkillDescription12A=军 事 装 备 与 巫 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
-tagClass02SkillName12B=回 火
+tagClass02SkillName12B=回火
 tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 回 火 处 理 。
 
-tagClass02SkillName13A=复 仇 烈 焰
+tagClass02SkillName13A=复仇烈焰
 tagClass02SkillDescription13A=乌 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 乌 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
-tagClass02SkillName13B=乌 祖 因 的 愤 怒
+tagClass02SkillName13B=乌祖因的愤怒
 tagClass02SkillDescription13B=乌 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
 
-tagClass02SkillName10A=闪 电 炸 弹
+tagClass02SkillName10A=闪电炸弹
 tagClass02SkillDescription10A=Lobs a powerful electrically charged bomb at enemies. Effective against tough single targets.
-tagClass02SkillName10B=超 载
+tagClass02SkillName10B=超载
 tagClass02SkillDescription10B=Increases the electrical damage of Lightning Charge.
-tagClass02SkillName11A=重 型 武 器
+tagClass02SkillName11A=重型武器
 tagClass02SkillDescription11A=Increases the firepower of Grenado and Canister Bomb.
-tagClass02SkillName14A=火 力 冲 击
+tagClass02SkillName14A=火力冲击
 tagClass02SkillDescription14A=A powerful attack that does increased damage and knocks down most small to mid-sized enemies.
 
 
 
 #Class03
 
-tagClass03SkillName00=Occultist
-tagClass03SkillDescription00=An in-depth study on the manipulation and control of the occult.
+tagClass03SkillName00=术士
+tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
 
-tagClass03SkillName01A=Summon Familiar
+tagClass03SkillName01A=召唤
 tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. ^oOnly one raven may be summoned at any one time.
-tagClass03SkillName01B=Storm Orb
-tagClass03SkillDescription01B=Innate Attack.
-tagClass03SkillName01C=Mend Flesh
+tagClass03SkillName01B=风暴光球
+tagClass03SkillDescription01B=普 通 攻 击 。
+tagClass03SkillName01C=血肉缝合
 tagClass03SkillDescription01C=The raven channels eldritch energies to mend the flesh of wounded allies.
-tagClass03SkillName01D=Storm Spirit
+tagClass03SkillName01D=风暴之心
 tagClass03SkillDescription01D=The raven projects its eldritch spirit into selected allies, empowering them beyond their mortal means.
-tagClass03SkillName01E=Lightning Strike
+tagClass03SkillName01E=闪电打击
 tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
 
-tagClass03SkillName02A=Summon Hellhound
+tagClass03SkillName02A=召唤地狱猎犬
 tagClass03SkillDescription02A=Calls forth a hellhound from the phantom realm to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one Hellhound can be summoned at any one time.
 tagClass03SkillName02B=Ember Claw
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
@@ -341,7 +341,7 @@ tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
 tagClass04SkillName01A=幻影刀锋
-tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 如 纸 片 一 般 撕 裂 肉 体 。
+tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 如 切 割 纸 片 一 般 撕 裂 肉 体 。
 tagClass04SkillName01B=寻心击
 tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召  唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
 tagClass04SkillName01C=幽冥之刃
@@ -350,25 +350,25 @@ tagClass04SkillName01D=狂热投掷
 tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
 
 tagClass04SkillName02A=暗影突袭
-tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
+tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^o需 要 一 把 近 战 武 器 。
 tagClass04SkillName02B=尼达拉的正义裁决
 tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
-tagClass04SkillName02C=夜临
+tagClass04SkillName02C=暗夜降临
 tagClass04SkillDescription02C=As you reappear and engage your prime target, a pall of darkness will descend upon surrounding enemies like the darkest, coldest night, chilling their blood and invading their minds with an uncontrollable weariness.
 
 tagClass04SkillName03A=刀锋刺盾
 tagClass04SkillDescription03A=For a master Nightblade, Belgothian was rumored to lack fine control of his conjuring; but he had the unremitting willpower to summon so many blades that they would form an impenetrable shield surrounding him, giving him a moment of respite from his foes.
 
-tagClass04SkillName04A=钢铁指环
-tagClass04SkillDescription04A=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
+tagClass04SkillName04A=钢铁之环
+tagClass04SkillDescription04A=眨 眼 间 ， 上 百 把 幻 影 刀 锋 以 致 人 死 地 的 速 度 环 绕 着 你 ， 消 灭 邻 近 的 敌 人 。
 tagClass04SkillName04B=屠戮之环
-tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
+tagClass04SkillDescription04B=锋 利 的 幻 影 刀 锋 深 深 地 切 割 圆 环 范 围 内 的 敌 人 ， 使 他 们 流 出 大 量 的 鲜 血 。
 
 tagClass04SkillName05A=双刃
 tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oEnables the ability to dual wield melee weapons.
 tagClass04SkillName05B=贝尔歌德人之剪
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
-tagClass04SkillName05C=阿玛里斯塔的瞬影
+tagClass04SkillName05C=阿玛拉斯塔的瞬影
 tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
 tagClass04SkillName05D=死亡旋风
 tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
@@ -402,12 +402,12 @@ tagClass04SkillDescription11B=The phantasmal blades drain the life essence of th
 
 tagClass04SkillName10A=刀阵
 tagClass04SkillDescription10A=Conjure a swarm of phantasmal blades to envelop your foes, lacerating their flesh and driving the weak of heart into terror.
-tagClass04SkillName10B=阿玛里斯塔的双刃
+tagClass04SkillName10B=阿玛拉斯塔的双刃
 tagClass04SkillDescription10B=A master technique that causes the Blade Swarm to turn the weapons of your foes against themselves, causing them to inflict further suffering with their own tools of war.
 
 tagClass04SkillName13A=幻影护甲
 tagClass04SkillDescription13A=A metaphysical barrier forms around you, brought into being through the focused power of mind and spirit. This barrier repels physical damage and transfers energy from magical attacks into your own pneuma reserves.
-tagClass04SkillName13B=凶杀解剖
+tagClass04SkillName13B=解剖
 tagClass04SkillDescription13B=Knowledge prized by royal assassins, the extensive study of anatomy familiarizes you with all of the most vulnerable and damaging locations in which to slide a blade. 
 tagClass04SkillName13C=无情终章
 tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledge of poisons and elemental powers can be the most effective means to gain the upper hand in combat.
@@ -415,11 +415,11 @@ tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledg
 
 tagClass04SkillName04C=毁灭刀锋
 tagClass04SkillDescription04C=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
-tagClass04SkillName07X=深化黑暗
+tagClass04SkillName07X=深入暗影
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
-tagClass04SkillName07C=阿玛里斯塔的隐刀
+tagClass04SkillName07C=阿玛拉斯塔的隐刀
 tagClass04SkillDescription07C=Throughout combat with the nightblade, wounds appear on enemies where no weapon was seen to strike.
-tagClass04SkillName09A=生命接收者
+tagClass04SkillName09A=夺命
 tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the nightblade, allowing them to grow stronger even as the life leaves their quarry.
 tagClass04SkillName12A=精神抽取
 tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
@@ -432,7 +432,7 @@ tagClass04SkillName14B=Amarasta's Blade Burst
 tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
 
 tagClass04SkillName15A=Eviscerate
-tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^oRequires a Sword or Axe.
+tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^o需要一把剑或斧。
 tagClass04SkillName15B=Amarasta's Gambit
 tagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
 

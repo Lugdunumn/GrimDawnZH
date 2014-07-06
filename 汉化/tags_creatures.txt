@@ -254,11 +254,11 @@ tagEnemyHumanOutlaw_ArsonistC01=克隆利帮 ~ 纵火犯
 tagEnemyHumanOutlaw_MurdererC01=克隆利帮 ~ 杀人犯
 tagEnemyHumanOutlaw_HereticC01=克隆利帮 ~ 异教徒
 
-tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ Chosen
-tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ Chosen
-tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ Destined
-tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ Champion
-tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ Ascended
+tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ 被选召的
+tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ 被选召的
+tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ 命中注定的
+tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优秀的
+tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 巅峰的
 
 tagHumanOutlawLeader01=德莱厄斯·克隆利
 tagHumanOutlawMiniBoss01=“长腿” 埃德蒙·道尔
@@ -294,9 +294,9 @@ tagHumanRoverA_C01=流浪者 强制者
 #CreatureInsectDermapteran 蠼螋
 
 tagEnemyDermapteranWarriorA01=蠼螋 掠夺者
-tagEnemyWeavilA01=Dermapteran Weavil
+tagEnemyWeavilA01=革翅 象甲
 
-tagEnemySummonWeavilA01=Infestor
+tagEnemySummonWeavilA01=感染者
 
 tagDermapteranHeroH01=噬日者 Harpallax
 tagDermapteranHeroH02=Corrosinax
@@ -305,19 +305,19 @@ tagDermapteranHeroH04=Olmarix ~ 带电
 
 #CreatureInsectMosquito
 
-tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
-tagEnemyInsectMosquitoB01=Mireborn Bloodfiend
-tagEnemyInsectMosquitoC01=Mireborn Matriarch
+tagEnemyInsectMosquitoA01=泥沼滋生的食血客
+tagEnemyInsectMosquitoB01=泥沼滋生的血恶魔
+tagEnemyInsectMosquitoC01=泥沼滋生的女酋长
 
-tagInsectMosquitoHeroH01=Vladox, the Bloodletter
-tagInsectMosquitoHeroH02=Sarlap ~ Electrified
-tagInsectMosquitoHeroH03=Jornax, the Voracious ~ Swift
+tagInsectMosquitoHeroH01=Vladox, 放血者
+tagInsectMosquitoHeroH02=Sarlap ~ 带电
+tagInsectMosquitoHeroH03=Jornax, the Voracious ~ 迅捷
 
 #CreatureInsectWasp
 
-tagEnemyInsectWaspA01=Venomwing Drone
-tagEnemyInsectWaspB01=Venomwing Stinger
-tagEnemyInsectWaspC01=Venomwing Queen
+tagEnemyInsectWaspA01=毒翼工蜂
+tagEnemyInsectWaspB01=毒翼刺蜂
+tagEnemyInsectWaspC01=毒翼蜂王
 
 tagInsectWaspHeroH01=Scarprax, the Frenzied
 tagInsectWaspHeroH02=Caraprax ~ Defender
@@ -330,10 +330,10 @@ tagInsectWaspBoss02=Ronaprax, the Grand Queen
 
 #CreatureInsectSwarm
 
-tagEnemyInsectSwarmA01=Devouring Swarm
-tagEnemyInsectSwarmB01=Pestilent Swarm
+tagEnemyInsectSwarmA01=吞噬蜂群
+tagEnemyInsectSwarmB01=瘟疫蜂群
 
-tagEnemyInsectSwarm_PossessedA01=Possessed Swarm
+tagEnemyInsectSwarm_PossessedA01=疯狂蜂群
 
 tagInsectSwarmHeroH01=Issk, the Hive Mind
 tagInsectSwarmHeroH02=Avarix ~ Electrified
@@ -545,17 +545,17 @@ tagBossTrollB02=Voldrak, the Destroyer
 
 #Underdwellers
 
-tagEnemyCaveTrollHalfA01=Underdweller Brute
-tagEnemyCaveTrollHalfB01=Underdweller Savage
-tagEnemyCaveTrollHalfB02=Underdweller Mystic
-tagEnemyCaveGrobleA01=Underdweller Runt
-tagEnemyCaveGrobleB01=Underdweller Ritualist
-tagEnemyCaveTrollB01=Underdweller Troll
-tagEnemyCaveTrollC01=Underdweller Behemoth
-tagEnemyCaveSpiderA01=Terrorweave Spiderling
-tagEnemyCaveSpiderB01=Terrorweave Arachnid
-tagEnemyCaveSpiderB02=Terrorweave Widow
-tagEnemyCaveSpiderC01=Terrorweave Matriarch
+tagEnemyCaveTrollHalfA01=地下栖息暴君
+tagEnemyCaveTrollHalfB01=地下栖息野蛮人
+tagEnemyCaveTrollHalfB02=地下栖息潜修者
+tagEnemyCaveGrobleA01=地下栖息矮人
+tagEnemyCaveGrobleB01=地下栖息祭司
+tagEnemyCaveTrollB01=地下栖息巨魔
+tagEnemyCaveTrollC01=地下栖息巨兽
+tagEnemyCaveSpiderA01=恐惧编织幼蛛
+tagEnemyCaveSpiderB01=恐惧编织蜘蛛
+tagEnemyCaveSpiderB02=恐惧编织寡妇
+tagEnemyCaveSpiderC01=恐惧编织女族长
 
 tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
 tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
@@ -593,12 +593,12 @@ tagEnemyZombieA01=行尸
 tagEnemyZombieB01=Wretcher
 tagEnemyZombieC01=怒尸
 tagEnemyZombieD01=冻尸
-tagEnemyZombieE01=Night Terror
+tagEnemyZombieE01=夜行尸
 tagEnemyZombieF01=燃尸
 tagEnemyZombieG01=毒尸
-tagEnemyZombieSoldierA01=Rotting Soldier
-tagEnemyZombieSoldierB01=Rotting Emberguard
-tagEnemyZombieBerserkerA01=Corpsefiend
+tagEnemyZombieSoldierA01=腐朽士兵
+tagEnemyZombieSoldierB01=腐朽灰烬守卫
+tagEnemyZombieBerserkerA01=尸魔
 
 tagEnemyZombieVoidA01=Ch'thonic Soulless
 
@@ -618,8 +618,8 @@ tagZombieHeroH10=巫火 艾尔瑞克
 
 #CreatureZombieHound
 
-tagEnemyZombieHoundA01=Tainted Hound
-tagEnemyZombieHoundB01=Tainted Pack Leader
+tagEnemyZombieHoundA01=污秽猎狗
+tagEnemyZombieHoundB01=污秽狗群领袖
 
 tagZombieHoundHeroH01=Gornax, the Nightmare
 tagZombieHoundHeroH02=Sharn, the Cursed
@@ -636,9 +636,9 @@ tagReanimatorHeroH02=Gollorg, the Undiminished ~ Unstoppable
 tagReanimatorHeroH03=Corpsefire ~ Reflective
 tagReanimatorHeroH04=Azgalogg, the Corruptor ~ Defender
 
-tagReanimatorBossH01=Gethrand, the Betrayed
-tagReanimatorBossH02=Zanbrandt, the Ascended
-tagReanimatorBossH03=Chilldread
+tagReanimatorBossH01=桀斯兰特， 背叛的
+tagReanimatorBossH02=酂布兰特， 巅峰的
+tagReanimatorBossH03=寒冰恐惧
 
 #Pets
 
@@ -687,7 +687,7 @@ tagRace006=血誓
 tagRace007=Eldritch
 tagRace008=昆虫族
 tagRace009=人类
-tagRace010=Construct
+tagRace010=结构体
 tagRace011=裂隙生物
 tagRace012=野兽
 tagRace013=Magical
@@ -700,7 +700,7 @@ tagRace006P=血誓
 tagRace007P=Eldritch
 tagRace008P=昆虫族
 tagRace009P=人类
-tagRace010P=Constructs
+tagRace010P=结构体
 tagRace011P=裂隙生物
 tagRace012P=野兽
 tagRace013P=Magical

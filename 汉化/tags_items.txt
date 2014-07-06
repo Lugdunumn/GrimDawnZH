@@ -1823,91 +1823,91 @@ tagBonusAttribPoint={%+d0} 属性点数
 
 
 tagItemSetC001Name=帝国卫兵的戎装
-tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
+tagItemSetC001Desc=“曾 经 是 维 和 军 队 和 皇 家 护 卫 的 标 准 装 备 ， 这 些 套 装 在 恐 惧 黎 明 中 留 存 无 几 。”
 
 tagItemSetC002Name=探险家的服饰
-tagItemSetC002Desc="Light but durable armor for the eager traveler."
+tagItemSetC002Desc=“给 渴 望 探 险 的 人 的 轻 便 且 耐 用 的 护 甲。”
 
 tagItemSetC003Name=麦文的圣装
 tagItemSetC003Desc=“向 传 奇 般 的 秘 术 师 麦 文 致 敬 的 盛 装 。”
 
 tagItemSetC004Name=鲜血收割者的荣耀
-tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
+tagItemSetC004Desc=“仅 被 凯 恩 最 嗜 血 的 刺 客 们 使 用 过 的 盔 甲 和 武 器 。”
 
 tagItemSetC005Name=掠夺者的正义
-tagItemSetC005Desc="Judge, jury, and executioner."
+tagItemSetC005Desc=“判 官 ， 陪 审 ， 和 刽 子 手 。”
 
 tagItemSetC006Name=使者的华服
 tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 之 使 节 所 穿 的 服 饰 。”
 
 tagItemSetC007Name=曼海尔之触
-tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
+tagItemSetC007Desc=“被 纪 念 巨 碑 的 守 护 祭 司 穿 过 的 特 别 物 品 ， 他 们 被 指 定 作 为 没 有 外 交 从 属 关 系 的 医 疗 师 。”
 
 tagItemSetC008Name=救赎
-tagItemSetC008Desc="Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
+tagItemSetC008Desc=“被 圣 殿 骑 士 兰 德 尔 · 格 瑞 维 斯 在 他 毕 生 的 东 征 中 穿 过 ， 用 于 赦 免 他 打 破 他 的 神 圣 誓 约 娶 妻 的 堕 落 行 为 。”
 
 tagItemSetC009Name=盲眼
-tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
+tagItemSetC009Desc=“盲 刺 客 ， 萨 迪 厄 斯 · 布 兰 纳 甘 ， 当 他 在 光 天 化 日 之 下 暗 杀 了 一 个 圣 殿 骑 士 团 团 长 后 声 名 远 扬 。”
 
 tagItemSetC010Name=神射手的徽记
-tagItemSetC010Desc="Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
+tagItemSetC010Desc=“兵 工 厂 中 精 通 步 枪 的 人 能 命 中 500 码 外 飞 翔 的 鸟 。”
 
 tagItemSetC011Name=不洁圣约
-tagItemSetC011Desc="Cabal regalia worn during unspeakable rituals."
+tagItemSetC011Desc=“朋 党 在 莫 可 名 状 的 仪 式 上 穿 戴 过 的 特 别 物 品 。”
 
 tagItemSetC012Name=皇室奢华
-tagItemSetC012Desc="Royal collection of jewelry thought lost to the ravages of the Grim Dawn."
+tagItemSetC012Desc=“被 认 为 遗 失 在 恐 怖 黎 明 劫 掠 中 的 皇 家 珠 宝 收 藏 品 。”
 
 tagItemSetC013Name=毁誓者
-tagItemSetC013Desc="Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
+tagItemSetC013Desc=“毁 誓 者 曾 经 携 带 的 装 备 , 一 个 为 敌 人 打 开 城 门 背 叛 了 他 的 国 王 的 骑 士 。"
 
-tagItemSetC014Name=Adorments of Valiance
-tagItemSetC014Desc="Commendations bestowed upon soldiers for heroic actions in time of war."
+tagItemSetC014Name=勇气之饰
+tagItemSetC014Desc=“在 战 争 年 代 为 士 兵 们 英 勇 行 为 所 授 的 奖 章 。”
 
-tagItemSetC015Name=Carnage
-tagItemSetC015Desc="These rings inspire bloodshed in whoever wears them."
+tagItemSetC015Name=大屠杀
+tagItemSetC015Desc=“谁 佩 戴 这 些 指 环 就 会 由 谁 引 发 血 案 。”
 
 tagItemSetC016Name=秘术典范
 tagItemSetC016Desc=“这 套 华 服 授 予 给 在 秘 术 学 研 究 中 取 得 重 大 成 就 的  秘 术 师 。”
 
-tagItemSetC017Name=Dawnguard
-tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy faith of Menhir."
+tagItemSetC017Name=黎明守卫
+tagItemSetC017Desc=“仅 被 纪 念 巨 碑 神 圣 信 仰 的 最 狂 热 的 守 护 者 穿 过 的 盔 甲 。”
 
 tagItemSetC018Name=Wrath of Alkamos
 tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia"
 
-tagItemSetD001Name=Justicar Armor
+tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
 
-tagItemSetD002Name=The Sacred Balance
-tagItemSetD002Desc="The very essence of Life and Death is imbued within these blades."
+tagItemSetD002Name=神圣平衡
+tagItemSetD002Desc=“生 命 和 死 亡 的 本 质 灌 注 于 这 些 刀 锋 之 中 。”
 
 tagItemSetD003Name=野兽召唤师的华服
 tagItemSetD003Desc=“巨 熊 之 力 ， 夜 枭 之 智 ， 灵 狼 之 怒 。”
 
-tagItemSetD004Name=Dawnbreaker's Light
-tagItemSetD004Desc="The wrath of the sun against the encroaching darkness."
+tagItemSetD004Name=破晓者之光
+tagItemSetD004Desc=“太 阳 的 怒 火 抵 抗 不 断 侵 袭 的 黑 暗 。”
 
-tagItemSetD005Name=The Harbinger
-tagItemSetD005Desc="Tools of the Harbinger, renowned bounty hunter in the outskirts of Erulan."
+tagItemSetD005Name=先驱者
+tagItemSetD005Desc=“工 具 使 用 的 先 驱 者 ， 艾 瑞 拉 郊 区 著 名 的 赏 金 猎 人 。”
 
-tagItemSetD006Name=Judicator's Signets
-tagItemSetD006Desc="The fates of many decided by the heavy hand of one."
+tagItemSetD006Name=执政官的印章
+tagItemSetD006Desc=“众 多 命 运 的 裁 决 来 自 一 人 之 腕 。”
 
-tagItemSetD007Name=Demonslayer's Garb
-tagItemSetD007Desc="Attire of Oliver Barnstead, pious follower of Menhir and exorcist of demons."
+tagItemSetD007Name=恶魔猎手的制服
+tagItemSetD007Desc=“奥 利 弗 巴 恩 斯 特 德 的 服 装 ， 纪 念 巨 碑 和 驱 魔 师 虔 诚 的 追 随 者 。”
 
-tagItemSetD008Name=Barrelsmith's Twins
-tagItemSetD008Desc="Forged together, fight as one."
+tagItemSetD008Name=枪匠的双胞胎
+tagItemSetD008Desc=“一 同 锻 造 ， 战 为 一 体 。”
 
-tagItemSetD009Name=Wildblood Vanguard
-tagItemSetD009Desc="A collection from a less civilized era."
+tagItemSetD009Name=狂野之血先锋
+tagItemSetD009Desc=“一 套 来 自 蛮 夷 时 代 的 收 藏 品 。”
 
 tagItemSetD010Name=大法师
-tagItemSetD010Desc="Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
+tagItemSetD010Desc=“法 袍 曾 被 银 塔 的 大 法 师 穿 过 ， 吉 尔 丹 奥 秘 的 校 长 。”
 
-tagItemSetD011Name=Invoker's Elements
-tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the northern wind."
+tagItemSetD011Name=祈求者的元素
+tagItemSetD011Desc=“火 山 那 狂 暴 的 力 量 被 寒 冷 的 北 风 所 平 衡 。”
 
 
 #Prefixes前缀

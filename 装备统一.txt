@@ -1,59 +1,59 @@
-#Ì××°
+#å¥—è£…
 
-tagItemSetC001Name=Guardsman's Raiment µÛ¹úÎÀ±øµÄÈÖ×°
+tagItemSetC001Name=Guardsman's Raiment å¸å›½å«å…µçš„æˆè£…
 
-tagItemSetC002Name=Explorer's Garments Ì½ÏÕ¼ÒµÄ·şÊÎ
+tagItemSetC002Name=Explorer's Garments æ¢é™©å®¶çš„æœé¥°
 
-tagItemSetC003Name=Maiven's Sanctuary ÂóÎÄµÄÊ¥×°
+tagItemSetC003Name=Maiven's Sanctuary éº¦æ–‡çš„åœ£è£…
 
-tagItemSetC004Name=Bloodreaper's Glory ÏÊÑªÊÕ¸îÕßµÄÈÙÒ«
+tagItemSetC004Name=Bloodreaper's Glory é²œè¡€æ”¶å‰²è€…çš„è£è€€
 
-tagItemSetC005Name=Marauder's Justice ÂÓ¶áÕßµÄÕıÒå
+tagItemSetC005Name=Marauder's Justice æ å¤ºè€…çš„æ­£ä¹‰
 
-tagItemSetC006Name=Herald's Regalia Ê¹ÕßµÄ»ª·ş
+tagItemSetC006Name=Herald's Regalia ä½¿è€…çš„åæœ
 
-tagItemSetC007Name=Menhir's Touch Âüº£¶ûÖ®´¥
+tagItemSetC007Name=Menhir's Touch æ›¼æµ·å°”ä¹‹è§¦
 
-tagItemSetC008Name=Redemption ¾ÈÊê
+tagItemSetC008Name=Redemption æ•‘èµ
 
-tagItemSetC009Name=The Unseeing Eye Ã¤ÑÛ
+tagItemSetC009Name=The Unseeing Eye ç›²çœ¼
 
-tagItemSetC010Name=Sharpshooter's Mark ÉñÉäÊÖµÄ»Õ¼Ç
+tagItemSetC010Name=Sharpshooter's Mark ç¥å°„æ‰‹çš„å¾½è®°
 
-tagItemSetC011Name=Unholy Covenant ²»½àÊ¥Ô¼
+tagItemSetC011Name=Unholy Covenant ä¸æ´åœ£çº¦
 
-tagItemSetC012Name=Royal Exuberance »ÊÊÒÉİ»ª
+tagItemSetC012Name=Royal Exuberance çš‡å®¤å¥¢å
 
-tagItemSetC013Name=Oathbreaker »ÙÊÄÕß
+tagItemSetC013Name=Oathbreaker æ¯èª“è€…
 
-tagItemSetC014Name=Adorments of Valiance ÓÂÆøÖ®ÊÎ
+tagItemSetC014Name=Adorments of Valiance å‹‡æ°”ä¹‹é¥°
 
-tagItemSetC015Name=Carnage ´óÍÀÉ±
+tagItemSetC015Name=Carnage å¤§å± æ€
 
-tagItemSetC016Name=The Paragon of Arcanum ÃØÊõµä·¶
+tagItemSetC016Name=The Paragon of Arcanum ç§˜æœ¯å…¸èŒƒ
 
-tagItemSetC017Name=Dawnguard ÀèÃ÷ÊØÎÀ
+tagItemSetC017Name=Dawnguard é»æ˜å®ˆå«
 
-tagItemSetC018Name=Wrath of Alkamos °¢¿¨ÄªË¹Ö®Å­
+tagItemSetC018Name=Wrath of Alkamos é˜¿å¡è«æ–¯
 
-tagItemSetD001Name=Justicar Armor ÉóÅĞÕß¿ø¼×
+tagItemSetD001Name=Justicar Armor å®¡åˆ¤è€…ç›”ç”²
 
-tagItemSetD002Name=The Sacred Balance ÉñÊ¥Æ½ºâ
+tagItemSetD002Name=The Sacred Balance ç¥åœ£å¹³è¡¡
 
-tagItemSetD003Name=Beastcaller's Regalia Ò°ÊŞÕÙ»½Ê¦µÄ»ª·ş
+tagItemSetD003Name=Beastcaller's Regalia é‡å…½å¬å”¤å¸ˆçš„åæœ
 
-tagItemSetD004Name=Dawnbreaker's Light ÆÆÏşÕßÖ®¹â
+tagItemSetD004Name=Dawnbreaker's Light ç ´æ™“è€…ä¹‹å…‰
 
-tagItemSetD005Name=The Harbinger ÏÈÇıÕß
+tagItemSetD005Name=The Harbinger å…ˆé©±è€…
 
-tagItemSetD006Name=Judicator's Signets Ö´Õş¹ÙµÄÓ¡ÕÂ
+tagItemSetD006Name=Judicator's Signets æ‰§æ”¿å®˜çš„å°ç« 
 
-tagItemSetD007Name=Demonslayer's Garb ¶ñÄ§ÁÔÊÖµÄÖÆ·ş
+tagItemSetD007Name=Demonslayer's Garb æ¶é­”çŒæ‰‹çš„åˆ¶æœ
 
-tagItemSetD008Name=Barrelsmith's Twins Ç¹½³µÄË«°ûÌ¥
+tagItemSetD008Name=Barrelsmith's Twins æªåŒ çš„åŒèƒèƒ
 
-tagItemSetD009Name=Wildblood Vanguard ¿ñÒ°Ö®ÑªÏÈ·æ
+tagItemSetD009Name=Wildblood Vanguard ç‹‚é‡ä¹‹è¡€å…ˆé”‹
 
-tagItemSetD010Name=The Archmage ´ó·¨Ê¦
+tagItemSetD010Name=The Archmage å¤§æ³•å¸ˆ
 
-tagItemSetD011Name=Invoker's Elements ÆíÇóÕßµÄÔªËØ
+tagItemSetD011Name=Invoker's Elements ç¥ˆæ±‚è€…çš„å…ƒç´ 

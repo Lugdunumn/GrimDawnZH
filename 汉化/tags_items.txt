@@ -96,7 +96,7 @@ tagWeaponBluntC002=混沌无序
 tagWeaponBluntC002Desc=“这 把 神 圣 的 节 杖 在 被 冥 神 鲜 血 擦 拭 之 后 ， 变 成 了 如 今 这 副 扭 曲 的 形 状 。”
 tagWeaponBluntC003=怨恶之触
 tagWeaponBluntC003Desc=“一 把 夺 去 了 无 数 人 生 命 的 邪 恶 武 器 。”
-tagWeaponBluntC004=卫士之锤
+tagWeaponBluntC004=帝国卫兵之锤
 tagWeaponBluntC005=黒木之棍
 tagWeaponBluntC006=无尽愤怒圣锤
 tagWeaponBluntC007=祝福火炬
@@ -387,7 +387,7 @@ tagShieldB007=君权盾
 tagShieldC001=魔鬼路口防御者
 tagShieldC002=源质
 tagShieldC002Desc="获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
-tagShieldC003=卫兵的防御者
+tagShieldC003=帝国卫兵的防御者
 tagShieldC004=火焰破坏者
 tagShieldC005=魔鬼笑容
 tagShieldC006=野兽之喉
@@ -444,7 +444,7 @@ tagFocusA014=怪异魔杖
 tagFocusB001=扎尔萨兰的手抄本
 tagFocusB001Desc=“写 满 了 各 种 为 神 奉 献 无 信 仰 者 的 火 焰 邪 术 。”
 tagFocusB002=罗德拉西斯的宝典
-tagFocusB002Desc=“书 中 带 有 令 人 发 狂 仇 恨 的 词 句 让 你 感 到 寒 心 彻 骨 。”
+tagFocusB002Desc=“书 中 那 令 人 发 狂 ， 产 生 恨 意 的 词 句 令 你 感 到 寒 心 彻 骨 。”
 tagFocusB003A=秘文档案
 tagFocusB003B=奥秘之角
 tagFocusB004A=秘文魔法书
@@ -691,38 +691,38 @@ tagShoulderD010=大法师的披肩
 
 #ArmorTorso 护甲
 
-tagTorsoA000=Clothing
-tagTorsoA001L=Coat
-tagTorsoA002L=Doublet
-tagTorsoA003L=Cuirass
-tagTorsoA004L=Hauberk
-tagTorsoA005H=Armor
-tagTorsoA006H=Trenchcoat
-tagTorsoA007H=Surcoat
-tagTorsoA008H=Chainmail
-tagTorsoA009H=Platemail
-tagTorsoA010M=Jacket
-tagTorsoA011M=Breastplate
-tagTorsoA012M=Chestguard
-tagTorsoA013M=Harness
-tagTorsoA014C=Tunic
-tagTorsoA015C=Vestment
-tagTorsoA016C=Raiment
-tagTorsoA017C=Robe
+tagTorsoA000=成衣
+tagTorsoA001L=外衣
+tagTorsoA002L=紧身衣
+tagTorsoA003L=胸铠
+tagTorsoA004L=锁子甲
+tagTorsoA005H=护身甲
+tagTorsoA006H=风衣
+tagTorsoA007H=战袍
+tagTorsoA008H=链甲
+tagTorsoA009H=板甲
+tagTorsoA010M=夹克
+tagTorsoA011M=胸甲
+tagTorsoA012M=护胸
+tagTorsoA013M=背心
+tagTorsoA014C=外套
+tagTorsoA015C=战衣
+tagTorsoA016C=服饰
+tagTorsoA017C=长袍
 
-tagTorsoB001=Murderer's Armor
-tagTorsoB002=Murderer's Breastplate
-tagTorsoB003=Fortified Doublet
+tagTorsoB001=谋杀者的护身甲
+tagTorsoB002=谋杀者的胸甲
+tagTorsoB003=强化紧身衣
 
 tagTorsoC001=
-tagTorsoC002=Nightstalker's Chestguard
-tagTorsoC003=Gunslinger's Jacket
-tagTorsoC004=Malduin's Cloth
-tagTorsoC005=Doomforged Breastplate
-tagTorsoC006=Guardsman's Breastplate
-tagTorsoC007=Explorer's Tunic
-tagTorsoC008=Bloodreaper's Coat
-tagTorsoC009=Fanatic's Overcoat
+tagTorsoC002=暗夜行者护胸
+tagTorsoC003=快枪手的夹克
+tagTorsoC004=马尔度因之衣
+tagTorsoC005=末日锻造胸甲
+tagTorsoC006=帝国卫兵的胸甲
+tagTorsoC007=探险家的外套
+tagTorsoC008=鲜血收割者之衣
+tagTorsoC009=狂热者外衣
 tagTorsoC010=Fused Carapace Armor
 tagTorsoC011=Skinflayer Raiment
 tagTorsoC011Desc="It is unknown as to how many victims it took to sew together these foul robes."
@@ -1130,7 +1130,7 @@ tagBlueprint_RelicB009=Blueprint: Relic - Guile
 tagBlueprint_RelicB010=Blueprint: Relic - Rampage
 tagBlueprint_RelicB011=Blueprint: Relic - Mistborn Talisman
 tagBlueprint_RelicB012=Blueprint: Relic - Bladesworn Talisman
-tagBlueprint_RelicB013=Blueprint: Relic - Gunslinger's Talisman
+tagBlueprint_RelicB013=设计图：圣物——快枪手护符
 tagBlueprint_RelicC001=Blueprint: Relic - Arbiter
 tagBlueprint_RelicC002=Blueprint: Relic - Fortress
 tagBlueprint_RelicC003=Blueprint: Relic - Slaughter
@@ -1281,7 +1281,7 @@ tagRelicB011=Mistborn Talisman
 tagRelicB011Desc="A talisman carried by trolls to drive them into a mindless battlerage that does not end until every enemy lies dead."
 tagRelicB012=Bladesworn Talisman
 tagRelicB012Desc="A symbol of expertise in the art of wielding two melee weapons at the same time."
-tagRelicB013=Gunslinger's Talisman
+tagRelicB013=快枪手护符
 tagRelicB013Desc="A symbol of expertise in the art of firing two pistols at the same time with lethal accuracy."
 tagRelicB014=Bone Talisman
 tagRelicB014Desc="This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
@@ -1823,10 +1823,10 @@ tagBonusAttribPoint={%+d0} 属性点数
 
 
 tagItemSetC001Name=帝国卫兵的戎装
-tagItemSetC001Desc=“曾 经 是 维 和 军 队 和 皇 家 护 卫 的 标 准 装 备 ， 这 些 套 装 在 恐 惧 黎 明 中 留 存 无 几 。”
+tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 和 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 惧 黎 明 之 后 留 存 无 几 。”
 
 tagItemSetC002Name=探险家的服饰
-tagItemSetC002Desc=“给 渴 望 探 险 的 人 的 轻 便 且 耐 用 的 护 甲。”
+tagItemSetC002Desc=“轻 便 且 耐 用 的 护 甲 ， 为 渴 望 探 险 的 人 而 准 备 。”
 
 tagItemSetC003Name=麦文的圣装
 tagItemSetC003Desc=“向 传 奇 般 的 秘 术 师 麦 文 致 敬 的 盛 装 。”
@@ -1841,16 +1841,16 @@ tagItemSetC006Name=使者的华服
 tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 之 使 节 所 穿 的 服 饰 。”
 
 tagItemSetC007Name=曼海尔之触
-tagItemSetC007Desc=“被 纪 念 巨 碑 的 守 护 祭 司 穿 过 的 特 别 物 品 ， 他 们 被 指 定 作 为 没 有 外 交 从 属 关 系 的 医 疗 师 。”
+tagItemSetC007Desc=“曼 海 尔 的 祭 司 们 所 穿 过 的 服 饰 。 他 们 治 疗 着 这 个 世 界 ，不 分 种 族 与 国 界。”
 
 tagItemSetC008Name=救赎
-tagItemSetC008Desc=“被 圣 殿 骑 士 兰 德 尔 · 格 瑞 维 斯 在 他 毕 生 的 东 征 中 穿 过 ， 用 于 赦 免 他 打 破 他 的 神 圣 誓 约 娶 妻 的 堕 落 行 为 。”
+tagItemSetC008Desc=“圣 殿 骑 士 兰 德 尔 · 格 瑞 维 斯 在 其 毕 生 的 东 征 中 穿 着 它 ， 以 赦 免 他 打 破 神 圣 誓 约 而 娶 妻 的 堕 落 行 为 。”
 
 tagItemSetC009Name=盲眼
-tagItemSetC009Desc=“盲 刺 客 ， 萨 迪 厄 斯 · 布 兰 纳 甘 ， 当 他 在 光 天 化 日 之 下 暗 杀 了 一 个 圣 殿 骑 士 团 团 长 后 声 名 远 扬 。”
+tagItemSetC009Desc=“盲 刺 客 ， 萨 迪 厄 斯 · 布 兰 纳 甘 ， 当 他 在 光 天 化 日 之 下 暗 杀 了 一 位 圣 殿 骑 士 团 团 长 后 声 名 远 扬 。”
 
 tagItemSetC010Name=神射手的徽记
-tagItemSetC010Desc=“兵 工 厂 中 精 通 步 枪 的 人 能 命 中 500 码 外 飞 翔 的 鸟 。”
+tagItemSetC010Desc=“大 师 级 枪 手 珍 藏 的 利 器 ，能 命 中 500 码 外 的 飞 鸟 。”
 
 tagItemSetC011Name=不洁圣约
 tagItemSetC011Desc=“朋 党 在 莫 可 名 状 的 仪 式 上 穿 戴 过 的 特 别 物 品 。”
@@ -1873,8 +1873,8 @@ tagItemSetC016Desc=“这 套 华 服 授 予 给 在 秘 术 学 研 究 中 �
 tagItemSetC017Name=黎明守卫
 tagItemSetC017Desc=“仅 被 纪 念 巨 碑 神 圣 信 仰 的 最 狂 热 的 守 护 者 穿 过 的 盔 甲 。”
 
-tagItemSetC018Name=Wrath of Alkamos
-tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia"
+tagItemSetC018Name=阿卡莫斯之怒
+tagItemSetC018Desc=“安 克 维 亚 的 行 刑 者 领 主 阿 卡 莫 斯 的 魔 印 。”
 
 tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."

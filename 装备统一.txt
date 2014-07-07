@@ -1,0 +1,59 @@
+#套装
+
+tagItemSetC001Name=Guardsman's Raiment 帝国卫兵的戎装
+
+tagItemSetC002Name=Explorer's Garments 探险家的服饰
+
+tagItemSetC003Name=Maiven's Sanctuary 麦文的圣装
+
+tagItemSetC004Name=Bloodreaper's Glory 鲜血收割者的荣耀
+
+tagItemSetC005Name=Marauder's Justice 掠夺者的正义
+
+tagItemSetC006Name=Herald's Regalia 使者的华服
+
+tagItemSetC007Name=Menhir's Touch 曼海尔之触
+
+tagItemSetC008Name=Redemption 救赎
+
+tagItemSetC009Name=The Unseeing Eye 盲眼
+
+tagItemSetC010Name=Sharpshooter's Mark 神射手的徽记
+
+tagItemSetC011Name=Unholy Covenant 不洁圣约
+
+tagItemSetC012Name=Royal Exuberance 皇室奢华
+
+tagItemSetC013Name=Oathbreaker 毁誓者
+
+tagItemSetC014Name=Adorments of Valiance 勇气之饰
+
+tagItemSetC015Name=Carnage 大屠杀
+
+tagItemSetC016Name=The Paragon of Arcanum 秘术典范
+
+tagItemSetC017Name=Dawnguard 黎明守卫
+
+tagItemSetC018Name=Wrath of Alkamos 阿卡莫斯之怒
+
+tagItemSetD001Name=Justicar Armor 审判者盔甲
+
+tagItemSetD002Name=The Sacred Balance 神圣平衡
+
+tagItemSetD003Name=Beastcaller's Regalia 野兽召唤师的华服
+
+tagItemSetD004Name=Dawnbreaker's Light 破晓者之光
+
+tagItemSetD005Name=The Harbinger 先驱者
+
+tagItemSetD006Name=Judicator's Signets 执政官的印章
+
+tagItemSetD007Name=Demonslayer's Garb 恶魔猎手的制服
+
+tagItemSetD008Name=Barrelsmith's Twins 枪匠的双胞胎
+
+tagItemSetD009Name=Wildblood Vanguard 狂野之血先锋
+
+tagItemSetD010Name=The Archmage 大法师
+
+tagItemSetD011Name=Invoker's Elements 祈求者的元素

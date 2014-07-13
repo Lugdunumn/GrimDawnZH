@@ -1,8 +1,8 @@
 巴纳巴斯
-我听霍姆斯特德的道格拉斯说了，看来他已经准备好和我们交易。恶魔之路马上就能装满粮食了，这多亏了你。感谢你！
+我听霍姆斯特德的道格拉斯说了，看来他已经准备好和我们交易。魔鬼路口马上就能装满粮食了，这多亏了你。感谢你！
 这是我力所能及的。
-Your allies already made good work of everythin' I needed done.
-Very well.
+你的盟友把我要做的事都办好了。
+好的。
 霍姆斯特德的事怎么样了？
 还在交涉中。
 霍姆斯特德的事怎么样了？
@@ -16,9 +16,9 @@ Very well.
 我需要和他们谈谈，再见。
 旅途如何？
 我该往哪儿走？
-通过我们修好的桥往恶魔之路的西北走。旅途需要到西北方很远的地方，而且我们不知道路上会碰见什么。先沿着路进入安克维亚山麓，穿过古安克维亚。幸运的话，双子瀑布附近的旧桥还会屹立在那儿。如果不是的话，你就要找走私者的通道了，这是深入破碎山脉的一条走私旧道。它应该能到霍姆斯特德。{^n}{^n}我们一定要看看那些田地还能不能养活我们，还是恐怖黎明像在伯尔维治那样把田地都毁了。
+通过我们修好的桥往魔鬼路口的西北走。旅途需要到西北方很远的地方，而且我们不知道路上会碰见什么。先沿着路进入安克维亚山麓，穿过古安克维亚。幸运的话，双子瀑布附近的旧桥还会屹立在那儿。如果不是的话，你就要找走私者的通道了，这是深入破碎山脉的一条走私旧道。它应该能到霍姆斯特德。{^n}{^n}我们一定要看看那些田地还能不能养活我们，还是恐怖黎明像在伯尔维治那样把田地都毁了。
 走私者通道是哪儿？
-那个地下的旧洞穴曾帮助过许多走私贩逃避沿海道路上帝国巡逻兵的检查。走私者的通道从来都不是最安全的路，不过如果你要是想避开窥视的眼镜，那儿真是老天的恩赐啊。为啥呢,因为我年轻不安分的时候它帮了我好多次。当然了，这些都是陈年往事了。
+那个地下的旧洞穴曾帮助过许多走私贩逃避沿海道路上帝国巡逻兵的检查。走私者的通道从来都不是最安全的路，不过如果你要是想避开窥视的眼睛，那儿真是老天的恩赐啊。为啥呢,因为我年轻不安分的时候它帮了我好多次。当然了，这些都是陈年往事了。
 谢谢。
 我现在就去。
 我需要回去。
@@ -35,46 +35,46 @@ Very well.
 多亏了你的帮助！至少我们能喝上一杯了……尽管连那玩意儿连威士忌的一根指头都比不上。
 这是我的荣幸。
 清除那些蛇人还顺利么？人们都开始向我求水喝了。{^n}{^n}
-I've taken care of it.
-Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack. Useful for hauling back Scrap or whatever else you come across. I'm too old for that stuff now.
-Thank you. Glad to be of help.
-Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.
-Thank you. Glad to be of help.
-Have you cleared out the Slith den?
-Not yet, where is it again?
-Open the cellar in the shack behind me. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.
-I'll take care of it.
-Well, the good news is I got the water pumping again. The only problem is it smells like a sewer, only about a ten-fold worse.  {^n}{^n}Why, I haven' smelled something this rotten since...
-Since what?
-Since I've cleared out a den of Slith, ages ago. They're loathsome reptiles - make their homes in swamps and dank caves. {^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us. I'd bet good iron there is a nest in the cave that fuels our pump. {^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.
-How do I get to the cave?
-This key will open the cellar in the shack behind me, right by that acursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.
-I'll take care of the Slith.
-I don't have time for this.
-Did you get the Scrap?
-Will this suffice?
-Perfect! I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
-Glad I could help.
+我已经搞定了。
+干得好！只要我把剩下来的毒水都排出去，我们就能喝到干净的水了。{^n}{^n}我一定让大家知道你的贡献。他们将会非常感激你，因为他们再也不怕喝水喝到肠穿肚烂了。{^n}{^n}还有，请收下我的背包。用来路上装点废铁或者不论啥样的劳什子都很有用，我这把年纪是用不上了。
+谢谢你。我很高兴能够帮上忙。
+干得好！只要我把剩下来的毒水都排出去，我们就能喝到干净的水了。{^n}{^n}我一定让大家知道你的贡献。他们将会非常感激你，因为他们再也不怕喝水喝到肠穿肚烂了。
+谢谢你。这是我的荣幸。
+你清除干净蛇人的巢穴了没？
+还没有，请问去哪儿找？
+打开我身后小屋里的地窖。那个地窖连接着监狱的内部，从那儿你便可通往蛇人的洞穴。{^n}{^n}杀了可能在污染水源的蛇人女族长后就能消除水里的毒物了。
+我这就去。
+好消息是我整好了水泵。唯一的问题就是水闻起来比下水道里流出来的还要臭上十倍。{^n}{^n}怎么会这样呢？我自从那件事之后起就没再闻过这样的腐臭了……
+从哪件事起？
+从许多年以前我清理过蛇人窝之后起。蛇人是一种恶心到令人想吐的两栖动物——他们通常会在沼泽或者是阴湿的洞穴里安家。{^n}{^n}为了喝水，他们会在水里分泌一种肮脏的毒液。他们喝了没事，可是这玩意会毒死人。我愿意用一堆铁币打赌一定有一窝蛇人给咱们的水泵里加着佐料呢。{^n}{^n}我老了，洞穴探险这种差事还是得靠你了。下去干掉他们吧。
+我如何去到那个洞穴？
+这把钥匙可以打开我身后小屋里的地窖。那个地窖连接着监狱的内部，从那儿你便可通往蛇人的洞穴。{^n}{^n}杀了可能在污染水源的蛇人女族长后就能消除水里的毒物了。{^n}{^n}你如果办成这件事，全魔鬼路口的人都会称颂你，每杯水都会使你的名字荣耀无比。
+我这就去解决那些蛇人。
+我没时间。
+你找到了废铁吗？
+请问这些足够吗？
+足够！我会尽快修好风力水泵的。魔鬼路口将会再次拥有安全的饮用水，这都多亏你的帮忙啊。{^n}{^n}这第一杯水可是我的。
+能帮得上忙是我的荣幸。
 
-Did you get the Scrap?
-Not yet, where can I find it?
-Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}You'll find enough in no time!
-I'll be back.
-The Captain send you over? You musta done quite a service with the Dead if he's got hands to spare for Ol' Barnabas. Let's get to business, yes?  {^n}{^n}Our wind pump's broken down again and we're running low on water. We're all out of parts, so I can't fix 'er up.  {^n}{^n}Can always melt down what weapons we have, but I'm not too fond of being devoured in my sleep. I'll need scrap from Lower Crossing.
-Where can I find it?
-Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}Where you get it isn' that important to me, just that you get it soon. We are running out of drinking water, nothing to be said about ever taking a bath again.
-I'll get the Scrap you need.
-Sorry, I don't have time.
-Um, why not just lower a bucket into the river?
-Have you seen the bodies floating out there?{^n}{^n}Surface water around here is rank with disease and decay. Our only hope is this well.{^n}{^n}Now are you going to get us some scrap or do I have to settle for sass?
+你找到了废铁吗？
+还没，去哪儿找呢？
+去古旧垃圾场搜索那些破房子吧，就在下游渡口的远端，要穿过殓葬山。捡捡垃圾，翻翻在那边游荡的尸体。{^n}{^n}很快你就能找到足够的废铁！
+我去去就回来。
+队长派你来的？如果他可以派个人手过来帮忙我这个老头子，那么你一定是帮他解决了不少丧尸的问题。我们来办正事吧。{^n}{^n}我们的风力水泵又发生故障了，当然我们也要没水喝了。由于缺乏零件，所以我无计可施。{^n}{^n}虽然我们可以熔炼武器来制造那些零件，但我可不喜欢在睡梦中被丧尸吃了。我需要废铁。
+我该往哪儿找？
+去古旧垃圾场搜索那些破房子吧，就在下游渡口的远端，要穿过殓葬山。捡捡垃圾，翻翻在那边游荡的尸体。{^n}{^n}我不管你从哪儿找废铁，但是你得尽快弄来。我们就快没水喝了，更不用说洗澡了。
+我会收集你所需要的废铁。
+对不起，我没时间。
+为何不用桶从河里打水？
+你没看到那些浮在河面上的尸体吗？{^n}{^n}周围的河水统统都被污染了。我们最后的希望就是井水。{^n}{^n}所以现在你要帮我们搜集废铁，还是要我说脏话才行？
 
-Is this enough Scrap?
-Impressive! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
-Glad I could help.
+这些废铁足够吗？
+了不起！由于下游渡口丧尸成群，我们可没那么好运能找来一堆补给品。干这个你似乎毫无压力。我会尽快修好风力水泵的。魔鬼路口将会再次拥有安全的饮用水，这都多亏你的帮忙啊。{^n}{^n}这第一杯水可是我的。
+这是我的荣幸。
 
-Did my ally deliver the scrap?
-Yes indeed! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
-Glad we could help.
+我的盟友把废铁交给你了吗？
+没错！了不起！由于下游渡口丧尸成群，我们可没那么好运能找来一堆补给品。干这个你似乎毫无压力。我会尽快修好风力水泵的。魔鬼路口将会再次拥有安全的饮用水，这都多亏你的帮忙啊。{^n}{^n}这第一杯水可是我的。
+这是我们的荣幸。
 
-So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.
-Take care.
+哦，你就是那个差点被我们绞死的家伙！我不理解为什么要放了你，不过还是那句话，谁会在乎老巴纳巴斯的想法。{^n}{^n}你真的应该和队长交谈。他将会决定你是否在魔鬼路口有个立足之地。
+请保重。

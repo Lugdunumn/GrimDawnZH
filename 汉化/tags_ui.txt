@@ -31,7 +31,7 @@ tagRiftgatePersonal=个人传送裂缝
 tagRiftgateDestination=目的地
 tagRiftgateError01=你无法使用这个传送裂缝。它由一个不与你同队伍的玩家创建。
 tagRiftgateDialog01=打开一个新传送裂缝将会关闭你现有的。你要继续吗？
-tagRiftGateMapA01=Cairn
+tagRiftGateMapA01=凯恩世界
 
 #Quest
 
@@ -881,7 +881,7 @@ tagOptionsMenuExit=回到主菜单
 tagOptionsMenuQuit=退出到桌面
 tagOptionsMenuOptions=选项菜单
 tagOptionsMenuGameSaved=你的游戏已保存
-tagOptionsMenuAreUSure=你确定你要退出到主菜单吗？
+tagOptionsMenuAreUSure=你确定要退出到主菜单吗？
 tagInfoTitle=信息
 tagInfoButtonYes=是
 tagInfoButtonNo=否

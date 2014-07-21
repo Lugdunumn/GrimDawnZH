@@ -1115,142 +1115,142 @@ tagMedalD008Desc="Named in honor of the famed tactician Markovian, this medal wa
 
 
 #Blueprints 设计图
-tagTestBlueprint=Blueprint: Item Name of the Awesomesauce
+tagTestBlueprint=blueprint: Item Name of the Awesomesauce
 tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
 
-tagBlueprint_RelicB001=Blueprint: Relic - Calamity
-tagBlueprint_RelicB002=Blueprint: Relic - Ruination
-tagBlueprint_RelicB003=Blueprint: Relic - Equilibrium
-tagBlueprint_RelicB004=Blueprint: Relic - Glacier
-tagBlueprint_RelicB005=Blueprint: Relic - Squall
-tagBlueprint_RelicB006=Blueprint: Relic - Inferno
-tagBlueprint_RelicB007=Blueprint: Relic - Corruption
-tagBlueprint_RelicB008=Blueprint: Relic - Sanctuary
-tagBlueprint_RelicB009=Blueprint: Relic - Guile
-tagBlueprint_RelicB010=Blueprint: Relic - Rampage
-tagBlueprint_RelicB011=Blueprint: Relic - Mistborn Talisman
-tagBlueprint_RelicB012=Blueprint: Relic - Bladesworn Talisman
-tagBlueprint_RelicB013=设计图：圣物——快枪手护符
-tagBlueprint_RelicC001=Blueprint: Relic - Arbiter
-tagBlueprint_RelicC002=Blueprint: Relic - Fortress
-tagBlueprint_RelicC003=Blueprint: Relic - Slaughter
-tagBlueprint_RelicC004=Blueprint: Relic - Juggernaut
-tagBlueprint_RelicC005=Blueprint: Relic - Terror
-tagBlueprint_RelicC006=Blueprint: Relic - Torment
-tagBlueprint_RelicC007=Blueprint: Relic - Haunt
-tagBlueprint_RelicC008=Blueprint: Relic - Conflagration
-tagBlueprint_RelicC009=Blueprint: Relic - Savagery
-tagBlueprint_RelicC010=Blueprint: Relic - Deathchill
-tagBlueprint_RelicC011=Blueprint: Relic - Sacrifice
-tagBlueprint_RelicC012=Blueprint: Relic - Zeal
-tagBlueprint_RelicC013=Blueprint: Relic - Desolation
-tagBlueprint_RelicC014=Blueprint: Relic - Blight
-tagBlueprint_RelicC015=Blueprint: Relic - Ancestor
-tagBlueprint_RelicD001=Blueprint: Relic - Aegis
-tagBlueprint_RelicD002=Blueprint: Relic - Malediction
-tagBlueprint_RelicD003=Blueprint: Relic - Nemesis
-tagBlueprint_RelicD004=Blueprint: Relic - Citadel
-tagBlueprint_RelicD005=Blueprint: Relic - Eye of the Storm
-tagBlueprint_RelicD006=Blueprint: Relic - Reckoning
-tagBlueprint_RelicD007=Blueprint: Relic - Scourge
-tagBlueprint_RelicD008=Blueprint: Relic - Ulzuin's Pyroclasm
-tagBlueprint_RelicD009=Blueprint: Relic - Necrosis
-tagBlueprint_RelicD010=Blueprint: Relic - Agravix's Malice
-tagBlueprint_RelicD011=Blueprint: Relic - Oblivion
-tagBlueprint_RelicD012=Blueprint: Relic - Belgothian's Carnage
-tagBlueprint_RelicD013=Blueprint: Relic - Annihilation
-tagBlueprint_RelicD014=Blueprint: Relic - Avenger
-tagBlueprint_RelicD015=Blueprint: Relic - Primal Instinct
-tagBlueprint_RelicD016=Blueprint: Relic - Solael's Devastation
-tagBlueprint_RelicD017=Blueprint: Relic - Dreeg's Affliction
-tagBlueprint_RelicD018=Blueprint: Relic - Bysmiel's Domination
-tagBlueprint_RelicD019=Blueprint: Relic - Oleron's Wrath
-tagBlueprint_RelicD020=Blueprint: Relic - Menhir's Bastion
+tagBlueprint_RelicB001=设计图：遗物 - 灾虐
+tagBlueprint_RelicB002=设计图：遗物 - 毁灭
+tagBlueprint_RelicB003=设计图：遗物 - 均衡
+tagBlueprint_RelicB004=设计图：遗物 - 冰河
+tagBlueprint_RelicB005=设计图：遗物 - 暴风
+tagBlueprint_RelicB006=设计图：遗物 - 炼狱
+tagBlueprint_RelicB007=设计图：遗物 - 腐化
+tagBlueprint_RelicB008=设计图：遗物 - 庇护
+tagBlueprint_RelicB009=设计图：遗物 - 诡诈
+tagBlueprint_RelicB010=设计图：遗物 - 狂暴
+tagBlueprint_RelicB011=设计图：遗物 - 迷雾护符
+tagBlueprint_RelicB012=设计图：遗物 - 刀锋之誓护符
+tagBlueprint_RelicB013=设计图：遗物 - 快枪手护符
+tagBlueprint_RelicC001=设计图：遗物 - 仲裁
+tagBlueprint_RelicC002=设计图：遗物 - 壁垒
+tagBlueprint_RelicC003=设计图：遗物 - 屠杀
+tagBlueprint_RelicC004=设计图：遗物 - 主宰
+tagBlueprint_RelicC005=设计图：遗物 - 恐惧
+tagBlueprint_RelicC006=设计图：遗物 - 苦痛
+tagBlueprint_RelicC007=设计图：遗物 - 噬魂
+tagBlueprint_RelicC008=设计图：遗物 - 爆炎
+tagBlueprint_RelicC009=设计图：遗物 - 野性
+tagBlueprint_RelicC010=设计图：遗物 - 死寒
+tagBlueprint_RelicC011=设计图：遗物 - 牺牲
+tagBlueprint_RelicC012=设计图：遗物 - 热诚
+tagBlueprint_RelicC013=设计图：遗物 - 荒芜
+tagBlueprint_RelicC014=设计图：遗物 - 枯萎
+tagBlueprint_RelicC015=设计图：遗物 - 先祖
+tagBlueprint_RelicD001=设计图：遗物 - 守护
+tagBlueprint_RelicD002=设计图：遗物 - 诅咒
+tagBlueprint_RelicD003=设计图：遗物 - 天罚
+tagBlueprint_RelicD004=设计图：遗物 - 要塞
+tagBlueprint_RelicD005=设计图：遗物 - 风暴之眼
+tagBlueprint_RelicD006=设计图：遗物 - 清算
+tagBlueprint_RelicD007=设计图：遗物 - 天灾
+tagBlueprint_RelicD008=设计图：遗物 - 乌尔祖因的烈火
+tagBlueprint_RelicD009=设计图：遗物 - 坏死
+tagBlueprint_RelicD010=设计图：遗物 - 阿格拉维斯的恶怨
+tagBlueprint_RelicD011=设计图：遗物 - 遗忘
+tagBlueprint_RelicD012=设计图：遗物 - 贝尔戈蒂安的屠戮
+tagBlueprint_RelicD013=设计图：遗物 - 湮灭
+tagBlueprint_RelicD014=设计图：遗物 - 复仇者
+tagBlueprint_RelicD015=设计图：遗物 - 原始本能
+tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的毁灭
+tagBlueprint_RelicD017=设计图：遗物 - 德里格的灾祸
+tagBlueprint_RelicD018=设计图：遗物 - 俾斯麦尔的主宰
+tagBlueprint_RelicD019=设计图：遗物 - 奥莱隆之怒
+tagBlueprint_RelicD020=设计图：遗物 - 曼海尔的堡垒
 
-tagBlueprint_ComponentA01=Blueprint: Aether Soul
-tagBlueprint_ComponentA02=Blueprint: Ballistic Plating
-tagBlueprint_ComponentA03=Blueprint: Blessed Steel
-tagBlueprint_ComponentA04=Blueprint: Focusing Prism
-tagBlueprint_ComponentA05=Blueprint: Leathery Hide
-tagBlueprint_ComponentA06=Blueprint: Restless Remains
-tagBlueprint_ComponentA07=Blueprint: Rotten Heart
-tagBlueprint_ComponentA08=Blueprint: Runestone
-tagBlueprint_ComponentA09=Blueprint: Sanctified Bone
-tagBlueprint_ComponentA10=Blueprint: Spined Carapace
-tagBlueprint_ComponentA11=Blueprint: VengefulWraith
-tagBlueprint_ComponentC01=Blueprint: Oleron's Blood
-tagBlueprint_ComponentC02=Blueprint: Shard of Beronath
-tagBlueprint_ComponentC03=Blueprint: Arcane Spark
-tagBlueprint_ComponentC04=Blueprint: Prismatic Diamond
-tagBlueprint_ComponentC05=Blueprint: Haunted Steel
-tagBlueprint_ComponentC06=Blueprint: Mark of Mogdrogen
-
-
-tagBlueprint_WaistB001=Blueprint: Bounty Hunter's Girdle
-tagBlueprint_WaistB002=Blueprint: Shockweave Sash
-tagBlueprint_WaistB003=Blueprint: Warmonger's Belt
-tagBlueprint_WaistB004=Blueprint: Flamesilk Sash
-tagBlueprint_WaistB005=Blueprint: Frostguard Girdle
-tagBlueprint_WaistB006=Blueprint: Wraithbone Sash
-
-tagBlueprint_WeaponB001=Blueprint: Battle Shield
-tagBlueprint_WeaponB002=Blueprint: Siege Shield
-tagBlueprint_WeaponB003=Blueprint: Sovereign Shield
-tagBlueprint_WeaponB004=Blueprint: Rotating Rifle
-tagBlueprint_WeaponB005=Blueprint: Frontloading Rifle
-tagBlueprint_WeaponB006=Blueprint: Shrapnel Gun
-tagBlueprint_WeaponB007=Blueprint: Honed Longsword
-tagBlueprint_WeaponB008=Blueprint: Honed Broadsword
-tagBlueprint_WeaponB009=Blueprint: Honed Conqueror
-tagBlueprint_WeaponB010=Blueprint: Brutal Great Axe
-tagBlueprint_WeaponB011=Blueprint: Brutal Cleaver
-tagBlueprint_WeaponB012=Blueprint: Brutal Decapitator
-tagBlueprint_WeaponB013=Blueprint: Glyphed Archive
-tagBlueprint_WeaponB014=Blueprint: Glyphed Spellbook
-tagBlueprint_WeaponB015=Blueprint: Glyphed Tome
-tagBlueprint_WeaponB016=Blueprint: Occult Horn
-tagBlueprint_WeaponB017=Blueprint: Occult Skull
-tagBlueprint_WeaponB018=Blueprint: Occult Wand
-tagBlueprint_WeaponB019=Blueprint: Double-Barrel Pistol
-tagBlueprint_WeaponB020=Blueprint: Hand Mortar
-tagBlueprint_WeaponB021=Blueprint: Shrapnel Pistol
-tagBlueprint_WeaponB022=Blueprint: Adept's Bladed Mace
-tagBlueprint_WeaponB023=Blueprint: Adept's Morningstar
-tagBlueprint_WeaponB024=Blueprint: Adept's Flanged Mace
-
-tagBlueprint_WeaponC001=Blueprint: Witchstalker
-tagBlueprint_WeaponC002=Blueprint: The Eye
-tagBlueprint_WeaponC003=Blueprint: Storm's Edge
-tagBlueprint_WeaponC004=Blueprint: Omen
-tagBlueprint_WeaponC005=Blueprint: Tremor
-
-tagBlueprint_ArmorB001=Blueprint: Adept's Boots
-tagBlueprint_ArmorB002=Blueprint: Adept's Greaves
-tagBlueprint_ArmorB003=Blueprint: Squire's Boots
-tagBlueprint_ArmorB004=Blueprint: Squire's Greaves
-tagBlueprint_ArmorB005=Blueprint: Adept's Gloves
-tagBlueprint_ArmorB006=Blueprint: Adept's Grips
-tagBlueprint_ArmorB007=Blueprint: Squire's Gauntlets
-tagBlueprint_ArmorB008=Blueprint: Squire's Handguards
-tagBlueprint_ArmorB009=Blueprint: Adept's Hood
-tagBlueprint_ArmorB010=Blueprint: Adept's Circlet
-tagBlueprint_ArmorB011=Blueprint: Ranger's Helm
-tagBlueprint_ArmorB012=Blueprint: Ranger's Casque
-
-tagBlueprint_ArmorC001=Blueprint: Guardsman's Defender
-tagBlueprint_ArmorC002=Blueprint: Guardsman's Breastplate
-tagBlueprint_ArmorC003=Blueprint: Explorer's Tunic
-tagBlueprint_ArmorC004=Blueprint: Explorer's Trousers
-
-tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
+tagBlueprint_ComponentA01=设计图：虚化之魂
+tagBlueprint_ComponentA02=设计图：弹痕甲片
+tagBlueprint_ComponentA03=设计图：赐福钢铁
+tagBlueprint_ComponentA04=设计图：聚焦棱镜
+tagBlueprint_ComponentA05=设计图：坚韧兽皮
+tagBlueprint_ComponentA06=设计图：躁动遗骸
+tagBlueprint_ComponentA07=设计图：腐坏之心
+tagBlueprint_ComponentA08=设计图：符文石
+tagBlueprint_ComponentA09=设计图：圣骨
+tagBlueprint_ComponentA10=设计图：尖刺外壳
+tagBlueprint_ComponentA11=设计图：复仇之怒
+tagBlueprint_ComponentC01=设计图：奥莱隆之血
+tagBlueprint_ComponentC02=设计图：贝若纳斯的鳞片
+tagBlueprint_ComponentC03=设计图：秘法火花
+tagBlueprint_ComponentC04=设计图：棱光钻石
+tagBlueprint_ComponentC05=设计图：附魂钢铁
+tagBlueprint_ComponentC06=设计图：莫格卓根的印记
 
 
-tagBlueprint_MiscA01=Blueprint: Skeleton Key
-tagBlueprint_MiscA01Desc=An ancient crafting technique known only by a select few.
+tagBlueprint_WaistB001=设计图：赏金猎人腰带
+tagBlueprint_WaistB002=设计图：Shockweave Sash
+tagBlueprint_WaistB003=设计图：Warmonger's Belt
+tagBlueprint_WaistB004=设计图：Flamesilk Sash
+tagBlueprint_WaistB005=设计图：Frostguard Girdle
+tagBlueprint_WaistB006=设计图：Wraithbone Sash
 
-tagBlueprint_MaterialA01=Blueprint: Aether Cluster
+tagBlueprint_WeaponB001=设计图：Battle Shield
+tagBlueprint_WeaponB002=设计图：Siege Shield
+tagBlueprint_WeaponB003=设计图：Sovereign Shield
+tagBlueprint_WeaponB004=设计图：Rotating Rifle
+tagBlueprint_WeaponB005=设计图：Frontloading Rifle
+tagBlueprint_WeaponB006=设计图：Shrapnel Gun
+tagBlueprint_WeaponB007=设计图：Honed Longsword
+tagBlueprint_WeaponB008=设计图：Honed Broadsword
+tagBlueprint_WeaponB009=设计图：Honed Conqueror
+tagBlueprint_WeaponB010=设计图：Brutal Great Axe
+tagBlueprint_WeaponB011=设计图：Brutal Cleaver
+tagBlueprint_WeaponB012=设计图：Brutal Decapitator
+tagBlueprint_WeaponB013=设计图：Glyphed Archive
+tagBlueprint_WeaponB014=设计图：Glyphed Spellbook
+tagBlueprint_WeaponB015=设计图：Glyphed Tome
+tagBlueprint_WeaponB016=设计图：Occult Horn
+tagBlueprint_WeaponB017=设计图：Occult Skull
+tagBlueprint_WeaponB018=设计图：Occult Wand
+tagBlueprint_WeaponB019=设计图：Double-Barrel Pistol
+tagBlueprint_WeaponB020=设计图：Hand Mortar
+tagBlueprint_WeaponB021=设计图：Shrapnel Pistol
+tagBlueprint_WeaponB022=设计图：Adept's Bladed Mace
+tagBlueprint_WeaponB023=设计图：Adept's Morningstar
+tagBlueprint_WeaponB024=设计图：Adept's Flanged Mace
 
-#Relics 圣物
+tagBlueprint_WeaponC001=设计图：Witchstalker
+tagBlueprint_WeaponC002=设计图：The Eye
+tagBlueprint_WeaponC003=设计图：Storm's Edge
+tagBlueprint_WeaponC004=设计图：Omen
+tagBlueprint_WeaponC005=设计图：Tremor
+
+tagBlueprint_ArmorB001=设计图：Adept's Boots
+tagBlueprint_ArmorB002=设计图：Adept's Greaves
+tagBlueprint_ArmorB003=设计图：Squire's Boots
+tagBlueprint_ArmorB004=设计图：Squire's Greaves
+tagBlueprint_ArmorB005=设计图：Adept's Gloves
+tagBlueprint_ArmorB006=设计图：Adept's Grips
+tagBlueprint_ArmorB007=设计图：Squire's Gauntlets
+tagBlueprint_ArmorB008=设计图：Squire's Handguards
+tagBlueprint_ArmorB009=设计图：Adept's Hood
+tagBlueprint_ArmorB010=设计图：Adept's Circlet
+tagBlueprint_ArmorB011=设计图：Ranger's Helm
+tagBlueprint_ArmorB012=设计图：Ranger's Casque
+
+tagBlueprint_ArmorC001=设计图：Guardsman's Defender
+tagBlueprint_ArmorC002=设计图：Guardsman's Breastplate
+tagBlueprint_ArmorC003=设计图：Explorer's Tunic
+tagBlueprint_ArmorC004=设计图：Explorer's Trousers
+
+tagBlueprint_AccessoryC001=设计图：Maiven's Lens
+
+
+tagBlueprint_MiscA01=设计图：骸骨之钥
+tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
+
+tagBlueprint_MaterialA01=设计图：虚化集簇
+
+#Relics 遗物
 
 tagDeviceBonus=Completion Bonus:
 tagDeviceTier01=Empowered
@@ -1360,32 +1360,32 @@ tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood heath
 
 
 #Crafting 锻造
-tagCraftTabArtifactA=Relics
+tagCraftTabArtifactA=遗物
 tagCraftTabArtifactB=Talismans, relics and artifacts of great power.
-tagCraftTabMeleeA=Melee Weapons
+tagCraftTabMeleeA=近战武器
 tagCraftTabMeleeB=An assortment of martial weapons intended for slicing, chopping and smashing.
-tagCraftTabRangedA=Ranged Weapons
+tagCraftTabRangedA=远程武器
 tagCraftTabRangedB=A selection of pistols, rifles and crossbows for those who prefer to fight at range.
-tagCraftTabArmorA=Armor
+tagCraftTabArmorA=护甲
 tagCraftTabArmorB=A collection of shields, foci and body armor of various makes and materials.
-tagCraftTabMiscA=Accessories and Consumables
+tagCraftTabMiscA=饰品与消耗品
 tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
 
-tagCraftMaterial_RoyalJelly=Royal Jelly
+tagCraftMaterial_RoyalJelly=蜂王浆
 tagCraftMaterial_RoyalJelly_Desc="Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
-tagCraftMaterial_AetherShard=Aether Shard
+tagCraftMaterial_AetherShard=虚化碎片
 tagCraftMaterial_AetherShard_Desc="A large shard from an aether crystal formation, still teeming with untapped power."
-tagCraftMaterial_AetherCluster=Aether Cluster
+tagCraftMaterial_AetherCluster=虚化集簇
 tagCraftMaterial_AetherCluster_Desc="A concentrated cluster of Aether Shards, bursting with unstable energies."
-tagCraftMaterial_TaintedBrain=Tainted Brain Matter
+tagCraftMaterial_TaintedBrain=感染大脑
 tagCraftMaterial_TaintedBrain_Desc="Brain tissue scarred and twisted by the manipulations of a powerful Aetherial."
-tagCraftMaterial_BloodChthon=Blood of Ch'thon
+tagCraftMaterial_BloodChthon=冥神之血
 tagCraftMaterial_BloodChthon_Desc="Coalesced essence of the void god."
-tagCraftMaterial_AncientHeart=Ancient Heart
+tagCraftMaterial_AncientHeart=远古之心
 tagCraftMaterial_AncientHeart_Desc="It continues to beat within your bag with an eerily steady rhythm."
-tagCraftMaterial_Manticore=Manticore Eye (Not available until Act 3)
+tagCraftMaterial_Manticore=蝎尾狮之眼(第三章才有)
 tagCraftMaterial_Mancitore_Desc="The sharp eye of an unmatched predator."
-tagCraftMaterial_SkeletonKey=Skeleton Key
+tagCraftMaterial_SkeletonKey=骸骨之钥
 tagCraftMaterial_SkeletonKey_Desc="If the stories are to be believed, this key will open nearly any ancient door."
 
 tagCraftRandomItemDesc=The blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
@@ -1437,7 +1437,7 @@ tagSuppliesError=
 
 #Consumables 消耗品
 
-tagScrollDirections=[Right-Click to Consume]
+tagScrollDirections=[右击以使用]
 
 tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
 tagConsumableRoyalJellyBalmBlueprintDesc="A secret medicinal technique of the Rovers."
@@ -1521,7 +1521,7 @@ tagComponentError=[无法使用-需求未满足]
 tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整部件吗？
 
-tagCompA001Name=Spined Carapace
+tagCompA001Name=尖刺外壳
 tagCompA001Desc="A thick carapace lined with jagged spines."^w^n(Used in all armor)
 
 tagCompA002Name=Ballistic Plating

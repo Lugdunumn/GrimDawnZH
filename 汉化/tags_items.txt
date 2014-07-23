@@ -761,25 +761,25 @@ tagTorsoM003=染血长袍
 
 #ArmorWaist 腰带
 
-tagWaistA001=Cloth Strap
-tagWaistA002=Woven Cord
-tagWaistA003=Hide Sash
-tagWaistA004=Leather Belt
-tagWaistA005=Chain Belt
-tagWaistA006=Infantry Waistguard
-tagWaistA007=Platemail Girdle
-tagWaistA008=Assault Belt
-tagWaistA009=Imperial Belt
-tagWaistA010=Exalted Belt
+tagWaistA001=布制腰带
+tagWaistA002=编织束腰
+tagWaistA003=兽皮腰带
+tagWaistA004=皮革腰带
+tagWaistA005=链甲腰带
+tagWaistA006=步兵护腰
+tagWaistA007=板甲束腰
+tagWaistA008=强袭腰带
+tagWaistA009=帝国腰带
+tagWaistA010=尊崇腰带
 
-tagWaistB001=Bounty Hunter's Girdle
-tagWaistB002=Shockweave Sash
-tagWaistB003=Warmonger's Belt
-tagWaistB004=Flamesilk Sash
-tagWaistB005=Frostguard Girdle
-tagWaistB006=Wraithbone Sash
+tagWaistB001=赏金猎人腰带
+tagWaistB002=冲击波护腰
+tagWaistB003=征战者腰带
+tagWaistB004=火焰腰索
+tagWaistB005=寒霜卫士束腰
+tagWaistB006=灵骨护腰
 
-tagWaistC001=Oldenar's Stabilizer
+tagWaistC001=奥德那的平衡
 tagWaistC002=Frizzick's Utility Pack
 tagWaistC002Desc="Worked wonders for Frizzick until it ran out of zombie repellant."
 tagWaistC003=Alchemist's Belt
@@ -1177,7 +1177,7 @@ tagBlueprint_ComponentA07=设计图：腐坏之心
 tagBlueprint_ComponentA08=设计图：符文石
 tagBlueprint_ComponentA09=设计图：圣骨
 tagBlueprint_ComponentA10=设计图：尖刺外壳
-tagBlueprint_ComponentA11=设计图：复仇之怒
+tagBlueprint_ComponentA11=设计图：复仇之魂
 tagBlueprint_ComponentC01=设计图：奥莱隆之血
 tagBlueprint_ComponentC02=设计图：贝若纳斯的鳞片
 tagBlueprint_ComponentC03=设计图：秘法火花
@@ -1674,7 +1674,7 @@ tagCompA050Desc="Used by arcanists to channel their powers during particularly s
 tagCompA051Name=Black Tallow
 tagCompA051Desc="Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
 
-tagCompA052Name=Vengeful Wraith
+tagCompA052Name=复仇之魂
 tagCompA052Desc="A spirit of vengeance."^w^n(Used in amulets and medals)
 
 tagCompA053Name=Mark of Illusions

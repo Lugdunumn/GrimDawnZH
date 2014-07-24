@@ -633,7 +633,7 @@ tagheadD004Desc=“一 面 被 死 亡 萦 绕 的 面 具 ， 授 予 从 死 �
 tagHeadD005=巨蛇头环
 tagHeadD006=公正面甲
 tagHeadD007=野兽召唤师的风帽
-tagHeadD008=先驱者的面具
+tagHeadD008=先驱者面具
 tagHeadD009=屠魔者的宽檐帽
 tagHeadD010=大法师的宽檐帽
 
@@ -684,7 +684,7 @@ tagShoulderD005=泰坦肩铠
 tagShoulderD005Desc=“这 件 肩 铠 上 的 标 记 好 像 来 自 另 一 个 纪 元 。”
 tagShoulderD006=正义护肩
 tagShoulderD007=野兽召唤师的护肩
-tagShoulderD008=黎明破坏者的护肩
+tagShoulderD008=破晓者的护肩
 tagShoulderD009=狂野之血披肩
 tagShoulderD010=大法师的披肩
 
@@ -852,7 +852,7 @@ tagHandsD004Desc=“死 灵 法 师 施 法 所 用 的 手 套 ， 上 面 依 
 tagHandsD005=龙骨护手
 tagHandsD006=正义护手
 tagHandsD007=野兽召唤师的裹手
-tagHandsD008=使者之握
+tagHandsD008=先驱者之握
 tagHandsD009=大法师的裹手
 
 
@@ -983,8 +983,8 @@ tagRingC013=皇冠印戒
 tagRingC014=皇冠宝戒
 tagRingC015=无畏之戒
 tagRingC016=无畏印玺
-tagRingC017=残杀右手戒
-tagRingC018=残杀左手戒
+tagRingC017=屠杀的右手戒
+tagRingC018=屠杀的左手戒
 tagRingC019A=阿卡莫斯的恐惧
 tagRingC019B=阿卡莫斯的苦痛
 tagRingC019Desc=“死 亡 ……”
@@ -1069,7 +1069,7 @@ tagNecklaceD009=哈拉科的神石
 tagNecklaceD009Desc=“这 是 秘 法 师 日 内 瓦·哈 拉 科 的 聚 能 宝 石 。 她 离 开 教 团 并 背 弃 教 义 成 为 了  一 名 曼 海 尔 的 圣 殿 骑 士 。”
 tagNecklaceD010=末日使者
 tagNecklaceD011=野兽召唤师的符咒
-tagNecklaceD012=黎明破坏者的信标
+tagNecklaceD012=破晓者的信标
 tagNecklaceD013=屠魔者的守御
 
 
@@ -1280,158 +1280,158 @@ tagRelicB010Desc=“以 奥 莱 隆 之 名 ， 这 份 求 战 的 激 情 无 
 tagRelicB011=迷雾护符
 tagRelicB011Desc=“此 护 身 符 使 佩 戴 它 的 巨 魔 们 陷 入 失 心 的 战 斗 狂 暴 之 中 ， 直 到 所 有 敌 人 都 横 尸 战 场 ， 他 们 才 会 停 下 。”
 tagRelicB012=刀锋之誓护符
-tagRelicB012Desc="A symbol of expertise in the art of wielding two melee weapons at the same time."
+tagRelicB012Desc=“能 够 同 时 持 握 两 把 近 战 武 器 的 象 征 。”
 tagRelicB013=快枪手护符
-tagRelicB013Desc="A symbol of expertise in the art of firing two pistols at the same time with lethal accuracy."
+tagRelicB013Desc=“能 够 同 时 手 持 两 把 手 枪 进 行 精 准 射 击 的 象 征 。”
 tagRelicB014=骸骨护符
-tagRelicB014Desc="This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
+tagRelicB014Desc=“这 枚 骨 片 上 镌 刻 着 象 征 流 浪 者 精 神 力 量 的 话 语 和 符 号 。”
 
 tagRelicC001=仲裁
-tagRelicC001Desc="Justice, unbiased and fair..."
+tagRelicC001Desc=“公 平 正 义 ， 一 视 同 仁 和 不 偏 不 倚 ……”
 tagRelicC002=壁垒
-tagRelicC002Desc="The immovable defender and bastion of the weak."
+tagRelicC002Desc=“不 动 如 山 ， 弱 者 的 堡 垒。”
 tagRelicC003=屠杀
-tagRelicC003Desc="Not all nightblade assignments end with a clean kill."
+tagRelicC003Desc=“并 非 夜 刃 所 有 的 暗 杀 任 务 都 能 如 此 干 净 利 落 地 完 成 。”
 tagRelicC004=主宰
-tagRelicC004Desc="A force of destruction that will not be denied."
+tagRelicC004Desc=“无 可 抵 御 的 破 坏 之 力 。”
 tagRelicC005=恐惧
-tagRelicC005Desc="Visions of terror and horrors from the dark places of the world."
+tagRelicC005Desc=“来 自 世 界 阴 暗 处 的 恐 怖 之 影 。”
 tagRelicC006=苦痛
-tagRelicC006Desc="A memento of the Arkovian Steps of Torment, filled with the agony of its innumerable victims."
+tagRelicC006Desc=“一 件 来 自 安 克 维 亚 苦 痛 阶 梯 的 纪 念 物 ， 充 满 了 无 数 受 害 者 的 痛 苦 挣 扎 。”
 tagRelicC007=噬魂
-tagRelicC007Desc="Ageless spirits, eager to escape into the world of the living."
+tagRelicC007Desc=“渴 望 进 入 人 世 的 不 灭 魂 灵 。”
 tagRelicC008=爆炎
-tagRelicC008Desc="The breath of Ulzuin."
+tagRelicC008Desc=“乌 尔 祖 因 之 吐 息 。”
 tagRelicC009=野性
-tagRelicC009Desc="Embrace the call of the wild."
+tagRelicC009Desc=“接 受 野 性 的 呼 唤 。”
 tagRelicC010=死寒
-tagRelicC010Desc="The chilling touch of death lingers hungrily over all..."
+tagRelicC010Desc=“死 亡 般 的 寒 冷 之 触 饥 渴 地 萦 绕 徘 徊 ……”
 tagRelicC011=牺牲
-tagRelicC011Desc="Spill blood so that those who cannot will never have to."
+tagRelicC011Desc=“流 血 牺 牲 以 换 得 天 下 太 平 。”
 tagRelicC012=热诚
-tagRelicC012Desc="Wage war with reckless abandon."
+tagRelicC012Desc=“征 战 ， 以 不 顾 一 切 的 狂 热。”
 tagRelicC013=荒芜
-tagRelicC013Desc="Leave nothing but desolation in your wake."
+tagRelicC013Desc=“所 经 之 处 ， 寸 草 不 生 。”
 tagRelicC014=枯萎
-tagRelicC014Desc="The master stroke of the nine plagues of Dreeg."
+tagRelicC014Desc=“德 里 格 的 七 种 天 灾 之 首 。”
 tagRelicC015=先祖
-tagRelicC015Desc="Within our ancestry lies the key to true potential."
+tagRelicC015Desc=“与 先 祖 相 同 的 血 液 之 中 ， 流 淌 着 真 正 的 潜 力 。”
 
 tagRelicD001=守护
-tagRelicD001Desc="The guiding light of Ishtak cleanses of pain and fills with renewed resolve."
+tagRelicD001Desc=“伊 师 塔 克 的 指 引 之 光 会 抚 平 痛 苦 ， 使 人 重 拾 信 念 。”
 tagRelicD002=诅咒
-tagRelicD002Desc="Plague and disease are an unmatched force, felling both the cripple and the warrior alike."
+tagRelicD002Desc=“灾 祸 和 疾 病 都 是 无 可 抵 御 的 力 量 ， 不 管 是 对 残 疾 人 还 是 战 士 来 说 都 一 样 。”
 tagRelicD003=天罚
-tagRelicD003Desc="The moon as my guide, shadows my allies. I am the hunter..."
+tagRelicD003Desc=“以 月 亮 为 引 ， 暗 影 为 盟 ， 我 就 是 这 样 的 猎 手 ……”
 tagRelicD004=要塞
-tagRelicD004Desc="Become like the unbreachable citadel and behold as your enemies meet their doom before your insurmountable walls."
+tagRelicD004Desc=“化 身 为 攻 不 破 的 要 塞 ， 目 视 你 的 敌 人 在 你 那 难 以 逾 越 的 城 墙 下 迎 来 他 们 的 末 日 。”
 tagRelicD005=风暴之眼
-tagRelicD005Desc="Those who seek divine power need but to look up to the skies during a lightning storm."
+tagRelicD005Desc=“如 寻 求 神 力 绝 对 要 从 发 生 雷 暴 的 天 空 中 寻 找 。”
 tagRelicD006=清算
-tagRelicD006Desc="For every blow, reckoning a thousand-fold."
+tagRelicD006Desc=“受 汝 一 击 ， 千 倍 奉 还 。”
 tagRelicD007=天灾
-tagRelicD007Desc="I fear not the reaper, for I am death incarnate."
+tagRelicD007Desc=“我 无 惧 死 神 ， 因 为 我 就 是 死 亡 的 化 身 。”
 tagRelicD008=乌尔祖因的烈火
-tagRelicD008Desc="Bathe the world in cleansing fire..."
+tagRelicD008Desc=“以 真 火 洗 濯 这 个 世 界 。”
 tagRelicD009=坏死
-tagRelicD009Desc="In the end of all things, we all share the same fate."
+tagRelicD009Desc=“到 了 末 日 那 天 ， 我 们 将 共 享 同 样 的 命 运 。”
 tagRelicD010=阿格拉维斯的恶怨
-tagRelicD010Desc="The secrets of the aether are ours for the taking. I simply do not fear what lies beyond the veil."
+tagRelicD010Desc=“虚 化 的 秘 密 在 于 将 我 们 的 生 命 全 部 奉 献 出 去 ， 我 无 惧 于 死 后 的 世 界 。”
 tagRelicD011=遗忘
-tagRelicD011Desc="I have looked into the great dark beyond expecting the empty void. I never expected it to look back."
+tagRelicD011Desc=“见 识 过 了 最 黑 暗 之 处 那 超 乎 想 象 的 虚 无 ， 我 再 也 不 敢 回 顾 。”
 tagRelicD012=贝尔戈蒂安的屠戮
-tagRelicD012Desc="My brother nightblades have their methods, and I have mine. There are no innocents."
+tagRelicD012Desc=“我 的 夜 刃 兄 弟 有 他 们 的 信 条 ， 我 也 有 我 的 ： 根 本 不 存 在 什 么 无 辜 者 。”
 tagRelicD013=湮灭
-tagRelicD013Desc="The skies shall tear asunder, and fire shall rain from crimson heavens..."
+tagRelicD013Desc=“天 空 将 被 撕 裂 ， 火 雨 将 自 血 红 色 的 天 堂 降 下 ……”
 tagRelicD014=复仇者
-tagRelicD014Desc="It is true, you have landed a mighty blow; but the last one shall be mine."
+tagRelicD014Desc=“没 错 ， 你 重 重 地 给 了 我 一 击 ， 不 过 我 才 会 笑 到 最 后 。”
 tagRelicD015=原始本能
-tagRelicD015Desc="Come forth, my minions. It is time to feast..."
+tagRelicD015Desc=“前 进 吧 ， 我 的 仆 从 。 是 时 候 享 用 你 的 盛 宴 了 ……”
 tagRelicD016=索拉尔的毁灭
-tagRelicD016Desc="They said no man could harness such power, so I ceased to be a man."
+tagRelicD016Desc=“他 们 说 没 人 能 驾 驭 如 此 强 大 的 力 量 ， 所 以 我 将 不 再 为 人 。”
 tagRelicD017=德里格的灾祸
-tagRelicD017Desc="The greatest secret kept from you is the fallacy of your fragile mortality."
+tagRelicD017Desc=“他 们 不 让 你 知 道 的 绝 密 是 ： 生 命 孱 弱 无 比 本 是 个 谬 误 。”
 tagRelicD018=俾斯麦尔的主宰
-tagRelicD018Desc="Look at them, little puppets, all moving along my invisible strings."
+tagRelicD018Desc=“看 看 他 们 ， 这 些 渺 小 的 玩 偶 都 在 我 看 不 见 的 线 绳 中 亦 步 亦 趋 。”
 tagRelicD019=奥莱隆之怒
-tagRelicD019Desc="Blood... agony... death. Will you deny the drums of war?"
+tagRelicD019Desc0=“鲜 血 …… 痛 苦 …… 死 亡 。 和 无 法 抗 拒 的 隆 隆 战 鼓 声 。”
 tagRelicD020=曼海尔的堡垒
-tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood heathens. Rise up to her defense and Cairn will rise with you."
+tagRelicD020Desc=“大 地 不 会 忍 受 什 么 邪 灵 或 是 嗜 血 异 教 徒 ， 奋 起 抗 争 保 卫 她 ， 凯 恩 世 界 也 将 与 你 同 在 。”
 
 
 #Crafting 锻造
 tagCraftTabArtifactA=遗物
-tagCraftTabArtifactB=Talismans, relics and artifacts of great power.
+tagCraftTabArtifactB=护 身 符 ， 遗 物 与 强 大 的 人 造 工 艺 品 。
 tagCraftTabMeleeA=近战武器
-tagCraftTabMeleeB=An assortment of martial weapons intended for slicing, chopping and smashing.
+tagCraftTabMeleeB=用 来 砍 杀 ， 粉 碎 的 武 器 分 类。
 tagCraftTabRangedA=远程武器
-tagCraftTabRangedB=A selection of pistols, rifles and crossbows for those who prefer to fight at range.
+tagCraftTabRangedB=精 选 的 手 枪 ， 步 枪 和 十 字 弓 ，以 满 足 喜 欢 远 程 作 战 的 人 。
 tagCraftTabArmorA=护甲
-tagCraftTabArmorB=A collection of shields, foci and body armor of various makes and materials.
+tagCraftTabArmorB=以 各 种 材 料 和 工 艺 制 作 的 盾 牌 ， 法 器 和 护 甲 大 全 。
 tagCraftTabMiscA=饰品与消耗品
-tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
+tagCraftTabMiscB=混 杂 的 制 作 技 术 ， 有 时 候 不 需 要 用 到 煅 炉 。
 
 tagCraftMaterial_RoyalJelly=蜂王浆
-tagCraftMaterial_RoyalJelly_Desc="Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
+tagCraftMaterial_RoyalJelly_Desc=“古 安 克 维 亚 巨 峰 浓 缩 的 分 泌 物 ， 很 多 人 相 信 它 有 滋 补 的 功 效 。”
 tagCraftMaterial_AetherShard=虚化碎片
-tagCraftMaterial_AetherShard_Desc="A large shard from an aether crystal formation, still teeming with untapped power."
+tagCraftMaterial_AetherShard_Desc=“从 虚 化 水 晶 上 取 下 的 一 块 巨 大 的 碎 片 ， 仍 充 满 着 未 使 用 的 能  量 。”
 tagCraftMaterial_AetherCluster=虚化集簇
-tagCraftMaterial_AetherCluster_Desc="A concentrated cluster of Aether Shards, bursting with unstable energies."
+tagCraftMaterial_AetherCluster_Desc=“一 簇 浓 缩 的 虚 化 碎 片 ， 喷 涌 着 不 稳 定 的 能 量 。”
 tagCraftMaterial_TaintedBrain=感染大脑
-tagCraftMaterial_TaintedBrain_Desc="Brain tissue scarred and twisted by the manipulations of a powerful Aetherial."
+tagCraftMaterial_TaintedBrain_Desc=“扭 曲 的 ， 伤 痕 累 累 的 脑 组 织 ， 被 强 大 的 虚 灵 所 控 制 。”
 tagCraftMaterial_BloodChthon=冥神之血
-tagCraftMaterial_BloodChthon_Desc="Coalesced essence of the void god."
+tagCraftMaterial_BloodChthon_Desc=“虚 空 之 神 凝 聚 的 本 体 。”
 tagCraftMaterial_AncientHeart=远古之心
-tagCraftMaterial_AncientHeart_Desc="It continues to beat within your bag with an eerily steady rhythm."
+tagCraftMaterial_AncientHeart_Desc=“它 仍 在 你 的 袋 中 以 令 人 惊 骇 的 稳 定 频 率 勃 动 着 。”
 tagCraftMaterial_Manticore=蝎尾狮之眼(第三章才有)
-tagCraftMaterial_Mancitore_Desc="The sharp eye of an unmatched predator."
+tagCraftMaterial_Mancitore_Desc=“强 大 掠 食 者 的 锐 眼 。”
 tagCraftMaterial_SkeletonKey=骸骨之钥
-tagCraftMaterial_SkeletonKey_Desc="If the stories are to be believed, this key will open nearly any ancient door."
+tagCraftMaterial_SkeletonKey_Desc=“如 果 传 言 是 真 的 ， 那 么 这 枚 钥 匙 将 能 开 启 几 乎 任 何 一 扇 远 古 之 门 。”
 
-tagCraftRandomItemDesc=The blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
-tagCraftComponentDesc=Experienced forging technique can yield materials of superior quality.
-tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to the ages.
-tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
-tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
+tagCraftRandomItemDesc=铁 匠 能 打 造 一 件 符 合 你 的 等 级 的 附 魔 装 备 ， 该 装 备 至 少 会 是 魔 法 品 质 的 。
+tagCraftComponentDesc=熟 练 的 锻 造 工 艺 能 出 产 高 品 质 的 材 料 。
+tagCraftComponentRareDesc=失 传 已 久 的 卓 越 锻 造 技 术 。
+tagCraftShardBeronathDesc=将 钢 铁 变 幻 为 神 兽 贝 若 纳 斯 的 鳞 片 。
+tagCraftRelicDesc=因 恐 怖 黎 明 而 失 传 的 远 古 锻 造 技 术 。
 
-tagCraftRandomAxe=Enchanted Axe
-tagCraftRandomBlunt=Enchanted Mace
-tagCraftRandomCrossbow2h=Enchanted Crossbow
-tagCraftRandomFocus=Enchanted Focus
-tagCraftRandomGun2h=Enchanted Two-Handed Gun
-tagCraftRandomShield=Enchanted Shield
-tagCraftRandomSword=Enchanted Sword
-tagCraftRandomGun1h=Enchanted One-Handed Gun
-tagCraftRandomAxe2h=Enchanted Two-Handed Axe
-tagCraftRandomBlunt2h=Enchanted Two-Handed Mace
-tagCraftRandomSword2h=Enchanted Two-Handed Sword
+tagCraftRandomAxe=附魔之斧
+tagCraftRandomBlunt=附魔钉锤
+tagCraftRandomCrossbow2h=附魔十字弓
+tagCraftRandomFocus=附魔法器
+tagCraftRandomGun2h=附魔长枪
+tagCraftRandomShield=附魔盾牌
+tagCraftRandomSword=附魔之剑
+tagCraftRandomGun1h=附魔单手枪械
+tagCraftRandomAxe2h=附魔双手斧
+tagCraftRandomBlunt2h=附魔双手钉锤
+tagCraftRandomSword2h=附魔双手剑
 
-tagCraftRandomRing=Enchanted Ring
-tagCraftRandomNecklace=Enchanted Necklace
-tagCraftRandomMedal=Enchanted Medal
-tagCraftRandomBelt=Enchanted Belt
+tagCraftRandomRing=附魔戒指
+tagCraftRandomNecklace=附魔项链
+tagCraftRandomMedal=附魔勋章
+tagCraftRandomBelt=附魔腰带
 
-tagCraftRandomFeet_Heavy=Enchanted Heavy Boots
-tagCraftRandomFeet_Light=Enchanted Light Boots
-tagCraftRandomHands_Heavy=Enchanted Heavy Gloves
-tagCraftRandomHands_Light=Enchanted Light Gloves
-tagCraftRandomHead_Caster=Enchanted Caster Helm
-tagCraftRandomHead_Heavy=Enchanted Heavy Helm
-tagCraftRandomHead_Light=Enchanted Light Helm
-tagCraftRandomLegs_Heavy=Enchanted Heavy Leg Armor
-tagCraftRandomLegs_Light=Enchanted Light Leg Armor
-tagCraftRandomShoulder_Heavy=Enchanted Heavy Shoulder Armor
-tagCraftRandomShoulder_Light=Enchanted Light Shoulder Armor
-tagCraftRandomTorso_Caster=Enchanted Caster Chest Armor
-tagCraftRandomTorso_Heavy=Enchanted Heavy Chest Armor
-tagCraftRandomTorso_Light=Enchanted Light Chest Armor
+tagCraftRandomFeet_Heavy=附魔重靴
+tagCraftRandomFeet_Light=附魔便鞋
+tagCraftRandomHands_Heavy=附魔护手甲
+tagCraftRandomHands_Light=附魔手套
+tagCraftRandomHead_Caster=附魔头盔
+tagCraftRandomHead_Heavy=附魔重盔
+tagCraftRandomHead_Light=附魔轻盔
+tagCraftRandomLegs_Heavy=附魔重腿甲
+tagCraftRandomLegs_Light=附魔轻腿甲
+tagCraftRandomShoulder_Heavy=附魔重型肩甲
+tagCraftRandomShoulder_Light=附魔轻型肩甲
+tagCraftRandomTorso_Caster=附魔胸甲
+tagCraftRandomTorso_Heavy=附魔重型胸甲
+tagCraftRandomTorso_Light=附魔轻型胸甲
 
 
-tagSuppliesIncomplete=Crafting Supply Parts
-tagSuppliesComplete=Crafting Supplies
+tagSuppliesIncomplete=部分锻造材料
+tagSuppliesComplete=锻造材料
 tagSuppliesNumber={%s0 - %d1 / %d2}
 tagSuppliesBonus=
-tagSuppliesHelp=[Crafting Supplies are used with Blueprints]
+tagSuppliesHelp=[锻造材料用于设计图的打造]
 tagSuppliesError=
 
 
@@ -1439,28 +1439,28 @@ tagSuppliesError=
 
 tagScrollDirections=[右击以使用]
 
-tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
-tagConsumableRoyalJellyBalmBlueprintDesc="A secret medicinal technique of the Rovers."
-tagConsumableBlueprintA01=Recipe: Flamedrinker Ointment
-tagConsumableBlueprintA02=Recipe: Frostshroud Ointment
-tagConsumableBlueprintA03=Recipe: Stormshroud Ointment
-tagConsumableBlueprintA04=Recipe: Venomguard Ointment
-tagConsumableBlueprintA05=Recipe: Bloodbound Ointment
-tagConsumableBlueprintA06=Recipe: Spiritbane Ointment
-tagConsumableBlueprintA07=Recipe: Deathwhisper Ointment
-tagConsumableBlueprintA08=Recipe: Hoarfrost Ointment
-tagConsumableBlueprintA09=Recipe: Lifestealer Oil
-tagConsumableBlueprintA10=Recipe: Venomfang Oil
-tagConsumableBlueprintA11=Recipe: Bloodfang Oil
-tagConsumableBlueprintA12=Recipe: Arcanum Oil
-tagConsumableBlueprintA13=Recipe: Elixir of the Ancients
-tagConsumableBlueprintA13Desc="A forgotten art that dabbles in forbidden magic."
-tagConsumableBlueprintA14=Recipe: Elixir of the Aether
-tagConsumableBlueprintA14Desc="A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
-tagConsumableBlueprintA15=Recipe: Elixir of the Void
+tagConsumableRoyalJellyBalmBlueprint=配方：蜂王浆药膏
+tagConsumableRoyalJellyBalmBlueprintDesc=“流 浪 者 的 制 药 秘 诀 。”
+tagConsumableBlueprintA01=配方：火焰吞饮药膏
+tagConsumableBlueprintA02=配方：寒霜护体药膏
+tagConsumableBlueprintA03=配方：风暴之拥药膏
+tagConsumableBlueprintA04=配方：抗毒药膏
+tagConsumableBlueprintA05=配方：血系药膏
+tagConsumableBlueprintA06=配方：灵魂之祸药膏
+tagConsumableBlueprintA07=配方：死亡之语药膏
+tagConsumableBlueprintA08=配方：白霜药膏
+tagConsumableBlueprintA09=配方：噬命之油
+tagConsumableBlueprintA10=配方：毒牙之油
+tagConsumableBlueprintA11=配方：血牙之油
+tagConsumableBlueprintA12=配方：奥秘之油
+tagConsumableBlueprintA13=配方：先祖药剂
+tagConsumableBlueprintA13Desc=“一 项 涉 足 禁 术 的 失 传 技 艺 。”
+tagConsumableBlueprintA14=配方：虚灵药剂
+tagConsumableBlueprintA14Desc=“”"A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
+tagConsumableBlueprintA15=配方：虚空药剂
 tagConsumableBlueprintA15Desc="A concoction often used by the Cult of Ch'thon to bring them closer to their god."
-tagConsumableBlueprintA16=Recipe: Elixir of the Hunt
-tagConsumableBlueprintA16Desc="A mixture used by hunters to better track their prey."
+tagConsumableBlueprintA16=配方：追猎药剂
+tagConsumableBlueprintA16Desc=“猎 人 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
 
 tagConsumable_RoyalJellyBalm=Royal Jelly Balm
 tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
@@ -1823,7 +1823,7 @@ tagBonusAttribPoint={%+d0} 属性点数
 
 
 tagItemSetC001Name=帝国卫兵的戎装
-tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 和 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 惧 黎 明 之 后 留 存 无 几 。”
+tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 兼 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 惧 黎 明 之 后 留 存 无 几 。”
 
 tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc=“轻 便 且 耐 用 的 护 甲 ， 为 渴 望 探 险 的 人 而 准 备 。”
@@ -1838,46 +1838,46 @@ tagItemSetC005Name=掠夺者的正义
 tagItemSetC005Desc=“判 官 ， 陪 审 ， 和 刽 子 手 。”
 
 tagItemSetC006Name=使者的华服
-tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 之 使 节 所 穿 的 服 饰 。”
+tagItemSetC006Desc=“执 行 外 交 使 命 的 君 王 使 节 所 穿 的 服 饰 。”
 
 tagItemSetC007Name=曼海尔之触
 tagItemSetC007Desc=“曼 海 尔 的 祭 司 们 所 穿 过 的 服 饰 。 他 们 治 疗 着 这 个 世 界 ，不 分 种 族 与 国 界。”
 
 tagItemSetC008Name=救赎
-tagItemSetC008Desc=“圣 殿 骑 士 兰 德 尔 · 格 瑞 维 斯 在 其 毕 生 的 东 征 中 穿 着 它 ， 以 赦 免 他 打 破 神 圣 誓 约 而 娶 妻 的 堕 落 行 为 。”
+tagItemSetC008Desc=“圣 殿 骑 士 兰 德 尔·格 瑞 维 斯 在 其 毕 生 的 东 征 中 穿 着 它 ， 以 赦 免 他 打 破 神 圣 誓 约 而 娶 妻 的 堕 落 行 为 。”
 
 tagItemSetC009Name=盲眼
-tagItemSetC009Desc=“盲 刺 客 ， 萨 迪 厄 斯 · 布 兰 纳 甘 ， 当 他 在 光 天 化 日 之 下 暗 杀 了 一 位 圣 殿 骑 士 团 团 长 后 声 名 远 扬 。”
+tagItemSetC009Desc=“盲 刺 客 ， 萨 迪 厄 斯·布 兰 纳 甘 ， 当 他 在 光 天 化 日 之 下 暗 杀 了 一 位 圣 殿 骑 士 团 团 长 后 声 名 远 扬 。”
 
 tagItemSetC010Name=神射手的徽记
 tagItemSetC010Desc=“大 师 级 枪 手 珍 藏 的 利 器 ，能 命 中 500 码 外 的 飞 鸟 。”
 
 tagItemSetC011Name=不洁圣约
-tagItemSetC011Desc=“朋 党 在 莫 可 名 状 的 仪 式 上 穿 戴 过 的 特 别 物 品 。”
+tagItemSetC011Desc=“教 团 在 隐 秘 的 仪 式 中 穿 着 的 华 服 。”
 
-tagItemSetC012Name=皇室奢华
+tagItemSetC012Name=皇家奢华
 tagItemSetC012Desc=“被 认 为 遗 失 在 恐 怖 黎 明 劫 掠 中 的 皇 家 珠 宝 收 藏 品 。”
 
 tagItemSetC013Name=毁誓者
 tagItemSetC013Desc=“毁 誓 者 曾 经 携 带 的 装 备 , 一 个 为 敌 人 打 开 城 门 背 叛 了 他 的 国 王 的 骑 士 。"
 
-tagItemSetC014Name=勇气之饰
+tagItemSetC014Name=无畏之饰
 tagItemSetC014Desc=“在 战 争 年 代 为 士 兵 们 英 勇 行 为 所 授 的 奖 章 。”
 
-tagItemSetC015Name=大屠杀
-tagItemSetC015Desc=“谁 佩 戴 这 些 指 环 就 会 由 谁 引 发 血 案 。”
+tagItemSetC015Name=屠杀
+tagItemSetC015Desc=“戒 指 会 激 发 佩 戴 者 的 杀 意 。”
 
 tagItemSetC016Name=秘术典范
-tagItemSetC016Desc=“这 套 华 服 授 予 给 在 秘 术 学 研 究 中 取 得 重 大 成 就 的  秘 术 师 。”
+tagItemSetC016Desc=“这 套 华 服 授 予 给 在 秘 术 学 研 究 中 取 得 重 大 成 就 的 秘 术 师 。”
 
 tagItemSetC017Name=黎明守卫
-tagItemSetC017Desc=“仅 被 纪 念 巨 碑 神 圣 信 仰 的 最 狂 热 的 守 护 者 穿 过 的 盔 甲 。”
+tagItemSetC017Desc=“仅 被 对 曼 海 尔 的 神 圣 信 仰 最 为 狂 热 的 信 徒 穿 过 的 盔 甲 。”
 
 tagItemSetC018Name=阿卡莫斯之怒
 tagItemSetC018Desc=“安 克 维 亚 的 行 刑 者 领 主 阿 卡 莫 斯 的 魔 印 。”
 
 tagItemSetD001Name=审判者盔甲
-tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
+tagItemSetD001Desc=“曼 海 尔 的 卫 士 中 的 大 审 判 官 ， 沉 默 的 霍 瓦 德 的 盔 甲 。”
 
 tagItemSetD002Name=神圣平衡
 tagItemSetD002Desc=“生 命 和 死 亡 的 本 质 灌 注 于 这 些 刀 锋 之 中 。”
@@ -1886,28 +1886,28 @@ tagItemSetD003Name=野兽召唤师的华服
 tagItemSetD003Desc=“巨 熊 之 力 ， 夜 枭 之 智 ， 灵 狼 之 怒 。”
 
 tagItemSetD004Name=破晓者之光
-tagItemSetD004Desc=“太 阳 的 怒 火 抵 抗 不 断 侵 袭 的 黑 暗 。”
+tagItemSetD004Desc=“太 阳 的 怒 火 抵 挡 着 不 断 侵 袭 的 黑 暗 。”
 
 tagItemSetD005Name=先驱者
-tagItemSetD005Desc=“工 具 使 用 的 先 驱 者 ， 艾 瑞 拉 郊 区 著 名 的 赏 金 猎 人 。”
+tagItemSetD005Desc=“先 驱 者 ， 伊 露 兰 郊 区 著 名 的 赏 金 猎 人 使 用 的 装 备 ，”
 
-tagItemSetD006Name=执政官的印章
-tagItemSetD006Desc=“众 多 命 运 的 裁 决 来 自 一 人 之 腕 。”
+tagItemSetD006Name=执法官的印玺
+tagItemSetD006Desc=“很 多 人 的 命 运 的 决 断 于 一 人 之 手 。”
 
-tagItemSetD007Name=恶魔猎手的制服
-tagItemSetD007Desc=“奥 利 弗 巴 恩 斯 特 德 的 服 装 ， 纪 念 巨 碑 和 驱 魔 师 虔 诚 的 追 随 者 。”
+tagItemSetD007Name=屠魔者的装束
+tagItemSetD007Desc=“驱 魔 人 奥 利 弗·巴 恩 斯 特 德 的 服 装 ， 他 也 是 曼 海 尔 虔 诚 的 信 徒 。”
 
-tagItemSetD008Name=枪匠的双胞胎
+tagItemSetD008Name=枪械师的双枪
 tagItemSetD008Desc=“一 同 锻 造 ， 战 为 一 体 。”
 
 tagItemSetD009Name=狂野之血先锋
 tagItemSetD009Desc=“一 套 来 自 蛮 夷 时 代 的 收 藏 品 。”
 
 tagItemSetD010Name=大法师
-tagItemSetD010Desc=“法 袍 曾 被 银 塔 的 大 法 师 穿 过 ， 吉 尔 丹 奥 秘 的 校 长 。”
+tagItemSetD010Desc=“白 银 之 塔 的 大 法 师 穿 过 的 衣 服 ， 那 里 是 的 吉 尔 达 姆 秘 学 社 的 大 本 营 。”
 
-tagItemSetD011Name=祈求者的元素
-tagItemSetD011Desc=“火 山 那 狂 暴 的 力 量 被 寒 冷 的 北 风 所 平 衡 。”
+tagItemSetD011Name=召魔者的元素
+tagItemSetD011Desc=“火 山 的 狂 暴 之 力 平 衡 于 北 风 的 极 寒。”
 
 
 #Prefixes前缀
@@ -2167,7 +2167,7 @@ tagSuffixB005_Ar_A=索拉尔的怨恨之
 tagSuffixB006_Ar_A=奥莱隆的愤怒之
 tagSuffixB007_Ar_A=自然馈赠之
 tagSuffixB008_Ar_A=阿波切特的聚焦之
-tagSuffixB009_Ar_A=吉尔达姆的秘学之
+tagSuffixB009_Ar_A=吉尔达姆秘学社之
 tagSuffixB010_Ar_A=虚无之
 tagSuffixB011_Ar_A=德鲁伊之
 tagSuffixB012_Ar_A=刀锋之

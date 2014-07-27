@@ -1522,61 +1522,61 @@ tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整部件吗？
 
 tagCompA001Name=尖刺外壳
-tagCompA001Desc="A thick carapace lined with jagged spines."^w^n(Used in all armor)
+tagCompA001Desc=“一种长着锯齿状的刺的厚重甲壳”^w^n(用于所有护甲)
 
 tagCompA002Name=Ballistic Plating
-tagCompA002Desc="Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
+tagCompA002Desc=“一种用来抵御箭头和子弹的古老盔甲的碎片。”^w^n(用于胸甲)
 
-tagCompA003Name=Sanctified Bone
-tagCompA003Desc="The purified bones of a paladin slain in righteous combat"^w^n(Used in chest armor)
+tagCompA003Name=圣骨
+tagCompA003Desc=“一名牺牲在圣战中的骑士身上经过净化的骨头。”^w^n(用于胸甲)
 
-tagCompA004Name=Leathery Hide
-tagCompA004Desc="A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
+tagCompA004Name=坚韧兽皮
+tagCompA004Desc=“一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。”^w^n(用于头盔)
 
-tagCompA005Name=Runestone
-tagCompA005Desc="A mysterious rune decorates this stone."^w^n(Used in head armor)
+tagCompA005Name=符文之石
+tagCompA005Desc=“一直神秘的符文灌注在这块石头之中。”^w^n(用于手套)
 
-tagCompA006Name=Mutagenic Ichor
-tagCompA006Desc="Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and off-hands)
+tagCompA006Name=突变脓水
+tagCompA006Desc=“从感染了异世界能量的生物身上取得。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA007Name=Rotten Heart
-tagCompA007Desc="A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
+tagCompA007Name=腐坏之心
+tagCompA007Desc=“受死灵法术影响不再勃动的枯萎心脏。”^w^n(用于胸甲)
 
-tagCompA008Name=Mutated Scales
-tagCompA008Desc="Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in chest and shoulder armor)
+tagCompA008Name=突变鳞片
+tagCompA008Desc=“因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。”^w^n(用于胸甲和护肩)
 
-tagCompA009Name=Corpse Dust
-tagCompA009Desc="Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
+tagCompA009Name=尸尘
+tagCompA009Desc=“从死尸身上提炼来的尘埃，经常用于魔法和妖术。”^w^n(用于戒指和项链)
 
-tagCompA010Name=Soul Shard
-tagCompA010Desc="A magical gem used by witch hunters rumored to trap the souls of the damned."^w^n(Used in amulets and medals)
+tagCompA010Name=灵魂碎片
+tagCompA010Desc=“传闻说这是一种猎魔人用来困住邪魔的魔法宝石。”^w^n(用于项链和勋章)
 
-tagCompA011Name=Ectoplasm
-tagCompA011Desc="A gelatinous residue sometimes left behind by non-corporeal entities."^w^n(Used in rings and amulets)
+tagCompA011Name=灵质
+tagCompA011Desc=“有时从无形之物身上留下的胶装残留物。”^w^n(用于戒指和项链)
 
-tagCompA012Name=Blessed Steel
-tagCompA012Desc="Steel blessed by the priests of Menhir to vanquish the spreading darkness."^w^n(Used in all weapons, shields and off-hands)
+tagCompA012Name=赐福钢铁
+tagCompA012Desc=“受到曼海尔手下牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA013Name=Venomous Fang
-tagCompA013Desc="A ferocious fang still dripping with foul toxins."^w^n(Used in melee weapons)
+tagCompA013Name=毒牙
+tagCompA013Desc=“一枚滴着毒液的尖牙。”^w^n(用于近战武器)
 
-tagCompA014Name=Purified Salt
-tagCompA014Desc="Rock salt extracted for the exorcism and deterrence of otherworldly demons."^w^n(Used in all weapons, shields and off-hands)
+tagCompA014Name=纯净之盐
+tagCompA014Desc=“被提炼用来驱除和威慑异世界恶魔的石盐。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA015Name=Hollowed Fang
-tagCompA015Desc="A curved fang intended for the consumption of vital fluids."^w^n(Used in all weapons, shields and off-hands)
+tagCompA015Name=中空之牙
+tagCompA015Desc=“一枚弯曲的牙齿，用来汲取生命力。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA016Name=Severed Claw
-tagCompA016Desc="A ruthless claw torn from the limb of a mighty beast."^w^n(Used in all weapons, shields and off-hands)
+tagCompA016Name=断裂之爪
+tagCompA016Desc=“从一种猛兽的肢体上扯下来的利爪。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA017Name=Imbued Silver
-tagCompA017Desc="Silver dust enhanced with powerful sorcery."^w^n(Used in all weapons, shields and off-hands)
+tagCompA017Name=灌魔银粉
+tagCompA017Desc=“被灌注了强大魔力的银粉。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA018Name=Vicious Spikes
-tagCompA018Desc="Savage spikes from an unnatural being."^w^n(Used in all weapons, shields and off-hands)
+tagCompA018Name=恶毒尖刺
+tagCompA018Desc=“从一只非自然生物身上得来的尖刺。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA019Name=Radiant Gem
-tagCompA019Desc="A reflective gem that shimmers with the elements."^w^n(Used in shields and off-hands)
+tagCompA019Name=辐光宝石
+tagCompA019Desc=“一块发光的宝石，随着不同的元素而闪烁着。”^w^n(用于盾牌和副手)
 
 tagCompA020Name=Hell's Bane Ammo
 tagCompA020Desc="Consecrated ammunition intended to inflict great pain upon those of impure intent."^w^n(Used in guns and crossbows)

@@ -1578,41 +1578,41 @@ tagCompA018Desc=“从一只非自然生物身上得来的尖刺。”^w^n(用�
 tagCompA019Name=辐光宝石
 tagCompA019Desc=“一块发光的宝石，随着不同的元素而闪烁着。”^w^n(用于盾牌和副手)
 
-tagCompA020Name=Hell's Bane Ammo
-tagCompA020Desc="Consecrated ammunition intended to inflict great pain upon those of impure intent."^w^n(Used in guns and crossbows)
+tagCompA020Name=妖邪克星弹药
+tagCompA020Desc=“神力加持的子弹，给敢于渎神者以极大的痛苦。”^w^n(用于枪械和十字弓)
 
-tagCompA021Name=Deathchill Bolts
-tagCompA021Desc="Deliver the cold chill of death upon your enemies."^w^n(Used in guns and crossbows)
+tagCompA021Name=死寒箭矢
+tagCompA021Desc=“给敌人带去死亡般的寒冷。”^w^n(用于枪械和十字弓)
 
-tagCompA022Name=Aether Soul
-tagCompA022Desc="A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."^w^n(Used in amulets and medals)
+tagCompA022Name=虚化之魂
+tagCompA022Desc=“一块含有能量，震颤着的石头。在物质位面被杀死虚灵经常会留下这种石头。”^w^n(用于项链和勋章)
 
-tagCompA023Name=Rigid Shell
-tagCompA023Desc="A tough shell seemingly impervious to shock."^w^n(Used in all armor)
+tagCompA023Name=坚硬外壳
+tagCompA023Desc=“一块坚硬的外壳，似乎对冲击免疫。”^w^n(用于所有护甲)
 
-tagCompA024Name=Molten Skin
-tagCompA024Desc="A thick layer of skin from a fiery creature."^w^n(Used in all armor)
+tagCompA024Name=熔岩皮肤
+tagCompA024Desc=“一块厚厚的皮层，来自于一种浑身冒火的生物。”^w^n(用于所有护甲)
 
-tagCompA025Name=Enchanted Flint
-tagCompA025Desc="This enchanted flint will impart a spirit of flame within any weapon it caresses."^w^n(Used in melee weapons)
+tagCompA025Name=魔法火石
+tagCompA025Desc=“通过和武器摩擦，这种被施了魔法的火石能够将火之精魂附在武器身上。”^w^n(用于近战武器)
 
-tagCompA026Name=Coldstone
-tagCompA026Desc="In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."^w^n(Used in melee weapons)
+tagCompA026Name=寒石
+tagCompA026Desc=“民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。”^w^n(用于近战武器)
 
-tagCompA027Name=Amber
-tagCompA027Desc="It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons)
+tagCompA027Name=琥珀
+tagCompA027Desc=“据说有时候，当树木遭到雷击，风暴之灵会被困在树木结晶的汁液之中。”^w^n(用于近战武器)
 
-tagCompA028Name=Vitriolic Gallstone
-tagCompA028Desc="Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons)
+tagCompA028Name=强酸结石
+tagCompA028Desc=“邪恶野兽的胆囊中生成的酸性结石。”^w^n(用于近战武器)
 
-tagCompA029Name=Blessed Whetstone
-tagCompA029Desc="Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes and swords)
+tagCompA029Name=赐福磨石
+tagCompA029Desc=“打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。”^w^n(用于斧和剑)
 
-tagCompA030Name=Silk Swatch
-tagCompA030Desc="Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."^w^n(Used in shoulder, chest and leg armor)
+tagCompA030Name=丝绸
+tagCompA030Desc=“西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。”^w^n(用于护肩，胸甲和护腿)
 
-tagCompA031Name=Scaled Hide
-tagCompA031Desc="These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
+tagCompA031Name=鳞片兽皮
+tagCompA031Desc=“这种”"These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
 
 tagCompA032Name=Flintcore Bolts
 tagCompA032Desc="The enchanted core sparks flame with any surface."^w^n(Used in guns and crossbows)

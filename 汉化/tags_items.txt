@@ -1524,7 +1524,7 @@ tagComponentConfirmation=你确定要组合成完整部件吗？
 tagCompA001Name=尖刺外壳
 tagCompA001Desc=“一种长着锯齿状的刺的厚重甲壳”^w^n(用于所有护甲)
 
-tagCompA002Name=Ballistic Plating
+tagCompA002Name=冲击铠甲片
 tagCompA002Desc=“一种用来抵御箭头和子弹的古老盔甲的碎片。”^w^n(用于胸甲)
 
 tagCompA003Name=圣骨
@@ -1611,83 +1611,83 @@ tagCompA029Desc=“打磨哪怕是最为锋利的刀刃，提高穿透敌人护�
 tagCompA030Name=丝绸
 tagCompA030Desc=“西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。”^w^n(用于护肩，胸甲和护腿)
 
-tagCompA031Name=鳞片兽皮
-tagCompA031Desc=“这种”"These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
+tagCompA031Name=鳞状兽皮
+tagCompA031Desc=“这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。”^w^n(用于护肩，胸甲和护腿)
 
-tagCompA032Name=Flintcore Bolts
-tagCompA032Desc="The enchanted core sparks flame with any surface."^w^n(Used in guns and crossbows)
+tagCompA032Name=燧石弹药
+tagCompA032Desc=“被施了魔法的燧石，表面迸发着火焰。”^w^n(用于枪械和十字弓)
 
-tagCompA033Name=Venom-Tipped Ammo
-tagCompA033Desc="Toxins from a poisonous maw coat the tip of this ammunition."^w^n(Used in guns and crossbows)
+tagCompA033Name=浸毒弹药
+tagCompA033Desc=“子弹的尖端涂抹着来自于一种动物毒囊的毒液。”^w^n(用于枪械和十字弓)
 
-tagCompA034Name=Mark of the Traveler
-tagCompA034Desc="Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."^w^n(Used in boots)
+tagCompA034Name=旅者标记
+tagCompA034Desc=“旅行者在穿越荒野的时候使用这种标记，这样就不会被兽神莫格卓根错认成猎人。”^w^n(用于足具)
 
-tagCompA035Name=Consecrated Wrappings
-tagCompA035Desc="Blood stained wrappings worn by Ch'thonic cultists."^w^n(Used in hand armor)
+tagCompA035Name=神圣裹布
+tagCompA035Desc=“冥灵邪教徒所使用的血迹斑斑的裹布。”^w^n(用于手套)
 
-tagCompA036Name=Restless Remains
-tagCompA036Desc="The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
+tagCompA036Name=躁动遗骸
+tagCompA036Desc=“生前遭受折磨，死后不愿安息。”^w^n(用于手套)
 
-tagCompA037Name=Dense Fur
-tagCompA037Desc="A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
+tagCompA037Name=茂密毛皮
+tagCompA037Desc=“一块厚实的毛皮，用来应对冬季的严寒再合适不过了。”^w^n(用于所有护甲)
 
-tagCompA038Name=Serrated Spike
-tagCompA038Desc="A flimsy but extremely sharp spike from a beast."^w^n(Used in all weapons, shields and off-hands)
+tagCompA038Name=锯齿尖刺
+tagCompA038Desc=“一种野兽身上的尖刺，脆弱却异常的锋利。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA039Name=Searing Ember
-tagCompA039Desc="An everlasting ember from a burnt-down home."^w^n(Used in all weapons, shields and off-hands)
+tagCompA039Name=灼热余烬
+tagCompA039Desc=“不灭的余烬，来自于烧毁殆尽的家园。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA040Name=Chilled Steel
-tagCompA040Desc="This steel is infused with a chilling winter wind."^w^n(Used in all weapons, shields and off-hands)
+tagCompA040Name=淬火钢铁
+tagCompA040Desc=“这块钢铁被灌注了寒冬之风。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA041Name=Cracked Lodestone
-tagCompA041Desc="Sparks of energy jump across its surface."^w^n(Used in all weapons, shields and off-hands)
+tagCompA041Name=破裂磁石
+tagCompA041Desc=“表面闪烁着能量的火花。”^w^n(用于所有武器，盾牌和副手)
 
-tagCompA042Name=Chipped Claw
-tagCompA042Desc="A claw from a ruthless predator that finally met its match."^w^n(Used in all weapons, shields and off-hands)
+tagCompA042Name=破碎之爪
+tagCompA042Desc=“一种残忍的掠食者身上的爪子。这次，它终于遇上了旗鼓相当的对手。”"^w^n(用于所有武器，盾牌和副手)
 
-tagCompA043Name=Scavenged Plating
-tagCompA043Desc="Plating from armor that's seen better days."^w^n(Used in all armor)
+tagCompA043Name=回收铠甲片
+tagCompA043Desc=“从废旧的铠甲上取下来的盔甲片。”^w^n(用于所有护甲)
 
-tagCompA044Name=Bristly Fur
-tagCompA044Desc="A thick patch of fur from an unnatural beast."^w^n(Used in all armor)
+tagCompA044Name=粗硬毛皮
+tagCompA044Desc=“一片来自一种非自然魔兽的厚厚的毛皮”^w^n(用于所有护甲)
 
-tagCompA045Name=Resilient Plating
-tagCompA045Desc="A plate of armor that's survived countless battles and looks fit to survive many more."^w^n(Used in shields, off-hands, chest and shoulder armor)
+tagCompA045Name=弹性铠甲片
+tagCompA045Desc=“从一件经历了无数战斗的盔甲上面取下的甲片，看起来让它退役还早得很。”^w^n(用于盾牌，副手，胸甲和护甲)
 
-tagCompA046Name=Polished Emerald
-tagCompA046Desc="A fine gem polished to perfection."^w^n(Used in shields, off-hands, rings, head and chest armor)
+tagCompA046Name=抛光翡翠
+tagCompA046Desc=“纯净的宝石，抛光后已臻完美。”^w^n(用于盾牌，副手，戒指，头盔和胸甲)
 
-tagCompA047Name=Frozen Heart
-tagCompA047Desc="Eternally encased in black ice."^w^n(Used in rings)
+tagCompA047Name=冰封之心
+tagCompA047Desc=“永远地被包裹在黑冰之中。”^w^n(用于戒指)
 
-tagCompA048Name=Roiling Blood
-tagCompA048Desc="Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
+tagCompA048Name=翻腾鲜血
+tagCompA048Desc=“沸腾着曾经激发它的怒火。”^w^n(用于戒指和项链)
 
-tagCompA049Name=Wardstone
-tagCompA049Desc="A stone etching of an ancient protective symbol."^w^n(Used in amulets)
+tagCompA049Name=守护石
+tagCompA049Desc=“一块蚀刻有古老的守护符号的石头。”^w^n(用于项链)
 
-tagCompA050Name=Focusing Prism
-tagCompA050Desc="Used by arcanists to channel their powers during particularly straining rituals."^w^n(Used in amulets)
+tagCompA050Name=聚焦棱镜
+tagCompA050Desc=“秘术师在特殊的紧要仪式中使用它来引导能量。”^w^n(用于项链)
 
-tagCompA051Name=Black Tallow
-tagCompA051Desc="Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
+tagCompA051Name=黑色油脂
+tagCompA051Desc=“冥灵仪式中蜡烛燃烧的油脂。”^w^n(用于项链和勋章)
 
 tagCompA052Name=复仇之魂
-tagCompA052Desc="A spirit of vengeance."^w^n(Used in amulets and medals)
+tagCompA052Desc=“复仇的灵魂。”^w^n(用于项链和勋章)
 
-tagCompA053Name=Mark of Illusions
-tagCompA053Desc="A symbol of power used in many inscriptions."^w^n(Used in rings and amulets)
+tagCompA053Name=幻象印记
+tagCompA053Desc=“一种象征着力量的符号，许多铭文中都会使用它。”^w^n(用于戒指和项链)
 
-tagCompA054Name=Vicious Jawbone
-tagCompA054Desc="The jaw of a beast built to snap bones as if they were sticks."^w^n(Used in amulets and medals)
+tagCompA054Name=恶毒颚骨
+tagCompA054Desc=“这种野兽的下颌长着整齐的颚骨，如同刺一般。”^w^n(用于项链和勋章)
 
-tagCompA055Name=Wrathstone
-tagCompA055Desc="It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
+tagCompA055Name=愤怒之石
+tagCompA055Desc="It vibrates at the slightest contact with living flesh."^w^n(用于近战武器)
 
-tagCompA056Name=Riftstone
-tagCompA056Desc="Teeming with the raw power of the void."^w^n(Used in melee weapons)
+tagCompA056Name=裂缝之石
+tagCompA056Desc=“充满了虚空中的原始能量。”^w^n(用于近战武器)
 
 tagCompA057Name=Aethersteel Bolts
 tagCompA057Desc="Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)

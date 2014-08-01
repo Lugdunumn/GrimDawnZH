@@ -149,7 +149,7 @@ tagWeaponAxeC010Desc=“斧 刃 驾 驭 着 虚 化 之 力 。”
 tagWeaponAxeC011=锯齿千人斩
 tagWeaponAxeC011Desc=“每 个 锯 齿 都 代 表 着 一 条 性 命 。”
 tagWeaponAxeC012=尸体亵渎者
-tagWeaponAxeC013=乔纳格·日
+tagWeaponAxeC013=乔纳格·理
 tagWeaponAxeC013Desc=“一 把 由 各 种 人 类 和 动 物 的 骨 头 组 成 的 萨 满 斧 。”
 
 tagWeaponAxeD001=伯尔维治屠夫
@@ -1522,264 +1522,264 @@ tagComponentCombine=[右键点击以组合]
 tagComponentConfirmation=你确定要组合成完整部件吗？
 
 tagCompA001Name=尖刺外壳
-tagCompA001Desc=“一种长着锯齿状的刺的厚重甲壳”^w^n(用于所有护甲)
+tagCompA001Desc=“一 种 长 着 锯 齿 状 的 刺 的 厚 重 甲 壳 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA002Name=冲击铠甲片
-tagCompA002Desc=“一种用来抵御箭头和子弹的古老盔甲的碎片。”^w^n(用于胸甲)
+tagCompA002Desc=“一 种 用 来 抵 御 箭 头 和 子 弹 的 古 老 盔 甲 的 碎 片 。 ”^w^n( 用 于 胸 甲 )
 
 tagCompA003Name=圣骨
-tagCompA003Desc=“一名牺牲在圣战中的骑士身上经过净化的骨头。”^w^n(用于胸甲)
+tagCompA003Desc=“一 名 牺 牲 在 圣 战 中 的 骑 士 身 上 经 过 净 化 的 骨 头 。 ”^w^n( 用 于 胸 甲 )
 
 tagCompA004Name=坚韧兽皮
-tagCompA004Desc=“一块厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。”^w^n(用于头盔)
+tagCompA004Desc=“一 块 厚 厚 的 兽 皮 ， 粗 糙 的 表 面 非 常 适 合 用 来 吸 收 突 如 其 来 的 冲 击 。 ”^w^n( 用 于 头 盔 )
 
 tagCompA005Name=符文之石
-tagCompA005Desc=“一直神秘的符文灌注在这块石头之中。”^w^n(用于手套)
+tagCompA005Desc=“一 种 神 秘 的 符 文 灌 注 在 这 块 石 头 之 中 。 ”^w^n( 用 于 手 套 )
 
 tagCompA006Name=突变脓水
-tagCompA006Desc=“从感染了异世界能量的生物身上取得。”^w^n(用于所有武器，盾牌和副手)
+tagCompA006Desc=“从 感 染 了 异 世 界 能 量 的 生 物 身 上 取 得 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA007Name=腐坏之心
-tagCompA007Desc=“受死灵法术影响不再勃动的枯萎心脏。”^w^n(用于胸甲)
+tagCompA007Desc=“受 死 灵 法 术 影 响 而 不 再 勃 动 的 枯 萎 心 脏 。 ”^w^n( 用 于 胸 甲 )
 
 tagCompA008Name=突变鳞片
-tagCompA008Desc=“因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。”^w^n(用于胸甲和护肩)
+tagCompA008Desc=“因 暴 露 在 虚 灵 能 量 下 产 生 了 突 变 ， 这 种 鳞 片 变 得 异 常 厚 重 和 坚 硬 。 ”^w^n( 用 于 胸 甲 和 护 肩 )
 
 tagCompA009Name=尸尘
-tagCompA009Desc=“从死尸身上提炼来的尘埃，经常用于魔法和妖术。”^w^n(用于戒指和项链)
+tagCompA009Desc=“从 死 尸 身 上 提 炼 来 的 尘 埃 ， 经 常 用 于 释 放 魔 法 和 妖 术 。 ”^w^n( 用 于 戒 指 和 项 链 )
 
 tagCompA010Name=灵魂碎片
-tagCompA010Desc=“传闻说这是一种猎魔人用来困住邪魔的魔法宝石。”^w^n(用于项链和勋章)
+tagCompA010Desc=“传 闻 说 这 是 一 种 猎 魔 人 用 来 困 住 邪 魔 的 魔 法 宝 石 。 ”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA011Name=灵质
-tagCompA011Desc=“有时从无形之物身上留下的胶装残留物。”^w^n(用于戒指和项链)
+tagCompA011Desc=“有 时 从 无 形 之 物 身 上 留 下 的 胶 装 残 留 物 。 ”^w^n( 用 于 戒 指 和 项 链 )
 
 tagCompA012Name=赐福钢铁
-tagCompA012Desc=“受到曼海尔手下牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。”^w^n(用于所有武器，盾牌和副手)
+tagCompA012Desc=“受 到 曼 海 尔 手 下 牧 师 赐 福 的 钢 铁 ， 用 来 驱 逐 不 断 侵 袭 的 黑 暗 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA013Name=毒牙
-tagCompA013Desc=“一枚滴着毒液的尖牙。”^w^n(用于近战武器)
+tagCompA013Desc=“一 枚 滴 着 毒 液 的 尖 牙 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA014Name=纯净之盐
-tagCompA014Desc=“被提炼用来驱除和威慑异世界恶魔的石盐。”^w^n(用于所有武器，盾牌和副手)
+tagCompA014Desc=“被 提 炼 用 来 驱 除 和 威 慑 异 世 界 恶 魔 的 石 盐 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA015Name=中空之牙
-tagCompA015Desc=“一枚弯曲的牙齿，用来汲取生命力。”^w^n(用于所有武器，盾牌和副手)
+tagCompA015Desc=“一 枚 弯 曲 的 牙 齿 ， 用 来 汲 取 生 命 力 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA016Name=断裂之爪
-tagCompA016Desc=“从一种猛兽的肢体上扯下来的利爪。”^w^n(用于所有武器，盾牌和副手)
+tagCompA016Desc=“从 一 种 猛 兽 的 肢 体 上 扯 下 来 的 利 爪 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA017Name=灌魔银粉
-tagCompA017Desc=“被灌注了强大魔力的银粉。”^w^n(用于所有武器，盾牌和副手)
+tagCompA017Desc=“被 灌 注 了 强 大 魔 力 的 银 粉 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA018Name=恶毒尖刺
-tagCompA018Desc=“从一只非自然生物身上得来的尖刺。”^w^n(用于所有武器，盾牌和副手)
+tagCompA018Desc=“从 一 只 非 自 然 生 物 身 上 得 来 的 尖 刺 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA019Name=辐光宝石
-tagCompA019Desc=“一块发光的宝石，随着不同的元素而闪烁着。”^w^n(用于盾牌和副手)
+tagCompA019Desc=“一 块 发 光 的 宝 石 ， 随 着 不 同 的 元 素 而 闪 烁 着 。 ”^w^n( 用 于 盾 牌 和 副 手 )
 
 tagCompA020Name=妖邪克星弹药
-tagCompA020Desc=“神力加持的子弹，给敢于渎神者以极大的痛苦。”^w^n(用于枪械和十字弓)
+tagCompA020Desc=“神 力 加 持 的 子 弹 ， 给 敢 于 渎 神 者 以 极 大 的 痛 苦 。 ”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA021Name=死寒箭矢
-tagCompA021Desc=“给敌人带去死亡般的寒冷。”^w^n(用于枪械和十字弓)
+tagCompA021Desc=“给 敌 人 带 去 死 亡 般 的 寒 冷 。 ”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA022Name=虚化之魂
-tagCompA022Desc=“一块含有能量，震颤着的石头。在物质位面被杀死虚灵经常会留下这种石头。”^w^n(用于项链和勋章)
+tagCompA022Desc=“一 块 含 有 能 量 ， 震 颤 着 的 石 头 。 在 物 质 位 面 被 杀 死 虚 灵 经 常 会 留 下 这 种 石 头 。 ”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA023Name=坚硬外壳
-tagCompA023Desc=“一块坚硬的外壳，似乎对冲击免疫。”^w^n(用于所有护甲)
+tagCompA023Desc=“一 块 坚 硬 的 外 壳 ， 似 乎 对 冲 击 免 疫 。 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA024Name=熔岩皮肤
-tagCompA024Desc=“一块厚厚的皮层，来自于一种浑身冒火的生物。”^w^n(用于所有护甲)
+tagCompA024Desc=“一 块 厚 厚 的 皮 层 ， 来 自 于 一 种 浑 身 冒 火 的 生 物 。 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA025Name=魔法火石
-tagCompA025Desc=“通过和武器摩擦，这种被施了魔法的火石能够将火之精魂附在武器身上。”^w^n(用于近战武器)
+tagCompA025Desc=“通 过 和 武 器 摩 擦 ， 这 种 被 施 了 魔 法 的 火 石 能 够 将 火 之 精 魂 附 在 武 器 身 上 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA026Name=寒石
-tagCompA026Desc=“民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。”^w^n(用于近战武器)
+tagCompA026Desc=“民 间 传 说 中 ， 这 种 既 神 秘 又 散 发 着 寒 冷 的 石 头 是 游 魂 的 心 脏 。 ” ^w^n( 用 于 近 战 武 器 )
 
 tagCompA027Name=琥珀
-tagCompA027Desc=“据说有时候，当树木遭到雷击，风暴之灵会被困在树木结晶的汁液之中。”^w^n(用于近战武器)
+tagCompA027Desc=“据 说 有 时 候 ， 当 树 木 遭 到 雷 击 ， 风 暴 之 灵 会 被 困 在 树 木 结 晶 的 汁 液 之 中 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA028Name=强酸结石
-tagCompA028Desc=“邪恶野兽的胆囊中生成的酸性结石。”^w^n(用于近战武器)
+tagCompA028Desc=“邪 恶 野 兽 的 胆 囊 中 生 成 的 酸 性 结 石 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA029Name=赐福磨石
-tagCompA029Desc=“打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。”^w^n(用于斧和剑)
+tagCompA029Desc=“能 够 打 磨 哪 怕 是 最 为 锋 利 的 刀 刃 ， 提 高 穿 透 敌 人 护 甲 的 穿 刺 伤 害 。 ”^w^n( 用 于 斧 和 剑 )
 
 tagCompA030Name=丝绸
-tagCompA030Desc=“西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。”^w^n(用于护肩，胸甲和护腿)
+tagCompA030Desc=“西 方 的 游 牧 民 族 很 早 就 知 道 多 层 的 丝 绸 能 够 抵 御 破 甲 的 投 射 物 。 ”^w^n( 用 于 护 肩 ， 胸 甲 和 护 腿 )
 
 tagCompA031Name=鳞状兽皮
-tagCompA031Desc=“这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。”^w^n(用于护肩，胸甲和护腿)
+tagCompA031Desc=“这 种 致 密 却 轻 便 的 鳞 片 能 被 附 加 在 盔 甲 上 以 提 供 额 外 的 防 护 。 ”^w^n( 用 于 护 肩 ， 胸 甲 和 护 腿 )
 
 tagCompA032Name=燧石弹药
-tagCompA032Desc=“被施了魔法的燧石，表面迸发着火焰。”^w^n(用于枪械和十字弓)
+tagCompA032Desc=“被 施 了 魔 法 的 燧 石 ， 表 面 迸 发 着 火 焰 。 ”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA033Name=浸毒弹药
-tagCompA033Desc=“子弹的尖端涂抹着来自于一种动物毒囊的毒液。”^w^n(用于枪械和十字弓)
+tagCompA033Desc=“子 弹 的 尖 端 涂 抹 着 来 自 于 一 种 动 物 毒 囊 的 毒 液 。 ”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA034Name=旅者标记
-tagCompA034Desc=“旅行者在穿越荒野的时候使用这种标记，这样就不会被兽神莫格卓根错认成猎人。”^w^n(用于足具)
+tagCompA034Desc=“旅 行 者 在 穿 越 荒 野 的 时 候 使 用 这 种 标 记 ， 这 样 就 不 会 被 兽 神 莫 格 卓 根 错 认 成 猎 人 。 ”^w^n( 用 于 足 具 )
 
 tagCompA035Name=神圣裹布
-tagCompA035Desc=“冥灵邪教徒所使用的血迹斑斑的裹布。”^w^n(用于手套)
+tagCompA035Desc=“冥 灵 邪 教 徒 所 使 用 的 血 迹 斑 斑 的 裹 布 。 ”^w^n( 用 于 手 套 )
 
 tagCompA036Name=躁动遗骸
-tagCompA036Desc=“生前遭受折磨，死后不愿安息。”^w^n(用于手套)
+tagCompA036Desc=“生 前 倍 受 折 磨 ， 死 后 不 愿 安 息 。 ”^w^n( 用 于 手 套 )
 
 tagCompA037Name=茂密毛皮
-tagCompA037Desc=“一块厚实的毛皮，用来应对冬季的严寒再合适不过了。”^w^n(用于所有护甲)
+tagCompA037Desc=“一 块 厚 实 的 毛 皮 ， 用 来 应 对 冬 季 的 严 寒 再 合 适 不 过 了 。 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA038Name=锯齿尖刺
-tagCompA038Desc=“一种野兽身上的尖刺，脆弱却异常的锋利。”^w^n(用于所有武器，盾牌和副手)
+tagCompA038Desc=“一 种 野 兽 身 上 的 尖 刺 ， 脆 弱 却 异 常 的 锋 利 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA039Name=灼热余烬
-tagCompA039Desc=“不灭的余烬，来自于烧毁殆尽的家园。”^w^n(用于所有武器，盾牌和副手)
+tagCompA039Desc=“不 灭 的 余 烬 ， 来 自 于 被 烧 毁 殆 尽 的 家 园 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA040Name=淬火钢铁
-tagCompA040Desc=“这块钢铁被灌注了寒冬之风。”^w^n(用于所有武器，盾牌和副手)
+tagCompA040Desc=“这 块 钢 铁 被 灌 注 了 寒 冬 之 风 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA041Name=破裂磁石
-tagCompA041Desc=“表面闪烁着能量的火花。”^w^n(用于所有武器，盾牌和副手)
+tagCompA041Desc=“表 面 闪 烁 着 能 量 的 火 花 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA042Name=破碎之爪
-tagCompA042Desc=“一种残忍的掠食者身上的爪子。这次，它终于遇上了旗鼓相当的对手。”"^w^n(用于所有武器，盾牌和副手)
+tagCompA042Desc=“一 种 残 忍 的 掠 食 者 身 上 的 爪 子 。 当 然 这 次 ， 它 终 于 遇 上 了 旗 鼓 相 当 的 对 手 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompA043Name=回收铠甲片
-tagCompA043Desc=“从废旧的铠甲上取下来的盔甲片。”^w^n(用于所有护甲)
+tagCompA043Desc=“从 废 旧 的 铠 甲 上 取 下 来 的 盔 甲 片 。 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA044Name=粗硬毛皮
-tagCompA044Desc=“一片来自一种非自然魔兽的厚厚的毛皮”^w^n(用于所有护甲)
+tagCompA044Desc=“一 片 来 自 一 种 非 自 然 魔 兽 的 厚 厚 的 毛 皮 ”^w^n( 用 于 所 有 护 甲 )
 
 tagCompA045Name=弹性铠甲片
-tagCompA045Desc=“从一件经历了无数战斗的盔甲上面取下的甲片，看起来让它退役还早得很。”^w^n(用于盾牌，副手，胸甲和护甲)
+tagCompA045Desc=“从 一 件 经 历 了 无 数 战 斗 的 盔 甲 上 面 取 下 的 甲 片 ， 看 起 来 让 它 退 役 还 早 得 很 。 ”^w^n( 用 于 盾 牌 ， 副 手 ， 胸 甲 和 护 甲 )
 
 tagCompA046Name=抛光翡翠
-tagCompA046Desc=“纯净的宝石，抛光后已臻完美。”^w^n(用于盾牌，副手，戒指，头盔和胸甲)
+tagCompA046Desc=“纯 净 的 宝 石 ， 抛 光 后 已 臻 完 美 。 ”^w^n( 用 于 盾 牌 ， 副 手 ， 戒 指 ， 头 盔 和 胸 甲 )
 
 tagCompA047Name=冰封之心
-tagCompA047Desc=“永远地被包裹在黑冰之中。”^w^n(用于戒指)
+tagCompA047Desc=“永 远 地 被 包 裹 在 黑 冰 之 中 。 ”^w^n( 用 于 戒 指 )
 
 tagCompA048Name=翻腾鲜血
-tagCompA048Desc=“沸腾着曾经激发它的怒火。”^w^n(用于戒指和项链)
+tagCompA048Desc=“沸 腾 着 曾 经 激 发 它 的 怒 火 。”^w^n( 用 于 戒 指 和 项 链 )
 
 tagCompA049Name=守护石
-tagCompA049Desc=“一块蚀刻有古老的守护符号的石头。”^w^n(用于项链)
+tagCompA049Desc=“一 块 蚀 刻 有 古 老 的 守 护 符 号 的 石 头 。 ”^w^n( 用 于 项 链 )
 
 tagCompA050Name=聚焦棱镜
-tagCompA050Desc=“秘术师在特殊的紧要仪式中使用它来引导能量。”^w^n(用于项链)
+tagCompA050Desc=“秘 术 师 在 特 殊 的 紧 要 仪 式 中 使 用 它 来 引 导 能 量 。 ”^w^n( 用 于 项 链 )
 
 tagCompA051Name=黑色油脂
-tagCompA051Desc=“冥灵仪式中蜡烛燃烧的油脂。”^w^n(用于项链和勋章)
+tagCompA051Desc=“冥 灵 仪 式 中 蜡 烛 燃 烧 的 油 脂 。 ”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA052Name=复仇之魂
-tagCompA052Desc=“复仇的灵魂。”^w^n(用于项链和勋章)
+tagCompA052Desc=“复 仇 的 灵 魂 。 ”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA053Name=幻象印记
-tagCompA053Desc=“一种象征着力量的符号，许多铭文中都会使用它。”^w^n(用于戒指和项链)
+tagCompA053Desc=“一 种 象 征 着 力 量 的 符 号 ， 许 多 铭 文 中 都 会 使 用 它 。 ”^w^n( 用 于 戒 指 和 项 链 )
 
 tagCompA054Name=恶毒颚骨
-tagCompA054Desc=“这种野兽的下颌长着整齐的颚骨，如同刺一般。”^w^n(用于项链和勋章)
+tagCompA054Desc=“这 种 野 兽 的 下 颌 长 着 整 齐 的 颚 骨 ， 如 同 刺 一 般 。”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA055Name=愤怒之石
-tagCompA055Desc=“震 动 不 止 ， 不 近 活 物 。”^w^n(用 于 近 战 武 器)
+tagCompA055Desc=“震 动 不 止 ， 不 近 活 物 。”^w^n( 用 于 近 战 武 器 )
 
 tagCompA056Name=裂缝之石
-tagCompA056Desc=“充 满 了 虚 空 中 的 原 始 能 量 。”^w^n(用 于 近 战 武 器)
+tagCompA056Desc=“充 满 了 虚 空 中 的 原 始 能 量 。”^w^n( 用 于 近 战 武 器 )
 
 tagCompA057Name=虚化钢铁弹药
-tagCompA057Desc=“用 虚 化 的 怪 物 身 上 的 精 华 增 强 过 的 子 弹 。”^w^n(用 于 枪 械 和 十 字 弓)
+tagCompA057Desc=“用 虚 化 的 怪 物 身 上 的 精 华 增 强 过 的 子 弹 。”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA058Name=虚空之触弹药
-tagCompA058Desc=“浸 染 了 冥 灵 的 鲜 血。”^w^n(用 于 枪 械 和 十 字 弓)
+tagCompA058Desc=“浸 染 了 冥 灵 的 鲜 血。”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompA059Name=虚化钢铁合金
-tagCompA059Desc=“异 常 地 轻 便 又 经 久 耐 用 的 金 属 。”^w^n(用 于 盾 牌)
+tagCompA059Desc=“异 常 地 轻 便 又 经 久 耐 用 的 金 属 。”^w^n( 用 于 盾 牌 )
 
 tagCompA060Name=磨损外壳
-tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， 这 枚 外 壳 依 然 坚 硬 如 初 。”^w^n(用 于 盾 牌)
+tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， 这 枚 外 壳 依 然 坚 硬 如 初 。”^w^n( 用 于 盾 牌 )
 
 tagCompA061Name=恶性毒物
-tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n(用 于 所 有 护 甲)
+tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n( 用 于 所 有 护 甲 )
 
 
 tagCompB001Name=^k俾斯麦尔之缚
-tagCompB001Desc=“俾斯麦尔的巫师团运用魔法编织的缚魂之物，用来加强对召唤生物的控制。”^w^n(用 于 胸 甲)
+tagCompB001Desc=“俾 斯 麦 尔 的 巫 女 组 织 运 用 魔 法 编 织 出 的 缚 魂 之 物 ， 用 来 加 强 对 召 唤 生 物 的 控 制 。”^w^n( 用 于 胸 甲 )
 
 tagCompB002Name=^k奥莱隆之链
-tagCompB002Desc=“挣 断 的 锁 链 ， 曾 束 缚 着 神 祇 奥 莱 隆 的 愤 怒 。”^w^n(用 于 胸 甲)
+tagCompB002Desc=“挣 断 的 锁 链 ， 曾 束 缚 着 神 祇 奥 莱 隆 的 愤 怒 。”^w^n( 用 于 胸 甲 )
 
 tagCompB003Name=^k神圣之土
-tagCompB003Desc=“象 征 着 大 地 之 神 曼 海 尔 的 巨 石 底 部 的 泥 土 。”^w^n(用 于 胸 甲)
+tagCompB003Desc=“象 征 着 大 地 之 神 曼 海 尔 的 巨 石 底 部 的 泥 土 。”^w^n( 用 于 胸 甲 )
 
 tagCompB004Name=^k棱光钻石
-tagCompB004Desc=“钻 石 的 核 心 闪 耀 着 无 尽 的 能 量 。”^w^n(用于头盔)
+tagCompB004Desc=“钻 石 的 核 心 闪 耀 着 无 尽 的 能 量 。”^w^n( 用 于 头 盔 )
 
 tagCompB005Name=^k魔力织物
-tagCompB005Desc=“从 覆 盖 着 强 大 魔 法 的 尸 衣 上 切 下 来 的 一 段 织 物 。”^w^n(用 于 手 套)
+tagCompB005Desc=“从 覆 盖 着 强 大 魔 法 的 尸 衣 上 切 下 来 的 一 段 织 物 。”^w^n( 用 于 手 套 )
 
 tagCompB006Name=^k邪恶铭文
-tagCompB006Desc=“用一种远古语言书写的词句，蕴含着强大的力量。凡人无法习得这种语言。”^w^n(用于手套)
+tagCompB006Desc=“用 一 种 古 代 语 言 书 写 的 词 句 ， 蕴 含 着 强 大 的 力 量 。 凡 人 无 法 习 得 这 种 语 言 。”^w^n( 用 于 手 套 )
 
 tagCompB007Name=^k远古盔甲片
-tagCompB007Desc=“来 自 于 一 套 曾 经 坚 固 无 比 的 铠 甲 。”^w^n(用 于 胸 甲 和 护 腿)
+tagCompB007Desc=“来 自 于 一 套 曾 经 坚 固 无 比 的 铠 甲 。”^w^n( 用 于 胸 甲 和 护 腿 )
 
 tagCompB008Name=^k奥术透镜
-tagCompB008Desc=“揭 示 宇 宙 中 奥 术 洪 流 的 轨 迹 。”^w^n(用 于 项 链)
+tagCompB008Desc=“揭 示 宇 宙 中 奥 术 洪 流 的 轨 迹 。”^w^n( 用 于 项 链 )
 
 tagCompB009Name=^k魔鬼之触弹药
-tagCompB009Desc=“灌 注 以 天 谴 之 火。”^w^n(用于枪械和十字弓)
+tagCompB009Desc=“灌 注 以 天 谴 之 火。”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompB010Name=^k银核弹药
-tagCompB010Desc=“涤荡邪恶，毫发无损。”^w^n(用于枪械和十字弓)
+tagCompB010Desc=“涤 荡 邪 恶 ， 毫 发 无 损 。”^w^n( 用 于 枪 械 和 十 字 弓 )
 
 tagCompB011Name=^k索拉尔的符号
-tagCompB011Desc=“索 拉 尔 的 信 徒 使 用 的 绝 密 的 符 号 ， 用 来 识 别 是  否 是 自 己 人  。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
+tagCompB011Desc=“索 拉 尔 的 信 徒 使 用 的 绝 密 的 符 号 ， 用 来 识 别 是  否 是 自 己 人  。”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompB012Name=^k德里格的印记
-tagCompB012Desc=“铭 文 刻 画 了 一 只 无 睑 的 眼 睛 ， 滴 落 着 血 之 泪 。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
+tagCompB012Desc=“铭 文 刻 画 了 一 只 无 睑 的 眼 睛 ， 滴 落 着 血 之 泪 。”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompB013Name=^k魂铁
-tagCompB013Desc=“禁 锢 其 中 的 魂 灵 让 你 满 脑 子 都 是 疯 狂 的 私 语 。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
+tagCompB013Desc=“禁 锢 其 中 的 魂 灵 让 你 满 脑 子 都 是 疯 狂 的 私 语 。”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc=“虽然只是传奇般的神剑贝若纳斯的一片碎片，但仍残留着强大的力量。”^w^n(用于斧和剑)
+tagCompB014Desc=“虽 然 只 是 传 说 中 的 神 剑 贝 若 纳 斯 的 一 片 碎 片 ， 但 仍 残 留 着 强 大 的 力 量 。”^w^n( 用 于 斧 和 剑 )
 
 tagCompB015Name=^k血腥磨石
-tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
+tagCompB015Desc=“浸 透 在 堕 落 之 血 中 ， 这 块 被 诅 咒 的 磨 刀 石 将 引 发 兵 刃 对 鲜 血 无 比 的 饥 渴  。”^w^n( 用 于 斧 和 剑 )
 
 tagCompB016Name=^k共鸣磁石
-tagCompB016Desc="These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
+tagCompB016Desc=“生 成 于 风 暴 雷 电 之 中 ， 这 些 稀 有 且 威 力 强 大 的 石 头 上 仍 然 回 响 着 孕 育 它 们 的 雷 电 之 力 。”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompB017Name=^k莫格卓根的印记
-tagCompB017Desc="A secret mark worn by druidic worshipers of Mogdrogen, the beast god."^w^n(Used in boots)
+tagCompB017Desc=“兽 神 莫 格 卓 根 麾 下 德 鲁 伊 教 徒 佩 戴 的 隐 秘 徽 记 。”^w^n( 用 于 足 具 )
 
 tagCompB018Name=^k恐惧头骨
-tagCompB018Desc="An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
+tagCompB018Desc=“一 位 刺 客 完 成 了 一 项 极 为 危 险 的 赏 金 任 务 之 后 授 予 给 他 的 徽 记 。”^w^n( 用 于 项 链 )
 
 tagCompB019Name=^k奥术之耀
-tagCompB019Desc="A spark of the purest arcane energy."^w^n(Used in amulets)
+tagCompB019Desc=“闪 耀 着 最 纯 粹 的 奥 术 能 量 。”^w^n( 用 于 项 链 )
 
 tagCompB020Name=^k侍从印记
-tagCompB020Desc=“蕴 含 着 强 大 力 量 的 徽 记 ， 授 予 给 战 场 上 最 勇 猛 无 畏 的 部 将 。”^w^n(用于盾牌)
+tagCompB020Desc=“蕴 含 着 强 大 力 量 的 徽 记 ， 授 予 给 战 场 上 最 勇 猛 无 畏 的 部 将 。”^w^n( 用 于 盾 牌 )
 
 tagCompB021Name=^k奥莱隆之血
-tagCompB021Desc=“战 神 的 圣 血 。”^w^n(用于所有武器)
+tagCompB021Desc=“战 神 的 圣 血 。”^w^n( 用 于 所 有 武 器 )
 
 tagCompB022Name=^k基尔利安的碎裂之魂
-tagCompB022Desc=“基 尔 利 安 腐 化 的 灵 魂 ， 安 克 维 亚 地 下 城 的 恐 惧 之 源 。”^w^n(用 于 胸 甲)
+tagCompB022Desc=“基 尔 利 安 腐 化 的 灵 魂 ， 安 克 维 亚 地 下 城 的 恐 惧 之 源 。”^w^n( 用 于 胸 甲 )
 
 
 tagCompAetherCrystal=虚化水晶
-tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
+tagCompAetherCrystalDesc=“水 晶 般 的 碎 片 ， 虚 灵 的 能 量 依 然 驻 留 其 中 。 可 以 用 来 打 造 魔 法 物 品 。”
 
-tagCompAmmoBox=弹药箱
-tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
+tagCompAmmoBox=弹药匣
+tagCompAmmoBoxDesc=“反 抗 组 织 总 会 有 更 多 的 枪 弹 来 击 退 侵 袭 凯 恩 世 界 的 黑 暗 势 力 。”
 
 tagCompAScrap=废铁
-tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures."
+tagCompAScrapDesc=“可 以 用 来 作 固 定 ， 连 接 之 用 的 废 旧 的 材 料 ， 诸 如 子 弹 ， 皮 绳 和 劣 质 的 金  属 。”
 
 
 #Misc 杂项

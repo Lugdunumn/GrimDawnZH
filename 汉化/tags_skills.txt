@@ -1284,39 +1284,39 @@ tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shi
 #ConsumableSkills
 
 tagConsumableSkill_RoyalJellyBalmName=蜂王浆药膏
-tagConsumableSkill_RoyalJellyBalmDesc=让你充满舒缓温暖的感觉。
+tagConsumableSkill_RoyalJellyBalmDesc=让 你 充 满 舒 缓 温 暖 的 感 觉 。
 tagConsumableSkill_A01=火焰吞饮药膏
-tagConsumableSkill_A01Desc=加强肉体对火焰热力的抗性。
+tagConsumableSkill_A01Desc=加 强 肉 体 对 火 焰 热 力 的 抗 性 。
 tagConsumableSkill_A02=寒霜护体药膏
-tagConsumableSkill_A02Desc=加强肉体对寒冬之罚的抗性。
+tagConsumableSkill_A02Desc=加 强 肉 体 对 寒 冬 之 罚 的 抗 性 。
 tagConsumableSkill_A03=风暴之拥药膏
-tagConsumableSkill_A03Desc=加强肉体对闪电之怒的抗性。
+tagConsumableSkill_A03Desc=加 强 肉 体 对 闪 电 之 怒 的 抗 性 。
 tagConsumableSkill_A04=抗毒药膏
-tagConsumableSkill_A04Desc=加强肉体对恶性毒素的抗性。
+tagConsumableSkill_A04Desc=加 强 肉 体 对 恶 性 毒 素 的 抗 性 。 
 tagConsumableSkill_A05=血系药膏
-tagConsumableSkill_A05Desc=加强肉体对虚空恶魔的抗性。
+tagConsumableSkill_A05Desc=加 强 肉 体 对 虚 空 恶 魔 的 抗 性 。
 tagConsumableSkill_A06=灵魂之祸药膏
-tagConsumableSkill_A06Desc=加强肉体对虚化污染的抗性。
+tagConsumableSkill_A06Desc=加 强 肉 体 对 虚 化 污 染 的 抗 性 。
 tagConsumableSkill_A07=死亡之语药膏
-tagConsumableSkill_A07Desc=加强肉体对死亡魔法的抗性。
+tagConsumableSkill_A07Desc=加 强 肉 体 对 死 亡 魔 法 的 抗 性 。
 tagConsumableSkill_A08=白霜药膏
-tagConsumableSkill_A08Desc=让你的肉体充满令人安心的温暖的感觉。
+tagConsumableSkill_A08Desc=让 你 的 肉 体 充 满 令 人 安 心 的 温 暖 的 感 觉 。
 tagConsumableSkill_A09=噬命之油
-tagConsumableSkill_A09Desc=为你的武器附上噬命邪物。
+tagConsumableSkill_A09Desc=为 你 的 武 器 附 上 噬 命 邪 物 。
 tagConsumableSkill_A10=毒牙之油
-tagConsumableSkill_A10Desc=为你的武器附上毒素。
+tagConsumableSkill_A10Desc=为 你 的 武 器 附 上 毒 素 。
 tagConsumableSkill_A11=血牙之油
-tagConsumableSkill_A11Desc=为你的武器附上血牙毒素。
+tagConsumableSkill_A11Desc=为 你 的 武 器 附 上 血 牙 毒 素 。
 tagConsumableSkill_A12=奥秘之油
-tagConsumableSkill_A12Desc=为你的武器附上秘术精华。
+tagConsumableSkill_A12Desc=为 你 的 武 器 附 上 秘 术 精 华 。
 tagConsumableSkill_A13=先祖药剂
-tagConsumableSkill_A13Desc=让你充满先祖的力量。
+tagConsumableSkill_A13Desc=让 你 充 满 先 祖 的 力 量 。
 tagConsumableSkill_A14=虚空药剂
-tagConsumableSkill_A14Desc=让你充满虚空的野性力量
+tagConsumableSkill_A14Desc=让 你 充 满 虚 空 的 野 性 力 量
 tagConsumableSkill_A15=虚灵药剂
-tagConsumableSkill_A15Desc=让你充满虚灵的原始力量。
+tagConsumableSkill_A15Desc=让 你 充 满 虚 灵 的 原 始 力 量 。
 tagConsumableSkill_A16=追猎药剂
-tagConsumableSkill_A16Desc=让你充满无限的能量。
+tagConsumableSkill_A16Desc=让 你 充 满 无 限 的 能 量 。
 
 #SkillsGeneral
 

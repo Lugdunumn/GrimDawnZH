@@ -1456,46 +1456,46 @@ tagConsumableBlueprintA12=配方：奥秘之油
 tagConsumableBlueprintA13=配方：先祖药剂
 tagConsumableBlueprintA13Desc=“一 项 涉 足 禁 术 的 失 传 技 艺 。”
 tagConsumableBlueprintA14=配方：虚灵药剂
-tagConsumableBlueprintA14Desc=“”"A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
+tagConsumableBlueprintA14Desc=“吉 尔 达 姆 米 雪 社 提 炼 的 药 剂 ， 用 来 撇 除 心 中 一 切 杂 念 。”
 tagConsumableBlueprintA15=配方：虚空药剂
-tagConsumableBlueprintA15Desc="A concoction often used by the Cult of Ch'thon to bring them closer to their god."
+tagConsumableBlueprintA15Desc=“一 种 冥 神 的 信 徒 们 常 常 使 用 的 药 剂 ， 使 用 后 能 更 接 近 他 们 的 神 祇 。”
 tagConsumableBlueprintA16=配方：追猎药剂
 tagConsumableBlueprintA16Desc=“猎 人 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
 
-tagConsumable_RoyalJellyBalm=Royal Jelly Balm
-tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
-tagConsumableA01=Flamedrinker Ointment
-tagConsumableA01Desc="A foul-smelling concoction which refuses to catch fire."
-tagConsumableA02=Frostshroud Ointment
-tagConsumableA02Desc="A dense concoction that's strangely warm to the touch."
-tagConsumableA03=Stormshroud Ointment
-tagConsumableA03Desc="A slimy concoction that deflects electrical energy."
-tagConsumableA04=Venomguard Ointment
-tagConsumableA04Desc="A sweet-smelling concoction that neutralizes most toxins."
-tagConsumableA05=Bloodbound Ointment
-tagConsumableA05Desc="A thick concoction that constantly shifts between black and a deep bloody red."
-tagConsumableA06=Spiritbane Ointment
-tagConsumableA06Desc="A glowing concoction that gives off a strange warmth."
-tagConsumableA07=Deathwhisper Ointment
-tagConsumableA07Desc="A nauseating concoction that bubbles and shifts even after application."
-tagConsumableA08=Hoarfrost Ointment
-tagConsumableA08Desc="An oily concoction so warm it's nearly scalding to the touch."
-tagConsumableA09=Lifestealer Oil
-tagConsumableA09Desc="A repulsive toxin used to draw the life out of the intended target."
-tagConsumableA10=Venomfang Oil
-tagConsumableA10Desc="A vile toxin mixed from various poisonous creatures, with a touch of slith venom."
-tagConsumableA11=Bloodfang Oil
-tagConsumableA11Desc="A foul toxin which induces heavy bleeding in the target."
-tagConsumableA12=Arcanum Oil
-tagConsumableA12Desc="A mixture employed by the Gildam Arcanum to enhance the focal properties of weapons."
-tagConsumableA13=Elixir of the Ancients
-tagConsumableA13Desc="A powerful elixir derived from the ancient beasts of Cairn."
-tagConsumableA14=Elixir of the Aether
-tagConsumableA14Desc="A powerful elixir derived from the essence of the Aether."
-tagConsumableA15=Elixir of the Void
-tagConsumableA15Desc="A powerful elixir derived by foul blood magic."
-tagConsumableA16=Elixir of the Hunt
-tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to better track their prey."
+tagConsumable_RoyalJellyBalm=蜂王浆药膏
+tagConsumable_RoyalJellyBalmDesc=“沁 人 心 脾 的 药 膏 ， 以 浓 缩 的 蜂 王 浆 制 成 。”
+tagConsumableA01=火焰吞饮药膏
+tagConsumableA01Desc=“难 闻 的 混 合 物 ， 能 防 止 燃 烧 。”
+tagConsumableA02=寒霜护体药膏
+tagConsumableA02Desc=“致 密 的 混 合 物 ， 拥 有 一 种 奇 特 的 温 润 触 感 。”
+tagConsumableA03=风暴之拥药膏
+tagConsumableA03Desc=“粘 稠 的 混 合 物 ， 能 够 偏 转 闪 电 之 力 。”
+tagConsumableA04=抗毒药膏
+tagConsumableA04Desc=“闻 起 来 甜 甜 的 混 合 药 剂 ， 能 中 和 掉 绝 大 部 分 的 毒 素 。”
+tagConsumableA05=血系药膏
+tagConsumableA05Desc=“粘 稠 的 混 合 物 ， 时 不 时 地 在 黑 色 与 深 血 红 色 之 间 变 换 着 。”
+tagConsumableA06=灵魂之祸药膏
+tagConsumableA06Desc=“一 种 发 光 的 混 合 物 ， 散 发 着 奇 特 的 暖 意 。”
+tagConsumableA07=死亡之语药膏
+tagConsumableA07Desc=“一 种 令 人 感 到 烦 恶 的 混 合 物 ， 翻 转 沸 腾 着 ， 甚 至 涂 在 身 上 以 后 依 然 如  此 。”
+tagConsumableA08=白霜药膏
+tagConsumableA08Desc=“一 种 油 状 的 混 合 物 ， 如 此 的 温 暖 以 至 于 摸 上 去 有 些 烫 手 。”
+tagConsumableA09=噬命之油
+tagConsumableA09Desc=“一 种 令 人 产 生 烦 恶 之 感 的 毒 剂 ， 旨 在 吸 取 目 标 的 生 命 力 。”
+tagConsumableA10=毒牙之油
+tagConsumableA10Desc=“混 合 了 几 种 有 毒 生 物 的 毒 液 ， 再 加 上 少 许 的 蛇 人 毒 液 。”
+tagConsumableA11=血牙之油
+tagConsumableA11Desc=“一 种 邪 恶 的 毒 剂 ， 能 引 起 目 标 大 量 的 出 血 。”
+tagConsumableA12=奥秘之油
+tagConsumableA12Desc=“吉 尔 达 姆 秘 学 社 使 用 的 混 合 药 剂 ， 旨 在 增 强 武 器 的 威 力 。”
+tagConsumableA13=先祖药剂
+tagConsumableA13Desc=“强 效 的 药 剂 ， 蕴 含 着 凯 恩 世 界 的 上 古 魔 兽 的 力 量 。”
+tagConsumableA14=虚灵药剂
+tagConsumableA14Desc=“强 效 的 药 剂 ， 蕴 含 着 虚 化 之 力 。”
+tagConsumableA15=虚空药剂
+tagConsumableA15Desc=“强 效 的 药 剂 ， 蕴 含 着 邪 恶 的 血 魔 法 。”
+tagConsumableA16=追猎药剂
+tagConsumableA16Desc=“猎 人 和 刺 客 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
 
 
 #ItemNote 阅读记录
@@ -1684,98 +1684,98 @@ tagCompA054Name=恶毒颚骨
 tagCompA054Desc=“这种野兽的下颌长着整齐的颚骨，如同刺一般。”^w^n(用于项链和勋章)
 
 tagCompA055Name=愤怒之石
-tagCompA055Desc="It vibrates at the slightest contact with living flesh."^w^n(用于近战武器)
+tagCompA055Desc=“震 动 不 止 ， 不 近 活 物 。”^w^n(用 于 近 战 武 器)
 
 tagCompA056Name=裂缝之石
-tagCompA056Desc=“充满了虚空中的原始能量。”^w^n(用于近战武器)
+tagCompA056Desc=“充 满 了 虚 空 中 的 原 始 能 量 。”^w^n(用 于 近 战 武 器)
 
-tagCompA057Name=Aethersteel Bolts
-tagCompA057Desc="Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)
+tagCompA057Name=虚化钢铁弹药
+tagCompA057Desc=“用 虚 化 的 怪 物 身 上 的 精 华 增 强 过 的 子 弹 。”^w^n(用 于 枪 械 和 十 字 弓)
 
-tagCompA058Name=Void-Touched Ammo
-tagCompA058Desc="Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
+tagCompA058Name=虚空之触弹药
+tagCompA058Desc=“浸 染 了 冥 灵 的 鲜 血。”^w^n(用 于 枪 械 和 十 字 弓)
 
-tagCompA059Name=Aethersteel Alloy
-tagCompA059Desc="An exceptionally light yet durable metal."^w^n(Used in shields)
+tagCompA059Name=虚化钢铁合金
+tagCompA059Desc=“异 常 地 轻 便 又 经 久 耐 用 的 金 属 。”^w^n(用 于 盾 牌)
 
-tagCompA060Name=Battered Shell
-tagCompA060Desc="A shell that has survived seemingly impossible blows."^w^n(Used in shields)
+tagCompA060Name=磨损外壳
+tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， 这 枚 外 壳 依 然 坚 硬 如 初 。”^w^n(用 于 盾 牌)
 
-tagCompA061Name=Viscous Venom
-tagCompA061Desc="Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
+tagCompA061Name=恶性毒物
+tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n(用 于 所 有 护 甲)
 
 
-tagCompB001Name=^kBindings of Bysmiel
-tagCompB001Desc="Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
+tagCompB001Name=^k俾斯麦尔之缚
+tagCompB001Desc=“俾斯麦尔的巫师团运用魔法编织的缚魂之物，用来加强对召唤生物的控制。”^w^n(用 于 胸 甲)
 
-tagCompB002Name=^kChains of Oleron
-tagCompB002Desc="The broken chains once used to contain the fury of the deity Oleron."^w^n(Used in chest armor)
+tagCompB002Name=^k奥莱隆之链
+tagCompB002Desc=“挣 断 的 锁 链 ， 曾 束 缚 着 神 祇 奥 莱 隆 的 愤 怒 。”^w^n(用 于 胸 甲)
 
-tagCompB003Name=^kHallowed Ground
-tagCompB003Desc="Dirt from the base of the standing stones of Menhir."^w^n(Used in chest armor)
+tagCompB003Name=^k神圣之土
+tagCompB003Desc=“象 征 着 大 地 之 神 曼 海 尔 的 巨 石 底 部 的 泥 土 。”^w^n(用 于 胸 甲)
 
-tagCompB004Name=^kPrismatic Diamond
-tagCompB004Desc="The core shimmers with untold power."^w^n(Used in head armor)
+tagCompB004Name=^k棱光钻石
+tagCompB004Desc=“钻 石 的 核 心 闪 耀 着 无 尽 的 能 量 。”^w^n(用于头盔)
 
-tagCompB005Name=^kSpellwoven Threads
-tagCompB005Desc="Strips of fabric cut from the death shroud of a once powerful magi."^w^n(Used in hand armor)
+tagCompB005Name=^k魔力织物
+tagCompB005Desc=“从 覆 盖 着 强 大 魔 法 的 尸 衣 上 切 下 来 的 一 段 织 物 。”^w^n(用 于 手 套)
 
-tagCompB006Name=^kUnholy Inscription
-tagCompB006Desc="Words of power from an ancient language that cannot be spoken by mortal men."^w^n(Used in hand armor)
+tagCompB006Name=^k邪恶铭文
+tagCompB006Desc=“用一种远古语言书写的词句，蕴含着强大的力量。凡人无法习得这种语言。”^w^n(用于手套)
 
-tagCompB007Name=^kAncient Armor Plate
-tagCompB007Desc="Plating from a once mighty set of armor."^w^n(Used in chest and leg armor)
+tagCompB007Name=^k远古盔甲片
+tagCompB007Desc=“来 自 于 一 套 曾 经 坚 固 无 比 的 铠 甲 。”^w^n(用 于 胸 甲 和 护 腿)
 
-tagCompB008Name=^kArcane Lens
-tagCompB008Desc="A locus for the arcane flows of the universe."^w^n(Used in amulets)
+tagCompB008Name=^k奥术透镜
+tagCompB008Desc=“揭 示 宇 宙 中 奥 术 洪 流 的 轨 迹 。”^w^n(用 于 项 链)
 
-tagCompB009Name=^kDevil-Touched Ammo
-tagCompB009Desc="Infused with sacrilegious flame."^w^n(Used in guns and crossbows)
+tagCompB009Name=^k魔鬼之触弹药
+tagCompB009Desc=“灌 注 以 天 谴 之 火。”^w^n(用于枪械和十字弓)
 
-tagCompB010Name=^kSilvercore Bolts
-tagCompB010Desc="Purge evil with the faintest scratch."^w^n(Used in guns and crossbows)
+tagCompB010Name=^k银核弹药
+tagCompB010Desc=“涤荡邪恶，毫发无损。”^w^n(用于枪械和十字弓)
 
-tagCompB011Name=^kSymbol of Solael
-tagCompB011Desc="A secret symbol used by followers of Solael to identify themselves to one another."^w^n(Used in all weapons, shields and off-hands)
+tagCompB011Name=^k索拉尔的符号
+tagCompB011Desc=“索 拉 尔 的 信 徒 使 用 的 绝 密 的 符 号 ， 用 来 识 别 是  否 是 自 己 人  。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
 
-tagCompB012Name=^kMark of Dreeg
-tagCompB012Desc="An inscription of a lidless eye dripping tears of vitriolic blood."^w^n(Used in all weapons, shields and off-hands)
+tagCompB012Name=^k德里格的印记
+tagCompB012Desc=“铭 文 刻 画 了 一 只 无 睑 的 眼 睛 ， 滴 落 着 血 之 泪 。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
 
-tagCompB013Name=^kHaunted Steel
-tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
+tagCompB013Name=^k魂铁
+tagCompB013Desc=“禁 锢 其 中 的 魂 灵 让 你 满 脑 子 都 是 疯 狂 的 私 语 。”^w^n(用 于 所 有 武 器 ， 盾 牌 和 副 手)
 
-tagCompB014Name=^kShard of Beronath
-tagCompB014Desc="But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in axes and swords)
+tagCompB014Name=^k贝若纳斯的碎片
+tagCompB014Desc=“虽然只是传奇般的神剑贝若纳斯的一片碎片，但仍残留着强大的力量。”^w^n(用于斧和剑)
 
-tagCompB015Name=^kBloody Whetstone
+tagCompB015Name=^k血腥磨石
 tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
 
-tagCompB016Name=^kAttuned Lodestone
+tagCompB016Name=^k共鸣磁石
 tagCompB016Desc="These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
 
-tagCompB017Name=^kMark of Mogdrogen
+tagCompB017Name=^k莫格卓根的印记
 tagCompB017Desc="A secret mark worn by druidic worshipers of Mogdrogen, the beast god."^w^n(Used in boots)
 
-tagCompB018Name=^kDread Skull
+tagCompB018Name=^k恐惧头骨
 tagCompB018Desc="An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
 
-tagCompB019Name=^kArcane Spark
+tagCompB019Name=^k奥术之耀
 tagCompB019Desc="A spark of the purest arcane energy."^w^n(Used in amulets)
 
-tagCompB020Name=^kMark of the Myrmidon
-tagCompB020Desc="A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
+tagCompB020Name=^k侍从印记
+tagCompB020Desc=“蕴 含 着 强 大 力 量 的 徽 记 ， 授 予 给 战 场 上 最 勇 猛 无 畏 的 部 将 。”^w^n(用于盾牌)
 
-tagCompB021Name=^kOleron's Blood
-tagCompB021Desc="Sacred blood of the war god."^w^n(Used in all weapons)
+tagCompB021Name=^k奥莱隆之血
+tagCompB021Desc=“战 神 的 圣 血 。”^w^n(用于所有武器)
 
-tagCompB022Name=^kKilrian's Shattered Soul
-tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
+tagCompB022Name=^k基尔利安的碎裂之魂
+tagCompB022Desc=“基 尔 利 安 腐 化 的 灵 魂 ， 安 克 维 亚 地 下 城 的 恐 惧 之 源 。”^w^n(用 于 胸 甲)
 
 
 tagCompAetherCrystal=虚化水晶
 tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
 
-tagCompAmmoBox=Ammunition Box
+tagCompAmmoBox=弹药箱
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
 
 tagCompAScrap=废铁

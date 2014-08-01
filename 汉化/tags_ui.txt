@@ -737,12 +737,12 @@ tagCraftingBlueprint=设计图
 tagCraftingComponent=部件
 tagCraftingComponentRequired=原材料：
 tagCraftingCombine=组合
-tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备。
-tagCraftingBlueprintInfo=铁匠可以基于设计图使用各种各样废弃的材料合成更高级的物品。
+tagCraftingDisplayBoxHelp=在 工 作 台 上 放 置 一 张 设 计 图 来 开 始 合 成 装 备 。
+tagCraftingBlueprintInfo=铁 匠 可 以 基 于 设 计 图 使 用 各 种 各 样 废 弃 的 材 料 合 成 更 高 级 的 物 品 。
 tagCraftingDeviceCost=铁币费用：{%t0}
 tagCraftingCreate=合成品：
 tagCraftingLearn=[右键学习]
-tagCraftingRandom={^E}+随机属性（单个或多个）
+tagCraftingRandom={^E}+ 随 机 属 性 （ 单 个 或 多 个 ）
 
 tagCraftingItemType00= ~ 设备
 tagCraftingItemType01= ~ 完整部件

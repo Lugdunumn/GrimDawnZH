@@ -235,13 +235,13 @@ tagClass02SkillName13B=乌祖因的愤怒
 tagClass02SkillDescription13B=乌 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
 
 tagClass02SkillName10A=闪电炸弹
-tagClass02SkillDescription10A=Lobs a powerful electrically charged bomb at enemies. Effective against tough single targets.
+tagClass02SkillDescription10A=向 敌 人 抛 出 一 个 强 力 的 带 电 炸 弹 。 能 有 效 对 付 强 壮 的 单 个 敌 人 。
 tagClass02SkillName10B=超载
-tagClass02SkillDescription10B=Increases the electrical damage of Lightning Charge.
+tagClass02SkillDescription10B=提 升 闪 电 炸 弹 的 电 能 伤 害 。
 tagClass02SkillName11A=重型武器
-tagClass02SkillDescription11A=Increases the firepower of Grenado and Canister Bomb.
+tagClass02SkillDescription11A=提 升 手 榴 弹 与 碳 罐 炸 弹 的 火 力 。
 tagClass02SkillName14A=火力冲击
-tagClass02SkillDescription14A=A powerful attack that does increased damage and knocks down most small to mid-sized enemies.
+tagClass02SkillDescription14A=提 升 伤 害 并 击 倒 小 到 中 型 敌 人 的 强 力 攻 击 。
 
 
 
@@ -251,27 +251,27 @@ tagClass03SkillName00=术士
 tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
 
 tagClass03SkillName01A=召唤
-tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. ^oOnly one raven may be summoned at any one time.
+tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 展 现 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
 tagClass03SkillName01B=风暴光球
 tagClass03SkillDescription01B=普 通 攻 击 。
 tagClass03SkillName01C=血肉缝合
-tagClass03SkillDescription01C=The raven channels eldritch energies to mend the flesh of wounded allies.
+tagClass03SkillDescription01C=乌 鸦 能 引 导 神 秘 能 量 愈 合 受 伤 的 盟 友 。
 tagClass03SkillName01D=风暴之心
-tagClass03SkillDescription01D=The raven projects its eldritch spirit into selected allies, empowering them beyond their mortal means.
+tagClass03SkillDescription01D=乌 鸦 能 向 选 中 的 盟 友 注 入 它 神 秘 的 能 量 ， 授 予 他 们 超 凡 的 能 力 。
 tagClass03SkillName01E=闪电打击
-tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
+tagClass03SkillDescription01E=风 暴 乌 鸦 召 唤 强 力 的 闪 电 来 电 击 附 近 的 敌 人 。
 
 tagClass03SkillName02A=召唤地狱猎犬
-tagClass03SkillDescription02A=Calls forth a hellhound from the phantom realm to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one Hellhound can be summoned at any one time.
-tagClass03SkillName02B=Ember Claw
+tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 术 士 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
+tagClass03SkillName02B=灰烬之爪
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
-tagClass03SkillName02C=Hellfire
+tagClass03SkillName02C=地狱之火
 tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that draw too close. This power extends to nearby allies.
-tagClass03SkillName02D=Infernal Breath
+tagClass03SkillName02D=恶魔气息
 tagClass03SkillDescription02D=The hellhound belches forth furious hellfire, incinerating your enemies.
-tagClass03SkillName02E=Claw and Fang Attacks
+tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=Innate Attack.
-tagClass03SkillName02F=Blazing Death
+tagClass03SkillName02F=死亡燃烧
 tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its natural realm, incinerating nearby enemies.
 
 tagClass03SkillName03A=Bonds of Bysmiel

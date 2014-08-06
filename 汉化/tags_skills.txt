@@ -261,16 +261,16 @@ tagClass03SkillDescription01D=乌 鸦 能 向 选 中 的 盟 友 注 入 它 �
 tagClass03SkillName01E=闪电打击
 tagClass03SkillDescription01E=风 暴 乌 鸦 召 唤 强 力 的 闪 电 来 电 击 附 近 的 敌 人 。
 
-tagClass03SkillName02A=召唤地狱猎犬
+tagClass03SkillName02A=召唤地狱犬
 tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 术 士 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
 tagClass03SkillName02B=灰烬之爪
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
 tagClass03SkillName02C=地狱之火
 tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that draw too close. This power extends to nearby allies.
-tagClass03SkillName02D=恶魔气息
+tagClass03SkillName02D=炼狱吐息
 tagClass03SkillDescription02D=The hellhound belches forth furious hellfire, incinerating your enemies.
 tagClass03SkillName02E=扑咬攻击
-tagClass03SkillDescription02E=Innate Attack.
+tagClass03SkillDescription02E=普 通 攻 击
 tagClass03SkillName02F=死亡燃烧
 tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its natural realm, incinerating nearby enemies.
 

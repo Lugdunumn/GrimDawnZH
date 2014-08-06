@@ -46,7 +46,7 @@ tagEnemyBoneRatRangedA01=骨背鼠
 tagEnemyBoneRatMeleeB01=狂暴骨背鼠
 tagEnemyBoneRatMeleeB02=骨背瘟疫散布者
 
-tagEnemyBoneRatMeleeB02_Summon=海里昂的白鼠
+tagEnemyBoneRatMeleeB02_Summon=海里昂白鼠
 
 tagBoneRatHeroH01=诅咒者
 tagBoneRatHeroH02=剃刀背
@@ -291,64 +291,64 @@ tagHumanRoverA_A01=流浪者
 tagHumanRoverA_B01=流浪者 侦察兵
 tagHumanRoverA_C01=流浪者 强制者
 
-#CreatureInsectDermapteran 蠼螋
+#CreatureInsectDermapteran 革翅目
 
-tagEnemyDermapteranWarriorA01=蠼螋 掠夺者
-tagEnemyWeavilA01=革翅 象甲
+tagEnemyDermapteranWarriorA01=革翅目掠夺者
+tagEnemyWeavilA01=象鼻虫
 
 tagEnemySummonWeavilA01=感染者
 
-tagDermapteranHeroH01=噬日者 Harpallax
-tagDermapteranHeroH02=Corrosinax
-tagDermapteranHeroH03=Wasparex ~ 迅捷
-tagDermapteranHeroH04=Olmarix ~ 带电
+tagDermapteranHeroH01=噬日者 哈尔帕拉克斯
+tagDermapteranHeroH02=科罗西纳克斯
+tagDermapteranHeroH03=沃斯巴莱克斯 ~ 迅捷
+tagDermapteranHeroH04=奥马里克斯 ~ 带电
 
-#CreatureInsectMosquito
+#CreatureInsectMosquito 蚊子
 
-tagEnemyInsectMosquitoA01=泥沼滋生的食血客
-tagEnemyInsectMosquitoB01=泥沼滋生的血恶魔
-tagEnemyInsectMosquitoC01=泥沼滋生的女酋长
+tagEnemyInsectMosquitoA01=泥沼食血者
+tagEnemyInsectMosquitoB01=泥沼血恶魔
+tagEnemyInsectMosquitoC01=泥沼女王
 
-tagInsectMosquitoHeroH01=Vladox, 放血者
-tagInsectMosquitoHeroH02=Sarlap ~ 带电
-tagInsectMosquitoHeroH03=Jornax, the Voracious ~ 迅捷
+tagInsectMosquitoHeroH01=放血者 弗拉多克斯
+tagInsectMosquitoHeroH02=萨拉普 ~ 带电
+tagInsectMosquitoHeroH03=贪食的乔纳克斯 ~ 迅捷
 
-#CreatureInsectWasp
+#CreatureInsectWasp 蜂群
 
 tagEnemyInsectWaspA01=毒翼工蜂
 tagEnemyInsectWaspB01=毒翼刺蜂
-tagEnemyInsectWaspC01=毒翼蜂王
+tagEnemyInsectWaspC01=毒翼蜂后
 
-tagInsectWaspHeroH01=Scarprax, the Frenzied
-tagInsectWaspHeroH02=Caraprax ~ Defender
-tagInsectWaspHeroH03=Harprax, the Queen's Will ~ Supporter
-tagInsectWaspHeroH04=Ralkara ~ Regenerator
-tagInsectWaspHeroH05=Folcrax ~ Frozen
+tagInsectWaspHeroH01=狂乱者 斯卡普莱克斯
+tagInsectWaspHeroH02=卡拉普莱克斯 ~ 防御者
+tagInsectWaspHeroH03=蜂后之意志 哈尔普莱克斯 ~ 支援者
+tagInsectWaspHeroH04=拉尔卡拉 ~ 回复者
+tagInsectWaspHeroH05=福尔克拉克斯 ~ 冰冻
 
-tagInsectWaspBoss01=Ulraprax, the Hive Matriarch
-tagInsectWaspBoss02=Ronaprax, the Grand Queen
+tagInsectWaspBoss01=蜂巢女王 尤拉普莱克斯
+tagInsectWaspBoss02=至高女皇 罗纳普莱克斯
 
-#CreatureInsectSwarm
+#CreatureInsectSwarm 虫群
 
-tagEnemyInsectSwarmA01=吞噬蜂群
-tagEnemyInsectSwarmB01=瘟疫蜂群
+tagEnemyInsectSwarmA01=吞噬虫群
+tagEnemyInsectSwarmB01=疫病虫群
 
-tagEnemyInsectSwarm_PossessedA01=疯狂蜂群
+tagEnemyInsectSwarm_PossessedA01=失心虫群
 
-tagInsectSwarmHeroH01=Issk, the Hive Mind
-tagInsectSwarmHeroH02=Avarix ~ Electrified
-tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
+tagInsectSwarmHeroH01=虫巢主脑 依丝克
+tagInsectSwarmHeroH02=阿瓦里克斯 ~ 带电
+tagInsectSwarmHeroH03=灾荒 奥姆诺 ~ 疾病
 
-#Manticores
+#Manticores 蝎尾狮
 
-tagEnemyManticoreB01=Manticore Blackmane
-tagEnemyManticoreB02=Manticore Nightstalker
-tagEnemyManticoreC01=Manticore Alpha
+tagEnemyManticoreB01=黑鬃蝎尾狮
+tagEnemyManticoreB02=蝎尾狮夜行者
+tagEnemyManticoreC01=蝎尾狮领袖
 
-tagManticoreHeroH01=Raxa, the Jade Huntress
-tagManticoreHeroH02=Neleron, the Eyes of Death
-tagManticoreHeroH03=Uroxis Swiftclaw ~ Swift
-tagManticoreHeroH04=Waroxis Crimsonclaw ~ Bruiser
+tagManticoreHeroH01=翡翠猎手 拉科萨
+tagManticoreHeroH02=死亡之眼 奈隆
+tagManticoreHeroH03=迅爪 Uroxis ~ 迅捷
+tagManticoreHeroH04=Waroxis Crimsonclaw ~ 压碎者
 
 #CreatureRaptor
 

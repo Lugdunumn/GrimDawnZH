@@ -1,9 +1,9 @@
-Rook
-Welcome back to Devil's Crossing. I'll let you through.
-Thank you.
-The Captain said you are good to go. Don't start any trouble.
-Thank you.
-I've heard about what you're doing for us, risking your life out there.{^n}{^n}You've more than earned your keep. Please, come inside and rest a while.
-Thank you.
-Sorry, but I can't let you enter. You'll need to be cleared by the Captain before I let you through.
-I'll speak to the Captain then.
+鲁 克
+欢 迎 回 到 魔 鬼 路 口 。 我 会 让 你 通 过 的 。
+谢 谢 你 。
+队 长 说 你 准 备 好 了 。 不 要 惹 麻 烦 。
+谢 谢 你 。
+我 听 说 了 你 正 在 为 我 们 做 的 事 情 ， 在 那 里 你 冒 着 生 命 危 险 。{^n}{^n}你 的 付 出 比 你 所 获 得 的 要 多 。 请 进 来 休 息 一 会 吧 。
+谢 谢 你 。
+抱 歉 ， 但 是 我 不 能 让 你 进 去 。 在 我 让 你 通 过 之 前 你 需 要 得 到 队 长 的 认 可 。
+那 我 去 和 队 长 谈 谈 。

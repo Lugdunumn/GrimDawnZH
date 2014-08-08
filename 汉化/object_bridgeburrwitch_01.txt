@@ -1,7 +1,7 @@
-Building Site
-This bridge once connected the Burrwitch to SOMEPLACE. It must be restored before you can cross it.{^n}{^n}It will take 2 Scrap and 500 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge to SOMEPLACE.
-Leave it.
-You have restored this bridge.
-Ok.
+建筑工地
+这 座 桥 曾 连 接 着 伯 尔 维 治 到 “ 某 些 地 方 ” 。 在 你 能 通 过 它 之 前 你 必 须 修 复 它 。{^n}{^n}修 复 需 要 消 耗 2 个 废 铁 和 500 铁 币。
+没有足够的材料。
+修复这座通往“某些地方”的桥。
+离开。
+你修复了这座桥。
+好的。

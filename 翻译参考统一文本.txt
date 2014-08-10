@@ -60,6 +60,10 @@ Hangman Jarvis 刽子手·贾维斯
 
 Burial Cave 殓葬洞穴
 
+Old Grove 古树林
+
+Coast Road 海岸公路
+
 Burial Hill 殓葬山脉
 
 Lower Crossing 下游渡口

@@ -2,7 +2,7 @@
 ==
 Cairn 世界名 凯恩
 
-Silas塞拉斯
+Silas 塞拉斯
 
 Jasper 贾斯伯
 
@@ -123,15 +123,19 @@ Luther Graves 卢瑟·格雷夫斯
 Sybil 西比尔
 
 Jacob 雅各布
+
 Mathias 马赛厄斯
 
 三巫神：Bysmiel 拜斯迈 Solael 索拉尔 Dreeg 德里格
 
+Rhowan 罗文
 
-物品装备
+Rhowari 罗瓦里
+
+物品
 ===
 
-Constitution 给养 （次级回复系统）
+Constitution 体力（次级回复系统）
 
 Blueprint 设计图
 
@@ -141,137 +145,6 @@ Fabric 织物
 
 Iron 铁币
 
-Shiv 匕首
-
-Gladius 罗马短剑
-
-Razor 剃刀
-
-Shortsword 短剑
-
-Carver 切肉刀
-
-Longsword 长剑
-
-Broadsword 阔剑
-
-Butcher 屠刀
-
-Cutlass 弯刀
-
-Mangler 碎肉刀
-
-Fellblade 凶刃
-
-Bonesaw 骨据
-
-Conqueror 征服者
-
-Sabre 马刀
-
-Salazar's Sovereign Blade 萨拉查的君权剑
-
-Spectral Broadsword 幽光阔剑
-
-Spectral Longsword 幽光长剑
-
-Honed Longsword 抛光长剑
-
-Honed Broadsword 抛光阔剑
-
-Honed Conqueror 抛光的征服者
-
-Lightning Rod 避雷针
-
-Hound's Bite 猎犬之咬
-
-Omen 预兆
-
-Madness 疯狂
-
-Blood Carver 血肉收割者
-
-Bloodreaper's Claw 鲜血收割者之爪
-
-Duelist's Sabre 决斗士之剑
-
-Magistrate's Censor 执法官
-
-Flamebrand 火焰烙印
-
-Soulthief 窃魂
-
-Chillblaze 燃冰
-
-Ritual Carver 仪式切刀
-
-Assassin's Calling 暗杀者的召唤
-
-Razor of the Blind Assassin 眼盲刺客的剃刀
-
-Bloodied Dagger of the Covenant 圣约的血匕首
-
-Willie's Razor 威利的剃刀
-
-Crimson Spike 猩红之刺
-
-Crystallum 水晶剑
-
-Grim Fate 残酷命运
-
-Mindwarp 心灵扭曲
-
-Beronath, Reforged 贝若纳斯，重铸之剑
-
-Nex 死亡
-
-Ortus 花园
-
-Club 木棒
-
-Ball Mace 球头锤
-
-Mace 钉锤
-
-Flanged Mace 凸缘钉头锤
-
-Mallet 铁头锤
-
-Morningstar 晨星锤
-
-Truncheon 战仪杖
-
-Bladed Mace 刃锤
-
-Bludgeon 大头棒
-
-Warhammer 战锤
-
-Scepter 节杖
-
-Torch 火炬
-
-Warden's Verdict 典狱长的裁决
-
-Warden's Judgement 典狱长的审判
-
-Troll Bonesmasher 巨魔捣骨锤
-
-Troll Bonecrusher 巨魔碎骨锤
-
-Spectral Morningstar 幽光晨星锤
-
-Spectral Bludgeon 幽光大头棒
-
-Kilrian's Skullbreaker 基尔利安的碎颅锤
-
-Skinner's Torch 剥皮人的火炬
-
-Adept's Bladed Mace 专家级刃锤
-
-Adept's Morningstar 专家级晨星锤
-
-Adept's Flanged Mace 专家级凸缘钉头锤
 
 职业&技能
 ==
@@ -322,11 +195,10 @@ The Black Legion 黑暗军团
 
 代码使用指南
 
-
-最近将目前的文本应用到游戏中得出结论：大段落加换行太难控制，很不美观；最新成果：所有游戏中不会自动换行处的中文，在全部字与字间添加空格即可。
-
-{%s} 字符串 用于文字 例子：CharacterLevelDescription={%s0} - [Level {%d1}] => 士兵 35级
+{%s} 字符串 用于文字 例子：CharacterLevelDescription={%s0} - [Level {%d1}] => 士兵 - 35级
 
 {%d} 十进制数字
 
 {%.0f0} 浮点数 用于小数
+
+换行：所有游戏中不会自动换行处的中文，在全部字与字间添加空格即可。

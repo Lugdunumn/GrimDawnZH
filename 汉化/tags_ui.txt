@@ -274,7 +274,7 @@ tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击：
 tagCharStatsOAHit=击中几率：
 tagCharStatsOACrit=暴击几率：
-tagCharStatsOADescription=更强的攻击能力能提升你近战和远程攻击击中的机会，提升暴击几率和暴击伤害。进攻能力弱于敌人的防御能力会极大地增加你的攻击丢失几率。进攻能力受技能、物品和灵巧影响。
+tagCharStatsOADescription=更强的攻击能力能提升你近战和远程攻击击中的机会，提升暴击几率和暴击伤害。进攻能力弱于敌人的防御能力会极大地增加你的攻击未命中几率。进攻能力受技能、物品和灵巧影响。
 
 tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自：
@@ -1065,7 +1065,7 @@ ShortLevel=等级{%d0}
 HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0}(x{%.1f1})
-tagMiss=丢失
+tagMiss=未命中
 tagFumble=失误
 tagDodge=闪避
 tagBlock=格挡

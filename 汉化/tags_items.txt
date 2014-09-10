@@ -2031,7 +2031,7 @@ tagPrefixB028_Ar_A=石肤
 tagPrefixB029_Ar_A=将军
 
 tagPrefixB001_Class_A=突击司令的
-tagPrefixB002_Class_A=巫师之人刃的
+tagPrefixB002_Class_A=巫师之刃的
 tagPrefixB003_Class_A=剑术大师的
 tagPrefixB004_Class_A=战斗法师的
 tagPrefixB005_Class_A=烈焰术士的

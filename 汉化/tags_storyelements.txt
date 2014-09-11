@@ -47,10 +47,12 @@ tagMapNewHarbor=新港
 tagMapBarrenHighlands=贫瘠高地
 tagMapCrumblingWatch=瞭望塔遗迹
 tagMapCronleysHideout=克隆利的藏身处
+tagMapSmugglersPass=走私者的通道
 tagMapJaggedWaste=锯齿荒地
 tagMapDeadmansGulch=亡者峡谷
-tagMapHighpass=高地山口
+tagMapHighPass=高地山口
 tagMapAlpineRoad=高山道路
+tagMapMountainDeeps=Mountain Deeps
 
 tagMapLedgewood01=利奇伍德
 tagMapWitheringFields01=干枯田地
@@ -112,6 +114,7 @@ tagRiftOldArkovia=古安克维亚传送门
 tagRiftArkovianFoothills=安克维亚山麓传送门
 tagRiftCronleysHideout=克隆利的藏身处传送门
 tagRiftTwinFalls=双子瀑布传送门
+tagRiftSmugglersPass=走私者的通道传送门
 tagRiftHighPass=高地山口传送门
 tagRiftJaggedWaste=锯齿荒地传送门
 tagRiftDeadmansGulch=亡者峡谷传送门
@@ -209,12 +212,12 @@ tagPOIOldArkoviaRuins2A=安克维亚地下城(第二层)入口
 tagPOIOldArkoviaRuins2B=安克维亚地下城(第二层)出口
 tagPOIOldArkoviaRuins3A=安克维亚地下城(第三层)入口
 tagPOIOldArkoviaRuins3B=安克维亚地下城(第三层)出口
-tagPOIBrokenHillsMylesCaveA=迈尔斯的藏身处入口
-tagPOIBrokenHillsMylesCaveB=废弃兽穴出口
 tagPOIOldArkoviaMineA=克隆利的藏身处入口
 tagPOIOldArkoviaMineB=克隆利的藏身处出口
 tagPOIFesteringLairA=溃烂巢穴入口
 tagPOIFesteringLairB=溃烂巢穴出口
+tagPOIBrokenHillsMylesCaveA=迈尔斯的藏身处入口
+tagPOIBrokenHillsMylesCaveB=废弃兽穴出口
 
 tagPOIStepsOfTorment1A=苦痛阶梯入口
 tagPOIStepsOfTorment1B=苦痛阶梯出口
@@ -254,15 +257,15 @@ tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
 
 tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
 tagNotification_HS_SpoilsOfTheGrimDawn=你搜寻到了古老的遗迹。
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=你找到了连接古安克维亚与霍姆斯特德的桥。
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=你发现了去往霍姆斯特德的另一条路。
-tagNotification_HS_WeNeedFood_HomesteadRegionFound=你找到了霍姆斯特德。
-tagNotification_HS_WeNeedFood_HomesteadTownFound=你找到了霍姆斯特德镇。
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=The old coastal bridge is destroyed. You will need to find a way through Smuggler's Pass
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=You have gone through Smuggler's Pass. Seek a way into Homestead.
+tagNotification_HS_WeNeedFood_HomesteadRefugees=You discovered a group of refugees beyond Smuggler's Pass.
 tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
 
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门的连接……
+tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
 
 #NPC Names
 
@@ -292,6 +295,7 @@ tagNPC_DevilsCrossing_02=俘虏罗弗
 tagNPC_DevilsCrossing_03=艾萨克
 tagNPC_DevilsCrossing_04=托尔文
 tagNPC_DevilsCrossing_05=库尔多
+tagNPC_DevilsCrossing_06=Edwin
 
 tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
@@ -303,7 +307,7 @@ tagNPC_Homestead_07=以赛亚·瑞丹
 tagNPC_Homestead_08=约瑟芬·瑞丹
 tagNPC_Homestead_09=
 tagNPC_Homestead_10=米拉·斯金纳
-tagNPC_Homestead_11=迈尔斯·法恩根
+tagNPC_Homestead_11=
 tagNPC_Homestead_12=
 tagNPC_Homestead_13=
 tagNPC_Homestead_14=
@@ -324,15 +328,31 @@ tagNPC_Homestead_28=海勒姆
 tagNPC_Homestead_29=卡尔德罗斯
 tagNPC_Homestead_30=巴尔沃拉克
 
-tagNPC_Necropolis_01=安吉拉·哈林顿
-tagNPC_Necropolis_02=道格拉斯·沙利文·古冢
-tagNPC_Necropolis_03=洛德·雷金纳德·马洛贝恩
-tagNPC_Necropolis_04=莫里斯·波顿
-tagNPC_Necropolis_05=萨曼莎·科尔顿
-tagNPC_Necropolis_06=斯坦利·拉森
-tagNPC_Necropolis_07=内森
-tagNPC_Necropolis_08=乔纳斯
-
+tagNPC_AreaC_01=Anasteria
+tagNPC_AreaC_02=道格拉斯·沙利文·古冢
+tagNPC_AreaC_03=迈尔斯·法恩根
+tagNPC_AreaC_04=Inquisitor Creed
+tagNPC_AreaC_05=Kadris
+tagNPC_AreaC_06=Alleria
+tagNPC_AreaC_07=Kalista
+tagNPC_AreaC_08=Nathaniel
+tagNPC_AreaC_09=Lisandra
+tagNPC_AreaC_10=Brother Elluvius
+tagNPC_AreaC_11=Father Kymon
+tagNPC_AreaC_12=Master Varukk
+tagNPC_AreaC_13=The Keeper of Tomes
+tagNPC_AreaC_14=Rallia
+tagNPC_AreaC_15=
+tagNPC_AreaC_16=
+tagNPC_AreaC_17=
+tagNPC_AreaC_18=
+tagNPC_AreaC_19=
+tagNPC_AreaC_20=
+tagNPC_AreaC_21=
+tagNPC_AreaC_22=
+tagNPC_AreaC_23=
+tagNPC_AreaC_24=
+tagNPC_AreaC_25=
 
 tagNPC_DetonationSite=爆破点
 
@@ -379,7 +399,32 @@ tagNPC_Flavor_Homestead_12=贺拉斯
 tagNPC_Flavor_Necropolis_01=迪恩·古冢
 tagNPC_Flavor_Necropolis_02=丹尼·古冢
 tagNPC_Flavor_Necropolis_03=玛利亚·古冢
+tagNPC_Flavor_AreaC_04=Collin Taverin
+tagNPC_Flavor_AreaC_05=Rob Halloway
+tagNPC_Flavor_AreaC_06=Beatrice Summers
+tagNPC_Flavor_AreaC_07=Tricia Windborough
+tagNPC_Flavor_AreaC_08=Taris Windborough
+tagNPC_Flavor_AreaC_09=Emily Larkson
+tagNPC_Flavor_AreaC_10=Bolvis 
+tagNPC_Flavor_AreaC_11=Vaam
+tagNPC_Flavor_AreaC_12=Elaine Cobble
+tagNPC_Flavor_AreaC_13=Julia Applesworth
+tagNPC_Flavor_AreaC_14=Shane Cobble
+tagNPC_Flavor_AreaC_15=Davis Morden
+tagNPC_Flavor_AreaC_16=Laaruka
+tagNPC_Flavor_AreaC_17=Caaraka
+tagNPC_Flavor_AreaC_18=Galarokk
+tagNPC_Flavor_AreaC_19=Ralukk
+tagNPC_Flavor_AreaC_20=Sister Thaddia
+tagNPC_Flavor_AreaC_21=Brother Lector
+tagNPC_Flavor_AreaC_22=Brother Ulnox
 
+tagNPC_Flavor_AreaD_01=
+tagNPC_Flavor_AreaD_02=
+tagNPC_Flavor_AreaD_03=
+tagNPC_Flavor_AreaD_04=
+tagNPC_Flavor_AreaD_05=
+tagNPC_Flavor_AreaD_06=
 
 #Quest Items
 
@@ -429,7 +474,15 @@ tagLoreObj_InquisitorCreedA03Text=I've finally arrived in Burrwitch after passin
 
 tagLoreObj_InquisitorCreedA04Name=Journal of Inquisitor Creed - 4th Entry
 tagLoreObj_InquisitorCreedA04codexTitle=Inquisitor Creed - 4th Entry
-tagLoreObj_InquisitorCreedA04Text=I've been a guest to Warden Krieg at his manor for over a week now and my suspicions that something terrible is going on here grow with each day. Every day, I set out to some destination in or around Burrwitch to investigate yet another unusual crime or ominous rumor. Some are easily dismissed as more mundane human crimes or merely fantastic tales, but many of my investigations have come to darker conclusions. I feel there is a pattern emerging here but I cannot yet put the pieces together.{^n}{^n}These are peripheral cases though and the main purpose of my involvement in them is to give pretense for my prolonged stay in Burrwitch. Krieg himself has become the focus of my primary investigation. Despite an overwhelming conviction that Krieg is not what he appears to be and is almost certainly involved in some sort of unnatural activity, I have found no irrefutable evidence of wrongdoing that could be used to open an official inquiry.{^n}{^n}Much of the manor itself is closed off to me. There are rooms upstairs from which Krieg and other visitors come and go but I am not permitted to enter. Stranger yet, I've awoken in the night to sounds like the creaking of wagons moving along a road but then looked out my window down upon the village and seen nothing. Where are these sounds coming from? The game of cat and mouse continues but, as of yet, I am not certain who is the cat and who is the mouse...
+tagLoreObj_InquisitorCreedA04Text=I've been a guest to Warden Krieg at his manor for over a week now and my suspicions that something terrible is going on here grow with each day. Every day, I set out to some destination in or around Burrwitch to investigate yet another unusual crime or ominous rumor. Some are easily dismissed as more mundane human crimes or merely fantastic tales, but many of my investigations have come to darker conclusions. I feel there is a pattern emerging here but I cannot yet put the pieces together.{^n}{^n}These are peripheral cases though and the main purpose of my involvement in them is to give pretense for my prolonged stay in Burrwitch. Krieg himself has become the focus of my primary investigation. Despite an overwhelming conviction that Krieg is not what he appears to be and is almost certainly involved in some sort of unnatural activity, I have found no irrefutable evidence of wrongdoing that could be used to open an official inquisition.{^n}{^n}Much of the manor itself is closed off to me. There are rooms upstairs from which Krieg and other visitors come and go but I am not permitted to enter. Stranger yet, I've awoken in the night to sounds like the creaking of wagons moving along a road but then looked out my window down upon the village and seen nothing. Where are these sounds coming from? The game of cat and mouse continues but, as of yet, I am not certain who is the cat and who is the mouse...
+
+tagLoreObj_InquisitorCreedA05Name=Journal of Inquisitor Creed - 5th Entry
+tagLoreObj_InquisitorCreedA05codexTitle=Inquisitor Creed - 5th Entry
+tagLoreObj_InquisitorCreedA05Text=Krieg has gotten the better of me and I am presently at his mercy, imprisoned beneath his manor.{^n}{^n}Seeing no other way to progress in my investigation, I forced my way into the locked portion of the manor and found myself in a veritable house of horrors. The unusual sorcery on the locks should have been my first clue that I was dealing with something more extraordinary than some rogue occultist.{^n}{^n}My search led me through a room filled with the rotting bodies of men and woman subjected to brutal torture or horrible experimentation, or perhaps some mix of the two. Behind the manor I found a door leading down into the earth beneath the estate, where I found myself quickly lost in an implausibly large dungeon. It wasn't long before I sensed things moving in the darkness all around me and they quickly closed in, surrounding me. As I prepared to fight for all I was worth, Krieg's massive form emerged from the shadows, his face expressionless. He spoke coolly as though nothing at all was out of the ordinary and invited me to tour his facility. While I had no doubt that something unpleasant was planned for me, it at least delayed my confrontation with the living horrors gathering in the dark.
+
+tagLoreObj_InquisitorCreedA06Name=Journal of Inquisitor Creed - 6th Entry
+tagLoreObj_InquisitorCreedA06codexTitle=Inquisitor Creed - 6th Entry
+tagLoreObj_InquisitorCreedA06Text=I've lingered in this dank cell for one long unsettling day and a night of terrors. Krieg allowed me to witness the process by which they are preserving human bodies for what he calls the Glorious Dawn.{^n}{^n}I have gotten glimmerings of another consciousness within Krieg, which is joined with or possibly in control of him. From the way he spoke, it is clear that this is only some small part of a much greater conspiracy and I suspect many other persons in key positions have been possessed by things akin to that which now inhabits Krieg. I was arrogant in my initial handling of Krieg and seriously misjudged the power and scale of the threat we are faced with.{^n}{^n}Fortunately, Krieg's own arrogance has likewise led him to misjudge the resourcefulness of his prisoner. He has invited me to ascend beyond humanity by pledging myself to his cause or to join his inventory of embalmed corpses. I've been left to contemplate this decision but this cell, even magically warded, cannot hold the likes of me and I have no intention of being here when Krieg returns for my answer.
 
 tagLoreObject_PrisonNoteName=Crudely Scrawled Note
 tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...

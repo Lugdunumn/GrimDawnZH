@@ -95,7 +95,7 @@ tagFactionUser4=放逐者
 tagFactionUser5=死亡守夜人教团
 tagFactionUser6=不死族
 tagFactionUser7=黑暗军团
-tagFactionUser8=User8
+tagFactionUser8=Kymon's Chosen
 tagFactionUser9=User9
 tagFactionUnknown=未知
 tagFactionStateEnemy5=复仇
@@ -125,8 +125,8 @@ tagFactionStateRevered=敬畏
 tagHUDMenu=菜单按钮
 tagHUDAttacks=当前攻击
 tagHUDSkills=快捷槽
-tagHUD_PotionHealth=生命药水
-tagHUD_PotionEnergy=能量药水
+tagHUD_PotionHealth=Tonic of Mending
+tagHUD_PotionEnergy=Elixir of Spirit
 
 tagPortraitKick=从服务器踢出
 tagPortraitTrade=交易
@@ -259,6 +259,9 @@ tagCharAttributeDescription04=生命衡量在死之前你能承受多少的痛�
 
 tagCharAttributeDescription05=能量衡量你承受魔法能量的精神能力。精神能力越强，就会有越多的能量在等待回复之前供你取用。
 
+tagCharBonusHealth=Bonus Health:
+tagCharBonusEnergy=Bonus Energy:
+
 tagCharBonusPhysicalDmg=附加物理伤害：
 tagCharBonusPierceDmg=附加穿刺伤害：
 tagCharBonusMagicalDmg=附加魔法伤害：
@@ -270,12 +273,14 @@ tagCharAttributeIncrement03=每一点提升10点精神。
 tagCharAttributeIncrement04=每一点提升50点生命。
 tagCharAttributeIncrement05=每一点提升10点能量。
 
+tagCharStatsOAAlert=Offensive Ability {^b}(?)
 tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击：
 tagCharStatsOAHit=击中几率：
 tagCharStatsOACrit=暴击几率：
 tagCharStatsOADescription=更强的攻击能力能提升你近战和远程攻击击中的机会，提升暴击几率和暴击伤害。进攻能力弱于敌人的防御能力会极大地增加你的攻击未命中几率。进攻能力受技能、物品和灵巧影响。
 
+tagCharStatsDAAlert=Defensive Ability {^b}(?) 
 tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自：
 tagCharStatsDAHit=被击中几率：
@@ -333,8 +338,9 @@ tagCharHeaderMisc=杂项
 tagCharStatsDPS=每秒伤害
 tagCharStatsDPSDescription=每秒造成的平均伤害，不考虑敌人防御。
 
+tagCharStatsArmorTotalAlert=Armor Rating {^b}(?)
 tagCharStatsArmorTotal=护 甲 等 级
-tagCharStatsArmorTotalDescription=护 甲 等 级 越 高 ， 受 到 的 物 理 伤 害 就 越 少 。{^n}{^n}奖 励 由 所 有 非 护 甲 装 备 的 加 和 整 除 护 甲 栏 位 的 个 数 而 得 。
+tagCharStatsArmorTotalDescription=护 甲 等 级 越 高 ， 受 到 的 物 理 伤 害 就 越 少 。{^n}{^n}Bonuses on skills and on non-armor pieces are added to all armor slots.
 tagCharStatsHitArmor=击 中 几 率
 tagCharStatsArmorUnprotected=无 护 甲
 tagCharStatsArmorNA=N/A
@@ -369,6 +375,8 @@ tagCharStatsEnergyRegen=能量回复
 tagCharStatsEnergyRegenInfo=能量回复速度。加成只影响从装备获得的回复速度，不影响基本回复速度。
 tagCharStatsEnergyAbsorption=能量吸收
 tagCharStatsEnergyAbsorptionInfo=吸收敌人攻击和施法所用能量为你所用的百分数。
+tagCharStatsConstitution=Constitution Bonus
+tagCharStatsConstitutionInfo=The percentage bonus to your maximum constitution.
 tagCharStatsExpGainedBonus=经验加成
 tagCharStatsExpGainedBonusInfo=杀死怪物所得额外经验的百分数。
 tagCharStatsLightRadiusBonus=照亮范围奖励
@@ -417,7 +425,7 @@ tagCharStatsInternalTraumaDuration=创伤效果持续时间
 tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsDamageToHealth=生命窃取
-tagCharStatsDamageToHealthInfo=攻击时造成的伤害用来回复生命的百分数。
+tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
 
 #Magical 魔法
 tagCharStatsCastSpeed=施法速度
@@ -587,12 +595,12 @@ tagCharStatsPiercePercentRet=穿刺加成
 tagCharStatsPiercePercentRetInfo=所有穿刺伤害反击效果加成比率。
 
 tagCharStatsBleedRet=流血反击
-tagCharStatsBleedRetInfo=当你被攻击时对攻击者造成持续3秒的流血伤害。
+tagCharStatsBleedRetInfo=当你被攻击时对攻击者造成3秒内每秒的流血伤害。
 tagCharStatsBleedPercentRet=流血反击加成
 tagCharStatsBleedPercentRetInfo=所有流血伤害反击效果加成比率。
 
 tagCharStatsInternalTraumaRet=创伤反击
-tagCharStatsInternalTraumaRetInfo=当你被攻击时对攻击者造成持续5秒的内伤伤害。
+tagCharStatsInternalTraumaRetInfo=当你被攻击时对攻击者造成5秒内每秒的内伤伤害。
 tagCharStatsInternalTraumaPercentRet=创伤反击加成
 tagCharStatsInternalTraumaPercentRetInfo=所有内伤伤害反击效果加成比率。
 
@@ -632,12 +640,12 @@ tagCharStatsChaosPercentRet=混乱反击加成
 tagCharStatsChaosPercentRetInfo=所有混乱伤害反击效果加成比率。
 
 tagCharStatsBurnRet=燃烧反击
-tagCharStatsBurnRetInfo=当你被攻击时对攻击者造成持续3秒的燃烧伤害。
+tagCharStatsBurnRetInfo=当你被攻击时对攻击者造成3秒内每秒的燃烧伤害。
 tagCharStatsBurnPercentRet=燃烧反击加成
 tagCharStatsBurnPercentRetInfo=所有霜燃伤害反击效果加成比率。
 
 tagCharStatsColdburnRet=霜燃反击
-tagCharStatsColdburnRetInfo=当你被攻击时对攻击者造成持续3秒的霜燃伤害。
+tagCharStatsColdburnRetInfo=当你被攻击时对攻击者造成3秒内每秒的霜燃伤害。
 tagCharStatsColdburnPercentRet=霜燃反击加成
 tagCharStatsColdburnPercentRetInfo=所有霜燃伤害反击效果加成比率。
 
@@ -647,12 +655,12 @@ tagCharStatsElectrocutePercentRet=电击反击加成
 tagCharStatsElectrocutePercentRetInfo=所有电击伤害反击效果加成比率。
 
 tagCharStatsPoisonRet=毒素反击
-tagCharStatsPoisonRetInfo=当你被攻击时对攻击者造成持续5秒的毒素伤害。
+tagCharStatsPoisonRetInfo=当你被攻击时对攻击者造成5秒内每秒的毒素伤害。
 tagCharStatsPoisonPercentRet=毒素反击加成
 tagCharStatsPoisonPercentRetInfo=所有毒素伤害反击效果加成比率。
 
 tagCharStatsVitalityDecayRet=活力衰减反击
-tagCharStatsVitalityDecayRetInfo=当你被攻击时对攻击者造成持续3秒的活力衰减伤害。
+tagCharStatsVitalityDecayRetInfo=当你被攻击时对攻击者造成3秒内每秒的活力衰减伤害。
 tagCharStatsVitalityDecayPercentRet=活力衰减反击加成
 tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果加成比率。
 
@@ -776,7 +784,7 @@ tagCraftingShoulders=护肩
 tagCraftingLegs=腿部
 tagCraftingHands=护手
 tagCraftingFeet=脚部
-tagCraftingOffhands=副手
+tagCraftingOffhands=聚能法器
 tagCraftingShields=盾牌
 
 tagCraftingComponents=部件
@@ -790,8 +798,11 @@ tagDividerTab01=回收
 tagDividerRoll01=回收装置被用来从物品上分离附加部件。不幸的是，回收工序的不完善会摧毁物品或附加部件中的一个，不过你可以做出选择。
 
 tagDividerTab02=分解
-tagDividerRoll02=分解装置被用来拆解强力的物品以得到其基本的部分，发明家还没有学会这项技能。（尚未实装）
+tagDividerRoll02=分解装置被用来拆解强力的物品以得到其基本的部分，发明家还没有学会这项技能。
 tagDividerRoll02B=分解装置被用来拆解强力的物品以得到其基本的部分，在分解过程中需要大量的能量，所以睿智的发明家使用火药来完成这个过程。
+
+tagDividerTab03=Tinkering
+tagDividerRoll03=The tinkering chamber is used for tinkering.
 
 tagDividingButtonKeepItem=保留物品
 tagDividingBoxInfo=将带有附加部件的物品放入回收器.
@@ -805,6 +816,13 @@ tagDismantleCost=拆解消耗：
 tagDismantleButton=选择拆解会彻底摧毁该物品。
 tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
 tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留组件，继续？
+tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
+
+tagTinkerAetherTotal=Total Aether Crystals:
+tagTinkerCost=Tinkering Cost:
+tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
+tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
+tagTinkerBoxInfo=Place a component or relic in the chamber.
 
 #Smuggler
 
@@ -822,6 +840,12 @@ tagCaravanItemTransfer=共享仓库
 tagTransferInfo02=将物品放入共享仓库让你的所有人物都能使用。
 tagCaravanError01=你没有足够的金钱来转移这件物品。
 tagStorageError01=你没有足够的金钱来购买拓展存储空间。
+tagTransferError01=You need {%d0} iron to purchase a storage expansion.
+tagTransferPurchase01=Spend {%d0} iron to purchase a storage expansion?
+tagTransferTab01=Tab 1
+tagTransferTab02=Tab 2
+tagTransferTab03=Tab 3
+tagTransferTab04=Tab 4
 
 #Chat
 
@@ -832,7 +856,7 @@ tagChatCommand03=回复
 tagChatCommand04=告知
 tagChatCommand05=禁言
 tagChatCommand06=取消禁言
-tagChatBrag=鼠标悬停此处来看我的{%t0}{%t1}{^-}……
+tagChatBrag=[{%t0}{%t1}{^-}]
 
 #NPC Conversation
 tagNpcConversationBusy=那个NPC正在和另一名玩家交谈。
@@ -889,6 +913,7 @@ tagInfoButtonOk=好
 tagGameOver=你死了！
 
 SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0} {%s1}
 SkillBaseNamesFormat={    %s0}
 CostFormat=花费：{%d0}
 ManaDisplayFormat=能量{%d0}/{%d1} ({%d2}点预留)
@@ -993,6 +1018,19 @@ SkillProjectileSpeedModifierR={%+.0f0}% {^E}提高投射物速度
 SkillManaCostReductionModifierR=-{%.0f0}% {^E}技能能量消耗
 SkillCooldownReductionModifierR=-{%.0f0}% {^E}技能冷却
 
+tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
+tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
+tagConversionPhysical=Physical Damage
+tagConversionElemental=Elemental Damage
+tagConversionCold=Cold Damage
+tagConversionFire=Fire Damage
+tagConversionPoison=Poison Damage
+tagConversionLightning=Lightning Damage
+tagConversionLife=Life Damage
+tagConversionChaos=Chaos Damage
+tagConversionAether=Aether Damage
+tagConversionStun=Stun Duration
+
 tagAttackSpeedNotSet=速度：未设定
 tagAttackSpeedVerySlow=速度：非常慢
 tagAttackSpeedSlow=速度：慢速
@@ -1013,7 +1051,7 @@ tagCharDeflectProjectiles={%.0f0}% {^E}无视投射物几率
 tagCharIncreasedExperience={%+.0f0}% {^E}经验获取
 tagCharLightRadius={%+.0f0}% {^E}光照范围
 
-tagCharItemGlobalReduction={%.0f0}% {^E}所有装备需求减少
+tagCharItemGlobalReduction={%.0f0}% {^E}所有装备属性需求减少
 tagCharLevelReqReduction=-{%.0f0} {^E}装备物品所需等级
 tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}装备护甲所需体格
 tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}装备护甲所需灵巧
@@ -1132,9 +1170,16 @@ SkillPetDescriptionDamageMinMax={%.0f0}-{%.0f1}点伤害
 tagSkillPetTimeToLive={^E}持续{^H}{%.1f0}秒
 tagSkillPrevious=……上一级
 tagSkillNext=下一级……
-PressToAddUnusedSkillPoints=点击以投入未使用的技能点数
+PressToAddUnusedSkillPoints=左键点击以投入未使用的技能点数
+PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
+PressToActivateDevotion=Left Click to Activate
+PressToAssignDevotion=Left Click to Assign
 SkillEnhancement=+{%d0}致所有技能
 NoSkillPointsToAdd=没有技能点数来添加
+NoDevotionPointsToAdd=No Devotion Points Available
+LockedDevotion=Locked
+ActiveDevotion=Active
+PressToAssignDevotion=Left click to assign.
 YouMustIncreaseMasteryLevel=你必须提升专精等级才能投入点数
 EnableOneBaseSkill=At Least One Requisite Skill Must Be Enabled
 MaxSkillLevelReached=已达到技能最高等级
@@ -1145,7 +1190,7 @@ ManaCost={^E}能量消耗
 ActiveLifeCost={^E}每秒激活生命消耗
 ActiveManaCost={^E}每秒激活能量消耗
 ActiveDuration=持续时间
-TargetRadius=作用范围
+TargetRadius=目标区域
 TargetAngle={%.0f0}{^E}度攻击范围
 TargetNumber=最多作用于{%d0}{^E}个目标
 CooldownTime={^E}技能冷却
@@ -1208,8 +1253,10 @@ tagDotChaos=混乱
 tagDotAether=虚化
 tagDotLifeLeech=生命吸取
 
+tagSetItems=({%d0})套装
 tagSecond={^E}秒
 tagSeconds={^E}秒
+DamagePerSecond={%.1f0} {^S}Damage Per Second (If Equipped)
 DamagePhysicalChance= {^E}点物理伤害
 DamageBasePhysical= {^S}点物理伤害
 DamageBasePierceRatio={%.0f0}% {^S}护甲穿刺
@@ -1270,6 +1317,8 @@ DamageDurationBleeding= {^E}流血伤害
 DamageTotalDamageReductionPercent=% {^E}目标伤害降低
 DamageTotalDamageReductionAbsolute= {^E}目标伤害降低
 DamageTotalResistanceReductionPercent=% {^E}目标抗性降低
+DamagePhysicalReductionPercent=% {^E}Reduced target's Physical Damage
+DamageElementalReductionPercent=% {^E}Reduced target's Elemental Damage
 DamageTotalResistanceReductionAbsolute= {^E}目标抗性降低
 DamageDurationFumble=% {^E}几率目标攻击失误
 DamageDurationProjectileFumble=% {^E}几率目标瞄准障碍
@@ -1316,6 +1365,7 @@ DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}目标防御能力降低
 DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}目标物理伤害降低
 ImprovedTimeFormat={^E}with {^H}{%+.0f0}% {^E}持续时间提升
 ImprovedTimeFormatR= {^E}伴随 {^H}{%+.0f0}-{%.0f1}% {^E}持续时间提升
+IncreasedDuration={^H}{%+.0f0}% {^E}Increased{%s1} Duration
 
 RetaliationCold={%t0} {^E}冰冷反击
 RetaliationFire={%t0} {^E}火焰反击
@@ -1356,7 +1406,7 @@ RetaliationModifierPierceRatio={%+.0f0}% {^E}穿刺反击
 RetaliationModifierPierce={%+.0f0}% {^E}穿刺反击
 RetaliationModifierCold={%+.0f0}% {^E}冰冷反击
 RetaliationModifierFire={%+.0f0}% {^E}火焰反击
-RetaliationModifierPoison={%+.0f0}% {^E}瞬间毒素&酸性反击
+RetaliationModifierPoison={%+.0f0}% {^E}酸性反击
 RetaliationModifierLightning={%+.0f0}% {^E}闪电反击
 RetaliationModifierAether={%+.0f0}% {^E}虚化反击
 RetaliationModifierChaos={%+.0f0}% {^E}混乱反击
@@ -1383,8 +1433,8 @@ DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}护甲
 DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1}{^E}护甲
 DefenseAbsorptionProtectionBonus=+{%.0f0}{^E}护甲加成
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1}{^E}护甲加成
-DefensePhysical={%.0f0}%{^E}物理伤害抗性
-DefensePhysicalR={%.0f0}-{%.0f1}%{^E}物理伤害抗性
+DefensePhysical={%.0f0}%{^E}物理抗性
+DefensePhysicalR={%.0f0}-{%.0f1}%{^E}物理抗性
 DefensePierce={%.0f0}%{^E}穿刺抗性
 DefensePierceR={%.0f0}-{%.0f1}%{^E}穿刺抗性
 DefenseElementalResistance={%.0f0}%{^E}元素抗性
@@ -1435,6 +1485,8 @@ DefenseLightningDuration={%.0f0}%{^E}闪电持续时间减少
 DefenseLifeDuration={%.0f0}%{^E}活力衰减持续时间减少
 DefenseLifeLeachDuration={%.0f0}%{^E}生命吸取持续时间减少
 DefenseManaLeachDuration={%.0f0}%{^E}能量吸取持续时间减少
+DefensePercentCurrentLife={%.0f0}% {^E}Resistance to Life Reduction
+DefenseManaBurnRatio={%.0f0}% {^E}Resistance to Mana Burn
 DefenseProtectionModifier={^E}护甲提升{^H}{%.0f0}%
 DefenseProtectionModifierR={^E}护甲提升{^H}{%.0f0}-{%.0f1}%
 DefenseAbsorptionModifier={^E}护甲吸收提升{^H}{%.0f0}%
@@ -1450,6 +1502,7 @@ DefenseChaosModifier={^E}提高混乱抗性{^H}{%.0f0}%
 DefenseAetherModifier={^E}提高虚化抗性{^H}{%.0f0}%
 DefenseStunModifier={^E}提高眩晕抗性{^H}{%.0f0}%
 DefenseBlockModifier={^E}提高护盾格挡几率{^H}{%.0f0}%
+DefenseBlockAmountModifier={%+.0f0}% {^E}Shield Damage Blocked
 DefenseLifeLeachModifier={^E}提高生命吸取抗性{^H}{%.0f0}%
 DefenseManaLeachModifier={^E}提高能量吸取抗性{^H}{%.0f0}%
 DefensePercentLifeModifier={^E}提高生命比率抗性{^H}{%.0f0}%
@@ -1497,6 +1550,7 @@ tagAutoItemSkill= (从物品获取 - 被动激活)
 tagExclusiveSkill=专有技能 - 同一时间只能激活一个专有技能。
 
 tagAutoSort=自动整理
+tagAutoComplete=Complete Components
 tagAttributeUndo=撤销
 
 tagQuestItem=任务物品
@@ -1520,10 +1574,10 @@ tagBossXPLong02={%d0}经验获取
 tagHeroXPLong01=英雄怪物击杀
 tagHeroXPLong02={%d0}经验获取
 
-tagPetBonusNameAllPets=所有战宠加成：
-tagPetBonusNameOnePet={%s0}战宠加成：
-tagPetBonusNameTwoPets={%s0}和{%s1}战宠加成：
-tagPetBonusNameManyPets=战宠加成:
+tagPetBonusNameAllPets=所有战宠加成
+tagPetBonusNameOnePet={%s0}战宠加成
+tagPetBonusNameTwoPets={%s0}和{%s1}战宠加成
+tagPetBonusNameManyPets=战宠加成
 
 TagSpeakerSetup=扬声器设置
 TagHeadphoneSpeakers=耳机扬声器
@@ -1555,8 +1609,11 @@ tagHotSlotSwap=主副快捷操槽栏切换。
 tagHotSlotTitle=备用快捷键栏
 tagEmptyHotSlot=清空此快捷键栏按钮。
 
+tagDevotionUnassigned=No Skill
+
 #Multiplayer
 
+tagMPTrade=交易
 tagMPGroup=团队
 tagMPInGame=游戏内
 tagMPCharName=人物名称
@@ -1572,12 +1629,13 @@ tagMPAvailable=尚未组队玩家
 tagMPGroup1=团队1
 tagMPGroup2=团队2
 tagMPGroup3=团队3
+tagMPNoClass=N/A
 tagMPInviteMessage={%t0}邀请你加入一个团队。
-tagMPInviteError={%t0}已在一个小队中了。
-tagMPInviteSend={%t0}已被发送邀请加入你的小队。
-tagMPInviteRemove={%t0}已被移出小队。
-tagMPMessageJoin={%t0}已加入你的小队。
-tagMPMessageLeave={%t0}已离开你的小队。
+tagMPInviteError={%t0}已在一个团队中了。
+tagMPInviteSend={%t0}已被发送邀请加入你的团队。
+tagMPInviteRemove={%t0}已被移出团队。
+tagMPMessageJoin={%t0}已加入你的团队。
+tagMPMessageLeave={%t0}已离开你的团队。
 tagMPMessageDeny={%t0}拒绝了你的邀请。
 tagMPMessageBan={%t0}已被从游戏中封禁。
 tagMPMessageGameJoin={%t0}已加入游戏。游戏难度等级已根据人数调整。
@@ -1589,12 +1647,16 @@ tagMPStats=游戏状态
 tagMPMapName=地图名：
 tagMPServerName=服务器名：
 tagMPPing=延迟：
-tagMPTime=持续游戏时间：
+tagMPTime=持续时间：
 tagMPServer=服务器名：{%t0}
 tagMPIPAddress=IP地址: {%t0}
 tagMPPort=端口: {%t0}
 tagMPErrorNoTarget=该玩家超出指向距离。
 tagTradeError01={%t0}正在与其他玩家交易。
++tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
 tagTradeError02={%t0}拒绝了你的交易请求。
 tagTradeError03={%t0}请求交易。
 tagTradeError04=你的库存没有足够的空间来接受这比交易。

@@ -19,6 +19,5 @@ Where do I need to take the talisman?
 Greven... take it to Greven at the Rover Camp. It is just...east of...Staunton...Mine...
 Very well.
 bye.
-Please... stranger... take this talisman. I carried it away from my camp to prevent bandits from stealing it, but nature has passed judgment and I am not long for this world.{^n}{^n}*Mathias pauses to cough up blood*{^n}{^n}I implore you, bring the talisman to Greven. He is at a Rover camp just east of Staunton Mine, in the Arkovian Foothills. Tell him that I died protecting our relic.
-I will do as you ask.
-I cannot help you.
+*Mathias winces in pain, he seems barely aware of your presence.*
+I'll look for help.

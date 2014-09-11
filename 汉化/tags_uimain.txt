@@ -18,6 +18,14 @@ tagMenuButton08=默认
 tagMenuButton09=确定
 tagMenuButton10=刷新
 tagMenuChar={%d0} ~ {%d1}
+
+# Temporary popup message for alpha multiplayer build warning
+tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+
+#
+# Play Menu
+#
+
 tagMenuGame01=单人游戏
 tagMenuGame02=加入多人游戏
 tagMenuGame03=建立多人游戏
@@ -45,15 +53,43 @@ tagMenuImport03=名字
 tagMenuImport04=职业
 tagMenuImport05=等级
 tagMenuImport06=角色重命名：
+
 tagRDifficultyTitle01=普通
 tagRDifficultyTitle02=精英
 tagRDifficultyTitle03=终极
-tagChallengeDifficulty=老兵难度
+tagChallengeDifficulty=老兵
 tagHardcore=专家模式
 tagChallenge=老兵难度
 tagRDifficultyDesc01=完成该难度以解锁更高的难度。
 tagRDifficultyDesc02=必须完成普通难度才能解锁老兵难度。
 tagRDifficultyDesc03=必须完成老兵难度才能解锁精英难度。
+tagDifficultyTitleSet=Choose Difficulty:
+tagDifficultyTitleShow=Difficulties Available to Join:
+tagDifficultyNormal=Normal Difficulty
+tagDifficultyNormalVeteran=Veteran Difficulty
+tagDifficultyElite=Elite Difficulty
+tagDifficultyUltimate=Ultimate Difficulty
+tagDifficultyJoinNormal=Normal Difficulty Only
+tagDifficultyJoinElite=Up to Elite Difficulty
+tagDifficultyJoinUltimate=Up to Ultimate Difficulty
+tagDifficultyJoinAny=Any Difficulty
+
+tagPlayOptionsAccept=Accept
+tagPlayOptionsCancel=Cancel
+tagPlayGameModeCampaign=Main Campaign
+tagPlayGameModeCustom=Custom Game
+tagPlayGameModeSurvival=Survival Mode
+
+tagGameStateInit=Initializing...
+tagGameStateLoading=Loading...
+tagGameStateStarting=Starting Game...
+tagGameStateConnecting=Connecting to Server...
+tagGameStateData=Waiting for Server...
+
+#
+# Options
+#
+
 tagGameplayTitle=基本设置
 tagGameplayDesc01=在游戏中显示帮助窗口。
 tagGameplayDesc02=激活使用交易窗口时的右键售出功能。
@@ -176,10 +212,14 @@ tagAudioOption08=更频繁
 tagAudioOption09=开启环境音效
 tagAudioOption10=开启硬件混音
 tagAudioOption11=环境音效音量
+tagSoundDevice=Audio Device
 tagSpeakerSetup=扬声器设置
 tagHeadphoneSpeakers=耳机
-tag41Speakers=四声道环绕
-tag51Speakers=5.1声道
+tagStereoSpeakers=立体声
+tagQuadraphonicSpeakers=四声道立体声
+tagSurroundSpeakers=环绕声
+tag51Speakers=5.1声道环绕声
+tag71Speakers=7.1声道环绕声
 tagVideoTitle=视频
 tagVideoResolution01=800 x 600
 tagVideoResolution02=1024 x 768
@@ -226,6 +266,46 @@ tagVideoOptionDepthOfField=景深
 tagVideoOptionSoftParticles=柔和粒子
 tagVideoOptionUIScale=界面调整
 
+tagNetworkTitle=Network
+tagUpnpTitle=UPnP:
+tagUpnpStatus=UPnP Status:
+tagUpnpAvailable=Available
+tagUpnpNotAvailable=Not Available
+tagUpnpHelp=Help
+tagUpnpControl=Enable UPnP
+tagNetworkStatusTitle=Network Status:
+tagNetworkStatusTest=Test
+tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
+tagCloudSaving=Enable Cloud Saving
+tagResetCloud=Delete Cloud Saves
+
+tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
+
+tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
+
+tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
+tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
+
+tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
+
+tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
+
+tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
+
+tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
+
+tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
+
+tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
+
+tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
+
+tagIPTesting=Testing Configuration...
+tagIPLocalPublic=Public IP reported by your router:
+tagIPExternalPublic=Public IP visible to the Internet:
+tagIPInvalid=<Unable to obtain address>
+
+
 tagMultiplayer01=游戏房间名称
 tagMultiplayer02=难度
 tagMultiplayer03=地图
@@ -233,13 +313,13 @@ tagMultiplayer04=玩家
 tagMultiplayer05=Ping值
 tagMultiplayer06=概述
 tagMultiplayer07=房间名称过滤：
-tagMultiplayer08=隐藏：
 tagMultiplayer09=不可用的地图
 tagMultiplayer10=隐藏已满的游戏房间
 tagMultiplayer11=隐藏已锁的游戏房间
 tagMultiplayer12={%d0}/{%d1} 
 tagMultiplayer13={%d0}小时{%d1}分{%d2}秒
 tagMultiplayer14=上锁的
+tagMultiplayer15=版本
 
 tagMultiStats01=地图：
 tagMultiStats02=玩家：{%d0}/{%d1}
@@ -265,12 +345,13 @@ tagMenuError18=无法连接，该房间已满。
 tagMenuError19=无法连接，你的人物还没有解锁该难度。
 tagMenuError20=无效的密码。
 tagMenuError21=该房间需要自定义地图：{%t0}
+tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
+tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
 tagMenuError22=该游戏已满，请选择其他游戏房间。
 tagMenuError23=该游戏需要人物等级介于{%d0}~{%d1}之剑。请选择其他游戏房间。
 tagMenuError24=一些改动重启游戏才会生效。
 tagMenuError25=你改变了一些选项，是否应用这些改动？
 tagMenuError26=无法连接至服务器，无效的cdkey
-tagMenuError27=点击“{^y}刷新{^w}”以显示可用的服务器。
 tagMenuError28=无效的cdkey
 tagMenuError29=cdkey已被使用
 tagMenuError30=cdkey已被禁用
@@ -286,6 +367,7 @@ tagMenuError39=下载更新文件错误。
 tagMenuError40=无效的玩家存档。
 tagMenuError41=请插入恐怖黎明游戏原盘。
 tagMenuError42=Steam验证失败。
+tagConnectAborted=Connect Aborted.
 tagMenuWarning01=警告：这将会创建人物{%s}的副本，且复制的人物只能用于自定义游戏中。
 tagMenuWarning02=你想要重命名这个自定义人物吗？
 tagMenuWarning03=留空并点击“确定”以保留{%s}作为新角色的名字不变。
@@ -334,6 +416,7 @@ tagLobbyDifficulty=难度
 tagLobbyAutoparty=已开启自动组队
 tagLobbyLanguage=语言
 tagLobbyPVP=已开启PVP
+tagLobbyHardcore=已开启专家模式
 tagLobbyNormalDifficulty=普通难度
 tagLobbyEliteDifficulty=精英难度
 tagLobbyUltimateDifficulty=终极难度
@@ -357,7 +440,6 @@ tagLobbyDirectIP=IP地址：
 tagLobbyDirectPort=端口：
 tagLobbyDirectSave=保存
 tagLobbyDirectCancel=取消
-tagLobbyCurrentQuest=现有任务：
 tagLobbyPlayersTitle=玩家：
 tagLobbyServerTypeTitle=服务器种类：
 tagLobbyServerTypeAll=所有
@@ -381,8 +463,8 @@ tagFriendOnline=在线
 tagFriendBusy=忙碌
 tagFriendAway=离开
 tagFriendUnknown=未知状态
-tagFriendPlayingGrimDawnSP=正在离线玩恐怖黎明
-tagFriendPlayingGrimDawnMP=正在线上玩恐怖黎明
+tagFriendPlayingGrimDawnSP=游戏中（单人游戏）
+tagFriendPlayingGrimDawnMP=游戏中（多人游戏）
 tagFriendAddButton=添加好友
 tagFriendJoinGameButton=加入游戏
 
@@ -397,9 +479,16 @@ tagTQ1ModInvalid=这张地图是在一个较早版本的恐怖黎明游戏里创
 tagBrightness=亮度
 tagContrast=对比度
 tagGamma=全屏模式灰度
+tagColorblind=Color Blindness
+tagNormal=Normal
+tagProtanopia=Protanopia
+tagDeuteranopia=Deuteranopia
+tagTritanopia=Tritanopia
 
 tagOverwriteKeymap=该功能^y{%t0}^w已经被映射到^y{%t1}^w了。是否覆盖？
 tagHardDiskError=计算机硬盘空间不足，恐怖黎明可能会无法存档。释放更多硬盘空间以避免该问题。
 tagMenuError10=无法连接至服务器。Mod或者地图版本与主机不匹配。
 
-tagReportUsageStats=欢迎试玩恐怖黎明早期先行版。{^n}是否定期发送匿名数据以便帮助我们改进恐怖黎明？
+tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
+tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
+tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?

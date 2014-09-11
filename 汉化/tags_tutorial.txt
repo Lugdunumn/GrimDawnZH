@@ -3,6 +3,8 @@ tagTutorialRollOver=选中此框来禁用教程界面。一旦禁用{^n}{^n}可�
 tagTutorialOf=of
 tagTutorialDisable=禁用教程提示
 
+tagTutorialTip06Title=Untouched Meal
+tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
 
 tagTutorialTip08Title=欢迎来到恐怖黎明
 tagTutorialTip08TextA=再 次 感 谢 支 持 我 们 并 帮 助 改 进 恐 怖 黎 明 ！ 我 们 希 望 你 享 受 游 戏 这 部 分 开 始 的 内 容 。 请 记 住 这 只 是 由 七 个 人 的 工 作 室 制 作 的 预 览 版 本 。 你 将 会 遇 到 b u g 、 未 完 成 的 特 色 内 容 和 大 约 只 有 游 戏 的 第 一 章 第 二 章 和 第 三 章 的 情 况 。 我 们 欢 迎 你 们 在 论 坛 www.grimdawn.com 反 馈 bug 和 游 戏 体 验 。
@@ -80,6 +82,17 @@ tagTutorialTip24Title=死亡
 tagTutorialTip24TextA=当 你 的 生 命 为 0 时 ， 你 的 角 色 会 死 亡 。{^n}{^n}利 用 好 你 的 角 色 的 快 速 生 命 恢 复 ， 它 将 在 脱 离 战 斗 一 定 时 间 后 激 活 。 当 那 样 也 不 够 时 ， 记 得 使 用 药 水 和 技 能 确 保 生 存 。
 tagTutorialTip24TextB=当 你 死 亡 时 ， 你 会 失 去 一 些 经 验 并 且 你 的 角 色 会 重 生 在 你 最 近 访 问 过 的 避 难 所 。 经 验 惩 罚 会 随 着 你 角 色 等 级 而 提 高 ， 但 是 你 可 以 通 过 找 回 自 己 的 墓 碑 来 恢 复 一 部 分 失 去 的 经 验 。
 
+tagTutorialTip27Title=Grim Dawn Multiplayer
+tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
+tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
+tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
+tagTutorialTip27CaptionB=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip28Title=Player Trading
+tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
+tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+
 tagTutorialTip30Title=分配你的技能
 tagTutorialTip30TextA=你 有 未 分 配 的 主 动 技 能 。 主 动 技 能 需 要 分 配 到 鼠 标 或 快 捷 栏 才 能 使 用 。
 tagTutorialTip30TextB=要 分 配 技 能 ， 在 快 捷 栏 或 右 面 的 鼠 标 按 键 栏 上 右 键 并 从 菜 单 中 选 择 一 个 技 能 。
@@ -108,7 +121,7 @@ tagTutorialTip36TextA=灵 魂 向 导 允 许 你 复 原 技 能 点 选 择 �
 tagTutorialTip36TextB=你 不 能 移 除 投 资 在 专 精 上 的 技 能 点 。 此 外 ， 你 不 能 移 除 在 延 伸 技 能 上 面 投 资 了 的 前 置 技 能 的 最 后 一 点 。
 
 tagTutorialTip37Title=走私窗口
-tagTutorialTip37TextA=走 私 犯 可 以 存 储 你 的 物 品 ， 甚 至 可 以 在 你 的 角 色 间 传 输 物 品 ! 你 可 以 在 整 个 凯 恩 世 界 能 找 到 的 任 何 走 私 犯 那 里 访 问 你 的 物 品 。
+tagTutorialTip37TextA=走 私 犯 可 以 存 储 你 的 物 品 ， 甚 至 可 以 在 你 的 角 色 间 传 输 物 品 ! 你 可 以 在 整 个 凯 恩 世 界 能 找 到 的 任 何 走 私 犯 那 里 访 问 你 的 物 品 。{^N}shift+右 键 可 以 快 速 移 动 物 品 。
 tagTutorialTip37TextB=你 可 以 通 过 点 击 扩 展 存 储 按 钮 来 扩 展 你 的 存 储 空 间 。 这 将 花 费 一 些 铁 币 。{^N}{^N}点 击 物 品 转 移 来 与 你 的 其 他 角 色 共 享 物 品 。
 
 tagTutorialTip38Tile=物品转移

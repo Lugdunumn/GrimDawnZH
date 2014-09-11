@@ -1,13 +1,13 @@
 恐怖黎明中文本地化
 ===
 
-beta19版汉化正在进行中
+beta20版汉化正在进行中
 
-所有文本均已升级至beta19，先同步或反向更新后再进行修改！
+所有文本均已升级至beta20，先同步或反向更新后再进行修改！
 
 翻译时注意使用`中文标点符号`，中文不需要留大量空格
 
-查看beta19文本变动：https://github.com/esclaveDuReve/GrimDawn/compare/beta19
+查看beta20文本变动：https://github.com/esclaveDuReve/GrimDawn/compare/master...beta20
 
 游戏版本更新时不要改动诸如ui skills uimain items creatures等后六个文件，等待英文更新完毕后再进行翻译。
 
@@ -31,4 +31,4 @@ beta19版汉化正在进行中
 
 已知需要加空格的文件：mq_ sq_ items(只有描述部分) skills（描述） storyelements（故事线）tutorial 
 
-请优先汉化怪物、装备、技能和界面，争取尽早发布第一版可用的汉化包:) 
+请优先汉化怪物、装备、技能和界面

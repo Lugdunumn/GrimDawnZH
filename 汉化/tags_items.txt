@@ -443,7 +443,7 @@ tagFocusA011=原始魔杖
 tagFocusA012=怪异魔杖
 tagFocusA014=高阶魔杖
 
-tagFocusB001=扎尔萨兰的手抄本
+tagFocusB001=扎尔泽兰的手抄本
 tagFocusB001Desc=“写 满 了 各 种 为 神 奉 献 无 信 仰 者 的 火 焰 邪 术 。”
 tagFocusB002=罗德拉西斯的宝典
 tagFocusB002Desc=“书 中 那 令 人 发 狂 ， 产 生 恨 意 的 词 句 令 你 感 到 寒 心 彻 骨 。”
@@ -1107,7 +1107,7 @@ tagNecklaceC019Desc=“只 要 瞥 上 一 眼 ， 你 就 会 产 生 想 将 �
 tagNecklaceC020=Stormcaller's Gem
 tagNecklaceC021=Blightshard Amulet
 tagNecklaceC022=Shieldmaiden's Guard
-tagNecklaceC023=Frozen Core
+tagNecklaceC023=冰封之心
 tagNecklaceC024=Amulet of Scorched Earth
 tagNecklaceC025=Plaguemancer's Amulet
 tagNecklaceC026=Cerulean Shard
@@ -2374,17 +2374,17 @@ tagSuffixB040_Sh_A=腐化之
 
 #ItemSkills 物品技能
 
-tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时生效)
-tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时生效)
-tagAutoSkillCondition03= ({%d0}% 的几率在攻击时生效)
-tagAutoSkillCondition04= ({%d0}% 的几率在受到物理攻击时生效)
-tagAutoSkillCondition05= ({%d0}% 的几率在受到远程攻击时生效)
-tagAutoSkillCondition06= ({%d0}% 的几率在施放增益效果时生效)
-tagAutoSkillCondition07= ({%d0}% 的几率在攻击时生效)
+tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时施放)
+tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时施放)
+tagAutoSkillCondition03= ({%d0}% 的几率在攻击时施放)
+tagAutoSkillCondition04= ({%d0}% 的几率在受到物理攻击时施放)
+tagAutoSkillCondition05= ({%d0}% 的几率在受到远程攻击时施放)
+tagAutoSkillCondition06= ({%d0}% 的几率在施放增益效果时施放)
+tagAutoSkillCondition07= ({%d0}% 的几率在攻击时施放)
 tagAutoSkillCondition08= (装备时生效)
-tagAutoSkillCondition09= ({%d0}% 的几率在受到致命伤害时生效)
-tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时生效)
-tagAutoSkillCondition11= ({%d0}% 的几率在格挡时生效)
+tagAutoSkillCondition09= ({%d0}% 的几率在受到致命伤害时施放)
+tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时施放)
+tagAutoSkillCondition11= ({%d0}% 的几率在格挡时施放)
 
 
 #LootChests 宝箱

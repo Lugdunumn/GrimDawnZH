@@ -20,7 +20,7 @@ tagMenuButton10=刷新
 tagMenuChar={%d0} ~ {%d1}
 
 # Temporary popup message for alpha multiplayer build warning
-tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+tagMenuMPWarning=欢 迎 加 入 多 人 游 戏 测 试 ！ 警 告 ： 测 试 期 间 ， 你 会 遇 到 bug ， 游 戏 崩 溃 和 性 能 问 题 。 请 到 恐 怖 黎 明 论 坛 反 馈 这 些 问 题 。
 
 #
 # Play Menu
@@ -63,28 +63,28 @@ tagChallenge=老兵难度
 tagRDifficultyDesc01=完成该难度以解锁更高的难度。
 tagRDifficultyDesc02=必须完成普通难度才能解锁老兵难度。
 tagRDifficultyDesc03=必须完成老兵难度才能解锁精英难度。
-tagDifficultyTitleSet=Choose Difficulty:
-tagDifficultyTitleShow=Difficulties Available to Join:
-tagDifficultyNormal=Normal Difficulty
-tagDifficultyNormalVeteran=Veteran Difficulty
-tagDifficultyElite=Elite Difficulty
-tagDifficultyUltimate=Ultimate Difficulty
-tagDifficultyJoinNormal=Normal Difficulty Only
-tagDifficultyJoinElite=Up to Elite Difficulty
-tagDifficultyJoinUltimate=Up to Ultimate Difficulty
-tagDifficultyJoinAny=Any Difficulty
+tagDifficultyTitleSet=选择难度：
+tagDifficultyTitleShow=可加入难度：
+tagDifficultyNormal=普通难度
+tagDifficultyNormalVeteran=老兵难度
+tagDifficultyElite=精英难度
+tagDifficultyUltimate=终极难度
+tagDifficultyJoinNormal=只加入普通难度
+tagDifficultyJoinElite=精英难度以下
+tagDifficultyJoinUltimate=终极难度以下
+tagDifficultyJoinAny=所有难度
 
-tagPlayOptionsAccept=Accept
-tagPlayOptionsCancel=Cancel
-tagPlayGameModeCampaign=Main Campaign
-tagPlayGameModeCustom=Custom Game
-tagPlayGameModeSurvival=Survival Mode
+tagPlayOptionsAccept=接受
+tagPlayOptionsCancel=取消
+tagPlayGameModeCampaign=主线剧情
+tagPlayGameModeCustom=自定义游戏
+tagPlayGameModeSurvival=生存模式
 
-tagGameStateInit=Initializing...
-tagGameStateLoading=Loading...
-tagGameStateStarting=Starting Game...
-tagGameStateConnecting=Connecting to Server...
-tagGameStateData=Waiting for Server...
+tagGameStateInit=初始化中……
+tagGameStateLoading=读取中……
+tagGameStateStarting=开始游戏……
+tagGameStateConnecting=正在连接至服务器……
+tagGameStateData=等待服务器……
 
 #
 # Options
@@ -266,25 +266,25 @@ tagVideoOptionDepthOfField=景深
 tagVideoOptionSoftParticles=柔和粒子
 tagVideoOptionUIScale=界面调整
 
-tagNetworkTitle=Network
-tagUpnpTitle=UPnP:
-tagUpnpStatus=UPnP Status:
-tagUpnpAvailable=Available
-tagUpnpNotAvailable=Not Available
-tagUpnpHelp=Help
-tagUpnpControl=Enable UPnP
-tagNetworkStatusTitle=Network Status:
-tagNetworkStatusTest=Test
-tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
-tagCloudSaving=Enable Cloud Saving
-tagResetCloud=Delete Cloud Saves
+tagNetworkTitle=网络
+tagUpnpTitle=UPnP协议:
+tagUpnpStatus=UPnP协议状态：
+tagUpnpAvailable=可用
+tagUpnpNotAvailable=不可用
+tagUpnpHelp=帮助
+tagUpnpControl=激活UPnP
+tagNetworkStatusTitle=网络状态：
+tagNetworkStatusTest=测试
+tagNetworkNoOpts=游 戏 中 网 络 选 项 是 不 可 用 的 。 {^n} 请 退 出 到 主 菜 单 再 打 开 网 络 选 项 。
+tagCloudSaving=开启云存档
+tagResetCloud=删除云存档
 
-tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
+tagUPnPCheckFail=UPnP 服 务 无 法 设 置 你 的 路 由 器 以 搭 建 一 个 恐 怖 黎 明 服 务 器 。 请 检 查 你 的 路 由 器 设 置 并 开 启 UPnP ， 或 者 如 果 不 行 的 话 ， 手 动 设 置 你 的 路 由 器 ， 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 。
 
-tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
+tagUPnPNotAvailableHelp=UPnP 不 可 用 。 恐 怖 黎 明 无 法 将 你 的 路 由 器 自 动 设 置 成 英 特 网 服 务 器 。 请 检 查 你 的 路 由 器 设 置 并 开 启 UPnP 或 者 手 动 设 置 你 的 路 由 来 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 。
 
-tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
-tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
+tagUPnPEnabledHelp=已 开 启UPnP， 不 需 要 手 动 设 置 。
+tagUPnPDisabledHelp=已 开 启UPnP。 你 的 路 由 器 上 必 须 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 才 能 搭 建 一 个 恐 怖 黎 明 的 服 务 器 。
 
 tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
 
@@ -300,10 +300,10 @@ tagIPCheckUnable=Unable to test network configuration.  This check requires that
 
 tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
 
-tagIPTesting=Testing Configuration...
-tagIPLocalPublic=Public IP reported by your router:
-tagIPExternalPublic=Public IP visible to the Internet:
-tagIPInvalid=<Unable to obtain address>
+tagIPTesting=正在检测设置……
+tagIPLocalPublic=路由器的公共IP地址：
+tagIPExternalPublic=互联网网可见的公共IP地址：
+tagIPInvalid=<无法获得地址>
 
 
 tagMultiplayer01=游戏房间名称
@@ -345,8 +345,8 @@ tagMenuError18=无法连接，该房间已满。
 tagMenuError19=无法连接，你的人物还没有解锁该难度。
 tagMenuError20=无效的密码。
 tagMenuError21=该房间需要自定义地图：{%t0}
-tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
-tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
+tagMenuError21a=此 游 戏 房 间 使 用 了 一 个 不 匹 配 的 游 戏 模 式 。 你 的 游 戏 模 式 ： "{%s0"} ， 服 务 器 的 模 式 ： "{%s1}"
+tagMenuError21b=专 家 模 式 和 非 专 家 模 式 的 玩 家 不 能 在 一 起 进 行 游 戏 。 请 选 择 其 他 的 游 戏 房 间 。
 tagMenuError22=该游戏已满，请选择其他游戏房间。
 tagMenuError23=该游戏需要人物等级介于{%d0}~{%d1}之剑。请选择其他游戏房间。
 tagMenuError24=一些改动重启游戏才会生效。
@@ -367,7 +367,7 @@ tagMenuError39=下载更新文件错误。
 tagMenuError40=无效的玩家存档。
 tagMenuError41=请插入恐怖黎明游戏原盘。
 tagMenuError42=Steam验证失败。
-tagConnectAborted=Connect Aborted.
+tagConnectAborted=连接中断。
 tagMenuWarning01=警告：这将会创建人物{%s}的副本，且复制的人物只能用于自定义游戏中。
 tagMenuWarning02=你想要重命名这个自定义人物吗？
 tagMenuWarning03=留空并点击“确定”以保留{%s}作为新角色的名字不变。
@@ -479,16 +479,16 @@ tagTQ1ModInvalid=这张地图是在一个较早版本的恐怖黎明游戏里创
 tagBrightness=亮度
 tagContrast=对比度
 tagGamma=全屏模式灰度
-tagColorblind=Color Blindness
-tagNormal=Normal
-tagProtanopia=Protanopia
-tagDeuteranopia=Deuteranopia
-tagTritanopia=Tritanopia
+tagColorblind=色盲
+tagNormal=正常
+tagProtanopia=红色盲
+tagDeuteranopia=绿色盲
+tagTritanopia=蓝色盲
 
 tagOverwriteKeymap=该功能^y{%t0}^w已经被映射到^y{%t1}^w了。是否覆盖？
 tagHardDiskError=计算机硬盘空间不足，恐怖黎明可能会无法存档。释放更多硬盘空间以避免该问题。
 tagMenuError10=无法连接至服务器。Mod或者地图版本与主机不匹配。
 
-tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
-tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
-tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
+tagReportUsageStats=是否定性发送匿名的系统和游戏信息以帮助我们改进恐怖黎明？
+tagImportToSteamCloud=已激活Steam云存档S功能。是否导入现有人物？
+tagResetCloudWarning=你确定要删除云存档中的所有人物和数据吗？

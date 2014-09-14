@@ -29,6 +29,5 @@ beta20版汉化正在进行中
 
 在线加空格工具：http://yojigen-pocket.blogspot.fr/p/space.html
 
-已知需要加空格的文件：mq_ sq_ items(只有描述部分) skills（描述） storyelements（故事线）tutorial 
 
 请优先汉化怪物、装备、技能和界面

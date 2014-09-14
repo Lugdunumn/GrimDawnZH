@@ -1,20 +1,20 @@
-Oscar
-Now that the outlaws are leaving us alone, I wonder who will keep the beasts out...
-You can join us in Devil's Crossing.
-Hah! I'm not leaving my father's home for some run down prison. We'll get by. We always do.
-Very well.
-Take care.
-You should have been here when the news came. Never saw Silas move so fast in my life. Well done giving that Cronley bastard what he deserved.
-Wish I had seen it.
-Leave us alone. You've caused enough harm already.
-I did the right thing. You'll see.
-You fool! Silas' gang won't stand for this. You've doomed us all!
-This extortion had to end. I did what I had to.
-You fool! Silas is not going to stand for this, and neither will the rest of his gang. You've doomed us all!
-This extortion had to end. I did what I had to.
-We can't thank you enough, stranger. It would have been bad for us if we'd failed to meet our quota.{^n}{^n}You have to understand though, it's true we've suffered indignity and some brutality at the hands of these thugs but all the same, we're alive. It is the price of protection in these terrible times that we are at the mercy of such men. Without them though, I'm sure we'd be dead by now.
-You're welcome. Goodbye.
-Alicia tells me that you're going to help us get some scrap. I'm sorry if I misjudged you but it's a delicate situation here with the outlaws and we don't want to provoke them.
-I'll do what I can to help ease the tension.
-What do you want? Look, I don't mean to be rude but we don't need another drifter hanging around causing trouble. It would be best if you'd please just continue on your way.
-Just passing through. Farewell.
+奥 斯 卡
+现 在 不 法 之 徒 不 会 来 骚 扰 我 们 了 ， 我 想 知 道 谁 来 驱 赶 野 兽 呢 … …
+你 可 以 去 魔 鬼 路 口 加 入 我 们 。
+嘿 ！ 我 才 不 会 离 开 我 父 亲 的 房 子 去 什 么 破 监 狱 呢 。 我 们 会 挺 过 去 的 ， 一 直 如 此 。 
+好 吧 。
+保 重 。
+消 息 传 来 的 时 候 可 惜 你 没 在 这 儿 ， 我 这 辈 子 都 没 见 过 塞 拉 斯 跑 得 那 么 快 。 解 决 了 克 隆 利 那 个 畜 生 实 在 是 太 好 了 。
+我 希 望 我 曾 看 到 塞 拉 斯 逃 走 的 那 一 幕 。
+离 我 们 远 点 。 你 给 我 们 惹 的 麻 烦 已 经 够 多 了 。
+我 做 我 应 该 做 的 ， 你 会 明 白 的 。
+你 个 蠢 货 ！ 塞 拉 斯 的 帮 派 不 会 善 罢 甘 休 的 。 你 要 害 死 我 们 所 有 人 啊 ！
+这 种 恶 性 必 须 被 制 止 。 我 做 了 该 做 的 。
+你 个 蠢 货 ！ 塞 拉 斯 不 会 善 罢 甘 休 的 ， 他 背 后 的 帮 派 就 更 不 会 了 。 你 要 害 死 我 们 所 有 人 啊 ！
+这 种 恶 性 必 须 被 制 止 。 我 做 了 该 做 的 。
+我 们 怎 么 感 谢 你 都 不 够 ， 陌 生 人 。 要 是 我 们 没 凑 够 ， 就 麻 烦 了 。 {^n}{^n} 你 得 明 白 ， 在 这 些 暴 徒 手 下 我 们 确 实 遭 受 了 侮 辱 和 暴 行 ， 但 是 我 们 还 活 着 。 受 这 些 人 奴 役 ， 这 就 是 身 处 这 个 糟 糕 的 时 代 。 没 有 他 们 的 话 ， 我 相 信 我 们 现 在 已 经 不 在 人 世 了 。
+不 用 谢 ， 再 见 。
+艾 丽 西 亚 告 诉 我 你 要 帮 我 们 寻 找 废 铁 。 我 抱 歉 我 错 怪 了 你 ， 但 是 由 于 这 儿 的 人 和 不 法 之 徒 之 间 孱 弱 的 关 系 ， 我 们 可 不 想 惹 毛 了 他 们 。
+我 会 做 我 力 所 能 及 的 事 来 帮 助 缓 解 紧 张 的 局 势 。
+你 想 干 嘛 呢 ？ 我 无 意 冒 犯 但 是 我 们 可 欢 迎 一 个 四 处 找 麻 烦 的 流 浪 汉 。 最 好 你 走 你 的 ， 继 续 赶 路 吧 。
+我 只 是 路 过 这 里 ， 再 见 。

@@ -200,6 +200,7 @@ tagWeaponGun1hC015=伯尔维治的和平卫士
 tagWeaponGun1hC015Desc=“警 长 哈 蒙 · 格 里 菲 斯 的 可 靠 配 枪 。”
 tagWeaponGun1hC016=曼海尔的忏悔
 tagWeaponGun1hC017=毁誓枪
+tagWeaponGun1hC018=Corpseflayer
 
 tagWeaponGun1hD001=惡魔之舌
 tagWeaponGun1hD002=浩劫
@@ -234,13 +235,14 @@ tagWeaponGun2hC002Desc=“ 一 击 必 杀 。”
 tagWeaponGun2hC003=深渊猎枪
 tagWeaponGun2hC004=恶魔印记
 tagWeaponGun2hC005=命运之意志
-tagWeaponGun2hC005Desc=“每 一 发 子 弹 都 注 定 会 碰 上 它 真 正 的 目 标 。”
+tagWeaponGun2hC005Desc=“每 一 发 子 弹 都 注 定 会 找 上 它 真 正 的 目 标 ， 不 论 是 谁 挡 住 了 它 的 去 路 。”
 tagWeaponGun2hC006=猩红神射手
 tagWeaponGun2hC007=盐核之枪
 tagWeaponGun2hC007Desc=“一 支 为 了 消 灭 虚 灵 而 组 装 起 来 的 枪 。”
 tagWeaponGun2hC008=愤怒使者
 tagWeaponGun2hC009=霹雳
 tagWeaponGun2hC010=神射手的步枪
+tagWeaponGun2hC011=硫磺连发枪
 
 tagWeaponGun2hD001=撒旦
 tagWeaponGun2hD002=巫异時刻
@@ -431,7 +433,7 @@ tagFocusA003=符文档案
 tagFocusA004=蒙皮魔法书
 tagFocusA005=魔力宝典
 tagFocusA006=秘法手抄本
-tagFocusA013=秘法手抄本
+tagFocusA013=高阶手抄本
 
 tagFocusA007=符文之骨
 tagFocusA008=恶魔傀儡
@@ -439,9 +441,9 @@ tagFocusA009=蚀刻之角
 tagFocusA010=秘文头骨
 tagFocusA011=原始魔杖
 tagFocusA012=怪异魔杖
-tagFocusA014=怪异魔杖
+tagFocusA014=高阶魔杖
 
-tagFocusB001=扎尔萨兰的手抄本
+tagFocusB001=扎尔泽兰的手抄本
 tagFocusB001Desc=“写 满 了 各 种 为 神 奉 献 无 信 仰 者 的 火 焰 邪 术 。”
 tagFocusB002=罗德拉西斯的宝典
 tagFocusB002Desc=“书 中 那 令 人 发 狂 ， 产 生 恨 意 的 词 句 令 你 感 到 寒 心 彻 骨 。”
@@ -467,6 +469,7 @@ tagFocusC010=曼海尔的圣典
 tagFocusC010Desc=“曾 由 曼 海 尔 虔 诚 的 骑 士 所 携 带 的 圣 经 。”
 tagFocusC011=暗夜
 tagFocusC012=圣约的引能宝珠
+tagFocusC013=灾疫之书
 
 tagFocusD001=魔鬼决心
 tagFocusD002=艾达娜的虚荣
@@ -567,6 +570,23 @@ tagArmorClass01=法袍
 tagArmorClass02=轻甲
 tagArmorClass03=重甲
 
+#WeaponClass
+tagOneHanded=单手武器
+tagTwoHanded=双手武器
+tagOffHand=副手
+
+#MiscClass
+tagRing=戒指
+tagAmulet=项链
+tagMedal=勋章
+tagBelt=腰带
+
+#QualityClass
+tagMagic=魔法
+tagRare=稀有
+tagEpic=史诗
+tagLegend=传奇
+
 #ArmorHead 头盔
 
 tagHeadA001=头盔
@@ -594,6 +614,8 @@ tagHeadB007=专家级兜帽
 tagHeadB008=游侠之盔
 tagHeadB009=专家级头环
 tagHeadB010=游侠之兜盔
+tagHeadB011=Haunted Circlet
+tagHeadB012=Haunted Diadem
 
 tagHeadC001=风暴召唤者的头环
 tagHeadC002=狂战士的风帽
@@ -622,6 +644,8 @@ tagHeadC020=神射手的玻璃义眼
 tagHeadC021=不结圣约的护面
 tagHeadC022=巅峰之风帽
 tagHeadC023=黎明守卫头盔
+tagHeadC024=Miasma Hood
+tagHeadC025=Eyes of Flame
 
 tagHeadD001=绝望之吼
 tagHeadD001Desc=“抬 头 看 看 我 与 绝 望 ， 因 为 你 死 期 已 至 。”
@@ -654,6 +678,10 @@ tagShoulderB004=升灵肩胄
 tagShoulderB005=凶徒肩甲
 tagShoulderB006=凶徒肩饰
 tagShoulderB007=艾萨克的肩甲
+tagShoulderB008=Haunted Mantle
+tagShoulderB009=Haunted Epaulets
+tagShoulderB010=Archmage's Mantle
+tagShoulderB011=Archmage's Epaulets
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc=“用 剃 刀 背 的 尸 体 缝 制 而 成 。”
@@ -673,6 +701,7 @@ tagShoulderC011=神射手的披风
 tagShoulderC012=不洁圣约的护肩
 tagShoulderC013=秘术典范的护肩
 tagShoulderC014=黎明守卫肩饰
+tagShoulderC015=硫磺肩甲
 
 tagShoulderD001=命运编织者披肩
 tagShoulderD001Desc=“命 运 的 股 绳 ，就 像 无 尽 的 编 织 ， 缠 绕 和 磨 损 着 人 的 岁 月 。”
@@ -713,9 +742,15 @@ tagTorsoA017C=长袍
 tagTorsoB001=谋杀者的护身甲
 tagTorsoB002=谋杀者的胸甲
 tagTorsoB003=强化紧身衣
+tagTorsoB004=Haunted Robes
+tagTorsoB005=Haunted Vestment
+tagTorsoB006=Ascended Robes
+tagTorsoB007=Ascended Vestment
+tagTorsoB008=Archmage's Robes
+tagTorsoB009=Archmage's Vestment
 
 tagTorsoC001=
-tagTorsoC002=暗夜行者护胸
+tagTorsoC002=暗夜猎人护胸
 tagTorsoC003=快枪手的夹克
 tagTorsoC004=马尔度因之衣
 tagTorsoC005=末日锻造胸甲
@@ -740,6 +775,7 @@ tagTorsoC020=神射手的外衣
 tagTorsoC021=黎明守卫板甲
 tagTorsoC022=佐尔汉的战甲
 tagTorsoC022Desc=“著 名 的 战 斗 大 师 佐 尔 汉 所 穿 过 的 战 甲 。”
+tagTorsoC023=Miasma Robes
 
 tagTorsoD001=恶魔之鳞夹克
 tagTorsoD002=魔鬼囚笼锁子甲
@@ -768,7 +804,7 @@ tagWaistA004=皮革腰带
 tagWaistA005=链甲腰带
 tagWaistA006=步兵护腰
 tagWaistA007=板甲束腰
-tagWaistA008=强袭腰带
+tagWaistA008=强袭护腰
 tagWaistA009=帝国腰带
 tagWaistA010=尊崇腰带
 
@@ -827,7 +863,7 @@ tagHandsC001=暗影之握
 tagHandsC002=狂战士的手甲
 tagHandsC003=剑舞者的护手
 tagHandsC004=法师之握
-tagHandsC005=掠夺者的速攻手套
+tagHandsC005=掠夺者的手套
 tagHandsC006=灵魂之触
 tagHandsC007=雕刻护腕
 tagHandsC008=斗士手套
@@ -841,6 +877,7 @@ tagHandsC013=曼海尔之触
 tagHandsC014=救赎护手
 tagHandsC015=黎明守卫手甲
 tagHandsC016=余烬之握
+tagHandsC017=速攻手套
 
 tagHandsD001=不羁之力
 tagHandsD001Desc=“以 奥 莱 隆 本 尊 的 凶 暴 之 力 赐 福 过 的 手 套 。”
@@ -914,7 +951,7 @@ tagFeetC003=迅捷之靴
 tagFeetC003Desc=“这 双 靴 子 似 乎 并 非 由 这 个 世 界 的 物 质 所 制 成 。”
 tagFeetC004=巨石裂地者
 tagFeetC005=探险家的裹足
-tagFeetC006=鲜血收割者之靴
+tagFeetC006=Bloodhound Greaves
 tagFeetC007=死亡行军
 tagFeetC007Desc=“每 迈 出 一 步 ， 都 有 数 千 士 兵 死 于 冥 灵 之 手 ， 这 压 在 脚 上 如 有 千 钧 之 重 。”
 tagFeetC008=裂隙魔犬皮革靴
@@ -957,6 +994,9 @@ tagRingA010=黄宝石玺戒
 tagRingA011=红宝石戒指
 tagRingA012=铭文指环
 tagRingA013=钻石玺戒
+tagRingA014=Imperial Ring
+tagRingA015=Obsidian Band
+tagRingA016=Imperial Signet
 
 tagRingB001=列丹的纪念戒指
 tagRingB001Desc=“指 环 上 磨 损 的 刻 文 写 着 ： 爱 你 的 - 艾 米 莉 亚 。”
@@ -991,6 +1031,14 @@ tagRingC019Desc=“死 亡 ……”
 tagRingC020A=阿卡莫斯的悲痛
 tagRingC020B=阿卡莫斯的折磨
 tagRingC020Desc="痛 苦 ……"
+tagRingC021=Band of Black Ice
+tagRingC022=Ring of Vile Intent
+tagRingC023=Chillsurge Ring
+tagRingC023Desc="The sapphires within this ring absorb heat with the slightest touch."
+tagRingC024=Ring of Eternal Rot
+tagRingC025=Seal of the Blazing Inferno
+tagRingC026=Sentinel's Seal
+tagRingC027=Quickening Gem
 
 tagRingD001=堕落印玺
 tagRingD002=凯法·佐斯的雕文戒指
@@ -1023,6 +1071,9 @@ tagNecklaceA010=黄宝石坠饰
 tagNecklaceA011=红宝石项链
 tagNecklaceA012=铭文项链
 tagNecklaceA013=钻石坠饰
+tagNecklaceA014=Imperial Necklace
+tagNecklaceA015=Obsidian Amulet
+tagNecklaceA016=Imperial Pendant
 
 tagNecklaceB001=腐臭项链
 tagNecklaceB001Desc=“这 枚 头 骨 外 包 着 一 层 腐 臭 的 黏 液 。”
@@ -1053,6 +1104,13 @@ tagNecklaceC017=皇冠坠饰
 tagNecklaceC018=无畏坠饰
 tagNecklaceC019=强欲
 tagNecklaceC019Desc=“只 要 瞥 上 一 眼 ， 你 就 会 产 生 想 将 这 枚 宝 石 据 为 己 有 的 强 烈 欲 望 。”
+tagNecklaceC020=Stormcaller's Gem
+tagNecklaceC021=Blightshard Amulet
+tagNecklaceC022=Shieldmaiden's Guard
+tagNecklaceC023=冰封之心
+tagNecklaceC024=Amulet of Scorched Earth
+tagNecklaceC025=Plaguemancer's Amulet
+tagNecklaceC026=Cerulean Shard
 
 tagNecklaceD001=拜斯迈的意志
 tagNecklaceD002=死亡之痕
@@ -1080,6 +1138,8 @@ tagMedalA002=徽章
 tagMedalA003=印记
 tagMedalA004=盾徽
 tagMedalA005=星章
+tagMedalA006=Imperial Crest
+tagMedalA007=Imperial Star
 
 tagMedalB001=游骑兵绶带
 tagMedalB002=游骑兵徽章
@@ -1099,6 +1159,10 @@ tagMedalC010Desc=“无 情 且 高 效 的 雇 佣 军 团 猩 红 连 队 的 
 tagMedalC011=曼海尔的符号
 tagMedalC012=不洁圣约的魔印
 tagMedalC013=无畏绶带
+tagMedalC014=Enchanter's Insignia
+tagMedalC015=Heretic's Sigil
+tagMedalC016=Tempest Sigil
+tagMedalC017=Mark of the False Gods
 
 tagMedalD001=变节者的印记
 tagMedalD001Desc=“曾 是 异 教 徒 强 制 性 的 标 志 ， 但 后 来 巫 师 的 追 随 者 们  以 以  为 傲 。”
@@ -1178,12 +1242,20 @@ tagBlueprint_ComponentA08=设计图：符文石
 tagBlueprint_ComponentA09=设计图：圣骨
 tagBlueprint_ComponentA10=设计图：尖刺外壳
 tagBlueprint_ComponentA11=设计图：复仇之魂
+tagBlueprint_ComponentA12=Blueprint: Wardstone
+tagBlueprint_ComponentA13=Blueprint: Silk Swatch
+tagBlueprint_ComponentA14=Blueprint: Scaly Hide
+tagBlueprint_ComponentA15=Blueprint: Purified Salt
+tagBlueprint_ComponentA16=Blueprint: Hollowed Fang
+tagBlueprint_ComponentA17=Blueprint: Imbued Silver
+tagBlueprint_ComponentA18=Blueprint: Blessed Whetstone
 tagBlueprint_ComponentC01=设计图：奥莱隆之血
 tagBlueprint_ComponentC02=设计图：贝若纳斯的鳞片
 tagBlueprint_ComponentC03=设计图：秘法火花
 tagBlueprint_ComponentC04=设计图：棱光钻石
 tagBlueprint_ComponentC05=设计图：附魂钢铁
 tagBlueprint_ComponentC06=设计图：莫格卓根的印记
+tagBlueprint_ComponentC07=Blueprint: Silvercore Bolts
 
 
 tagBlueprint_WaistB001=设计图：赏金猎人腰带
@@ -1252,10 +1324,10 @@ tagBlueprint_MaterialA01=设计图：虚化集簇
 
 #Relics 遗物
 
-tagDeviceBonus=完整部件奖励：
-tagDeviceTier01=灌魔
-tagDeviceTier02=卓越
-tagDeviceTier03=神话
+tagDeviceBonus=完整部件奖励
+tagDeviceTier01=灌魔遗物
+tagDeviceTier02=卓越遗物
+tagDeviceTier03=神话遗物
 
 tagRelicB001=灾虐
 tagRelicB001Desc=“肆 意 破 坏 。”
@@ -1461,6 +1533,14 @@ tagConsumableBlueprintA15=配方：虚空药剂
 tagConsumableBlueprintA15Desc=“一 种 冥 神 的 信 徒 们 常 常 使 用 的 药 剂 ， 使 用 后 能 更 接 近 他 们 的 神 祇 。”
 tagConsumableBlueprintA16=配方：追猎药剂
 tagConsumableBlueprintA16Desc=“猎 人 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
+tagConsumableBlueprintA17=Recipe: Royal Jelly Extract
+tagConsumableBlueprintA18=Recipe: Royal Jelly Essence
+tagConsumableBlueprintA19=Recipe: Royal Jelly Salve
+tagConsumableBlueprintA19Desc="A secret medicinal technique of the Rovers."
+tagConsumableBlueprintA20=Recipe: Royal Jelly Ointment
+tagConsumableBlueprintA20Desc="A secret medicinal technique of the Rovers."
+tagConsumableBlueprintA21=Recipe: Celestial Bane
+tagConsumableBlueprintA21Desc="Elixir of demigods which shields mortals from divine retribution."
 
 tagConsumable_RoyalJellyBalm=蜂王浆药膏
 tagConsumable_RoyalJellyBalmDesc=“沁 人 心 脾 的 药 膏 ， 以 浓 缩 的 蜂 王 浆 制 成 。”
@@ -1496,6 +1576,16 @@ tagConsumableA15=虚空药剂
 tagConsumableA15Desc=“强 效 的 药 剂 ， 蕴 含 着 邪 恶 的 血 魔 法 。”
 tagConsumableA16=追猎药剂
 tagConsumableA16Desc=“猎 人 和 刺 客 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
+tagConsumableA17=Royal Jelly Extract
+tagConsumableA17Desc="A concentrated form of Royal Jelly which sharpens the mind."
+tagConsumableA18=Royal Jelly Essence
+tagConsumableA18Desc="A revitalizing tonic made from wasp Royal Jelly."
+tagConsumableA19=Royal Jelly Salve
+tagConsumableA19Desc="A soothing concoction made from concentrated Royal Jelly."
+tagConsumableA20=Royal Jelly Ointment
+tagConsumableA20Desc="A soothing concoction made from concentrated Royal Jelly."
+tagConsumableA21=Celestial Bane
+tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retribution."
 
 
 #ItemNote 阅读记录
@@ -1512,8 +1602,9 @@ tagEnchantmentUnusable=[无法使用 - 未满足需求]
 #ItemComponents 部件
 
 tagComponentIncomplete=部件碎片
-tagComponentComplete=完整部件
+tagComponentComplete=部件
 tagComponentNumber={%s0 - %d1 / %d2}
+tagComponentNumberRare={%s0} {%s1 - %d2 / %d3}
 tagComponentBonus=完整奖励：
 tagComponentQualities=部件品质：
 tagComponentHelp=[右键点击以镶嵌或组合]
@@ -1704,6 +1795,9 @@ tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， �
 tagCompA061Name=恶性毒物
 tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n( 用 于 所 有 护 甲 )
 
+tagCompA062Name=Reinforced Shell
+tagCompA062Desc="A nearly impervious shell made all the more formidable by a series of razor sharp spines."^w^n(Used in shields)
+
 
 tagCompB001Name=^k拜斯迈之缚
 tagCompB001Desc=“俾 斯 麦 尔 的 巫 女 组 织 运 用 魔 法 编 织 出 的 缚 魂 之 物 ， 用 来 加 强 对 召 唤 生 物 的 控 制 。”^w^n( 用 于 胸 甲 )
@@ -1807,7 +1901,7 @@ tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[当选取时，右键点击以合并堆叠]
 
 # Bonuses 奖励
-
+tagBonusLifePercentPercent={^E}Restores {^H}{%.0f0}% {^E}Health {^H}+{%.0f1}% {^E}Over Time
 tagBonusLifePercentAbs={^E}回复 {^H}{%.0f0}% + {%.0f1} {^E}生命
 tagBonusLifePercent={^E}回复 {^H}{%.0f0}% {^E}的生命
 tagBonusLifeAbs={^E}回复 {^H}{%.0f0} {^E}生命
@@ -1876,6 +1970,12 @@ tagItemSetC017Desc=“仅 被 对 曼 海 尔 的 神 圣 信 仰 最 为 狂 �
 tagItemSetC018Name=阿卡莫斯之怒
 tagItemSetC018Desc=“安 克 维 亚 的 行 刑 者 领 主 阿 卡 莫 斯 的 魔 印 。”
 
+tagItemSetC019Name=Miasma
+tagItemSetC019Desc="Regalia worn by Dreeg's Chosen."
+
+tagItemSetC020Name=硫磺
+tagItemSetC020Desc="Armor and weapon carried by the devout of Ulzuin."
+
 tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc=“曼 海 尔 的 卫 士 中 的 大 审 判 官 ， 沉 默 的 霍 瓦 德 的 盔 甲 。”
 
@@ -1933,6 +2033,7 @@ tagPrefixAA017=征服者的
 tagPrefixAA018=漫游者的
 
 tagPrefixAA019=坚韧
+tagPrefixAA020=鼓舞
 
 tagPrefixAD001=铁壁
 tagPrefixAD002=绝缘
@@ -1961,6 +2062,12 @@ tagPrefixAD024=融雪
 tagPrefixAD025=耐久
 tagPrefixAD026=弥新
 tagPrefixAD027=铁壁
+tagPrefixAD028=Tough
+tagPrefixAD029=Everlasting
+tagPrefixAD030=Unbreakable
+tagPrefixAD031=Adamant
+tagPrefixAD032=Staunch
+
 
 tagPrefixAO001=优质
 tagPrefixAO002=碾压
@@ -1999,6 +2106,9 @@ tagPrefixB019_WpnMelee1h_A=虚火
 tagPrefixB020_WpnMelee1h_A=邪恶
 tagPrefixB021_WpnMelee1h_A=穿心
 tagPrefixB022_WpnMelee1h_A=狂怒
+tagPrefixB023_WpnMelee1h_A=Glacial
+tagPrefixB024_WpnMelee1h_A=Thunderstruck
+tagPrefixB025_WpnMelee1h_A=Rimefrost
 
 tagPrefixB001_Ar_A=天体
 tagPrefixB002_Ar_A=暴怒
@@ -2029,9 +2139,11 @@ tagPrefixB026_Ar_A=割喉
 tagPrefixB027_Ar_A=放血
 tagPrefixB028_Ar_A=石肤
 tagPrefixB029_Ar_A=将军
+tagPrefixB030_Ar_A=Glacial
+tagPrefixB031_Ar_A=Thunderstruck
 
 tagPrefixB001_Class_A=突击司令的
-tagPrefixB002_Class_A=巫师之人刃的
+tagPrefixB002_Class_A=巫师之刃的
 tagPrefixB003_Class_A=剑术大师的
 tagPrefixB004_Class_A=战斗法师的
 tagPrefixB005_Class_A=烈焰术士的
@@ -2113,9 +2225,9 @@ tagSuffixA040=尖刺之
 tagSuffixA041=愈合之
 tagSuffixA042=复苏之
 tagSuffixA043=玄武之
-tagSuffixA044=狼獾之
-tagSuffixA045=獾皮之
-tagSuffixA046=蛇人之
+tagSuffixA044=狼之
+tagSuffixA045=獾之
+tagSuffixA046=蛇之
 tagSuffixA047=沧海之
 tagSuffixA048=山岳之
 
@@ -2130,6 +2242,7 @@ tagSuffixA056=废土之
 tagSuffixA057=沼泽之
 tagSuffixA058=狂风之
 tagSuffixA059=幽魂之
+tagSuffixA060=of Spellweaving
 
 tagSuffixB001_Wpn_A=爆炎之
 tagSuffixB002_Wpn_A=疯狂之
@@ -2158,6 +2271,17 @@ tagSuffixB024_Wpn_A=元素之
 tagSuffixB025_Wpn_A=缚魂之
 tagSuffixB026_Wpn_A=折磨之
 tagSuffixB027_Wpn_A=破暗之
+tagSuffixB028_Wpn_A=of the Winter Storm
+tagSuffixB029_Wpn_A=of Squalls
+tagSuffixB030_Wpn_A=飓风之
+tagSuffixB031_Wpn_A=of Arcane Balance
+tagSuffixB032_Wpn_A=of the Flamecaller
+tagSuffixB033_Wpn_A=of the Arcane Blaze
+tagSuffixB034_Wpn_A=of Voidfire
+tagSuffixB035_Wpn_A=of Fallen Skies
+tagSuffixB036_Wpn_A=索拉尔的怨恨之
+tagSuffixB037_Wpn_A=of Shattered Reality
+tagSuffixB038_Wpn_A=of the Cabal
 
 tagSuffixB001_Ar_A=奥术之
 tagSuffixB002_Ar_A=曼海尔的壁垒之
@@ -2194,8 +2318,20 @@ tagSuffixB032_Ar_A=洞察之
 tagSuffixB033_Ar_A=荒芜之
 tagSuffixB034_Ar_A=生存之
 tagSuffixB035_Ar_A=君王之
+tagSuffixB036_Ar_A=of Destruction
+tagSuffixB037_Ar_A=of Amarasta's Flurry
+tagSuffixB038_Ar_A=of Maiven's Wit
+tagSuffixB039_Ar_A=of the Winter Storm
+tagSuffixB040_Ar_A=of Squalls
+tagSuffixB041_Ar_A=of Arcane Balance
+tagSuffixB042_Ar_A=of the Arcane Blaze
+tagSuffixB043_Ar_A=of Voidfire
+tagSuffixB044_Ar_A=of Fallen Skies
+tagSuffixB045_Ar_A=of Shattered Reality
+tagSuffixB046_Ar_A=of the Cabal
+tagSuffixB047_Ar_A=of Blight
 
-tagSuffixB001_Sh_A=不朽之
+tagSuffixB001_Sh_A=of Redoubt
 tagSuffixB002_Sh_A=勇气之
 tagSuffixB003_Sh_A=防御者之
 tagSuffixB004_Sh_A=神谕之
@@ -2207,7 +2343,7 @@ tagSuffixB009_Sh_A=激流之
 tagSuffixB010_Sh_A=枯萎之
 tagSuffixB011_Sh_A=污染者之
 tagSuffixB012_Sh_A=憎恶之
-tagSuffixB013_Sh_A=腐化之
+tagSuffixB013_Sh_A=索拉尔的怨恨之
 tagSuffixB014_Sh_A=复仇之
 tagSuffixB015_Sh_A=圣贤之
 tagSuffixB016_Sh_A=守卫之
@@ -2223,20 +2359,32 @@ tagSuffixB025_Sh_A=折磨之
 tagSuffixB026_Sh_A=流沙之
 tagSuffixB027_Sh_A=死寒之
 tagSuffixB028_Sh_A=风暴之
+tagSuffixB029_Sh_A=of Conflagration
+tagSuffixB030_Sh_A=of the Winter Storm
+tagSuffixB031_Sh_A=of Squalls
+tagSuffixB032_Sh_A=of Immortality
+tagSuffixB033_Sh_A=of Arcane Balance
+tagSuffixB034_Sh_A=of the Flamecaller
+tagSuffixB035_Sh_A=of the Arcane Blaze
+tagSuffixB036_Sh_A=of Voidfire
+tagSuffixB037_Sh_A=of Fallen Skies
+tagSuffixB038_Sh_A=of Shattered Reality
+tagSuffixB039_Sh_A=of the Cabal
+tagSuffixB040_Sh_A=腐化之
 
 #ItemSkills 物品技能
 
-tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时生效)
-tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时生效)
-tagAutoSkillCondition03= ({%d0}% 的几率在攻击时生效)
-tagAutoSkillCondition04= ({%d0}% 的几率在受到物理攻击时生效)
-tagAutoSkillCondition05= ({%d0}% 的几率在受到远程攻击时生效)
-tagAutoSkillCondition06= ({%d0}% 的几率在施放增益效果时生效)
-tagAutoSkillCondition07= ({%d0}% 的几率在攻击时生效)
+tagAutoSkillCondition01= ({%d0}% 的几率在生命过低时施放)
+tagAutoSkillCondition02= ({%d0}% 的几率在能量过低时施放)
+tagAutoSkillCondition03= ({%d0}% 的几率在攻击时施放)
+tagAutoSkillCondition04= ({%d0}% 的几率在受到物理攻击时施放)
+tagAutoSkillCondition05= ({%d0}% 的几率在受到远程攻击时施放)
+tagAutoSkillCondition06= ({%d0}% 的几率在施放增益效果时施放)
+tagAutoSkillCondition07= ({%d0}% 的几率在攻击时施放)
 tagAutoSkillCondition08= (装备时生效)
-tagAutoSkillCondition09= ({%d0}% 的几率在受到致命伤害时生效)
-tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时生效)
-tagAutoSkillCondition11= ({%d0}% 的几率在格挡时生效)
+tagAutoSkillCondition09= ({%d0}% 的几率在受到致命伤害时施放)
+tagAutoSkillCondition10= ({%d0}% 的几率在致命攻击时施放)
+tagAutoSkillCondition11= ({%d0}% 的几率在格挡时施放)
 
 
 #LootChests 宝箱

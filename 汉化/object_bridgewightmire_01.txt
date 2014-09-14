@@ -1,5 +1,5 @@
 Building Site
-This bridge once connected the Wightmire to Burrwitch. If you wish to cross it, you will need to repair it first.{^n}{^n}It will take 3 Scrap and 2500 Iron Bits to repair.
+This bridge once connected the Wightmire to Burrwitch. If you wish to cross it, you will need to repair it first. If you cannot, you must brave the dangers of the Flooded Passage nearby.{^n}{^n}It will take 3 Scrap and 2500 Iron Bits to repair.
 Not enough materials.
 Repair the Bridge to Burrwitch.
 Leave it.

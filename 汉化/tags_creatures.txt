@@ -706,7 +706,7 @@ tagZombieHoundHeroH04=Bloodhowl ~ Regenerator
 
 #CreatureReanimator 复生者
 
-tagEnemyReanimatorB01=Reanimator
+tagEnemyReanimatorB01=复生者
 tagEnemyReanimatorC01=Dominator
 
 tagReanimatorHeroH01=Aethoran, the Plaguebearer ~ Diseased
@@ -748,7 +748,7 @@ tagEnemySummonChthonianMinion=萨拉查的先锋
 tagEnemySummonDariusAetherCrystal=不稳定的虚化编队
 tagEnemySummonRifthound=蓝色裂隙魔犬
 tagEnemySummonObsidianCluster=Obsidian Cluster
-tagEnemySummonRaven=Raven
+tagEnemySummonRaven=风暴巨鸦
 tagEnemySummonAetherTrap=Aether Trap
 
 #Boss&Quest
@@ -768,13 +768,13 @@ tagRace003=虚灵
 tagRace004=冥灵
 tagRace005=虚灵的腐朽仆从
 tagRace006=血誓
-tagRace007=Eldritch
+tagRace007=邪术生物
 tagRace008=昆虫族
 tagRace009=人类
 tagRace010=结构体
 tagRace011=裂隙生物
 tagRace012=野兽
-tagRace013=Magical
+tagRace013=魔法生物
 tagRace001P=亡灵
 tagRace014=天神
 tagRace002P=兽人
@@ -782,11 +782,11 @@ tagRace003P=虚灵
 tagRace004P=冥灵
 tagRace005P=虚灵的腐朽仆从
 tagRace006P=血誓
-tagRace007P=Eldritch
+tagRace007P=邪术生物
 tagRace008P=昆虫族
 tagRace009P=人类
 tagRace010P=结构体
 tagRace011P=裂隙生物
 tagRace012P=野兽
-tagRace013P=Magical
+tagRace013P=魔法生物
 tagRace014P=天神

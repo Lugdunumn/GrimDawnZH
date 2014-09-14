@@ -47,13 +47,13 @@ tagSkillClassName0809=
 
 tagSkillDevotion=Devotion
 
-tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。
+tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。 
 
-tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
+tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。 
 
-tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。
+tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。 
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有{^n}兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有{^n}兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。 
 
 tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素{^n}的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
 
@@ -67,8 +67,8 @@ tagSkillClassDescription09=
 
 #Default 默认
 
-tagSkillDefaultAttackName01=基础武器攻击
-tagSkillDefaultAttackDescription01=使用现有的武器攻击。
+tagSkillDefaultAttackName01=基础武器攻击 
+tagSkillDefaultAttackDescription01=使用现有的武器攻击 
 
 tagSkillInnate=天赋
 tagSkillSumLVL=随着技能等级而提升。
@@ -86,8 +86,8 @@ tagClass01SkillName01B=格斗姿态
 tagClass01SkillDescription01B=愤 怒 的 节 奏 对 周 围 的 敌 人 产 生 共 振 ， 造 成 严 重 的 出 血 。^o如 使 用 近 战 武 器 ， 共 振 效 果 会 使 节 奏 打 击 击 中 附 近 的 额 外 目 标
 tagClass01SkillName01C=致死旋律
 tagClass01SkillDescription01C=使 用 巨 大 的 力 量 施 展 节 奏 打 击 ， 有 机 会 获 得 额 外 伤 害 效 果 。
-tagClass01SkillName01D=Discord
-tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental and chaotic energy.
+tagClass01SkillName01D=不谐和弦
+tagClass01SkillDescription01D=愤怒灵魂The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental and chaotic energy.
 
 tagClass01SkillName02A=力场波
 tagClass01SkillDescription02A=攻 击 时 通 入 能 量 来 压 缩 空 气 ， 投 射 出 能 量 波 眩 晕 敌 人 并 造 成 伤 害 。^o该 技 能 发 动 需 要 装 备 盾 牌 或 双 手 近 战 武 器 。
@@ -95,8 +95,8 @@ tagClass01SkillName02B=裂甲之力
 tagClass01SkillDescription02B=力 场 波 粉 碎 敌 人 的 护 甲 ， 使 他 们 更 容 易 受 到 物 理 伤 害 。
 tagClass01SkillName02C=内部创伤
 tagClass01SkillDescription02C=力 场 波 粉 碎 骨 骼 ， 损 伤 内 脏 ， 造 成 大 量 的 内 外 出 血 。
-tagClass01SkillName02D=Tremor
-tagClass01SkillDescription02D=With the will of Menhir, smash the ground with a mighty two-hander and let rip devastating waves of energy upon your foes. ^oThis technique requires a two-handed melee weapon.
+tagClass01SkillName02D=震地
+tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 具 有 出 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。 
 
 tagClass01SkillName03A=闪击
 tagClass01SkillDescription03A=带 着 毁 灭 性 的 动 能 冲 入 敌 群 ，发 动 突 袭 。^o需 要 一 把 近 战 武 器 。
@@ -348,7 +348,7 @@ tagClass03SkillName08B=能量燃烧
 tagClass03SkillDescription08B=Magnifies chaos damage while also burning a portion of the target's energy, inflicting additional energy burn damage.
 tagClass03SkillName09A=守护之环
 tagClass03SkillDescription09A=Creates a magical circle around the caster that regenerates life and repels those with evil intention.
-tagClass03SkillName15A=拜斯麦的庇护
+tagClass03SkillName15A=拜斯迈的庇护
 tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
 
 
@@ -1382,50 +1382,50 @@ tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shi
 
 #ConsumableSkills
 
-tagConsumableSkill_RoyalJellyBalmName=蜂王浆药膏
-tagConsumableSkill_RoyalJellyBalmDesc=让 你 充 满 舒 缓 温 暖 的 感 觉 。
+tagConsumableSkill_RoyalJellyBalmName=蜂王浆药膏 
+tagConsumableSkill_RoyalJellyBalmDesc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
 tagConsumableSkill_A01=火焰吞饮药膏
-tagConsumableSkill_A01Desc=加 强 肉 体 对 火 焰 热 力 的 抗 性 。
+tagConsumableSkill_A01Desc=加 强 肉 体 对 火 焰 热 力 的 抗 性 。 
 tagConsumableSkill_A02=寒霜护体药膏
-tagConsumableSkill_A02Desc=加 强 肉 体 对 寒 冬 之 罚 的 抗 性 。
+tagConsumableSkill_A02Desc=加 强 肉 体 对 寒 冬 之 罚 的 抗 性 。 
 tagConsumableSkill_A03=风暴之拥药膏
-tagConsumableSkill_A03Desc=加 强 肉 体 对 闪 电 之 怒 的 抗 性 。
+tagConsumableSkill_A03Desc=加 强 肉 体 对 闪 电 之 怒 的 抗 性 。 
 tagConsumableSkill_A04=抗毒药膏
-tagConsumableSkill_A04Desc=加 强 肉 体 对 恶 性 毒 素 的 抗 性 。 
+tagConsumableSkill_A04Desc=加 强 肉 体 对 恶 性 毒 素 的 抗 性 。  
 tagConsumableSkill_A05=血系药膏
-tagConsumableSkill_A05Desc=加 强 肉 体 对 虚 空 恶 魔 的 抗 性 。
+tagConsumableSkill_A05Desc=加 强 肉 体 对 虚 空 恶 魔 的 抗 性 。 
 tagConsumableSkill_A06=灵魂之祸药膏
-tagConsumableSkill_A06Desc=加 强 肉 体 对 虚 化 污 染 的 抗 性 。
+tagConsumableSkill_A06Desc=加 强 肉 体 对 虚 化 污 染 的 抗 性 。 
 tagConsumableSkill_A07=死亡之语药膏
-tagConsumableSkill_A07Desc=加 强 肉 体 对 死 亡 魔 法 的 抗 性 。
+tagConsumableSkill_A07Desc=加 强 肉 体 对 死 亡 魔 法 的 抗 性 。 
 tagConsumableSkill_A08=白霜药膏
-tagConsumableSkill_A08Desc=让 你 的 肉 体 充 满 令 人 安 心 的 温 暖 的 感 觉 。
+tagConsumableSkill_A08Desc=让 你 的 肉 体 充 满 令 人 安 心 的 温 暖 的 感 觉 。 
 tagConsumableSkill_A09=噬命之油
-tagConsumableSkill_A09Desc=为 你 的 武 器 附 上 噬 命 邪 物 。
+tagConsumableSkill_A09Desc=为 你 的 武 器 附 上 噬 命 邪 物 。 
 tagConsumableSkill_A10=毒牙之油
-tagConsumableSkill_A10Desc=为 你 的 武 器 附 上 毒 素 。
+tagConsumableSkill_A10Desc=为 你 的 武 器 附 上 毒 素 。 
 tagConsumableSkill_A11=血牙之油
-tagConsumableSkill_A11Desc=为 你 的 武 器 附 上 血 牙 毒 素 。
+tagConsumableSkill_A11Desc=为 你 的 武 器 附 上 血 牙 毒 素 。 
 tagConsumableSkill_A12=奥秘之油
-tagConsumableSkill_A12Desc=为 你 的 武 器 附 上 秘 术 精 华 。
+tagConsumableSkill_A12Desc=为 你 的 武 器 附 上 秘 术 精 华 。 
 tagConsumableSkill_A13=先祖药剂
-tagConsumableSkill_A13Desc=让 你 充 满 先 祖 的 力 量 。
+tagConsumableSkill_A13Desc=让 你 充 满 先 祖 的 力 量 。 
 tagConsumableSkill_A14=虚空药剂
-tagConsumableSkill_A14Desc=让 你 充 满 虚 空 的 野 性 力 量
+tagConsumableSkill_A14Desc=让 你 充 满 虚 空 的 野 性 力 量 。 
 tagConsumableSkill_A15=虚灵药剂
-tagConsumableSkill_A15Desc=让 你 充 满 虚 灵 的 原 始 力 量 。
+tagConsumableSkill_A15Desc=让 你 充 满 虚 灵 的 原 始 力 量 。 
 tagConsumableSkill_A16=追猎药剂
-tagConsumableSkill_A16Desc=让 你 充 满 无 限 的 能 量 。
-tagConsumableSkill_A17=Royal Jelly Extract
-tagConsumableSkill_A17Desc=Sharpens the mind.
-tagConsumableSkill_A18=Royal Jelly Essence
-tagConsumableSkill_A18Desc=Revitalizes and strengthens bones.
-tagConsumableSkill_A19=Royal Jelly Salve
-tagConsumableSkill_A19Desc=Fills you with a soothing warmth.
-tagConsumableSkill_A20=Royal Jelly Ointment
-tagConsumableSkill_A20Desc=Fills you with a soothing warmth.
-tagConsumableSkill_A21=Celestial Bane
-tagConsumableSkill_A21Desc=A divine light suffuses your flesh.
+tagConsumableSkill_A16Desc=让 你 充 满 无 限 的 能 量 。 
+tagConsumableSkill_A17=浓缩蜂王浆
+tagConsumableSkill_A17Desc=宁 神 醒 脑 。 
+tagConsumableSkill_A18=蜂王浆精华
+tagConsumableSkill_A18Desc=固 骨 生 肌 。
+tagConsumableSkill_A19=蜂王浆药剂
+tagConsumableSkill_A19Desc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
+tagConsumableSkill_A20=蜂王浆药膏
+tagConsumableSkill_A20Desc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
+tagConsumableSkill_A21=天神之梦魇
+tagConsumableSkill_A21Desc=圣 光 充 盈 你 的 身 体 。 
 
 #SkillsGeneral
 
@@ -1434,31 +1434,31 @@ NoMasteriesAvailable=无可用的额外专精栏
 SkillPointsAvailable=可用技能点数：{%d0}
 SkillPointsAvailableSingular=可用技能点数：{%d0}
 NoSkillPointsAvailable=可用技能点数：0
-DevotionPointsAvailable=Points Available: {%d0}
-DevotionPointsAvailableSingular=Points Available: {%d0}
-NoDevotionPointsAvailable=Points Available: 0
+DevotionPointsAvailable=可用点数：{%d0}
+DevotionPointsAvailableSingular=可用点数：{%d0}
+NoDevotionPointsAvailable=可用点数：0
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=Hammer and Anvil
 tagDevotionNorthWinds=Winds of The North
 tagDevotionAutumnBoar=Autumn Boar
-tagDevotionSerpent=Three Headed Serpent
+tagDevotionSerpent=三头蛇
 tagDevotionShepherd=Shepherd's Crook
-tagDevotionTreeOfLife=Tree of Life
-tagDevotionMenhir=Menhir
+tagDevotionTreeOfLife=生命之树
+tagDevotionMenhir=曼海尔
 tagDevotionRaven=The Raven
-tagDevotionBysmiel=Bysmiel's Bonds
+tagDevotionBysmiel=拜斯麦之缚
 tagDevotionHunter=The Hunter
 tagDevotionMogdrogen=Mogdrogen the Wolf
 tagDevotionHarvestman=Harvestman's Scythe
 tagDevotionBat=The Bat
-tagDevotionSpear=Spear of the Heavens
-tagDevotionOleron=Oleron
+tagDevotionSpear=天堂之戟
+tagDevotionOleron=奥莱隆
 tagDevotionBear=The Bear
 tagDevotionUlzuin=Ulzuin's Torch
 tagDevotionDyingGod=The Dying God
 tagDevotionMagi=The Magi
-tagDevotionAssassin=The Assassin
+tagDevotionAssassin=暗杀者
 tagDevotionAkeron=Akeron's Scorpion
 
 #SkillsReallocator

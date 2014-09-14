@@ -1526,30 +1526,30 @@ tagConsumableBlueprintA10=配方：毒牙之油
 tagConsumableBlueprintA11=配方：血牙之油
 tagConsumableBlueprintA12=配方：奥秘之油
 tagConsumableBlueprintA13=配方：先祖药剂
-tagConsumableBlueprintA13Desc=“一 项 涉 足 禁 术 的 失 传 技 艺 。”
+tagConsumableBlueprintA13Desc=“一 项 涉 足 禁 术 的 失 传 技 艺 。 ”
 tagConsumableBlueprintA14=配方：虚灵药剂
-tagConsumableBlueprintA14Desc=“吉 尔 达 姆 秘 学 社 提 炼 的 药 剂 ， 用 来 撇 除 心 中 一 切 杂 念 。”
+tagConsumableBlueprintA14Desc=“吉 尔 达 姆 秘 学 社 提 炼 的 药 剂 ， 用 来 撇 除 心 中 一 切 杂 念 。 ”
 tagConsumableBlueprintA15=配方：虚空药剂
-tagConsumableBlueprintA15Desc=“一 种 冥 神 的 信 徒 们 常 常 使 用 的 药 剂 ， 使 用 后 能 更 接 近 他 们 的 神 祇 。”
+tagConsumableBlueprintA15Desc=“一 种 冥 神 的 信 徒 们 常 常 使 用 的 药 剂 ， 使 用 后 能 更 接 近 他 们 的 神 祇 。 ”
 tagConsumableBlueprintA16=配方：追猎药剂
-tagConsumableBlueprintA16Desc=“猎 人 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
+tagConsumableBlueprintA16Desc=“猎 人 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。 ”
 tagConsumableBlueprintA17=配方：浓缩蜂王浆
 tagConsumableBlueprintA18=配方：蜂王浆精华
 tagConsumableBlueprintA19=配方：蜂王浆药剂
-tagConsumableBlueprintA19Desc=“流 浪 者 的 制 药 秘 诀 。”
+tagConsumableBlueprintA19Desc=“流 浪 者 的 制 药 秘 诀 。 ”
 tagConsumableBlueprintA20=配方：蜂王浆药膏
-tagConsumableBlueprintA20Desc=“流 浪 者 的 制 药 秘 诀 。”
+tagConsumableBlueprintA20Desc=“流 浪 者 的 制 药 秘 诀 。 ”
 tagConsumableBlueprintA21=配方：天神之梦魇
-tagConsumableBlueprintA21Desc=“保 护 凡 人 不 受 天 神 惩 罚 的 半 神 所 使 用 的 灵 药 。”
+tagConsumableBlueprintA21Desc=“保 护 凡 人 不 受 天 神 惩 罚 的 半 神 所 使 用 的 灵 药 。 ”
 
 tagConsumable_RoyalJellyBalm=蜂王浆药膏
-tagConsumable_RoyalJellyBalmDesc=“沁 人 心 脾 的 药 膏 ， 以 浓 缩 的 蜂 王 浆 制 成 。”
+tagConsumable_RoyalJellyBalmDesc=“沁 人 心 脾 的 药 膏 ， 以 浓 缩 的 蜂 王 浆 制 成 。 ”
 tagConsumableA01=火焰吞饮药膏
-tagConsumableA01Desc=“难 闻 的 混 合 物 ， 能 防 止 燃 烧 。”
+tagConsumableA01Desc=“难 闻 的 混 合 物 ， 能 防 止 燃 烧 。 ”
 tagConsumableA02=寒霜护体药膏
-tagConsumableA02Desc=“致 密 的 混 合 物 ， 拥 有 一 种 奇 特 的 温 润 触 感 。”
+tagConsumableA02Desc=“致 密 的 混 合 物 ， 拥 有 一 种 奇 特 的 温 润 触 感 。 ”
 tagConsumableA03=风暴之拥药膏
-tagConsumableA03Desc=“粘 稠 的 混 合 物 ， 能 够 偏 转 闪 电 之 力 。”
+tagConsumableA03Desc=“粘 稠 的 混 合 物 ， 能 够 偏 转 闪 电 之 力 。 ”
 tagConsumableA04=抗毒药膏
 tagConsumableA04Desc=“闻 起 来 甜 甜 的 混 合 药 剂 ， 能 中 和 掉 绝 大 部 分 的 毒 素 。”
 tagConsumableA05=血系药膏
@@ -1571,28 +1571,28 @@ tagConsumableA12Desc=“吉 尔 达 姆 秘 学 社 使 用 的 混 合 药 剂 
 tagConsumableA13=先祖药剂
 tagConsumableA13Desc=“强 效 的 药 剂 ， 蕴 含 着 凯 恩 世 界 的 上 古 魔 兽 的 力 量 。”
 tagConsumableA14=虚灵药剂
-tagConsumableA14Desc=“强 效 的 药 剂 ， 蕴 含 着 虚 化 之 力 。”
+tagConsumableA14Desc=“强 效 的 药 剂 ， 蕴 含 着 虚 化 之 力 。 ”
 tagConsumableA15=虚空药剂
-tagConsumableA15Desc=“强 效 的 药 剂 ， 蕴 含 着 邪 恶 的 血 魔 法 。”
+tagConsumableA15Desc=“强 效 的 药 剂 ， 蕴 含 着 邪 恶 的 血 魔 法 。 ”
 tagConsumableA16=追猎药剂
-tagConsumableA16Desc=“猎 人 和 刺 客 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。”
-tagConsumableA17=Royal Jelly Extract
-tagConsumableA17Desc="A concentrated form of Royal Jelly which sharpens the mind."
-tagConsumableA18=Royal Jelly Essence
-tagConsumableA18Desc="A revitalizing tonic made from wasp Royal Jelly."
-tagConsumableA19=Royal Jelly Salve
-tagConsumableA19Desc="A soothing concoction made from concentrated Royal Jelly."
-tagConsumableA20=Royal Jelly Ointment
-tagConsumableA20Desc="A soothing concoction made from concentrated Royal Jelly."
-tagConsumableA21=Celestial Bane
-tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retribution."
+tagConsumableA16Desc=“猎 人 和 刺 客 使 用 的 一 种 合 剂 ， 能 更 好 地 追 踪 猎 物 。 ”
+tagConsumableA17=浓缩蜂王浆
+tagConsumableA17Desc=“高 度 浓 缩 的 蜂 王 浆 ， 能 够 提 神 醒 脑 。 ”
+tagConsumableA18=蜂王浆精华
+tagConsumableA18Desc=“蜂 王 浆 制 成 的 恢 复 药 剂 。 ”
+tagConsumableA19=蜂王浆药剂
+tagConsumableA19Desc=“以 浓 缩 的 蜂 王 浆 制 成 的 混 合 物 ， 可 以 抚 平 伤 痛 。 ”
+tagConsumableA20=蜂王浆药膏
+tagConsumableA20Desc=“以 浓 缩 的 蜂 王 浆 制 成 的 混 合 物 ， 可 以 抚 平 伤 痛 。 ”
+tagConsumableA21=天神之梦魇
+tagConsumableA21Desc=“保 护 凡 人 不 受 天 神 惩 罚 的 半 神 所 使 用 的 灵 药 。 ”
 
 
 #ItemNote 阅读记录
 
 tagNoteHelp=[右键点击来阅读]
 tagNoteKnown=[已读过]
-tagNoteExcerpt="{%t}.."
+tagNoteExcerpt="{%t} …… "
 
 #ItemEnchantment 附魔
 
@@ -1772,31 +1772,31 @@ tagCompA053Name=幻象印记
 tagCompA053Desc=“一 种 象 征 着 力 量 的 符 号 ， 许 多 铭 文 中 都 会 使 用 它 。 ”^w^n( 用 于 戒 指 和 项 链 )
 
 tagCompA054Name=恶毒颚骨
-tagCompA054Desc=“这 种 野 兽 的 下 颌 长 着 整 齐 的 颚 骨 ， 如 同 刺 一 般 。”^w^n( 用 于 项 链 和 勋 章 )
+tagCompA054Desc=“这 种 野 兽 的 下 颌 长 着 整 齐 的 颚 骨 ， 如 同 刺 一 般 。 ”^w^n( 用 于 项 链 和 勋 章 )
 
 tagCompA055Name=愤怒之石
-tagCompA055Desc=“震 动 不 止 ， 不 近 活 物 。”^w^n( 用 于 近 战 武 器 )
+tagCompA055Desc=“震 动 不 止 ， 不 近 活 物 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA056Name=裂缝之石
-tagCompA056Desc=“充 满 了 虚 空 中 的 原 始 能 量 。”^w^n( 用 于 近 战 武 器 )
+tagCompA056Desc=“充 满 了 虚 空 中 的 原 始 能 量 。 ”^w^n( 用 于 近 战 武 器 )
 
 tagCompA057Name=虚化钢铁弹药
-tagCompA057Desc=“用 虚 化 的 怪 物 身 上 的 精 华 增 强 过 的 子 弹 。”^w^n( 用 于 枪 械 和 十 字 弓 )
+tagCompA057Desc=“用 虚 化 的 怪 物 身 上 的 精 华 增 强 过 的 子 弹 。 ”^w^n(用 于 枪 械 和 十 字 弓)
 
 tagCompA058Name=虚空之触弹药
-tagCompA058Desc=“浸 染 了 冥 灵 的 鲜 血。”^w^n( 用 于 枪 械 和 十 字 弓 )
+tagCompA058Desc=“浸 染 了 冥 灵 的 鲜 血 。 ”^w^n(用 于 枪 械 和 十 字 弓)
 
 tagCompA059Name=虚化钢铁合金
-tagCompA059Desc=“异 常 地 轻 便 又 经 久 耐 用 的 金 属 。”^w^n( 用 于 盾 牌 )
+tagCompA059Desc=“异 常 地 轻 便 又 经 久 耐 用 的 金 属 。 ”^w^n(用 于 盾 牌)
 
 tagCompA060Name=磨损外壳
-tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， 这 枚 外 壳 依 然 坚 硬 如 初 。”^w^n( 用 于 盾 牌 )
+tagCompA060Desc=“承 受 了 难 以 想 象 之 多 次 数 的 打 击 ， 这 枚 外 壳 依 然 坚 硬 如 初 。 ”^w^n(用 于 盾 牌)
 
 tagCompA061Name=恶性毒物
-tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n( 用 于 所 有 护 甲 )
+tagCompA061Desc=“来 自 一 种 特 殊 的 有 毒 生 物 的 酸 性 胆 汁。”^w^n(用 于 所 有 护 甲)
 
-tagCompA062Name=Reinforced Shell
-tagCompA062Desc="A nearly impervious shell made all the more formidable by a series of razor sharp spines."^w^n(Used in shields)
+tagCompA062Name=强固外壳
+tagCompA062Desc=“令 人 生 畏 的 甲 壳 ， 由 成 串 剃 刀 般 锋 利 的 尖 刺 所 作 成 ， 几 乎 不 可 能 被 穿 透 。 ”^w^n(用 于 盾 牌)
 
 
 tagCompB001Name=^k拜斯迈之缚
@@ -2065,8 +2065,8 @@ tagPrefixAD027=铁壁
 tagPrefixAD028=硬化
 tagPrefixAD029=永恒
 tagPrefixAD030=永固
-tagPrefixAD031=Adamant
-tagPrefixAD032=Staunch
+tagPrefixAD031=坚石
+tagPrefixAD032=刚强
 
 
 tagPrefixAO001=优质
@@ -2106,9 +2106,9 @@ tagPrefixB019_WpnMelee1h_A=虚火
 tagPrefixB020_WpnMelee1h_A=邪恶
 tagPrefixB021_WpnMelee1h_A=穿心
 tagPrefixB022_WpnMelee1h_A=狂怒
-tagPrefixB023_WpnMelee1h_A=Glacial
-tagPrefixB024_WpnMelee1h_A=Thunderstruck
-tagPrefixB025_WpnMelee1h_A=Rimefrost
+tagPrefixB023_WpnMelee1h_A=冰川
+tagPrefixB024_WpnMelee1h_A=雷击
+tagPrefixB025_WpnMelee1h_A=霜冻
 
 tagPrefixB001_Ar_A=天体
 tagPrefixB002_Ar_A=暴怒
@@ -2139,8 +2139,8 @@ tagPrefixB026_Ar_A=割喉
 tagPrefixB027_Ar_A=放血
 tagPrefixB028_Ar_A=石肤
 tagPrefixB029_Ar_A=将军
-tagPrefixB030_Ar_A=Glacial
-tagPrefixB031_Ar_A=Thunderstruck
+tagPrefixB030_Ar_A=冰川
+tagPrefixB031_Ar_A=雷击
 
 tagPrefixB001_Class_A=突击司令的
 tagPrefixB002_Class_A=巫师之刃的
@@ -2242,7 +2242,7 @@ tagSuffixA056=废土之
 tagSuffixA057=沼泽之
 tagSuffixA058=狂风之
 tagSuffixA059=幽魂之
-tagSuffixA060=of Spellweaving
+tagSuffixA060=魔咒之
 
 tagSuffixB001_Wpn_A=爆炎之
 tagSuffixB002_Wpn_A=疯狂之
@@ -2271,17 +2271,17 @@ tagSuffixB024_Wpn_A=元素之
 tagSuffixB025_Wpn_A=缚魂之
 tagSuffixB026_Wpn_A=折磨之
 tagSuffixB027_Wpn_A=破暗之
-tagSuffixB028_Wpn_A=of the Winter Storm
-tagSuffixB029_Wpn_A=of Squalls
+tagSuffixB028_Wpn_A=寒冬风暴之
+tagSuffixB029_Wpn_A=狂风之
 tagSuffixB030_Wpn_A=飓风之
-tagSuffixB031_Wpn_A=of Arcane Balance
-tagSuffixB032_Wpn_A=of the Flamecaller
-tagSuffixB033_Wpn_A=of the Arcane Blaze
-tagSuffixB034_Wpn_A=of Voidfire
-tagSuffixB035_Wpn_A=of Fallen Skies
+tagSuffixB031_Wpn_A=奥术平衡之
+tagSuffixB032_Wpn_A=唤火者之
+tagSuffixB033_Wpn_A=奥术火焰之
+tagSuffixB034_Wpn_A=虚空火焰之
+tagSuffixB035_Wpn_A=天崩之
 tagSuffixB036_Wpn_A=索拉尔的怨恨之
-tagSuffixB037_Wpn_A=of Shattered Reality
-tagSuffixB038_Wpn_A=of the Cabal
+tagSuffixB037_Wpn_A=破碎世界之
+tagSuffixB038_Wpn_A=密谋之
 
 tagSuffixB001_Ar_A=奥术之
 tagSuffixB002_Ar_A=曼海尔的壁垒之
@@ -2318,20 +2318,20 @@ tagSuffixB032_Ar_A=洞察之
 tagSuffixB033_Ar_A=荒芜之
 tagSuffixB034_Ar_A=生存之
 tagSuffixB035_Ar_A=君王之
-tagSuffixB036_Ar_A=of Destruction
-tagSuffixB037_Ar_A=of Amarasta's Flurry
-tagSuffixB038_Ar_A=of Maiven's Wit
-tagSuffixB039_Ar_A=of the Winter Storm
-tagSuffixB040_Ar_A=of Squalls
-tagSuffixB041_Ar_A=of Arcane Balance
-tagSuffixB042_Ar_A=of the Arcane Blaze
-tagSuffixB043_Ar_A=of Voidfire
-tagSuffixB044_Ar_A=of Fallen Skies
-tagSuffixB045_Ar_A=of Shattered Reality
-tagSuffixB046_Ar_A=of the Cabal
-tagSuffixB047_Ar_A=of Blight
+tagSuffixB036_Ar_A=毁灭之
+tagSuffixB037_Ar_A=阿玛拉斯塔的乱舞之
+tagSuffixB038_Ar_A=麦文的智慧之
+tagSuffixB039_Ar_A=寒冬风暴之
+tagSuffixB040_Ar_A=狂风之
+tagSuffixB041_Ar_A=奥术平衡之
+tagSuffixB042_Ar_A=奥术火焰之
+tagSuffixB043_Ar_A=虚空火焰之
+tagSuffixB044_Ar_A=天崩之
+tagSuffixB045_Ar_A=破碎世界之
+tagSuffixB046_Ar_A=密谋之
+tagSuffixB047_Ar_A=荒芜之
 
-tagSuffixB001_Sh_A=of Redoubt
+tagSuffixB001_Sh_A=堡垒之
 tagSuffixB002_Sh_A=勇气之
 tagSuffixB003_Sh_A=防御者之
 tagSuffixB004_Sh_A=神谕之
@@ -2359,17 +2359,17 @@ tagSuffixB025_Sh_A=折磨之
 tagSuffixB026_Sh_A=流沙之
 tagSuffixB027_Sh_A=死寒之
 tagSuffixB028_Sh_A=风暴之
-tagSuffixB029_Sh_A=of Conflagration
-tagSuffixB030_Sh_A=of the Winter Storm
-tagSuffixB031_Sh_A=of Squalls
-tagSuffixB032_Sh_A=of Immortality
-tagSuffixB033_Sh_A=of Arcane Balance
-tagSuffixB034_Sh_A=of the Flamecaller
-tagSuffixB035_Sh_A=of the Arcane Blaze
-tagSuffixB036_Sh_A=of Voidfire
-tagSuffixB037_Sh_A=of Fallen Skies
-tagSuffixB038_Sh_A=of Shattered Reality
-tagSuffixB039_Sh_A=of the Cabal
+tagSuffixB029_Sh_A=爆炎之
+tagSuffixB030_Sh_A=寒冬风暴之
+tagSuffixB031_Sh_A=狂风之
+tagSuffixB032_Sh_A=不朽之
+tagSuffixB033_Sh_A=奥术平衡之
+tagSuffixB034_Sh_A=唤火者之
+tagSuffixB035_Sh_A=奥术火焰之
+tagSuffixB036_Sh_A=虚空火焰之
+tagSuffixB037_Sh_A=天崩之
+tagSuffixB038_Sh_A=破碎世界之
+tagSuffixB039_Sh_A=密谋之
 tagSuffixB040_Sh_A=腐化之
 
 #ItemSkills 物品技能
@@ -2435,7 +2435,7 @@ tagBreakableJugA01=壶
 tagBreakableBonePileHumanA01=人体残骸
 tagBreakableBonePileHumanA02=人体残骸
 tagBreakableJunkPileA01=垃圾堆
-tagBreakableGrobleTotemA01=戈布尔图腾
+tagBreakableGrobleTotemA01=格罗布图腾
 tagBreakableSlithPileA01=蛇人废弃物
 tagBreakableScrapPileA01=废铁堆
 tagBreakableWaspClusterA01=蜂窝

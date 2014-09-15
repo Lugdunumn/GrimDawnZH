@@ -96,7 +96,7 @@ tagClass01SkillDescription02B=力 场 波 粉 碎 敌 人 的 护 甲 ， 使 �
 tagClass01SkillName02C=内部创伤
 tagClass01SkillDescription02C=力 场 波 粉 碎 骨 骼 ， 损 伤 内 脏 ， 造 成 大 量 的 内 外 出 血 。
 tagClass01SkillName02D=震地
-tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 具 有 出 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。 
+tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 出 具 有 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。 
 
 tagClass01SkillName03A=闪击
 tagClass01SkillDescription03A=带 着 毁 灭 性 的 动 能 冲 入 敌 群 ，发 动 突 袭 。^o需 要 一 把 近 战 武 器 。

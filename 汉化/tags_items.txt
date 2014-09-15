@@ -2460,14 +2460,14 @@ tagShrineConstitutionA01=未动过的饭
 
 #Breakables 可破坏
 
-tagWoodenDoor=木门
+tagWoodenDoor=木门 
 
 #Dungeon Doors 地下城大门
 
 tagUGDoorCave01=洞穴入口
 tagUGDoorTrapdoor01=陷阱门
 tagUGDoorTrapDoorLocked01=锁着的陷阱门
-tagUGDoorLadder01=摇摇欲坠的梯子 
+tagUGDoorLadder01=摇摇欲坠的梯子
 tagUGDoorCellarDoor01=地窖入口
 tagUGDoorMine01=矿坑入口
 tagUGDoorRuin01=废墟入口
@@ -2489,8 +2489,8 @@ tagLocked= {^R} ~ 锁着的
 
 #Quest Rewards 任务奖励
 
-tagQuestItemBrothersAmulet=妹妹的赋生之护身符
-tagQuestItemBrothersAmuletDesc="致 亲 爱 的 哥 哥 :  愿 这 枚 护 身 符 能 让 你 在 战 斗 中 保 持 强 壮 。  - 西 比 尔"
+tagQuestItemBrothersAmulet=妹 妹 的 护 身 符 
+tagQuestItemBrothersAmuletDesc=“致 亲 爱 的 哥 哥 :  愿 这 枚 护 身 符 护 佑 你 在 战 斗 中 勇 不 可 当 - 西 比 尔”
 
-tagQuestItemSlithRing=蛇人原始戒指
-tagQuestItemSlithRingDesc="这 枚 戒 指 有 股 挥 之 不 去 的 恶 臭 。"
+tagQuestItemSlithRing=蛇 人 原 始 戒 指 
+tagQuestItemSlithRingDesc=“这 枚 戒 指 有 股 挥 之 不 去 的 恶 臭 。 ”

@@ -622,11 +622,11 @@ tagEnemyCaveSpiderA01=恐惧编织者 幼蛛
 tagEnemyCaveSpiderB01=恐惧编织者 蜘蛛
 tagEnemyCaveSpiderB02=恐惧编织者 寡妇
 tagEnemyCaveSpiderC01=恐惧编织者 女王
-tagEnemyCavePrawnA01=恐惧之麟 裂隙灾异
-tagEnemyCavePrawnA02=恐惧之光 裂隙灾异
-tagEnemyCavePrawnB01=恐惧利爪 裂隙灾异
-tagEnemyCavePrawnC01=Bursting 裂隙灾异
-tagEnemyCavePrawnSummonA01=穴居者 裂隙灾异
+tagEnemyCavePrawnA01=裂隙灾异 恐惧之麟
+tagEnemyCavePrawnA02=裂隙灾异 恐惧之光
+tagEnemyCavePrawnB01=裂隙灾异 恐惧利爪
+tagEnemyCavePrawnC01=裂隙灾异 成体
+tagEnemyCavePrawnSummonA01=裂隙灾异 穴居者
 
 tagCaveTrollHalfHeroH01=黑暗之民 格鲁科洛克
 tagCaveTrollHalfHeroH02=盲眼狂战士 阿格洛克

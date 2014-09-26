@@ -105,11 +105,11 @@ tagFleshHulkHeroH02=虚化之裔 法尔多尼
 tagFleshHulkHeroH03=马诺崔斯 ~ 免疫控制
 tagFleshHulkHeroH04=菲斯特利斯 ~ 压碎者
 
-#CreatureGazer
+#CreatureGazer 
 
-tagEnemyGazerA01=腐化
-tagEnemyGazerB01=监察
-tagEnemyGazerC01=主宰
+tagEnemyGazerA01=腐化者
+tagEnemyGazerB01=监察者
+tagEnemyGazerC01=主宰者
 
 tagGazerHeroH01=麦斯默
 tagGazerHeroH02=地狱降生 贝恩扎尔
@@ -696,8 +696,8 @@ tagZombieHeroH10=巫火 艾尔瑞克
 
 #CreatureZombieHound
 
-tagEnemyZombieHoundA01=污秽猎狗
-tagEnemyZombieHoundB01=污秽狗群领袖
+tagEnemyZombieHoundA01=污秽猎犬
+tagEnemyZombieHoundB01=污秽猎犬领袖
 
 tagZombieHoundHeroH01=夜魇 格纳科斯
 tagZombieHoundHeroH02=受诅咒的夏恩
@@ -720,7 +720,7 @@ tagReanimatorBossH03=寒冰恐惧
 
 #Pets 宠物
 
-tagPetRavenA01=风暴巨鸦
+tagPetRavenA01=风暴乌鸦
 tagPetHellhoundA01=地狱魔犬
 tagPetWhirlwindA01=旋风
 
@@ -732,7 +732,7 @@ tagPetThermiteMineA01=燃烧地雷
 tagPetMortarTrapA01=砂浆陷阱
 
 tagItemFleshHulkA01=血肉巨人
-tagItemGuardianA01=坚定守卫
+tagItemGuardianA01=坚毅守卫
 tagItemGuardianA02=鲁莽守卫
 tagItemAncestorA01=先祖之魂
 tagItemRevenantA01=奥格纳佩什的亡魂

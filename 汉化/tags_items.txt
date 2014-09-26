@@ -1002,7 +1002,7 @@ tagRingB001=列丹的纪念戒指
 tagRingB001Desc=“指 环 上 磨 损 的 刻 文 写 着 ： 爱 你 的 - 艾 米 莉 亚 。”
 tagRingB002=克隆利的印玺
 tagRingB002Desc=“沾 染 了 受 害 者 的 鲜 血 ， 当 然 现 在 还 有 他 自 己 的 。”
-tagRingB003=制皮人家庭的印戒
+tagRingB003=斯金纳的家传印戒
 tagRingB003Desc=“可 能 是 这 家 人 唯 一 的 财 富 了 。”
 
 tagRingC001=骨髓戒指
@@ -1032,7 +1032,7 @@ tagRingC020A=阿卡莫斯的悲痛
 tagRingC020B=阿卡莫斯的折磨
 tagRingC020Desc=“痛 苦 ……”
 tagRingC021=黑冰指环
-tagRingC022=邪恶意图戒指
+tagRingC022=邪意戒指
 tagRingC023=寒意汹涌戒指
 tagRingC023Desc=“哪 怕 只 是 轻 微 的 接 触 戒 指 上 的 蓝 宝 石 也 会 被 吸 走 热 量 。”
 tagRingC024=永世腐朽戒指

@@ -1,4 +1,4 @@
-tagSkillClassName01=士兵
+tagSkillClassName01=战士
 tagSkillClassName02=爆破者
 tagSkillClassName03=术士
 tagSkillClassName04=夜刃
@@ -77,7 +77,7 @@ tagSkillUsableReady=技能准备就绪
 
 #Class01 职业01
 
-tagClass01SkillName00A=士兵
+tagClass01SkillName00A=战士
 tagClass01SkillDescription00A=只 有 极 度 强 健 的 体 魄 才 能 勇 敢 地 面 对 凯 恩 世 界 严 酷 的 现 实 。
 
 tagClass01SkillName01A=节奏打击

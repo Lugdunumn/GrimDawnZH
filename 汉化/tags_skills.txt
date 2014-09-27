@@ -321,7 +321,7 @@ tagClass03SkillName11C=恐惧凝视
 tagClass03SkillDescription11C=The frightful gaze of the eldritch and immortal Dreeg may cause enemies to stand frozen in fear or simply run in fruitless terror.
 tagClass03SkillName11D=邪物喷涌
 tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
-tagClass03SkillName11E=Focused Gaze
+tagClass03SkillName11E=聚能凝视
 tagClass03SkillDescription11E=Channel the foul powers of Dreeg into each Eye, causing it to burst with greater intensity and harm, but also requiring a longer pause between casts.
 
 tagClass03SkillName12A=附身
@@ -495,40 +495,40 @@ tagClass05SkillName04A=Callidor's Tempest
 tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
 tagClass05SkillName04B=Inferno
 tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
-tagClass05SkillName04C=Wrath of Agrivix
+tagClass05SkillName04C=阿格维克斯的愤怒
 tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
 
-tagClass05SkillName05A=Maiven's Sphere of Protection
+tagClass05SkillName05A=麦文的守护领域
 tagClass05SkillDescription05A=A rare defensive technique of arcane magic invented by the revered Arcanist Maiven. Creates a protective shield around the caster, but at a great cost in concentration.
-tagClass05SkillName05B=Conversion
+tagClass05SkillName05B=转化
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
-tagClass05SkillName06A=Albrecht's Aether Ray
+tagClass05SkillName06A=阿尔布雷特的虚化射线
 tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-hand.
-tagClass05SkillName06B=Disintegration
+tagClass05SkillName06B=崩解
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches.
-tagClass05SkillName06C=Tainted Power
+tagClass05SkillName06C=堕落之力
 tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
  
 tagClass05SkillName07A=Nullification
 tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
 
-tagClass05SkillName08A=Devastation
+tagClass05SkillName08A=毁灭
 tagClass05SkillDescription08A=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy. This dangerous spell is extremely draining and should not be used lightly. ^oRequires a Caster Off-hand. If you stand still beyond the first cast, you will unleash up to 2 additional waves upon the target area.
 
-tagClass05SkillName09A=Inner Focus
+tagClass05SkillName09A=心灵专注
 tagClass05SkillDescription09A=Focusing the mind and body into a locus for arcane energies is one of the first meditative techniques taught to aspiring Arcanists.
 
-tagClass05SkillName10A=Arcane Will
+tagClass05SkillName10A=奥术意志
 tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations that can turn the tide of combat. Battle Arcanists learn to use this to their advantage.
 
-tagClass05SkillName11A=Mental Alacrity
+tagClass05SkillName11A=精神迅捷
 tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
 
 tagClass05SkillName12A=Fabric of Reality
 tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
 
-tagClass05SkillName13A=Olexra's Barrier
+tagClass05SkillName13A=奥莱克西拉的屏障
 tagClass05SkillDescription13A=Olexra favored the use of ice in her spellcasting. One of her tactics involved raising up a wall of volatile ice spikes to keep her foes at bay while she attacked safely from the other side.
 tagClass05SkillName13B=寒冰光环
 tagClass05SkillDescription13B=Icy Barrier chills nearby enemies.
@@ -538,16 +538,16 @@ tagClass05SkillDescription13C=Icy Barrier collapses in an explosion of ice.
 tagClass05SkillName14A=Mirror of Ereoctes
 tagClass05SkillDescription14A=In an instant, the air around you becomes hard as stone, absorbing all manner of attacks and reflecting them back at the attacker; a favoured technique of Master Ereoctes.
 
-tagClass05SkillName15A=Reckless Power
+tagClass05SkillName15A=狂野之力
 tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manifesting terrifying arcane energies while sacrificing some of your humanity and lifeforce.
-tagClass05SkillName15B=Ascendance
+tagClass05SkillName15B=支配
 tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies.
-tagClass05SkillName15C=Unlimited Power
+tagClass05SkillName15C=无尽之力
 tagClass05SkillDescription15C=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and open themselves up fully to the aether. It is these Arcanists that strike fear into the hearts of lesser mortals.
 
-tagClass05SkillName16A=Olexra's Flash Freeze
+tagClass05SkillName16A=奥莱克西拉的急速冻结
 tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance.
-tagClass05SkillName16B=Absolute Zero
+tagClass05SkillName16B=绝对零度
 tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving anything caught within the Flash Freeze slowed and debilitated even after the initial effects wear off.
 
 
@@ -652,7 +652,7 @@ tagItemSkillDescA006A=Coats weapons in a veneer of deadly toxin.
 tagItemSkillC001Name=大法官的审判
 tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
 
-tagItemSkillA007Name=聚能
+tagItemSkillA007Name=专注
 tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
 
 tagItemSkillA008Name=生存本能
@@ -727,7 +727,7 @@ tagItemSkillB018Desc=A soothing mist envelops you, clearing your mind.
 tagItemSkillB019Name=扎尔泽兰的烈焰
 tagItemSkillB019Desc=Unleashes a fiery blast upon the heathens.
 
-tagItemSkillB020Name=Touch of Rolderathis
+tagItemSkillB020Name=罗德拉西斯之触
 tagItemSkillB020Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
 
 tagItemSkillB021Name=寒冰守护
@@ -774,7 +774,7 @@ tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacke
 tagItemSkillC003Name=激怒
 tagItemSkillC003Desc=Throws the target into a berserker-like rage, causing it to deal more damage, but also make it more susceptible to attacks.
 
-tagItemSkillC004Name=Stalwart Guardian
+tagItemSkillC004Name=坚定守卫
 tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat.
 
 tagItemSkillC004PetSkill01=Taunting Roar
@@ -782,7 +782,7 @@ tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby 
 
 tagItemSkillC004PetSkill02=Innate Attributes
 
-tagItemSkillC005Name=Reckless Guardian
+tagItemSkillC005Name=鲁莽守卫
 tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
 
 tagItemSkillC005PetSkill01=Frenzied Roar
@@ -839,46 +839,46 @@ tagItemSkillC021Desc=Calls forth holy justice from the heavens.
 tagItemSkillC022Name=Bolt Burst
 tagItemSkillC022Desc=A trick with the loading mechanism allows for an occasional burst of ammo to be unleashed in rapid succession.
 
-tagItemSkillC023Name=Plagued Bite
+tagItemSkillC023Name=疫病之咬
 tagItemSkillC023Desc=The blade digs into flesh like the foul bite of a rift hound.
 
-tagItemSkillC024Name=Reaping Cascade
+tagItemSkillC024Name=连环收割
 tagItemSkillC024Desc=Drains the very life from your target, jumping to nearby enemies with voracious intent.
 
-tagItemSkillC025Name=Ground Stomp
+tagItemSkillC025Name=践踏大地
 tagItemSkillC025Desc=The enchanted sole of these boots smashes into the ground, unleashing a shockwave that staggers nearby foes.
 
-tagItemSkillC026Name=Revenge
+tagItemSkillC026Name=复仇
 tagItemSkillC026Desc=A swift jab with your weapon. ^oRequires a melee weapon.
 
-tagItemSkillC027Name=Energy Shield
+tagItemSkillC027Name=能量护盾
 tagItemSkillC027Desc=Raises a protective shield that absorbs incoming physical blows.
 
-tagItemSkillC028Name=Terror
+tagItemSkillC028Name=恐惧
 tagItemSkillC028Desc=Fills the minds of nearby enemies with visions of their own demise, causing the weakminded to flee.
 
-tagItemSkillC029Name=Sniper Round
+tagItemSkillC029Name=狙击
 tagItemSkillC029Desc=Fires a piercing round with deadly accuracy.
 
-tagItemSkillC030Name=Reaper's Touch
+tagItemSkillC030Name=收割者之触
 tagItemSkillC030Desc=The cold hand of death washes over your enemies.
 
-tagItemSkillC031Name=Fear
+tagItemSkillC031Name=畏惧
 tagItemSkillC031Desc=Strike fear into the hearts of your enemies.
 
-tagItemSkillC032Name=Homebrewed Potion
-tagItemSkillC032Desc=Drink deep and feel all better.
+tagItemSkillC032Name=自制药水
+tagItemSkillC032Desc=痛 饮 一 杯 ， 病 痛 全 消 。
 
-tagItemSkillC033Name=Quickdraw
+tagItemSkillC033Name=速攻
 tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^oRequires one-handed pistols.
 
-tagItemSkillC034Name=Interruption
+tagItemSkillC034Name=中断
 tagItemSkillC034Desc=The immense speed of these boots requires complete focus on every step taken. Even the slightest distraction could result in a misstep.
 
-tagItemSkillC035Name=Time Warp
+tagItemSkillC035Name=扭曲时空
 tagItemSkillC035Desc=Tear a warp in time itself at the location of your attacker.
 
-tagItemSkillC036Name=Murderous Intent
+tagItemSkillC036Name=杀意
 tagItemSkillC036Desc=Enter a dangerous state of mind that leaves little room for doubt and second thoughts.
 
 tagItemSkillC037Name=Slime Ball
@@ -967,7 +967,7 @@ tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a 
 tagItemSkillC064Name=Gaze Weakness
 tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
 
-tagItemSkillC065Name=Madness
+tagItemSkillC065Name=疯狂
 tagItemSkillC065Desc=Unleash the spirit of madness from within the mask, destroying the minds of nearby enemies.
 
 tagItemSkillC066Name=Abolish Evil
@@ -976,7 +976,7 @@ tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retributio
 tagItemSkillC067Name=Tidal Wave
 tagItemSkillC067Desc=Unleash a torrent of cascading water at your enemies, a technique mastered by the foul slith.
 
-tagItemSkillC068Name=Earthquake
+tagItemSkillC068Name=地震
 tagItemSkillC068Desc=Create a fissure at the target area, slowing and stunning any enemies caught within it.
 
 tagItemSkillC069Name=Fanaticism
@@ -985,22 +985,22 @@ tagItemSkillC069Desc=Enter a state of fanatical frenzy, tearing at your enemies 
 tagItemSkillC070Name=Invocation to Chaos
 tagItemSkillC070Desc=Invoke the dark powers, placing a minion of Ch'thon under your devious command.
 
-tagItemSkillC071Name=Diplomacy
+tagItemSkillC071Name=外交策略
 tagItemSkillC071Desc=Your voice carries with it the command of kings, few can withstand its power.
 
-tagItemSkillC072Name=Menhir's Touch
+tagItemSkillC072Name=曼海尔之触
 tagItemSkillC072Desc=The devout of Menhir find their faith to be their most formidable shield in times of grave danger.
 
-tagItemSkillC073Name=Mind Control
+tagItemSkillC073Name=心灵控制
 tagItemSkillC073Desc=Mesmerizes the target, making them confuse friend with foe.
 
 tagItemSkillC074Name=Guardian's Will
 tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oRequires a shield.
 
-tagItemSkillC075Name=Marauder's Fury
+tagItemSkillC075Name=掠夺者的怒火
 tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
-tagItemSkillC076Name=Marauder's Justice
+tagItemSkillC076Name=掠夺者的审判
 tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
 tagItemSkillC077Name=Dismay
@@ -1015,37 +1015,37 @@ tagItemSkillC079Desc=Deadly with a gun, suffices to say even deadlier with two. 
 tagItemSkillC080Name=Lifestealer Nova
 tagItemSkillC080Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
 
-tagItemSkillC081Name=Aether Missiles
+tagItemSkillC081Name=虚化飞弹
 tagItemSkillC081Desc=Releases a concentrated burst of aether energies at your foes.
 
 tagItemSkillC082Name=Voidfire Nova
 tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
 
-tagItemSkillC083Name=Marauder's Salvo
+tagItemSkillC083Name=掠夺者的齐射
 tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
-tagItemSkillC084Name=Miasma
+tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
 
 tagItemSkillC085Name=Summon Blighted Rift Scourge
 tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oOnly one Blighted Rift Scourge can be summoned at any one time.
-tagItemSkillC085PetSkillName01=Acid Spit
-tagItemSkillC085PetSkillName02=Poison Nova
+tagItemSkillC085PetSkillName01=酸液喷吐
+tagItemSkillC085PetSkillName02=剧毒新星
 
-tagItemSkillC086Name=Pestilence
+tagItemSkillC086Name=瘟疫
 tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
 
-tagItemSkillC087Name=Retribution
+tagItemSkillC087Name=惩戒
 tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
 
-tagItemSkillM001Name=Life's Essence
+tagItemSkillM001Name=生命精华
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
 
-tagItemSkillM002Name=Death's Essence
+tagItemSkillM002Name=死亡精华
 tagItemSkillM002Desc=Destroys the very essence of your enemies.
 
-tagItemSkillM003Name=Apocalypse
+tagItemSkillM003Name=天启
 tagItemSkillM003Desc=Rains purging hellfire upon your enemies.
 
 tagItemSkillM004Name=Arcane Focus
@@ -1087,7 +1087,7 @@ tagItemSkillM016Desc=The diamond's power can be tapped in dire situations, grant
 tagItemSkillM017Name=Prismatic Rage
 tagItemSkillM017Desc=The diamond's power can be tapped in dire situations, granting access to its true potential and untold cosmic forces.
 
-tagItemSkillD017Name=Meteor
+tagItemSkillD017Name=陨石
 tagItemSkillD017Desc=Conjures a massive burning rock from the nether to drop upon your enemies.
 
 tagItemSkillD018Name=Throw Feces
@@ -1099,7 +1099,7 @@ tagItemSkillD019Desc=Conjure a hail of deadly ice upon the target area.
 tagItemSkillD020Name=Call Forth the Harbinger
 tagItemSkillD020Desc=Conjures Salazar's Harbinger from the depths of the void.
 tagItemSkillD020PetSkillName=Spectral Miasma
-tagItemSkillD020PetSkillName02=Chaos Aura
+tagItemSkillD020PetSkillName02=混沌光环
 tagItemSkillD020PetSkillDesc02=The Harbinger confers the blessing of Chaos upon his allies.
 
 tagItemSkillFailName=Failchantment
@@ -1108,7 +1108,7 @@ tagItemSkillFailDesc=Fail a little harder.
 
 #Component Skills
 
-tagCompSkillA001Name=Acid Strike
+tagCompSkillA001Name=酸性打击
 tagCompSkillA001Desc=Lash out at your opponent using corrosive acid, melting through even the toughest defenses.
 
 tagCompSkillA002Name=Aether Tendril
@@ -1117,7 +1117,7 @@ tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
 tagCompSkillA003Name=Banish
 tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
 
-tagCompSkillA004Name=Piercing Aura I
+tagCompSkillA004Name=破甲光环 I
 tagCompSkillA004Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA005Name=Blade Ward I
@@ -1126,55 +1126,55 @@ tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating ag
 tagCompSkillA006Name=Blade Ward II
 tagCompSkillA006Desc=Imbue your armor against piercing attacks, retaliating against your attackers in kind.
 
-tagCompSkillA007Name=Blooddrinker I
+tagCompSkillA007Name=饮血者 I
 tagCompSkillA007Desc=Empower your attacks with vampiric energy.
 
-tagCompSkillA008Name=Blooddrinker II
+tagCompSkillA008Name=饮血者 II
 tagCompSkillA008Desc=Empower your attacks with vampiric energy.
 
-tagCompSkillA009Name=Chaos Bolt
+tagCompSkillA009Name=混沌之箭
 tagCompSkillA009Desc=Unleashe a bolt of chaotic energies at the target.
 
-tagCompSkillA010Name=Chill Aura I
+tagCompSkillA010Name=死寒光环 I
 tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA011Name=Decapitate I
+tagCompSkillA011Name=斩杀 I
 tagCompSkillA011Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
 
-tagCompSkillA012Name=Decapitate II
+tagCompSkillA012Name=斩杀 II
 tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
 
-tagCompSkillA013Name=Fire Aura
+tagCompSkillA013Name=火焰光环
 tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA014Name=Fireblast I
+tagCompSkillA014Name=烈焰冲击 I
 tagCompSkillA014Desc=Launch a ball of incinerating flame at your target.
 
-tagCompSkillA015Name=Fireblast II
+tagCompSkillA015Name=烈焰冲击 II
 tagCompSkillA015Desc=Launch a ball of incinerating flame at your target.
 
-tagCompSkillA016Name=Ice Spike I
+tagCompSkillA016Name=寒冰尖刺 I
 tagCompSkillA016Desc=Launch a spike of rock solid ice to impale your enemies.
 
-tagCompSkillA017Name=Ice Spike II
+tagCompSkillA017Name=寒冰尖刺 II
 tagCompSkillA017Desc=Launch a spike of rock solid ice to impale your enemies.
 
-tagCompSkillA018Name=Lightning Aura
+tagCompSkillA018Name=闪电光环
 tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA019Name=Lightning Strike I
+tagCompSkillA019Name=雷击 I
 tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
 
-tagCompSkillA020Name=Lightning Strike II
+tagCompSkillA020Name=雷击 II
 tagCompSkillA020Desc=Strike at your enemies with the force of a lightning bolt.
 
-tagCompSkillA021Name=Poison Aura
+tagCompSkillA021Name=剧毒光环
 tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA022Name=Poison Bomb I
+tagCompSkillA022Name=剧毒炸弹 I
 tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
 
-tagCompSkillA023Name=Poison Bomb II
+tagCompSkillA023Name=剧毒炸弹 II
 tagCompSkillA023Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
 
 tagCompSkillA024Name=Radiant Shield
@@ -1192,40 +1192,40 @@ tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon
 tagCompSkillA028Name=Silver Edge
 tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
 
-tagCompSkillA029Name=Slam I
+tagCompSkillA029Name=猛击 I
 tagCompSkillA029Desc=Slam your enemy with an overpowering blow.
 
-tagCompSkillA030Name=Slam II
+tagCompSkillA030Name=猛击 II
 tagCompSkillA030Desc=Slam your enemy with an overpowering blow.
 
-tagCompSkillA031Name=Piercing Aura II
+tagCompSkillA031Name=破甲光环 II
 tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA032Name=Aether Aura
+tagCompSkillA032Name=虚化光环
 tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA033Name=Chaos Strike
+tagCompSkillA033Name=混沌打击
 tagCompSkillA033Desc=Strike at your enemies with the destructive power of the void.
 
-tagCompSkillA034Name=Shield Slam II
+tagCompSkillA034Name=盾牌猛击 II
 tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillB001Name=Demonfire
+tagCompSkillB001Name=恶魔之火
 tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
 
-tagCompSkillB002Name=Beronath's Fury
+tagCompSkillB002Name=贝若纳斯之怒
 tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
 
 tagCompSkillB003Name=Silver Spread
 tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
 
-tagCompSkillB004Name=Dreeg's Infinite Gaze
+tagCompSkillB004Name=德里格的无尽凝视
 tagCompSkillB004Desc=Unleash the infinite gaze of Dreeg around you.
 
-tagCompSkillB005Name=Solael's Flame
+tagCompSkillB005Name=索拉尔的火焰
 tagCompSkillB005Desc=Coat your target with the dark flame of Solael.
 
-tagCompSkillB006Name=Oleron's Might
+tagCompSkillB006Name=奥莱隆之力
 tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and crippling the target.
 
 
@@ -1302,10 +1302,10 @@ tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of t
 tagRelicSkillC010Name=Deathchill Aura
 tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillC011Name=Sacrifice
+tagRelicSkillC011Name=牺牲
 tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks with your very vitality.
 
-tagRelicSkillC012Name=Zeal
+tagRelicSkillC012Name=热忱
 tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oRequires a melee weapon.
 
 tagRelicSkillC013Name=Desolation
@@ -1324,13 +1324,13 @@ tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from f
 tagRelicSkillD002Name=Malediction
 tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillD003Name=Summon Nemesis
+tagRelicSkillD003Name=召唤复仇女神
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
 
 tagRelicSkillD004Name=Citadel
 tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
 
-tagRelicSkillD005Name=Stormcaller Aura
+tagRelicSkillD005Name=风暴召唤者光环
 tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD006Name=Reckoning

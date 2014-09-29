@@ -284,8 +284,8 @@ tagClass03SkillDescription02E=普 通 攻 击
 tagClass03SkillName02F=死亡燃烧
 tagClass03SkillDescription02F=地 狱 犬 通 过 爆 发 出 体 内 的 地 狱 之 火 回 归 地 狱 ， 将 附 近 的 敌 人 烧 成 灰 烬 。
 
-tagClass03SkillName03A=拜斯迈的契约
-tagClass03SkillDescription03A=强 化 与 召 唤 生 物 的 契 约 ， 使 它 们 更 努 力 更 坚 决 地 为 你 作 战 。
+tagClass03SkillName03A=拜斯迈的羁绊
+tagClass03SkillDescription03A=强 化 与 召 唤 生 物 之 间 的 羁 绊 ， 使 它 们 更 努 力 更 坚 决 地 为 你 作 战 。
 tagClass03SkillName03B=忠诚
 tagClass03SkillDescription03B=以 微 妙 的 手 法 操 纵 召 唤 契 约 ， 使 召 唤 物 将 对 你 忠 诚 无 比 。 它 们 将 以 狂 热 的 力 量 和 速 度 为 你 而 战 。
 
@@ -1447,7 +1447,7 @@ tagDevotionShepherd=主教的权杖
 tagDevotionTreeOfLife=生命之树
 tagDevotionMenhir=曼海尔
 tagDevotionRaven=风暴乌鸦
-tagDevotionBysmiel=拜斯麦之缚
+tagDevotionBysmiel=拜斯麦的羁绊
 tagDevotionHunter=猎人
 tagDevotionMogdrogen=狼神莫格卓根
 tagDevotionHarvestman=收割者之镰

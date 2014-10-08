@@ -10,15 +10,15 @@ tagSkillClassName09=?
 
 tagSkillClassName0102=突击司令
 tagSkillClassName0103=巫师之刃
-tagSkillClassName0104=剑术大师
+tagSkillClassName0104=剑圣
 tagSkillClassName0105=战斗法师
 tagSkillClassName0106=
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
 tagSkillClassName0203=烈焰术士
-tagSkillClassName0204=破坏之王
-tagSkillClassName0205=夺命煞星
+tagSkillClassName0204=破坏者
+tagSkillClassName0205=魔术师
 tagSkillClassName0206=
 tagSkillClassName0207=
 tagSkillClassName0208=
@@ -29,7 +29,7 @@ tagSkillClassName0306=
 tagSkillClassName0307=
 tagSkillClassName0308=
 tagSkillClassName0309=
-tagSkillClassName0405=暗夜行者
+tagSkillClassName0405=破法者
 tagSkillClassName0406=
 tagSkillClassName0407=
 tagSkillClassName0408=
@@ -53,9 +53,9 @@ tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 �
 
 tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。 
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有{^n}兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。 
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。 
 
-tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素{^n}的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
+tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
 
 tagSkillClassDescription06=
 
@@ -67,13 +67,16 @@ tagSkillClassDescription09=
 
 #Default 默认
 
-tagSkillDefaultAttackName01=基础武器攻击 
-tagSkillDefaultAttackDescription01=使用现有的武器攻击 
+tagSkillDefaultAttackName01=基 础 武 器 攻 击 
+tagSkillDefaultAttackDescription01=使 用 现 有 的 武 器 攻 击 。
 
-tagSkillInnate=天赋
-tagSkillSumLVL=随着技能等级而提升。
+tagSkillDefaultMoveTo=移 动
+tagSkillDefaultMoveToDescription=移 动 至 选 定 的 地 点 。
 
-tagSkillUsableReady=技能准备就绪
+tagSkillInnate=天 赋
+tagSkillSumLVL=随 着 技 能 等 级 而 提 升 。
+
+tagSkillUsableReady=技 能 准 备 就 绪
 
 #Class01 职业01
 
@@ -185,8 +188,8 @@ tagClass02SkillName03B=爆炸冲击
 tagClass02SkillDescription03B=提 高 火 焰 冲 击 的 效 力 ， 有 几 率 提 高 火 焰 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
 tagClass02SkillName03C=静态冲击
 tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 焰 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
-tagClass02SkillName03D=裂片
-tagClass02SkillDescription03D=对 火 力 冲 击 的 进 一 步 改 进 ， 增 加 穿 甲 弹 片 并 增 强 它 的 火 热 负 载 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
+tagClass02SkillName03D=炽烈硫磺
+tagClass02SkillDescription03D=使 用 火 焰 法 术 为 火 焰 冲 击 附 加 硫 磺 的 混 沌 之 力 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
 tagClass02SkillName03E=灼热冲击
 tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike to within melee distance of the Demolitionist allows it to hit with greater intensity while requiring less energy.  ^o需 要 一 把 近 战 武 器
 
@@ -198,7 +201,7 @@ tagClass02SkillName04C=震荡炸弹
 tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive Bomb does a little less damage but will leave foes shell-shocked.
 
 tagClass02SkillName05A=迫击抛射
-tagClass02SkillDescription05A=放 置 持 续 向 空 中 抛 射 爆 炸 物 的 迫 击 炮 ， 直 至 耗 尽 。
+tagClass02SkillDescription05A=放 置 持 续 向 空 中 抛 射 爆 炸 物 的 迫 击 炮 ， 直 至 耗 尽 。^o迫 击 炮 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
 tagClass02SkillName05B=重型武器
 tagClass02SkillDescription05B=强 力 法 术 提 升 迫 击 炮 弹 的 输 出 伤 害 并 加 入 电 能 伤 害 。
 tagClass02SkillName05C=“大家伙”
@@ -209,21 +212,22 @@ tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
 
 tagClass02SkillName06A=铝热地雷
-tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
+tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 火 焰 炸 药 ， 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。^o地 雷 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
 tagClass02SkillName06B=电弧
 tagClass02SkillDescription06B=同 时 应 用 烟 火 制 造 术 和 炼 金 术 ， 对 铝 热 地 雷 的 致 命 改 进 让 它 可 以 用 灼 热 火 焰 与 电 流 烧 焦 敌 人 。
 tagClass02SkillName06C=烈焰喷射
 tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
 
-tagClass02SkillName07A=不熄烈焰
-tagClass02SkillDescription07A=像 多 数 爆 破 者 那 样 ， 达 到 烟 火 制 造 工 艺 的 神 秘 境 界 能 提 供 能 非 一 般 的 持 久 与 炙 热 燃 烧 的 火 与 电 。
-tagClass02SkillName07B=乌祖因的选召
+tagClass02SkillName07A=防爆护盾
+tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+
+tagClass02SkillName07B=乌尔祖因的选召
 tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
 
 tagClass02SkillName08A=黑水鸡尾酒
 tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
-tagClass02SkillName08B=酷热高温
-tagClass02SkillDescription08B=高 热 燃 烧 的 黑 水 溶 液 能 融 化 护 甲 并 烧 焦 皮 肉 。
+tagClass02SkillName08B=恶魔之火
+tagClass02SkillDescription08B=被 施 以 巫 术 的 火 焰 拥 有 混 沌 之 力 ， 能 融 化 敌 人 的 肉 体 和 损 坏 护 甲 。
 tagClass02SkillName08C=痛苦之焰
 tagClass02SkillDescription08C=被 烈 焰 焚 身 造 成 的 灼 烧 之 痛 所 逼 疯 了 的 敌 人 会 队 形 散 乱 几 乎 无 法 进 行 还 击 。
 
@@ -234,8 +238,8 @@ tagClass02SkillDescription09B=提 升 每 个 金 属 弹 的 电 力 容 量 �
 tagClass02SkillName09C=迅捷投掷
 tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 能 力 不 过 将 能 被 快 速 施 放 以 消 灭 成 群 的 敌 人 。
 
-tagClass02SkillName12A=防爆护盾
-tagClass02SkillDescription12A=军 事 装 备 与 巫 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+tagClass02SkillName12A=火焰之触
+tagClass02SkillDescription12A=Crossing over, as many Demolitionists eventually do, to dabble in the sorcerous arts of pyromancy unlocks the ability to imbue yourself and nearby allies with a living flame that augments attacks and retaliates at enemies. ^o此 技 能 需 要 开 启 以 保 持 生 效
 tagClass02SkillName12B=回火
 tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 回 火 处 理 。
 
@@ -385,17 +389,17 @@ tagClass04SkillName04C=寒霜之环
 tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage.
 
 tagClass04SkillName05A=双刃
-tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
 tagClass04SkillName05B=贝尔戈蒂安的切割
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05C=阿玛拉斯塔的瞬影
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05D=死亡旋风
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05E=尼达拉的隐手
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
 tagClass04SkillName05F=处决
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
 
 tagClass04SkillName06A=气爆
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
@@ -404,7 +408,7 @@ tagClass04SkillDescription06B=Practice in combat meditation allows you to achiev
 tagClass04SkillName06C=元素觉醒
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 tagClass04SkillName06D=贝尔戈蒂安的呼吸
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagClass04SkillName07A=暗影面纱
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
@@ -467,7 +471,7 @@ tagClass05SkillDescription00=磨 炼 躯 体 与 意 志 ， 方 能 驾 驭 原
 tagClass05SkillName01A=帕内蒂的复制飞弹
 tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
 tagClass05SkillName01B=扰动
-tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, increasing the chance that the projectile will pass through your target.
+tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, causing the projectile to sometimes completely pass through your target.
 tagClass05SkillName01C=超负荷
 tagClass05SkillDescription01C=The air around the Replicating Missile becomes supercharged with static energy, electrocuting any enemies unfortunate enough to come in contact with the projectile.
 tagClass05SkillName01D=增殖
@@ -1038,6 +1042,17 @@ tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
 tagItemSkillC087Name=惩戒
 tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
+tagItemSkillC088Name=奥术之怒
+tagItemSkillC088Desc=Refusing to submit, you unleash the unbridled potential of the mind.
+
+tagItemSkillC089Name=火焰风暴
+tagItemSkillC089Desc=Creates a ring of unbearable flame to incinerate your enemies.
+
+tagItemSkillC090Name=血瘟疫
+tagItemSkillC090Desc=An abhorrent curse that calls down a virulent plague to spread among your foes.
+
+tagItemSkillC091Name=复制飞弹
+tagItemSkillC091Desc=A replicating spell that copies itself upon striking an enemy.
 
 tagItemSkillM001Name=生命精华
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
@@ -1210,8 +1225,8 @@ tagCompSkillA033Desc=Strike at your enemies with the destructive power of the vo
 tagCompSkillA034Name=盾牌猛击 II
 tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillB001Name=恶魔之火
-tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
+tagCompSkillB001Name=恶魔吐息
+tagCompSkillB001Desc=Launch a blastwave of unearthly flame at your enemies.
 
 tagCompSkillB002Name=贝若纳斯之怒
 tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
@@ -1267,19 +1282,19 @@ tagRelicSkillB011Name=Troll Rage
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
 
 tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillB013Name=Volley
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^Requires a two-handed melee weapon.
+tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
 
 tagRelicSkillC002Name=Living Fortress
 tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oRequires a shield.
 
-tagRelicSkillC003Name=Bloodbath
-tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillC003Name=浴血
+tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillC004Name=Unstoppable
 tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
@@ -1351,8 +1366,8 @@ tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agr
 tagRelicSkillD011Name=湮灭
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
 
-tagRelicSkillD012Name=Carnage
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a dual-wielding technique.
+tagRelicSkillD012Name=杀戮
+tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a melee dual-wielding technique.
 
 tagRelicSkillD013Name=陨石
 tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
@@ -1363,7 +1378,7 @@ tagRelicSkillD014Desc=Unleash the combined energy of the blows absorbed by your 
 tagRelicSkillD015Name=虫群之心
 tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth a Swarmling to your aid.
 
-tagRelicSkillD016Name=毁灭
+tagRelicSkillD016Name=屠杀
 tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
 
 tagRelicSkillD017Name=Dreeg's Afflicted Spines

@@ -19,11 +19,16 @@ tagBossXP=敌方首领经验{%d0}
 tagHeroKilled=击杀敌方英雄
 tagBossKilled=击杀敌方首领
 tagXPAwarded=经验奖励{%d0}
+tagRepAwarded={%s1}的声望奖励+{%d0}
 
 tagUndo=撤销
 Chat=聊天:
 
-tagGamePaused=游戏已暂停
+tagGamePaused=游 戏 已 暂 停
+
+tagSkillNotReady={^r}此 技 能 还 未 准 备 就 绪
+
+tagTransferStashError={^r}那 件 物 品 不 能 放 置 在 这 里
 
 #Riftgate
 
@@ -42,6 +47,11 @@ tagQuestIncentives=动机：
 tagQuestObjectives=目标：
 tagQuestRewards=奖励：
 tagCodexJournalNoNotes=没有条目
+tagCodexJournalSubHeadingAct1=第一章
+tagCodexJournalSubHeadingAct2=第二章
+tagCodexJournalSubHeadingAct3=第三章
+tagCodexJournalSubHeadingAct4=第四章
+tagCodexJournalSubHeadingDefault=杂项
 tagAccept=接受
 tagDecline=拒绝
 tagContinue=继续
@@ -83,20 +93,35 @@ tagFactionInvisible=不可见
 tagFactionGenericMonster=怪物
 tagFactionPlayer=玩家
 tagFactionSurvivors=魔鬼路口
+tagFactionSurvivorsInfo=幸存者信息
 tagFactionAetherials=虚灵
+tagFactionAetherialsInfo=Aetherials
 tagFactionCthonians=冥灵
+tagFactionCthoniansInfo=Cthonians
 tagFactionOutlaws=克隆利帮
+tagFactionOutlawsInfo=Cronley's Gang
 tagFactionBeasts=野兽
+tagFactionBeastsInfo=Beasts
 tagFactionUser0=流浪者
+tagFactionUser0Info=Rovers
 tagFactionUser1=中立
+tagFactionUser1Info=Neutral
 tagFactionUser2=霍姆斯特德
+tagFactionUser2Info=Homestead
 tagFactionUser3=科里根矿的自由民
+tagFactionUser3Info=Free Men of Corrigan Mine
 tagFactionUser4=放逐者
+tagFactionUser4Info=The Exile
 tagFactionUser5=死亡守夜人教团
+tagFactionUser5Info=Order of Death's Vigil
 tagFactionUser6=不死族
+tagFactionUser6Info=Undead
 tagFactionUser7=黑暗军团
+tagFactionUser7Info=The Black Legion
 tagFactionUser8=Kymon's Chosen
+tagFactionUser8Info=Kymon's Chosen
 tagFactionUser9=User9
+tagFactionUser9Info=User9
 tagFactionUnknown=未知
 tagFactionStateEnemy5=复仇
 tagFactionStateEnemy4=憎恨
@@ -119,6 +144,9 @@ tagFactionStateFriendly=友好
 tagFactionStateTrusted=信赖
 tagFactionStateHonored=尊敬
 tagFactionStateRevered=敬畏
+tagFactionProgress=提升至下一等级需要：{^b}{%d0}
+tagFactionStatusChange={^w}你现在和{^b}{%s1}{^w}处于{%s0}
+tagFactionEnemies=敌对：{^b}
 
 #HUD
 
@@ -210,6 +238,8 @@ tagSkillPointsRemain={%d0}点剩余点数
 tagSkillPointsRemainSingular={%d0}点剩余点数
 
 #Character
+
+GenderFormat={%t0}{%0a1}
 
 tagInventoryBag=物品栏
 tagInventoryBagDescription=扩展你的物品栏大小
@@ -354,7 +384,7 @@ tagCharStatsArmorFeet=足部：
 tagCharStatsArmorWaist=腰部：
 tagCharStatsArmorShoulders=肩部：
 
-tagFormulaLearn01=恭喜！你学会了如何锻造：
+tagFormulaLearn01={^w}恭喜！你学会了如何锻造：
 tagFormulaLearn02={^r}你已学会此设计图。
 tagFormulaLearn03={^r}[已经学会]
 
@@ -772,6 +802,7 @@ tagCraftingInsterComponent=把设计图特定的组作加入到这些空位中�
 tagCraftingAxes=斧
 tagCraftingBlunt=钝器
 tagCraftingSwords=剑
+tagCraftingImplements=魔刃
 tagCraftingTwoHandedMelee=双手近战武器
 
 tagCraftingOneHanded=单手远程武器
@@ -792,7 +823,9 @@ tagCraftingAccessories=饰品
 tagCraftingConsumables=消耗品
 tagCraftingMaterials=材料
 
-tagCraftingRelics=圣物
+tagCraftingRelicsTier01=注能遗物
+tagCraftingRelicsTier02=卓越遗物
+tagCraftingRelicsTier03=神话遗物
 
 tagDividerTab01=回收
 tagDividerRoll01=回 收 装 置 被 用 来 从 物 品 上 分 离 附 加 部 件 。 不 幸 的 是 ， 回 收 工 序 的 不 完 善 会 摧 毁 物 品 或 附 加 部 件 中 的 一 个 ， 不 过 你 可 以 做 出 选 择 。
@@ -800,9 +833,6 @@ tagDividerRoll01=回 收 装 置 被 用 来 从 物 品 上 分 离 附 加 部
 tagDividerTab02=分解
 tagDividerRoll02=分 解 装 置 被 用 来 拆 解 强 力 的 物 品 以 得 到 其 基 本 的 部 分 。
 tagDividerRoll02B=分 解 装 置 被 用 来 拆 解 强 力 的 物 品 以 得 到 其 基 本 的 部 分 ， 在 分 解 过 程 中 需 要 大 量 的 能 量 ， 所 以 睿 智 的 发 明 家 使 用 火 药 来 完 成 这 个 过 程 。
-
-tagDividerTab03=修补
-tagDividerRoll03=修 补 装 置 用 来 进 行 铸 补 。
 
 tagDividingButtonKeepItem=保留物品
 tagDividingBoxInfo=将带有附加部件的物品放入回收器.
@@ -817,12 +847,6 @@ tagDismantleButton=选择拆解会彻底摧毁该物品。
 tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
 tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留组件，继续？
 tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
-
-tagTinkerAetherTotal=虚化水晶总数：
-tagTinkerCost=重铸花费：
-tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
-tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
-tagTinkerBoxInfo=Place a component or relic in the chamber.
 
 #Smuggler
 
@@ -900,12 +924,12 @@ tagMapSymbolSmithDesc=一位技艺精湛能够打造新物品的工匠。
 #SystemStatsSkillUI
 
 tagOptionsMenuReturn=回到游戏
-tagOptionsMenuSave=保存游戏
 tagOptionsMenuExit=回到主菜单
 tagOptionsMenuQuit=退出到桌面
 tagOptionsMenuOptions=选项菜单
 tagOptionsMenuGameSaved=你的游戏已保存
 tagOptionsMenuAreUSure=你确定要退出到主菜单吗？
+tagOptionsMenuExitGameConfirm=你确定要退出到桌面吗？
 tagInfoTitle=信息
 tagInfoButtonYes=是
 tagInfoButtonNo=否
@@ -1021,6 +1045,7 @@ SkillCooldownReductionModifierR=-{%.0f0}% {^E}技能冷却
 tagDamageConversion={%.0f0}% {^E}{%s1}转换为{%s2}
 tagDamageRemoval={%.0f0}% {^E}{%s1}减少
 tagConversionPhysical=物理伤害
+tagConversionPierce=穿刺伤害
 tagConversionElemental=元素伤害
 tagConversionCold=冰冷伤害
 tagConversionFire=火焰伤害
@@ -1113,6 +1138,7 @@ GiveMoneyFormat=+{%d0}铁币
 TakeMoneyFormat={%d0}铁币
 ExperienceFormat=+{%d0}经验值
 FactionFormat=+{%d0} {%s1}声望
+FactionUnlocked=解锁{%s0}
 LevelUpFormat=升级！
 SkillPointFormat={%d0}点技能点数
 AttributePointFormat={%d0}点属性点数
@@ -1262,11 +1288,13 @@ DamageBasePhysical= {^S}点物理伤害
 DamageBasePierceRatio={%.0f0}% {^S}护甲穿刺
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}护甲穿刺
 DamageBonusPhysical={%t0} {^E}物理伤害
-tagDamageBaseFire= {^S}基础火焰伤害
-tagDamageBaseLightning= {^S}基础闪电伤害
-tagDamageBaseCold= {^S}基础冰冷伤害
-tagDamageBaseVitality= {^S}基础活力伤害
-tagDamageBasePoison= {^S}基础酸性伤害
+tagDamageBaseFire={%t0} {^S}火焰伤害
+tagDamageBaseLightning={%t0} {^S}闪电伤害
+tagDamageBaseCold={%t0} {^S}冰冷伤害
+tagDamageBaseVitality={%t0} {^S}活力伤害
+tagDamageBasePoison={%t0} {^S}酸性伤害
+tagDamageBaseChaos={%t0} {^S}混乱伤害
+tagDamageBaseAether={%t0} {^S}虚化伤害
 DamageCold={%t0} {^E}冰冷伤害
 DamageFire={%t0} {^E}火焰伤害
 DamageAether={%t0} {^E}虚化伤害
@@ -1517,6 +1545,44 @@ DefenseLightningDurationModifier=减少{%+.0f0}%{^E}电击持续时间
 DefenseLifeDurationModifier=减少{%+.0f0}%{^E}活力衰减持续时间
 DefenseLifeLeachDurationModifier=减少{%+.0f0}%{^E}生命吸取持续时间
 DefenseManaLeachDurationModifier=减少{%+.0f0}%{^E}能量吸取持续时间
+DefensePhysicalMaxResist={%+.0f0}% {^E}最大物理抗性
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}最大物理抗性
+DefensePierceMaxResist={%+.0f0}% {^E}最大穿刺抗性
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}最大穿刺抗性
+DefenseColdMaxResist={%+.0f0}% {^E}最大冰冷抗性
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰冷抗性
+DefenseFireMaxResist={%+.0f0}% {^E}最大火焰抗性
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}最大火焰抗性
+DefenseAetherMaxResist={%+.0f0}% {^E}最大虚化抗性
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}最大虚化抗性
+DefenseChaosMaxResist={%+.0f0}% {^E}最大混乱抗性
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}最大混乱抗性
+DefensePoisonMaxResist={%+.0f0}% {^E}最大剧毒&酸性抗性
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}最大剧毒&酸性抗性
+DefenseLightningMaxResist={%+.0f0}% {^E}最大闪电抗性
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}最大闪电抗性
+DefenseLifeMaxResist={%+.0f0}% {^E}最大活力抗性
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大活力抗性
+DefenseStunMaxResist={%+.0f0}% {^E}最大眩晕时间减少
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}最大眩晕时间减少
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}最大生命吸取抗性
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大生命吸取抗性
+DefenseManaLeachMaxResist={%+.0f0}% {^E}最大能量吸取抗性
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大能量吸取抗性
+DefenseTrapMaxResist={%+.0f0}% {^E}最大困于陷阱时间减少
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}最大困于陷阱时间减少
+DefenseFreezeMaxResist={%+.0f0}% {^E}最大冰冻持续时间减少
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰冻持续时间减少
+DefensePetrifyMaxResist={%+.0f0}% {^E}最大石化持续时间减少
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}最大石化持续时间减少
+DefenseDisruptionMaxResist={%+.0f0}% {^E}最大技能打断保护
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}最大技能打断保护
+DefenseBleedingMaxResist={%+.0f0}% {^E}最大流血抗性
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}最大流血抗性
+DefenseSleepMaxResist={%+.0f0}% {^E}最大昏睡抗性
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大昏睡抗性
+DefenseAllMaxResist={%+.0f0}% {^E}最大全抗性
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全抗性
 
 RacialBonusPercentDamage={%+.0f0}%{^E}的伤害致{%s1}
 RacialBonusAbsoluteDamage={%+.0f0}{^E}点伤害致{%s1}
@@ -1584,6 +1650,7 @@ TagHeadphoneSpeakers=耳机扬声器
 Tag41Speakers=4声道扬声器
 Tag51Speakers=5.1声道扬声器
 TagKeybind40=使用备用快捷键栏
+tagKeybindUnassigned=未分配
 
 tagSelectPet1=选择战宠1
 tagSelectPet2=选择战宠2

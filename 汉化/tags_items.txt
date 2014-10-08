@@ -4,7 +4,7 @@ tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 
 #武器
 
-tagWeaponSwordA000=匕首
+tagWeaponSwordA000=刺刀
 tagWeaponSwordA001=罗马短剑
 tagWeaponSwordA002=剃刀
 tagWeaponSwordA003=短剑
@@ -42,11 +42,11 @@ tagWeaponSwordC008Desc=“当 仅 仅 贿 赂 政 敌 已 不 足 以 解 决 �
 tagWeaponSwordC009=火焰烙印
 tagWeaponSwordC010=窃魂者
 tagWeaponSwordC011=燃冰
-tagWeaponSwordC012=礼仪切刀
+tagWeaponSwordC012=
 tagWeaponSwordC013=暗杀者的召唤
 tagWeaponSwordC013Desc=“这 把 剑 嵌 入 了 一 小 瓶 能 引 起 麻 痹 并 最 终 致 死 的 毒 液 。”
 tagWeaponSwordC014=眼盲刺客的剃刀
-tagWeaponSwordC015=圣约的血匕首
+tagWeaponSwordC015=
 tagWeaponSwordC016=威利的剃刀
 tagWeaponSwordC016Desc=“刀 刃 怎 么 砍 也 不 会 钝 。”
 
@@ -106,6 +106,7 @@ tagWeaponBluntC009=抗争
 tagWeaponBluntC009Desc=“人 类 适 应 能 力 的 化 身 。”
 tagWeaponBluntC010=虚化钢铁仲裁锤
 tagWeaponBluntC011=眼盲刺客之拳
+tagWeaponBluntC012=碎骨锤
 
 tagWeaponBluntD001=死亡之兆
 tagWeaponBluntD001Desc=“死 亡 到 来 的 预 兆 。”
@@ -276,7 +277,7 @@ tagWeaponCrossbow2hC008=拜斯迈的悲惨乌鸦之弩
 tagWeaponCrossbow2hC008Desc=“俾 斯 麦 尔 的 虔 诚 追 随 者 所 用 的 标 志 性 武 器 。”
 tagWeaponCrossbow2hC009=尤达·贾克斯
 tagWeaponCrossbow2hC009Desc=“山 地 野 人 的 武 器 ， 工 艺 粗 糙 ， 却 好 用 的 得 令 人 感 到 吃 惊 。”
-tagWeaponCrossbow2hC010=使者的保卫者
+tagWeaponCrossbow2hC010=火花劲弩
 
 tagWeaponCrossbow2hD001=银箭
 tagWeaponCrossbow2hD001Desc=“恶 魔 猎 人 嗜 血 的 伊 迪 斯 选 用 了 这 把 武 器 ， 昔 日 冥 神 的 狂 热 信 徒 变 成 了 屠 魔 者 。”
@@ -347,6 +348,61 @@ tagWeaponMelee2hD007=凛冬之王的灾祸
 tagWeaponMelee2hD007Desc=“北方边境统治者，白狼之子，霍思纳尔王的圣剑，”
 tagWeaponMelee2hD008=时光弧形刃
 tagWeaponMelee2hD009=蛮血粉碎者
+
+tagWeaponCaster1hA001=Wand
+tagWeaponCaster1hA002=Scepter
+tagWeaponCaster1hA003=Arcane Wand
+tagWeaponCaster1hA004=Arcane Scepter
+tagWeaponCaster1hA005=Ritual Wand
+tagWeaponCaster1hA006=Ritual Scepter
+tagWeaponCaster1hA007=Exalted Scepter
+tagWeaponCaster1hA008=Sacrifical Knife
+tagWeaponCaster1hA009=Runed Dagger
+tagWeaponCaster1hA010=Arcane Dagger
+tagWeaponCaster1hA011=Spellblade
+tagWeaponCaster1hA012=Arcane Blade
+tagWeaponCaster1hA013=Ritual Dagger
+tagWeaponCaster1hA014=Ritual Blade
+tagWeaponCaster1hA015=Exalted Dagger
+
+
+tagWeaponCaster1hB001=Adept's Dagger
+tagWeaponCaster1hB002=Adept's Spellblade
+tagWeaponCaster1hB003=Master's Spellblade
+tagWeaponCaster1hB004=Adept's Wand
+tagWeaponCaster1hB005=Adept's Scepter
+tagWeaponCaster1hB006=Master's Scepter
+
+tagWeaponCaster1hC001=Burning Hatred
+tagWeaponCaster1hC002=Spellfire Wand
+tagWeaponCaster1hC003=Chillheart Scepter
+tagWeaponCaster1hC004=Stormcaller's Spellblade
+tagWeaponCaster1hC004_Desc="The blade sparks with energy, always hungry for more power."
+tagWeaponCaster1hC005=Voidblade
+tagWeaponCaster1hC006=Plagueblood Carver
+tagWeaponCaster1hC007=Soulcarver
+tagWeaponCaster1hC007_Desc="It is said that this blade cuts deeper than just the flesh."
+tagWeaponCaster1hC008=Cortosian Invoker
+tagWeaponCaster1hC008_Desc="Implement favored by the Cortosian Masters during arcane invocations."
+tagWeaponCaster1hC009=Coldsnap
+tagWeaponCaster1hC010=Lifebinder
+tagWeaponCaster1hC011=Sparkstone Scepter
+tagWeaponCaster1hC012=Firestorm Scepter
+tagWeaponCaster1hC013=Skyshard Spellblade
+tagWeaponCaster1hC013_Desc="Forged from the heart of a fallen star."
+tagWeaponCaster1hC014=Tainted Blade of Nera'Val
+tagWeaponCaster1hC014_Desc="Nera'Val was a medical practitioner obsessed with curing a deadly wasting disease. He infected and killed dozens of innocents in his mad pursuit and was hanged for his crimes."
+tagWeaponCaster1hC015=Fiendblood Spellblade
+tagWeaponCaster1hC016=Spellweaver
+tagWeaponCaster1hC016_Desc="Weaves the aether through reality as a needle threads cloth."
+tagWeaponCaster1hC017=Blightstone Invoker
+tagWeaponCaster1hC018=Cosmic Invoker
+tagWeaponCaster1hC019=Stormtrap
+tagWeaponCaster1hC020=Ritual Carver
+tagWeaponCaster1hC021=Glacierborn Spellblade
+tagWeaponCaster1hC022=Bloodied Dagger of the Covenant
+
+tagWeaponCaster1hD001=
 
 
 tagWeaponArcaneA001=粗制法杖
@@ -1111,6 +1167,8 @@ tagNecklaceC023=冰封之心
 tagNecklaceC024=焦土护符
 tagNecklaceC025=瘟疫法师的护符
 tagNecklaceC026=天蓝碎片
+tagNecklaceC027=刀刃卫士的勇气
+tagNecklaceC028=曼海尔的碎片
 
 tagNecklaceD001=拜斯迈的意志
 tagNecklaceD002=死亡之痕
@@ -1225,7 +1283,7 @@ tagBlueprint_RelicD012=设计图：遗物 - 贝尔戈蒂安的屠戮
 tagBlueprint_RelicD013=设计图：遗物 - 湮灭
 tagBlueprint_RelicD014=设计图：遗物 - 复仇者
 tagBlueprint_RelicD015=设计图：遗物 - 原始本能
-tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的毁灭
+tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的屠杀
 tagBlueprint_RelicD017=设计图：遗物 - 德里格的灾祸
 tagBlueprint_RelicD018=设计图：遗物 - 拜斯迈的主宰
 tagBlueprint_RelicD019=设计图：遗物 - 奥莱隆之怒
@@ -1289,12 +1347,20 @@ tagBlueprint_WeaponB021=设计图：霰弹手枪
 tagBlueprint_WeaponB022=设计图：专家级刃锤
 tagBlueprint_WeaponB023=设计图：专家级晨星锤
 tagBlueprint_WeaponB024=设计图：专家级凸缘钉头锤
+tagBlueprint_WeaponB025=设计图：专家级魔杖
+tagBlueprint_WeaponB026=设计图：专家级节杖
+tagBlueprint_WeaponB027=设计图：大师级节杖
+tagBlueprint_WeaponB028=设计图：专家级匕首
+tagBlueprint_WeaponB029=设计图：专家级魔刃
+tagBlueprint_WeaponB030=设计图：大师级魔刃
 
 tagBlueprint_WeaponC001=设计图：辟邪
 tagBlueprint_WeaponC002=设计图：鹰眼
 tagBlueprint_WeaponC003=设计图：风暴边缘
 tagBlueprint_WeaponC004=设计图：预兆之剑
 tagBlueprint_WeaponC005=设计图：震颤
+tagBlueprint_WeaponC006=设计图：咒火魔杖
+tagBlueprint_WeaponC007=设计图：火焰风暴节杖
 
 tagBlueprint_ArmorB001=设计图：专家级靴子
 tagBlueprint_ArmorB002=设计图：专家级护胫
@@ -1357,6 +1423,8 @@ tagRelicB013=快枪手护符
 tagRelicB013Desc=“能 够 同 时 手 持 两 把 手 枪 进 行 精 准 射 击 的 象 征 。”
 tagRelicB014=骸骨护符
 tagRelicB014Desc=“这 枚 骨 片 上 镌 刻 着 象 征 流 浪 者 精 神 力 量 的 话 语 和 符 号 。”
+tagRelicB015=象牙护符
+tagRelicB016=神圣护符
 
 tagRelicC001=仲裁
 tagRelicC001Desc=“公 平 正 义 ， 一 视 同 仁 和 不 偏 不 倚 ……”
@@ -1419,7 +1487,7 @@ tagRelicD014=复仇者
 tagRelicD014Desc=“没 错 ， 你 重 重 地 给 了 我 一 击 ， 不 过 我 才 会 笑 到 最 后 。”
 tagRelicD015=原始本能
 tagRelicD015Desc=“前 进 吧 ， 我 的 仆 从 。 是 时 候 享 用 你 的 盛 宴 了 ……”
-tagRelicD016=索拉尔的毁灭
+tagRelicD016=索拉尔的屠杀
 tagRelicD016Desc=“他 们 说 没 人 能 驾 驭 如 此 强 大 的 力 量 ， 所 以 我 将 不 再 为 人 。”
 tagRelicD017=德里格的灾祸
 tagRelicD017Desc=“他 们 不 让 你 知 道 的 绝 密 是 ： 生 命 孱 弱 无 比 本 是 个 谬 误 。”
@@ -1459,6 +1527,8 @@ tagCraftMaterial_Manticore=蝎尾狮之眼(第三章才有)
 tagCraftMaterial_Mancitore_Desc=“强 大 掠 食 者 的 锐 眼 。”
 tagCraftMaterial_SkeletonKey=骸骨之钥
 tagCraftMaterial_SkeletonKey_Desc=“如 果 传 言 是 真 的 ， 那 么 这 枚 钥 匙 将 能 开 启 几 乎 任 何 一 扇 远 古 之 门 。”
+tagCraftMaterial_CultistSeal=Ch'thonic Seal of Binding
+tagCraftMaterial_CultistSeal_Desc="Sigils used by the Cult of Ch'thon to bind powerful creatures to the physical realm."
 
 tagCraftRandomItemDesc=铁 匠 能 打 造 一 件 符 合 你 的 等 级 的 附 魔 装 备 ， 该 装 备 至 少 会 是 魔 法 品 质 的 。
 tagCraftComponentDesc=熟 练 的 锻 造 工 艺 能 出 产 高 品 质 的 材 料 。
@@ -1477,6 +1547,13 @@ tagCraftRandomGun1h=附魔单手枪械
 tagCraftRandomAxe2h=附魔双手斧
 tagCraftRandomBlunt2h=附魔双手钉锤
 tagCraftRandomSword2h=附魔双手剑
+tagCraftRandomCasterWeapon_01=附魔冰霜魔刃
+tagCraftRandomCasterWeapon_02=附魔火焰魔刃
+tagCraftRandomCasterWeapon_03=附魔强酸魔刃
+tagCraftRandomCasterWeapon_04=附魔闪电魔刃
+tagCraftRandomCasterWeapon_05=附魔活力魔刃
+tagCraftRandomCasterWeapon_06=附魔混沌魔刃
+tagCraftRandomCasterWeapon_07=附魔虚化魔刃
 
 tagCraftRandomRing=附魔戒指
 tagCraftRandomNecklace=附魔项链
@@ -1839,7 +1916,7 @@ tagCompB013Name=^k魂铁
 tagCompB013Desc=“禁 锢 其 中 的 魂 灵 让 你 满 脑 子 都 是 疯 狂 的 私 语 。”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc=“虽 然 只 是 传 说 中 的 神 剑 贝 若 纳 斯 的 一 片 碎 片 ， 但 仍 残 留 着 强 大 的 力 量 。”^w^n( 用 于 斧 和 剑 )
+tagCompB014Desc=“虽 然 只 是 传 说 中 的 神 剑 贝 若 纳 斯 的 一 片 碎 片 ， 但 仍 残 留 着 强 大 的 力 量 。”^w^n( 用 于 近 战 武 器 )
 
 tagCompB015Name=^k血腥磨石
 tagCompB015Desc=“浸 透 在 堕 落 之 血 中 ， 这 块 被 诅 咒 的 磨 刀 石 将 引 发 兵 刃 对 鲜 血 无 比 的 饥 渴  。”^w^n( 用 于 斧 和 剑 )
@@ -2243,6 +2320,10 @@ tagSuffixA057=沼泽之
 tagSuffixA058=狂风之
 tagSuffixA059=幽魂之
 tagSuffixA060=魔咒之
+tagSuffixA061=火焰之
+tagSuffixA062=寒冷之
+tagSuffixA063=电殛之
+tagSuffixA064=创伤之
 
 tagSuffixB001_Wpn_A=爆炎之
 tagSuffixB002_Wpn_A=疯狂之

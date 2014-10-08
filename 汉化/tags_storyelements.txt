@@ -266,6 +266,7 @@ tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者�
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门的连接……
 tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
+tagNotification_WarningGatesOfAnguishLocked=The Gates of Anguish are sealed and will not reopen again in this session.
 
 #NPC Names
 
@@ -328,23 +329,23 @@ tagNPC_Homestead_28=海勒姆
 tagNPC_Homestead_29=卡尔德罗斯
 tagNPC_Homestead_30=巴尔沃拉克
 
-tagNPC_AreaC_01=Anasteria
+tagNPC_AreaC_01=Scoutmaster Lysell
 tagNPC_AreaC_02=道格拉斯·沙利文·古冢
 tagNPC_AreaC_03=迈尔斯·法恩根
 tagNPC_AreaC_04=Inquisitor Creed
-tagNPC_AreaC_05=Kadris
+tagNPC_AreaC_05=Deathmark Kadris
 tagNPC_AreaC_06=Alleria
 tagNPC_AreaC_07=Kalista
-tagNPC_AreaC_08=Nathaniel
-tagNPC_AreaC_09=Lisandra
+tagNPC_AreaC_08=Nathaniel Thorn
+tagNPC_AreaC_09=Lisandra Avery
 tagNPC_AreaC_10=Brother Elluvius
 tagNPC_AreaC_11=Father Kymon
 tagNPC_AreaC_12=Master Varukk
 tagNPC_AreaC_13=The Keeper of Tomes
 tagNPC_AreaC_14=Rallia
-tagNPC_AreaC_15=
-tagNPC_AreaC_16=
-tagNPC_AreaC_17=
+tagNPC_AreaC_15=Captain Somer
+tagNPC_AreaC_16=Collin Taverin
+tagNPC_AreaC_17=Deathmark Vallar
 tagNPC_AreaC_18=
 tagNPC_AreaC_19=
 tagNPC_AreaC_20=
@@ -353,6 +354,11 @@ tagNPC_AreaC_22=
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
+
+tagNPC_AreaD_01=Spellbreaker Moira
+tagNPC_AreaD_02=Captain Reave
+tagNPC_AreaD_03=Quartermaster Edric
+tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=爆破点
 
@@ -399,7 +405,7 @@ tagNPC_Flavor_Homestead_12=贺拉斯
 tagNPC_Flavor_Necropolis_01=迪恩·古冢
 tagNPC_Flavor_Necropolis_02=丹尼·古冢
 tagNPC_Flavor_Necropolis_03=玛利亚·古冢
-tagNPC_Flavor_AreaC_04=Collin Taverin
+tagNPC_Flavor_AreaC_04=Deathmark Harriv
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -411,13 +417,21 @@ tagNPC_Flavor_AreaC_12=Elaine Cobble
 tagNPC_Flavor_AreaC_13=Julia Applesworth
 tagNPC_Flavor_AreaC_14=Shane Cobble
 tagNPC_Flavor_AreaC_15=Davis Morden
-tagNPC_Flavor_AreaC_16=Laaruka
+tagNPC_Flavor_AreaC_16=Laruka
 tagNPC_Flavor_AreaC_17=Caaraka
-tagNPC_Flavor_AreaC_18=Galarokk
+tagNPC_Flavor_AreaC_18=Galarok
 tagNPC_Flavor_AreaC_19=Ralukk
 tagNPC_Flavor_AreaC_20=Sister Thaddia
 tagNPC_Flavor_AreaC_21=Brother Lector
 tagNPC_Flavor_AreaC_22=Brother Ulnox
+tagNPC_Flavor_AreaC_23=Neddie
+tagNPC_Flavor_AreaC_24=Phil
+tagNPC_Flavor_AreaC_25=Oliver Thornsbury
+tagNPC_Flavor_AreaC_26=Henry Elmsworth
+tagNPC_Flavor_AreaC_27=Homestead Farmer
+tagNPC_Flavor_AreaC_28=
+tagNPC_Flavor_AreaC_29=Tracy Thornsbury
+tagNPC_Flavor_AreaC_30=Alex Elmsworth
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -457,6 +471,24 @@ tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history
 
 tagQuestItemSmithHammer=Malleum Menhir
 tagQuestItemSmithHammer_Desc="An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+
+tagQuestItemDermapteranPheromones_01=Lozakal's Pheromone Gland
+tagQuestItemDermapteranPheromones_01Desc="The stench emanating from this gland is nauseating."
+
+tagQuestItemDermapteranPheromones_02=Inixil's Pheromone Gland
+tagQuestItemDermapteranPheromones_02Desc="The stench emanating from this gland is nauseating."
+
+tagQuestItemManticorePoisonGland=Manticore Poison Gland
+tagQuestItemManticorePoisonGland_Desc="Dripping with a powerful toxin that burns the skin on contact."
+
+tagQuestItemNecromancerRemains=Remains of Malkadarr
+tagQuestItemNecromancerRemains_Desc="The still rotting remains of a once powerful necromancer."
+
+tagQuestItemExileBossDrop_01=Archive of Fates Untold
+tagQuestItemExileBossDrop_01Desc="This tome appears sealed by arcane forces. The cover refuses to budge."
+
+tagQuestItemExileBossDrop_02=Head of Archivist Thelon
+tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at you."
 
 #Journals
 

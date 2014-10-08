@@ -7,6 +7,25 @@ tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
 
 tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 
+tagBlackLegion_GuardMeleeA01=Black Legion ~ Footman
+tagBlackLegion_GuardRangedA01=Black Legion ~ Marksman
+
+tagBlackLegion_MeleeA01=Black Legion ~ Myrmidon
+tagBlackLegion_RangedA01=Black Legion ~ Deathmark
+tagBlackLegion_CasterB01=Black Legion ~ Battlemage
+tagBlackLegion_ChampionC01=Black Legion ~ Captain
+
+tagNecromancer_CasterA01=Death's Vigil ~ Neophyte
+tagNecromancer_CasterB01=Death's Vigil ~ Acolyte
+tagNecromancer_ChampionC01=Death's Vigil ~ Dreadlord
+tagNecromancer_Boss01=Master Ravok, the Death's Whisper
+tagNecromancer_Boss02=Malkadarr, Champion of Death's Vigil
+
+tagZealot_MeleeA01=Kymon's Chosen ~ Zealot
+tagZealot_RangedA01=Kymon's Chosen ~ Zealot
+tagZealot_CasterB01=Kymon's Chosen ~ Flamebearer
+tagZealot_ChampionC01=Kymon's Chosen ~ Blade Maiden
+tagZealot_AncestralSpirit=先祖之魂
 
 #CreatureAetherial
 
@@ -53,6 +72,11 @@ tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 
 tagBoneRatMiniBoss01=贮藏者 格兰德佩里斯
 
+#CreatureCelestial
+
+tagEnemyCelestial_QuestA01=Celestial Thing
+
+
 #CreatureChthonian
 
 tagEnemyChthonianMinionA01=冥灵先锋
@@ -67,7 +91,7 @@ tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
-#CreatureCthonianFiend
+#CreatureChthonianFiend
 
 tagEnemyVoidFiendA01=虚空恶魔
 tagEnemyVoidFiendA02=虚空异兽
@@ -79,12 +103,25 @@ tagVoidFiendHeroH03=虚空使者 森·特尔
 tagVoidFiendHeroH04=尼·特尔 ~ 压碎者
 tagVoidFiendHeroH05=古尔哥特·西恩 ~ 燃烧
 
+tagVoidFiendBoss01=Ballog'Nath, the Hellfire
+
+#CreatureChthonianDevourer
+
+tagEnemyChthonianDevourerA01=Chthonian Hungerer
+tagEnemyChthonianDevourerB01=Chthonian Devourer
+
+tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
+tagChthonianDevourerHeroH02=Sargo'Din, the Hunering Maw
+tagChthonianDevourerHeroH03=Nye'Kazul ~ Burning
+tagChthonianDevourerHeroH04=Waban'Ak ~ Electrified
+
 #CreatureDranghoul 咆哮巨兽
 
 tagEnemyDrangoulWarriorA01=咆哮巨兽 执行者
 tagEnemyDrangoulWarriorB01=咆哮巨兽 暴君
 
 tagDranghoulMiniBoss01=食人者 格特沃姆
+tagDranghoulMiniBoss02=血之盛宴 残忍巨兽
 
 tagDranghoulHeroH01=难以企及的拉尔切
 tagDranghoulHeroH02=驯犬师 鲁迦鲁
@@ -236,6 +273,9 @@ tagEnemyBloodswornC01=血誓 牧师
 
 tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
 tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
+tagEnemyBloodswornMiniBoss02=血之羁绊 伯瓦尔
+tagEnemyBloodswornMiniBoss03=屠刀 扎里亚
+tagBloodswornBoss01=血领主 泰隆尼斯
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯  ~ 恶棍
@@ -319,6 +359,10 @@ tagDermapteranHeroH03=沃斯巴莱克斯 ~ 迅捷
 tagDermapteranHeroH04=奥马里克斯 ~ 带电
 tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 
+tagDermapteranBoss01=Grand Vizier Lozakal
+tagDermapteranBoss02=Grand Vizier Inixil
+tagDermapteranBoss03=虫后 拉夫娜
+
 #CreatureInsectMosquito 蚊子
 
 tagEnemyInsectMosquitoA01=泥沼食血者
@@ -371,6 +415,8 @@ tagManticoreHeroH03=黑心 阿卡奥
 tagManticoreHeroH03=迅爪 尤若克西斯 ~ 迅捷
 tagManticoreHeroH04=猩红之爪 瓦罗克西斯  ~ 压碎者
 tagManticoreHeroH06=炎鬃 布拉泽拉
+
+tagManticoreBoss01=女王 莫伽拉
 
 #CreatureObsidianDefiler 黑曜石蝎子
 
@@ -563,6 +609,11 @@ tagThornedHorrorHeroH03=黑荆棘 ~ 伤害反弹
 tagThornedHorrorHeroH04=腐烂荆棘 ~ 疾病
 tagThornedHorrorHeroH05=长青 ~ 回复者
 tagThornedHorrorHeroH06=寒霜树皮 ~ 冰冻
+
+tagThornedHorrorBoss01=Ol' Bloodbriar
+
+tagEnemyAetherHorrorA01=
+
 tagThornedHorrorHeroH07=艾泽若斯
 
 
@@ -609,6 +660,8 @@ tagTrollCorruptedHeroH03=腐化
 tagTrollCorruptedHeroH04=卡拉德拉克 ~ 勇不可挡
 tagTrollCorruptedHeroH05=法尔德拉克 ~ 伤害反弹
 
+tagTrollCorruptedBoss01=Harrath the Slaughterer
+
 #CreatureUnderdwellers
 
 tagEnemyCaveTrollHalfA01=地下栖息者 暴徒
@@ -635,12 +688,15 @@ tagCaveGrobleHeroH01=阿卡拉 ~ 迅捷
 tagCaveGrobleHeroH02=欧巴拉克 ~ 支援者
 tagCaveTrollHeroH01=洞穴守护者 贝尔格拉克
 tagCaveTrollHeroH02=若沃斯 ~ 伤害反弹
-tagCaveSpiderHeroH01=黑暗 安苟利亚克斯
+tagCaveSpiderHeroH01=黑暗 谢尔勒
 tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 tagCavePrawnHeroH01=泰罗克里克斯
 tagCavePrawnHeroH02=基里克里克斯 ~ 冰冻
 tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御者
+
+tagCaveSpiderBoss01=Ungoliax, the Gloomweaver
+tagCavePrawnBoss01=Ikrix, the Ravener
 
 #creatureVultures 秃鹫
 
@@ -775,8 +831,9 @@ tagRace010=结构体
 tagRace011=裂隙生物
 tagRace012=野兽
 tagRace013=魔法生物
-tagRace001P=亡灵
 tagRace014=天神
+tagRace015=蜘蛛族
+tagRace001P=亡灵
 tagRace002P=兽人
 tagRace003P=虚灵
 tagRace004P=冥灵
@@ -790,3 +847,4 @@ tagRace011P=裂隙生物
 tagRace012P=野兽
 tagRace013P=魔法生物
 tagRace014P=天神
+tagRace015P=蜘蛛族

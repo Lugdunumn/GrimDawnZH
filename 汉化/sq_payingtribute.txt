@@ -9,10 +9,14 @@ You have delivered the scrap to Silas, ensuring that New Harbor does not suffer 
 Return to Alicia at New Harbor
 
 
+
+
 Bribe Return
 You have bribed Silas to leave New Harbor alone. You should let Alicia know that the outlaws will leave them alone from now on.
 
 Return to Alicia at New Harbor
+
+
 
 
 
@@ -29,10 +33,13 @@ Return to Alicia at New Harbor
 
 
 
+
+
 Silas Fled
 You have slain Cronley and scattered his gang. Silas fled before you had a chance to deal with him. Speak to Alicia about the good news.
 
 Return to Alicia at New Harbor
+
 
 
 

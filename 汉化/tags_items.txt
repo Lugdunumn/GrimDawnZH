@@ -1702,7 +1702,7 @@ tagCompA004Name=坚韧兽皮
 tagCompA004Desc=“一 块 厚 厚 的 兽 皮 ， 粗 糙 的 表 面 非 常 适 合 用 来 吸 收 突 如 其 来 的 冲 击 。 ”^w^n( 用 于 头 盔 )
 
 tagCompA005Name=符文之石
-tagCompA005Desc=“一 种 神 秘 的 符 文 灌 注 在 这 块 石 头 之 中 。 ”^w^n( 用 于 手 套 )
+tagCompA005Desc=“一 种 神 秘 的 符 文 灌 注 在 这 块 石 头 之 中 。 ”^w^n( 用 于 头 盔 )
 
 tagCompA006Name=突变脓水
 tagCompA006Desc=“从 感 染 了 异 世 界 能 量 的 生 物 身 上 取 得 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )

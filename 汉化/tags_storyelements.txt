@@ -154,7 +154,7 @@ tagWorldMapTheStepsOfTorment={^w}苦痛阶梯
 tagWorldMapBrokenHills=破碎丘陵
 tagWorldMapTwinFalls={^w}双子瀑布
 tagWorldMapBarrenHighlands={^w}贫瘠高地
-tagWorldMapSmugglersPass={^w}走私者的通道
+tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
 
 #Signs
 

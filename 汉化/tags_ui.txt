@@ -792,10 +792,10 @@ tagCraftingConfirmation=你确定要进行合成吗？
 
 tagCraftingDetatchmentInfo=
 
-tagCraftingProductBoxInfo=一旦所需材料均已就位，要锻造的物品就会在这里出现。
-tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品。
+tagCraftingProductBoxInfo=一 旦 所 需 材 料 均 已 就 位 ， 要 锻 造 的 物 品 就 会 在 这 里 出 现 。
+tagCraftingProductBoxCompletion=从 工 作 台 上 取 走 你 刚 刚 锻 造 的 物 品 。
 
-tagCraftingInsterComponent=把设计图特定的组作加入到这些空位中。
+tagCraftingInsterComponent=把 设 计 图 特 定 的 组 件 加 入 到 这 些 空 位 中 。
 
 #Subheadings
 
@@ -843,10 +843,10 @@ tagDividingCost=回收花费
 
 tagDismantleDynamiteTotal=炸药总数：
 tagDismantleCost=拆解消耗：
-tagDismantleButton=选择拆解会彻底摧毁该物品。
-tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
-tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留组件，继续？
-tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
+tagDismantleButton=选 择 拆 解 会 彻 底 摧 毁 该 物 品 。
+tagDismantleDestroyItemWarning=选 择 拆 解 会 彻 底 摧 毁 该 物 品 ， 继 续 ？
+tagDismantleDestroyItemComponentWarning=选 择 拆 解 会 彻 底 摧 毁 该 物 品 并 保 留 组 件 ， 继 续 ？
+tagDismantleBoxInfo=放 置 一 个 普 通 级 别 以 上 的 物 品 到 工 作 台 。
 
 #Smuggler
 
@@ -861,7 +861,7 @@ tagTransferCost=转移花费：{%d0}
 tagTransferAdd=你确定要将该物品放入共享存储中？
 tagTransferInfo01=使 用 走 私 者 来 给 其 他 人 物 转 移 物 品 。 只 需 要 把 物 品 丢 进 去 ， 你 的 所 有 角 色 就 都 能 取 用 了 。
 tagCaravanItemTransfer=共享仓库
-tagTransferInfo02=将物品放入共享仓库让你的所有人物都能使用。
+tagTransferInfo02=将 物 品 放 入 共 享 仓 库 让 你 的 所 有 人 物 都 能 使 用 。
 tagCaravanError01=你没有足够的金钱来转移这件物品。
 tagStorageError01=你没有足够的金钱来购买拓展存储空间。
 tagTransferError01=你需要{%d0}铁币来购买一个拓展存储空间。
@@ -897,29 +897,29 @@ tagWorldMapWindowName=世界地图
 tagMapSymbolAOI=POI
 tagMapSymbolAOIDesc=一个兴趣点。
 tagMapSymbolSmuggler=走私者
-tagMapSymbolSmugglerDesc=一个存储你的装备并能在你的角色之间运送装备的不法分子.
+tagMapSymbolSmugglerDesc=一 个 存 储 你 的 装 备 并 能 在 你 的 角 色 之 间 运 送 装 备 的 不 法 分 子 。
 tagMapSymbolHero=玩家
-tagMapSymbolHeroDesc=你的当前位置.
+tagMapSymbolHeroDesc=你的当前位置。
 tagMapSymbolInventor=发明家
-tagMapSymbolInventorDesc=一个有从装备上移除附加部件本事的修补匠.
+tagMapSymbolInventorDesc=一 位 有 从 装 备 上 移 除 附 加 部 件 本 领 的 工 匠 。
 tagMapSymbolMission=任务
-tagMapSymbolMissionDesc=当前任务.
+tagMapSymbolMissionDesc=当前任务。
 tagMapSymbolNPC=NPC
-tagMapSymbolNPCDesc=非玩家角色.
-tagMapSymbolGroup=Group
-tagMapSymbolGroupDesc=你的组员的位置.
+tagMapSymbolNPCDesc=非玩家角色。
+tagMapSymbolGroup=团队
+tagMapSymbolGroupDesc=你 的 团 队 成 员 的 位 置 。
 tagMapSymbolRespawn=治疗师
-tagMapSymbolRespawnDesc=一个在恢复活力与缝合严重创伤方面训练有素的治疗师.
+tagMapSymbolRespawnDesc=一 个 在 恢 复 活 力 与 缝 合 严 重 创 伤 方 面 训 练 有 素 的 治 疗 师 。
 tagMapSymbolRiftgate=裂缝之门
-tagMapSymbolRiftgateDesc=一个能够传送你到其他地点的非现实世界空间裂缝.
+tagMapSymbolRiftgateDesc=一 个 能 够 传 送 你 到 其 他 地 点 的 非 现 实 世 界 空 间 裂 缝 。
 tagMapSymbolVendor=商贩
-tagMapSymbolVendorDesc=一个资源货物的商人.
+tagMapSymbolVendorDesc=一 个 贩 卖 货 物 的 商 人 。
 tagMapSymbolWitch=灵魂向导
-tagMapSymbolWitchDesc=一个能够帮助你忘却技能的灵魂人物.
+tagMapSymbolWitchDesc=一 位 能 够 帮 助 你 忘 却 技 能 的 人 物 。
 tagMapSymbolShrine=祭坛
-tagMapSymbolShrineDesc=祭坛会提供有用的增益。
+tagMapSymbolShrineDesc=祭 坛 会 提 供 有 用 的 增 益 。
 tagMapSymbolSmith=铁匠
-tagMapSymbolSmithDesc=一位技艺精湛能够打造新物品的工匠。
+tagMapSymbolSmithDesc=一 位 技 艺 精 湛 能 够 打 造 新 物 品 的 工 匠 。
 
 #SystemStatsSkillUI
 

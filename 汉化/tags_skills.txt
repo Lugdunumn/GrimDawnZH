@@ -1126,10 +1126,10 @@ tagItemSkillFailDesc=Fail a little harder.
 tagCompSkillA001Name=酸性打击
 tagCompSkillA001Desc=Lash out at your opponent using corrosive acid, melting through even the toughest defenses.
 
-tagCompSkillA002Name=Aether Tendril
+tagCompSkillA002Name=虚化藤蔓
 tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
 
-tagCompSkillA003Name=Banish
+tagCompSkillA003Name=放逐
 tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
 
 tagCompSkillA004Name=破甲光环 I
@@ -1192,19 +1192,19 @@ tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coat
 tagCompSkillA023Name=剧毒炸弹 II
 tagCompSkillA023Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
 
-tagCompSkillA024Name=Radiant Shield
+tagCompSkillA024Name=辐光之盾
 tagCompSkillA024Desc=Imbue your shield against the elements.
 
-tagCompSkillA025Name=Sacred Strike
+tagCompSkillA025Name=神圣打击
 tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
 
-tagCompSkillA026Name=Shield Slam I
+tagCompSkillA026Name=盾牌猛击 I
 tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillA027Name=Shield Spike
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^oRequires a melee weapon.
+tagCompSkillA027Name=刺盾
+tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^o需 要 一 把 近 战 武 器 。
 
-tagCompSkillA028Name=Silver Edge
+tagCompSkillA028Name=银之刀锋
 tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
 
 tagCompSkillA029Name=猛击 I
@@ -1248,73 +1248,73 @@ tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and cr
 
 #Relic Skills
 
-tagRelicSkillB001Name=Calamity
+tagRelicSkillB001Name=灾虐
 tagRelicSkillB001Desc=A burst of searing brimstones erupts from you.
 
-tagRelicSkillB002Name=Rapid Strike
+tagRelicSkillB002Name=快速打击
 tagRelicSkillB002Desc=Begin rapidly attacking in the hopes of landing a few stray blows.
 
-tagRelicSkillB003Name=Tranquility
+tagRelicSkillB003Name=宁静
 tagRelicSkillB003Desc=Overwhelm nearby enemies with your mind.
 
-tagRelicSkillB004Name=Ice Surge
+tagRelicSkillB004Name=寒冰巨浪
 tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice .
 
-tagRelicSkillB005Name=Lightning Storm
+tagRelicSkillB005Name=闪电风暴
 tagRelicSkillB005Desc=Summon a storm cloud over the target area, periodically electrocuting enemies caught underneath it.
 
-tagRelicSkillB006Name=Volcanic Fury
+tagRelicSkillB006Name=火山之怒
 tagRelicSkillB006Desc=Fills you with fiery fury, causing your attacks to ignite enemies.
 
-tagRelicSkillB007Name=Corruption
+tagRelicSkillB007Name=腐化
 tagRelicSkillB007Desc=Corrupts your blood, causing it to spread a deadly contagion to those that dare strike you.
 
-tagRelicSkillB008Name=Sanctuary
+tagRelicSkillB008Name=庇护
 tagRelicSkillB008Desc=A protective barrier forms around you whenever an enemy manages to find a weak point in your defenses.
 
-tagRelicSkillB009Name=Guile
+tagRelicSkillB009Name=诡诈
 tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillB010Name=Rampage
+tagRelicSkillB010Name=狂暴
 tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
 
-tagRelicSkillB011Name=Troll Rage
+tagRelicSkillB011Name=巨魔之怒
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
 
-tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Name=毁伤
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^o这 是 一 项 近 战 双 持 技 能 ， 也 会 激 活 双 持 近 战 武 器 的 能 力 。
 
-tagRelicSkillB013Name=Volley
+tagRelicSkillB013Name=齐射
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
 
-tagRelicSkillC001Name=Gavel of Justice
+tagRelicSkillC001Name=制裁之锤
 tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
 
-tagRelicSkillC002Name=Living Fortress
-tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oRequires a shield.
+tagRelicSkillC002Name=移动城堡
+tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^o需 要 一 块 盾 牌。
 
 tagRelicSkillC003Name=浴血
 tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
-tagRelicSkillC004Name=Unstoppable
+tagRelicSkillC004Name=勇不可当
 tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
 
-tagRelicSkillC005Name=Terror
+tagRelicSkillC005Name=恐惧
 tagRelicSkillC005Desc=Instill sheer terror into the hearts of your enemies, eating away at them from within.
 
-tagRelicSkillC006Name=Torment
+tagRelicSkillC006Name=苦痛
 tagRelicSkillC006Desc=Invoke a terrible curse upon any that would dare strike you, causing weakness and intense pain.
 
-tagRelicSkillC007Name=Haunt
+tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
-tagRelicSkillC008Name=Conflagration
+tagRelicSkillC008Name=爆炎
 tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
 
-tagRelicSkillC009Name=Summon Stormhound
+tagRelicSkillC009Name=召唤风暴魔犬
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.
 
-tagRelicSkillC010Name=Deathchill Aura
+tagRelicSkillC010Name=死寒光环
 tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillC011Name=牺牲
@@ -1323,38 +1323,38 @@ tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks 
 tagRelicSkillC012Name=热忱
 tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oRequires a melee weapon.
 
-tagRelicSkillC013Name=Desolation
+tagRelicSkillC013Name=荒芜
 tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
 tagRelicSkillC013Desc2=Destroy the earth beneath your feet with destructive static force.
 
-tagRelicSkillC014Name=Blight
+tagRelicSkillC014Name=枯萎
 tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
 
-tagRelicSkillC015Name=Ancestral Bond
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillC015Name=先祖的羁绊
+tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此 技 能 需 要 开 启 以 保 持 生 效
 
-tagRelicSkillD001Name=Aegis
+tagRelicSkillD001Name=守护
 tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
 
-tagRelicSkillD002Name=Malediction
+tagRelicSkillD002Name=诅咒
 tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD003Name=召唤复仇女神
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
 
-tagRelicSkillD004Name=Citadel
+tagRelicSkillD004Name=堡垒
 tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
 
 tagRelicSkillD005Name=风暴召唤者光环
 tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillD006Name=Reckoning
+tagRelicSkillD006Name=清算
 tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
 
-tagRelicSkillD007Name=Scourge Strike
+tagRelicSkillD007Name=天灾打击
 tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
 
-tagRelicSkillD008Name=Pyroclasm
+tagRelicSkillD008Name=火焰冲撞
 tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
 
 tagRelicSkillD009Name=坏死
@@ -1381,7 +1381,7 @@ tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth 
 tagRelicSkillD016Name=屠杀
 tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
 
-tagRelicSkillD017Name=Dreeg's Afflicted Spines
+tagRelicSkillD017Name=德里格的痛苦尖刺
 tagRelicSkillD017Desc=Unleash a ring of Dreeg's poisonous spines upon your unsuspecting foes, infecting them with the great one's blood.
 
 tagRelicSkillD018Name=狂热献身

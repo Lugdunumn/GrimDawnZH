@@ -488,16 +488,16 @@ tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantat
 tagClass05SkillName02D=化身
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
 
-tagClass05SkillName03A=Trozan's Sky Shard
+tagClass05SkillName03A=特洛赞的天之裂片
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
-tagClass05SkillName03B=Frozen Core
+tagClass05SkillName03B=冰封之核
 tagClass05SkillDescription03B=The ice trapped within the Sky Shard becomes released upon collision, bathing those near the point of impact with a freezing chill.
-tagClass05SkillName03C=Shattered Star
+tagClass05SkillName03C=碎裂星体
 tagClass05SkillDescription03C=The Sky Shard becomes increasingly unstable upon descent, building up a dangerous amount of charge as it propels through the sky.
 
-tagClass05SkillName04A=Callidor's Tempest
+tagClass05SkillName04A=卡里多的风暴
 tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
-tagClass05SkillName04B=Inferno
+tagClass05SkillName04B=炼狱
 tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
 tagClass05SkillName04C=阿格维克斯的愤怒
 tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
@@ -514,7 +514,7 @@ tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turn
 tagClass05SkillName06C=堕落之力
 tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
  
-tagClass05SkillName07A=Nullification
+tagClass05SkillName07A=无效
 tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
 
 tagClass05SkillName08A=毁灭
@@ -529,17 +529,17 @@ tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations 
 tagClass05SkillName11A=精神迅捷
 tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
 
-tagClass05SkillName12A=Fabric of Reality
+tagClass05SkillName12A=现实的脉络
 tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
 
 tagClass05SkillName13A=奥莱克西拉的屏障
 tagClass05SkillDescription13A=Olexra favored the use of ice in her spellcasting. One of her tactics involved raising up a wall of volatile ice spikes to keep her foes at bay while she attacked safely from the other side.
 tagClass05SkillName13B=寒冰光环
 tagClass05SkillDescription13B=Icy Barrier chills nearby enemies.
-tagClass05SkillName13C=Icy End
+tagClass05SkillName13C=冰之终结
 tagClass05SkillDescription13C=Icy Barrier collapses in an explosion of ice.
 
-tagClass05SkillName14A=Mirror of Ereoctes
+tagClass05SkillName14A=艾瑞奥特之镜
 tagClass05SkillDescription14A=In an instant, the air around you becomes hard as stone, absorbing all manner of attacks and reflecting them back at the attacker; a favoured technique of Master Ereoctes.
 
 tagClass05SkillName15A=狂野之力
@@ -781,66 +781,66 @@ tagItemSkillC003Desc=Throws the target into a berserker-like rage, causing it to
 tagItemSkillC004Name=坚定守卫
 tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat.
 
-tagItemSkillC004PetSkill01=Taunting Roar
+tagItemSkillC004PetSkill01=嘲讽之吼
 tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby enemies.
 
-tagItemSkillC004PetSkill02=Innate Attributes
+tagItemSkillC004PetSkill02=基本属性
 
 tagItemSkillC005Name=鲁莽守卫
 tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
 
-tagItemSkillC005PetSkill01=Frenzied Roar
+tagItemSkillC005PetSkill01=狂乱之吼
 tagItemSkillC005PetSkill01Desc=The guardian roars, emboldening nearby allies.
 
-tagItemSkillC006Name=Plague of Rust
+tagItemSkillC006Name=腐蚀瘟疫
 tagItemSkillC006Desc=Unleashes a powerful contagion among your enemies that eats away at armor and spreads rapidly.
 
-tagItemSkillC007Name=Plague of Brittle Bones
+tagItemSkillC007Name=碎骨瘟疫
 tagItemSkillC007Desc=Unleashes a powerful contagion among your enemies that devours bones and spreads rapidly.
 
-tagItemSkillC008Name=Plague of Shattered Souls
+tagItemSkillC008Name=碎魂瘟疫
 tagItemSkillC008Desc=Unleashes a powerful contagion among your enemies that saps the spirit and spreads rapidly.
 
-tagItemSkillC009Name=Plague of Consumption
+tagItemSkillC009Name=噬命瘟疫
 tagItemSkillC009Desc=Unleashes a powerful contagion among your enemies that saps vitality and spreads rapidly.
 
-tagItemSkillC010Name=Plague of Terror
+tagItemSkillC010Name=恐惧瘟疫
 tagItemSkillC010Desc=Unleashes a powerful contagion among your enemies that incites fear and spreads rapidly.
 
-tagItemSkillC011Name=Plague of Fatigue
+tagItemSkillC011Name=疲惫瘟疫
 tagItemSkillC011Desc=Unleashes a powerful contagion among your enemies that causes fatigue and spreads rapidly.
 
-tagItemSkillC012Name=Plague of Rot
+tagItemSkillC012Name=腐坏瘟疫
 tagItemSkillC012Desc=Unleashes a powerful contagion among your enemies that infects with toxins and spreads rapidly.
 
-tagItemSkillC013Name=Plague of Corruption
+tagItemSkillC013Name=腐化瘟疫
 tagItemSkillC013Desc=Unleashes a powerful contagion among your enemies that creates dissent and spreads rapidly.
 
-tagItemSkillC014Name=Dominate
+tagItemSkillC014Name=支配
 tagItemSkillC014Desc=Overpowers the mind of the target, forcing it to fight for you for a period of time.
 
-tagItemSkillC015Name=Gutripper
+tagItemSkillC015Name=裂肠
 tagItemSkillC015Desc=Hurl a clump of jagged shrapnel at nearby enemies.
 
-tagItemSkillC016Name=Volcanic Burst
+tagItemSkillC016Name=火山喷发
 tagItemSkillC016Desc=Unleash a burst of molten fragments at nearby enemies.
 
-tagItemSkillC017Name=Static Burst
+tagItemSkillC017Name=静电爆发
 tagItemSkillC017Desc=Unleash a burst of electric bolts at nearby enemies.
 
-tagItemSkillC018Name=Hooked Net
+tagItemSkillC018Name=钩网
 tagItemSkillC018Desc=Capture your prey with a net that ensnares and constricts the target.
 
-tagItemSkillC019Name=Flamer
+tagItemSkillC019Name=喷火
 tagItemSkillC019Desc=Unleash a burst of fiery death in a line.
 
-tagItemSkillC020Name=Arctic Blast
+tagItemSkillC020Name=极寒冲击
 tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
 
-tagItemSkillC021Name=Lightning Bolt
+tagItemSkillC021Name=雷击
 tagItemSkillC021Desc=Calls forth holy justice from the heavens.
 
-tagItemSkillC022Name=Bolt Burst
+tagItemSkillC022Name=连射
 tagItemSkillC022Desc=A trick with the loading mechanism allows for an occasional burst of ammo to be unleashed in rapid succession.
 
 tagItemSkillC023Name=疫病之咬
@@ -885,19 +885,19 @@ tagItemSkillC035Desc=Tear a warp in time itself at the location of your attacker
 tagItemSkillC036Name=杀意
 tagItemSkillC036Desc=Enter a dangerous state of mind that leaves little room for doubt and second thoughts.
 
-tagItemSkillC037Name=Slime Ball
+tagItemSkillC037Name=黏液之球
 tagItemSkillC037Desc=Hurl a sticky projectile of disease and slime, immobilizing and slowing your enemies.
 
-tagItemSkillC038Name=Chillwind
+tagItemSkillC038Name=冰风
 tagItemSkillC038Desc=Unleash a burst of chilling spines that pierce through armor and freeze flesh.
 
-tagItemSkillC039Name=Concussive Charge
+tagItemSkillC039Name=震荡炸弹
 tagItemSkillC039Desc=Hurls a concussive bomb that leaves your target in a stunned daze.
 
-tagItemSkillC040Name=Anti-Clotting Dart
+tagItemSkillC040Name=抗凝血标枪
 tagItemSkillC040Desc=Fire a dart of anti-clotting chemicals that prevent wounds from healing, inducing heavy bleeding.
 
-tagItemSkillC041Name=Spectral Wave
+tagItemSkillC041Name=幽魂波
 tagItemSkillC041Desc=Unleash a wave of angry spirits to drain the life out of your enemies.
 
 tagItemSkillC042Name=Add a Notch

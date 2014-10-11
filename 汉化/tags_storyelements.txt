@@ -1,6 +1,6 @@
 #Region Names
 
-tagMapDevilsCrossing01=魔鬼路口
+tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口
 tagMapBurialHill=殓葬山脉
 tagMapOldDump=古旧垃圾场
@@ -98,7 +98,7 @@ tagUGBrokenHills05=尖啸山谷
 
 #Riftgate Names
 
-tagRiftDevilsCrossing=魔鬼路口传送门
+tagRiftDevilsCrossing=恶魔十字传送门
 tagRiftLowerCrossing=下游渡口传送门
 tagRiftBurrwitchRoad=迷雾河畔传送门
 tagRiftWightmire=尸妖泥沼传送门
@@ -141,7 +141,7 @@ tagWorldMapWightmire=尸妖泥沼
 tagWorldMapTheOldDump={^w}古旧{^n}{^w}垃圾场
 tagWorldMapBurialHill={^w}殓葬山
 tagWorldMapLowerCrossing=下游渡口
-tagWorldMapDevilsCrossing=魔鬼路口
+tagWorldMapDevilsCrossing=恶魔十字
 tagWorldMapKymonsRetreat={^w}凯蒙的{^n}{^w}隐居处
 tagWorldMapArkovianFoothills=安克维亚{^n}山麓
 tagWorldMapCrumblingWatch={^w}瞭望塔遗迹
@@ -159,7 +159,7 @@ tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
 #Signs
 
 tagSign_BurialHill=殓葬山
-tagSign_DevilsCrossing=魔鬼路口
+tagSign_DevilsCrossing=恶魔十字
 tagSign_Wightmire=尸妖泥沼
 tagSign_Burrwitch=伯尔维治村
 tagSign_Malmouth=马尔茅斯
@@ -286,7 +286,7 @@ tagNPC_Guard_DCRanged01=守卫-梅纳德
 tagNPC_Guard_DCRanged02=守卫-拉斯
 tagNPC_Guard_DCMelee01=守卫-布瑞格斯
 tagNPC_Guard_DCMelee02=守卫-奥克斯利
-tagNPC_BountyBoard=魔鬼路口悬赏
+tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
 tagNPC_Guard_Female02=突击手

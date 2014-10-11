@@ -442,7 +442,7 @@ tagShieldB005=军用盾
 tagShieldB006=攻城盾
 tagShieldB007=君权盾
 
-tagShieldC001=魔鬼路口防御者
+tagShieldC001=恶魔十字防御者
 tagShieldC002=源质
 tagShieldC002Desc="获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
 tagShieldC003=帝国卫兵的防御者

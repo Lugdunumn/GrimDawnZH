@@ -1994,7 +1994,7 @@ tagBonusAttribPoint={%+d0} 属性点数
 
 
 tagItemSetC001Name=帝国卫兵的戎装
-tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 兼 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 惧 黎 明 之 后 留 存 无 几 。”
+tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 兼 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 怖 黎 明 发 生 之 后 留 存 无 几 。”
 
 tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc=“轻 便 且 耐 用 的 护 甲 ， 为 渴 望 探 险 的 人 而 准 备 。”

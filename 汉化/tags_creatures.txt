@@ -7,24 +7,24 @@ tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
 
 tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 
-tagBlackLegion_GuardMeleeA01=Black Legion ~ 步兵
-tagBlackLegion_GuardRangedA01=Black Legion ~ 射手
+tagBlackLegion_GuardMeleeA01=黑色军团 ~ 步兵
+tagBlackLegion_GuardRangedA01=黑色军团 ~ 射手
 
-tagBlackLegion_MeleeA01=Black Legion ~ Myrmidon
-tagBlackLegion_RangedA01=Black Legion ~ Deathmark
-tagBlackLegion_CasterB01=Black Legion ~ Battlemage
-tagBlackLegion_ChampionC01=Black Legion ~ Captain
+tagBlackLegion_MeleeA01=黑色军团 ~ 近卫
+tagBlackLegion_RangedA01=黑色军团 ~ 死亡印记
+tagBlackLegion_CasterB01=黑色军团 ~ 战法师
+tagBlackLegion_ChampionC01=黑色军团 ~ 指挥官
 
-tagNecromancer_CasterA01=Death's Vigil ~ Neophyte
-tagNecromancer_CasterB01=Death's Vigil ~ Acolyte
-tagNecromancer_ChampionC01=Death's Vigil ~ Dreadlord
-tagNecromancer_Boss01=Master Ravok, the Death's Whisper
-tagNecromancer_Boss02=Malkadarr, Champion of Death's Vigil
+tagNecromancer_CasterA01=死亡守夜人 ~ 初阶信徒
+tagNecromancer_CasterB01=死亡守夜人 ~ 侍僧
+tagNecromancer_ChampionC01=死亡守夜人 ~ 恐惧领主
+tagNecromancer_Boss01=死亡暗语者 拉沃克大师
+tagNecromancer_Boss02=死亡守夜人勇士 马卡达
 
-tagZealot_MeleeA01=Kymon's Chosen ~ 狂战士
-tagZealot_RangedA01=Kymon's Chosen ~ 狂战士
-tagZealot_CasterB01=Kymon's Chosen ~ Flamebearer
-tagZealot_ChampionC01=Kymon's Chosen ~ 剑姬
+tagZealot_MeleeA01=凯蒙的神选战士 ~ 狂战士
+tagZealot_RangedA01=凯蒙的神选战士 ~ 狂战士
+tagZealot_CasterB01=凯蒙的神选战士 ~ 持火者
+tagZealot_ChampionC01=凯蒙的神选战士 ~ 剑姬
 tagZealot_AncestralSpirit=先祖之魂
 
 #CreatureAetherial
@@ -110,10 +110,10 @@ tagVoidFiendBoss01=地狱之火 巴洛格纳斯
 tagEnemyChthonianDevourerA01=冥灵饥饿者
 tagEnemyChthonianDevourerB01=冥灵吞噬者
 
-tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
-tagChthonianDevourerHeroH02=Sargo'Din, the Hunering Maw
-tagChthonianDevourerHeroH03=Nye'Kazul ~ 燃烧
-tagChthonianDevourerHeroH04=Waban'Ak ~ 带电
+tagChthonianDevourerHeroH01=湮灭之爪 紐加鲁
+tagChthonianDevourerHeroH02=饥饿之胃 萨戈丁
+tagChthonianDevourerHeroH03=奈卡祖尔 ~ 燃烧
+tagChthonianDevourerHeroH04=沃班纳 ~ 带电
 
 #CreatureDranghoul 咆哮巨兽
 
@@ -123,7 +123,7 @@ tagEnemyDrangoulWarriorB01=咆哮巨兽 暴君
 tagDranghoulMiniBoss01=食人者 格特沃姆
 tagDranghoulMiniBoss02=血之盛宴 残忍巨兽
 
-tagDranghoulHeroH01=难以企及的拉尔切
+tagDranghoulHeroH01=无影无形的拉尔切
 tagDranghoulHeroH02=驯犬师 鲁迦鲁
 tagDranghoulHeroH03=奥格拉 ~ 免疫控制
 tagDranghoulHeroH04=里夫 ~ 燃烧

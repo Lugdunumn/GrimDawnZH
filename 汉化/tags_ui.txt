@@ -11,7 +11,7 @@ tagPromptButtonNo=否
 tagPromptButtonOkay=好
 tagPromptButtonClose=关闭
 
-tagGraveName=玩家坟墓~{%t0}
+tagGraveName=玩家坟墓 ~ {%t0}
 tagGraveSlainBy=死于{%t0}
 tagGraveXPRecovered=回收经验：{%d0}
 tagHeroXP=敌方英雄经验 {%d0}

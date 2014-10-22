@@ -167,8 +167,8 @@ tagHUDRoll_XP={%s0} {%d1} ~ {%s2} {%d3}
 tagHUDXP_Current=经验
 tagHUDXP_Next=下一等级
 tagMaxLevel=已达最高等级
-tagSkillRefreshTime=-{%.1f0} {%z1}冷却时间
-tagSkillRefreshTimeInfinate=100% 减少冷却时间
+tagSkillRefreshTime={%z1}的冷却时间 -{%.1f0} 
+tagSkillRefreshTimeInfinate=冷却时间减少 100% 
 
 tagSkillUnusableLowMana=能量过低
 tagSkillUnusableCooldown=技能冷却中
@@ -232,8 +232,8 @@ tagSkillClassSelectInfo=选 择 一 个 职 业 {^n}{^n} 一 旦 你 做 出 了
 tagSkillReq01=还需要 {%d0} 点额外点数在{%s1}中。
 tagSkillReq01Singular=还需要 {%d0} 点额外点数在{%s1}中。
 tagSkillReq02=还需要 {%d0} 点额外点数在{%s1}中以及技能{%s2}。
-tagSkillReq02Singular=还需要 {%d0} 点额外点数在{%s1}中以及技能{%s2}。
-tagSkillReq03=需要技能{%s1}。
+tagSkillReq02Singular=还需要 {%d0} 点额外点数在{%s1}以及技能{%s2}中。
+tagSkillReq03=需要学会技能{%s1}。
 tagSkillPointsRemain={%d0} 点剩余点数
 tagSkillPointsRemainSingular={%d0} 点剩余点数
 

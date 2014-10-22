@@ -257,16 +257,16 @@ tagNotification_LostApprenticeFound=卡 斯 帕 罗 夫 的 学 徒 在 这 儿 
 
 tagNotification_HS_RemoveTheHead_ElsaFound=看 起 来 克 隆 利 没 有 抓 艾 尔 莎 ……
 tagNotification_HS_SpoilsOfTheGrimDawn=你 找 到 了 古 老 的 遗 迹 。
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=The old coastal bridge is destroyed. You will need to find a way through Smuggler's Pass
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=You have gone through Smuggler's Pass. Seek a way into Homestead.
-tagNotification_HS_WeNeedFood_HomesteadRefugees=You discovered a group of refugees beyond Smuggler's Pass.
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海 边 的 旧 桥 被 毁 掉 了 ， 你 需 要 在 走 私 者 的 通 道 内 找 出 一 条 路 来 。
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你 已 经 穿 越 了 走 私 者 的 通 道 ， 寻 找 通 往 霍 姆 斯 特 德 的 道 路 吧 。
+tagNotification_HS_WeNeedFood_HomesteadRefugees=在 走 私 者 的 通 道 的 另 一 边 ， 你 发 现 了 一 群 难 民 。
 tagNotification_HS_OldArkoviaPassagesCompleted=你 已 经 找 齐 了 讲 述 安 克 维 亚 文 章 的 所 有 章 节 并 考 察 了 其 中 的 内 容 。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你 得 到 了 一 片 被 污 染 者 的 灵 魂 碎 片 ！
 
 tagNotification_WarningToughArea=有 个 远 比 你 强 大 的 怪 物 栖 息 在 这 里 ……
-tagNotification_WarningRiftgateDisabled=在 这 里 你 失 去 了 与 裂 缝 传 送 门 的 连 接 ……
-tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
-tagNotification_WarningGatesOfAnguishLocked=The Gates of Anguish are sealed and will not reopen again in this session.
+tagNotification_WarningRiftgateDisabled=在 这 里 你 失 去 了 与 裂 缝 传 送 门 之 间 的 连 接 ……
+tagNotification_WarningGatesOfAnguish=痛 苦 之 门 已 经 打 开 了。 动 作 要 快 ， 这 扇 门 不 会 开 着 很 久 的 ……
+tagNotification_WarningGatesOfAnguishLocked=痛 苦 之 门 已 被 封 印 ， 这 场 游 戏 它 不 会 再 打 开 了 。
 
 #NPC Names
 
@@ -281,11 +281,11 @@ tagNPC_Ulgrim=厄尔格姆
 tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特
 
-tagNPC_GuardA04=守卫-麦考尔 
-tagNPC_Guard_DCRanged01=守卫-梅纳德
-tagNPC_Guard_DCRanged02=守卫-拉斯
-tagNPC_Guard_DCMelee01=守卫-布瑞格斯
-tagNPC_Guard_DCMelee02=守卫-奥克斯利
+tagNPC_GuardA04=守卫 - 麦考尔 
+tagNPC_Guard_DCRanged01=守卫 - 梅纳德
+tagNPC_Guard_DCRanged02=守卫 - 拉斯
+tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
+tagNPC_Guard_DCMelee02=守卫 - 奥克斯利
 tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
@@ -302,7 +302,7 @@ tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
 tagNPC_Homestead_03=
 tagNPC_Homestead_04=德鲁·拉金
-tagNPC_Homestead_05=“长腿”埃德蒙·道尔
+tagNPC_Homestead_05=“长腿” 埃德蒙·道尔
 tagNPC_Homestead_06=伊丽莎白·斯金纳
 tagNPC_Homestead_07=以赛亚·瑞丹
 tagNPC_Homestead_08=约瑟芬·瑞丹
@@ -332,7 +332,7 @@ tagNPC_Homestead_30=巴尔沃拉克
 tagNPC_AreaC_01=Scoutmaster Lysell
 tagNPC_AreaC_02=道格拉斯·沙利文·古冢
 tagNPC_AreaC_03=迈尔斯·法恩根
-tagNPC_AreaC_04=Inquisitor Creed
+tagNPC_AreaC_04=审判官克里德
 tagNPC_AreaC_05=Deathmark Kadris
 tagNPC_AreaC_06=Alleria
 tagNPC_AreaC_07=Kalista
@@ -443,7 +443,7 @@ tagNPC_Flavor_AreaD_06=
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=哈 特 的 项 链
-tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 兄 弟 ： 希 望 这 项 链 能 在 战 场 上 保 佑 你 。-西 比 尔”
+tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 哥 哥 ： 希 望 这 项 链 能 在 战 场 上 保 佑 你 。- 西 比 尔”
 
 tagQuestItemCultistKey_Name=奇 特 的 钥 匙
 tagQuestItemCultistKey_Text=“这 把 钥 匙 标 注 着 冥 神 麾 下 邪 教 徒 所 使 用 的 诸 多 奇 异 符 文 和 堕 落 符 号 。”
@@ -455,22 +455,22 @@ tagQuestItemLostJournal_Name=邪 教 徒 的 命 令
 tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
 
 tagQuestItemDynamite=炸 药
-tagQuestItemDynamiteDesc="A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
+tagQuestItemDynamiteDesc=“猛 烈 的 爆 炸 物 ， 爆 破 者 们 曾 使 用 它 来 对 抗 法 师 们 毁 灭 性 的 力 量 。”
 tagQuestItemSupplies=补 给 箱
 tagQuestItemSuppliesDesc=“装 满 了 有 价 值 的 材 料 和 不 易 腐 坏 食 物 的 板 条 箱 。”
 tagQuestItemSlithNecklace=蛇 人 项 链
-tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 所 戴 的 项 链 ， 只 有 它 们 才 明 白 有 什 么 用 。”
+tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 佩 戴 的 项 链 ， 只 有 它 们 才 明 白 有 什 么 用 。”
 tagQuestItemFabric=织物
 tagQuestItemFabricDesc=“有 点 旧 有 点 脏 ， 但 是 其 他 方 面 都 挺 好 。”
 
-tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
+tagQuestItemSaltMineKey_Name=通往被遗忘的深渊的钥匙
 tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
 
-tagQuestItemForgottenPassage=Forgotten Passage
+tagQuestItemForgottenPassage=被遗忘的通道
 tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
 
-tagQuestItemSmithHammer=Malleum Menhir
-tagQuestItemSmithHammer_Desc="An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+tagQuestItemSmithHammer=曼海尔的锤骨
+tagQuestItemSmithHammer_Desc=“工 匠 们 手 中 代 代 相 传 的 一 把 远 古 锻 锤 。 它 见 证 了 无 数 神 器 的 诞 生 ， 也 将 继 续 打 造 出 无 数 的 神 兵 利 器 。”
 
 tagQuestItemDermapteranPheromones_01=Lozakal's Pheromone Gland
 tagQuestItemDermapteranPheromones_01Desc="The stench emanating from this gland is nauseating."
@@ -492,12 +492,12 @@ tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at yo
 
 #Journals 日志
 
-tagLoreObj_InquisitorCreedA01Name=Journal of Inquisitor Creed - 1st Entry
-tagLoreObj_InquisitorCreedA01codexTitle=Inquisitor Creed - 1st Entry
+tagLoreObj_InquisitorCreedA01Name=审 判 官 克 里 德 的 日 志 - 第 一 部 分
+tagLoreObj_InquisitorCreedA01codexTitle=审 判 官 克 里 德 - 第 一 部 分
 tagLoreObj_InquisitorCreedA01Text=I am currently en route to the village of Burrwitch in order to investigate a number of strange incidents that have been reported in this area. As dusk is drawing near and the swamps of this region are said to be hazardous to travel at night, I've reluctantly taken up lodging at a small squalid tavern in Lower Crossing.{^n}{^n}Perhaps I am weary from my hurried travels but I feel as if there is a strange pressure and electricity to the air. It is almost akin to the still before a thunderous summer gale but yet the sun shines and not a cloud is to be seen.  Everything seems as it should, but in my gut I feel that something terrible will soon come to pass...
 
-tagLoreObj_InquisitorCreedA02Name=Journal of Inquisitor Creed - 2nd Entry
-tagLoreObj_InquisitorCreedA02codexTitle=Inquisitor Creed - 2nd Entry
+tagLoreObj_InquisitorCreedA02Name=审 判 官 克 里 德 的 日 志 - 第 二 部 分
+tagLoreObj_InquisitorCreedA02codexTitle=审 判 官 克 里 德 - 第 二 部 分
 tagLoreObj_InquisitorCreedA02Text=As I was packing to resume my journey to Burrwitch, my assistance was urgently requested at a logging camp in the Old Grove west of Devil's Crossing, where strange animal attacks have left three lumbermen listless and pale.{^n}{^n}Upon arriving, I received a somber greeting from the foreman who informed me that the bitten workers had gone mad and fled the premises. They were reported to have spoken in an unknown tongue.  The foreman showed me the remains of the animals. Two gray foxes and a hound, suffering some sort of horrific mange, lay in a hastily dug pit behind the outhouse. The foreman told me the animals suddenly died when confronted by the workers and a strange green vapor emanated from their remains. Shortly afterward, the three lumbermen fell ill and their mental state rapidly deteriorated. It appears that my presence in this region is most warranted.
 
 tagLoreObj_InquisitorCreedA03Name=Journal of Inquisitor Creed - 3rd Entry
@@ -643,7 +643,7 @@ tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They c
 
 #Guards 守卫
 
-tagNPC_GateGuardA01=守门人-鲁克 
+tagNPC_GateGuardA01=守门人 - 鲁克 
 
 
 #Merchants and Other Services 商人等npc
@@ -673,7 +673,7 @@ tagNPC_SmugglerA01=卡莱尔
 tagStoreTitle_SmugglerA01=走私者
 
 tagNPC_ReallocatorA01=马隆
-tagStoreTitle_ReallocatorA01=灵魂向导
+tagStoreTitle_ReallocatorA01=灵魂导师
 
 tagNPC_InventorA01=达莱特
 tagStoreTitle_InventorA01=发明家

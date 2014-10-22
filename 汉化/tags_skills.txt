@@ -221,8 +221,8 @@ tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 �
 tagClass02SkillName07A=防爆护盾
 tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
 
-tagClass02SkillName07B=乌尔祖因的选召
-tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
+tagClass02SkillName07B=奥祖因的选召
+tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 奥 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
 
 tagClass02SkillName08A=黑水鸡尾酒
 tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
@@ -241,12 +241,12 @@ tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 �
 tagClass02SkillName12A=火焰之触
 tagClass02SkillDescription12A=Crossing over, as many Demolitionists eventually do, to dabble in the sorcerous arts of pyromancy unlocks the ability to imbue yourself and nearby allies with a living flame that augments attacks and retaliates at enemies. ^o此 技 能 需 要 开 启 以 保 持 生 效
 tagClass02SkillName12B=回火
-tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 回 火 处 理 。
+tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 进 行 回 火 处 理 。
 
 tagClass02SkillName13A=复仇烈焰
-tagClass02SkillDescription13A=乌 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 乌 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
-tagClass02SkillName13B=乌祖因的愤怒
-tagClass02SkillDescription13B=乌 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
+tagClass02SkillDescription13A=奥 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 奥 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass02SkillName13B=奥祖因的愤怒
+tagClass02SkillDescription13B=奥 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
 
 tagClass02SkillName10A=闪电炸弹
 tagClass02SkillDescription10A=向 敌 人 抛 出 一 个 强 力 的 带 电 炸 弹 。 能 有 效 对 付 强 壮 的 单 个 敌 人 。
@@ -1470,7 +1470,7 @@ tagDevotionBat=蝙蝠
 tagDevotionSpear=天堂之戟
 tagDevotionOleron=奥莱隆
 tagDevotionBear=熊罴
-tagDevotionUlzuin=乌尔祖因的火炬
+tagDevotionUlzuin=奥祖因的火炬
 tagDevotionDyingGod=垂死之神
 tagDevotionMagi=魔导师
 tagDevotionAssassin=暗杀者

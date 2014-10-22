@@ -4,7 +4,7 @@ tagTutorialOf=of
 tagTutorialDisable=禁 用 教 程 提 示
 
 tagTutorialTip06Title=未 动 过 的 饭
-tagTutorialTip06TextA=你 找 到 了 被 人 丢 弃 的 一 餐 饭 ， 估 计 是 个 倒 霉 的 冒 险 者 留 下 的 。{^n}{^n}吃 下 这 顿 饭 ， 你 会 回 复 一 些 体 力 。
+tagTutorialTip06TextA=你 找 到 了 被 人 丢 弃 的 一 餐 饭 ， 估 计 是 个 倒 霉 的 冒 险 者 留 下 的 。{^n}{^n}吃 下 这 顿 饭 ， 你 会 恢 复 一 些 体 力 。
 
 tagTutorialTip08Title=欢 迎 来 到 恐 怖 黎 明
 tagTutorialTip08TextA=再 次 感 谢 支 持 我 们 并 帮 助 改 进 恐 怖 黎 明 ！ 我 们 希 望 你 享 受 游 戏 这 部 分 开 始 的 内 容 。 请 记 住 这 只 是 由 七 个 人 的 工 作 室 制 作 的 预 览 版 本 。 你 将 会 遇 到 b u g 、 未 完 成 的 特 色 内 容 和 大 约 只 有 游 戏 的 第 一 章 第 二 章 和 第 三 章 的 情 况 。 我 们 欢 迎 你 们 在 论 坛 www.grimdawn.com 反 馈 bug 和 游 戏 体 验 。
@@ -79,19 +79,19 @@ tagTutorialTip23TextB=主 动 技 能 在 快 捷 栏 上 左 键 单 击 图 �
 tagTutorialTip23TextC=被 动 技 能 （ 圆 图 标 ） 一 直 生 效 且 不 需 要 分 配 到 快 捷 栏 上 。 一 旦 你 为 它 们 分 配 了 技 能 点 ，它 们 会 立 即 提 供 增 益 。{^N}{^N}
 
 tagTutorialTip24Title=死 亡
-tagTutorialTip24TextA=当 你 的 生 命 为 0 时 ， 你 的 角 色 会 死 亡 。{^n}{^n}利 用 好 你 的 角 色 的 快 速 生 命 恢 复 ， 它 将 在 脱 离 战 斗 一 定 时 间 后 激 活 。 当 那 样 也 不 够 时 ， 记 得 使 用 药 水 和 技 能 确 保 生 存 。
-tagTutorialTip24TextB=当 你 死 亡 时 ， 你 会 失 去 一 些 经 验 并 且 你 的 角 色 会 重 生 在 你 最 近 访 问 过 的 避 难 所 。 经 验 惩 罚 会 随 着 你 角 色 等 级 而 提 高 ， 但 是 你 可 以 通 过 找 回 自 己 的 墓 碑 来 恢 复 一 部 分 失 去 的 经 验 。
+tagTutorialTip24TextA=当 你 的 生 命 变 为 0 时 ， 你 的 角 色 会 死 亡 。{^n}{^n}利 用 好 角 色 的 快 速 生 命 恢 复 机 制 ， 它 将 在 脱 离 战 斗 一 定 时 间 后 激 活 。 如 果 生 命 回 复 还 是 不 够 的 话 ， 记 得 使 用 药 水 和 技 能 来 确 保 生 存 。
+tagTutorialTip24TextB=当 你 死 亡 时 ， 你 会 失 去 一 些 经 验 并 且 你 的 角 色 会 在 你 最 近 访 问 过 的 避 难 所 内 重 生。 经 验 惩 罚 会 随 着 你 角 色 等 级 而 提 高 ， 但 是 你 可 以 通 过 找 回 自 己 的 墓 碑 来 恢 复 一 部 分 失 去 的 经 验 。
 
 tagTutorialTip27Title=多 人 游 戏
-tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
+tagTutorialTip27TextA=你 可 以 与 其 他 玩 家 组 队 ， 共 享 经 验 与 铁 币 而 且 还 能 发 起 交 易 。 组 队 对 于 PvP 也 是 至 关 重 要 的 。
 tagTutorialTip27CaptionA=快 捷 键 ：{^b}{%t0}{^w}
-tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
-tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
+tagTutorialTip27TextB=右 击 左 上 方 玩 家 状 态 栏 就 可 以 对 队 伍 内 的 另 一 名 玩 家 发 起 交 易 。
+tagTutorialTip27TextC=你 也 可 以 使 用 {^y}聊 天 窗 口{^w} 与 其 他 玩 家 交 谈 。
 tagTutorialTip27CaptionB=快 捷 键 ：{^b}{%t0}{^w}
 
 tagTutorialTip28Title=玩 家 交 易
-tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
-tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+tagTutorialTip28TextA=你 可 以 把 物 品 放 入 你 的 交 易 窗 口 内 来 进 行 交 易 。 在 窗 口 顶 部 输 入 铁 币 的 数 目 就 能 使 用 铁 币 来 进 行 交 易 了 。
+tagTutorialTip28TextB=在 双 方 玩 家 都 选 择 接 受 之 后 ， 双 方 的 交 换 才 会 生 效 。 如 果 交 易 被 取 消 了 的 话 ， 所 有 的 物 品 和 铁 币 都 会 被 返 还 到 玩 家 的 物 品 栏 内 。
 
 tagTutorialTip30Title=分 配 你 的 技 能
 tagTutorialTip30TextA=你 有 未 分 配 的 主 动 技 能 。 主 动 技 能 需 要 分 配 到 鼠 标 或 快 捷 栏 才 能 使 用 。
@@ -120,7 +120,7 @@ tagTutorialTip36Title=技 能 重 新 分 配
 tagTutorialTip36TextA=灵 魂 向 导 允 许 你 复 原 技 能 点 选 择 。 在 灵 魂 向 导 的 界 面 上 点 击 技 能 图 标 来 从 该 技 能 上 移 除 一 点 技 能 点 。 其 花 费 将 随 着 你 移 除 随 后 的 技 能 点 而 增 多 。
 tagTutorialTip36TextB=你 不 能 移 除 投 资 在 专 精 上 的 技 能 点 。 此 外 ， 你 不 能 移 除 在 延 伸 技 能 上 面 投 资 了 的 前 置 技 能 的 最 后 一 点 。
 
-tagTutorialTip37Title=走 私 窗 口
+tagTutorialTip37Title=仓 库 窗 口
 tagTutorialTip37TextA=走 私 犯 可 以 存 储 你 的 物 品 ， 甚 至 可 以 在 你 的 角 色 间 传 输 物 品 ! 你 可 以 在 整 个 凯 恩 世 界 能 找 到 的 任 何 走 私 犯 那 里 访 问 你 的 物 品 。{^N}shift+右 键 可 以 快 速 移 动 物 品 。
 tagTutorialTip37TextB=你 可 以 通 过 点 击 扩 展 存 储 按 钮 来 扩 展 你 的 存 储 空 间 。 这 将 花 费 一 些 铁 币 。{^N}{^N}点 击 物 品 转 移 来 与 你 的 其 他 角 色 共 享 物 品 。
 

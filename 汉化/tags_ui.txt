@@ -1455,11 +1455,11 @@ RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}降低攻击能力反�
 RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}降低伤害反击
 RetaliationDurationModifierPoison={%+.0f0}% {^E}持续毒素反击
 
-DefenseAbsorptionProtection={%.0f0} 护甲
+DefenseAbsorptionProtection={%.0f0} 点护甲
 DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 点护甲
-DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}护甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}点护甲
 DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}点护甲
-DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}护甲加成
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}点护甲加成
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}点护甲加成
 DefensePhysical={%.0f0}% {^E}物理抗性
 DefensePhysicalR={%.0f0}-{%.0f1}% {^E}物理抗性

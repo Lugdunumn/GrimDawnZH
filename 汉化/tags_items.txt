@@ -884,7 +884,7 @@ tagWaistC009=浴血腰链
 tagWaistC009Desc=“永 远 滴 着 鲜 血 。”
 tagWaistC010=先祖束腰
 tagWaistC011=痛苦腰链
-tagWaistC011Desc=“穿 上 这 件 腰 链 能 获 得 一 股 邪 力 ， 但 同 时 要 付 出 血 的 代 价 。”
+tagWaistC011Desc=“穿 上 这 件 腰 链 能 获 得 一 股 邪 力 ， 但 同 时 也 要 付 出 血 的 代 价 。”
 tagWaistC012=战争之路束腰
 tagWaistC013=神射手的弹药腰带
 
@@ -898,7 +898,7 @@ tagWaistD006=窃梦束腰
 tagWaistD007=破法护腰
 tagWaistD007Desc=“破 法 者 军 团 曾 穿 戴 的 腰 带 ， 他 们 是 从 曼 海 尔 的 圣 殿 骑 士 中 挑 选 出 来 的 。”
 tagWaistD008=幽魂丝线束腰
-tagWaistD008Desc=“受 诅 咒 的 灵 魂 缠 绕 于 魔 神 的 纺 锤 上 ，这 些 丝 线 织 成 了 这 件 束 腰 。”
+tagWaistD008Desc=“受 诅 咒 的 灵 魂 缠 绕 于 魔 神 的 纺 锤 上 ，这 件 束 腰 就 由 这 些 丝 线 编 织 而 成 。”
 tagWaistD009=野性之血束腰
 
 

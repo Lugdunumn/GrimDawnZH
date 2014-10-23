@@ -51,11 +51,11 @@ tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 �
 
 tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
 
-tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。
+tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 即 使 不 擅 长 用 剑 与 枪 械 ， 他 们 仍 然 可 以 使 用 其 中 任 意 一 种 来 增 强 攻 击 。
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
 
-tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。
+tagSkillClassDescription05=对 于 奥 术 师 来 说 ， 魔 法 的 显 现 根 本 就 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 奥 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。
 
 tagSkillClassDescription06=
 
@@ -238,8 +238,8 @@ tagClass02SkillDescription09B=提 升 每 个 金 属 弹 的 电 力 容 量 �
 tagClass02SkillName09C=迅捷投掷
 tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 能 力 不 过 将 能 被 快 速 施 放 以 消 灭 成 群 的 敌 人 。
 
-tagClass02SkillName12A=火焰之触
-tagClass02SkillDescription12A=Crossing over, as many Demolitionists eventually do, to dabble in the sorcerous arts of pyromancy unlocks the ability to imbue yourself and nearby allies with a living flame that augments attacks and retaliates at enemies. ^o此 技 能 需 要 开 启 以 保 持 生 效
+tagClass02SkillName12A=烈火加身
+tagClass02SkillDescription12A=许 多 爆 破 者 最 终 涉 足 了 火 焰 魔 法 。 它 们 运 用 其 中 的 技 艺 将 跃 动 的 烈 焰 加 诸 于 自 己 和 盟 友 身 上 ， 借 以 增 强 攻 击 力 并 能 反 击 敌 人 。^o此 技 能 需 要 开 启 以 保 持 生 效
 tagClass02SkillName12B=回火
 tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 进 行 回 火 处 理 。
 
@@ -294,14 +294,14 @@ tagClass03SkillName03B=忠诚
 tagClass03SkillDescription03B=以 微 妙 的 手 法 操 纵 召 唤 契 约 ， 使 召 唤 物 将 对 你 忠 诚 无 比 。 它 们 将 以 狂 热 的 力 量 和 速 度 为 你 而 战 。
 
 tagClass03SkillName04A=德里格之血
-tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself.
-tagClass03SkillName04B=守护者的护甲
-tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
+tagClass03SkillDescription04A=与 伟 大 的 守 护 者 之 间 的 精 神 羁 绊 将 赐 予 你 一 部 分 德 里 格 的 恢 复 能 力 。 受 到 敌 人 攻 击 时 将 喷 溅 出 巫 神 德 里 格 身 上 的 毒 血 。
+tagClass03SkillName04B=守护者的坚甲
+tagClass03SkillDescription04B=术 士 将 置 身 于 幻 化 出 的 屏 障 之 中 ， 敌 人 仿 佛 是 在 攻 击 德 里 格 那 坚 不 可 摧 的 本 体 。
 tagClass03SkillName04C=守护者之翎
-tagClass03SkillDescription04C=Sacrifice all of your regenerative power to enhance the caustic potential of Dreeg's blood.
+tagClass03SkillDescription04C=牺 牲 掉 所 有 的 回 复 力 ， 增 强 德 里 格 之 血 的 毒 性 。
 
 tagClass03SkillName05A=索拉尔的巫火
-tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your enemies with entropic energy upon every strike. ^oThis ability must be toggled to maintain its effect.
+tagClass03SkillDescription05A=驾 驭 索 拉 尔 的 邪 术 力 量 ， 使 用 熵 能 在 每 一 次 攻 击 中 灼 烧 敌 人 。^o此 技 能 需 开 启 以 保 持 生 效 。
 tagClass03SkillName05B=二次仪式
 tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
 tagClass03SkillName05C=祭祀之剑

@@ -320,13 +320,13 @@ tagClass03SkillDescription10B=将 混 沌 本 身 蕴 含 的 毁 灭 之 力 �
 tagClass03SkillName11A=德里格的邪眼
 tagClass03SkillDescription11A=召 唤 隐 秘 国 度 的 守 护 者 德 里 格 所 拥 有 的 无 数 只 邪 眼 中 的 一 只 ， 它 将 迅 速 飞 向 敌 人 然 后 引 爆 自 身 。
 tagClass03SkillName11B=血爆
-tagClass03SkillDescription11B=神 秘 的 斜 眼 在 命 中 敌 人 时 爆 炸 ， 向 周 围 的 敌 人 喷 溅 毒 血 。
+tagClass03SkillDescription11B=神 秘 的 邪 眼 在 命 中 敌 人 时 爆 炸 ， 向 周 围 的 敌 人 喷 溅 毒 血 。
 tagClass03SkillName11C=恐惧凝视
 tagClass03SkillDescription11C=不 朽 又 可 畏 的 巫 神 德 里 格 ， 面 对 他 那 令 人 恐 惧 的 凝 视 ， 敌 人 要 么 惊 恐 地 呆 在 原 地 ， 要 么 直 接 逃 之 夭 夭 。
 tagClass03SkillName11D=邪物喷涌
-tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
+tagClass03SkillDescription11D=邪 眼 撞 上 敌 人 时 会 炸 出 腐 败 的 碎 块 ，不 幸 身 处 爆 炸 范 围 内 的 敌 人 会 遭 受 更 深 的 痛 楚 。
 tagClass03SkillName11E=聚能凝视
-tagClass03SkillDescription11E=Channel the foul powers of Dreeg into each Eye, causing it to burst with greater intensity and harm, but also requiring a longer pause between casts.
+tagClass03SkillDescription11E=将 德 里 格 的 邪 恶 力 量 引 导 至 每 只 邪 眼 之 中， 使 邪 眼 发 生 更 为 猛 烈 的 爆 炸 ， 造 成 更 多 的 伤 害 ， 但 同 时 会 延 长 施 放 邪 眼 的 间 歇 时 间。
 
 tagClass03SkillName12A=附身
 tagClass03SkillDescription12A=以 身 体 为 容 器 侍 奉 巫 神 索 拉 尔 ， 伟 大 的 巫 神 将 暂 时 栖 息 在 你 的 血 肉 之 躯 之 中 ， 从 而 赐 予 你 无 可 匹 敌 的 力 量 。

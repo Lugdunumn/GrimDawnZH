@@ -1,6 +1,6 @@
 tagSkillClassName01=战士
 tagSkillClassName02=爆破者
-tagSkillClassName03=术士
+tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
 tagSkillClassName05=奥术师
 tagSkillClassName06=?
@@ -24,7 +24,7 @@ tagSkillClassName0207=
 tagSkillClassName0208=
 tagSkillClassName0209=
 tagSkillClassName0304=魔法猎人
-tagSkillClassName0305=奥法术士
+tagSkillClassName0305=术士
 tagSkillClassName0306=
 tagSkillClassName0307=
 tagSkillClassName0308=
@@ -51,7 +51,7 @@ tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 �
 
 tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
 
-tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 即 使 不 擅 长 用 剑 与 枪 械 ， 他 们 仍 然 可 以 使 用 其 中 任 意 一 种 来 增 强 攻 击 。
+tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 神 秘 学 者 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 即 使 不 擅 长 用 剑 与 枪 械 ， 他 们 仍 然 可 以 使 用 其 中 任 意 一 种 来 增 强 攻 击 。
 
 tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
 
@@ -261,7 +261,7 @@ tagClass02SkillDescription14A=提 升 伤 害 并 击 倒 小 到 中 型 敌 �
 
 #Class03
 
-tagClass03SkillName00=术士
+tagClass03SkillName00=神秘学者
 tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
 
 tagClass03SkillName01A=召唤
@@ -276,7 +276,7 @@ tagClass03SkillName01E=闪电打击
 tagClass03SkillDescription01E=风 暴 乌 鸦 召 唤 强 力 的 闪 电 来 电 击 附 近 的 敌 人 。
 
 tagClass03SkillName02A=召唤地狱犬
-tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 术 士 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
+tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 神 秘 学 者 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
 tagClass03SkillName02B=灰烬之爪
 tagClass03SkillDescription02B=在 地 狱 犬 可 触 及 的 范 围 内 使 用 硫 磺 之 爪 在 敌 人 身 上 撕 扯 出 一 道 道 烈 焰 之 弧 。
 tagClass03SkillName02C=地狱之火
@@ -296,24 +296,24 @@ tagClass03SkillDescription03B=以 微 妙 的 手 法 操 纵 召 唤 契 约 �
 tagClass03SkillName04A=德里格之血
 tagClass03SkillDescription04A=与 伟 大 的 守 护 者 之 间 的 精 神 羁 绊 将 赐 予 你 一 部 分 德 里 格 的 恢 复 能 力 。 受 到 敌 人 攻 击 时 将 喷 溅 出 巫 神 德 里 格 身 上 的 毒 血 。
 tagClass03SkillName04B=守护者的坚甲
-tagClass03SkillDescription04B=术 士 将 置 身 于 幻 化 出 的 屏 障 之 中 ， 敌 人 仿 佛 是 在 攻 击 德 里 格 那 坚 不 可 摧 的 本 体 。
+tagClass03SkillDescription04B=神 秘 学 者 将 置 身 于 幻 化 出 的 屏 障 之 中 ， 敌 人 仿 佛 是 在 攻 击 德 里 格 那 坚 不 可 摧 的 本 体 。
 tagClass03SkillName04C=守护者之翎
 tagClass03SkillDescription04C=牺 牲 掉 所 有 的 回 复 力 ， 增 强 德 里 格 之 血 的 毒 性 。
 
 tagClass03SkillName05A=索拉尔的巫火
 tagClass03SkillDescription05A=驾 驭 索 拉 尔 的 邪 术 力 量 ， 使 用 熵 能 在 每 一 次 攻 击 中 灼 烧 敌 人 。^o此 技 能 需 开 启 以 保 持 生 效 。
 tagClass03SkillName05B=二次仪式
-tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
+tagClass03SkillDescription05B=加 深 神 秘 学 者 与 隐 秘 国 度 之 间 的 联 系 ， 使 巫 火 的 力 量 变 得 更 为 强 大 ， 哪 怕 是 最 为 轻 微 的 接 触 也 足 以 让 敌 人 的 魔 法 能 量 燃 烧 殆 尽 。
 tagClass03SkillName05C=祭祀之剑
-tagClass03SkillDescription05C=Witchfire consumes your weapon, turning it into a focal point for chaotic powers. ^oRequires a melee weapon.
+tagClass03SkillDescription05C=巫 火 吞 噬 你 的 武 器 ， 以 混 沌 能 量 凝 聚 其 身 。^o需 要 一 把 近 战 武 器 。
 
 tagClass03SkillName06A=虚弱诅咒
-tagClass03SkillDescription06A=A cruel word of power that robs enemies of their fortitude, making them slow and fragile.
+tagClass03SkillDescription06A=强 大 且 无 情 的 咒 文 将 剥 夺 敌 人 的 勇 气 ， 使 他 们 变 得 缓 慢 而 脆 弱 。
 tagClass03SkillName06B=弱化
-tagClass03SkillDescription06B=Empowers the curse's vile potency so that it also weakens the constitution of your enemies, making them more susceptible to witchcraft and poisons.
+tagClass03SkillDescription06B=增 强 诅 咒 蕴 含 的 邪 力 ， 以 至 于 诅 咒 现 在 能 够 弱 化 敌 人 的 体 质 ， 让 他 们 无 力 抵 抗 巫 术 与 毒 药 。
 
 tagClass03SkillName10A=噬命魔印
-tagClass03SkillDescription10A=Creates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
+tagClass03SkillDescription10A=在地面上释放一种神秘的印记，它将吞噬掉深陷其中的敌人的生命力。造成的伤害将以一定的百分比返还给神秘学者。
 tagClass03SkillName10B=毁灭
 tagClass03SkillDescription10B=Imbues the sigil with the destructive powers of chaos itself.
 

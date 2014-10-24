@@ -413,16 +413,16 @@ tagCharStatsLightRadiusBonus=照亮范围奖励
 tagCharStatsLightRadiusBonusInfo=照 亮 范 围 额 外 的 百 分 数 。
 tagCharStatsAllSkillsBonus=所有技能加成
 tagCharStatsAllSkillsBonusInfo=所 有 已 习 得 技 能 的 额 外 加 成
-tagCharStatsSoldierSkillsBonus=士兵技能加成
+tagCharStatsSoldierSkillsBonus=战士技能加成
 tagCharStatsSoldierSkillsBonusInfo=所 有 士 兵 专 精 中 已 习 得 技 能 的 额 外 加 成 。
 tagCharStatsDemoSkillsBonus=爆破者技能加成
 tagCharStatsDemoSkillsBonusInfo=所 有 爆 破 者 专 精 中 已 习 得 技 能 的 额 外 加 成 。
-tagCharStatsOccuSkillsBonus=术士技能加成
-tagCharStatsOccuSkillsBonusInfo=所 有 术 士 专 精 中 已 习 得 技 能 的 额 外 加 成 。
+tagCharStatsOccuSkillsBonus=神秘学者技能加成
+tagCharStatsOccuSkillsBonusInfo=所 有 神 秘 学 者 专 精 中 已 习 得 技 能 的 额 外 加 成 。
 tagCharStatsNightbladeSkillsBonus=夜刃技能加成
 tagCharStatsNightbladeSkillsBonusInfo=所 有 夜 刃 专 精 中 已 习 得 技 能 的 额 外 加 成 。
-tagCharStatsArcanistSkillsBonus=秘术师技能加成
-tagCharStatsArcanistSkillsBonusInfo=所 有 秘 术 师 专 精 中 已 习 得 技 能 的 额 外 加 成 。
+tagCharStatsArcanistSkillsBonus=奥术师技能加成
+tagCharStatsArcanistSkillsBonusInfo=所 有 奥 术 师 专 精 中 已 习 得 技 能 的 额 外 加 成 。
 
 #Physical 物理
 tagCharStatsAttackSpeed=攻击速度

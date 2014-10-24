@@ -459,7 +459,7 @@ tagQuestItemDynamiteDesc=“猛 烈 的 爆 炸 物 ， 爆 破 者 们 曾 使 
 tagQuestItemSupplies=补 给 箱
 tagQuestItemSuppliesDesc=“装 满 了 有 价 值 的 材 料 和 不 易 腐 坏 食 物 的 板 条 箱 。”
 tagQuestItemSlithNecklace=蛇 人 项 链
-tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 佩 戴 的 项 链 ， 只 有 它 们 才 明 白 有 什 么 用 。”
+tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 佩 戴 的 项 链 ， 只 有 它 们 才 懂 得 此 物 的 用 途 。”
 tagQuestItemFabric=织物
 tagQuestItemFabricDesc=“有 点 旧 有 点 脏 ， 但 是 其 他 方 面 都 挺 好 。”
 

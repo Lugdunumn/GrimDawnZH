@@ -313,23 +313,23 @@ tagClass03SkillName06B=弱化
 tagClass03SkillDescription06B=增 强 诅 咒 蕴 含 的 邪 力 ， 以 至 于 诅 咒 现 在 能 够 弱 化 敌 人 的 体 质 ， 让 他 们 无 力 抵 抗 巫 术 与 毒 药 。
 
 tagClass03SkillName10A=噬命魔印
-tagClass03SkillDescription10A=在地面上释放一种神秘的印记，它将吞噬掉深陷其中的敌人的生命力。造成的伤害将以一定的百分比返还给神秘学者。
+tagClass03SkillDescription10A=在 地 面 上 释 放 一 种 神 秘 的 印 记 ， 它 将 吞 噬 掉 深 陷 其 中 的 敌 人 的 生 命 力 。 造 成 的 伤 害 将 以 一 定 的 比 例 返 还 给 神 秘 学 者 。
 tagClass03SkillName10B=毁灭
-tagClass03SkillDescription10B=Imbues the sigil with the destructive powers of chaos itself.
+tagClass03SkillDescription10B=将 混 沌 本 身 蕴 含 的 毁 灭 之 力 灌 注 于 魔 印 之 中 。
 
 tagClass03SkillName11A=德里格的邪眼
-tagClass03SkillDescription11A=Summons one of the infinite eyes of Dreeg, the great guardian of the hidden realm. The eye quickly speeds toward the target and then detonates itself.
+tagClass03SkillDescription11A=召 唤 隐 秘 国 度 的 守 护 者 德 里 格 所 拥 有 的 无 数 只 邪 眼 中 的 一 只 ， 它 将 迅 速 飞 向 敌 人 然 后 引 爆 自 身 。
 tagClass03SkillName11B=血爆
-tagClass03SkillDescription11B=The mystical eye bursts on impact, showering nearby enemies with vitriolic gore.
+tagClass03SkillDescription11B=神 秘 的 斜 眼 在 命 中 敌 人 时 爆 炸 ， 向 周 围 的 敌 人 喷 溅 毒 血 。
 tagClass03SkillName11C=恐惧凝视
-tagClass03SkillDescription11C=The frightful gaze of the eldritch and immortal Dreeg may cause enemies to stand frozen in fear or simply run in fruitless terror.
+tagClass03SkillDescription11C=不 朽 又 可 畏 的 巫 神 德 里 格 ， 面 对 他 那 令 人 恐 惧 的 凝 视 ， 敌 人 要 么 惊 恐 地 呆 在 原 地 ， 要 么 直 接 逃 之 夭 夭 。
 tagClass03SkillName11D=邪物喷涌
 tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
 tagClass03SkillName11E=聚能凝视
 tagClass03SkillDescription11E=Channel the foul powers of Dreeg into each Eye, causing it to burst with greater intensity and harm, but also requiring a longer pause between casts.
 
 tagClass03SkillName12A=附身
-tagClass03SkillDescription12A=You allow your body to act as a mortal vessel for the witch god Solael. The great one temporarily inhabits your flesh, bestowing upon you formidable physical prowess.
+tagClass03SkillDescription12A=以 身 体 为 容 器 侍 奉 巫 神 索 拉 尔 ， 伟 大 的 巫 神 将 暂 时 栖 息 在 你 的 血 肉 之 躯 之 中 ， 从 而 赐 予 你 无 可 匹 敌 的 力 量 。
 
 tagClass03SkillName13A=血瘟疫
 tagClass03SkillDescription13A=Shunned even by many Occultists for the prolonged suffering it inflicts, this abhorrent curse calls down a virulent plague to spread amongst foes, inexorably sapping their life-force and causing them to bleed from every orifice.
@@ -363,13 +363,13 @@ tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
 tagClass04SkillName01A=幻影刀锋
-tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 如 切 割 纸 片 一 般 撕 裂 肉 体 。
+tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 ， 如 切 割 纸 片 一 般 撕 裂 肉 体 。
 tagClass04SkillName01B=寻心击
-tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召  唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
+tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召 唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 且 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
 tagClass04SkillName01C=幽冥之刃
-tagClass04SkillDescription01C=使 幻 影 刀 锋 具 有 暗 黑 魔 法 ， 是 一 种 仅 在 最 恶 劣 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
+tagClass04SkillDescription01C=以 黑 魔 法 强 化 幻 影 刀 锋 ， 是 一 种 仅 在 最 恶 劣 的 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
 tagClass04SkillName01D=狂热投掷
-tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
+tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 ， 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
 
 tagClass04SkillName02A=暗影突袭
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^o需 要 一 把 近 战 武 器 。
@@ -441,13 +441,13 @@ tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledg
 
 tagClass04SkillName04X=毁灭刀锋
 tagClass04SkillDescription04X=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
-tagClass04SkillName07X=深入暗影
+tagClass04SkillName07X=潜入暗影
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
-tagClass04SkillName07C=阿玛拉斯塔的隐刀
+tagClass04SkillName07C=阿玛拉斯塔的无形之刃
 tagClass04SkillDescription07C=Throughout combat with the Nightblade, wounds appear on enemies where no weapon was seen to strike.
 tagClass04SkillName09A=夺命
 tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the Nightblade, allowing them to grow stronger even as the life leaves their quarry.
-tagClass04SkillName12A=精神抽取
+tagClass04SkillName12A=元气汲取
 tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
 tagClass04SkillName13D=无情终章
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.

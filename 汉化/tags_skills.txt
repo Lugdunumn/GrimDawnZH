@@ -332,28 +332,28 @@ tagClass03SkillName12A=附身
 tagClass03SkillDescription12A=以 身 体 为 容 器 侍 奉 巫 神 索 拉 尔 ， 伟 大 的 巫 神 将 暂 时 栖 息 在 你 的 血 肉 之 躯 之 中 ， 从 而 赐 予 你 无 可 匹 敌 的 力 量 。
 
 tagClass03SkillName13A=血瘟疫
-tagClass03SkillDescription13A=Shunned even by many Occultists for the prolonged suffering it inflicts, this abhorrent curse calls down a virulent plague to spread amongst foes, inexorably sapping their life-force and causing them to bleed from every orifice.
+tagClass03SkillDescription13A=这 种 恶 毒 的 ， 连 许 许 多 多 神 秘 学 者 都 畏 之 三 分 的 诅 咒 会 在 敌 人 中 间 传 播  致 命 的 瘟 疫 ， 进 而 不 可 逆 转 地 掏 空 他 们 的 生 命 力 ， 他 们 的 每 个 毛 孔 都 将 血 流 不 止 。
 tagClass03SkillName13B=恶疾
-tagClass03SkillDescription13B=Causes Pox to destroy your foe's vitality and turn weeping sores into gouts of blood. Such insidious spell-craft has earned Occultists their dark repute and seen many burnt at the stake.
+tagClass03SkillDescription13B=血 瘟 疫 将 摧 毁 敌 人 的 活 力 ， 即 使 是 流 出 的 眼 泪 也 将 变 为 大 片 的 鲜 血 。 阴 险 至 斯 的 巫 术 使 神 秘 学 者 变 得 臭 名 昭 著 ， 所 以 许 多 神 秘 学 者 都 死 在 了 火 刑 柱 之 上 。
 tagClass03SkillName13C=黑死病
 tagClass03SkillDescription13C=Burning with fever and suffering the liquefaction of their internal organs, the infected may be hit by sudden bouts of confusion and wander the battlefield attacking the air or even their own allies.
 tagClass03SkillName13D=狂热怒意
 tagClass03SkillDescription13D=This transmutation of Pox can be as dangerous to the Occultist as to the foe. The plague will progress rapidly, more than doubling its damage, but as the afflicted burn with fever, they will become crazed, moving with unnatural speed and attacking with berserker fury that makes them both more deadly and more vulnerable.
 
 tagClass03SkillName14A=毁灭闪电
-tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes.
+tagClass03SkillDescription14A=施 放 一 束 能 够 撕 裂 现 实 世 界 的 熵 能 闪 电 ， 任 何 被 它 击 中 的 敌 人 都 将 遭 受 重 创 。
 
 
 tagClass03SkillName07A=无效妖术
-tagClass03SkillDescription07A=Nullifies enemy enchantments and inflicts energy-burn damage based on the ammount of the enemy's remaining energy.
+tagClass03SkillDescription07A=使 敌 人 的 法 术 失 效 ， 并 且 基 于 敌 人 剩 余 的 能 量 值 造 成 法 力 燃 烧 伤 害 。
 tagClass03SkillName08A=混沌之箭
-tagClass03SkillDescription08A=Sends out a swarm of entropic energy that tears into the very material of your enemy's being.
+tagClass03SkillDescription08A=施 放 大 量 的 熵 能 ， 撕 碎 敌 人 的 肉 身  。
 tagClass03SkillName08B=能量燃烧
-tagClass03SkillDescription08B=Magnifies chaos damage while also burning a portion of the target's energy, inflicting additional energy burn damage.
+tagClass03SkillDescription08B=在 增 强 混 沌 伤 害 的 同 时 ， 燃 烧 掉 一 部 分 敌 人 的 能 量 并 且 造 成 法 力 燃 烧 伤 害 。
 tagClass03SkillName09A=守护之环
-tagClass03SkillDescription09A=Creates a magical circle around the caster that regenerates life and repels those with evil intention.
+tagClass03SkillDescription09A=在 施 法 者 周 围 制 造 一 个 魔 法 圆 环 ， 圆 环 能 够 恢 复 生 命 并 且 击 退 敌 人 。
 tagClass03SkillName15A=拜斯迈的庇护
-tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
+tagClass03SkillDescription15A=将 目 标 封 印 于 一 块 保 护 性 的 愈 伤 结 界 内 ， 目 标 虽 然 无 法 移 动 但 是 能 够 免 疫 一 切 伤 害 。
 
 
 

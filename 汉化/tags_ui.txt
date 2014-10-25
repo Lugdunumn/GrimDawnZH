@@ -1320,8 +1320,8 @@ DamageConfusion={^E}迷惑目标 {^H}{%t0} {^E}{%z1}
 DamageDisruption={^E}打断目标施法 {^H}{%t0} {^E}{%z1}
 DamagePercentCurrentLife={%t0}% {^E}减少敌人当前生命值
 DamageManaDrain={%t0}% {^E}燃烧法力
-DamageManaBurnRatio={^E}({^H}{%.0f0}% {^E}燃烧法力造成的伤害)
-DamageModifierManaBurn={%.0f0}% {^E}燃烧法力加成
+DamageManaBurnRatio= ({^E}造成的伤害为燃烧法力值的 {^H}{%.0f0}%)
+DamageModifierManaBurn={^E}法力燃烧造成的伤害提升 {^H}{%.0f0}%
 
 DamageDurationAttackSpeed=% {^E}降低敌人攻击速度
 DamageDurationCold= {^E}点霜燃攻击

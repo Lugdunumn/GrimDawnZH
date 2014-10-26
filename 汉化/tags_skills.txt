@@ -265,7 +265,7 @@ tagClass03SkillName00=神秘学者
 tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
 
 tagClass03SkillName01A=召唤
-tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 展 现 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
+tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 现 身 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
 tagClass03SkillName01B=风暴光球
 tagClass03SkillDescription01B=普 通 攻 击 。
 tagClass03SkillName01C=血肉缝合
@@ -280,9 +280,9 @@ tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 �
 tagClass03SkillName02B=灰烬之爪
 tagClass03SkillDescription02B=在 地 狱 犬 可 触 及 的 范 围 内 使 用 硫 磺 之 爪 在 敌 人 身 上 撕 扯 出 一 道 道 烈 焰 之 弧 。
 tagClass03SkillName02C=地狱之火
-tagClass03SkillDescription02C=地 狱 烈 火 的 光 环 围 绕 在 地 狱 犬 的 周 围 ， 给 予 它 地 狱 的 力 量 来 灼 烧 靠 近 的 敌 人 。 这 种 力 量 也 会 被 给 予 给 附 近 的 友 军 。
+tagClass03SkillDescription02C=地 狱 烈 火 的 光 环 围 绕 在 地 狱 犬 的 周 围 ， 给 予 它 地 狱 的 力 量 来 灼 烧 靠 近 的 敌 人 。 这 种 力 量 也 会 被 赋 予 附 近 的 友 军 。
 tagClass03SkillName02D=炼狱吐息
-tagClass03SkillDescription02D=地 狱 犬 向 外 喷 吐 地 狱 怒 炎 ， 将 敌 人 化 为 灰 烬 。
+tagClass03SkillDescription02D=地 狱 犬 向 外 喷 吐 地 狱 怒 炎 ， 将 敌 人 烧 成 灰 烬 。
 tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=普 通 攻 击
 tagClass03SkillName02F=死亡燃烧
@@ -929,7 +929,7 @@ tagItemSkillC049Desc=Blast your target with a heavenly ray of searing flames.
 tagItemSkillC050Name=巫妖守卫
 tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer from lethal harm.
 
-tagItemSkillC051Name=Summon Revenant of Og'Napesh
+tagItemSkillC051Name=召唤奥格纳佩什的亡魂
 tagItemSkillC051Desc=Channel the dark writings of the Grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
 
 tagItemSkillC052Name=曼海尔的祝福
@@ -959,7 +959,7 @@ tagItemSkillC059Desc=Tear open a rift to the beyond, unleashing a well of restle
 tagItemSkillC060Name=爆炎
 tagItemSkillC060Desc=Create a burst of hellish flames around you, incinerating nearby enemies.
 
-tagItemSkillC061Name=Serpent Lash
+tagItemSkillC061Name=毒蛇猛击
 tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oRequires a melee weapon.
 
 tagItemSkillC062Name=击倒
@@ -1090,7 +1090,7 @@ tagItemSkillM012Desc=Hurl a projectile of pure fire which fragments at the sligh
 tagItemSkillM013Name=剧毒新星
 tagItemSkillM013Desc=Unleash a deathly poison into the air.
 
-tagItemSkillM014Name=Lifesaver
+tagItemSkillM014Name=救星
 tagItemSkillM014Desc=A breath of life in a dire situation.
 
 tagItemSkillM015Name=奥术怒火

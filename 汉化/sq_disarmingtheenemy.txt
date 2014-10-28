@@ -1,12 +1,12 @@
-Old Arkovia
-Disarming the Enemy
-Destroy forges
-Quade of the Rovers in Old Arkovia is tired of the lives lost to the pacifist views of his people. He, along with a group of like-minded rovers, parted ways with his elders in order to fight back against the outlaw threat. He offered you some iron bits in exchange for your assistance. The first step, he explained, is to destroy the weapons forges the bandits had set up in their strongholds atop the Four Hills.
-Destroy bandit Forges around Four Hills
+古 安 克 维 亚
+解 除 武 装
+摧 毁 熔 炉
+流 浪 者 奎 德 不 能 再 忍 受 有 人 因 为 流 浪 者 们 奉 行 的 和 平 主 义 而 丧 命 了 。 他 和 一 群 抱 着 同 样 想 法 的 流 浪 者 ， 还 有 他 的 长 辈 们 分 头 行 动 ， 对 匪 徒 们 发 起 了 反 击 。 他 给 了 你 一 些 铁 币 ， 希 望 换 来 你 的 援 助 。 首 先 ， 要 帮 他 摧 毁 掉 设 立 在 四 山 山 顶 上 匪 徒 的 大 本 营 中 的 武 器 熔 炉 。
+摧 毁 四 山 周 围 匪 徒 的 熔 炉
 
-Return to rover
-You have destroyed the forges in the outlaw camps, effectively crippling their ability to create new weapons. Return to Quade at the Rover camp in Old Arkovia with the news.
-Return to Quade at the Rover Camp in Old Arkovia
+返 回 流 浪 者 身 边
+你 摧 毁 了 那 些 熔 炉 ， 有 效 地 削 弱 了 匪 徒 们 制 造 武 器 的 能 力 。 返 回 奎 德 那 里 告 诉 他 这 个 好 消 息 。
+回 到 身 处 古 安 克 维 亚 流 浪 者 营 地 的 奎 德 身 边
 
 
 

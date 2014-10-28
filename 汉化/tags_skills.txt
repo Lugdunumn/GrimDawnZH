@@ -239,7 +239,7 @@ tagClass02SkillName09C=迅捷投掷
 tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 能 力 不 过 将 能 被 快 速 施 放 以 消 灭 成 群 的 敌 人 。
 
 tagClass02SkillName12A=烈火加身
-tagClass02SkillDescription12A=许 多 爆 破 者 最 终 涉 足 了 火 焰 魔 法 。 它 们 运 用 其 中 的 技 艺 将 跃 动 的 烈 焰 加 诸 于 自 己 和 盟 友 身 上 ， 借 以 增 强 攻 击 力 并 能 反 击 敌 人 。^o此 技 能 需 要 开 启 以 保 持 生 效
+tagClass02SkillDescription12A=许 多 爆 破 者 最 终 涉 足 了 火 焰 魔 法 。 他 们 运 用 其 中 的 技 艺 将 跃 动 的 烈 焰 加 诸 于 自 己 和 盟 友 身 上 ， 借 以 增 强 攻 击 力 并 能 反 击 敌 人 。^o此 技 能 需 要 开 启 以 保 持 生 效
 tagClass02SkillName12B=回火
 tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 进 行 回 火 处 理 。
 

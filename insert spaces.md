@@ -1,12 +1,12 @@
-<script language="javascript">
-    function space(){
-        var len = document.getElementById('text').value.length;
-        var text = document.getElementById('text').value;
-		var text2 = text.charAt(0);
-        for(var i = 1; i < len-1; i++) {
-			text2 += text.charAt(i);
-            if(text.charCodeAt(i) > 128 && text.charAt(i+1) != " " && text.charAt(i+1) != "\n")
-				text2 += " ";
+```javascript
+function space(){
+	var len = document.getElementById('text').value.length;
+	var text = document.getElementById('text').value;
+	var text2 = text.charAt(0);
+	for(var i = 1; i < len-1; i++) {
+	text2 += text.charAt(i);
+	if(text.charCodeAt(i) > 128 && text.charAt(i+1) != " " && text.charAt(i+1) != "\n")
+	text2 += " ";
         }
 		text2 += text.charAt(len-1);
 		len = text2.length;
@@ -19,4 +19,4 @@
 		text3 += text2.charAt(len-1);
         document.getElementById("text").value = text3;
     }
-</script>
+```

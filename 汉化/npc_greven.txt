@@ -1,39 +1,39 @@
-Greven
-Welcome back to our humble camp.
-Farewell.
-Welcome to our humble camp.
-Farewell.
-Hello! What brings you to our camp?
-I found your elder out in the ruins. I'm sorry.
-Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find a talisman on him? It is a small object carved from bone. Please, if you have it, we will be happy to provide compensation for its return.
-Yes, actually. Here it is.
-At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
-You're welcome. Goodbye.
-No, I did not find a talisman. (Lie)
-Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
-I'm sorry for your loss. Goodbye.
-He did, but I lost it on the journey back.
-Oh? Please, if you could find the relic again, we would gladly compensate you for the trouble.
-I will find it again.
-Goodbye.
-Any luck in your search for Elder Mathias?
-I found the elder, I'm sorry.
-Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find the talisman on him?
-Yes, actually. Here it is.
-At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
-You're welcome. Goodbye.
-No, I did not find a talisman. (Lie)
-Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
-I'm sorry for your loss. Goodbye.
-Goodbye.
-Any luck in your search for Elder Mathias?
-Where should I look again?
-Head out west from the camp, past Staunton Mine. Elder Mathias fled into the ruins in that area.
-Thank you. I will resume the search.
-Still searching. Goodbye.
-Hello! Pleased to meet a friendly face out here. Bandits don't usually grant us the courtesy. Since you are traveling these parts, I was wondering if you could help us out.
-What do you need assistance with?
-Our elder, Mathias, has gone missing following a recent raid on our camp. The Elder was determined to keep our talisman, a precious relic of my people, away from their greedy hands and so he fled into the nearby ruins when the bandits showed up. It has been several days and I'm beginning to fear the worst. Please, if you find yourself exploring the ruins west of Staunton Mine, seek out Elder Mathias. If it is as I fear and the Elder is dead, please at least recover the talisman. It is a small object carved from bone and carries great spiritual significance to us. We would be eternally grateful for its return.
-I will search for your elder.
-I'm sorry. I cannot help you.
-I'm not interested. Goodbye.
+格 雷 文
+欢 迎 再 来 我 们 简 陋 的 营 地 。
+再 见 。
+欢 迎 再 回 到 我 们 简 陋 的 营 地 。
+再 见 。
+你 好 ！ 是 什 么 风 把 您 吹 到 我 们 的 营 地 ？
+我 找 到 了 你 们 的 长 老 ， 他 在 那 片 废 墟 之 中 。 我 很 抱 歉 。
+哎 … … 这 是 我 们 重 大 的 损 失 。 马 赛 厄 斯 长 老 为 了 保 护 我 们 的 护 身 符 不 落 入 匪 徒 手 中 而 付 出 了 一 切 ， 他 以 生 命 履 行 了 他 的 职 责 。 告 诉 我 ， 你 在 他 身 上 找 到 了 一 枚 护 身 符 吗 ？ 那 是 个 用 骨 头 雕 刻 成 的 小 东 西 。 如 果 你 有 的 话 ， 请 你 还 给 我 ， 我 们 会 很 高 兴 给 你 一 些 补 偿 的 。
+是 的 ， 我 找 到 了 。 拿 着 。
+至 少 他 没 有 白 死 。 谢 谢 你 … … 这 枚 护 身 符 的 回 归 ， 会 让 我 们 的 人 民 振 作 起 来 的 。
+不 用 客 气 ， 再 见 。
+没 有 ， 我 没 找 到 什 么 附 身 符 。 ( 撒 谎 )
+我 们 今 天 同 时 失 去 了 圣 物 和 长 老 。 谢 谢 你 告 诉 我 们 这 个 消 息 ， 尽 管 这 让 我 们 无 比 悲 伤 。
+我 对 你 们 的 损 失 表 示 遗 憾 。 再 见 。
+我 找 了 ， 不 过 我 在 回 来 的 路 上 丢 了 。
+是 么 ？ 如 果 你 能 再 找 回 圣 物 ， 我 们 会 很 高 兴 的 补 偿 你 的 。
+我 会 把 它 再 找 回 来 的 。
+再 见 。
+寻 找 马 赛 厄 斯 长 老 的 事 情 进 展 如 何 ？
+我 找 到 了 长 老 ， 我 很 遗 憾 。
+哎 … … 这 是 我 们 重 大 的 损 失 。 马 赛 厄 斯 长 老 为 了 保 护 我 们 的 护 身 符 不 落 入 匪 徒 手 中 而 付 出 了 一 切 ， 他 以 生 命 履 行 了 他 的 职 责 。 告 诉 我 ， 你 在 他 身 上 找 到 了 一 枚 护 身 符 吗 ？
+是 的 ， 我 找 到 了 。 拿 着 。
+至 少 他 没 有 白 死 。 谢 谢 你 … … 这 枚 护 身 符 的 回 归 ， 会 让 我 们 的 人 民 振 作 起 来 的 。
+不 用 客 气 ， 再 见 。
+没 有 ， 我 没 找 到 什 么 附 身 符 。 ( 撒 谎 )
+我 们 今 天 同 时 失 去 了 圣 物 和 长 老 。 谢 谢 你 告 诉 我 们 这 个 消 息 ， 尽 管 这 让 我 们 无 比 悲 伤 。
+我 对 你 们 的 损 失 表 示 遗 憾 。 再 见 。
+再 见 。
+寻 找 马 赛 厄 斯 长 老 的 事 情 进 展 如 何 ？
+我 该 去 哪 里 寻 找 ？
+往 营 地 西 边 走 ， 走 过 斯 汤 顿 矿 洞 。 马 赛 厄 斯 长 老 逃 进 了 那 边 的 废 墟 之 中 。
+谢 谢 你 ， 我 会 继 续 寻 找 的 。
+还 在 寻 找 ， 再 见 。
+你 好 ！ 很 高 兴 碰 到 一 张 友 善 的 面 孔 。 匪 徒 们 可 不 会 跟 我 们 以 礼 相 待 。 你 既 然 走 到 了 这 里 ， 我 想 知 道 你 能 不 能 帮 帮 我 们 。
+你 们 需 要 我 帮 什 么 忙 ？
+我 们 的 长 老 ， 马 赛 厄 斯 ， 因 为 最 近 我 们 营 地 最 近 受 到 的 一 次 攻 击 而 失 踪 了 。 长 老 是 保 管 我 们 的 护 身 符 的 人 ， 那 对 我 们 族 人 来 说 是 珍 贵 的 圣 物 。 为 了 让 圣 物 远 离 匪 徒 们 贪 婪 的 双 手 ， 长 老 逃 进 了 附 近 的 废 墟 之 中 。 已 经 好 几 天 了 ， 我 开 始 想 到 最 坏 的 结 果 了 。 如 果 你 要 去 探 索 斯 汤 顿 矿 洞 西 边 的 废 墟 的 话 ， 请 你 寻 找 一 下 长 老 马 赛 厄 斯 吧 。 如 果 正 如 我 所 想 的 长 老 死 了 ， 请 至 少 把 护 身 符 找 回 来 。 那 个 护 身 符 是 由 骨 头 雕 刻 成 的 小 物 件 ， 它 对 于 我 们 来 说 具 有 非 常 重 要 的 精 神 意 义 。 如 果 你 把 它 拿 回 来 ， 我 们 将 对 你 感 激 不 尽 。
+我 会 寻 找 你 们 的 长 老 的 。
+抱 歉 ， 我 帮 不 了 你 。
+我 不 感 兴 趣 ， 再 见 。

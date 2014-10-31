@@ -442,8 +442,8 @@ tagNPC_Flavor_AreaD_06=
 
 #Quest Items
 
-tagQuestItemHartsAmulet_Name=哈 特 的 护 身 符
-tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 哥 哥 ： 希 望 这 枚 护 身 符 能 在 战 场 上 保 佑 你 。- 西 比 尔”
+tagQuestItemHartsAmulet_Name=哈 特 的 项 链
+tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 哥 哥 ： 希 望 这 枚 项 链 能 在 战 场 上 保 佑 你 。- 西 比 尔”
 
 tagQuestItemCultistKey_Name=奇 特 的 钥 匙
 tagQuestItemCultistKey_Text=“这 把 钥 匙 标 注 着 冥 神 麾 下 邪 教 徒 所 使 用 的 诸 多 奇 异 符 文 和 堕 落 符 号 。”

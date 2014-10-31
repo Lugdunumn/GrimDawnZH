@@ -1,25 +1,25 @@
-埃德温
-I...um, Ulgrim just packed up and left. Said that he saw what he needed to here and that it was time to move on.{^n}{^n}Not sure what he meant by it, but he had some mean looking blades packed away with his cooking supplies. Do you think he's a threat?
-Where do you think he went?
-I haven't a clue. He seemed to be in an awful hurry.
-I see. Thanks for the info.
-Not sure yet. Thanks for the info.
-Ulgrim taught me a thing or two before he left. Now, I ain't some master chef or nothin', but hopefully it'll be better than the grub I've been serving up before.
-Where do you think he went?
-I haven't a clue. He seemed to be in an awful hurry.
-Farewell.
-Oh yeah? Let's have a bowl.
-Here you go.
-Wow, that was actually not terrible. Thanks.
-Sorry, Captain says we're on rations. You've already had a bowl today.
-Fine, fine.
-Good to hear.
-Where'd you find this guy? He'd make a soup out of stone if you asked him to, and I reckon it would still taste damn fine!
-Rock soup, eh? Is it better than what you've been serving?
-We got a joker in the midst now, eh?
-I gotta go.
-Sounds delicious.
-I ain't gonna pretend that what I make is good, or even edible, but it fills up the gut and keeps us going. Can't do much without some proper equipment and supplies. If you ever want a bowl of the Edwin Special, you just let me know.
-I'll, um, keep that in mind.
-You must be the Taken the rumors been spreading about. Now I ain't gonna judge as I heard you've done right by us with that undead mess up in Lower Crossing. The name's Edwin and I do the cooking around here.
-Pleased to meet you.
+埃 德 温
+我 … … 额 ， 奥 格 瑞 姆 刚 刚 收 拾 行 囊 离 开 了 。 他 说 他 在 这 儿 看 到 了 他 需 要 做 的 事 ， 是 时 候 上 路 了 。 {^n}{^n} 不 知 道 他 说 的 是 什 么 意 思 ， 不 过 他 把 几 把 破 刀 和 他 的 厨 具 一 起 带 走 了 。 你 觉 得 他 会 威 胁 到 我 们 么 ？
+你 认 为 他 去 了 哪 里 ？
+我 不 知 道 ， 他 看 起 来 走 得 很 急 。
+我 懂 了 。 谢 谢 你 的 消 息 。
+我 不 确 定 ， 谢 谢 你 的 消 息 。
+奥 格 瑞 姆 在 他 离 开 之 前 教 给 我 一 两 道 菜 。 现 在 我 虽 然 不 是 什 么 大 厨 ， 但 肯 定 比 我 之 前 做 的 那 些 吃 的 强 多 了 。
+你 认 为 他 去 了 哪 里 ？
+我 不 知 道 ， 他 看 起 来 走 得 很 急 。
+再 见 。
+是 么 ？ 给 我 来 一 碗 。
+给 。
+哇 ， 真 的 不 赖 。 谢 了 。
+对 不 起 ， 队 长 说 我 们 得 定 量 供 应 。 你 今 天 已 经 吃 了 一 碗 了 。
+好 吧 ， 好 吧 。
+很 高 兴 听 到 这 个 消 息 。
+你 从 哪 儿 找 来 的 这 家 伙 ？ 你 就 是 叫 他 用 石 头 做 汤 他 都 做 得 出 来 ， 而 且 我 估 计 那 汤 还 他 娘 的 很 好 喝 。
+啊 ， 石 头 汤 ？ 难 道 比 你 之 前 吃 的 饭 都 好 ？
+现 在 我 们 有 个 爱 逗 比 的 家 伙 了 ， 是 吧 ？
+我 该 走 了 。
+听 起 来 很 美 味 。
+我 可 不 会 装 作 能 做 得 一 手 好 菜 ， 我 甚 至 不 说 我 做 菜 是 能 吃 的 ， 反 正 我 的 菜 能 填 饱 肚 子 让 咱 们 活 命 。 没 有 称 手 的 厨 具 还 有 合 适 的 材 料 的 话 没 法 做 啥 好 菜 。 你 要 是 想 要 一 碗 埃 德 温 的 特 色 美 食 ， 给 我 说 一 声 就 行 。
+额 ， 我 会 记 得 这 茬 儿 的 。
+你 肯 定 是 那 个 传 说 中 的 被 占 据 者 了 。 我 不 会 怀 疑 你 了 ， 因 为 你 帮 我 们 解 决 了 下 游 渡 口 的 那 些 丧 尸 。 我 叫 埃 德 温 ， 我 是 这 儿 的 伙 夫 。
+很 高 兴 能 认 识 你 。

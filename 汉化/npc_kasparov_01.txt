@@ -1,68 +1,68 @@
-Kasparov
-Hello there, friend. What can Kasparov do for you?
-Can you provide me with Inventor services?
-Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
-Hmm, alright.
-Just passing through.
-Your allies have already provided me with the materials I required for my experiment. They are quite industrious.
-Very well.
-Hmm, yes? Do you have the dynamite we require?
-Here it is.
-Oh, good good! Let us start the experiment immediately! Darlet! Prep the blast furnace!
-Is this safe?
-Of course! I am fully confident that it will function as intended. Well, uh, there may be a slight chance that we will tear apart reality when the artifact is consumed by the conflagration...{^n}{^n}But chances of that are very low. So low! One in a billion. You're safe. Really.
-This can't end well.
-Aha! I was correct! Just look at these wonderful components. We can finally begin studying artifacts properly. If only the Erulan Museum Society could see me now. They would be absolutely furious!{^n}{^n}Oh, and uh, if you wish, you can have Darlet break down any items you find. Just bring her more explosives.
-I...um, thanks.
-I think I'll step back.
-Not yet.
-Hmm, yes? Do you have the dynamite we require?
-Where should I look?
-There are several run-down mines out past the northwest bridge, in the Arkovian Foothills and Old Arkovia. I'd start by looking there.
-I'll check them out.
-Not yet.
-Ah, there you are! Come, come, we have an errand you must perform immediately.
-Excuse me?
-Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
-Very well. I'll gather the explosives.
-Oh no, I'm not getting involved in another of your experiments.
-Will this Dynamite suffice?
+卡斯帕罗夫
+你好，我的朋友。卡斯帕罗夫能为你做些什么？
+你能给我提供储物箱服务么？
+哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
+嗯，好的。
+我只是路过。
+你的盟友已经给我提供了实验所需要的材料，他们可真能干。
+很好。
+嗯，是么？你准备好我们要的炸药了？
+给你。
+哦，好好！我们这就开始实验！达莱特！把鼓风炉准备好！
+这安全么？
+当然安全！我对实验有充足的信心。额，可能在大火吞噬掉装备的时候会有一丁点的几率撕裂现实空间……{^n}{^n}但是那种情况发生的概率是很低的啦，非常低！十亿分之一，你很安全的，真的。
+这实验不会有好结果的。
+啊哈！我是对的！看看这些完美的组件。我终于能够仔细地研究手工艺制品了。要是艾汝兰博物社的人看到就好了。他们一定会气得发疯的！{^n}{^n}喔，啊，你要是愿意的话，达莱特能把你找到的东西都拆解掉。给她多弄点炸药就行。
+我……嗯谢谢你。
+我想我得往后站站。
+还没有。
+嗯，是么？你准备好我们要的炸药了？
+我该去哪儿找？
+穿过西北边的桥，在安克维亚山麓和古安克维亚那边有几个破败的矿井。我会从那里找起的。
+我会去看一看的。
+还没有。
+啊，你来了！过来，过来，我们有个必须马上执行的任务要交给你。
+什么？
+是的，立刻就得执行。可别耽搁！我们需要进行实验，我和达莱特马上需要爆炸物。没时间问问题了。这些具有魔力的手工艺制品可不会自己就分解了，是不是？{^n}{^n}你还在这儿呢？马上去安克维亚山麓和古安克维亚的矿洞里！
+好的，我会收集炸药的。
+哦不，我不会再参与到你的实验里去了。
+这些炸药足够吗？
 
-Did my allies deliver the Dynamite?
-Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+我的盟友送来了那些炸药么？
+是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
 
-Oh no, not another experiment...
-You're back! Is there anything I can help you with?
-Can you provide me with Inventor services?
-Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
-Hmm, alright.
-Your allies have already rescued my incompetent apprentice. So I imagine we are finished, yes?
-Very well.
-I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.{^n}{^n}She mentioned you. You should speak with her.
-I'll do that.
-Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
-I'll keep looking.
-Ah, we've been so preoccupied with this riftgate business that I completely forgot about my apprentice, Darlet! {^n}{^n}I sent her out to the Burrwitch Estates to fetch parts for our research and she's been gone entirely too long. Seems her ineptitude carries beyond just the workstation.
-You lost your apprentice?
-I have to say, I do feel a little responsible for her now that she's my apprentice. Could you please go out there and find that hopeless girl?
-I will keep an eye out.
-Ah, your allies have already provided me with everything I need. But thank you for asking.
-Very well.
-She can take care of herself.
-Did you bring back the Aether Crystal fragments I require?
-Here they are.
-Excellent, these will do perfectly! I'll just place them into my device here and... oh my. That's not right, not at all. That pulse, it wasn't supposed to go off. Oh dear. One, two, three... yes, my fingers are still intact. Did it reach you too? How do you feel?
-I feel... stronger.
-Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
-Um... I think we're done here.
+哦不，别又是一次实验……
+你回来了！有什么我能帮你做的吗？
+你能给我提供储物箱服务么？
+哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
+嗯，好的。
+你的盟友已经救回了我的笨徒弟。所以我觉得我们之间没事可谈了，对不？
+好的。
+我的懒徒弟终于从她的小旅行回来了。好，很好。我会打发她去工作的。{^n}{^n}她提到了你，你应该去和她谈谈。
+我会的。
+你找到了我的学徒没？我肯定她一定是在伯尔维治庄园的什么地窖里呆着。你可以开传送门把她给送回这里。事实上，如果还有其他人困在那儿，你也可以送他们过来。
+我会继续寻找的。
+啊，我们光忙着传送门这茬儿，完全忘了我的徒弟达莱特！{^n}{^n}我让她去伯尔维治庄园为研究拿回来一些零件，但她一去不回。看来她笨得可以啊。
+你的学徒失踪了？
+我不得不说，她作为我的学徒，我感觉我还是要为她的失踪付一点责任的。能请你去那儿找找那个无助的姑娘么？
+我会留心的。
+啊，你的盟友已经给了我所需要的一切东西。还是谢谢你来问我。
+好的。
+她会照顾好她自己的。
+你带回来我需要的虚化晶体了么？
+给你。
+太棒了，简直完美！我这就把它们放进我的设备里……我去，这不对，完全不对头。这个脉冲，它不该爆炸的。哦亲爱的，一次，两次，三次……太好了，我的指头还是完好的。它炸到你了没？你感觉如何？
+我感觉……变强了。
+啊！很好！我很确定你的身体多一点虚化没什么事。好……或许比一点多很多，但是你看起来没事！强所未有的强壮。{^n}{^n}可惜了那台原型设备，显示出这实验是多么有希望。如果我能搞到更多的碎片的话……
+呃……我觉得我们到此为止好了。
 
 
-Um... I think we're done here.
-I'd be happy to speak with you, but I'm really busy with this prototype. Bring me back the Aether Crystal fragments and we can proceed further.
-Where can I find the Aether Crystals again?
-You'll be looking for large formations of crystals with an unnatural green glow. They are strewn about the landscape now, anywhere the Aetherials have left their mark. Shouldn't be too hard to find, especially around places with large concentrations of corpses. {^n}{^n}I'd check the graveyard. Be careful though. Those crystals are a bit unstable around the living.
-I'll bring some back.
-Welcome to my workshop! I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant! Evidently, cutting you off that noose was the best decision the Captain made that day... {^n}{^n}Ah! Where are my manners? I'm Kasparov, scientist and inventor. What brings you to my humble shop?
+呃……我觉得我们到此为止好了。
+我很愿意跟你谈谈，不过我正在忙着制造这台原型机。给我带回来虚化水晶碎片，我们再进行一下阶段。
+我能在哪儿找到虚化水晶呢？
+你去找那种有着非自然的绿光光晕的大块水晶。它们现在分布在山水之间，虚灵留下足迹的地方。应该不会太难找，尤其是在尸体密布的地方。{^n}{^n}我会去坟地找找的，但是要小心点。这些在活物身边可是不够稳定。
+我会带回来一些水晶的。
+欢迎来到我的工作室！Welcome to my workshop! I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant! Evidently, cutting you off that noose was the best decision the Captain made that day... {^n}{^n}Ah! Where are my manners? I'm Kasparov, scientist and inventor. What brings you to my humble shop?
 The Captain said you wanted to speak with me?
 Riftgates, yes! The Aetherials use them to get around. I was working on a way to close them, but then you stumbled through ours! {^n}{^n}We have never seen a human, possessed or otherwise, pass through one before. Not a living one anyway. It was then that I realized that we could put these portals to use! {^n}{^n}There is something about you that is attuned to the riftgates and I intend to replicate it!
 Wait... I what?

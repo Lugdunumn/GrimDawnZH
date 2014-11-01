@@ -1,33 +1,33 @@
-Myles Finegan
-Hello, stranger.
-Farewell.
-Welcome back! Do you have the dynamite?
-Here you go.
-Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It's commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
-Hello, friend! How goes the search for the dynamite?
-Where should I be looking again?
-The bandits camped out on the Four Hills in Old Arkovia surely have dynamite. I suppose you could also check the local mines.
-I will get on it.
-Still working on it.
-What are you doing out here?
-I was out in the Broken Hills doing research for my book when the Grim Dawn struck. Cut off from civilized society, I did the best I could out on my own. I've managed to survive off of the local flora and fauna, though I have to say the increased bandit activity has not made living out here any easier. And now it appears that even nature itself is against me. If you had not found me...I don't dare think of it.
-I will return with the dynamite.
-Hello there, stranger. You don't have the look of a bandit about you. What brings such a well-armed adventurer way out here into the middle of nowhere?
-My business is my own. What are you doing out here?
-I do admit, a man of my stature on his own in harpy-infested mountains must be a strange sight. I was out here working on my book when the Grim Dawn struck. Stranded between the wilderness and vicious bandits, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
-Do you need any help?
-You truly are a godsend, stranger. The bandits camped out on the Four Hills in Old Arkovia surely have dynamite. I suppose you could also check the local mines. If you bring me some, we can clear the rockslide and I can retrieve my belongings. Perhaps there is something among them that you would find acceptable as compensation for your aid.
-Sure, I'll help you out.
-You're on your own.
-Is this enough dynamite?
-Why, yes that will do! Aren't you the resourceful type!
-Here you go.
-Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It's commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
-Not my problem.
-I am here to stop the bandits from attacking my home.
-What a noble pursuit. After the Grim Dawn stranded me out here, I claimed a nearby cave as my home; but nature, it seems, has decreed that I die out here instead. An avalanche collapsed the entrance not a day ago. All of my food and belongings are inside.
+迈 尔 斯 · 法 恩 根
+你 好 ， 陌 生 人 。
+再 见 。
+欢 迎 回 来 ！ 你 带 来 了 炸 药 么 ？
+给 你 。
+太 棒 了 ！ 往 后 站 ， 免 得 炸 到 你 。 {^n}{^n} 在 如 此 艰 难 的 岁 月 里 ， 你 竟 然 打 心 眼 里 帮 助 一 个 完 全 的 不 认 识 的 人 。 这 真 是 令 人 称 赞 的 美 德 啊 。 跟 我 进 来 吧 ， 我 要 好 好 地 奖 赏 你 。
+好 的 ， 谢 谢 你 。
+你 好 ， 朋 友 ！ 寻 找 炸 药 的 事 情 还 顺 利 吗 ？
+我 该 去 哪 儿 找 呢 ？
+在 古 安 克 维 亚 的 四 山 上 扎 营 的 强 盗 们 手 里 肯 定 有 炸 药 。 我 觉 得 你 也 可 以 去 当 地 的 矿 井 里 找 找 。
+我 这 就 去 找 。
+我 还 在 寻 找 炸 药 。
+你 在 这 里 做 什 么 ？
+恐 怖 黎 明 到 来 之 时 ， 我 在 破 碎 丘 陵 为 我 的 书 做 着 研 究 。 远 离 了 文 明 世 界 ， 我 尽 可 能 的 保 护 了 自 己 。 我 靠 着 当 地 动 植 物 活 了 下 来 ， 不 过 我 不 得 不 说 越 来 越 多 的 强 盗 让 日 子 变 得 更 为 艰 难 。 现 在 看 起 来 ， 大 自 然 都 在 跟 我 过 不 去 。 如 果 不 是 你 发 现 了 我 … … 我 都 不 敢 想 会 发 生 什 么 。
+我 会 带 回 来 炸 药 的 。
+你 好 ， 陌 生 人 。 你 看 起 来 不 像 是 强 盗 。 是 什 么 让 一 位 装 备 精 良 的 冒 险 者 来 到 这 荒 山 野 岭 ？
+那 是 我 的 事 儿 。 你 在 这 里 做 什 么 ？
+我 必 须 承 认 ， 一 个 跟 我 一 般 高 的 [[ms] 男 人 [fs] 女 人 ] 出 现 在 到 处 是 鹰 身 女 妖 的 山 里 ， 这 可 是 奇 观 。 恐 怖 黎 明 来 临 的 时 候 我 在 这 儿 为 了 我 的 书 做 着 研 究 。 困 在 荒 野 和 邪 恶 的 强 盗 中 间 ， 我 靠 葬 在 附 近 的 一 个 山 洞 里 活 了 下 来 ， 至 少 是 在 那 个 山 洞 坍 塌 之 前 。
+你 需 要 我 帮 什 么 忙 么 ？
+你 可 是 老 天 送 来 帮 我 的 ， 陌 生 人 。 四 山 上 安 营 扎 寨 的 强 盗 们 手 里 肯 定 有 炸 药 ， 我 觉 得 你 也 可 以 去 矿 井 里 找 找 看 。 如 果 你 给 我 找 来 炸 药 的 话 ， 我 就 能 清 除 掉 落 石 ， 拿 回 我 的 东 西 。 可 能 你 能 在 那 里 面 找 到 足 以 补 偿 你 的 援 助 的 东 西 。
+没 问 题 ， 我 会 帮 助 你 的 。
+你 得 靠 你 自 己 了 。
+这 些 炸 药 足 够 么 ？
+哎 呀 ， 足 够 了 ！ 你 可 真 是 能 干 ！
+给 你 。
+太 棒 了 ！ 往 后 站 ， 免 得 炸 到 你 。 {^n}{^n} 在 如 此 艰 难 的 岁 月 里 ， 你 竟 然 打 心 眼 里 帮 助 一 个 完 全 的 不 认 识 的 人 。 这 真 是 令 人 称 赞 的 美 德 啊 。 跟 我 进 来 吧 ， 我 要 好 好 地 奖 赏 你 。
+好 的 ， 谢 谢 你 。
+这 不 是 我 的 问 题 。
+我 在 这 里 阻 止 强 盗 攻 击 我 的 家 。
+真 是 高 尚 的 追 求 。 在 恐 怖 黎 明 把 我 困 在 这 儿 之 后 ， 我 在 附 近 找 到 一 座 山 洞 作 为 我 的 新 家 。 但 是 天 意 决 定 要 我 死 在 这 儿 。 不 到 一 天 前 ， 一 场 雪 崩 堵 住 了 山 洞 的 入 口 ， 我 所 有 的 食 物 和 财 产 都 还 在 里 面 呢 。
 
-Not my problem.
-None of your concern.
+这 不 是 我 的 问 题 。
+这 不 关 你 的 事 。

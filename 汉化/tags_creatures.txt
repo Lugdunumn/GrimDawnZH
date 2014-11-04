@@ -171,7 +171,7 @@ tagHeroGhostH06=虚化之魂 ~ 腐化
 tagGhostBoss01=堕落之魂领主 拉德里斯男爵
 tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
-tagGhostBoss04=罗威娜·库尔
+tagGhostBoss04=罗文纳·库尔
 tagGhostBoss05=行刑者领主 阿卡莫斯
 
 #CreatureGolem 傀儡

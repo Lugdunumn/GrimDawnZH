@@ -1,4 +1,4 @@
-Silas
+塞拉斯
 I'm goin', I'm goin'. Got money to spend anyhow.
 Good.
 What ya comin' near me fer? Git back to work.
@@ -6,7 +6,7 @@ I'm going.
 Back to work with ya. Quota's goin' up next week, ya know.
 I think I'm going to kill you this time.
 Ya watch yer litte mouth or I'll have to carve ya another.
-You die today. (Attack)
+明年的今天就是你的忌日。(攻击)
 Nevermind.
 Whatever you say.
 Back to work with ya. Quota's goin' up next week, ya know.
@@ -18,7 +18,7 @@ Extortion? Men like you deserve to die.
 A man might take that as a threat. Ya ain' threatenin' me, are ya?
 
 
-Perhaps I am. (Attack)
+或许是的。(攻击)
 Nevermind.
 
 I've got the scrap.

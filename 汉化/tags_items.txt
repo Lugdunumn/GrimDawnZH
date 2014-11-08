@@ -113,7 +113,7 @@ tagWeaponBluntD001Desc=“死 亡 到 来 的 预 兆 。”
 tagWeaponBluntD002=冬幕节的烟火
 tagWeaponBluntD003=痛苦
 tagWeaponBluntD004=末日使者
-tagWeaponBluntD004Desc=“谣 传 是 它 在 恐 怖 黎 明 开 始 时 撕 裂 出 第 一 道 裂 缝 之 门 。”
+tagWeaponBluntD004Desc=“传 说 是 它 在 恐 怖 黎 明 开 始 时 撕 裂 出 第 一 道 裂 缝 之 门 。”
 tagWeaponBluntD005=德里格之瘟疫
 tagWeaponBluntD005Desc=“承 载 着 巫 神 德 里 格 的 七 种 天 灾 。”
 tagWeaponBluntD006=破晓巨锤
@@ -434,7 +434,7 @@ tagShieldA009=步兵盾
 tagShieldA010=鸢盾
 
 tagShieldB001=典狱长的壁垒
-tagShieldB001Desc="用 硬 化 钢 与 无 情 仇 恨 锻 造 而 成 。"
+tagShieldB001Desc=“用 硬 化 钢 与 无 情 仇 恨 锻 造 而 成 。”
 tagShieldB002=典狱长的堡垒
 tagShieldB003=幽光盾
 tagShieldB004=幽光战盾
@@ -444,7 +444,7 @@ tagShieldB007=君权盾
 
 tagShieldC001=恶魔十字防御者
 tagShieldC002=源质
-tagShieldC002Desc="获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
+tagShieldC002Desc=“获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。”
 tagShieldC003=帝国卫兵的防御者
 tagShieldC004=火焰破坏者
 tagShieldC005=魔鬼笑容

@@ -1,4 +1,4 @@
-Devil's Crossing
+恶魔十字
 The Lost Caravan
 Found Caravan
 You happened upon a wrecked caravan along the road near the Foggy Bank. Though there are signs of a fight, no driver can be seen. {^n}{^n}Slith tracks and blood can be seen leading deeper into the swamp. Perhaps the driver yet lives. Check the Slith camps around the Foggy Bank for the unfortunate traveler.

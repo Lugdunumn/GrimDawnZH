@@ -1,7 +1,7 @@
-Detonation Site
-Looks like a portion of the Flooded Passage has caved-in. You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 3 Dynamite to clear a path.
-Not enough Dynamite.
-Clear the Cave-in.
-Leave it.
-You have cleared this cave-in.
-Ok.
+爆 破 地 点
+似 乎 浸 没 通 道 的 一 部 分 发 生 了 塌 方 。 你 可 以 通 过 引 爆 炸 药 来 清 除 掉 这 些 障 碍 ， 古 安 克 维 亚 附 近 废 弃 的 矿 井 应 该 是 寻 找 炸 药 最 好 的 去 处 。 {^n}{^n} 需 要 3 个 炸 药 才 能 够 清 除 障 碍 。
+没 有 足 够 的 炸 药 。
+清 除 障 碍 。
+放 弃 。
+你 已 经 清 楚 掉 了 障 碍 物 。
+好 的 。

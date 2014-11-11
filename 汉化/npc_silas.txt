@@ -1,39 +1,39 @@
 塞拉斯
-I'm goin', I'm goin'. Got money to spend anyhow.
-Good.
-What ya comin' near me fer? Git back to work.
-I'm going.
-Back to work with ya. Quota's goin' up next week, ya know.
-I think I'm going to kill you this time.
-Ya watch yer litte mouth or I'll have to carve ya another.
+走了，走了。反正钱已经到手了。
+好的。
+你离我这么近要干嘛？滚回去干活。
+我这就去。
+回去干你的活儿。下周贡品数额要涨了，你知道的。
+我想我这次不能再饶了你。
+管好你那张嘴，不然我就再给你割出来一张嘴。
 明年的今天就是你的忌日。(攻击)
-Nevermind.
-Whatever you say.
-Back to work with ya. Quota's goin' up next week, ya know.
-Whatever you say.
-What ya comin' near me fer? Git back to work.
-What are you doing here?
-New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
-Extortion? Men like you deserve to die.
-A man might take that as a threat. Ya ain' threatenin' me, are ya?
+别介意。
+你说了算。
+回去干你的活儿。下周贡品数额要涨了，你知道的。
+你说了算。
+你离我这么近要干嘛？滚回去干活。
+你在这里做什么？
+刚来到这个村子的生面孔么？我们帮派罩着这个地界，管好你自己的事儿就行了，赶紧滚蛋。
+敲诈勒索？你这种人都该去死。
+我或许应该把这话当成一种威胁，你不是在威胁我吧？
 
 
 或许是的。(攻击)
-Nevermind.
+别介意。
 
-I've got the scrap.
-What ya waitin' for then. Give it here.
-Will this suffice?
-Good, good. Now back to work with ya.
-Whatever.
-On second thought, I think I'd rather kill you.
-Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
-Fine, take the scrap and choke on it.
+我找到了废铁。
+那你还等什么，给我拿来。
+这么多够不够？
+好，够了。你回去干活。
+足够就好。
+重新考虑过后，我觉得我该杀了你。
+哎唷，你还是个硬茬儿。在打得你满脸开花之前，我先给你几秒钟改变主意的时间。
+好吧，拿去那些废铁，小心别拿太多累死你。
 
-No, I'm sure. You die. (Attack)
-Nevermind.
-How much coin would it take to make you leave?
-Now yer talking my language. Look, I don' much care for this joint and a bit o' coin sure might raise a man's reputation up above, see? Gimme 2500 Iron Bits and I'll tell Darius this place ain' worth the trouble no more.
+不，我不会改变主意的。你死定了。(攻击)
+别介意。
+给你多少钱你才会走？
+你终于说了句人话。Now yer talking my language. Look, I don' much care for this joint and a bit o' coin sure might raise a man's reputation up above, see? Gimme 2500 Iron Bits and I'll tell Darius this place ain' worth the trouble no more.
 Just take the scrap.
 Deal. (Give 2500 Iron Bits)
 Good, good. Glad to be done with this slith hole. Now git out of my sight 'fore I change my mind.
@@ -43,18 +43,18 @@ On second thought, I think I'd rather kill you.
 Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
 
 No, I'm sure. You die. (Attack)
-Nevermind.
-Nevermind.
+别介意。
+别介意。
 I think you should leave before someone gets hurt.
 
 No more scrap. You die today.
 Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
 
 No, I'm sure. You die. (Attack)
-Nevermind.
+别介意。
 Forget it.
 What ya comin' near me fer? Git back to work.
-What's going on here?
-New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
-Nevermind.
-I'm going.
+这里发生了什么事？
+刚来到这个村子的生面孔么？我们帮派罩着这个地界，管好你自己的事儿就行了，赶紧滚蛋。
+别介意。
+我这就走。

@@ -3,7 +3,7 @@
 tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口
 tagMapBurialHill=殓葬山脉
-tagMapOldDump=古旧垃圾场
+tagMapOldDump=旧垃圾场
 tagMapFoggyBank=迷雾河畔
 tagMapBurrwitchRoad01=迷雾河畔
 tagMapWightmire01=尸妖泥沼
@@ -138,7 +138,7 @@ tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
 tagWorldMapTheFoggyBank=迷雾河畔
 tagWorldMapSoddenHollow={^w}湿润山谷
 tagWorldMapWightmire=尸妖泥沼
-tagWorldMapTheOldDump={^w}古旧{^n}{^w}垃圾场
+tagWorldMapTheOldDump={^w}旧{^n}{^w}垃圾场
 tagWorldMapBurialHill={^w}殓葬山
 tagWorldMapLowerCrossing=下游渡口
 tagWorldMapDevilsCrossing=恶魔十字

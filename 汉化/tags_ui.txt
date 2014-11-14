@@ -74,8 +74,8 @@ tagActionGiveAttributePoint={%d0} 属性点
 tagActionGiveAttributePoints={%d0} 属性点
 tagConditionHasKilled={%t0} ({%d1} / {%d2})
 tagConditionHasItem={%t0} ({%d1} / {%d2})
-tagQuestRewardWindowTitle=任务完成
-tagQuestRewardWindowInterim=任务进度
+tagQuestRewardWindowTitle=完成任务
+tagQuestRewardWindowInterim=任务进展
 tagQuestRewardTitle=奖励:
 tagQuestRewardMoney={%d0} 铁币
 tagQuestRewardXP=经验值：{%d0}
@@ -86,7 +86,7 @@ tagQuestRewardAcceptButton=接受
 #Faction
 
 tagFaction=势力：{^g}{%s0}
-tagFactionStanding=地位：{^g}{%t0}
+tagFactionStanding=声望：{^g}{%t0}
 tagFactionQuestReq=附加任务：{^b}{%+d0}
 tagFactionAlone=独立
 tagFactionInvisible=不可见
@@ -723,7 +723,7 @@ tagRecordDeathInfo=你 的 角 色 的 死 亡 总 数 。
 tagCharStatsSecondaryResist=次级抗性:
 
 tagCharacterStats=人物状态
-tagCharStatsFactionTitle=派系
+tagCharStatsFactionTitle=势力
 tagCPercentageValue={%.0f}%
 
 #Vendor
@@ -1144,8 +1144,8 @@ SkillPointFormat={%d0} 点技能点数
 AttributePointFormat={%d0} 点属性点数
 MenuName=名字: 
 MenuLevel=等级：{%d0}
-ItemSkillIncrement={%s1}{^E}的技能等级 {^H}{+%d0}
-ItemMasteryIncrement={%s1}{^E}的所有技能等级 {^H}{+%d0}
+ItemSkillIncrement={^l}{%s1}{^E}的技能等级 {^H}{+%d0}
+ItemMasteryIncrement={^l}{%s1}{^E}的所有技能等级 {^H}{+%d0}
 ItemAllSkillIncrement={^E}所有技能等级 {^H}{+%d0}
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}

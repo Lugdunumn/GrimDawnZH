@@ -1,27 +1,27 @@
-Angrim
+安格瑞姆
 Move along.
-Farewell.
-You and I have nothing left to say to each other.
+再见。
+你和我之间没什么好说的。
 I lost the Malleum Menhir.
 Yes, I found it shortly after you left. You continue to insult me with your presence. Take it and be gone.
-Thanks.
-Very well.
+谢谢。
+很好。
 Please see that Duncan uses the hammer to bring justice for Cairn.
-I lost the Malleum Menhir.
-You should be more careful with it. Forging hammers like this are incredibly hard to match. You're lucky I found it.
-I'm sorry, thank you.
-What will you do now?
-Much as you, my path still lies before me. I will find a way around this avalanche, and then I will seek out the Black Legion.
-What's the Black Legion?
-The Black Legion? Death's Bannermen? Surely you've heard of the Imperium's elite? Or were you living under a rock before the Grim Dawn?
-Why are you looking for them?
+我弄丢了曼海尔的锤骨。
+你该更小心一些的，这样的锻锤是无价之宝。你很幸运，因为我找到了它。
+很抱歉，谢谢你。
+你将要做些什么？
+跟你相似，我的道路就在眼前。我会想办法绕过这些山崩产生的障碍，然后我就去寻找黑色军团。
+黑色军团是什么组织？
+黑色军团？死神的封臣？你肯定听说过帝国的精英部队吧？还是说你在恐怖黎明之前住在石洞里面对外界一无所知？
+你为什么要寻找他们？
 I heard solid rumors that some of the Legion escaped the chaos that broke out in the capital. I intend to seek them out and aid them in the fight against the invaders.
-Good luck in your search.
+祝你的搜寻能有好运。
 I...um, nevermind.
 Good luck out there.
 I will.
-Greetings, stranger. I hope you're out here fighting the good fight.
-I'm here for the Malleum Menhir.
+你好，陌生人。我希望你是为正义而战的人。
+我是来拿曼海尔的锤骨的。
 What do you know about that?
 Duncan needs it to help the refugees.
 He is a talented boy, that one. The way he weaves magical properties into his craft astounds even me sometimes. I prefer a finely honed blade and a solid shield to that nonsense though.{^n}{^n}Duncan was my finest apprentice, but he still needs to learn some priorities. Those people he's trying to help can't even help themselves. Our knowledge is a rare gift. We cannot squander it on those that refuse to fight for Cairn.

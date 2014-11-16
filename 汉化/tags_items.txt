@@ -1287,7 +1287,7 @@ tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的屠杀
 tagBlueprint_RelicD017=设计图：遗物 - 德里格的灾祸
 tagBlueprint_RelicD018=设计图：遗物 - 拜斯迈的主宰
 tagBlueprint_RelicD019=设计图：遗物 - 奥莱隆之怒
-tagBlueprint_RelicD020=设计图：遗物 - 曼海尔的堡垒
+tagBlueprint_RelicD020=设计图：遗物 - 曼海尔的壁垒
 
 tagBlueprint_ComponentA01=设计图：虚化之魂
 tagBlueprint_ComponentA02=设计图：弹痕甲片
@@ -1495,7 +1495,7 @@ tagRelicD018=拜斯迈的主宰
 tagRelicD018Desc=“看 看 他 们 ， 这 些 渺 小 的 玩 偶 都 在 我 看 不 见 的 线 绳 中 亦 步 亦 趋 。”
 tagRelicD019=奥莱隆之怒
 tagRelicD019Desc0=“鲜 血 …… 痛 苦 …… 死 亡 。 和 无 法 抗 拒 的 隆 隆 战 鼓 声 。”
-tagRelicD020=曼海尔的堡垒
+tagRelicD020=曼海尔的壁垒
 tagRelicD020Desc=“大 地 不 会 忍 受 什 么 邪 灵 或 是 嗜 血 异 教 徒 ， 奋 起 抗 争 保 卫 她 ， 凯 恩 世 界 也 将 与 你 同 在 。”
 
 
@@ -2412,7 +2412,7 @@ tagSuffixB045_Ar_A=破碎世界之
 tagSuffixB046_Ar_A=密谋之
 tagSuffixB047_Ar_A=荒芜之
 
-tagSuffixB001_Sh_A=堡垒之
+tagSuffixB001_Sh_A=壁垒之
 tagSuffixB002_Sh_A=勇气之
 tagSuffixB003_Sh_A=防御者之
 tagSuffixB004_Sh_A=神谕之

@@ -1100,7 +1100,7 @@ tagCharWeaponIntelligenceReqReduction={^E}装备所有武器所需智力 {^H}-{%
 tagCharWeaponStrengthReqReduction={^E}装备所有武器所需力量 {^H}-{%.0f0}%
 tagCharWeaponDexterityReqReduction={^E}装备所有武器所需敏捷 {^H}-{%.0f0}%
 
-tagChanceOf={%.1f0}% {^E}{的几率{^H}
+tagChanceOf={%.1f0}% {^E}{的几率造成 {^H}
 tagChanceTo={%.1f0}% {^E}{的几率{^H}
 
 Strength=力量
@@ -1218,12 +1218,12 @@ ActiveManaCost={^E}每秒激活能量消耗
 ActiveDuration=持续时间
 TargetRadius=目标区域
 TargetAngle={%.0f0} {^E}度攻击范围
-TargetNumber={^E}最多作用于 {%d0} {^E}个目标
+TargetNumber={^E}最多作用于 {^H}{%d0} {^E}个目标
 CooldownTime={^E}技能冷却时间
 ExplosionRadius=作用范围
-ProjectileLaunchRotation=投射物速度 {%.1f0}
+ProjectileLaunchRotation=投射物速度 {^H}{%.1f0}
 ProjectileLaunchNumber={%d0} {^E}枚投射物
-ProjectileLaunchNumberMod=投射物数目增加 {%d0} {^E}枚
+ProjectileLaunchNumberMod={^E}投射物数目增加 {^H}{%d0} {^E}枚
 ProjectileFragmentsLaunchNumberMinMax={%d0-%d1} {^E}碎片数
 ProjectileFragmentsLaunchNumber={%d0} {^E}碎片数
 ProjectilePiercingChance={%.1f0}% {^E}的几率{^E}穿过敌人
@@ -1236,11 +1236,11 @@ tagShieldBlockInfo={%.0f0}% 的几率格挡 {^W}{%.0f1} 伤害
 
 
 
-SkillManaCostReduction={^E}技能能量消耗 -{%.0f0}%
-SkillCooldownReduction={^E}技能冷却时间减少 {%.0f0}%
-SkillProjectileSpeedModifier={^E}投射物飞行速度 {%+.0f0}%
-SkillManaCostReductionModifier={^E}技能能量消耗减少效果提升 {%.0f0}%
-SkillCooldownReductionModifier={^E}技能冷却时间减少效果提升 {%.0f0}%
+SkillManaCostReduction={^E}技能能量消耗 {^H}-{%.0f0}%
+SkillCooldownReduction={^E}技能冷却时间减少 {^H}{%.0f0}%
+SkillProjectileSpeedModifier={^E}投射物飞行速度 {^H}{%+.0f0}%
+SkillManaCostReductionModifier={^E}技能能量消耗减少效果提升 {^H}{%.0f0}%
+SkillCooldownReductionModifier={^E}技能冷却时间减少效果提升 {^H}{%.0f0}%
 
 GlobalChanceOfAllTag={^E}的几率：{^H}
 GlobalChanceOfOneTag={^E}的几率触发以下效果的其中之一：{^H}
@@ -1282,7 +1282,7 @@ tagDotLifeLeech=生命吸取
 tagSetItems=({%d0}) 套装
 tagSecond={^E}秒
 tagSeconds={^E}秒
-DamagePerSecond={^S}每秒 {%.1f0} {^S}点伤害(装备后)
+DamagePerSecond= {%.1f0}{^S}点每秒伤害(装备后)
 DamagePhysicalChance={^E} 点物理伤害
 DamageBasePhysical={^S} 点物理伤害
 DamageBasePierceRatio={%.0f0}% {^S}护甲穿透
@@ -1415,18 +1415,18 @@ RetaliationConfusion={%t0} {^E}{%z1} 迷惑反击
 RetaliationSleep={%t0} {^E}{%z1} 昏睡反击
 RetaliationPercentCurrentLife={^E}反击造成敌人当前生命减少 {^H}{%t0}% 
 RetaliationDurationAttackSpeed=% {^E}减慢攻击速度反击
-RetaliationDurationCold= {^E}霜燃反击
+RetaliationDurationCold= {^E}点霜燃反击
 RetaliationDurationDefensiveAbility= {^E}降低防御能力反击
-RetaliationDurationFire= {^E}燃烧反击
+RetaliationDurationFire= {^E}点燃烧反击
 RetaliationDurationLife= {^E}活力衰减反击
-RetaliationDurationLifeLeach= {^E}生命吸取反击
-RetaliationDurationLightning= {^E}电击反击
-RetaliationDurationManaLeach= {^E}能量吸取反击
+RetaliationDurationLifeLeach= {^E}点生命吸取反击
+RetaliationDurationLightning= {^E}点电击反击
+RetaliationDurationManaLeach= {^E}点能量吸取反击
 RetaliationDurationOffensiveAbility= {^E}降低攻击能力反击
 RetaliationDurationOffensiveReduction= {^E}伤害减少反击
-RetaliationDurationPhysical= {^E}内伤反击
-RetaliationDurationBleeding= {^E}流血反击
-RetaliationDurationPoison= {^E}持续毒素反击
+RetaliationDurationPhysical= {^E}点内伤反击
+RetaliationDurationBleeding= {^E}点流血反击
+RetaliationDurationPoison= {^E}点持续毒素反击
 RetaliationDurationRunSpeed=% {^E}减慢移动反击
 RetaliationDurationSpellCastSpeed=% {^E}减慢施法反击
 RetaliationModifierPhysical={%+.0f0}% {^E}物理伤害反击
@@ -1586,8 +1586,8 @@ DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全抗性
 
 RacialBonusPercentDamage={%+.0f0}% {^E}对{%s1}的伤害
 RacialBonusAbsoluteDamage={%+.0f0} {^E}点对{%s1}伤害
-RacialBonusPercentDefense={^E}来自{%s1}的伤害降低 {^s}{%.0f0}%
-RacialBonusAbsoluteDefense={^E}来自{%s1}的伤害减少 {^s}{%.0f0} {^E}点
+RacialBonusPercentDefense={^E}来自{%s1}的伤害降低 {^H}{%.0f0}%
+RacialBonusAbsoluteDefense={^E}来自{%s1}的伤害减少 {^H}{%.0f0} {^E}点
 RacialBonusRaceName={%s0}
 
 

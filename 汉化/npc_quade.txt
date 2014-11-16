@@ -1,53 +1,53 @@
-奎德
-我听说德莱厄斯已经死了，很高兴在这场冲突中我们立场一致。
-再见。
-我们的营地永远欢迎你的到来。
-再见。
-欢迎来到我们的营地。你不动武我们自当以礼相待。我们共同的敌人是克隆利帮。
-再见。
-猎杀行动进行的如何？
-“守财奴”马丁已经死了。
-You are ruthlessly effective.我希望他死前大声呼救了，老旧的矿坑里面没人会搭理他的哭嚎的。谢谢你，你让我安心多了。
-不用感谢。
-猎杀行动进行的如何？
-我应该去哪里？
-在四山You should find "Moneybags" Martin in Cronley's Hideout underneath the Four Hills.
-I'll head there now.
-Still looking.
-Ready to cause some more mayhem?
-What have you got for me?
-Somewhere inside Cronley's Hideout underneath the Four Hills there lives a bastard by the name "Moneybags" Martin. He earned his moniker exploiting poor travelers, such as my old group.{^n}{^n}A few months ago, Martin and his band caught us out on the road, demanding all our valuables. I refused... and for that he took my eye.{^n}{^n}That was the day I left my Rover elders, no longer willing to let this unforgiving world spit all over our pacifist lifestyle. Together with my brothers and sisters, we fight against our enemy instead of hiding and praying.{^n}{^n}I can't just leave them to pursue my revenge though. That is why I'd like you to be the deliverer of my vengeance. Find Martin, leave his corpse to rot in those tunnels. Then return to me.
-I'll find "Moneybags" Martin.
-Hm, no thanks.
-I've already slain "Moneybags" Martin.
-You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
-You're welcome.
-我不感兴趣。
-How goes your mission?
-I have destroyed the forges.
-I could hear the commotion you've caused from here. Well done, your payment as promised. Now... I'm wondering if you would be up for a little more work.
-What did you have in mind?
+奎 德
+我 听 说 德 莱 厄 斯 已 经 死 了 ， 很 高 兴 在 这 场 冲 突 中 我 们 立 场 一 致 。
+再 见 。
+我 们 的 营 地 永 远 欢 迎 你 。
+再 见 。
+欢 迎 来 到 我 们 的 营 地 。 你 不 动 武 我 们 自 当 以 礼 相 待 。 我 们 共 同 的 敌 人 是 克 隆 利 帮 。
+再 见 。
+猎 杀 行 动 进 行 的 如 何 ？
+“ 守 财 奴 ” 马 丁 已 经 死 了 。
+你 办 事 实 在 是 即 残 忍 无 情 又 高 效 啊 。 我 希 望 他 死 前 大 声 呼 救 了 ， 老 旧 的 矿 坑 里 面 没 人 会 搭 理 他 的 哭 嚎 的 。 谢 谢 你 ， 你 让 我 安 心 多 了 。
+不 用 感 谢 。
+猎 杀 行 动 进 行 的 如 何 ？
+我 应 该 去 哪 里 ？
+在 四 山 深 处 的 克 隆 利 的 藏 身 处 ， 你 会 找 到 “ 守 财 奴 ” 马 丁 的 。
+我 会 去 那 儿 的 。
+还 在 寻 找 目 标 。
+准 备 好 大 闹 一 番 了 么 ？
+你 要 我 做 什 么 ？
+在 四 山 深 处 的 克 隆 利 的 藏 身 处 住 着 一 个 叫 “ 守 财 奴 ” 马 丁 的 混 蛋 。 他 因 为 剥 削 不 幸 的 旅 行 者 而 赢 得 了 这 个 名 字 ， 我 以 前 的 队 伍 就 曾 深 受 其 害 。 {^n}{^n}几 个 月 前 ， 马 丁 和 他 的 同 伙 在 路 上 抓 到 了 我 们 ， 叫 我 们 把 值 钱 的 东 西 都 交 出 来 。 我 拒 绝 了 他 … … 他 就 把 我 的 眼 睛 挖 了 出 来 。 {^n}{^n}就 在 那 一 天 我 离 开 了 流 浪 者 长 老 们 ， 我 不 能 再 让 这 个 无 情 的 世 界 毁 掉 我 们 向 往 和 平 的 日 子 。 我 和 我 的 兄 弟 姐 妹 们 一 起 反 抗 敌 人 ， 而 不 再 是 躲 起 来 祈 祷 。 {^n}{^n}但 是 我 却 不 能 离 开 他 们 只 身 去 报 仇 ， 所 以 我 想 让 你 帮 我 报 这 一 箭 之 仇 。 找 到 马 丁 ， 让 他 的 尸 首 烂 在 那 些 坑 道 里 面 。 然 后 回 到 我 这 里 。
+我 会 找 到 “ 守 财 奴 ” 马 丁 的 。
+嗯 ， 我 不 干 这 事 。
+我 已 经 杀 了 “ 守 财 奴 ” 马 丁 。
+你 办 事 实 在 是 即 残 忍 无 情 又 高 效 啊 。 我 希 望 他 死 前 大 声 呼 救 了 ， 老 旧 的 矿 坑 里 面 没 人 会 搭 理 他 的 哭 嚎 的 。 谢 谢 你 ， 你 让 我 安 心 多 了 。
+不 用 感 谢 。
+我 不 感 兴 趣 。
+任 务 进 行 得 如 何 ？
+我 摧 毁 了 那 些 熔 炉 。
+我 从 这 里 就 能 听 到 你 引 起 的 骚 动 。 干 得 好 ， 约 定 好 的 钱 会 付 给 你 的 。 现 在 ， 我 想 知 道 你 还 愿 不 愿 意 再 干 点 活 ？
+你 想 让 我 做 什 么 ？
 
-我不感兴趣。
-I'll return shortly.
-How goes your mission?
-Where are the forges again?
-Cronley's gang has several weapon forges around the Four Hills, just east of here. If you destroy enough of them, you will cripple their ability to rearm themselves.
-I'm on it.
-Still working on it.
-You've returned. Got it in you to help us out?
-What do you need?
-Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
-We have a deal.
-You're right. It's not my problem.
-Welcome to our camp. What brings you here?
-Mornay sent me.
-Ah, so he did make it across the river. That man had enough bullets in him to take down five men. Still not sure we got them all out.{^n}{^n}If Mornay sent you, then he must think we can help each other out. Care to put those weapons of yours to use?
-What do you need?
-Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
-We have a deal.
-You're right. It's not my problem.
-我不感兴趣。
-Just passing through.
-Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
-Just passing through.
+我 不 感 兴 趣 。
+我 一 会 儿 就 回 来 。
+任 务 进 行 得 如 何 ？
+那 些 熔 炉 在 哪 ？
+克 隆 利 帮 在 东 边 的 四 山 上 有 几 处 武 器 熔 炉 。 如 果 你 能 摧 毁 足 够 多 的 熔 炉 ， 那 么 你 就 能 削 弱 他 们 武 装 自 己 的 能 力 。
+我 会 搞 定 的 。
+还 在 进 行 任 务 。
+你 回 来 了 ， 有 没 有 解 决 掉 我 们 的 麻 烦 ？
+你 要 我 做 什 么 ？
+克 隆 利 帮 的 帮 众 武 器 精 良 ， 又 都 是 惯 犯 经 验 老 到 。 我 们 … … 可 就 不 是 如 此 了 。 正 面 对 决 我 们 是 没 法 赢 得 这 场 战 争 的 。 我 们 需 要 削 弱 他 们 的 实 力 。 {^n}{^n}这 就 轮 到 你 发 挥 作 用 了 ， 那 些 不 法 之 徒 有 很 多 熔 炉 ， 就 像 我 背 后 的 这 种 熔 炉 ， 分 散 在 四 山 之 中 。 如 果 你 能 摧 毁 它 们 的 话 ， 德 莱 厄 斯 的 人 就 没 法 再 重 整 军 备 。 我 理 解 这 可 能 不 关 你 什 么 事 ， 但 是 我 想 付 你 些 钱 会 让 你 感 兴 趣 的 。 你 说 呢 ？
+成 交 。
+你 说 得 对 ， 这 跟 我 无 关 。
+欢 迎 来 到 我 们 的 营 地 。 是 什 么 风 把 您 吹 到 这 儿 来 的 ？
+莫 尔 奈 让 我 来 的 。
+啊 ， 他 真 的 成 功 渡 河 回 去 了 。 那 个 男 人 身 体 里 的 子 弹 足 够 杀 死 他 五 回 了 。 我 不 确 定 我 们 把 他 体 内 的 子 弹 全 部 取 干 净 了 。 {^n}{^n}如 果 是 莫 尔 奈 让 你 来 的 ， 他 一 定 认 为 我 们 之 间 可 以 彼 此 互 助 。 你 愿 意 使 用 你 手 中 的 武 器 帮 助 我 们 吗 ？
+你 需 要 我 干 什 么 ？
+克 隆 利 帮 的 帮 众 武 器 精 良 ， 又 都 是 惯 犯 经 验 老 到 。 我 们 … … 可 就 不 是 如 此 了 。 正 面 对 决 我 们 是 没 法 赢 得 这 场 战 争 的 。 我 们 需 要 削 弱 他 们 的 实 力 。 {^n}{^n}这 就 轮 到 你 发 挥 作 用 了 ， 那 些 不 法 之 徒 有 很 多 熔 炉 ， 就 像 我 背 后 的 这 种 熔 炉 ， 分 散 在 四 山 之 中 。 如 果 你 能 摧 毁 它 们 的 话 ， 德 莱 厄 斯 的 人 就 没 法 再 重 整 军 备 。 我 理 解 这 可 能 不 关 你 什 么 事 ， 但 是 我 想 付 你 些 钱 会 让 你 感 兴 趣 的 。 你 说 呢 ？
+成 交 。
+你 说 得 对 ， 这 跟 我 无 关 。
+我 不 感 兴 趣 。
+我 只 是 路 过 。
+欢 迎 来 到 我 们 的 营 地 。 你 不 动 武 我 们 自 当 以 礼 相 待 。 我 们 共 同 的 敌 人 是 克 隆 利 帮 。
+我 只 是 路 过 。

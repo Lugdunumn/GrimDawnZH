@@ -1,12 +1,12 @@
 安格瑞姆
-Move along.
+我继续上路了。
 再见。
 你和我之间没什么好说的。
-I lost the Malleum Menhir.
-Yes, I found it shortly after you left. You continue to insult me with your presence. Take it and be gone.
+我弄丢了曼海尔的锤骨。
+没错，你走之后不久我就发现了它。你又回来羞辱我，拿着它赶紧离开这儿。
 谢谢。
 很好。
-Please see that Duncan uses the hammer to bring justice for Cairn.
+请一定要让邓肯用这把锻锤帮助拯救凯恩世界。
 我弄丢了曼海尔的锤骨。
 你该更小心一些的，这样的锻锤是无价之宝。你很幸运，因为我找到了它。
 很抱歉，谢谢你。
@@ -15,16 +15,16 @@ Please see that Duncan uses the hammer to bring justice for Cairn.
 黑色军团是什么组织？
 黑色军团？死神的封臣？你肯定听说过帝国的精英部队吧？还是说你在恐怖黎明之前住在石洞里面对外界一无所知？
 你为什么要寻找他们？
-I heard solid rumors that some of the Legion escaped the chaos that broke out in the capital. I intend to seek them out and aid them in the fight against the invaders.
+我听到了可靠的消息说黑色军团逃出了一片混乱的都城。我要找到他们，帮助他们对抗入侵者。
 祝你的搜寻能有好运。
-I...um, nevermind.
-Good luck out there.
-I will.
+我……额，没什么。
+祝你好运。
+希望如此。
 你好，陌生人。我希望你是为正义而战的人。
 我是来拿曼海尔的锤骨的。
-What do you know about that?
-Duncan needs it to help the refugees.
-He is a talented boy, that one. The way he weaves magical properties into his craft astounds even me sometimes. I prefer a finely honed blade and a solid shield to that nonsense though.{^n}{^n}Duncan was my finest apprentice, but he still needs to learn some priorities. Those people he's trying to help can't even help themselves. Our knowledge is a rare gift. We cannot squander it on those that refuse to fight for Cairn.
+你是怎么知道曼海尔的锤骨的？
+邓肯需要它来帮助难民们。
+邓肯他是个有天分的孩子。他那将魔法属性注入装备的技艺有时甚至是我都感到十分惊奇。我则偏爱抛光到极致的利刃和结实的盾牌，不喜欢他那多此一举的伎俩。{^n}{^n}邓肯虽然是我最杰出的学徒，但他还有很多东西需要学习。Duncan was my finest apprentice, but he still needs to learn some priorities. Those people he's trying to help can't even help themselves. Our knowledge is a rare gift. We cannot squander it on those that refuse to fight for Cairn.
 I have a group in Devil's Crossing. You could join us.
 Devil's Crossing, eh? You certainly do seem like the capable sort. If the rest of your group is anything like you, well...humanity just might stand a chance.{^n}{^n}Very well, I will be your armorer. Together, we will strike back against the invaders and retake Cairn for humanity!
 On second thought, it's time the hammer was passed on.

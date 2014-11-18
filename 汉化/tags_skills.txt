@@ -11,7 +11,7 @@ tagSkillClassName09=?
 tagSkillClassName0102=突击者
 tagSkillClassName0103=巫师之刃
 tagSkillClassName0104=剑圣
-tagSkillClassName0105=战斗法师
+tagSkillClassName0105=战法师
 tagSkillClassName0106=
 tagSkillClassName0107=
 tagSkillClassName0108=
@@ -336,9 +336,9 @@ tagClass03SkillDescription13A=这 种 恶 毒 的 ， 连 许 许 多 多 神 �
 tagClass03SkillName13B=恶疾
 tagClass03SkillDescription13B=血 瘟 疫 将 摧 毁 敌 人 的 活 力 ， 即 使 是 流 出 的 眼 泪 也 将 变 为 大 片 的 鲜 血 。 阴 险 至 斯 的 巫 术 使 神 秘 学 者 变 得 臭 名 昭 著 ， 所 以 许 多 神 秘 学 者 都 死 在 了 火 刑 柱 之 上 。
 tagClass03SkillName13C=黑死病
-tagClass03SkillDescription13C=Burning with fever and suffering the liquefaction of their internal organs, the infected may be hit by sudden bouts of confusion and wander the battlefield attacking the air or even their own allies.
+tagClass03SkillDescription13C=身 体 的 高 热 和 内 脏 的 溶 解 折 磨 着 敌 人 ， 让 他 们 在 战 场 上 攻 击 落 空 ， 甚 至 攻 击 他 们 的 队 友 。
 tagClass03SkillName13D=狂热怒意
-tagClass03SkillDescription13D=This transmutation of Pox can be as dangerous to the Occultist as to the foe. The plague will progress rapidly, more than doubling its damage, but as the afflicted burn with fever, they will become crazed, moving with unnatural speed and attacking with berserker fury that makes them both more deadly and more vulnerable.
+tagClass03SkillDescription13D=血 瘟 疫 的 变 化 对 敌 人 与 神 秘 学 者 本 身 来 说 都 很 危 险 。 血 瘟 疫 将 极 快 的 发 作 ， 不 只 是 使 造 成 的 伤 害 加 倍 ， 更 会 使 神 秘 学 者 患 上 高 热 ， 变 得 癫 狂 无 比 。 他 们 将 以 异 常 的 速 度 移 动 ， 伴 随 着 狂 暴 的 怒 意 发 动 攻 击 。 而 代 价 则 是 变 得 更 为 脆 弱 。
 
 tagClass03SkillName14A=毁灭闪电
 tagClass03SkillDescription14A=施 放 一 束 能 够 撕 裂 现 实 世 界 的 熵 能 闪 电 ， 任 何 被 它 击 中 的 敌 人 都 将 遭 受 重 创 。
@@ -529,7 +529,7 @@ tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations 
 tagClass05SkillName11A=精神迅捷
 tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
 
-tagClass05SkillName12A=现实的脉络
+tagClass05SkillName12A=撕裂空间
 tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
 
 tagClass05SkillName13A=奥莱克西拉的屏障
@@ -633,13 +633,13 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 #ItemSkills
 
 tagItemSkillA001=骤霜
-tagItemSkillDescA001=A blast of negative energy freezes anything in its path.
+tagItemSkillDescA001=一 道 阴 冷 的 能 量 波 ， 足 以 冻 结 阻 挡 它 的 一 切 。
 
 tagItemSkillA002=鬼灵漩涡
-tagItemSkillDescA002=Siphon vital life essence from nearby enemies.
+tagItemSkillDescA002=从 附 近 的 敌 人 身 上 吸 取 生 命 力 。
 
 tagItemSkillA003=静电回流
-tagItemSkillDescA003=Launches an orb of electricity at enemies that hit the player.
+tagItemSkillDescA003=对攻击玩家的敌人施放一个电球。
 
 tagItemSkillA004=火球术
 tagItemSkillDescA004=对 附 近 的 敌 人 施 放 一 个 火 球 。
@@ -648,28 +648,28 @@ tagItemSkillA004B=多重火球术
 tagItemSkillDescA004B=对 附 近 的 敌 人 施 放 多 个 火 球 。
 
 tagItemSkillA005A=火焰之环
-tagItemSkillDescA005A=Surrounds the caster in a ring of flame that burns enemies within its radius.
+tagItemSkillDescA005A=火焰之环围绕在施法者身边，灼烧其范围内的敌人。
 
 tagItemSkillA006A=浸毒武器
-tagItemSkillDescA006A=Coats weapons in a veneer of deadly toxin.
+tagItemSkillDescA006A=为武器涂上一层致命的毒药。
 
 tagItemSkillC001Name=大法官的审判
 tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
 
 tagItemSkillA007Name=专注
-tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
+tagItemSkillA007Desc=专注于战斗之中，所有攻击的速度都得以提升。
 
 tagItemSkillA008Name=生存本能
-tagItemSkillA008Desc=Provides a boost of adrenaline, temporarily increasing run speed.
+tagItemSkillA008Desc=注入肾上腺素，短时间内提升移动速度。
 
 tagItemSkillA009Name=闪电新星
-tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+tagItemSkillA009Desc=施放一道闪电能量，伤害附近的所有敌人。
 
 tagItemSkillA010=静电冲击
-tagItemSkillDescA010=A surge of electricity discharges from you, damaging nearby enemies.
+tagItemSkillDescA010=从你身上施放汹涌的电流，伤害附近的敌人。
 
 tagItemSkillA011=基尔利安之火
-tagItemSkillDescA011=A dark flame engulfs your flesh, incinerating any that dare come near and draining their vitality.
+tagItemSkillDescA011=黑火吞食你的血肉，焚化所有敢于靠近的敌人并吸取他们的活力。
 
 tagItemSkillB001Name=冲击波
 tagItemSkillB001Desc=A wave of fire erupts from your attack.

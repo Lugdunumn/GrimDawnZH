@@ -1,65 +1,65 @@
-安格瑞姆
-我继续上路了。
-再见。
-你和我之间没什么好说的。
-我弄丢了曼海尔的锤骨。
-没错，你走之后不久我就发现了它。你又回来羞辱我，拿着它赶紧离开这儿。
-谢谢。
-很好。
-请一定要让邓肯用这把锻锤帮助拯救凯恩世界。
-我弄丢了曼海尔的锤骨。
-你该更小心一些的，这样的锻锤是无价之宝。你很幸运，因为我找到了它。
-很抱歉，谢谢你。
-你将要做些什么？
-跟你相似，我的道路就在眼前。我会想办法绕过这些山崩产生的障碍，然后我就去寻找黑色军团。
-黑色军团是什么组织？
-黑色军团？死神的封臣？你肯定听说过帝国的精英部队吧？还是说你在恐怖黎明之前住在石洞里面对外界一无所知？
-你为什么要寻找他们？
-我听到了可靠的消息说黑色军团逃出了一片混乱的都城。我要找到他们，帮助他们对抗入侵者。
-祝你的搜寻能有好运。
-我……额，没什么。
-祝你好运。
-希望如此。
-你好，陌生人。我希望你是为正义而战的人。
-我是来拿曼海尔的锤骨的。
-你是怎么知道曼海尔的锤骨的？
-邓肯需要它来帮助难民们。
-邓肯他是个有天分的孩子。他那将魔法属性注入装备的技艺有时甚至是我都感到十分惊奇。我则偏爱抛光到极致的利刃和结实的盾牌，不喜欢他那多此一举的伎俩。{^n}{^n}邓肯虽然是我最杰出的学徒，但他还有很多东西需要学习。Duncan was my finest apprentice, but he still needs to learn some priorities. Those people he's trying to help can't even help themselves. Our knowledge is a rare gift. We cannot squander it on those that refuse to fight for Cairn.
-I have a group in Devil's Crossing. You could join us.
-Devil's Crossing, eh? You certainly do seem like the capable sort. If the rest of your group is anything like you, well...humanity just might stand a chance.{^n}{^n}Very well, I will be your armorer. Together, we will strike back against the invaders and retake Cairn for humanity!
-On second thought, it's time the hammer was passed on.
-Actually, I think I'll just be taking the hammer.
-I'll see you in Devil's Crossing. (Side with Angrim: Open Riftgate)
-It is time the hammer was passed on.
-It is true, Duncan brings a fresh approach to the forge with his arcane weapons and he goes about his work with unrivaled energy, but he still lacks the experience to make weapons for real soldiers and masters of the blade.{^n}{^n}I cannot have the power of Malleum Menhir wasting away when we are at war.
-I will see that his work benefits humanity. (Side with Duncan)
-You'd put him to work, eh? You certainly do seem like the capable sort.{^n}{^n}*Angrim sighs.*{^n}{^n}Very well, Duncan will inherit the Malleum Menhir. Take it to him. Let him do his charity work, but after that...
-Thank you. He and I will do great things.
-We could use your talents in Devil's Crossing.
-Guess I'll just take it by force then.
+安 格 瑞 姆
+我 继 续 上 路 了 。
+再 见 。
+你 和 我 之 间 没 什 么 好 说 的 。
+我 弄 丢 了 曼 海 尔 的 锤 骨 。
+没 错 ， 你 走 之 后 不 久 我 就 发 现 了 它 。 你 又 回 来 羞 辱 我 ， 拿 着 它 赶 紧 离 开 这 儿 。
+谢 谢 。
+很 好 。
+请 一 定 要 让 邓 肯 用 这 把 锻 锤 帮 助 拯 救 凯 恩 世 界 。
+我 弄 丢 了 曼 海 尔 的 锤 骨 。
+你 该 更 小 心 一 些 的 ， 这 样 的 锻 锤 是 无 价 之 宝 。 你 很 幸 运 ， 因 为 我 找 到 了 它 。
+很 抱 歉 ， 谢 谢 你 。
+你 将 要 做 些 什 么 ？
+跟 你 相 似 ， 我 的 道 路 就 在 眼 前 。 我 会 想 办 法 绕 过 这 些 山 崩 产 生 的 障 碍 ， 然 后 我 就 去 寻 找 黑 色 军 团 。
+黑 色 军 团 是 什 么 组 织 ？
+黑 色 军 团 ？ 死 神 的 封 臣 ？ 你 肯 定 听 说 过 帝 国 的 精 英 部 队 吧 ？ 还 是 说 你 在 恐 怖 黎 明 之 前 住 在 石 洞 里 面 对 外 界 一 无 所 知 ？
+你 为 什 么 要 寻 找 他 们 ？
+我 听 到 了 可 靠 的 消 息 说 黑 色 军 团 逃 出 了 一 片 混 乱 的 都 城 。 我 要 找 到 他 们 ， 帮 助 他 们 对 抗 入 侵 者 。
+祝 你 的 搜 寻 能 有 好 运 。
+我 … … 额 ， 没 什 么 。
+祝 你 好 运 。
+希 望 如 此 。
+你 好 ， 陌 生 人 。 我 希 望 你 是 为 正 义 而 战 的 人 。
+我 是 来 拿 曼 海 尔 的 锤 骨 的 。
+你 是 怎 么 知 道 曼 海 尔 的 锤 骨 的 ？
+邓 肯 需 要 它 来 帮 助 难 民 们 。
+邓 肯 他 是 个 有 天 分 的 孩 子 。 他 那 将 魔 法 属 性 注 入 装 备 的 技 艺 有 时 甚 至 是 我 都 感 到 十 分 惊 奇 。 我 则 偏 爱 抛 光 到 极 致 的 利 刃 和 结 实 的 盾 牌 ， 不 喜 欢 他 那 多 此 一 举 的 伎 俩 。 {^n}{^n}邓 肯 虽 然 是 我 最 杰 出 的 学 徒 ， 但 他 还 有 很 多 东 西 需 要 学 习 。 他 要 帮 助 的 那 些 人 连 他 们 自 己 都 救 不 了 。 我 们 的 学 识 是 罕 见 的 天 赋 ， 我 么 不 能 把 它 浪 费 在 那 些 不 愿 意 为 凯 恩 世 界 而 战 的 人 身 上 。
+我 们 在 恶 魔 十 字 有 一 个 团 队 ， 你 可 以 加 入 我 们 。
+恶 魔 十 字 ， 嗯 ？ 看 得 出 来 你 确 实 并 非 池 中 之 物 。 如 果 你 的 团 队 里 面 有 跟 你 一 样 的 家 伙 ， 那 么 … … 人 类 有 有 点 希 望 了 。 {^n}{^n}好 的 ， 就 让 我 我 来 为 你 整 备 装 备 。 让 我 们 一 起 反 击 入 侵 者 为 人 类 夺 回 凯 恩 世 界 ！
+经 过 重 新 考 虑 过 后 ， 我 觉 得 是 时 候 把 锻 锤 传 给 下 一 代 了 。
+实 际 上 ， 我 觉 得 我 该 拿 走 那 把 锻 锤 。
+我 们 恶 魔 十 字 见 。 ( 支 持 安 格 瑞 姆 : 打 开 传 送 门 )
+是 时 候 把 锻 锤 传 给 下 一 代 了 。
+没 错 ， 邓 肯 创 造 了 附 魔 锻 造 的 新 工 艺 ， 而 且 他 以 无 人 能 及 的 精 力 进 行 着 他 的 工 作 。 但 他 仍 然 缺 少 为 真 正 的 战 士 和 剑 术 大 师 们 制 造 武 器 的 经 验 。 {^n}{^n}我 不 能 让 曼 海 尔 骨 锤 的 力 量 被 浪 费 ， 我 们 毕 竟 处 在 战 争 期 间 。
+我 会 让 邓 肯 帮 助 人 类 的 。 ( 支 持 邓 肯 )
+你 要 让 他 帮 你 们 工 作 了 ， 嗯 ？ 看 得 出 来 你 确 实 并 非 池 中 之 物 。 {^n}{^n}* 安 格 瑞 姆 叹 了 叹 气 。 *{^n}{^n}好 吧 ， 邓 肯 可 以 继 承 曼 海 尔 的 锤 骨 了 ， 拿 去 给 他 吧 。 让 他 当 自 己 的 慈 善 家 去 吧 ， 但 是 以 后 的 事 情 可 就 难 说 了 … …
+谢 谢 ， 他 和 我 一 定 能 做 成 大 事 。
+我 们 可 以 去 恶 魔 十 字 发 挥 你 的 特 长 。
+我 猜 我 只 能 被 迫 接 受 你 的 邀 请 了 。
 
-Doesn't matter. I'm taking it, by force if I must.
-You don't really think I'm going to just let you take it, do you?
-Don't try to fight me for it.
-I don't just make weapons, you know. I know how to use them too.{^n}{^n}If you want the Malleum Menhir, you'll have to get it over my dead body.
-I'm sorry, I'm just trying to help Duncan.
-Don't make me ask again. (Side with Duncan)
-I see that you won't be reasoned with. So be it. Take the pride of my life from me.{^n}{^n}You are a mockery of what it means to be human in these trying times.
-Glad we came to an understanding.
-So be it. (Side with Duncan: Attack)
-I'm sorry, I'm just trying to help Duncan.
-Then I guess you have to die. (Side with Duncan: Attack)
-What are you doing out here?
-Same as you, I suppose. Seeking my purpose in our fight to save Cairn. The Black Legion is out there still and they could surely use a blacksmith.
-The Black Legion?
-The Black Legion? Death's Bannermen? Surely you've heard of the Imperium's elite? Or were you living under a rock before the Grim Dawn?
-Why are you looking for them?
-I heard solid rumors that some of the Legion escaped the chaos that broke out in the capital. I intend to seek them out and aid them in the fight against the invaders.
+无 所 谓 ， 我 要 拿 走 它 ， 如 果 必 要 的 话 就 用 强 。
+你 不 会 认 为 我 就 这 么 让 你 随 笔 拿 走 吧 ？
+可 别 想 着 你 能 打 败 我 。
+我 可 不 只 是 做 武 器 的 ， 我 晓 得 怎 么 样 使 用 它 们 。 {^n}{^n}如 果 你 要 抢 走 曼 海 尔 的 锤 骨 ， 那 么 从 我 的 死 尸 身 上 拿 走 吧 。
+抱 歉 ， 我 只 是 想 帮 助 邓 肯 。
+别 让 我 问 你 第 二 次 。 ( 支 持 邓 肯 )
+我 明 白 了 你 是 个 不 可 理 喻 的 家 伙 。 那 就 这 样 吧 ， 拿 走 我 一 生 的 骄 傲 好 了 。 {^n}{^n}对 于 在 这 个 艰 难 的 时 期 人 类 应 该 有 的 样 子 来 说 ， 你 这 样 的 人 简 直 是 一 种 嘲 讽 。
+很 高 兴 我 们 终 于 能 理 解 彼 此 。
+那 就 来 吧 。 ( 支 持 邓 肯 : 攻 击 )
+抱 歉 ， 我 只 是 想 帮 助 邓 肯 。
+那 么 我 猜 你 的 死 期 到 了 。 ( 支 持 邓 肯 : 攻 击 )
+你 在 这 里 做 什 么 ？
+跟 你 一 样 ， 在 抗 争 中 寻 找 拯 救 凯 恩 世 界 的 道 路 。 黑 色 军 团 仍 然 存 在 着 ， 他 们 一 定 会 需 要 一 名 铁 匠 的 。
+黑 色 军 团 ？
+黑 色 军 团 ？ 死 神 的 封 臣 ？ 你 肯 定 听 说 过 帝 国 的 精 英 部 队 吧 ？ 还 是 说 你 在 恐 怖 黎 明 之 前 住 在 石 洞 里 面 对 外 界 一 无 所 知 ？
+你 为 什 么 要 寻 找 他 们 ？
+我 听 到 了 可 靠 的 消 息 说 黑 色 军 团 逃 出 了 一 片 混 乱 的 都 城 。 我 要 找 到 他 们 ， 帮 助 他 们 对 抗 入 侵 者 。
 
-Good luck in your search.
+祝 你 的 搜 寻 能 有 好 运 。
 
-I...um, nevermind.
+我 … … 额 ， 没 什 么 。
 
-Farewell.
-Move along.
-Farewell.
+再 见 。
+我 继 续 上 路 了 。
+再 见 。

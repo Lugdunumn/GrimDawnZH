@@ -308,7 +308,7 @@ tagWeaponMelee2hB004=凶蛮切肉斧
 tagWeaponMelee2hB005=凶蛮斩首斧
 tagWeaponMelee2hB006=阿卡莫斯之镰
 tagWeaponMelee2hB007=幽光战斧
-tagWeaponMelee2hB008=阿卡摩斯战剑
+tagWeaponMelee2hB008=阿卡莫斯战剑
 tagWeaponMelee2hB009=幽光战锤
 
 tagWeaponMelee2hC001=残暴开膛者
@@ -2026,7 +2026,7 @@ tagItemSetC010Desc=“大 师 级 枪 手 珍 藏 的 利 器 ，能 命 中 500
 tagItemSetC011Name=不洁圣约
 tagItemSetC011Desc=“教 团 在 隐 秘 的 仪 式 中 穿 着 的 华 服 。”
 
-tagItemSetC012Name=皇家奢华
+tagItemSetC012Name=皇家的奢华
 tagItemSetC012Desc=“被 认 为 遗 失 在 恐 怖 黎 明 劫 掠 中 的 皇 家 珠 宝 收 藏 品 。”
 
 tagItemSetC013Name=毁誓者

@@ -1,23 +1,23 @@
-Elder Mathias
-Have you...done...as I asked?
-It is done. Rest in peace.
-I...am not long...for this world...
-You must rest.
-Please...deliver the talisman...
-I will.
-Please... stranger... take this talisman. I carried it away from my camp to prevent bandits from stealing it, but nature has passed judgment and I am not long for this world.{^n}{^n}*Mathias pauses to clear his throat of blood*{^n}{^n}I implore you, bring the talisman to Greven. He is at a Rover camp just east of Staunton Mine, in the Arkovian Foothills. Tell him that I died protecting our relic.
+马 赛 厄 斯 长 老
+你 … … 照 我 说 的 … … 做 了 么 ？
+是 的 。 安 息 吧 。
+我 … … 已 不 久 … … 于 人 世 … …
+你 必 须 休 息 。
+请 你 … … 送 回 护 身 符 … …
+我 会 的 。
+求 你 … … 陌 生 人 … … 拿 着 这 枚 护 身 符 。 我 把 它 带 出 了 营 地 ， 免 得 强 盗 抢 走 它 。 但 是 上 天 审 判 我 将 不 久 于 人 世 。 {^n}{^n}* 马 赛 厄 斯 停 下 来 清 了 清 被 鲜 血 阻 塞 的 嗓 子 *{^n}{^n}我 乞 求 你 ， 把 护 身 符 带 去 给 格 雷 文 吧 。 他 就 在 斯 汤 顿 矿 洞 东 边 的 流 浪 者 营 地 里 。 告 诉 他 ， 我 为 保 护 护 身 符 而 死 。
 
-I will do as you ask.
-Please...deliver the talisman...
-I think I'll just keep it.
-No... please! Take the talisman to Greven, have him compensate you, but please don't keep it away from my people. It is sacred to us...
-Alright, fine. Where do I go again?
+我 会 照 你 说 的 去 做 。
+请 你 … … 送 回 护 身 符 … …
+我 想 这 护 身 符 归 我 了 。
+不 … … 求 你 了 ！ 把 它 拿 去 给 格 雷 文 ， 让 他 给 你 报 酬 ， 请 不 要 把 它 从 我 们 的 人 民 身 边 带 走 ， 它 是 我 们 族 人 的 圣 物 … …
+好 吧 ， 我 该 送 去 给 谁 ？
 
-Forget it. I'm keeping it.
-Alright, fine. I'll deliver it.
-Where do I need to take the talisman?
-Greven... take it to Greven at the Rover Camp. It is just...east of...Staunton...Mine...
-Very well.
-bye.
-*Mathias winces in pain, he seems barely aware of your presence.*
-I'll look for help.
+休 想 ， 这 护 身 符 我 要 了 。
+好 吧 ， 我 会 把 它 送 回 去 的 。
+我 该 把 护 身 符 带 去 给 谁 ？
+格 雷 文 … … 带 给 流 浪 者 营 地 的 格 雷 文 。 就 在 … … 斯 汤 顿 … … 矿 洞 … … 东 边 … …
+好 的 。
+再 见 。
+* 马 赛 厄 斯 陷 入 了 痛 苦 之 中 ， 他 已 经 感 觉 不 到 你 的 存 在 了 。 *
+我 会 去 找 人 来 帮 你 的 。

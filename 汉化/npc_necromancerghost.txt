@@ -1,72 +1,71 @@
-Kalderos
-You have done well, but even greater challenges await within the depths of Torment.
-I have some questions.
-Ask and I shall answer.
-What lies beyond these doors?
-These doors were sealed off by Uroboruuk himself after he doomed the Arkovians to their lifeless fate. Beyond them are the Arkovians he cursed to an eternity of suffering; only a fraction of the torment they put upon him.{^n}{^n}You must be wary. The damned trapped below will pose a far greater challenge than any you've yet faced within these halls.
-Who was Uroboruuk?
-He was a great scholar and master of the necrotic arts. His greatest and most terrible achievement was turning the Arkovians' lust for immortality against them.
-I have another question.
-Thank you.
-I have another question.
-Thank you.
-What do I do with the Skeleton Key?
-It will open many ancient doors, including the ones before you. But beware, the key will be destroyed once used and the doors will seal promptly behind you.{^n}{^n}Once inside, the only way out is past the Lord Executioner...or through death.
-The Lord Executioner?
-Alkamos...he was the Arkovian charged with Uroboruuk's torment. Now he will suffer for all eternity.
-I have another question.
-Good to know.
-Can I re-open the doors?
-No...once the doors are sealed, you will have to return another time...
-I have another question.
-I see.
-I have another question.
-Thank you.
-What was the purpose of the Steps of Torment?
-It was a place of torture and life-long imprisonment for those the Arkovians deemed unworthy of their 'perfect' society. In the end, it served as a prison for all necromancers of Arkovian descent.
-I have another question.
-I see. Thank you.
-Why are you serving Balvoruuk?
-I am sworn to protect him, even in death. He has proven to be a most interesting companion in my afterlife.
-I have another question.
-Interesting.
-Nevermind.
-Goodbye.
-Your allies have done well, but even greater challenges await.
-Goodbye.
-You have destroyed the priest.
-It is finished.
-My master will be pleased. For your service, I bestow upon you this key. It is the only way to unlock the ancient places of this world.
-Ancient Places?
-Yes. Many doors were sealed long ago by ancient powers now lost. The doors before you were secured by such means.{^n}{^n}But I must warn you: The key will be destroyed once used, and the doors will not remain open for long. Once inside, the only way out is past the Lord Executioner...or through death.
+卡 尔 德 罗 斯
+你 做 得 很 好 ， 但 是 在 苦 痛 阶 梯 的 深 处 还 有 更 大 的 挑 战 在 等 着 你 。
+我 有 一 些 问 题 。
+我 将 有 问 必 答 。
+这 些 门 后 面 有 些 什 么 东 西 ？
+在 尤 若 布 鲁 克 判 处 安 克 维 亚 人 永 享 不 生 不 死 的 命 运 之 后 ， 他 亲 手 封 上 了 这 些 门 。 门 的 背 后 就 是 那 些 因 为 诅 咒 而 受 到 永 世 折 磨 的 安 克 维 亚 人 ， 虽 然 这 只 是 安 克 维 亚 人 加 诸 在 他 身 上 的 痛 苦 的 一 部 分 罢 了 。 {^n}{^n}你 一 定 要 倍 加 小 心 ， 下 层 的 那 些 诅 咒 陷 阱 将 远 比 你 在 前 厅 遇 到 的 困 难 要 危 险 得 多 。
+尤 若 布 鲁 克 是 谁 ？
+他 曾 是 一 位 伟 大 的 学 者 ， 一 位 精 通 死 灵 法 术 的 大 师 。 他 最 大 的 成 就 莫 过 于 将 安 克 维 亚 人 的 贪 欲 变 为 永 世 的 诅 咒 。
+我 还 有 一 个 问 题 。
+谢 谢 。
+我 还 有 一 个 问 题 。
+谢 谢 。
+骸 骨 之 钥 有 什 么 用 处 ？
+它 能 开 启 诸 多 远 古 之 门 ， 也 包 括 你 将 面 临 的 那 一 扇 门 。 但 是 要 记 住 ， 一 旦 使 用 过 后 它 就 会 被 摧 毁 ， 而 那 扇 门 将 在 你 进 入 之 后 迅 速 地 关 上 。 {^n}{^n}一 旦 你 踏 进 苦 痛 阶 梯 的 深 处 ， 唯 一 的 出 路 将 是 战 胜 行 刑 者 领 主 … … 或 者 是 选 择 死 亡 。
+行 刑 者 领 主 ？
+阿 卡 莫 斯 … … 他 就 是 负 责 拷 问 尤 若 布 鲁 克 的 安 克 维 亚 人 ， 现 在 轮 到 他 永 世 享 受 折 磨 了 。
+我 还 有 一 个 问 题 。
+很 高 兴 能 知 道 此 事 。
+我 能 重 启 开 启 那 扇 门 吗 ？
+不 能 … … 一 旦 门 被 封 印 之 后 ， 你 只 能 改 日 再 来 了 … …
+我 还 有 另 外 一 个 问 题 。
+我 懂 了 。
+我 还 有 另 外 一 个 问 题 。
+谢 谢 你 。
+建 造 苦 痛 阶 梯 的 意 义 何 在 ？
+这 个 地 方 用 来 拷 打 和 终 生 监 禁 那 些 被 认 为 对 他 们 的 “ 完 美 ” 社 会 毫 无 用 处 的 人 。 最 后 ， 它 用 来 关 押 所 有 的 安 克 维 亚 的 死 灵 法 师 。
+我 还 有 另 外 一 个 问 题 。
+我 明 白 了 ， 谢 谢 。
+你 为 何 侍 奉 巴 尔 沃 拉 克 ？
+我 立 誓 要 保 护 他 ， 即 使 是 死 亡 之 后 也 一 样 。 他 是 我 死 后 最 好 的 同 伴 了 。
+我 还 有 一 个 问 题 。
+有 意 思 。
+别 介 意 。
+再 见 。
+你 的 盟 友 做 得 很 好 ， 但 是 还 有 更 大 的 挑 战 在 等 着 你 们 。
+再 见 。
+你 杀 死 了 大 祭 司 。
+都 结 束 了 。
+我 的 主 人 会 很 高 兴 的 。 为 了 报 答 你 ， 我 赠 予 你 把 钥 匙 。 它 是 这 世 上 唯 一 能 够 开 启 远 古 之 地 的 方 法 。
+远 古 之 地 ？
+是 的 。 许 多 门 都 在 很 久 以 前 被 失 落 的 远 古 之 力 封 印 着 ， 在 你 面 前 的 那 扇 门 就 是 如 此 。 {^n}{^n}但 我 必 须 要 警 告 你 ： 一 经 使 用 这 把 钥 匙 就 会 被 摧 毁 ， 大 门 也 不 会 保 持 开 启 很 久 。 而 一 旦 进 入 其 间 ， 唯 一 逃 出 生 天 的 方 法 除 了 死 亡 就 是 战 胜 行 刑 者 领 主 … …
 
 
-I understand.
-I will use it well.
-I can still feel the presence of Zarthuzellan. You must destroy him.
-Where is he again?
-The Grand Priest Zarthuzellan dwells on the third floor of the Steps of Torment. You will find him before a set of ancient doors.
-I will go there now.
-I will deal with him soon.
-The Grand Priest Zarthuzellan was the Arkovian upon whose word all Arkovian necromancers were banished to the Steps of Torment. Even in death, he continues to gather the lost souls of Arkovia to his mad word.{^n}{^n}The time has come to scatter his flock and erase this stain upon the world for good. You must travel deep within the Steps of Torment. On the third floor, you will find the priest at his desecrated altar. Purge him from this place and I shall join you below.
-I will do as you ask.
-I will not do this.
-I have already slain the Grand Priest.
-My master will be pleased. For your service, I bestow upon you this key. It is the only way to unlock the ancient places of this world. One such door lies below, in the chamber of the Grand Priest. Meet me there.
-I will do so.
-You have done as we asked. I am pleased to see this.
-The Oligarchs are gone.
-With their corrupted souls destroyed, this land will begin to heal...in time. What I must ask of you next is a far more dire challenge.
-What is next?
+我 懂 了 。
+我 会 用 好 好 地 使 用 它 。
+我 仍 然 能 感 觉 到 扎 尔 泽 兰 的 存 在 。 你 必 须 杀 了 他 。
+他 在 哪 ？
+大 祭 司 扎 尔 泽 兰 居 住 在 苦 痛 阶 梯 的 第 三 层 。 你 会 发 现 他 站 在 一 扇 远 古 之 门 的 前 面 。
+我 这 就 去 那 里 。
+我 马 上 就 去 解 决 他 。
+大 祭 司 扎 尔 泽 兰 就 是 那 个 命 令 将 所 有 死 灵 法 师 驱 逐 到 苦 痛 阶 梯 的 人 。 即 使 在 死 亡 之 后 ， 他 仍 然 在 用 他 的 疯 言 疯 语 召 集 失 落 的 安 克 维 亚 游 魂 。 {^n}{^n}是 时 候 消 灭 这 群 亡 灵 然 后 从 世 界 上 抹 去 这 块 污 点 了 。 你 必 须 深 入 苦 痛 阶 梯 之 中 ， 在 第 三 层 你 会 找 到 他 渎 神 的 祭 坛 和 大 祭 司 本 人 。 净 化 他 的 灵 魂 ， 我 将 会 在 下 面 与 你 会 合 。
+我 不 会 去 做 这 个 的 。
+我 已 经 杀 掉 了 大 祭 司 。
+我 的 主 人 会 很 高 兴 的 。 为 了 报 答 你 ， 我 赠 予 你 把 钥 匙 。 它 是 这 世 上 唯 一 能 够 开 启 远 古 之 地 的 方 法 。 其 中 一 扇 门 就 在 下 面 ， 大 祭 司 的 房 间 之 中 。 你 会 在 那 儿 见 到 我 的 。
+我 会 的 。
+你 做 了 我 们 要 你 做 的 事 ， 我 很 高 兴 看 到 这 样 。
+独 裁 者 已 经 不 在 了 。
+腐 化 的 灵 魂 已 经 被 摧 毁 ， 这 片 土 地 终 于 … … 将 得 到 了 治 疗 。 下 面 我 要 你 做 的 将 是 一 次 更 为 危 险 的 挑 战 。
+接 下 要 做 什 么 ？
 
-I've had enough of all this.
-Your task is unfinished.
-Where do I go again?
-Enter the Arkovian Undercity. Its entrance lies in the ruins to the west of here. There you will find the spirits of the Oligarchs.
-Thank you.
-I will return.
-Greetings, mortal.
-You are not like other ghosts I've encountered.
-You speak of the dead roaming these ruins? No, I am willingly bound to this immortal form. They...were not as fortunate.
-I...see.
-Goodbye.
+我 已 经 受 够 了 。
+你 的 任 务 还 未 完 成 。
+我 该 去 哪 ？
+进 入 安 克 维 亚 地 下 城 ， 它 的 入 口 在 西 边 的 废 墟 中 。 在 那 里 你 会 找 到 独 裁 者 们 的 灵 魂 。
+谢 谢 。
+我 会 回 来 的 。
+你 好 ， 凡 人 。
+你 不 太 像 我 遇 到 过 的 鬼 魂 。
+你 是 说 那 些 在 废 墟 中 游 荡 的 亡 灵 ？ 不 ， 我 愿 意 化 身 为 这 种 不 朽 的 形 态 。 而 他 们 可 就 没 那 么 幸 运 了 … …
+我 … … 懂 了 。
+再 见 。

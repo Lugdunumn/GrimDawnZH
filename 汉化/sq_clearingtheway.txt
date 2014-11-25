@@ -1,13 +1,16 @@
-Arkovian Foothills
-Clearing the Way
-Collect dynamite
-You encountered a Rover camp along the road in the Arkovian Foothills, east of the Staunton Mine. Their leader, Bernard, has asked you to recover some dynamite from the nearby Staunton Mine so that you can clear  the nearby road of a blockade the bandits had created in order to stop travelers. When you have enough dynamite, you should head to the barricade and destroy it.
-Collect Dynamite
-Destroy the Bandit Barricade blocking the road
+安 克 维 亚 山 麓
+扫 除 障 碍
+收 集 炸 药
+你 在 安 克 维 亚 山 麓 的 路 旁 ， 斯 汤 顿 矿 洞 的 东 边 偶 遇 了 一 处 流 浪 者 的 营 地 。 他 们 的 领 导 者 伯 纳 德 要 你 去 附 近 的 斯 汤 顿 矿 洞 回 收 一 些 炸 药 ， 用 来 清 除 匪 徒 为 了 阻 挡 旅 行 者 而 设 下 的 路 障 。 当 你 收 集 到 足 够 的 炸 药 的 时 候 ， 前 往 路 障 那 里 然 后 摧 毁 它 。
+收 集 炸 药
+摧 毁 掉 阻 挡 道 路 的 路 障
 
-Return to Rover
-You destroyed the barricade blocking the road in the Arkovian Foothills. Bernard from the nearby Rover camp will be happy to hear the news. Report back to him.
-Return to Bernard at the Rover Camp in the Arkovian Foothills
+返 回 流 浪 者 营 地
+你 摧 毁 掉 了 路 障 。 伯 纳 德 会 很 高 兴 听 到 这 个 消 息 的 ， 回 去 告 诉 他 这 个 喜 讯 。
+回 到 安 克 维 亚 山 麓 流 浪 者 营 地 的 伯 纳 德 身 边
+
+
+
 
 
 

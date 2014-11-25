@@ -8,6 +8,8 @@ Confront Direni at Devil's Crossing
 
 
 
+
+
 Kill Direni
 Upon seeing the evidence, Direni has become violent and threatens the safety of the denizens of Devil's Crossing. {^n}{^n}You must eliminate him before anyone gets hurt.
 
@@ -19,6 +21,9 @@ Kill Direni
 Bring Note to Bourbon
 Direni is dead and John Bourbon of Devil's Crossing will surely want to hear an explanation. {^n}{^n}Bring the cultist note to him.
 Speak to John Bourbon
+
+
+
 
 
 

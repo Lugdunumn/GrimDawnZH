@@ -1,67 +1,67 @@
-Duncan
-Greetings, traveler.
-Farewell.
-I don't blame you for your decision. Angrim is a fine blacksmith, the finest around to be sure. I'll do what I can for these people with what I got.
-Farewell.
-You're back! Do you have the Malleum Menhir?
-I'm sorry, but the hammer stays with Angrim.
-Ah, I...see...I guess this is good bye then. If you'll excuse me, I have to tend to the forge.
-Farewell.
-I'm almost finished here. I'll see you in Devil's Crossing.
-See you there.
-You're back! Do you have the Malleum Menhir?
-I persuaded Angrim to part with it. Here you go.
-I'm impressed. Angrim is a tough man to convince of anything, but I'm glad it did not have to come to blows. Thank you, I will do much good with this.
-So will you join me in Devil's Crossing?
-Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
-See you there.
-I had the hammer, but I misplaced it.
-What?! Go back out there and find it. That hammer is invaluable!
-I'm on it.
-You're back! Do you have the Malleum Menhir?
-I was forced to kill Angrim for it, but here it is.
-I wish it hadn't come to this. That is a terrible price to pay for this sacred relic. But the good of us all outweighs the life of one.{^n}{^n}I will have to toil away that much harder to make sure that Angrim's life was not taken in vain.
-So will you join me in Devil's Crossing?
-Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
-See you there.
-I had the hammer, but I misplaced it.
-What?! Go back out there and find it. That hammer is invaluable!
-I'm on it.
-So? Did you speak to Angrim?
-Where is he again?
-My master left the camp earlier today, heading northeast. He can't be far.
+邓 肯
+你 好 ， 旅 行 者 。
+再 见 。
+我 不 怪 你 做 出 的 选 择 。 安 格 瑞 姆 是 位 出 色 的 铁 匠 ， 他 绝 对 是 这 附 近 最 优 秀 的 。 我 会 用 我 的 所 学 继 续 为 这 里 的 人 们 服 务 的 。
+再 见 。
+你 回 来 了 ！ 你 拿 到 曼 海 尔 的 锤 骨 了 吗 ？
+我 很 抱 歉 ， 安 格 瑞 姆 拿 走 了 它 。
+哎 ， 我 … … 明 白 了 ， 我 猜 是 该 说 再 见 的 时 候 了 。 如 果 你 不 介 意 的 话 ， 我 要 回 煅 炉 那 里 了 。
+再 见 。
+这 里 没 有 我 什 么 事 儿 了 。 我 们 到 恶 魔 十 字 再 会 。
+恶 魔 十 字 见 。
+你 回 来 了 ！ 你 拿 到 曼 海 尔 的 锤 骨 了 吗 ？
+我 说 服 安 格 瑞 姆 让 他 留 下 了 曼 海 尔 的 锤 骨 ， 给 你 。
+你 的 表 现 令 人 感 到 印 象 深 刻 ， 安 格 瑞 姆 是 个 固 执 的 家 伙 ， 非 常 难 以 被 人 说 服 。 我 很 高 兴 不 需 要 动 刀 子 问 题 就 解 决 了 ， 谢 谢 你 ， 这 东 西 对 我 来 说 实 在 是 非 常 有 用 。
+你 会 去 恶 魔 十 字 加 入 我 的 队 伍 么 ？
+是 的 ， 当 然 了 。 不 过 首 先 我 必 须 把 这 里 的 工 作 完 成 ， 既 然 我 得 到 了 我 师 父 的 锻 锤 ， 我 就 能 给 这 里 的 人 们 提 供 质 量 上 乘 的 装 备 。 {^n}{^n}完 成 工 作 之 后 我 会 去 恶 魔 十 字 找 你 的 ， 我 保 证 。
+恶 魔 十 字 见 。
+我 拿 到 了 骨 锤 ， 但 是 我 落 在 什 么 地 方 了 。
+什 么 ？ ！ 回 去 找 找 啊 ， 那 个 锻 锤 可 是 无 价 之 宝 啊 ！
+我 这 就 去 。
+你 回 来 了 ！ 你 拿 到 曼 海 尔 的 锤 骨 了 吗 ？
+为 了 得 到 它 ， 我 不 得 不 杀 了 安 格 瑞 姆 ， 给 你 。
+我 实 在 不 愿 意 看 到 这 种 事 情 发 生 ， 为 了 得 到 这 件 神 圣 的 遗 物 付 出 的 代 价 太 过 高 昂 了 。 但 是 一 人 的 性 命 总 比 不 上 万 人 的 福 祉 。 {^n}{^n}我 必 须 辛 勤 地 工 作 才 能 不 让 安 格 瑞 姆 的 性 命 白 白 牺 牲 。
+你 会 去 恶 魔 十 字 加 入 我 的 队 伍 么 ？
+是 的 ， 当 然 了 。 不 过 首 先 我 必 须 把 这 里 的 工 作 完 成 ， 既 然 我 得 到 了 我 师 父 的 锻 锤 ， 我 就 能 给 这 里 的 人 们 提 供 质 量 上 乘 的 装 备 。 {^n}{^n}完 成 工 作 之 后 我 会 去 恶 魔 十 字 找 你 的 ， 我 保 证 。
+恶 魔 十 字 见 。
+我 拿 到 了 骨 锤 ， 但 是 我 落 在 什 么 地 方 了 。
+什 么 ？ ！ 回 去 找 找 啊 ， 那 个 锻 锤 可 是 无 价 之 宝 啊 ！
+我 这 就 去 。
+你 和 安 格 瑞 姆 谈 过 了 吗 ？
+他 身 处 何 方 ？
+我 的 师 父 今 天 很 早 就 离 开 的 营 地 ， 向 东 北 方 走 了 。 他 不 会 离 这 里 太 远 的 。
 
 
-I will find him.
-What is the Malleum Menhir?
-It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
-Where is Angrim again?
+我 会 找 到 他 的 。
+曼 海 尔 的 骨 锤 是 什 么 ？
+它 是 一 把 在 铁 匠 手 中 代 代 相 传 上 古 锻 锤 。 现 在 它 传 到 了 我 的 师 父 手 里 ， 不 过 我 认 为 是 时 候 把 他 传 给 年 轻 的 下 一 代 了 。
+他 身 处 何 方 ？
 
-I see.
-Why do you feel the hammer should go to you?
-My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
-Where is Angrim again?
+我 明 白 了 。
+为 什 么 你 认 为 锻 锤 该 归 你 呢 ？
+别 误 会 ， 我 的 师 父 是 位 技 艺 精 湛 的 铁 匠 。 他 制 作 的 武 器 绝 对 品 质 上 乘 ， 但 他 不 愿 意 试 验 附 魔 锻 造 的 技 术 。 在 这 一 方 面 ， 我 超 越 了 我 的 师 父 ， 他 也 很 清 楚 这 一 点 。 {^n}{^n}更 重 要 的 是 ， 我 希 望 帮 助 所 有 的 人 摆 脱 困 境 而 我 的 师 父 却 只 在 乎 对 抗 虚 灵 的 士 兵 。 尽 管 战 胜 虚 灵 是 崇 高 的 目 标 ， 但 是 只 有 士 兵 活 下 来 的 话 ， 人 类 是 无 法 再 度 兴 盛 的 。
+他 身 处 何 方 ？
 
-I understand.
-I'm still searching.
-Hello, traveler. If you find yourself going about these parts, I was wondering if you'd help us locate someone. I'm a bit tied up with the forge here.
-Someone disappeared?
-My master, Angrim, left our camp earlier today. He's intent on finding a group of survivors that he considers "worthy" of our smithing talents. We don't exactly see eye to eye on the matter of who we should be helping.{^n}{^n}Angrim wants to field an army and take the fight to the Aetherials. I'd rather save as many as I can, whether they can fight or not. I want to help these people, but without my master's forging hammer, the sacred Malleum Menhir, I won't be able to make anything worth a damn.
-A blacksmith? We could use you in Devil's Crossing.
-If you get Malleum Menhir back, I will gladly join you in Devil's Crossing, after I use it to help out around here.{^n}{^n}Please seek out my master and get Malleum Menhir back. I saw him heading out to the northeast. He couldn't have gotten far.
-I will find Angrim.
-I'm sorry, I cannot help you.
-Why do you feel the hammer should go to you?
-My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
-
-
-I understand.
-What is the Malleum Menhir?
-It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
+我 懂 了 。
+我 还 在 寻 找 他 。
+你 好 ， 旅 行 者 。 如 果 你 要 涉 足 这 附 近 的 区 域 的 话 ， 我 想 请 你 帮 忙 找 个 人 。 我 在 煅 炉 这 里 实 在 是 忙 的 脱 不 开 身 。
+有 人 不 见 了 吗 ？
+我 的 师 父 ， 安 格 瑞 姆 今 天 一 早 就 离 开 了 我 们 的 营 地 。 他 要 寻 找 一 个 他 认 为 “ 值 得 ” 我 们 发 挥 铁 匠 技 艺 的 幸 存 者 团 体 。 谁 真 正 需 要 帮 助 ， 在 这 一 点 上 我 们 的 看 法 并 不 一 致 。 {^n}{^n}安 格 瑞 姆 想 要 组 织 军 队 对 抗 虚 灵 的 入 侵 。 我 则 宁 愿 尽 可 能 多 的 救 人 ， 不 管 他 们 是 否 能 与 敌 人 作 战 。 我 想 帮 助 这 些 人 ， 但 是 没 有 我 师 父 手 里 那 把 神 圣 的 锻 锤 ： 曼 海 尔 的 锤 骨 ， 我 实 在 是 做 不 出 来 什 么 有 用 的 东 西 。
+你 是 一 位 铁 匠 ？ 恶 魔 十 字 需 要 你 这 种 人 。
+如 果 你 能 找 回 曼 海 尔 的 骨 锤 的 话 ， 我 很 乐 意 加 入 你 们 。 {^n}{^n}请 你 找 到 我 的 师 父 然 后 把 曼 海 尔 的 骨 锤 要 回 来 ， 我 看 到 他 往 东 北 方 向 走 了 ， 他 应 该 还 没 有 走 远 。
+我 会 找 安 格 瑞 姆 的 。
+抱 歉 ， 我 帮 不 了 你 。
+为 什 么 你 认 为 锻 锤 该 归 你 呢 ？
+别 误 会 ， 我 的 师 父 是 位 技 艺 精 湛 的 铁 匠 。 他 制 作 的 武 器 绝 对 品 质 上 乘 ， 但 他 不 愿 意 试 验 附 魔 锻 造 的 技 术 。 在 这 一 方 面 ， 我 超 越 了 我 的 师 父 ， 他 也 很 清 楚 这 一 点 。 {^n}{^n}更 重 要 的 是 ， 我 希 望 帮 助 所 有 的 人 摆 脱 困 境 而 我 的 师 父 却 只 在 乎 对 抗 虚 灵 的 士 兵 。 尽 管 战 胜 虚 灵 是 崇 高 的 目 标 ， 但 是 只 有 士 兵 活 下 来 的 话 ， 人 类 是 无 法 再 度 兴 盛 的 。
 
 
-I see.
-What are you doing out here?
-Arming these people against the dangers of Cairn. Doing the best I can with what I've got.
-What did you need help with?
-Goodbye.
+我 懂 了 。
+曼 海 尔 的 骨 锤 是 什 么 ？
+它 是 一 把 在 铁 匠 手 中 代 代 相 传 上 古 锻 锤 。 现 在 它 传 到 了 我 的 师 父 手 里 ， 不 过 我 认 为 是 时 候 把 他 传 给 年 轻 的 下 一 代 了 。
+
+
+我 明 白 了 。
+你 在 这 里 做 什 么 ？
+武 装 这 里 的 人 们 来 对 抗 凯 恩 世 界 的 种 种 危 险 ， 竭 尽 我 的 所 能 打 造 各 种 装 备 。
+你 要 我 帮 你 做 什 么 ？
+再 见 。

@@ -1,19 +1,19 @@
 #Region Names
 
-tagMapDevilsCrossing01=魔鬼路口
+tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口
 tagMapBurialHill=殓葬山脉
-tagMapOldDump=古旧垃圾场
+tagMapOldDump=旧垃圾场
 tagMapFoggyBank=迷雾河畔
 tagMapBurrwitchRoad01=迷雾河畔
 tagMapWightmire01=尸妖泥沼
 tagMapSoddenHollow=湿润山谷
-tagMapFloodedPassage01=洪水通道
+tagMapFloodedPassage01=浸没通道
 tagMapBurrwitchOutskirts01=伯尔维治郊外
 tagMapMolderingFields=腐坏田地
 tagMapMudRow=泥泞街道
 tagMapBurrwitchVillage01=伯尔维治村
-tagMapWardensCellar01=典狱长的地窖
+tagMapWardensCellar01=典狱长的地下室
 tagMapWardensLabratory01=地下通道
 tagMapWardensLabratory02=隐秘实验室
 tagMapLaboratoryStorerooms=废弃库房
@@ -52,7 +52,7 @@ tagMapJaggedWaste=锯齿荒地
 tagMapDeadmansGulch=亡者峡谷
 tagMapHighPass=高地山口
 tagMapAlpineRoad=高山道路
-tagMapMountainDeeps=Mountain Deeps
+tagMapMountainDeeps=山脉深渊
 
 tagMapLedgewood01=利奇伍德
 tagMapWitheringFields01=干枯田地
@@ -62,7 +62,7 @@ tagMapHomestead01=霍姆斯特德
 
 tagUGLowerCrossingRatDen01=腐败兽穴
 tagUGBurrwitchVillageRatDen01=溃烂巢穴
-tagUGCellar01=被遗忘的地窖
+tagUGCellar01=被遗忘的地下室
 tagUGCellar02=堕落圣殿
 tagBurrwitchCellar01=感染地窖
 tagBurrwitchCellar02=阴湿地窖
@@ -98,14 +98,14 @@ tagUGBrokenHills05=尖啸山谷
 
 #Riftgate Names
 
-tagRiftDevilsCrossing=魔鬼路口传送门
+tagRiftDevilsCrossing=恶魔十字传送门
 tagRiftLowerCrossing=下游渡口传送门
 tagRiftBurrwitchRoad=迷雾河畔传送门
 tagRiftWightmire=尸妖泥沼传送门
-tagRiftFloodedPassage=洪水通道传送门
+tagRiftFloodedPassage=浸没通道传送门
 tagRiftBurrwitchOutskirts=伯尔维治郊外传送门
 tagRiftBurrwitchVillage=伯尔维治村传送门
-tagRiftWardensCellar=典狱长的地窖传送门
+tagRiftWardensCellar=典狱长的地下室传送门
 tagRiftWardensLabratory01=地下通道传送门
 tagRiftWardensLabratory02=典狱长的实验室传送门
 
@@ -138,10 +138,10 @@ tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
 tagWorldMapTheFoggyBank=迷雾河畔
 tagWorldMapSoddenHollow={^w}湿润山谷
 tagWorldMapWightmire=尸妖泥沼
-tagWorldMapTheOldDump={^w}古旧{^n}{^w}垃圾场
+tagWorldMapTheOldDump={^w}旧{^n}{^w}垃圾场
 tagWorldMapBurialHill={^w}殓葬山
 tagWorldMapLowerCrossing=下游渡口
-tagWorldMapDevilsCrossing=魔鬼路口
+tagWorldMapDevilsCrossing=恶魔十字
 tagWorldMapKymonsRetreat={^w}凯蒙的{^n}{^w}隐居处
 tagWorldMapArkovianFoothills=安克维亚{^n}山麓
 tagWorldMapCrumblingWatch={^w}瞭望塔遗迹
@@ -154,12 +154,12 @@ tagWorldMapTheStepsOfTorment={^w}苦痛阶梯
 tagWorldMapBrokenHills=破碎丘陵
 tagWorldMapTwinFalls={^w}双子瀑布
 tagWorldMapBarrenHighlands={^w}贫瘠高地
-tagWorldMapSmugglersPass={^w}走私者的通道
+tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
 
 #Signs
 
 tagSign_BurialHill=殓葬山
-tagSign_DevilsCrossing=魔鬼路口
+tagSign_DevilsCrossing=恶魔十字
 tagSign_Wightmire=尸妖泥沼
 tagSign_Burrwitch=伯尔维治村
 tagSign_Malmouth=马尔茅斯
@@ -193,13 +193,13 @@ tagPOI006B=古代遗迹出口
 tagPOI007A=矿洞入口
 tagPOI007B=矿洞出口
 
-tagPOIFloodedPassageA=洪水通道入口
-tagPOIFloodedPassageB=洪水通道出口
+tagPOIFloodedPassageA=浸没通道入口
+tagPOIFloodedPassageB=浸没通道出口
 tagPOICaveBurialHillA=殓葬山入口
 tagPOICaveBurialHillB=殓葬山出口
 tagPOIPrisonCellarA=监牢入口
-tagPOIWardensCellarA=典狱长的地窖入口
-tagPOIWardensCellarB=典狱长的地窖出口
+tagPOIWardensCellarA=典狱长的地下室入口
+tagPOIWardensCellarB=典狱长的地下室出口
 tagPOIUndergroundTransitA=地下通道入口
 tagPOIUndergroundTransitB=地下通道出口
 tagPOIArkovianFoothillsMineA=斯汤顿矿洞入口
@@ -233,7 +233,7 @@ tagPOIStepsOfTorment5B=苦痛阶梯(第五层)出口
 tagPOIQuest_Burrwitch=清理伯尔维治传送门
 tagPOIQuest_WardenLab=找到典狱长的实验室
 tagPOIQuest_ArkovianFoothills=进入安克维亚山麓
-tagPOIQuest_Elsa=找到艾尔莎
+tagPOIQuest_Elsa=寻找艾尔莎
 tagPOIQuestHomestead=霍姆斯特德
 tagPOIQuestHomesteadBridge=双子瀑布桥
 tagPOIQuestHomesteadTown=霍姆斯特德镇
@@ -243,29 +243,30 @@ tagPOIQuest_StrangeKey=堕落圣殿
 
 #Notifications
 
-tagNotification_WightmireBurialCaveFound=离死尸之源已经不远了……
-tagNotification_WightmireReanimatorFound=一只生物正在复生尸体！
-tagNotification_WightmireCaravanFound=这场屠杀刚发生过不久……
-tagNotification_WightmireCaravanDriverFound=一位俘虏在呼救！
-tagNotification_InventoryBagAcquired=得到储物袋！
-tagNotification_BurrwitchRiftgateEvent=裂缝传送门正在产生敌人！
-tagNotification_BurrwitchRiftgateSecured=伯尔维治的传送门已经被清理干净了！
-tagNotification_WardenCellarFound=这一定就是典狱长的地窖了……
-tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
-tagNotification_LostApprenticeCellar=有人最近来过这儿……
-tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
+tagNotification_WightmireBurialCaveFound=距 离 死 尸 的 源 头 已 经 不 远 了 ……
+tagNotification_WightmireReanimatorFound=一 只 生 物 正 在 复 生 尸 体 ！
+tagNotification_WightmireCaravanFound=这 场 屠 杀 刚 发 生 过 不 久 ……
+tagNotification_WightmireCaravanDriverFound=一 位 俘 虏 正 在 呼 救 ！
+tagNotification_InventoryBagAcquired=得 到 储 物 袋 ！
+tagNotification_BurrwitchRiftgateEvent=裂 缝 传 送 门 正 在 产 生 敌 人 ！
+tagNotification_BurrwitchRiftgateSecured=伯 尔 维 治 的 传 送 门 已 经 被 清 理 干 净 了 ！
+tagNotification_WardenCellarFound=这 一 定 就 是 典 狱 长 的 地 下 室 了 ……
+tagNotification_WardenLabFound=一 个 实 验 室 ， 典 狱 长 一 定 就 在 附 近 ……
+tagNotification_LostApprenticeCellar=有 人 最 近 来 过 这 儿 ……
+tagNotification_LostApprenticeFound=卡 斯 帕 罗 夫 的 学 徒 在 这 儿 ！
 
-tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
-tagNotification_HS_SpoilsOfTheGrimDawn=你搜寻到了古老的遗迹。
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=The old coastal bridge is destroyed. You will need to find a way through Smuggler's Pass
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=You have gone through Smuggler's Pass. Seek a way into Homestead.
-tagNotification_HS_WeNeedFood_HomesteadRefugees=You discovered a group of refugees beyond Smuggler's Pass.
-tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
-tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
+tagNotification_HS_RemoveTheHead_ElsaFound=看 起 来 克 隆 利 没 有 抓 艾 尔 莎 ……
+tagNotification_HS_SpoilsOfTheGrimDawn=你 找 到 了 古 老 的 遗 迹 。
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海 边 的 旧 桥 被 毁 掉 了 ， 你 需 要 在 走 私 者 的 通 道 内 找 出 一 条 路 来 。
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你 已 经 穿 越 了 走 私 者 的 通 道 ， 寻 找 通 往 霍 姆 斯 特 德 的 道 路 吧 。
+tagNotification_HS_WeNeedFood_HomesteadRefugees=在 走 私 者 的 通 道 的 另 一 边 ， 你 发 现 了 一 群 难 民 。
+tagNotification_HS_OldArkoviaPassagesCompleted=你 已 经 找 齐 了 讲 述 安 克 维 亚 文 章 的 所 有 章 节 并 考 察 了 其 中 的 内 容 。
+tagNotification_HS_OldArkoviaPassagesBossKilled=你 得 到 了 一 片 被 污 染 者 的 灵 魂 碎 片 ！
 
-tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
-tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门的连接……
-tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
+tagNotification_WarningToughArea=有 个 远 比 你 强 大 的 怪 物 栖 息 在 这 里 ……
+tagNotification_WarningRiftgateDisabled=在 这 里 你 失 去 了 与 裂 缝 传 送 门 之 间 的 连 接 ……
+tagNotification_WarningGatesOfAnguish=痛 苦 之 门 已 经 打 开 了。 动 作 要 快 ， 这 扇 门 不 会 开 着 很 久 的 ……
+tagNotification_WarningGatesOfAnguishLocked=痛 苦 之 门 已 被 封 印 ， 这 场 游 戏 它 不 会 再 打 开 了 。
 
 #NPC Names
 
@@ -280,12 +281,12 @@ tagNPC_Ulgrim=厄尔格姆
 tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特
 
-tagNPC_GuardA04=守卫-麦考尔 
-tagNPC_Guard_DCRanged01=守卫-梅纳德
-tagNPC_Guard_DCRanged02=守卫-拉斯
-tagNPC_Guard_DCMelee01=守卫-布瑞格斯
-tagNPC_Guard_DCMelee02=守卫-奥克斯利
-tagNPC_BountyBoard=魔鬼路口悬赏
+tagNPC_GuardA04=守卫 - 麦考尔 
+tagNPC_Guard_DCRanged01=守卫 - 梅纳德
+tagNPC_Guard_DCRanged02=守卫 - 拉斯
+tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
+tagNPC_Guard_DCMelee02=守卫 - 奥克斯利
+tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
 tagNPC_Guard_Female02=突击手
@@ -295,13 +296,13 @@ tagNPC_DevilsCrossing_02=俘虏罗弗
 tagNPC_DevilsCrossing_03=艾萨克
 tagNPC_DevilsCrossing_04=托尔文
 tagNPC_DevilsCrossing_05=库尔多
-tagNPC_DevilsCrossing_06=Edwin
+tagNPC_DevilsCrossing_06=爱德温
 
 tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
 tagNPC_Homestead_03=
 tagNPC_Homestead_04=德鲁·拉金
-tagNPC_Homestead_05=“长腿”埃德蒙·道尔
+tagNPC_Homestead_05=“长腿” 埃德蒙·道尔
 tagNPC_Homestead_06=伊丽莎白·斯金纳
 tagNPC_Homestead_07=以赛亚·瑞丹
 tagNPC_Homestead_08=约瑟芬·瑞丹
@@ -328,23 +329,23 @@ tagNPC_Homestead_28=海勒姆
 tagNPC_Homestead_29=卡尔德罗斯
 tagNPC_Homestead_30=巴尔沃拉克
 
-tagNPC_AreaC_01=Anasteria
+tagNPC_AreaC_01=Scoutmaster Lysell
 tagNPC_AreaC_02=道格拉斯·沙利文·古冢
 tagNPC_AreaC_03=迈尔斯·法恩根
-tagNPC_AreaC_04=Inquisitor Creed
-tagNPC_AreaC_05=Kadris
+tagNPC_AreaC_04=审判官克里德
+tagNPC_AreaC_05=Deathmark Kadris
 tagNPC_AreaC_06=Alleria
 tagNPC_AreaC_07=Kalista
-tagNPC_AreaC_08=Nathaniel
-tagNPC_AreaC_09=Lisandra
+tagNPC_AreaC_08=Nathaniel Thorn
+tagNPC_AreaC_09=Lisandra Avery
 tagNPC_AreaC_10=Brother Elluvius
 tagNPC_AreaC_11=Father Kymon
 tagNPC_AreaC_12=Master Varukk
 tagNPC_AreaC_13=The Keeper of Tomes
 tagNPC_AreaC_14=Rallia
-tagNPC_AreaC_15=
-tagNPC_AreaC_16=
-tagNPC_AreaC_17=
+tagNPC_AreaC_15=Captain Somer
+tagNPC_AreaC_16=Collin Taverin
+tagNPC_AreaC_17=Deathmark Vallar
 tagNPC_AreaC_18=
 tagNPC_AreaC_19=
 tagNPC_AreaC_20=
@@ -353,6 +354,11 @@ tagNPC_AreaC_22=
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
+
+tagNPC_AreaD_01=Spellbreaker Moira
+tagNPC_AreaD_02=Captain Reave
+tagNPC_AreaD_03=Quartermaster Edric
+tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=爆破点
 
@@ -399,7 +405,7 @@ tagNPC_Flavor_Homestead_12=贺拉斯
 tagNPC_Flavor_Necropolis_01=迪恩·古冢
 tagNPC_Flavor_Necropolis_02=丹尼·古冢
 tagNPC_Flavor_Necropolis_03=玛利亚·古冢
-tagNPC_Flavor_AreaC_04=Collin Taverin
+tagNPC_Flavor_AreaC_04=Deathmark Harriv
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -411,13 +417,21 @@ tagNPC_Flavor_AreaC_12=Elaine Cobble
 tagNPC_Flavor_AreaC_13=Julia Applesworth
 tagNPC_Flavor_AreaC_14=Shane Cobble
 tagNPC_Flavor_AreaC_15=Davis Morden
-tagNPC_Flavor_AreaC_16=Laaruka
+tagNPC_Flavor_AreaC_16=Laruka
 tagNPC_Flavor_AreaC_17=Caaraka
-tagNPC_Flavor_AreaC_18=Galarokk
+tagNPC_Flavor_AreaC_18=Galarok
 tagNPC_Flavor_AreaC_19=Ralukk
 tagNPC_Flavor_AreaC_20=Sister Thaddia
 tagNPC_Flavor_AreaC_21=Brother Lector
 tagNPC_Flavor_AreaC_22=Brother Ulnox
+tagNPC_Flavor_AreaC_23=Neddie
+tagNPC_Flavor_AreaC_24=Phil
+tagNPC_Flavor_AreaC_25=Oliver Thornsbury
+tagNPC_Flavor_AreaC_26=Henry Elmsworth
+tagNPC_Flavor_AreaC_27=Homestead Farmer
+tagNPC_Flavor_AreaC_28=
+tagNPC_Flavor_AreaC_29=Tracy Thornsbury
+tagNPC_Flavor_AreaC_30=Alex Elmsworth
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -428,44 +442,62 @@ tagNPC_Flavor_AreaD_06=
 
 #Quest Items
 
-tagQuestItemHartsAmulet_Name=哈特的项链
-tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 兄 弟 ： 希 望 这 项 链 能 在 战 场 上 保 佑 你 。-西 比 尔”
+tagQuestItemHartsAmulet_Name=哈 特 的 项 链
+tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 哥 哥 ： 希 望 这 枚 项 链 能 在 战 场 上 保 佑 你 。- 西 比 尔”
 
-tagQuestItemCultistKey_Name=奇特的钥匙
+tagQuestItemCultistKey_Name=奇 特 的 钥 匙
 tagQuestItemCultistKey_Text=“这 把 钥 匙 标 注 着 冥 神 麾 下 邪 教 徒 所 使 用 的 诸 多 奇 异 符 文 和 堕 落 符 号 。”
-tagQuestItemDirections_Name=狄瑞尼的指引
+tagQuestItemDirections_Name=狄 瑞 尼 的 指 引
 tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
 
-tagQuestChestLostJournal=积灰的诵经台
-tagQuestItemLostJournal_Name=邪教徒的命令
+tagQuestChestLostJournal=积 灰 的 诵 经 台
+tagQuestItemLostJournal_Name=邪 教 徒 的 命 令
 tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
 
-tagQuestItemDynamite=炸药
-tagQuestItemDynamiteDesc="A crude explosive once fielded by demolitionists to counter the devastating powers of magic users."
-tagQuestItemSupplies=补给箱
+tagQuestItemDynamite=炸 药
+tagQuestItemDynamiteDesc=“猛 烈 的 爆 炸 物 ， 爆 破 者 们 曾 使 用 它 来 对 抗 法 师 们 毁 灭 性 的 力 量 。”
+tagQuestItemSupplies=补 给 箱
 tagQuestItemSuppliesDesc=“装 满 了 有 价 值 的 材 料 和 不 易 腐 坏 食 物 的 板 条 箱 。”
-tagQuestItemSlithNecklace=蛇人项链
-tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 所 戴 的 项 链 ， 只 有 它 们 才 明 白 有 什 么 用 。”
+tagQuestItemSlithNecklace=蛇 人 项 链
+tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 佩 戴 的 项 链 ， 只 有 它 们 才 懂 得 此 物 的 用 途 。”
 tagQuestItemFabric=织物
 tagQuestItemFabricDesc=“有 点 旧 有 点 脏 ， 但 是 其 他 方 面 都 挺 好 。”
 
-tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
+tagQuestItemSaltMineKey_Name=通往被遗忘的深渊的钥匙
 tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
 
-tagQuestItemForgottenPassage=Forgotten Passage
+tagQuestItemForgottenPassage=被遗忘的通道
 tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
 
-tagQuestItemSmithHammer=Malleum Menhir
-tagQuestItemSmithHammer_Desc="An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+tagQuestItemSmithHammer=曼海尔的锤骨
+tagQuestItemSmithHammer_Desc=“工 匠 们 手 中 代 代 相 传 的 一 把 远 古 锻 锤 。 它 见 证 了 无 数 神 器 的 诞 生 ， 也 将 继 续 打 造 出 无 数 的 神 兵 利 器 。”
 
-#Journals
+tagQuestItemDermapteranPheromones_01=Lozakal's Pheromone Gland
+tagQuestItemDermapteranPheromones_01Desc="The stench emanating from this gland is nauseating."
 
-tagLoreObj_InquisitorCreedA01Name=Journal of Inquisitor Creed - 1st Entry
-tagLoreObj_InquisitorCreedA01codexTitle=Inquisitor Creed - 1st Entry
+tagQuestItemDermapteranPheromones_02=Inixil's Pheromone Gland
+tagQuestItemDermapteranPheromones_02Desc="The stench emanating from this gland is nauseating."
+
+tagQuestItemManticorePoisonGland=Manticore Poison Gland
+tagQuestItemManticorePoisonGland_Desc="Dripping with a powerful toxin that burns the skin on contact."
+
+tagQuestItemNecromancerRemains=Remains of Malkadarr
+tagQuestItemNecromancerRemains_Desc="The still rotting remains of a once powerful necromancer."
+
+tagQuestItemExileBossDrop_01=Archive of Fates Untold
+tagQuestItemExileBossDrop_01Desc="This tome appears sealed by arcane forces. The cover refuses to budge."
+
+tagQuestItemExileBossDrop_02=Head of Archivist Thelon
+tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at you."
+
+#Journals 日志
+
+tagLoreObj_InquisitorCreedA01Name=审 判 官 克 里 德 的 日 志 - 第 一 部 分
+tagLoreObj_InquisitorCreedA01codexTitle=审 判 官 克 里 德 - 第 一 部 分
 tagLoreObj_InquisitorCreedA01Text=I am currently en route to the village of Burrwitch in order to investigate a number of strange incidents that have been reported in this area. As dusk is drawing near and the swamps of this region are said to be hazardous to travel at night, I've reluctantly taken up lodging at a small squalid tavern in Lower Crossing.{^n}{^n}Perhaps I am weary from my hurried travels but I feel as if there is a strange pressure and electricity to the air. It is almost akin to the still before a thunderous summer gale but yet the sun shines and not a cloud is to be seen.  Everything seems as it should, but in my gut I feel that something terrible will soon come to pass...
 
-tagLoreObj_InquisitorCreedA02Name=Journal of Inquisitor Creed - 2nd Entry
-tagLoreObj_InquisitorCreedA02codexTitle=Inquisitor Creed - 2nd Entry
+tagLoreObj_InquisitorCreedA02Name=审 判 官 克 里 德 的 日 志 - 第 二 部 分
+tagLoreObj_InquisitorCreedA02codexTitle=审 判 官 克 里 德 - 第 二 部 分
 tagLoreObj_InquisitorCreedA02Text=As I was packing to resume my journey to Burrwitch, my assistance was urgently requested at a logging camp in the Old Grove west of Devil's Crossing, where strange animal attacks have left three lumbermen listless and pale.{^n}{^n}Upon arriving, I received a somber greeting from the foreman who informed me that the bitten workers had gone mad and fled the premises. They were reported to have spoken in an unknown tongue.  The foreman showed me the remains of the animals. Two gray foxes and a hound, suffering some sort of horrific mange, lay in a hastily dug pit behind the outhouse. The foreman told me the animals suddenly died when confronted by the workers and a strange green vapor emanated from their remains. Shortly afterward, the three lumbermen fell ill and their mental state rapidly deteriorated. It appears that my presence in this region is most warranted.
 
 tagLoreObj_InquisitorCreedA03Name=Journal of Inquisitor Creed - 3rd Entry
@@ -603,18 +635,18 @@ tagLoreObj_OldArkovia_BookA01Name=Forbidden Art - Part 1
 tagLoreObj_OldArkovia_BookA01Text=They whisper about us when they think we're not listening. They fear what we can do, and yet they crave it. It is only in man's nature to fear what he does not understand and our art is no different. Necromancy was never held in high regard in Arkovian society, but it is only in recent years that we have been treated with such growing animosity.{^n}{^n}Now with the recent formal decree from the high court we are not just outcasts, we are criminals. What they fail to understand is that the only crime committed that day was against the pursuit of knowledge and the advancement of our people. Already they are rounding up my brethren under the guise of justice and taking them deep into their den of torture they call the Steps of Torment. I suppose it is only a matter of time before they coming knocking on my door.
 
 tagLoreObj_OldArkovia_BookA02Name=Forbidden Art - Part 2
-tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n} Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
+tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n}Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
 
 tagLoreObj_OldArkovia_BookA03Name=Forbidden Art - Part 3
 tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
 
 
-#Guards
+#Guards 守卫
 
-tagNPC_GateGuardA01=守门人-鲁克 
+tagNPC_GateGuardA01=守门人 - 鲁克 
 
 
-#Merchants and Other Services
+#Merchants and Other Services 商人等npc
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -641,7 +673,7 @@ tagNPC_SmugglerA01=卡莱尔
 tagStoreTitle_SmugglerA01=走私者
 
 tagNPC_ReallocatorA01=马隆
-tagStoreTitle_ReallocatorA01=灵魂向导
+tagStoreTitle_ReallocatorA01=灵魂导师
 
 tagNPC_InventorA01=达莱特
 tagStoreTitle_InventorA01=发明家

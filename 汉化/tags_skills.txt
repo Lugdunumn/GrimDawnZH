@@ -1,6 +1,6 @@
 tagSkillClassName01=战士
 tagSkillClassName02=爆破者
-tagSkillClassName03=术士
+tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
 tagSkillClassName05=奥术师
 tagSkillClassName06=?
@@ -8,28 +8,28 @@ tagSkillClassName07=?
 tagSkillClassName08=?
 tagSkillClassName09=?
 
-tagSkillClassName0102=突击司令
+tagSkillClassName0102=突击者
 tagSkillClassName0103=巫师之刃
-tagSkillClassName0104=剑术大师
-tagSkillClassName0105=战斗法师
+tagSkillClassName0104=剑圣
+tagSkillClassName0105=战法师
 tagSkillClassName0106=
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
 tagSkillClassName0203=烈焰术士
-tagSkillClassName0204=破坏之王
-tagSkillClassName0205=夺命煞星
+tagSkillClassName0204=破坏者
+tagSkillClassName0205=魔法师
 tagSkillClassName0206=
 tagSkillClassName0207=
 tagSkillClassName0208=
 tagSkillClassName0209=
 tagSkillClassName0304=魔法猎人
-tagSkillClassName0305=奥法术士
+tagSkillClassName0305=术士
 tagSkillClassName0306=
 tagSkillClassName0307=
 tagSkillClassName0308=
 tagSkillClassName0309=
-tagSkillClassName0405=暗夜行者
+tagSkillClassName0405=破法者
 tagSkillClassName0406=
 tagSkillClassName0407=
 tagSkillClassName0408=
@@ -47,15 +47,15 @@ tagSkillClassName0809=
 
 tagSkillDevotion=Devotion
 
-tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。 
+tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。
 
-tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。 
+tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
 
-tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 术 士 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 虽 然 不 擅 长 用 剑 和 枪 械 ， 他 们 也 可 以 使 用 任 意 一 种 来 增 强 攻 击 。 
+tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 神 秘 学 者 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 即 使 不 擅 长 用 剑 与 枪 械 ， 他 们 仍 然 可 以 使 用 其 中 任 意 一 种 来 增 强 攻 击 。
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有{^n}兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。 
+tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
 
-tagSkillClassDescription05=对 于 秘 术 师 来 说 ， 魔 法 的 显 现 根 本 就 是 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 秘 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素{^n}的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。 
+tagSkillClassDescription05=对 于 奥 术 师 来 说 ， 魔 法 的 显 现 根 本 就 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 奥 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。
 
 tagSkillClassDescription06=
 
@@ -67,13 +67,16 @@ tagSkillClassDescription09=
 
 #Default 默认
 
-tagSkillDefaultAttackName01=基础武器攻击 
-tagSkillDefaultAttackDescription01=使用现有的武器攻击 
+tagSkillDefaultAttackName01=基 础 武 器 攻 击
+tagSkillDefaultAttackDescription01=使 用 现 有 的 武 器 攻 击 。
 
-tagSkillInnate=天赋
-tagSkillSumLVL=随着技能等级而提升。
+tagSkillDefaultMoveTo=移 动
+tagSkillDefaultMoveToDescription=移 动 至 选 定 的 地 点 。
 
-tagSkillUsableReady=技能准备就绪
+tagSkillInnate=天 赋
+tagSkillSumLVL=随 着 技 能 等 级 而 提 升 。
+
+tagSkillUsableReady=技 能 已 准 备 就 绪
 
 #Class01 职业01
 
@@ -83,7 +86,7 @@ tagClass01SkillDescription00A=只 有 极 度 强 健 的 体 魄 才 能 勇 �
 tagClass01SkillName01A=节奏打击
 tagClass01SkillDescription01A=战 斗 时 ， 自 然 地 跟 随 周 期 性 的 节 奏 感 ， 施 展 抑 扬 顿 挫 的 打 击 ， 每 次 第 三 击 造 成 大 量 伤 害 。 虽 然 可 以 被 预 判 ， 但 却 强 效 有 力 ，难 以 实 施 反 击 。
 tagClass01SkillName01B=格斗姿态
-tagClass01SkillDescription01B=愤 怒 的 节 奏 对 周 围 的 敌 人 产 生 共 振 ， 造 成 严 重 的 出 血 。^o如 使 用 近 战 武 器 ， 共 振 效 果 会 使 节 奏 打 击 击 中 附 近 的 额 外 目 标
+tagClass01SkillDescription01B=愤 怒 的 节 奏 对 周 围 的 敌 人 产 生 共 振 ， 造 成 严 重 的 出 血 。^o如 使 用 近 战 武 器 ， 共 振 效 果 会 使 节 奏 打 击 击 中 附 近 的 额 外 目 标 。
 tagClass01SkillName01C=致死旋律
 tagClass01SkillDescription01C=使 用 巨 大 的 力 量 施 展 节 奏 打 击 ， 有 机 会 获 得 额 外 伤 害 效 果 。
 tagClass01SkillName01D=不谐和弦
@@ -96,7 +99,7 @@ tagClass01SkillDescription02B=力 场 波 粉 碎 敌 人 的 护 甲 ， 使 �
 tagClass01SkillName02C=内部创伤
 tagClass01SkillDescription02C=力 场 波 粉 碎 骨 骼 ， 损 伤 内 脏 ， 造 成 大 量 的 内 外 出 血 。
 tagClass01SkillName02D=震地
-tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 出 具 有 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。 
+tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 出 具 有 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。
 
 tagClass01SkillName03A=闪击
 tagClass01SkillDescription03A=带 着 毁 灭 性 的 动 能 冲 入 敌 群 ，发 动 突 袭 。^o需 要 一 把 近 战 武 器 。
@@ -115,17 +118,17 @@ tagClass01SkillDescription05A=弧 形 挥 动 武 器 能 切 开 周 围 的 �
 tagClass01SkillName05B=撕裂
 tagClass01SkillDescription05B=刀 锋 横 扫 的 高 级 技 巧 ， 攻 击 时 撕 开 敌 人 ， 造 成 流 血 。
 tagClass01SkillName05C=风卷残云
-tagClass01SkillDescription05C=A more powerful form of Blade Arc in which the Soldier builds power between attacks to unleash it in one focused burst of intense damage that can knock foes to the ground.
+tagClass01SkillDescription05C=刀 锋 横 扫 更 为 强 力 的 一 种 形 式 ， 战 士 在 攻 击 中 施 展 猛 击 ， 足 以 将 敌 人 击 倒 在 地 。
 
 tagClass01SkillName06A=马尔可夫优势
-tagClass01SkillDescription06A=著 名 战 术 家 马 尔 可 夫 总 是 谋 划 从 高 处 进 攻 。 这 个 经 典 攻 击 的 灵 感 正 是 来 自 马 尔 可 夫 的 战 术 ， 招 牌 是 强 力 的 向 下 攻 击 ， 摔 绊 敌 人 让 他 们 失 去 平 衡 ， 削 弱 他 们 的 防 御 。 
+tagClass01SkillDescription06A=著 名 战 术 家 马 尔 可 夫 总 是 谋 划 从 高 处 进 攻 。 这 个 经 典 攻 击 的 灵 感 正 是 来 自 马 尔 可 夫 的 战 术 ， 招 牌 是 强 力 的 向 下 攻 击 ， 摔 绊 敌 人 让 他 们 失 去 平 衡 ， 削 弱 他 们 的 防 御 。
 tagClass01SkillName06B=佐尔汉的技艺
 tagClass01SkillDescription06B=以 一 个 著 名 的 格 斗 大 师 命 名 ， 攻 击 时 放 低 重 心 ， 猛 推 敌 人 来 使 他 们 失 去 平 衡^o当 使 用 一 把 近 战 武 器 发 动 时 ， 会 击 中 附 近 多 个 目 标 。
 
 tagClass01SkillName07A=战意
 tagClass01SkillDescription07A=敌 人 攻 击 的 刺 痛 无 法 使 你 屈 服 ， 相 反 激 起 你 的 怒 气 ， 在 攻 击 中 使 出 更 大 的 力 量 。
 tagClass01SkillName08A=曼海尔的意志
-tagClass01SkillDescription08A=当 你 接 近 死 亡 时 ， 曼 海 尔 不 屈 的 意 志 将 灌 注 给 你 新 的 力 量 。^o需 要 盾 牌 或 者 双 手 近 战 武 器
+tagClass01SkillDescription08A=当 你 接 近 死 亡 时 ， 曼 海 尔 不 屈 的 意 志 将 灌 注 给 你 新 的 力 量 。^o需 要 盾 牌 或 者 近 战 双 手 武 器 。
 
 tagClass01SkillName09A=指挥领域
 tagClass01SkillDescription09A=卓 越 的 纪 律 感 和 战 术 知 识 让 你 成 为 战 斗 领 袖 。^o此 技 能 需 开 启 以 保 持 生 效 。
@@ -183,47 +186,48 @@ tagClass02SkillName03A=火焰冲击
 tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 术 ， 引 发 燃 烧 敌 人 周 围 空 气 的 攻 击。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 焰 冲 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
 tagClass02SkillName03B=爆炸冲击
 tagClass02SkillDescription03B=提 高 火 焰 冲 击 的 效 力 ， 有 几 率 提 高 火 焰 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
-tagClass02SkillName03C=静态冲击
+tagClass02SkillName03C=静电冲击
 tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 焰 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
-tagClass02SkillName03D=裂片
-tagClass02SkillDescription03D=对 火 力 冲 击 的 进 一 步 改 进 ， 增 加 穿 甲 弹 片 并 增 强 它 的 火 热 负 载 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
+tagClass02SkillName03D=炽烈硫磺
+tagClass02SkillDescription03D=使 用 火 焰 法 术 为 火 焰 冲 击 附 加 硫 磺 的 混 沌 之 力 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
 tagClass02SkillName03E=灼热冲击
-tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike to within melee distance of the Demolitionist allows it to hit with greater intensity while requiring less energy.  ^o需 要 一 把 近 战 武 器
+tagClass02SkillDescription03E=在 较 近 的 范 围 内 集 中 火 焰 冲 击 破 坏 性 的 力 量 ， 使 技 能 威 力 增 强 同 时 减 少 能 量 消 耗 。^o需 要 一 把 近 战 武 器 。
 
 tagClass02SkillName04A=罐式炸弹
 tagClass02SkillDescription04A=填 装 了 更 多 爆 炸 物 的 炸 药 ， 这 项 恐 怖 的 发 明 能 够 击 垮 一 整 片 敌 人 。
 tagClass02SkillName04B=改良外壳
 tagClass02SkillDescription04B=对 碳 罐 炸 弹 外 壳 的 调 整 增 强 了 其 震 荡 威 力 ， 对 敌 人 造 成 持 续 创 伤 并 使 其 减 速 ； 还 拥 有 更 大 的 爆 炸 范 围 。
 tagClass02SkillName04C=震荡炸弹
-tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive Bomb does a little less damage but will leave foes shell-shocked.
+tagClass02SkillDescription04C=罐 式 炸 弹 将 拥 有 更 强 的 冲 击 力 ， 减 少 造 成 的 伤 害 但 能 使 敌 人 患 上 炮 弹 休 克 症 。
 
 tagClass02SkillName05A=迫击抛射
-tagClass02SkillDescription05A=放 置 持 续 向 空 中 抛 射 爆 炸 物 的 迫 击 炮 ， 直 至 耗 尽 。
+tagClass02SkillDescription05A=放 置 持 续 向 空 中 抛 射 爆 炸 物 的 迫 击 炮 ， 直 至 耗 尽 。^o迫 击 炮 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
 tagClass02SkillName05B=重型武器
 tagClass02SkillDescription05B=强 力 法 术 提 升 迫 击 炮 弹 的 输 出 伤 害 并 加 入 电 能 伤 害 。
 tagClass02SkillName05C=“大家伙”
-tagClass02SkillDescription05C=向 迫 击 抛 射 器 装 载 代 号 为 “ 大 家 伙 ” 的 毁 灭 性 炸 弹 ， 将 在 迫 击 抛 射 的 弹 幕 末 尾 发 射 。 如 果 你 的 敌 人 存 活 下 来 的 话 ， 由 此 产 生 的 巨 大 的 爆 炸 将 给 他 们 造 成 极 度 惊 恐 。
+tagClass02SkillDescription05C=向 迫 击 抛 射 器 装 载 代 号 为 “ 大 家 伙 ” 的 毁 灭 性 炸 弹 ， 将 在 迫 击 抛 射 的 弹 幕 末 尾 发 射 。 如 果 你 的 敌 人 存 活 下 来 的 话 ， 由 此 产 生 的 巨 大 的 爆 炸 将 给 他 们 造 成 极 度 的 惊 恐 。
 tagClass02SkillName05D=火力迫击炮
 tagClass02SkillDescription05D=向 敌 人 发 射 爆 炸 的 迫 击 炮 弹 。
 tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
 
 tagClass02SkillName06A=铝热地雷
-tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 烟 花 炸 药 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。
+tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 火 焰 炸 药 ， 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。^o地 雷 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
 tagClass02SkillName06B=电弧
 tagClass02SkillDescription06B=同 时 应 用 烟 火 制 造 术 和 炼 金 术 ， 对 铝 热 地 雷 的 致 命 改 进 让 它 可 以 用 灼 热 火 焰 与 电 流 烧 焦 敌 人 。
 tagClass02SkillName06C=烈焰喷射
 tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
 
-tagClass02SkillName07A=不熄烈焰
-tagClass02SkillDescription07A=像 多 数 爆 破 者 那 样 ， 达 到 烟 火 制 造 工 艺 的 神 秘 境 界 能 提 供 能 非 一 般 的 持 久 与 炙 热 燃 烧 的 火 与 电 。
-tagClass02SkillName07B=乌祖因的选召
-tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 乌 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
+tagClass02SkillName07A=防爆护盾
+tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+
+tagClass02SkillName07B=奥祖因的选召
+tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 奥 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
 
 tagClass02SkillName08A=黑水鸡尾酒
 tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
-tagClass02SkillName08B=酷热高温
-tagClass02SkillDescription08B=高 热 燃 烧 的 黑 水 溶 液 能 融 化 护 甲 并 烧 焦 皮 肉 。
+tagClass02SkillName08B=恶魔之火
+tagClass02SkillDescription08B=被 施 以 巫 术 的 火 焰 拥 有 混 沌 之 力 ， 能 融 化 敌 人 的 肉 体 和 损 坏 护 甲 。
 tagClass02SkillName08C=痛苦之焰
 tagClass02SkillDescription08C=被 烈 焰 焚 身 造 成 的 灼 烧 之 痛 所 逼 疯 了 的 敌 人 会 队 形 散 乱 几 乎 无 法 进 行 还 击 。
 
@@ -234,15 +238,15 @@ tagClass02SkillDescription09B=提 升 每 个 金 属 弹 的 电 力 容 量 �
 tagClass02SkillName09C=迅捷投掷
 tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 能 力 不 过 将 能 被 快 速 施 放 以 消 灭 成 群 的 敌 人 。
 
-tagClass02SkillName12A=防爆护盾
-tagClass02SkillDescription12A=军 事 装 备 与 巫 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+tagClass02SkillName12A=烈火加身
+tagClass02SkillDescription12A=许 多 爆 破 者 最 终 涉 足 了 火 焰 魔 法 。 他 们 运 用 其 中 的 技 艺 将 跃 动 的 烈 焰 加 诸 于 自 己 和 盟 友 身 上 ， 借 以 增 强 攻 击 力 并 能 反 击 敌 人 。^o此 技 能 需 要 开 启 以 保 持 生 效
 tagClass02SkillName12B=回火
-tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 回 火 处 理 。
+tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 进 行 回 火 处 理 。
 
 tagClass02SkillName13A=复仇烈焰
-tagClass02SkillDescription13A=乌 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 乌 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
-tagClass02SkillName13B=乌祖因的愤怒
-tagClass02SkillDescription13B=乌 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
+tagClass02SkillDescription13A=奥 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 奥 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass02SkillName13B=奥祖因的愤怒
+tagClass02SkillDescription13B=奥 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
 
 tagClass02SkillName10A=闪电炸弹
 tagClass02SkillDescription10A=向 敌 人 抛 出 一 个 强 力 的 带 电 炸 弹 。 能 有 效 对 付 强 壮 的 单 个 敌 人 。
@@ -257,11 +261,11 @@ tagClass02SkillDescription14A=提 升 伤 害 并 击 倒 小 到 中 型 敌 �
 
 #Class03
 
-tagClass03SkillName00=术士
+tagClass03SkillName00=神秘学者
 tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
 
 tagClass03SkillName01A=召唤
-tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 展 现 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
+tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 现 身 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
 tagClass03SkillName01B=风暴光球
 tagClass03SkillDescription01B=普 通 攻 击 。
 tagClass03SkillName01C=血肉缝合
@@ -272,13 +276,13 @@ tagClass03SkillName01E=闪电打击
 tagClass03SkillDescription01E=风 暴 乌 鸦 召 唤 强 力 的 闪 电 来 电 击 附 近 的 敌 人 。
 
 tagClass03SkillName02A=召唤地狱犬
-tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 术 士 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
+tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 神 秘 学 者 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
 tagClass03SkillName02B=灰烬之爪
 tagClass03SkillDescription02B=在 地 狱 犬 可 触 及 的 范 围 内 使 用 硫 磺 之 爪 在 敌 人 身 上 撕 扯 出 一 道 道 烈 焰 之 弧 。
 tagClass03SkillName02C=地狱之火
-tagClass03SkillDescription02C=地 狱 烈 火 的 光 环 围 绕 在 地 狱 犬 的 周 围 ， 给 予 它 地 狱 的 力 量 来 灼 烧 靠 近 的 敌 人 。 这 种 力 量 也 会 被 给 予 给 附 近 的 友 军 。
+tagClass03SkillDescription02C=地 狱 烈 火 的 光 环 围 绕 在 地 狱 犬 的 周 围 ， 给 予 它 地 狱 的 力 量 来 灼 烧 靠 近 的 敌 人 。 这 种 力 量 也 会 被 赋 予 附 近 的 友 军 。
 tagClass03SkillName02D=炼狱吐息
-tagClass03SkillDescription02D=地 狱 犬 向 外 喷 吐 地 狱 怒 炎 ， 将 敌 人 化 为 灰 烬 。
+tagClass03SkillDescription02D=地 狱 犬 向 外 喷 吐 地 狱 怒 炎 ， 将 敌 人 烧 成 灰 烬 。
 tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=普 通 攻 击
 tagClass03SkillName02F=死亡燃烧
@@ -290,66 +294,66 @@ tagClass03SkillName03B=忠诚
 tagClass03SkillDescription03B=以 微 妙 的 手 法 操 纵 召 唤 契 约 ， 使 召 唤 物 将 对 你 忠 诚 无 比 。 它 们 将 以 狂 热 的 力 量 和 速 度 为 你 而 战 。
 
 tagClass03SkillName04A=德里格之血
-tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself.
-tagClass03SkillName04B=守护者的护甲
-tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
+tagClass03SkillDescription04A=与 伟 大 的 守 护 者 之 间 的 精 神 羁 绊 将 赐 予 你 一 部 分 德 里 格 的 恢 复 能 力 。 受 到 敌 人 攻 击 时 将 喷 溅 出 巫 神 德 里 格 身 上 的 毒 血 。
+tagClass03SkillName04B=守护者的坚甲
+tagClass03SkillDescription04B=神 秘 学 者 将 置 身 于 幻 化 出 的 屏 障 之 中 ， 敌 人 仿 佛 是 在 攻 击 德 里 格 那 坚 不 可 摧 的 本 体 。
 tagClass03SkillName04C=守护者之翎
-tagClass03SkillDescription04C=Sacrifice all of your regenerative power to enhance the caustic potential of Dreeg's blood.
+tagClass03SkillDescription04C=牺 牲 掉 所 有 的 回 复 力 ， 增 强 德 里 格 之 血 的 毒 性 。
 
 tagClass03SkillName05A=索拉尔的巫火
-tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your enemies with entropic energy upon every strike. ^oThis ability must be toggled to maintain its effect.
+tagClass03SkillDescription05A=驾 驭 索 拉 尔 的 邪 术 力 量 ， 使 用 熵 能 在 每 一 次 攻 击 中 灼 烧 敌 人 。^o此 技 能 需 开 启 以 保 持 生 效 。
 tagClass03SkillName05B=二次仪式
-tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
+tagClass03SkillDescription05B=加 深 神 秘 学 者 与 隐 秘 国 度 之 间 的 联 系 ， 使 巫 火 的 力 量 变 得 更 为 强 大 ， 哪 怕 是 最 为 轻 微 的 接 触 也 足 以 让 敌 人 的 魔 法 能 量 燃 烧 殆 尽 。
 tagClass03SkillName05C=祭祀之剑
-tagClass03SkillDescription05C=Witchfire consumes your weapon, turning it into a focal point for chaotic powers. ^oRequires a melee weapon.
+tagClass03SkillDescription05C=巫 火 吞 噬 你 的 武 器 ， 以 混 沌 能 量 凝 聚 其 身 。^o需 要 一 把 近 战 武 器 。
 
 tagClass03SkillName06A=虚弱诅咒
-tagClass03SkillDescription06A=A cruel word of power that robs enemies of their fortitude, making them slow and fragile.
+tagClass03SkillDescription06A=强 大 且 无 情 的 咒 文 将 剥 夺 敌 人 的 勇 气 ， 使 他 们 变 得 缓 慢 而 脆 弱 。
 tagClass03SkillName06B=弱化
-tagClass03SkillDescription06B=Empowers the curse's vile potency so that it also weakens the constitution of your enemies, making them more susceptible to witchcraft and poisons.
+tagClass03SkillDescription06B=增 强 诅 咒 蕴 含 的 邪 力 ， 以 至 于 诅 咒 现 在 能 够 弱 化 敌 人 的 体 质 ， 让 他 们 无 力 抵 抗 巫 术 与 毒 药 。
 
 tagClass03SkillName10A=噬命魔印
-tagClass03SkillDescription10A=Creates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
+tagClass03SkillDescription10A=在 地 面 上 释 放 一 种 神 秘 的 印 记 ， 它 将 吞 噬 掉 深 陷 其 中 的 敌 人 的 生 命 力 。 造 成 的 伤 害 将 以 一 定 的 比 例 返 还 给 神 秘 学 者 。
 tagClass03SkillName10B=毁灭
-tagClass03SkillDescription10B=Imbues the sigil with the destructive powers of chaos itself.
+tagClass03SkillDescription10B=将 混 沌 本 身 蕴 含 的 毁 灭 之 力 灌 注 于 魔 印 之 中 。
 
 tagClass03SkillName11A=德里格的邪眼
-tagClass03SkillDescription11A=Summons one of the infinite eyes of Dreeg, the great guardian of the hidden realm. The eye quickly speeds toward the target and then detonates itself.
+tagClass03SkillDescription11A=召 唤 隐 秘 国 度 的 守 护 者 德 里 格 所 拥 有 的 无 数 只 邪 眼 中 的 一 只 ， 它 将 迅 速 飞 向 敌 人 然 后 引 爆 自 身 。
 tagClass03SkillName11B=血爆
-tagClass03SkillDescription11B=The mystical eye bursts on impact, showering nearby enemies with vitriolic gore.
+tagClass03SkillDescription11B=神 秘 的 邪 眼 在 命 中 敌 人 时 爆 炸 ， 向 周 围 的 敌 人 喷 溅 毒 血 。
 tagClass03SkillName11C=恐惧凝视
-tagClass03SkillDescription11C=The frightful gaze of the eldritch and immortal Dreeg may cause enemies to stand frozen in fear or simply run in fruitless terror.
+tagClass03SkillDescription11C=不 朽 又 可 畏 的 巫 神 德 里 格 ， 面 对 他 那 令 人 恐 惧 的 凝 视 ， 敌 人 要 么 惊 恐 地 呆 在 原 地 ， 要 么 直 接 逃 之 夭 夭 。
 tagClass03SkillName11D=邪物喷涌
-tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
+tagClass03SkillDescription11D=邪 眼 撞 上 敌 人 时 会 炸 出 腐 败 的 碎 块 ，不 幸 身 处 爆 炸 范 围 内 的 敌 人 会 遭 受 更 深 的 痛 楚 。
 tagClass03SkillName11E=聚能凝视
-tagClass03SkillDescription11E=Channel the foul powers of Dreeg into each Eye, causing it to burst with greater intensity and harm, but also requiring a longer pause between casts.
+tagClass03SkillDescription11E=将 德 里 格 的 邪 恶 力 量 引 导 至 每 只 邪 眼 之 中， 使 邪 眼 发 生 更 为 猛 烈 的 爆 炸 ， 造 成 更 多 的 伤 害 ， 但 同 时 会 延 长 施 放 邪 眼 的 间 歇 时 间。
 
 tagClass03SkillName12A=附身
-tagClass03SkillDescription12A=You allow your body to act as a mortal vessel for the witch god Solael. The great one temporarily inhabits your flesh, bestowing upon you formidable physical prowess.
+tagClass03SkillDescription12A=以 身 体 为 容 器 侍 奉 巫 神 索 拉 尔 ， 伟 大 的 巫 神 将 暂 时 栖 息 在 你 的 血 肉 之 躯 之 中 ， 从 而 赐 予 你 无 可 匹 敌 的 力 量 。
 
 tagClass03SkillName13A=血瘟疫
-tagClass03SkillDescription13A=Shunned even by many Occultists for the prolonged suffering it inflicts, this abhorrent curse calls down a virulent plague to spread amongst foes, inexorably sapping their life-force and causing them to bleed from every orifice.
+tagClass03SkillDescription13A=这 种 恶 毒 的 ， 连 许 许 多 多 神 秘 学 者 都 畏 之 三 分 的 诅 咒 会 在 敌 人 中 间 传 播  致 命 的 瘟 疫 ， 进 而 不 可 逆 转 地 掏 空 他 们 的 生 命 力 ， 他 们 的 每 个 毛 孔 都 将 血 流 不 止 。
 tagClass03SkillName13B=恶疾
-tagClass03SkillDescription13B=Causes Pox to destroy your foe's vitality and turn weeping sores into gouts of blood. Such insidious spell-craft has earned Occultists their dark repute and seen many burnt at the stake.
+tagClass03SkillDescription13B=血 瘟 疫 将 摧 毁 敌 人 的 活 力 ， 即 使 是 流 出 的 眼 泪 也 将 变 为 大 片 的 鲜 血 。 阴 险 至 斯 的 巫 术 使 神 秘 学 者 变 得 臭 名 昭 著 ， 所 以 许 多 神 秘 学 者 都 死 在 了 火 刑 柱 之 上 。
 tagClass03SkillName13C=黑死病
-tagClass03SkillDescription13C=Burning with fever and suffering the liquefaction of their internal organs, the infected may be hit by sudden bouts of confusion and wander the battlefield attacking the air or even their own allies.
+tagClass03SkillDescription13C=身 体 的 高 热 和 内 脏 的 溶 解 折 磨 着 敌 人 ， 让 他 们 在 战 场 上 攻 击 落 空 ， 甚 至 攻 击 他 们 的 队 友 。
 tagClass03SkillName13D=狂热怒意
-tagClass03SkillDescription13D=This transmutation of Pox can be as dangerous to the Occultist as to the foe. The plague will progress rapidly, more than doubling its damage, but as the afflicted burn with fever, they will become crazed, moving with unnatural speed and attacking with berserker fury that makes them both more deadly and more vulnerable.
+tagClass03SkillDescription13D=血 瘟 疫 的 变 化 对 敌 人 与 神 秘 学 者 本 身 来 说 都 很 危 险 。 血 瘟 疫 将 极 快 的 发 作 ， 不 只 是 使 造 成 的 伤 害 加 倍 ， 更 会 使 神 秘 学 者 患 上 高 热 ， 变 得 癫 狂 无 比 。 他 们 将 以 异 常 的 速 度 移 动 ， 伴 随 着 狂 暴 的 怒 意 发 动 攻 击 。 而 代 价 则 是 变 得 更 为 脆 弱 。
 
 tagClass03SkillName14A=毁灭闪电
-tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes.
+tagClass03SkillDescription14A=施 放 一 束 能 够 撕 裂 现 实 世 界 的 熵 能 闪 电 ， 任 何 被 它 击 中 的 敌 人 都 将 遭 受 重 创 。
 
 
 tagClass03SkillName07A=无效妖术
-tagClass03SkillDescription07A=Nullifies enemy enchantments and inflicts energy-burn damage based on the ammount of the enemy's remaining energy.
+tagClass03SkillDescription07A=使 敌 人 的 法 术 失 效 ， 并 且 基 于 敌 人 剩 余 的 能 量 值 造 成 法 力 燃 烧 伤 害 。
 tagClass03SkillName08A=混沌之箭
-tagClass03SkillDescription08A=Sends out a swarm of entropic energy that tears into the very material of your enemy's being.
+tagClass03SkillDescription08A=施 放 大 量 的 熵 能 ， 撕 碎 敌 人 的 肉 身  。
 tagClass03SkillName08B=能量燃烧
-tagClass03SkillDescription08B=Magnifies chaos damage while also burning a portion of the target's energy, inflicting additional energy burn damage.
+tagClass03SkillDescription08B=在 增 强 混 沌 伤 害 的 同 时 ， 燃 烧 掉 一 部 分 敌 人 的 能 量 并 且 造 成 法 力 燃 烧 伤 害 。
 tagClass03SkillName09A=守护之环
-tagClass03SkillDescription09A=Creates a magical circle around the caster that regenerates life and repels those with evil intention.
+tagClass03SkillDescription09A=在 施 法 者 周 围 制 造 一 个 魔 法 圆 环 ， 圆 环 能 够 恢 复 生 命 并 且 击 退 敌 人 。
 tagClass03SkillName15A=拜斯迈的庇护
-tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
+tagClass03SkillDescription15A=将 目 标 封 印 于 一 块 保 护 性 的 愈 伤 结 界 内 ， 目 标 虽 然 无 法 移 动 但 是 能 够 免 疫 一 切 伤 害 。
 
 
 
@@ -359,13 +363,13 @@ tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
 tagClass04SkillName01A=幻影刀锋
-tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 如 切 割 纸 片 一 般 撕 裂 肉 体 。
+tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 ， 如 切 割 纸 片 一 般 撕 裂 肉 体 。
 tagClass04SkillName01B=寻心击
-tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召  唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
+tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召 唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 且 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
 tagClass04SkillName01C=幽冥之刃
-tagClass04SkillDescription01C=使 幻 影 刀 锋 具 有 暗 黑 魔 法 ， 是 一 种 仅 在 最 恶 劣 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
+tagClass04SkillDescription01C=以 黑 魔 法 强 化 幻 影 刀 锋 ， 是 一 种 仅 在 最 恶 劣 的 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
 tagClass04SkillName01D=狂热投掷
-tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
+tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 ， 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
 
 tagClass04SkillName02A=暗影突袭
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^o需 要 一 把 近 战 武 器 。
@@ -385,17 +389,17 @@ tagClass04SkillName04C=寒霜之环
 tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage.
 
 tagClass04SkillName05A=双刃
-tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
 tagClass04SkillName05B=贝尔戈蒂安的切割
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05C=阿玛拉斯塔的瞬影
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05D=死亡旋风
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05E=尼达拉的隐手
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
 tagClass04SkillName05F=处决
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
 
 tagClass04SkillName06A=气爆
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
@@ -404,7 +408,7 @@ tagClass04SkillDescription06B=Practice in combat meditation allows you to achiev
 tagClass04SkillName06C=元素觉醒
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 tagClass04SkillName06D=贝尔戈蒂安的呼吸
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagClass04SkillName07A=暗影面纱
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
@@ -437,13 +441,13 @@ tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledg
 
 tagClass04SkillName04X=毁灭刀锋
 tagClass04SkillDescription04X=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
-tagClass04SkillName07X=深入暗影
+tagClass04SkillName07X=潜入暗影
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
-tagClass04SkillName07C=阿玛拉斯塔的隐刀
+tagClass04SkillName07C=阿玛拉斯塔的无形之刃
 tagClass04SkillDescription07C=Throughout combat with the Nightblade, wounds appear on enemies where no weapon was seen to strike.
 tagClass04SkillName09A=夺命
 tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the Nightblade, allowing them to grow stronger even as the life leaves their quarry.
-tagClass04SkillName12A=精神抽取
+tagClass04SkillName12A=元气汲取
 tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
 tagClass04SkillName13D=无情终章
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
@@ -467,7 +471,7 @@ tagClass05SkillDescription00=磨 炼 躯 体 与 意 志 ， 方 能 驾 驭 原
 tagClass05SkillName01A=帕内蒂的复制飞弹
 tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
 tagClass05SkillName01B=扰动
-tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, increasing the chance that the projectile will pass through your target.
+tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, causing the projectile to sometimes completely pass through your target.
 tagClass05SkillName01C=超负荷
 tagClass05SkillDescription01C=The air around the Replicating Missile becomes supercharged with static energy, electrocuting any enemies unfortunate enough to come in contact with the projectile.
 tagClass05SkillName01D=增殖
@@ -484,16 +488,16 @@ tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantat
 tagClass05SkillName02D=化身
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
 
-tagClass05SkillName03A=Trozan's Sky Shard
+tagClass05SkillName03A=特洛赞的天之裂片
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
-tagClass05SkillName03B=Frozen Core
+tagClass05SkillName03B=冰封之核
 tagClass05SkillDescription03B=The ice trapped within the Sky Shard becomes released upon collision, bathing those near the point of impact with a freezing chill.
-tagClass05SkillName03C=Shattered Star
+tagClass05SkillName03C=碎裂星体
 tagClass05SkillDescription03C=The Sky Shard becomes increasingly unstable upon descent, building up a dangerous amount of charge as it propels through the sky.
 
-tagClass05SkillName04A=Callidor's Tempest
+tagClass05SkillName04A=卡里多的风暴
 tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
-tagClass05SkillName04B=Inferno
+tagClass05SkillName04B=炼狱
 tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
 tagClass05SkillName04C=阿格维克斯的愤怒
 tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
@@ -510,7 +514,7 @@ tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turn
 tagClass05SkillName06C=堕落之力
 tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
  
-tagClass05SkillName07A=Nullification
+tagClass05SkillName07A=无效
 tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
 
 tagClass05SkillName08A=毁灭
@@ -525,17 +529,17 @@ tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations 
 tagClass05SkillName11A=精神迅捷
 tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
 
-tagClass05SkillName12A=Fabric of Reality
+tagClass05SkillName12A=撕裂空间
 tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
 
 tagClass05SkillName13A=奥莱克西拉的屏障
 tagClass05SkillDescription13A=Olexra favored the use of ice in her spellcasting. One of her tactics involved raising up a wall of volatile ice spikes to keep her foes at bay while she attacked safely from the other side.
 tagClass05SkillName13B=寒冰光环
 tagClass05SkillDescription13B=Icy Barrier chills nearby enemies.
-tagClass05SkillName13C=Icy End
+tagClass05SkillName13C=冰之终结
 tagClass05SkillDescription13C=Icy Barrier collapses in an explosion of ice.
 
-tagClass05SkillName14A=Mirror of Ereoctes
+tagClass05SkillName14A=艾瑞奥特之镜
 tagClass05SkillDescription14A=In an instant, the air around you becomes hard as stone, absorbing all manner of attacks and reflecting them back at the attacker; a favoured technique of Master Ereoctes.
 
 tagClass05SkillName15A=狂野之力
@@ -629,13 +633,13 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 #ItemSkills
 
 tagItemSkillA001=骤霜
-tagItemSkillDescA001=A blast of negative energy freezes anything in its path.
+tagItemSkillDescA001=一 道 阴 冷 的 能 量 波 ， 足 以 冻 结 阻 挡 它 的 一 切 。
 
 tagItemSkillA002=鬼灵漩涡
-tagItemSkillDescA002=Siphon vital life essence from nearby enemies.
+tagItemSkillDescA002=从 附 近 的 敌 人 身 上 吸 取 生 命 力 。
 
 tagItemSkillA003=静电回流
-tagItemSkillDescA003=Launches an orb of electricity at enemies that hit the player.
+tagItemSkillDescA003=对 攻 击 玩 家 的 敌 人 施 放 一 个 电 球 。
 
 tagItemSkillA004=火球术
 tagItemSkillDescA004=对 附 近 的 敌 人 施 放 一 个 火 球 。
@@ -644,40 +648,40 @@ tagItemSkillA004B=多重火球术
 tagItemSkillDescA004B=对 附 近 的 敌 人 施 放 多 个 火 球 。
 
 tagItemSkillA005A=火焰之环
-tagItemSkillDescA005A=Surrounds the caster in a ring of flame that burns enemies within its radius.
+tagItemSkillDescA005A=火 焰 之 环 围 绕 在 施 法 者 身 边 ， 灼 烧 其 范 围 内 的 敌 人 。
 
 tagItemSkillA006A=浸毒武器
-tagItemSkillDescA006A=Coats weapons in a veneer of deadly toxin.
+tagItemSkillDescA006A=为 武 器 涂 上 一 层 致 命 的 毒 药 。
 
 tagItemSkillC001Name=大法官的审判
 tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
 
 tagItemSkillA007Name=专注
-tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
+tagItemSkillA007Desc=专 注 于 战 斗 之 中 ， 所 有 攻 击 的 速 度 都 得 到 提 升 。
 
 tagItemSkillA008Name=生存本能
-tagItemSkillA008Desc=Provides a boost of adrenaline, temporarily increasing run speed.
+tagItemSkillA008Desc=注 入 肾 上 腺 素 ， 短 时 间 内 提 升 移 动 速 度 。
 
 tagItemSkillA009Name=闪电新星
-tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+tagItemSkillA009Desc=施 放 一 道 闪 电 能 量 ， 伤 害 附 近 的 所 有 敌 人 。
 
 tagItemSkillA010=静电冲击
-tagItemSkillDescA010=A surge of electricity discharges from you, damaging nearby enemies.
+tagItemSkillDescA010=从 身 上 施 放 汹 涌 的 电 流 ， 伤 害 附 近 的 敌 人 。
 
 tagItemSkillA011=基尔利安之火
-tagItemSkillDescA011=A dark flame engulfs your flesh, incinerating any that dare come near and draining their vitality.
+tagItemSkillDescA011=黑 火 吞 食 你 的 血 肉 ， 焚 化 所 有 敢 于 靠 近 的 敌 人 并 吸 取 他 们 的 活 力 。
 
 tagItemSkillB001Name=冲击波
-tagItemSkillB001Desc=A wave of fire erupts from your attack.
+tagItemSkillB001Desc=你 的 攻 击 中 爆 发 出 一 道 火 焰 冲 击 波 。
 
 tagItemSkillB002Name=寒流
-tagItemSkillB002Desc=Retaliates with the chill of death, launching projectiles at nearby enemies, freezing them.
+tagItemSkillB002Desc=以 死 寒 之 力 反 击 ， 对 周 围 的 敌 人 施 放 投 射 物 冻 结 他 们 。
 
 tagItemSkillB003Name=夜神之沙
-tagItemSkillB003Desc=Retaliates with a potent sleeping hex, putting nearby enemies to sleep.
+tagItemSkillB003Desc=以 强 有 力 的 昏 睡 魔 法 反 击 ， 使 附 近 的 敌 人 陷 入 昏 睡 。
 
 tagItemSkillB004Name=闪电链
-tagItemSkillB004Desc=Zaps the target with lightning which can leap to nearby targets.
+tagItemSkillB004Desc=以 能 在 周 围 敌 人 间 跳 跃 的 闪 电 打 击 目 标 单 位 。
 
 tagItemSkillA006Name=闪电新星
 tagItemSkillA006Desc=Retaliates with a blast of lightning energy, damaging all nearby enemies.
@@ -725,22 +729,22 @@ tagItemSkillB018Name=魔力灌注
 tagItemSkillB018Desc=A soothing mist envelops you, clearing your mind.
 
 tagItemSkillB019Name=扎尔泽兰的烈焰
-tagItemSkillB019Desc=Unleashes a fiery blast upon the heathens.
+tagItemSkillB019Desc=对异教徒施放炽烈的爆炎。
 
 tagItemSkillB020Name=罗德拉西斯之触
-tagItemSkillB020Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
+tagItemSkillB020Desc=对目标投掷一枚寒冷的投射物，用冰将其禁锢。
 
 tagItemSkillB021Name=寒冰守护
 tagItemSkillB021Desc=Launches a volatile chunk of ice at those who manage to find a weak point in your defenses, freezing them solid.
 
 tagItemSkillB022Name=战斗暴怒
-tagItemSkillB022Desc=Enter a combat-ready state of mind.
+tagItemSkillB022Desc=进入随时准备战斗的状态。
 
 tagItemSkillB023Name=死亡标记
 tagItemSkillB023Desc=Mark your target for a painful and imminent death.
 
 tagItemSkillB024Name=抽十杀一
-tagItemSkillB024Desc=Smash your foe with a crushing blow.
+tagItemSkillB024Desc=以 压 碎 性 的 一 击 粉 碎 你 的 敌 人 。
 
 tagItemSkillB025Name=闪电箭
 tagItemSkillB025Desc=A pure bolt of lightning strikes your target.
@@ -766,7 +770,7 @@ tagItemSkillB031Name=奥术风暴
 tagItemSkillB031Desc=Releases a concentrated burst of arcane energy around you, igniting the air in an instant.
 
 tagItemSkillB032Name=天崩
-tagItemSkillB032Desc=Brings down the sky upon your enemies.
+tagItemSkillB032Desc=降下敌人的头顶的苍穹。
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
@@ -777,73 +781,73 @@ tagItemSkillC003Desc=Throws the target into a berserker-like rage, causing it to
 tagItemSkillC004Name=坚定守卫
 tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat.
 
-tagItemSkillC004PetSkill01=Taunting Roar
+tagItemSkillC004PetSkill01=嘲讽之吼
 tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby enemies.
 
-tagItemSkillC004PetSkill02=Innate Attributes
+tagItemSkillC004PetSkill02=基本属性
 
 tagItemSkillC005Name=鲁莽守卫
 tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
 
-tagItemSkillC005PetSkill01=Frenzied Roar
+tagItemSkillC005PetSkill01=狂乱之吼
 tagItemSkillC005PetSkill01Desc=The guardian roars, emboldening nearby allies.
 
-tagItemSkillC006Name=Plague of Rust
+tagItemSkillC006Name=腐蚀瘟疫
 tagItemSkillC006Desc=Unleashes a powerful contagion among your enemies that eats away at armor and spreads rapidly.
 
-tagItemSkillC007Name=Plague of Brittle Bones
+tagItemSkillC007Name=碎骨瘟疫
 tagItemSkillC007Desc=Unleashes a powerful contagion among your enemies that devours bones and spreads rapidly.
 
-tagItemSkillC008Name=Plague of Shattered Souls
+tagItemSkillC008Name=碎魂瘟疫
 tagItemSkillC008Desc=Unleashes a powerful contagion among your enemies that saps the spirit and spreads rapidly.
 
-tagItemSkillC009Name=Plague of Consumption
+tagItemSkillC009Name=噬命瘟疫
 tagItemSkillC009Desc=Unleashes a powerful contagion among your enemies that saps vitality and spreads rapidly.
 
-tagItemSkillC010Name=Plague of Terror
+tagItemSkillC010Name=恐惧瘟疫
 tagItemSkillC010Desc=Unleashes a powerful contagion among your enemies that incites fear and spreads rapidly.
 
-tagItemSkillC011Name=Plague of Fatigue
+tagItemSkillC011Name=疲惫瘟疫
 tagItemSkillC011Desc=Unleashes a powerful contagion among your enemies that causes fatigue and spreads rapidly.
 
-tagItemSkillC012Name=Plague of Rot
+tagItemSkillC012Name=腐坏瘟疫
 tagItemSkillC012Desc=Unleashes a powerful contagion among your enemies that infects with toxins and spreads rapidly.
 
-tagItemSkillC013Name=Plague of Corruption
+tagItemSkillC013Name=腐化瘟疫
 tagItemSkillC013Desc=Unleashes a powerful contagion among your enemies that creates dissent and spreads rapidly.
 
-tagItemSkillC014Name=Dominate
+tagItemSkillC014Name=支配
 tagItemSkillC014Desc=Overpowers the mind of the target, forcing it to fight for you for a period of time.
 
-tagItemSkillC015Name=Gutripper
+tagItemSkillC015Name=裂肠
 tagItemSkillC015Desc=Hurl a clump of jagged shrapnel at nearby enemies.
 
-tagItemSkillC016Name=Volcanic Burst
+tagItemSkillC016Name=火山喷发
 tagItemSkillC016Desc=Unleash a burst of molten fragments at nearby enemies.
 
-tagItemSkillC017Name=Static Burst
+tagItemSkillC017Name=静电爆发
 tagItemSkillC017Desc=Unleash a burst of electric bolts at nearby enemies.
 
-tagItemSkillC018Name=Hooked Net
+tagItemSkillC018Name=钩网
 tagItemSkillC018Desc=Capture your prey with a net that ensnares and constricts the target.
 
-tagItemSkillC019Name=Flamer
+tagItemSkillC019Name=喷火
 tagItemSkillC019Desc=Unleash a burst of fiery death in a line.
 
-tagItemSkillC020Name=Arctic Blast
+tagItemSkillC020Name=极寒冲击
 tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
 
-tagItemSkillC021Name=Lightning Bolt
+tagItemSkillC021Name=雷击
 tagItemSkillC021Desc=Calls forth holy justice from the heavens.
 
-tagItemSkillC022Name=Bolt Burst
+tagItemSkillC022Name=连射
 tagItemSkillC022Desc=A trick with the loading mechanism allows for an occasional burst of ammo to be unleashed in rapid succession.
 
 tagItemSkillC023Name=疫病之咬
 tagItemSkillC023Desc=The blade digs into flesh like the foul bite of a rift hound.
 
 tagItemSkillC024Name=连环收割
-tagItemSkillC024Desc=Drains the very life from your target, jumping to nearby enemies with voracious intent.
+tagItemSkillC024Desc=吸取目标的生命力，贪婪地跳跃至周围的目标。
 
 tagItemSkillC025Name=践踏大地
 tagItemSkillC025Desc=The enchanted sole of these boots smashes into the ground, unleashing a shockwave that staggers nearby foes.
@@ -858,19 +862,19 @@ tagItemSkillC028Name=恐惧
 tagItemSkillC028Desc=Fills the minds of nearby enemies with visions of their own demise, causing the weakminded to flee.
 
 tagItemSkillC029Name=狙击
-tagItemSkillC029Desc=Fires a piercing round with deadly accuracy.
+tagItemSkillC029Desc=以极佳的精准度射出一发无坚不摧的子弹。
 
 tagItemSkillC030Name=收割者之触
-tagItemSkillC030Desc=The cold hand of death washes over your enemies.
+tagItemSkillC030Desc=死神的冰冷之爪将伸向你的敌人。
 
 tagItemSkillC031Name=畏惧
-tagItemSkillC031Desc=Strike fear into the hearts of your enemies.
+tagItemSkillC031Desc=深深地将恐惧植入敌人的内心。
 
 tagItemSkillC032Name=自制药水
 tagItemSkillC032Desc=痛 饮 一 杯 ， 病 痛 全 消 。
 
 tagItemSkillC033Name=速攻
-tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^oRequires one-handed pistols.
+tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^o需要单手枪械。
 
 tagItemSkillC034Name=中断
 tagItemSkillC034Desc=The immense speed of these boots requires complete focus on every step taken. Even the slightest distraction could result in a misstep.
@@ -881,108 +885,108 @@ tagItemSkillC035Desc=Tear a warp in time itself at the location of your attacker
 tagItemSkillC036Name=杀意
 tagItemSkillC036Desc=Enter a dangerous state of mind that leaves little room for doubt and second thoughts.
 
-tagItemSkillC037Name=Slime Ball
+tagItemSkillC037Name=黏液之球
 tagItemSkillC037Desc=Hurl a sticky projectile of disease and slime, immobilizing and slowing your enemies.
 
-tagItemSkillC038Name=Chillwind
+tagItemSkillC038Name=冰风
 tagItemSkillC038Desc=Unleash a burst of chilling spines that pierce through armor and freeze flesh.
 
-tagItemSkillC039Name=Concussive Charge
+tagItemSkillC039Name=震荡炸弹
 tagItemSkillC039Desc=Hurls a concussive bomb that leaves your target in a stunned daze.
 
-tagItemSkillC040Name=Anti-Clotting Dart
+tagItemSkillC040Name=抗凝血标枪
 tagItemSkillC040Desc=Fire a dart of anti-clotting chemicals that prevent wounds from healing, inducing heavy bleeding.
 
-tagItemSkillC041Name=Spectral Wave
+tagItemSkillC041Name=幽魂波
 tagItemSkillC041Desc=Unleash a wave of angry spirits to drain the life out of your enemies.
 
 tagItemSkillC042Name=Add a Notch
 tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway?
 
-tagItemSkillC043Name=Ring of Everlasting Flame
+tagItemSkillC043Name=不熄烈焰之环
 tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oThis ability must be toggled to maintain its effect.
-tagItemSkillC043NameB=Ring of Everlasting Flame
+tagItemSkillC043NameB=不熄烈焰之环
 tagItemSkillC043DescB=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed.
 
-tagItemSkillC044Name=Curse of Crushed Resolve
-tagItemSkillC044Desc=A mind-numbing word of power that dulls the senses of your enemies and robs them of their vigor.
+tagItemSkillC044Name=摧心诅咒
+tagItemSkillC044Desc=让人心烦意乱的咒语使你的敌人反映迟钝并夺取他们的生气。
 
-tagItemSkillC045Name=Aether Ward
-tagItemSkillC045Desc=Embrace the powers of the great aether, gaining resistance to the arcane and a strengthened resolve.
+tagItemSkillC045Name=虚化守卫
+tagItemSkillC045Desc=拥抱那伟大的虚化力量，获得对奥术抵抗力和坚强的意志。
 
-tagItemSkillC046Name=Soul Steal
-tagItemSkillC046Desc=Devour the essence of your target to restore your own.
+tagItemSkillC046Name=吸魂
+tagItemSkillC046Desc=吞食目标的精元，回复你自己的。
 
-tagItemSkillC047Name=Stoneheart Poison
-tagItemSkillC047Desc=Release the poison contained within this blade, petrifying flesh.
+tagItemSkillC047Name=石心毒药
+tagItemSkillC047Desc=释放刀锋中蕴含的毒药，它将石化血肉。
 
-tagItemSkillC048Name=Healing Winds
-tagItemSkillC048Desc=Summon the winds of the eternal spring to mend your wounds.
+tagItemSkillC048Name=治疗之风
+tagItemSkillC048Desc=召唤永恒之春的疾风来修复你的伤口。
 
-tagItemSkillC049Name=Sun Spot
+tagItemSkillC049Name=太阳黑子
 tagItemSkillC049Desc=Blast your target with a heavenly ray of searing flames.
 
-tagItemSkillC050Name=Lichguard
+tagItemSkillC050Name=巫妖守卫
 tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer from lethal harm.
 
-tagItemSkillC051Name=Summon Revenant of Og'Napesh
+tagItemSkillC051Name=召唤奥格纳佩什的亡魂
 tagItemSkillC051Desc=Channel the dark writings of the Grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
 
-tagItemSkillC052Name=Menhir's Blessing
+tagItemSkillC052Name=曼海尔的祝福
 tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oThis ability must be toggled to maintain its effect.
 
-tagItemSkillC053Name=Defy Death
+tagItemSkillC053Name=抵死
 tagItemSkillC053Desc=Deny death's advances when its call is strongest.
 
-tagItemSkillC054Name=Bane of Nuram'Siin
-tagItemSkillC054Desc=Ancient word of power which freezes the target solid in a prison of ice.
+tagItemSkillC054Name=纽拉姆·辛的毒咒
+tagItemSkillC054Desc=远古的魔咒的力量能将目标困于冰牢之中。
 
-tagItemSkillC055Name=Might of the Dire Wolf
+tagItemSkillC055Name=恶狼之力
 tagItemSkillC055Desc=Embody the might and fury of the great white wolf.
 
-tagItemSkillC056Name=Ancestor's Call
+tagItemSkillC056Name=先祖召唤
 tagItemSkillC056Desc=Call forth an ancestral spirit to revitalize you.
 
-tagItemSkillC057Name=Anguish
+tagItemSkillC057Name=悲痛
 tagItemSkillC057Desc=The cursed chains torment you with visions of your own demise.
 
-tagItemSkillC058Name=Field Medicine
+tagItemSkillC058Name=战地医师
 tagItemSkillC058Desc=Use established medical techniques to mend critical wounds in the heat of battle.
 
-tagItemSkillC059Name=Soul Well
+tagItemSkillC059Name=灵魂之井
 tagItemSkillC059Desc=Tear open a rift to the beyond, unleashing a well of restless spirits that will tear at any enemy that dares enter it.
 
-tagItemSkillC060Name=Flame Burst
+tagItemSkillC060Name=爆炎
 tagItemSkillC060Desc=Create a burst of hellish flames around you, incinerating nearby enemies.
 
-tagItemSkillC061Name=Serpent Lash
+tagItemSkillC061Name=毒蛇猛击
 tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oRequires a melee weapon.
 
-tagItemSkillC062Name=Knockout
+tagItemSkillC062Name=击倒
 tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oRequires a melee weapon.
 
-tagItemSkillC063Name=Prismatic Shield
+tagItemSkillC063Name=棱光护盾
 tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
 
-tagItemSkillC064Name=Gaze Weakness
+tagItemSkillC064Name=凝视弱点
 tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillC065Name=疯狂
 tagItemSkillC065Desc=Unleash the spirit of madness from within the mask, destroying the minds of nearby enemies.
 
-tagItemSkillC066Name=Abolish Evil
+tagItemSkillC066Name=诛邪除恶
 tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oRequires a melee weapon.
 
-tagItemSkillC067Name=Tidal Wave
+tagItemSkillC067Name=海啸
 tagItemSkillC067Desc=Unleash a torrent of cascading water at your enemies, a technique mastered by the foul slith.
 
 tagItemSkillC068Name=地震
 tagItemSkillC068Desc=Create a fissure at the target area, slowing and stunning any enemies caught within it.
 
-tagItemSkillC069Name=Fanaticism
+tagItemSkillC069Name=狂热
 tagItemSkillC069Desc=Enter a state of fanatical frenzy, tearing at your enemies with ruthless resolve.
 
-tagItemSkillC070Name=Invocation to Chaos
+tagItemSkillC070Name=混沌召唤
 tagItemSkillC070Desc=Invoke the dark powers, placing a minion of Ch'thon under your devious command.
 
 tagItemSkillC071Name=外交策略
@@ -994,7 +998,7 @@ tagItemSkillC072Desc=The devout of Menhir find their faith to be their most form
 tagItemSkillC073Name=心灵控制
 tagItemSkillC073Desc=Mesmerizes the target, making them confuse friend with foe.
 
-tagItemSkillC074Name=Guardian's Will
+tagItemSkillC074Name=守护者的意志
 tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oRequires a shield.
 
 tagItemSkillC075Name=掠夺者的怒火
@@ -1003,22 +1007,22 @@ tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^oEnables the
 tagItemSkillC076Name=掠夺者的审判
 tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
-tagItemSkillC077Name=Dismay
+tagItemSkillC077Name=惊慌
 tagItemSkillC077Desc=Overwhelm the mind of your enemy with sheer terror.
 
-tagItemSkillC078Name=Howling Wind
+tagItemSkillC078Name=呼啸之风
 tagItemSkillC078Desc=Surrounds you with a blistering wind that chills your enemies to the bone.
 
-tagItemSkillC079Name=Gunslinger
+tagItemSkillC079Name=神射手
 tagItemSkillC079Desc=Deadly with a gun, suffices to say even deadlier with two. ^oThis is a ranged dual-wielding bonus. Also enables the ability to dual wield ranged weapons.
 
-tagItemSkillC080Name=Lifestealer Nova
+tagItemSkillC080Name=噬命新星
 tagItemSkillC080Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
 
 tagItemSkillC081Name=虚化飞弹
 tagItemSkillC081Desc=Releases a concentrated burst of aether energies at your foes.
 
-tagItemSkillC082Name=Voidfire Nova
+tagItemSkillC082Name=虚空之火新星
 tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
 
 tagItemSkillC083Name=掠夺者的齐射
@@ -1027,8 +1031,8 @@ tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^oEnables t
 tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
 
-tagItemSkillC085Name=Summon Blighted Rift Scourge
-tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oOnly one Blighted Rift Scourge can be summoned at any one time.
+tagItemSkillC085Name=召唤裂隙之灾
+tagItemSkillC085Desc=从深渊中召唤裂隙魔犬，它将听命于你。^o同时只能召唤一只裂隙魔犬。
 tagItemSkillC085PetSkillName01=酸液喷吐
 tagItemSkillC085PetSkillName02=剧毒新星
 
@@ -1038,6 +1042,17 @@ tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
 tagItemSkillC087Name=惩戒
 tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
+tagItemSkillC088Name=奥术之怒
+tagItemSkillC088Desc=Refusing to submit, you unleash the unbridled potential of the mind.
+
+tagItemSkillC089Name=火焰风暴
+tagItemSkillC089Desc=Creates a ring of unbearable flame to incinerate your enemies.
+
+tagItemSkillC090Name=血瘟疫
+tagItemSkillC090Desc=An abhorrent curse that calls down a virulent plague to spread among your foes.
+
+tagItemSkillC091Name=复制飞弹
+tagItemSkillC091Desc=A replicating spell that copies itself upon striking an enemy.
 
 tagItemSkillM001Name=生命精华
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
@@ -1048,59 +1063,59 @@ tagItemSkillM002Desc=Destroys the very essence of your enemies.
 tagItemSkillM003Name=天启
 tagItemSkillM003Desc=Rains purging hellfire upon your enemies.
 
-tagItemSkillM004Name=Arcane Focus
+tagItemSkillM004Name=奥术专注
 tagItemSkillM004Desc=Enter a trance-like state with each attack, multiplying your arcane power.
 
-tagItemSkillM005Name=Berserk
+tagItemSkillM005Name=狂暴
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
 
-tagItemSkillM006Name=Call of the Beast
+tagItemSkillM006Name=野兽召唤
 tagItemSkillM006Desc=Call out to the creatures that heed your will, emboldening them.
 
-tagItemSkillM007Name=Freezing Charge
+tagItemSkillM007Name=霜冻炸弹
 tagItemSkillM007Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
 
-tagItemSkillM008Name=Empowerment
-tagItemSkillM008Desc=Empower your attacks at the cost of precious lifeblood.
+tagItemSkillM008Name=强化
+tagItemSkillM008Desc=以鲜血为代价强化你的攻击。
 
-tagItemSkillM009Name=Summon Flesh Hulk
-tagItemSkillM009Desc=Summons a mindless behemoth from cursed grounds to serve you for as long as its flesh can bear it.
+tagItemSkillM009Name=召唤血肉巨人
+tagItemSkillM009Desc=从诅咒之地召唤出一头没有思想的巨兽，它将侍奉你直到它的躯体再也无法承受。
 
-tagItemSkillM010Name=Vampirism
-tagItemSkillM010Desc=Embrace a darker side to restore your own vitality at the cost of your enemies'.
+tagItemSkillM010Name=吸血鬼
+tagItemSkillM010Desc=皈依黑暗势力，将敌人的活力用于自身的回复。
 
-tagItemSkillM012Name=Magma Orb
-tagItemSkillM012Desc=Hurl a projectile of pure fire which fragments at the slightest touch.
+tagItemSkillM012Name=岩浆法球
+tagItemSkillM012Desc=投掷出一枚富含真火的投射物，即使最轻微的接触也会灰飞烟灭。
 
-tagItemSkillM013Name=Toxic Nova
-tagItemSkillM013Desc=Unleash a deathly poison into the air.
+tagItemSkillM013Name=剧毒新星
+tagItemSkillM013Desc=向空中施放出致命的毒素。
 
-tagItemSkillM014Name=Lifesaver
-tagItemSkillM014Desc=A breath of life in a dire situation.
+tagItemSkillM014Name=救星
+tagItemSkillM014Desc=绝境中的一线生机。
 
-tagItemSkillM015Name=Arcane Rage
-tagItemSkillM015Desc=The diamond's power can be tapped in dire situations, granting access to immense arcane energy.
+tagItemSkillM015Name=奥术怒火
+tagItemSkillM015Desc=只有绝境方能彰显钻石的璀璨光辉，获得巨量的奥术能量。
 
-tagItemSkillM016Name=Primal Rage
-tagItemSkillM016Desc=The diamond's power can be tapped in dire situations, granting access to unstoppable physical prowess.
+tagItemSkillM016Name=原始愤怒
+tagItemSkillM016Desc=只有绝境方能彰显钻石的璀璨光辉，获得无人可挡的体力。
 
-tagItemSkillM017Name=Prismatic Rage
-tagItemSkillM017Desc=The diamond's power can be tapped in dire situations, granting access to its true potential and untold cosmic forces.
+tagItemSkillM017Name=棱光之怒
+tagItemSkillM017Desc=只有绝境方能彰显钻石的璀璨光辉，得到它所有的潜能和无限的宇宙力量。
 
 tagItemSkillD017Name=陨石
-tagItemSkillD017Desc=Conjures a massive burning rock from the nether to drop upon your enemies.
+tagItemSkillD017Desc=召唤出大群来自幽冥的燃烧的石块砸向你的敌人。
 
-tagItemSkillD018Name=Throw Feces
-tagItemSkillD018Desc=Reach into the seat of your pants and pull out something that is certain to alarm your enemies.
+tagItemSkillD018Name=投掷粪便
+tagItemSkillD018Desc=手伸到你的裤子里面，掏出一坨东西丢出去，绝对能吓到你的敌人。
 
-tagItemSkillD019Name=Hail Storm
-tagItemSkillD019Desc=Conjure a hail of deadly ice upon the target area.
+tagItemSkillD019Name=冰雹风暴
+tagItemSkillD019Desc=在目标区域召唤一阵致死的冰雹。
 
-tagItemSkillD020Name=Call Forth the Harbinger
-tagItemSkillD020Desc=Conjures Salazar's Harbinger from the depths of the void.
-tagItemSkillD020PetSkillName=Spectral Miasma
+tagItemSkillD020Name=召唤冥灵先锋
+tagItemSkillD020Desc=从 虚 空 深 处 召 唤 出 萨 拉 查 的 先 锋 。
+tagItemSkillD020PetSkillName=幽冥剧毒
 tagItemSkillD020PetSkillName02=混沌光环
-tagItemSkillD020PetSkillDesc02=The Harbinger confers the blessing of Chaos upon his allies.
+tagItemSkillD020PetSkillDesc02=萨 拉 查 的 先 锋 将 混 沌 祝 福 给 予 它 的 盟 友 。
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -1109,34 +1124,34 @@ tagItemSkillFailDesc=Fail a little harder.
 #Component Skills
 
 tagCompSkillA001Name=酸性打击
-tagCompSkillA001Desc=Lash out at your opponent using corrosive acid, melting through even the toughest defenses.
+tagCompSkillA001Desc=以腐蚀性的酸液猛击敌人，即使是最坚固的铠甲也将被融化。
 
-tagCompSkillA002Name=Aether Tendril
-tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
+tagCompSkillA002Name=虚化藤蔓
+tagCompSkillA002Desc=向敌人施放一道纯粹的虚化能量。
 
-tagCompSkillA003Name=Banish
-tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
+tagCompSkillA003Name=放逐
+tagCompSkillA003Desc=用武器击打，毁灭虚灵生物。
 
 tagCompSkillA004Name=破甲光环 I
-tagCompSkillA004Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA004Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
-tagCompSkillA005Name=Blade Ward I
-tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating against your attackers in kind.
+tagCompSkillA005Name=剑刃守卫 I
+tagCompSkillA005Desc=增强护甲对穿刺攻击的防御，同样反击穿刺攻击。
 
-tagCompSkillA006Name=Blade Ward II
-tagCompSkillA006Desc=Imbue your armor against piercing attacks, retaliating against your attackers in kind.
+tagCompSkillA006Name=剑刃守卫 II
+tagCompSkillA006Desc=灌注给护甲对穿刺攻击的防御力，同样反击穿刺攻击。
 
 tagCompSkillA007Name=饮血者 I
-tagCompSkillA007Desc=Empower your attacks with vampiric energy.
+tagCompSkillA007Desc=以吸血鬼的能量增强你的攻击。
 
 tagCompSkillA008Name=饮血者 II
-tagCompSkillA008Desc=Empower your attacks with vampiric energy.
+tagCompSkillA008Desc=以吸血鬼的能量增强你的攻击。
 
 tagCompSkillA009Name=混沌之箭
-tagCompSkillA009Desc=Unleashe a bolt of chaotic energies at the target.
+tagCompSkillA009Desc=对目标施放混沌闪电。
 
 tagCompSkillA010Name=死寒光环 I
-tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA010Desc=以死寒增强你和盟友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA011Name=斩杀 I
 tagCompSkillA011Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
@@ -1177,29 +1192,29 @@ tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coat
 tagCompSkillA023Name=剧毒炸弹 II
 tagCompSkillA023Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
 
-tagCompSkillA024Name=Radiant Shield
+tagCompSkillA024Name=辐光之盾
 tagCompSkillA024Desc=Imbue your shield against the elements.
 
-tagCompSkillA025Name=Sacred Strike
+tagCompSkillA025Name=神圣打击
 tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
 
-tagCompSkillA026Name=Shield Slam I
+tagCompSkillA026Name=盾牌猛击 I
 tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillA027Name=Shield Spike
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^oRequires a melee weapon.
+tagCompSkillA027Name=刺盾
+tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^o需 要 一 把 近 战 武 器 。
 
-tagCompSkillA028Name=Silver Edge
-tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
+tagCompSkillA028Name=银之刀锋
+tagCompSkillA028Desc=用武器击打，毁灭冥灵生物。
 
 tagCompSkillA029Name=猛击 I
-tagCompSkillA029Desc=Slam your enemy with an overpowering blow.
+tagCompSkillA029Desc=以压倒性的一击猛击你的敌人。
 
 tagCompSkillA030Name=猛击 II
-tagCompSkillA030Desc=Slam your enemy with an overpowering blow.
+tagCompSkillA030Desc=以压倒性的一击猛击你的敌人。
 
 tagCompSkillA031Name=破甲光环 II
-tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA031Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
 tagCompSkillA032Name=虚化光环
 tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
@@ -1210,13 +1225,13 @@ tagCompSkillA033Desc=Strike at your enemies with the destructive power of the vo
 tagCompSkillA034Name=盾牌猛击 II
 tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillB001Name=恶魔之火
-tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
+tagCompSkillB001Name=恶魔吐息
+tagCompSkillB001Desc=Launch a blastwave of unearthly flame at your enemies.
 
 tagCompSkillB002Name=贝若纳斯之怒
 tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
 
-tagCompSkillB003Name=Silver Spread
+tagCompSkillB003Name=银弹飞散
 tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
 
 tagCompSkillB004Name=德里格的无尽凝视
@@ -1233,73 +1248,73 @@ tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and cr
 
 #Relic Skills
 
-tagRelicSkillB001Name=Calamity
+tagRelicSkillB001Name=灾虐
 tagRelicSkillB001Desc=A burst of searing brimstones erupts from you.
 
-tagRelicSkillB002Name=Rapid Strike
+tagRelicSkillB002Name=快速打击
 tagRelicSkillB002Desc=Begin rapidly attacking in the hopes of landing a few stray blows.
 
-tagRelicSkillB003Name=Tranquility
+tagRelicSkillB003Name=宁静
 tagRelicSkillB003Desc=Overwhelm nearby enemies with your mind.
 
-tagRelicSkillB004Name=Ice Surge
+tagRelicSkillB004Name=寒冰巨浪
 tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice .
 
-tagRelicSkillB005Name=Lightning Storm
+tagRelicSkillB005Name=闪电风暴
 tagRelicSkillB005Desc=Summon a storm cloud over the target area, periodically electrocuting enemies caught underneath it.
 
-tagRelicSkillB006Name=Volcanic Fury
+tagRelicSkillB006Name=火山之怒
 tagRelicSkillB006Desc=Fills you with fiery fury, causing your attacks to ignite enemies.
 
-tagRelicSkillB007Name=Corruption
+tagRelicSkillB007Name=腐化
 tagRelicSkillB007Desc=Corrupts your blood, causing it to spread a deadly contagion to those that dare strike you.
 
-tagRelicSkillB008Name=Sanctuary
+tagRelicSkillB008Name=庇护
 tagRelicSkillB008Desc=A protective barrier forms around you whenever an enemy manages to find a weak point in your defenses.
 
-tagRelicSkillB009Name=Guile
+tagRelicSkillB009Name=诡诈
 tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillB010Name=Rampage
+tagRelicSkillB010Name=狂暴
 tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
 
-tagRelicSkillB011Name=Troll Rage
+tagRelicSkillB011Name=巨魔之怒
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
 
-tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Name=毁伤
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^o这 是 一 项 近 战 双 持 技 能 ， 也 会 激 活 双 持 近 战 武 器 的 能 力 。
 
-tagRelicSkillB013Name=Volley
+tagRelicSkillB013Name=齐射
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
 
-tagRelicSkillC001Name=Gavel of Justice
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^Requires a two-handed melee weapon.
+tagRelicSkillC001Name=制裁之锤
+tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
 
-tagRelicSkillC002Name=Living Fortress
-tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oRequires a shield.
+tagRelicSkillC002Name=移动城堡
+tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^o需 要 一 块 盾 牌。
 
-tagRelicSkillC003Name=Bloodbath
-tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillC003Name=浴血
+tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
-tagRelicSkillC004Name=Unstoppable
+tagRelicSkillC004Name=勇不可当
 tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
 
-tagRelicSkillC005Name=Terror
+tagRelicSkillC005Name=恐惧
 tagRelicSkillC005Desc=Instill sheer terror into the hearts of your enemies, eating away at them from within.
 
-tagRelicSkillC006Name=Torment
+tagRelicSkillC006Name=苦痛
 tagRelicSkillC006Desc=Invoke a terrible curse upon any that would dare strike you, causing weakness and intense pain.
 
-tagRelicSkillC007Name=Haunt
+tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
-tagRelicSkillC008Name=Conflagration
+tagRelicSkillC008Name=爆炎
 tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
 
-tagRelicSkillC009Name=Summon Stormhound
+tagRelicSkillC009Name=召唤风暴魔犬
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.
 
-tagRelicSkillC010Name=Deathchill Aura
+tagRelicSkillC010Name=死寒光环
 tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillC011Name=牺牲
@@ -1308,38 +1323,38 @@ tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks 
 tagRelicSkillC012Name=热忱
 tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oRequires a melee weapon.
 
-tagRelicSkillC013Name=Desolation
+tagRelicSkillC013Name=荒芜
 tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
 tagRelicSkillC013Desc2=Destroy the earth beneath your feet with destructive static force.
 
-tagRelicSkillC014Name=Blight
+tagRelicSkillC014Name=枯萎
 tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
 
-tagRelicSkillC015Name=Ancestral Bond
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillC015Name=先祖的羁绊
+tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此 技 能 需 要 开 启 以 保 持 生 效
 
-tagRelicSkillD001Name=Aegis
+tagRelicSkillD001Name=守护
 tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
 
-tagRelicSkillD002Name=Malediction
+tagRelicSkillD002Name=诅咒
 tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD003Name=召唤复仇女神
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
 
-tagRelicSkillD004Name=Citadel
+tagRelicSkillD004Name=堡垒
 tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
 
 tagRelicSkillD005Name=风暴召唤者光环
 tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillD006Name=Reckoning
+tagRelicSkillD006Name=清算
 tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
 
-tagRelicSkillD007Name=Scourge Strike
+tagRelicSkillD007Name=天灾打击
 tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
 
-tagRelicSkillD008Name=Pyroclasm
+tagRelicSkillD008Name=火焰冲撞
 tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
 
 tagRelicSkillD009Name=坏死
@@ -1351,8 +1366,8 @@ tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agr
 tagRelicSkillD011Name=湮灭
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
 
-tagRelicSkillD012Name=Carnage
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a dual-wielding technique.
+tagRelicSkillD012Name=杀戮
+tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a melee dual-wielding technique.
 
 tagRelicSkillD013Name=陨石
 tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
@@ -1363,10 +1378,10 @@ tagRelicSkillD014Desc=Unleash the combined energy of the blows absorbed by your 
 tagRelicSkillD015Name=虫群之心
 tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth a Swarmling to your aid.
 
-tagRelicSkillD016Name=毁灭
+tagRelicSkillD016Name=屠杀
 tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
 
-tagRelicSkillD017Name=Dreeg's Afflicted Spines
+tagRelicSkillD017Name=德里格的痛苦尖刺
 tagRelicSkillD017Desc=Unleash a ring of Dreeg's poisonous spines upon your unsuspecting foes, infecting them with the great one's blood.
 
 tagRelicSkillD018Name=狂热献身
@@ -1429,14 +1444,14 @@ tagConsumableSkill_A21Desc=圣 光 充 盈 你 的 身 体 。
 
 #SkillsGeneral
 
-MasteriesAvailable=从{%d0}个额外专精栏中选择
-NoMasteriesAvailable=无可用的额外专精栏
-SkillPointsAvailable=可用技能点数：{%d0}
-SkillPointsAvailableSingular=可用技能点数：{%d0}
-NoSkillPointsAvailable=可用技能点数：0
-DevotionPointsAvailable=可用点数：{%d0}
-DevotionPointsAvailableSingular=可用点数：{%d0}
-NoDevotionPointsAvailable=可用点数：0
+MasteriesAvailable=从 {%d0} 个 额 外 专 精 栏 中 选 择
+NoMasteriesAvailable=无 可 用 的 额 外 专 精 栏
+SkillPointsAvailable=可 用 技 能 点 数 ： {%d0}
+SkillPointsAvailableSingular=可 用 技 能 点 数 ： {%d0}
+NoSkillPointsAvailable=可 用 技 能 点 数 ： 0
+DevotionPointsAvailable=可 用 点 数 ： {%d0}
+DevotionPointsAvailableSingular=可 用 点 数 ： {%d0}
+NoDevotionPointsAvailable=可 用 点 数 ： 0
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=锤与砧
@@ -1455,7 +1470,7 @@ tagDevotionBat=蝙蝠
 tagDevotionSpear=天堂之戟
 tagDevotionOleron=奥莱隆
 tagDevotionBear=熊罴
-tagDevotionUlzuin=乌尔祖因的火炬
+tagDevotionUlzuin=奥祖因的火炬
 tagDevotionDyingGod=垂死之神
 tagDevotionMagi=魔导师
 tagDevotionAssassin=暗杀者
@@ -1463,19 +1478,19 @@ tagDevotionAkeron=阿克隆的蝎尾
 
 #SkillsReallocator
 
-tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
-tagReallocateError02=金钱不足。
-tagReallocateError03=不能从专精中撤销点数。
-tagDecreaseMasteryError=不能从专精中撤销点数。
-tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-})
-tagRemovePoint=左键点击来移除专精点数
-tagReclaimBase=先移除其延伸技能才能移除该技能
-tagRemoveBase=无法移除专精点数
-tagReclaimNoPoints=没有技能点数可以撤销
-tagRemoveNoPoints=没有点数可以移除
-tagReclaimNoGold=金钱不足(费用{^y}{%t0}{^r})
-tagReallocateTitle=技能重置
-tagReallocationDescription=点击技能图标会移除一个技能点，每移除一个加点费用都会随之增加。
+tagReallocateError01=在 完 全 撤 销 该 技 能 加 点 之 前 你 必 须 先 撤 销 其 所 有 延 伸 技 能 的 加 点 。
+tagReallocateError02=金 钱 不 足 。
+tagReallocateError03=不 能 从 专 精 中 撤 销 点 数 。
+tagDecreaseMasteryError=不 能 从 专 精 中 撤 销 点 数 。
+tagReclaimPoint=点 击 以 撤 销 加 点(费 用{^y}{%t0}{^-})
+tagRemovePoint=左 键 点 击 来 移 除 专 精 点 数
+tagReclaimBase=先 移 除 其 延 伸 技 能 才 能 移 除 该 技 能
+tagRemoveBase=无 法 移 除 专 精 点 数
+tagReclaimNoPoints=没 有 技 能 点 数 可 以 撤 销
+tagRemoveNoPoints=没 有 点 数 可 以 移 除
+tagReclaimNoGold=金 钱 不 足(费 用{^y}{%t0}{^r})
+tagReallocateTitle=技 能 重 置
+tagReallocationDescription=点 击 技 能 图 标 会 移 除 一 个 技 能 点 ， 每 移 除 一 个 加 点 费 用 都 会 随 之 增 加 。
 
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me

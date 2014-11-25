@@ -1,10 +1,10 @@
 #装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4} 汉化时需要调整顺序
 
-tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
+tagItemNameOrder={%s4}{%s0}{%s1}{%s2}{%s3}
 
 #武器
 
-tagWeaponSwordA000=匕首
+tagWeaponSwordA000=刺刀
 tagWeaponSwordA001=罗马短剑
 tagWeaponSwordA002=剃刀
 tagWeaponSwordA003=短剑
@@ -42,11 +42,11 @@ tagWeaponSwordC008Desc=“当 仅 仅 贿 赂 政 敌 已 不 足 以 解 决 �
 tagWeaponSwordC009=火焰烙印
 tagWeaponSwordC010=窃魂者
 tagWeaponSwordC011=燃冰
-tagWeaponSwordC012=礼仪切刀
+tagWeaponSwordC012=
 tagWeaponSwordC013=暗杀者的召唤
 tagWeaponSwordC013Desc=“这 把 剑 嵌 入 了 一 小 瓶 能 引 起 麻 痹 并 最 终 致 死 的 毒 液 。”
 tagWeaponSwordC014=眼盲刺客的剃刀
-tagWeaponSwordC015=圣约的血匕首
+tagWeaponSwordC015=
 tagWeaponSwordC016=威利的剃刀
 tagWeaponSwordC016Desc=“刀 刃 怎 么 砍 也 不 会 钝 。”
 
@@ -74,7 +74,7 @@ tagWeaponBluntA006=战仪杖
 tagWeaponBluntA007=刃锤
 tagWeaponBluntA008=大头棒
 tagWeaponBluntA009=战锤
-tagWeaponBluntA010=节杖
+tagWeaponBluntA010=权杖
 
 tagWeaponBluntB000=火炬
 tagWeaponBluntB001=典狱长的裁决
@@ -86,7 +86,7 @@ tagWeaponBluntB005=幽光晨星锤
 tagWeaponBluntB006=幽光大头棒
 tagWeaponBluntB007=基尔利安的碎颅锤
 tagWeaponBluntB008=斯金纳的火炬
-tagWeaponBluntB008Desc=“一 个 绝 望 之 人 的 最 后 一 线 希 望 ……”
+tagWeaponBluntB008Desc=“一 位 绝 望 之 人 的 最 后 一 线 希 望 ……”
 tagWeaponBluntB009=专家级刃锤
 tagWeaponBluntB010=专家级晨星锤
 tagWeaponBluntB011=专家级凸缘钉头锤
@@ -106,13 +106,14 @@ tagWeaponBluntC009=抗争
 tagWeaponBluntC009Desc=“人 类 适 应 能 力 的 化 身 。”
 tagWeaponBluntC010=虚化钢铁仲裁锤
 tagWeaponBluntC011=眼盲刺客之拳
+tagWeaponBluntC012=碎骨锤
 
 tagWeaponBluntD001=死亡之兆
 tagWeaponBluntD001Desc=“死 亡 到 来 的 预 兆 。”
 tagWeaponBluntD002=冬幕节的烟火
 tagWeaponBluntD003=痛苦
 tagWeaponBluntD004=末日使者
-tagWeaponBluntD004Desc=“谣 传 是 它 在 恐 怖 黎 明 开 始 时 撕 裂 出 第 一 道 裂 缝 之 门 。”
+tagWeaponBluntD004Desc=“传 说 是 它 在 恐 怖 黎 明 开 始 时 撕 裂 出 第 一 道 裂 缝 之 门 。”
 tagWeaponBluntD005=德里格之瘟疫
 tagWeaponBluntD005Desc=“承 载 着 巫 神 德 里 格 的 七 种 天 灾 。”
 tagWeaponBluntD006=破晓巨锤
@@ -276,7 +277,7 @@ tagWeaponCrossbow2hC008=拜斯迈的悲惨乌鸦之弩
 tagWeaponCrossbow2hC008Desc=“俾 斯 麦 尔 的 虔 诚 追 随 者 所 用 的 标 志 性 武 器 。”
 tagWeaponCrossbow2hC009=尤达·贾克斯
 tagWeaponCrossbow2hC009Desc=“山 地 野 人 的 武 器 ， 工 艺 粗 糙 ， 却 好 用 的 得 令 人 感 到 吃 惊 。”
-tagWeaponCrossbow2hC010=使者的保卫者
+tagWeaponCrossbow2hC010=火花劲弩
 
 tagWeaponCrossbow2hD001=银箭
 tagWeaponCrossbow2hD001Desc=“恶 魔 猎 人 嗜 血 的 伊 迪 斯 选 用 了 这 把 武 器 ， 昔 日 冥 神 的 狂 热 信 徒 变 成 了 屠 魔 者 。”
@@ -305,9 +306,9 @@ tagWeaponMelee2hB002=巨魔碎颅者
 tagWeaponMelee2hB003=凶蛮巨斧
 tagWeaponMelee2hB004=凶蛮切肉斧
 tagWeaponMelee2hB005=凶蛮斩首斧
-tagWeaponMelee2hB006=阿卡摩斯之镰
+tagWeaponMelee2hB006=阿卡莫斯之镰
 tagWeaponMelee2hB007=幽光战斧
-tagWeaponMelee2hB008=阿卡摩斯战剑
+tagWeaponMelee2hB008=阿卡莫斯战剑
 tagWeaponMelee2hB009=幽光战锤
 
 tagWeaponMelee2hC001=残暴开膛者
@@ -348,6 +349,61 @@ tagWeaponMelee2hD007Desc=“北方边境统治者，白狼之子，霍思纳尔�
 tagWeaponMelee2hD008=时光弧形刃
 tagWeaponMelee2hD009=蛮血粉碎者
 
+tagWeaponCaster1hA001=魔杖
+tagWeaponCaster1hA002=权杖
+tagWeaponCaster1hA003=奥术魔杖
+tagWeaponCaster1hA004=奥术权杖
+tagWeaponCaster1hA005=仪式魔杖
+tagWeaponCaster1hA006=仪式权杖
+tagWeaponCaster1hA007=尊崇权杖
+tagWeaponCaster1hA008=祭祀刀
+tagWeaponCaster1hA009=符文匕首
+tagWeaponCaster1hA010=奥术匕首
+tagWeaponCaster1hA011=魔刃
+tagWeaponCaster1hA012=奥术剑
+tagWeaponCaster1hA013=仪式匕首
+tagWeaponCaster1hA014=仪式剑
+tagWeaponCaster1hA015=尊崇匕首
+
+
+tagWeaponCaster1hB001=专家级匕首
+tagWeaponCaster1hB002=专家级魔刃
+tagWeaponCaster1hB003=大师级魔刃
+tagWeaponCaster1hB004=专家级魔杖
+tagWeaponCaster1hB005=专家级权杖
+tagWeaponCaster1hB006=大师级权杖
+
+tagWeaponCaster1hC001=怒火焚身
+tagWeaponCaster1hC002=咒火魔杖
+tagWeaponCaster1hC003=寒心权杖
+tagWeaponCaster1hC004=风暴召唤者的魔刃
+tagWeaponCaster1hC004_Desc=“剑 刃 闪 耀 着 能 量 ， 对 能 量 渴 求 永 无 止 境 。”
+tagWeaponCaster1hC005=虚空魔刃
+tagWeaponCaster1hC006=血瘟刻刀
+tagWeaponCaster1hC007=魂之刻刀
+tagWeaponCaster1hC007_Desc=“据 说 这 把 刀 不 仅 切 割 肉 体 ， 还 能 伤 及 灵 魂 。”
+tagWeaponCaster1hC008=科托西安召唤者
+tagWeaponCaster1hC008_Desc=“科 托 西 安 的 大 师 们 在 施 展 奥 术 时 偏 爱 使 用 的 武 器 。”
+tagWeaponCaster1hC009=骤霜
+tagWeaponCaster1hC010=生命之索
+tagWeaponCaster1hC011=火花之石权杖
+tagWeaponCaster1hC012=烈焰风暴权杖
+tagWeaponCaster1hC013=天之裂片
+tagWeaponCaster1hC013_Desc=“以 陨 星 之 核 锻 造 而 成 。”
+tagWeaponCaster1hC014=内拉瓦的污染之剑
+tagWeaponCaster1hC014_Desc=“内 拉 瓦 曾 是 一 位 医 生 ， 他 着 迷 于 治 疗 一 种 致 命 的 消 耗 病 。 但 当 他 染 上 这 种 疾 病 之 后 ， 疯 狂 的 追 求 促 使 他 杀 了 几 十 个 无 辜 的 人 。 最 后 他 因 犯 下 这 种 罪 行 而 被 绞 死 。”
+tagWeaponCaster1hC015=恶魔之血
+tagWeaponCaster1hC016=织法者
+tagWeaponCaster1hC016_Desc=“如 同 穿 针 引 线 一 般 ， 在 现 实 世 界 编 织 出 虚 化 之 力 。”
+tagWeaponCaster1hC017=荒石唤魔者
+tagWeaponCaster1hC018=宇宙唤魔者
+tagWeaponCaster1hC019=驾驭风暴
+tagWeaponCaster1hC020=仪式切刀
+tagWeaponCaster1hC021=寒冰降生魔刃
+tagWeaponCaster1hC022=圣约的血匕首
+
+tagWeaponCaster1hD001=
+
 
 tagWeaponArcaneA001=粗制法杖
 tagWeaponArcaneA002=木节法杖
@@ -372,13 +428,13 @@ tagShieldA003=斗盾
 tagShieldA004=塔盾
 tagShieldA005=防暴盾
 tagShieldA006=战盾
-tagShieldA007=圣盾
+tagShieldA007=神盾
 tagShieldA008=轻圆盾
 tagShieldA009=步兵盾
 tagShieldA010=鸢盾
 
 tagShieldB001=典狱长的壁垒
-tagShieldB001Desc="用 硬 化 钢 与 无 情 仇 恨 锻 造 而 成 。"
+tagShieldB001Desc=“用 硬 化 钢 与 无 情 仇 恨 锻 造 而 成 。”
 tagShieldB002=典狱长的堡垒
 tagShieldB003=幽光盾
 tagShieldB004=幽光战盾
@@ -386,15 +442,15 @@ tagShieldB005=军用盾
 tagShieldB006=攻城盾
 tagShieldB007=君权盾
 
-tagShieldC001=魔鬼路口防御者
+tagShieldC001=恶魔十字防御者
 tagShieldC002=源质
-tagShieldC002Desc="获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。"
+tagShieldC002Desc=“获 得 曼 海 尔 的 圣 殿 骑 士 的 祝 福 ，作 为 抵 御 元 素 的 堡 垒 。”
 tagShieldC003=帝国卫兵的防御者
 tagShieldC004=火焰破坏者
 tagShieldC005=魔鬼笑容
 tagShieldC006=野兽之喉
-tagShieldC007=黑暗军团盾徽
-tagShieldC007Desc="由 帝 国 军 队 中 也 被 称 为 死 神 的 封 臣 的 黑 暗 军 团 所 持 有 。"
+tagShieldC007=黑色军团盾徽
+tagShieldC007Desc="由 帝 国 军 队 中 被 称 为 死 神 的 封 臣 的 黑 色 军 团 所 持 有 。"
 tagShieldC008=巫妖守卫
 tagShieldC009=黎明碎片壁垒
 tagShieldC009Desc=“以 最 纯 净 的 索 拉 丁 水 晶 碎 片 锻 造 而 成 。”
@@ -828,7 +884,7 @@ tagWaistC009=浴血腰链
 tagWaistC009Desc=“永 远 滴 着 鲜 血 。”
 tagWaistC010=先祖束腰
 tagWaistC011=痛苦腰链
-tagWaistC011Desc=“穿 上 这 件 腰 链 能 获 得 一 股 邪 力 ， 但 同 时 要 付 出 血 的 代 价 。”
+tagWaistC011Desc=“穿 上 这 件 腰 链 能 获 得 一 股 邪 力 ， 但 同 时 也 要 付 出 血 的 代 价 。”
 tagWaistC012=战争之路束腰
 tagWaistC013=神射手的弹药腰带
 
@@ -842,7 +898,7 @@ tagWaistD006=窃梦束腰
 tagWaistD007=破法护腰
 tagWaistD007Desc=“破 法 者 军 团 曾 穿 戴 的 腰 带 ， 他 们 是 从 曼 海 尔 的 圣 殿 骑 士 中 挑 选 出 来 的 。”
 tagWaistD008=幽魂丝线束腰
-tagWaistD008Desc=“受 诅 咒 的 灵 魂 缠 绕 于 魔 神 的 纺 锤 上 ，这 些 丝 线 织 成 了 这 件 束 腰 。”
+tagWaistD008Desc=“受 诅 咒 的 灵 魂 缠 绕 于 魔 神 的 纺 锤 上 ，这 件 束 腰 就 由 这 些 丝 线 编 织 而 成 。”
 tagWaistD009=野性之血束腰
 
 
@@ -1111,6 +1167,8 @@ tagNecklaceC023=冰封之心
 tagNecklaceC024=焦土护符
 tagNecklaceC025=瘟疫法师的护符
 tagNecklaceC026=天蓝碎片
+tagNecklaceC027=刀刃卫士的勇气
+tagNecklaceC028=曼海尔的碎片
 
 tagNecklaceD001=拜斯迈的意志
 tagNecklaceD002=死亡之痕
@@ -1217,7 +1275,7 @@ tagBlueprint_RelicD004=设计图：遗物 - 要塞
 tagBlueprint_RelicD005=设计图：遗物 - 风暴之眼
 tagBlueprint_RelicD006=设计图：遗物 - 清算
 tagBlueprint_RelicD007=设计图：遗物 - 天灾
-tagBlueprint_RelicD008=设计图：遗物 - 乌尔祖因的烈火
+tagBlueprint_RelicD008=设计图：遗物 - 奥祖因的烈火
 tagBlueprint_RelicD009=设计图：遗物 - 坏死
 tagBlueprint_RelicD010=设计图：遗物 - 阿格拉维斯的恶怨
 tagBlueprint_RelicD011=设计图：遗物 - 遗忘
@@ -1225,11 +1283,11 @@ tagBlueprint_RelicD012=设计图：遗物 - 贝尔戈蒂安的屠戮
 tagBlueprint_RelicD013=设计图：遗物 - 湮灭
 tagBlueprint_RelicD014=设计图：遗物 - 复仇者
 tagBlueprint_RelicD015=设计图：遗物 - 原始本能
-tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的毁灭
+tagBlueprint_RelicD016=设计图：遗物 - 索拉尔的屠杀
 tagBlueprint_RelicD017=设计图：遗物 - 德里格的灾祸
 tagBlueprint_RelicD018=设计图：遗物 - 拜斯迈的主宰
 tagBlueprint_RelicD019=设计图：遗物 - 奥莱隆之怒
-tagBlueprint_RelicD020=设计图：遗物 - 曼海尔的堡垒
+tagBlueprint_RelicD020=设计图：遗物 - 曼海尔的壁垒
 
 tagBlueprint_ComponentA01=设计图：虚化之魂
 tagBlueprint_ComponentA02=设计图：弹痕甲片
@@ -1289,12 +1347,20 @@ tagBlueprint_WeaponB021=设计图：霰弹手枪
 tagBlueprint_WeaponB022=设计图：专家级刃锤
 tagBlueprint_WeaponB023=设计图：专家级晨星锤
 tagBlueprint_WeaponB024=设计图：专家级凸缘钉头锤
+tagBlueprint_WeaponB025=设计图：专家级魔杖
+tagBlueprint_WeaponB026=设计图：专家级权杖
+tagBlueprint_WeaponB027=设计图：大师级权杖
+tagBlueprint_WeaponB028=设计图：专家级匕首
+tagBlueprint_WeaponB029=设计图：专家级魔刃
+tagBlueprint_WeaponB030=设计图：大师级魔刃
 
 tagBlueprint_WeaponC001=设计图：辟邪
 tagBlueprint_WeaponC002=设计图：鹰眼
 tagBlueprint_WeaponC003=设计图：风暴边缘
 tagBlueprint_WeaponC004=设计图：预兆之剑
 tagBlueprint_WeaponC005=设计图：震颤
+tagBlueprint_WeaponC006=设计图：咒火魔杖
+tagBlueprint_WeaponC007=设计图：火焰风暴权杖
 
 tagBlueprint_ArmorB001=设计图：专家级靴子
 tagBlueprint_ArmorB002=设计图：专家级护胫
@@ -1340,7 +1406,7 @@ tagRelicB004Desc=“心 如 铁 石 ， 冷 若 冰 霜 。”
 tagRelicB005=暴风
 tagRelicB005Desc=“安 克 维 亚 的 天 空 之 神 尤 尔 托 斯 的 狂 暴 灵 魂 。”
 tagRelicB006=炼狱
-tagRelicB006Desc=“包 含 着 乌 尔 祖 因 的 复 仇 之 力 。”
+tagRelicB006Desc=“包 含 着 奥 祖 因 的 复 仇 之 力 。”
 tagRelicB007=腐化
 tagRelicB007Desc=“凯 恩 世 界 所 遭 受 磨 难 的 证 明 。”
 tagRelicB008=庇护
@@ -1357,6 +1423,8 @@ tagRelicB013=快枪手护符
 tagRelicB013Desc=“能 够 同 时 手 持 两 把 手 枪 进 行 精 准 射 击 的 象 征 。”
 tagRelicB014=骸骨护符
 tagRelicB014Desc=“这 枚 骨 片 上 镌 刻 着 象 征 流 浪 者 精 神 力 量 的 话 语 和 符 号 。”
+tagRelicB015=象牙护符
+tagRelicB016=神圣护符
 
 tagRelicC001=仲裁
 tagRelicC001Desc=“公 平 正 义 ， 一 视 同 仁 和 不 偏 不 倚 ……”
@@ -1373,7 +1441,7 @@ tagRelicC006Desc=“一 件 来 自 安 克 维 亚 苦 痛 阶 梯 的 纪 念 
 tagRelicC007=噬魂
 tagRelicC007Desc=“渴 望 进 入 人 世 的 不 灭 魂 灵 。”
 tagRelicC008=爆炎
-tagRelicC008Desc=“乌 尔 祖 因 之 吐 息 。”
+tagRelicC008Desc=“奥 祖 因 之 吐 息 。”
 tagRelicC009=野性
 tagRelicC009Desc=“接 受 野 性 的 呼 唤 。”
 tagRelicC010=死寒
@@ -1403,7 +1471,7 @@ tagRelicD006=清算
 tagRelicD006Desc=“受 汝 一 击 ， 千 倍 奉 还 。”
 tagRelicD007=天灾
 tagRelicD007Desc=“我 无 惧 死 神 ， 因 为 我 就 是 死 亡 的 化 身 。”
-tagRelicD008=乌尔祖因的烈火
+tagRelicD008=奥祖因的烈火
 tagRelicD008Desc=“以 真 火 洗 濯 这 个 世 界 。”
 tagRelicD009=坏死
 tagRelicD009Desc=“到 了 末 日 那 天 ， 我 们 将 共 享 同 样 的 命 运 。”
@@ -1419,7 +1487,7 @@ tagRelicD014=复仇者
 tagRelicD014Desc=“没 错 ， 你 重 重 地 给 了 我 一 击 ， 不 过 我 才 会 笑 到 最 后 。”
 tagRelicD015=原始本能
 tagRelicD015Desc=“前 进 吧 ， 我 的 仆 从 。 是 时 候 享 用 你 的 盛 宴 了 ……”
-tagRelicD016=索拉尔的毁灭
+tagRelicD016=索拉尔的屠杀
 tagRelicD016Desc=“他 们 说 没 人 能 驾 驭 如 此 强 大 的 力 量 ， 所 以 我 将 不 再 为 人 。”
 tagRelicD017=德里格的灾祸
 tagRelicD017Desc=“他 们 不 让 你 知 道 的 绝 密 是 ： 生 命 孱 弱 无 比 本 是 个 谬 误 。”
@@ -1427,7 +1495,7 @@ tagRelicD018=拜斯迈的主宰
 tagRelicD018Desc=“看 看 他 们 ， 这 些 渺 小 的 玩 偶 都 在 我 看 不 见 的 线 绳 中 亦 步 亦 趋 。”
 tagRelicD019=奥莱隆之怒
 tagRelicD019Desc0=“鲜 血 …… 痛 苦 …… 死 亡 。 和 无 法 抗 拒 的 隆 隆 战 鼓 声 。”
-tagRelicD020=曼海尔的堡垒
+tagRelicD020=曼海尔的壁垒
 tagRelicD020Desc=“大 地 不 会 忍 受 什 么 邪 灵 或 是 嗜 血 异 教 徒 ， 奋 起 抗 争 保 卫 她 ， 凯 恩 世 界 也 将 与 你 同 在 。”
 
 
@@ -1455,10 +1523,12 @@ tagCraftMaterial_BloodChthon=冥神之血
 tagCraftMaterial_BloodChthon_Desc=“虚 空 之 神 凝 聚 的 本 体 。”
 tagCraftMaterial_AncientHeart=远古之心
 tagCraftMaterial_AncientHeart_Desc=“它 仍 在 你 的 袋 中 以 令 人 惊 骇 的 稳 定 频 率 勃 动 着 。”
-tagCraftMaterial_Manticore=蝎尾狮之眼(第三章才有)
+tagCraftMaterial_Manticore=蝎尾狮之眼
 tagCraftMaterial_Mancitore_Desc=“强 大 掠 食 者 的 锐 眼 。”
 tagCraftMaterial_SkeletonKey=骸骨之钥
 tagCraftMaterial_SkeletonKey_Desc=“如 果 传 言 是 真 的 ， 那 么 这 枚 钥 匙 将 能 开 启 几 乎 任 何 一 扇 远 古 之 门 。”
+tagCraftMaterial_CultistSeal=冥灵魔印
+tagCraftMaterial_CultistSeal_Desc=“冥 神 的 信 徒 使 用 这 种 魔 印 ， 来 将 强 大 的 生 物 召 唤 至 现 实 世 界 。”
 
 tagCraftRandomItemDesc=铁 匠 能 打 造 一 件 符 合 你 的 等 级 的 附 魔 装 备 ， 该 装 备 至 少 会 是 魔 法 品 质 的 。
 tagCraftComponentDesc=熟 练 的 锻 造 工 艺 能 出 产 高 品 质 的 材 料 。
@@ -1477,6 +1547,13 @@ tagCraftRandomGun1h=附魔单手枪械
 tagCraftRandomAxe2h=附魔双手斧
 tagCraftRandomBlunt2h=附魔双手钉锤
 tagCraftRandomSword2h=附魔双手剑
+tagCraftRandomCasterWeapon_01=附魔冰霜魔刃
+tagCraftRandomCasterWeapon_02=附魔火焰魔刃
+tagCraftRandomCasterWeapon_03=附魔强酸魔刃
+tagCraftRandomCasterWeapon_04=附魔闪电魔刃
+tagCraftRandomCasterWeapon_05=附魔活力魔刃
+tagCraftRandomCasterWeapon_06=附魔混沌魔刃
+tagCraftRandomCasterWeapon_07=附魔虚化魔刃
 
 tagCraftRandomRing=附魔戒指
 tagCraftRandomNecklace=附魔项链
@@ -1569,7 +1646,7 @@ tagConsumableA11Desc=“一 种 邪 恶 的 毒 剂 ， 能 引 起 目 标 大 
 tagConsumableA12=奥秘之油
 tagConsumableA12Desc=“吉 尔 达 姆 秘 学 社 使 用 的 混 合 药 剂 ， 旨 在 增 强 武 器 的 威 力 。”
 tagConsumableA13=先祖药剂
-tagConsumableA13Desc=“强 效 的 药 剂 ， 蕴 含 着 凯 恩 世 界 的 上 古 魔 兽 的 力 量 。”
+tagConsumableA13Desc=“强 效 的 药 剂 ， 蕴 含 着 凯 恩 世 界 上 古 魔 兽 的 力 量 。”
 tagConsumableA14=虚灵药剂
 tagConsumableA14Desc=“强 效 的 药 剂 ， 蕴 含 着 虚 化 之 力 。 ”
 tagConsumableA15=虚空药剂
@@ -1625,7 +1702,7 @@ tagCompA004Name=坚韧兽皮
 tagCompA004Desc=“一 块 厚 厚 的 兽 皮 ， 粗 糙 的 表 面 非 常 适 合 用 来 吸 收 突 如 其 来 的 冲 击 。 ”^w^n( 用 于 头 盔 )
 
 tagCompA005Name=符文之石
-tagCompA005Desc=“一 种 神 秘 的 符 文 灌 注 在 这 块 石 头 之 中 。 ”^w^n( 用 于 手 套 )
+tagCompA005Desc=“一 种 神 秘 的 符 文 灌 注 在 这 块 石 头 之 中 。 ”^w^n( 用 于 头 盔 )
 
 tagCompA006Name=突变脓水
 tagCompA006Desc=“从 感 染 了 异 世 界 能 量 的 生 物 身 上 取 得 。 ”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
@@ -1839,7 +1916,7 @@ tagCompB013Name=^k魂铁
 tagCompB013Desc=“禁 锢 其 中 的 魂 灵 让 你 满 脑 子 都 是 疯 狂 的 私 语 。”^w^n( 用 于 所 有 武 器 ， 盾 牌 和 副 手 )
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc=“虽 然 只 是 传 说 中 的 神 剑 贝 若 纳 斯 的 一 片 碎 片 ， 但 仍 残 留 着 强 大 的 力 量 。”^w^n( 用 于 斧 和 剑 )
+tagCompB014Desc=“虽 然 只 是 传 说 中 的 神 剑 贝 若 纳 斯 的 一 片 碎 片 ， 但 仍 残 留 着 强 大 的 力 量 。”^w^n( 用 于 近 战 武 器 )
 
 tagCompB015Name=^k血腥磨石
 tagCompB015Desc=“浸 透 在 堕 落 之 血 中 ， 这 块 被 诅 咒 的 磨 刀 石 将 引 发 兵 刃 对 鲜 血 无 比 的 饥 渴  。”^w^n( 用 于 斧 和 剑 )
@@ -1917,7 +1994,7 @@ tagBonusAttribPoint={%+d0} 属性点数
 
 
 tagItemSetC001Name=帝国卫兵的戎装
-tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 兼 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 惧 黎 明 之 后 留 存 无 几 。”
+tagItemSetC001Desc=“曾 经 是 这 些 和 平 卫 士 兼 皇 家 护 卫 的 标 准 装 备 ， 这 种 套 装 在 恐 怖 黎 明 发 生 之 后 留 存 无 几 。”
 
 tagItemSetC002Name=探险家的服饰
 tagItemSetC002Desc=“轻 便 且 耐 用 的 护 甲 ， 为 渴 望 探 险 的 人 而 准 备 。”
@@ -1949,7 +2026,7 @@ tagItemSetC010Desc=“大 师 级 枪 手 珍 藏 的 利 器 ，能 命 中 500
 tagItemSetC011Name=不洁圣约
 tagItemSetC011Desc=“教 团 在 隐 秘 的 仪 式 中 穿 着 的 华 服 。”
 
-tagItemSetC012Name=皇家奢华
+tagItemSetC012Name=皇家的奢华
 tagItemSetC012Desc=“被 认 为 遗 失 在 恐 怖 黎 明 劫 掠 中 的 皇 家 珠 宝 收 藏 品 。”
 
 tagItemSetC013Name=毁誓者
@@ -1974,7 +2051,7 @@ tagItemSetC019Name=瘴气
 tagItemSetC019Desc=“受 到 德 里 格 选 召 之 辈 所 穿 戴 的 服 饰 。”
 
 tagItemSetC020Name=硫磺
-tagItemSetC020Desc=“乌 尔 祖 因 虔 诚 的 信 徒 所 使 用 的 武 器 和 甲 胄 。”
+tagItemSetC020Desc=“奥 祖 因 虔 诚 的 信 徒 所 使 用 的 武 器 和 甲 胄 。”
 
 tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc=“曼 海 尔 的 卫 士 中 的 大 审 判 官 ， 沉 默 的 霍 瓦 德 的 盔 甲 。”
@@ -2024,7 +2101,7 @@ tagPrefixAA010=健壮
 
 tagPrefixAA011=战士的
 tagPrefixAA012=爆破者的
-tagPrefixAA013=术士的
+tagPrefixAA013=神秘学者的
 tagPrefixAA014=夜刃的
 tagPrefixAA015=奥术师的
 
@@ -2142,15 +2219,15 @@ tagPrefixB029_Ar_A=将军
 tagPrefixB030_Ar_A=冰川
 tagPrefixB031_Ar_A=雷击
 
-tagPrefixB001_Class_A=突击司令的
+tagPrefixB001_Class_A=突击者的
 tagPrefixB002_Class_A=巫师之刃的
-tagPrefixB003_Class_A=剑术大师的
+tagPrefixB003_Class_A=剑圣的
 tagPrefixB004_Class_A=战斗法师的
 tagPrefixB005_Class_A=烈焰术士的
-tagPrefixB006_Class_A=破坏之王的
+tagPrefixB006_Class_A=破坏者的
 tagPrefixB007_Class_A=夺命煞星的
 tagPrefixB008_Class_A=魔法猎人的
-tagPrefixB009_Class_A=奥法术士的
+tagPrefixB009_Class_A=术士的
 tagPrefixB010_Class_A=暗夜行者的
 tagPrefixB011_Class_A=战士的
 tagPrefixB012_Class_A=纵火者的
@@ -2159,16 +2236,16 @@ tagPrefixB014_Class_A=刺客的
 tagPrefixB015_Class_A=法师的
 
 tagPrefixB001_Sh_A=恒定
-tagPrefixB002_Sh_A=看守者
+tagPrefixB002_Sh_A=看守者的
 tagPrefixB003_Sh_A=过载
-tagPrefixB004_Sh_A=时光术士
-tagPrefixB005_Sh_A=霸主
-tagPrefixB006_Sh_A=驯犬者
+tagPrefixB004_Sh_A=时光术士的
+tagPrefixB005_Sh_A=霸主的
+tagPrefixB006_Sh_A=驯犬者的
 tagPrefixB007_Sh_A=沙暴
 tagPrefixB008_Sh_A=冰川
 tagPrefixB009_Sh_A=雷击
 tagPrefixB010_Sh_A=腐蚀
-tagPrefixB011_Sh_A=破坏者
+tagPrefixB011_Sh_A=破坏者的
 tagPrefixB012_Sh_A=火墙
 tagPrefixB013_Sh_A=冰川
 tagPrefixB014_Sh_A=雷击
@@ -2243,6 +2320,10 @@ tagSuffixA057=沼泽之
 tagSuffixA058=狂风之
 tagSuffixA059=幽魂之
 tagSuffixA060=魔咒之
+tagSuffixA061=火焰之
+tagSuffixA062=寒冷之
+tagSuffixA063=电殛之
+tagSuffixA064=创伤之
 
 tagSuffixB001_Wpn_A=爆炎之
 tagSuffixB002_Wpn_A=疯狂之
@@ -2285,7 +2366,7 @@ tagSuffixB038_Wpn_A=密谋之
 
 tagSuffixB001_Ar_A=奥术之
 tagSuffixB002_Ar_A=曼海尔的壁垒之
-tagSuffixB003_Ar_A=乌尔祖因的烈焰之
+tagSuffixB003_Ar_A=奥祖因的烈焰之
 tagSuffixB004_Ar_A=德里格的凝视之
 tagSuffixB005_Ar_A=索拉尔的怨恨之
 tagSuffixB006_Ar_A=奥莱隆的愤怒之
@@ -2331,7 +2412,7 @@ tagSuffixB045_Ar_A=破碎世界之
 tagSuffixB046_Ar_A=密谋之
 tagSuffixB047_Ar_A=荒芜之
 
-tagSuffixB001_Sh_A=堡垒之
+tagSuffixB001_Sh_A=壁垒之
 tagSuffixB002_Sh_A=勇气之
 tagSuffixB003_Sh_A=防御者之
 tagSuffixB004_Sh_A=神谕之

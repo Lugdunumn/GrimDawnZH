@@ -1,42 +1,42 @@
-Harmond
-They took my Annabel from me. I'll make them pay yet!
-I'll... leave you to your thoughts.
-They took my Annabel from me. I'll make them pay yet!
-I'll... leave you to your thoughts.
-I can tell you've had 'yer share of horrors. Tell me, what was the battle like?
-It was gruesome and bloody. Just the way I like it.
-I hope they suffered. Nobody deserves to be torn apart by monsters like that, and now there are a few less in the world. Thanks to you. {^n}{^n}Here, take 'yer iron.
-Thank you. I did what had to be done.
-They were a horrifying sight. I ended it quickly.
-Less guts in ya than I reckoned, but at least they're still inside ya and not spilling out on some road, eh? {^n}{^n}Anyway, here's 'yer iron.
-Thank you.
-It was sad to see men twisted in such a way. I took them out of their misery.
-Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living. {^n}{^n}You did the right thing. Here's 'yer iron.
-Thank you.
-You're not going to convince me that you've killed Fleshwarped mutants without some personal experience to back it up!
-I'll get on it.
-You killed scores of the shamblin' Dead, but I think you can do better. The Aether corruption created some truly monstrous mutations in some of the Dead. {^n}{^n}Go out there and hunt some down. Then tell me of the slaughter.
-Alright.
-I think I'm done here.
-There is a fire in 'yer eyes and blood on 'yer clothes. I see that you've done 'yer share of the killin'. {^n}{^n}Tell me, how did it feel?
-I felt vindicated. Righteous.
-That's what I like to hear! If it wasn' for my bum leg, I'd be out there with ya. Payin' others with good iron and hearin' the tales is just the next best thing. {^n}{^n}Speakin' of which, here's 'yer share.
-Thank you.
+哈 蒙 德
+他 们 从 我 身 边 夺 走 了 安 娜 贝 尔 。 我 要 让 他 们 付 出 代 价 ！
+我 会 … … 让 你 一 个 人 静 一 静 的 。
+他 们 从 我 身 边 夺 走 了 安 娜 贝 尔 。 我 要 让 他 们 付 出 代 价 ！
+我 会 … … 让 你 一 个 人 静 一 静 的 。
+我 看 得 出 来 ， 你 完 成 了 “ 你 的 那 份 杀 戮 ” 。 告 诉 我 ， 战 斗 的 感 觉 如 何 ？
+阴 森 又 血 腥 。 正 是 我 喜 欢 的 。
+我 希 望 那 些 邪 恶 的 东 西 受 到 惩 罚 。 没 有 人 该 那 样 被 怪 物 撕 成 碎 片 ， 现 在 世 界 少 了 一 些 邪 恶 的 东 西 。 谢 谢 你 。 {^n}{^n}拿 去 ， 这 是 给 你 的 铁 币 。
+谢 谢 ， 我 做 了 我 应 该 做 的 。
+他 们 看 起 来 恐 怖 极 了 。 我 很 快 就 解 决 了 他 们 。
+你 没 有 我 想 的 那 么 有 种 ， 不 过 至 少 邪 物 还 在 你 的 体 内 ， 没 有 洒 在 路 上 ， 对 吗 ？ {^n}{^n}不 管 怎 么 样 ， 这 是 给 你 的 。
+谢 谢 。
+看 到 人 那 样 扭 曲 令 人 感 到 悲 伤 。 我 解 除 了 他 们 的 痛 苦 。
+可 能 那 不 是 他 们 应 得 的 命 运 ， 不 过 至 少 这 些 威 胁 活 人 的 东 西 少 了 一 些 。 {^n}{^n}你 做 的 很 对 ， 这 是 给 你 的 。
+谢 谢 。
+你 可 别 告 诉 我 你 杀 变 异 丧 尸 的 时 候 没 有 回 忆 起 以 前 你 自 己 的 经 历 ！
+我 这 就 去 办 。
+你 杀 了 很 多 蹒 跚 而 行 的 死 尸 ， 不 过 我 觉 得 你 还 能 做 的 更 好 。 虚 灵 在 死 尸 中 制 造 了 一 些 巨 大 的 变 异 丧 尸 。 {^n}{^n}出 去 猎 杀 一 些 ， 然 后 回 来 告 诉 我 吧 。
+好 的 。
+我 应 该 完 成 了 吧 。
+你 的 眼 中 有 火 焰 ， 你 的 衣 服 上 有 血 迹 。 我 知 道 你 完 成 了 “ 你 的 那 份 杀 戮 ” 。 {^n}{^n}告 诉 我 ， 那 感 觉 如 何 ？
+我 觉 得 我 无 罪 ， 这 是 正 义 的 杀 戮 。
+那 正 是 我 想 听 见 的 ！ 如 果 不 是 我 这 条 瘸 腿 ， 我 就 跟 你 一 起 去 了 。 付 钱 听 故 事 ， 算 是 退 而 求 其 次 的 选 择 。 {^n}{^n}说 到 付 钱 ， 这 是 给 你 的 。
+谢 谢 。
 
-I didn't feel much of anything.
-Then you and I have somethin' in common. After those things took my Annabel from me, I don' feel much of anythin' either. {^n}{^n}Here, take 'yer coin. You've earned it.
-Thank you.
+我 没 感 觉 到 什 么 。
+那 你 就 和 我 有 些 共 同 之 处 了 。 在 这 些 东 西 夺 走 了 我 的 安 娜 贝 尔 之 后 ， 我 也 感 觉 不 到 什 么 。 {^n}{^n}拿 着 ， 这 是 给 你 的 钱 。 你 挣 来 的 。
+谢 谢 。
 
-Regret... these people once lived.
-I ain' payin' for a lecture in conscience. Those things are abominations. Abominations that killed my wife, Annabel, and turned me into a cripple! {^n}{^n}The only way I can get back at them now is by payin' someone like you. So if you want more iron, skip the morals and kill some more Dead. {^n}{^n}Here's 'yer pay.
-Thank you.
+后 悔 … … 这 些 都 曾 经 是 活 人 。
+我 可 不 是 来 花 钱 听 道 德 说 教 的 。 那 都 是 些 令 人 厌 恶 的 东 西 ， 杀 了 我 的 妻 子 安 娜 贝 尔 ， 把 我 变 成 瘸 子 的 东 西 ！ {^n}{^n}我 唯 一 能 从 他 们 身 上 讨 回 的 东 西 就 是 给 你 这 样 的 人 付 钱 屠 杀 他 们 。 所 以 你 要 是 想 挣 钱 ， 别 扯 什 么 道 德 ， 多 杀 些 死 尸 。 {^n}{^n}这 是 给 你 的 。
+谢 谢 。
 
-Yer' blade looks a bit dry there, stranger. Come back to me when you've put a few of the Dead where they belong. I want to hear all the details.
-I'll be back.
-I hear you've been cleanin' up out there in Lower Crossing. If you're goin' to keep fighting those bastards, you'll need better equipment than that. {^n}{^n}Here's somethin' you'll likely never see again in this world, stranger. Somethin' for nothin'. Take some iron coin off my hands; I don't need it no more.
-Why are you helping me?
-Y'see, they killed my Annabel back when the village was first overrun. Ain' nothin' gonna bring her back; and if it tries, I'll put a bullet through its skull. {^n}{^n}I got nothin' left but revenge, so I pay good iron to those willin' to put down those abominations. {^n}{^n}You slaughter some Dead worth tellin' about, like the soldiers, and I'll give you some more from my stash. 
-I'll put them down.
-I don't trust handouts.
-Oh look, it's the possessed one. Tell ya what, I've got somethin' that needs doing and I'll pay good to see it done.{^n}{^n}I'm not quite sure you've got what it takes but come back with some blood on 'yer boots and maybe I'll reconsider. Just try to make sure it's not 'yer own blood...
-Alright then.
+你 的 刀 看 起 来 需 要 喝 点 血 ， 陌 生 人 。 等 你 杀 完 几 个 死 尸 再 回 来 找 我 ， 我 想 听 到 所 有 的 细 节 。
+我 会 回 来 的 。
+我 听 说 你 把 下 游 渡 口 扫 荡 干 净 了 。 如 果 你 要 继 续 跟 那 些 杂 种 作 战 ， 你 需 要 更 好 的 装 备 。 {^n}{^n}你 不 会 再 这 个 世 界 上 配 到 这 样 的 好 事 了 ， 陌 生 人 。 不 劳 而 获 。 拿 走 这 些 铁 币 吧 ， 我 不 再 需 要 它 们 了 。
+你 为 什 么 要 帮 我 ？
+在 村 庄 第 一 次 被 侵 袭 的 时 候 ， 他 们 杀 了 我 妻 子 。 什 么 都 弄 不 回 我 的 妻 子 了 。 如 果 虚 灵 要 让 我 妻 子 站 起 来 ， 我 会 给 她 的 头 来 上 一 枪 。 {^n}{^n}我 除 了 复 仇 已 经 一 无 所 有 ， 所 以 我 会 给 那 些 放 倒 丧 尸 的 人 不 少 的 钱 。 {^n}{^n}你 杀 点 更 值 得 夸 耀 的 死 尸 ， 比 如 丧 失 士 兵 那 种 ， 我 就 给 你 更 多 的 钱 。
+我 会 去 杀 掉 死 尸 的 。
+我 可 不 接 受 什 么 施 舍 。
+看 看 ， 是 被 占 据 的 那 个 家 伙 。 告 诉 你 ， 我 有 些 活 要 花 钱 找 人 干 。 {^n}{^n}我 不 确 定 你 有 那 本 事 ， 不 过 等 你 的 鞋 子 上 沾 点 血 再 回 来 找 我 ， 或 许 我 会 重 新 考 虑 的 。 注 意 别 把 自 己 的 血 弄 上 去 … …
+好 吧 。

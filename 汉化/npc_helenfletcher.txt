@@ -1,15 +1,15 @@
-Helen Fletcher
-*Helen stares forward silently*
-Alright then.
-You poor stupid thing. Gotta say, you're making me feel a little guilty. It's all a sham, hon. You got swindled. We do what we gotta do out here, and it sure beats aiming a gun at every traveler that crosses us.{^n}{^n}Now get going before you give away our little scheme.
-You don't have to live like this. (Tell her about the prison)
-A safe place? I forget what that even means. And you'd really take us in, even after what we pulled?
-You did what you had to. You deserve a second chance.
-I...I don't know what to say. I...thank you.
-See you in Devil's Crossing. (Open Riftgate)
-You deceitful wench. You're both as good as dead!
-Curse my big mouth. Guess it's your money and your life, hon.
-Time to die, thief!
-Please do something! He's going to kill me!
-I'll handle this.
-What do I care?
+海 伦 · 弗 莱 彻
+* 海 伦 静 静 地 凝 视 着 前 方 *
+好 吧 。
+你 个 倒 霉 的 蠢 货 。 不 得 不 说 ， 你 让 我 感 到 有 点 愧 疚 了 。 亲 爱 的 ， 这 都 是 假 的 。 你 被 骗 了 。 我 们 就 这 么 骗 来 骗 去 ， 拿 一 把 枪 指 着 头 肯 定 能 骗 倒 每 个 旅 行 者 。 {^n}{^n}在 你 传 播 开 我 们 的 小 伎 俩 之 前 ， 我 们 该 走 了 。
+你 们 不 一 定 非 要 这 样 活 着 。 ( 告 诉 她 监 狱 的 事 情 )
+一 个 安 全 的 地 方 ？ 我 都 忘 了 那 是 什 么 意 思 了 。 你 真 的 要 收 留 我 们 ， 甚 至 我 们 对 你 耍 过 花 招 以 后 ？
+你 只 是 迫 不 得 己 ， 你 该 有 第 二 次 机 会 。
+我 … … 我 不 知 道 该 说 什 么 。 我 … … 谢 谢 你 了 。
+恶 魔 十 字 见 。 ( 打 开 传 送 门 )
+你 这 个 骗 人 的 婊 子 。 你 们 俩 都 死 定 了 ！
+活 该 我 这 个 大 嘴 巴 。 我 猜 要 没 的 是 你 的 钱 和 命 吧 ， 亲 爱 的 。
+去 死 吧 ， 小 贼 ！
+快 做 点 什 么 ！ 他 要 杀 了 我 ！
+我 来 解 决 他 。
+关 我 什 么 事 ？

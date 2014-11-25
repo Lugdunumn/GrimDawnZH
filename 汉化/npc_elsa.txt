@@ -1,50 +1,50 @@
-Elsa
-You again?
-Where's Mornay?
-You mean he came out here looking for me? That fool probably got himself eaten by a troll.
-You're awfully content with that.
-He and I never saw eye to eye. I don't wish anything evil upon him, but whether he lives or dies doesn't matter much to me either.
-Goodbye.
-Perhaps I should go look for him.
-Stuff.
-Goodbye.
-You don't smell like one of Cronley's gang; are you another from Devil's Crossing then?
-If your name is Elsa, then a mutual friend is looking for you.
-I can only assume you mean Mornay... Idiot nearly got me killed out in Old Arkovia. Bandits got us in the night, drawn to his damned fire. They tied me up and dragged me back towards their camp, probably to share me with the rest of the gang.{^n}{^n}Shame for them they weren't very good at tying knots. I slit their throats while they slept and made off on my own.
-Why didn't you return to Mornay?
-Well, I thought he was dead but knowing he's back in Devil's Crossing makes me even less inclined to return. He's not a bad man but I can't stand to have him fawning all over me like a replacement for his dead wife. He believes there is some great romance between us and refuses to accept that I have no such feelings.
-Should I tell him you're alive?
-It might be better than he believes me dead. The last thing I need is a love sick fool pursuing me through his hellish world.
+艾 尔 莎
+又 是 你 ？
+莫 尔 奈 在 哪 儿 ？
+你 的 意 思 是 他 出 来 找 我 了 么 ？ 那 个 笨 蛋 可 能 会 被 巨 魔 吃 掉 的 。
+你 对 那 样 很 是 满 意 啊 。
+我 跟 他 从 来 没 想 到 过 一 块 去 。 我 不 会 希 望 他 发 生 什 么 事 儿 ， 但 是 他 是 死 是 活 跟 我 没 关 系 。
+再 见 。
+或 许 我 该 去 找 找 他 。
+说 什 么 蠢 话 。
+再 见 。
+你 闻 着 不 像 是 克 隆 利 帮 的 人 ， 你 又 是 从 恶 魔 十 字 来 的 ？
+如 果 你 叫 艾 尔 莎 ， 有 一 个 你 我 共 同 的 朋 友 正 在 找 你 呢 。
+我 只 能 想 到 你 说 的 是 莫 尔 奈 了 … … 那 个 白 痴 差 点 在 古 安 克 维 亚 害 死 我 。 强 盗 在 夜 里 抓 住 了 我 ， 都 是 他 该 死 的 火 堆 引 过 来 的 。 他 们 把 我 绑 起 来 往 他 们 的 营 地 拖 ， 可 能 是 想 要 跟 帮 派 里 剩 下 的 人 分 享 我 吧 。 {^n}{^n}可 惜 他 们 不 擅 长 打 绳 结 ， 我 在 他 们 睡 着 的 时 候 割 了 他 们 的 喉 咙 然 后 逃 走 了 。
+为 什 么 你 不 回 去 找 莫 尔 奈 呢 ？
+我 想 他 已 经 死 了 ， 不 过 知 道 他 回 到 了 恶 魔 十 字 让 我 更 加 不 倾 向 于 回 去 了 。 他 不 是 个 坏 人 ， 但 是 我 受 不 了 他 整 天 讨 好 我 ， 就 像 要 我 代 替 他 死 去 的 妻 子 一 样 。 他 深 信 我 们 之 间 你 侬 我 侬 ， 可 是 拒 绝 承 认 我 根 本 就 没 这 种 感 觉 。
+我 该 告 诉 他 你 还 活 着 么 ？
+可 能 还 是 让 他 相 信 我 死 了 比 较 好 。 最 糟 糕 的 事 情 莫 过 于 有 个 恋 爱 疯 子 在 这 个 地 狱 般 的 世 界 一 直 追 求 我 。
 
 
-Goodbye.
-What did you mean by "another" from Devil's Crossing?
-I encountered another survivor from Devil's Crossing just recently who convinced me that Homestead was a place where I could help make a difference. I never got a name but he cooked a fine meal and told me many remarkable stories about political intrigues in the time of the Empire. Then he set off by himself.
-If you were headed to Homestead, why didn't you join him?
-He just got up in the dark of night and told me he was heading on as he had urgent business in Homestead. I warned him that it would be wise to wait while the trolls and Aetherials fought it out in Smuggler's Pass but he said that he could pass unseen between them if he was alone.{^n}{^n}It sounds crazy to me but he was a likeable fellow and I hope he fared better than I expect.
-I plan on fighting through Smuggler's Pass. You could join me.
-I appreciate the offer but, as I said, the fighting seems a little too intense up there right now and I plan to wait it out. I'd advise you to do the same but, if you insist on pressing ahead, I hope you prevail.
+再 见 。
+你 说 的 “ 又 ” 是 从 恶 魔 十 字 来 的 是 怎 么 一 回 事 ？
+我 不 久 前 遇 到 过 另 外 一 个 从 恶 魔 十 字 来 的 幸 存 者 ， 他 说 服 我 说 霍 姆 斯 特 德 是 个 能 让 我 过 上 不 一 样 日 子 的 地 方 。 我 不 知 道 他 叫 什 么 名 字 ， 但 他 给 我 做 了 一 顿 好 吃 的 然 后 给 我 讲 了 很 多 当 年 帝 国 政 治 上 勾 心 斗 角 的 故 事 。 之 后 他 就 自 己 走 了 。
+如 果 你 是 去 霍 姆 斯 特 德 的 ， 为 什 么 你 不 跟 着 他 走 呢 ？
+他 在 半 夜 上 路 的 ， 而 且 他 告 诉 我 是 因 为 他 在 霍 姆 斯 特 德 有 急 事 。 我 警 告 他 最 好 等 等 ， 因 为 巨 魔 和 虚 灵 正 在 走 私 者 的 通 道 里 面 打 得 不 可 开 交 。 但 他 说 他 一 个 人 的 话 可 以 从 两 个 势 力 中 间 悄 无 声 息 地 过 去 。 {^n}{^n}这 听 起 来 是 疯 了 ， 不 过 他 是 个 讨 人 喜 欢 的 家 伙 ， 我 希 望 他 能 顺 利 通 过 吧 。
+我 准 备 从 走 私 者 的 通 道 一 路 打 过 去 ， 你 可 以 跟 我 走 。
+我 感 谢 你 的 邀 请 ， 但 是 就 像 我 说 的 ， 现 在 那 里 的 战 斗 过 于 激 烈 了 。 我 还 是 计 划 等 到 战 争 结 束 。 我 建 议 你 也 等 一 等 ， 不 过 你 要 是 坚 持 继 续 上 路 的 话 ， 我 希 望 你 能 够 旗 开 得 胜 。
 
 
-Alright. Farewell.
-You're always welcome back in Devil's Crossing.
-Thanks but I have no plans to return there. I'd rather find my fate on the open road.
+好 吧 ， 再 见 。
+恶 魔 十 字 总 会 欢 迎 你 回 去 的 。
+谢 谢 不 过 不 准 备 回 去 了 ， 我 宁 可 在 外 面 的 世 界 寻 找 到 我 的 命 运 。
 
 
-Alright. Farewell.
-Good luck out there.
-So be it.
-What can you tell me of this area?
-I can tell you it's swarming with trolls and harpies, and that your best bet would be to leave by whatever way you got here.{^n}{^n}I was headed for Smuggler's Pass, which leads through the mountains but found it's become a battleground between troll tribes and Aetherials. If you're not familiar with trolls and their ilk, they have a perverse predilection to abduct and keep humans as mates. That's not the fate I have planned for myself, nor is possession, so I'm biding my time, looking for another way through.
-I take it you have some experience with trolls?
-I'm not sure how you meant that but, in either case, no. I've never seen a troll until after the Grim Dawn, just heard the odd tales of travelers gone missing or abductions from villages in the mountains. Apparently there were a lot more of them living up in these remote parts than anyone realized.{^n}{^n}In some folklore, trolls are a primitive ancestor of humankind that never advanced beyond their bestial impulses. Others say they're the terrible result of generations of inbreeding among small mountain tribes. They're temperamental, greedy and extremely violent; with just enough cunning to be dangerous.
+好 的 ， 再 见 。
+祝 你 好 运 。
+就 这 样 吧 。
+关 于 这 个 地 区 ， 你 能 告 诉 我 些 什 么 ？
+我 能 告 诉 你 这 地 方 遍 布 着 巨 魔 和 鹰 身 女 妖 ， 最 好 的 选 择 就 是 顺 着 原 路 返 回 。 {^n}{^n}我 之 前 是 要 去 走 私 者 的 通 道 的 ， 那 个 通 道 深 入 山 脉 之 中 。 但 是 我 发 现 那 儿 已 经 成 了 巨 魔 和 虚 灵 的 战 场 。 如 果 你 跟 巨 魔 不 熟 也 不 是 他 们 的 近 亲 ， 他 们 就 会 有 变 态 的 嗜 好 ， 绑 架 人 类 然 后 把 人 类 当 成 配 偶 。 那 可 不 是 我 期 望 中 的 给 我 自 己 写 的 剧 本 ， 所 以 我 在 等 待 时 机 ， 寻 找 另 外 一 条 路 。
+我 可 以 认 为 你 对 有 些 经 验 ？
+我 不 知 道 你 这 么 说 是 什 么 意 思 ， 不 管 什 么 意 思 ， 我 没 什 么 经 验 。 恐 怖 黎 明 之 后 我 还 没 见 过 一 个 巨 魔 ， 只 是 听 说 旅 行 者 嘴 里 关 于 山 中 村 庄 里 面 的 人 失 踪 或 是 被 绑 架 这 种 古 怪 的 传 说 罢 了 。 显 然 这 里 曾 经 有 任 何 人 认 为 的 都 多 的 村 民 生 活 在 这 个 偏 远 的 地 方 。 {^n}{^n}在 一 些 民 间 传 说 里 面 ， 巨 魔 是 人 类 没 有 失 去 兽 性 的 原 始 祖 先 。 另 外 的 人 说 他 们 是 人 数 稀 少 的 山 地 部 落 多 代 人 近 亲 结 婚 的 可 怕 的 结 果 。 他 们 喜 怒 无 常 ， 贪 婪 且 异 常 暴 力 ， 对 于 称 得 上 是 危 险 来 说 ， 他 们 的 智 力 也 足 够 了 。
 
 
-Interesting. Thanks.
+很 有 趣 ， 谢 谢 你 。
 
 
-Thanks for the info.
+感 谢 你 提 供 的 信 息 。
 NEW STUFF FOR ACT 3
 Things to say.
-Bye.
-Alright then.
+再 见 。
+好 吧 。

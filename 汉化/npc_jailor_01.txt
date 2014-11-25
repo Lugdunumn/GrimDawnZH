@@ -1,23 +1,23 @@
-Hangman Jarvis
-Killed the Warden, eh? So one bastard killed another. Makes little difference when one survived.
-You can't be serious.
-Just keeping my good eye on the time bomb in our midst. Go about your way, 'Taken'.
-Fine then.
-Um, right. I'll be going now.
-So Bourbon let you stay? Bah! Man is far too trusting. You'll slip eventually. Don't be going far. My noose is lonely.
-Alright then.
-So you've cleared out Burial Hill? Didn't just tell your 'Taken' brothers to flee? Heh.{^n}{^n}Best let the Captain know. He could use some good news.
-I will speak to the Captain.
-The Captain says you're alright, but I've seen what the 'Taken' are capable of. I've got my eye on you.
-Very well then.
-What're you standing around here for? If you're not gonna make yourself useful, we may as well get another noose ready. {^n}{^n}No sense in keeping around another mouth to feed.
-Who am I supposed to talk to again?
-You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!
-I'm on my way.
-Still drawing breath, I see. You're one lucky bastard, I'll give you that. Best go speak to Captain Bourbon right away. He seems to have a plan for you now that we've spared your life.
-I don't... what's going on? Where am I?
-Welcome to Devil's Crossing, possibly the last refuge of humanity. {^n}{^n}You were possessed, so we strung you up as we do with all Aetherial 'Taken'. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.
-Where can I find this Captain then?
-He's up the road, in the courtyard, probably coordinating our defenses against the Dead. Don't make me regret cutting you down.
-I'll be on my way then.
-It can wait.
+刽 子 手 · 贾 维 斯
+杀 了 典 狱 长 ， 是 么 ？ 一 个 混 球 杀 了 另 外 一 个 ， 有 一 个 还 活 着 也 没 多 大 区 别 。
+你 一 定 是 在 逗 我 。
+我 得 好 好 盯 着 我 们 这 帮 人 里 面 的 定 时 炸 弹 ， 好 好 走 你 的 路 ， “ 被 占 据 者 ” 。
+好 吧 。
+额 ， 好 的 。 我 这 就 走 。
+波 旁 让 你 留 下 了 ？ 呸 ！ 他 怎 么 这 么 容 易 就 相 信 别 人 ， 你 小 子 早 晚 要 变 异 的 。 别 跑 远 了 ， 我 这 绞 索 可 正 闲 得 发 慌 呢 。
+好 吧 。
+你 扫 荡 完 了 殓 葬 山 ？ 你 是 不 是 叫 你 那 些 “ 被 占 据 者 ” 兄 弟 们 逃 走 了 ？ 呵 呵 ！ {^n}{^n}最 好 让 队 长 知 道 这 事 ， 他 就 能 利 用 一 下 这 个 好 消 息 了 。
+我 会 和 队 长 谈 谈 的 。
+队 长 说 你 没 问 题 ， 不 过 我 知 道 “ 被 占 据 者 ” 是 什 么 德 行 。 我 要 好 好 看 着 你 。
+没 问 题 。
+你 在 这 儿 瞎 转 什 么 ？ 如 果 你 不 能 让 自 己 变 得 有 用 ， 绞 索 就 是 给 你 准 备 的 。 {^n}{^n}没 必 要 再 多 养 一 张 吃 饭 的 嘴 。
+我 该 去 和 谁 谈 谈 呢 ？
+你 是 走 得 慢 还 是 怎 么 回 事 ？ 波 旁 队 长 就 在 石 桥 那 里 的 路 边 。 赶 紧 走 ！
+我 这 就 走 。
+我 看 见 了 ， 还 有 气 儿 。 我 得 承 认 ， 你 是 个 幸 运 的 混 蛋 。 你 最 好 赶 紧 去 找 波 旁 队 长 ， 看 起 来 他 留 你 一 条 命 是 着 有 长 远 的 打 算 。
+我 不 记 得 … … 发 生 了 什 么 事 ？ 我 在 哪 儿 ？
+欢 迎 来 到 恶 魔 十 字 ， 这 儿 可 能 是 人 类 最 后 的 避 难 所 了 。 {^n}{^n}你 被 占 据 了 ， 所 以 我 们 就 把 你 捆 了 起 来 ， 就 像 对 待 所 有 被 虚 灵 侵 占 的 人 一 样 。 看 起 来 在 你 小 命 玩 完 之 前 虚 灵 离 开 了 你 的 身 体 。 {^n}{^n}我 是 想 绞 死 你 的 ， 不 过 波 旁 队 长 似 乎 有 别 的 打 算 。 他 看 你 有 些 用 处 ， 我 不 准 备 跟 他 争 这 个 。
+我 去 哪 里 找 波 旁 队 长 ？
+他 就 站 在 这 条 路 的 前 面 的 庭 院 那 里 ， 可 能 在 调 整 我 们 对 死 尸 的 布 防 。 别 让 我 后 悔 割 断 绳 子 救 下 你 这 条 小 命 。
+我 这 就 走 。
+不 用 着 急 。

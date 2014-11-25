@@ -1,164 +1,164 @@
-tagTutorialTitle=教程帮助
-tagTutorialRollOver=选中此框来禁用教程界面。一旦禁用{^n}{^n}可以通过信息面板点击帮助按钮重新开启。
+tagTutorialTitle=教 程 帮 助
+tagTutorialRollOver=选 中 此 框 来 禁 用 教 程 界 面 。 一 旦 禁 用{^n}{^n}可 以 通 过 信 息 面 板 点 击 帮 助 按 钮 重 新 开 启 。
 tagTutorialOf=of
-tagTutorialDisable=禁用教程提示
+tagTutorialDisable=禁 用 教 程 提 示
 
-tagTutorialTip06Title=Untouched Meal
-tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
+tagTutorialTip06Title=未 动 过 的 饭
+tagTutorialTip06TextA=你 找 到 了 被 人 丢 弃 的 一 餐 饭 ， 估 计 是 个 倒 霉 的 冒 险 者 留 下 的 。{^n}{^n}吃 下 这 顿 饭 ， 你 会 恢 复 一 些 体 力 。
 
-tagTutorialTip08Title=欢迎来到恐怖黎明
+tagTutorialTip08Title=欢 迎 来 到 恐 怖 黎 明
 tagTutorialTip08TextA=再 次 感 谢 支 持 我 们 并 帮 助 改 进 恐 怖 黎 明 ！ 我 们 希 望 你 享 受 游 戏 这 部 分 开 始 的 内 容 。 请 记 住 这 只 是 由 七 个 人 的 工 作 室 制 作 的 预 览 版 本 。 你 将 会 遇 到 b u g 、 未 完 成 的 特 色 内 容 和 大 约 只 有 游 戏 的 第 一 章 第 二 章 和 第 三 章 的 情 况 。 我 们 欢 迎 你 们 在 论 坛 www.grimdawn.com 反 馈 bug 和 游 戏 体 验 。
 
-tagTutorialTip09Title=商人界面
+tagTutorialTip09Title=商 人 界 面
 tagTutorialTip09TextA=商 人 出 售 与 收 购 在 凯 恩 世 界 的 险 境 中 生 存 所 必 需 的 武 器 装 备 。
 tagTutorialTip09TextB=在 这 绝 望 的 时 期 ， 好 的 装 备 可 不 便 宜 。 商 人 们 不 会 为 普 通 物 品 出 高 价 ， 但 是 充 满 魔 力 的 装 备 能 够 卖 到 好 价 钱 。
 
-tagTutorialTip10Title=传送裂缝
+tagTutorialTip10Title=传 送 裂 缝
 tagTutorialTip10TextA=安 全 的 传 送 裂 缝 允 许 你 在 凯 恩 的 众 多 地 点 间 快 速 移 动 。左 键 点 击传 送 裂 缝以 打 开 {^y} 传 送 地 图 {^w}。
 tagTutorialTip10TextB=你 发 现 了 下 游 渡 口 的 传 送 裂 缝 。 你 将 来 所 发 现 的 所 有 传 送 裂 缝 的 位 置 会 存 储 在{^y}传 送 地 图{^w}。
 tagTutorialTip10SubtitleA=个人传送裂缝:
 tagTutorialTip10TextC=作 为 一 个 接 触 过 虚 化 之力 的 人 类 ， 你 拥 有 打 开{^y}个 人 传 送 裂 缝{^w}的 能 力 。 要 激 活 你 的 个 人 传 送 裂 缝 ， 点 击 信 息 面 板 上 的 传 送 旅 行 按 钮 。
-tagTutorialTip10CaptionA=快捷键：{^b}{%t0}{^w}{^n}
+tagTutorialTip10CaptionA=快 捷 键 ：{^b}{%t0}{^w}{^n}
 
-tagTutorialTip11Title=个人传送裂缝
+tagTutorialTip11Title=个 人 传 送 裂 缝
 tagTutorialTip11TextA=个 人 传 送 裂 缝可 以 在 世 界 上 任 何 地 点 打 开 并  且 会 连 接 到 传 送 裂 缝 网 络 。
-tagTutorialTip11CaptionA=快捷键：{^b}{%t0}{^w}
+tagTutorialTip11CaptionA=快 捷 键 ：{^b}{%t0}{^w}
 tagTutorialTip11TextB=与 大 型 传 送 裂  缝 一 样 ， 左 键 点 击 你 的 个  人 传 送 裂 缝{^y}传 送 地 图{^w}。 在 地 图 上 选 择 要 到 达的 目 的 地 。
 tagTutorialTip11TextC=你 的 传 送 裂 缝 将 一 直 持 续 开 启 直 到 你 的 返 回 。 当 它 开 启 的 时 候 ， 你 的 队 伍 成 员 也 可 以 传 送 到 它 的 位 置 。 在 任 何 时 间 段 内 你 只 能 同 时 开 启 一 个 个 人 传 送 裂 缝 。
 
-tagTutorialTip14Title=药水
+tagTutorialTip14Title=药 水
 tagTutorialTip14TextA=生 命 与 能 量 药 水 分 别 能 够 回 复 你 的 角 色 的 生 命 和 能 量 。 要 饮 用 药 水 ， 点 击 快 捷 栏 内 的 图 标 或 者 按 下 指 定 的 快 捷 键 。
 tagTutorialTip14TextB=药 水 默 认 被 分 配 到 快 捷 栏  的 最 后 两 格 内 。 通 过 右 击 空 的 快 捷 栏 并 从 菜 单 选 择 一 种 药 水 你 可 以 手 动 设 定 药 水 到 任 意 快 捷 栏 。
 tagTutorialTip14TextC=要 饮 用 药 水 ， 点 击 快 捷 栏 内 的 图 标 或 者 按 下 指 定 的 快 捷 键 。
 
-tagTutorialTip15Title=升级
+tagTutorialTip15Title=升 级
 tagTutorialTip15TextA=你 提 升 了 一 个 等 级 。 每 次 你 的 角 色 升 级 的 时 候 ， 你 会 获 得 技 能 点 和 属 性 点 。{^n}{^n}你 可 以 在{^y}技 能 窗 口{^w}分 配 技 能 点 。
-tagTutorialTip15CaptionA=快捷键：{^b}{%t0}{^w}
+tagTutorialTip15CaptionA=快 捷 键 ：{^b}{%t0}{^w}
 tagTutorialTip15TextB=你 可 以 在{^y}角 色 窗 口{^w}分 配 属 性 点 。 每 个 属 性 点 提 升 8 点 属 性 。
-tagTutorialTip15CaptionB=快捷键：{^b}{%t0}{^w}
+tagTutorialTip15CaptionB=快 捷 键 ：{^b}{%t0}{^w}
 tagTutorialTip15TextC=你 可 以 通 过 在 信 息 面 板 底 部 和{^y}角 色 窗 口{^w}中 的 绿 条 来 监 测 你 的 经 验 获 取 。 下 一 级 所 需 的 经 验 数 量 显 示 在 信 息 面 板 的 底 部 和{^y}角 色 窗 口{^w}中 的 绿 条 上 。 当 经 验 条 填 满 时 ， 你 将 提 升 一 个 等 级 。
 
-tagTutorialTip16Title=角色窗口
+tagTutorialTip16Title=角 色 窗 口
 tagTutorialTip16TextA=使 用{^y}角 色 窗 口{^w}来 装 备 物 品 ， 管 理 背 包 ， 花 费 属 性 点 和 查 看 角 色 属 性 一 览 。
-tagTutorialTip16SubtitleA=背包：
+tagTutorialTip16SubtitleA=背 包 ：
 tagTutorialTip16TextB=要 装 备 物 品 ， 从 背 包 中 右 键 点 击 或 者 将 它 拖 动 到 适 当 的 装 备 槽 。 你 可 以 将 物 品 拖 出 角 色 窗 口 来 扔 掉 它 ， 或 者 点 击 它 然 后 按 下“{^b}{%t0}{^w}”键 。
-tagTutorialTip16SubtitleB=属性点：
+tagTutorialTip16SubtitleB=属 性 点 ：
 tagTutorialTip16TextC=点 击 想 要 的 属 性 左 边 的“{^y}+{^w}”按 钮 来 花 费 属 性 点 。 每 个 属 性 点 提 升 8 点 属 性 。
 
-tagTutorialTip17Title=技能专精
+tagTutorialTip17Title=技 能 专 精
 tagTutorialTip17TextA=选 择 技 能 专 精 是 一 项 定 义 角 色 的 决 定 。 不 同 的 专 精 迎 合 不 同 的 游 戏 风 格 ， 所 以 要 谨 慎 选 择 。
 tagTutorialTip17TextB=一 旦 你 选 择 了 一 项 专 精 并 点 了 技 能 点 ， 你 将 不 能 恢 复 专 精 的 选 择 。
 tagTutorialTip17TextC=当 你 的 角 色 到 达 10 级 时 你 将 获 得 选 择 第 二 个 专 精 的 选 择 权 。
 
-tagTutorialTip19Title=附加部件
+tagTutorialTip19Title=附 加 部 件
 tagTutorialTip19TextA=部 件 可 以 用 来 升 级 装 备 。 他 们 通 常 呈 碎 片 形 式 ， 可 以 合 成 获 得 更 强 力 的 奖 励 。{^n}{^n}神 话 中 提 到 的 稀 有 部 件 充 满 了 古 老 的 能 量 ， 显 示 为 浅 黄 色 。
 tagTutorialTip19TextB=要 使 用 部 件 ， 在 它 上 面 右 击 。 你 可 以 将 它 合 并 到 匹 配 的 碎 片 或 者 将 它 附 加 到 装 备 上 。
 
-tagTutorialTip20Title=使用部件
-tagTutorialTip20SubtitleA=附加部件
+tagTutorialTip20Title=使 用 部 件
+tagTutorialTip20SubtitleA=附 加 部 件
 tagTutorialTip20TextA=右 击 部 件 选 择 它 ， 然 后 左 键 单 击 你 想 要 附 加 的 装 备 。 注 意 每 个 部 件  只 能 附 加到 特 定 的 物 品 种 类 。
-tagTutorialTip20SubtitleB=合成部件
+tagTutorialTip20SubtitleB=合 成 部 件
 tagTutorialTip20TextB=你 可 以 合 成 相 同 名 字 的 部 件 碎 片 来 获 得 更 强 力 的 奖 励 。 完 整 的 部 件 将生 成 额 外 的 奖励 。{^n}{^n}相 同 名 字 的部  件碎 片 可 以 在 第 一 块 碎 片附 加 过 的 物 品 上 继 续 附 加 。
 
-tagTutorialTip21Title=第二技能专精
-tagTutorialTip21TextA=在 10 级 时， 你 将 获 得 选 择 第 二 个 专 精 的 选 择 权。 要 选 择 你 的第 二 专 精 ， 打 开 技 能 窗 口 。 第 二 专 精 不 是必 须 的 ， 但 是 在 到 达 10 级 后 你 将 总 会有 权 选 择 它 。
+tagTutorialTip21Title=第 二 技 能 专 精
+tagTutorialTip21TextA=在 10 级 时， 你 将 获 得 选 择 第 二 个 专 精 的 选 择 权。 要 选 择 你 的 第 二 专 精 ， 打 开 技 能 窗 口 。 第 二 专 精 不 是 必 须 的 ， 但 是 在 到 达 10 级 后 你 将 总 会 有 权 选 择 它 。
 
-tagTutorialTip22Title=技能窗口
+tagTutorialTip22Title=技 能 窗 口
 tagTutorialTip22TextA=每 次 你 升 级 的 时 候 都 将 获 得 技 能 点 。 将 你 的 技 能 点 投 资 到 专 精 等 级 上 或 解 锁 技 能 。
-tagTutorialTip22SubtitleA=专精等级
+tagTutorialTip22SubtitleA=专 精 等 级
 tagTutorialTip22TextB=如 果 你 投 资 技 能 点 到 技 能 专 精 上 ， 你 将 解 锁 新 的 技 能 。 你 可 以 通 过 点 击{^y}技 能 窗 口{^w}左 下 角 的 专 精 按 钮 来 提 升 专 精 等 级 。
 tagTutorialTip22TextC=你 必 须 在 专 精 等 级 上 投 入 至 少 一 点 来 解 锁 第 一 级 的 技 能 。
-tagTutorialTip22SubtitleB=技能等级
+tagTutorialTip22SubtitleB=技 能 等 级
 tagTutorialTip22TextD=点 击 一 个 解 锁 技 能 图 标 来 为 技 能 添 加 点 数 。 第 一 个 技 能 点 将 允 许 你 使 用 该 能 力 ， 额 外 的 技 能 点 将 使 能 力 增 强 。
 tagTutorialTip22TextE=绿 线 表 明 与 技 能 改 进 的 联 系 。 你 必 须 在 基 础 技 能 上 至 少 拥 有 一 点 才 能 在 它 的 改 进 技 能 上 投 入 点 数 。
 
-tagTutorialTip23Title=技能分配
+tagTutorialTip23Title=技 能 分 配
 tagTutorialTip23TextA=主 动 技 能 （ 方 图 标 ） 需 要 分 配 到 鼠 标 或 快 捷 栏 才 能 使 用 。{^n}{^n}要 分 配 技 能 ， 在 快 捷 栏 或 右 面 的 鼠 标 按 键 栏 上 右 键 并 从 菜 单 中 选 择 一 个 技 能 。
-tagTutorialTip23SubtitleA=使用技能
+tagTutorialTip23SubtitleA=使 用 技 能
 tagTutorialTip23TextB=主 动 技 能 在 快 捷 栏 上 左 键 单 击 图 标 ， 或 者 按 下 分 配 好 的 快 捷 键 。
 tagTutorialTip23TextC=被 动 技 能 （ 圆 图 标 ） 一 直 生 效 且 不 需 要 分 配 到 快 捷 栏 上 。 一 旦 你 为 它 们 分 配 了 技 能 点 ，它 们 会 立 即 提 供 增 益 。{^N}{^N}
 
-tagTutorialTip24Title=死亡
-tagTutorialTip24TextA=当 你 的 生 命 为 0 时 ， 你 的 角 色 会 死 亡 。{^n}{^n}利 用 好 你 的 角 色 的 快 速 生 命 恢 复 ， 它 将 在 脱 离 战 斗 一 定 时 间 后 激 活 。 当 那 样 也 不 够 时 ， 记 得 使 用 药 水 和 技 能 确 保 生 存 。
-tagTutorialTip24TextB=当 你 死 亡 时 ， 你 会 失 去 一 些 经 验 并 且 你 的 角 色 会 重 生 在 你 最 近 访 问 过 的 避 难 所 。 经 验 惩 罚 会 随 着 你 角 色 等 级 而 提 高 ， 但 是 你 可 以 通 过 找 回 自 己 的 墓 碑 来 恢 复 一 部 分 失 去 的 经 验 。
+tagTutorialTip24Title=死 亡
+tagTutorialTip24TextA=当 你 的 生 命 变 为 0 时 ， 你 的 角 色 会 死 亡 。{^n}{^n}利 用 好 角 色 的 快 速 生 命 恢 复 机 制 ， 它 将 在 脱 离 战 斗 一 定 时 间 后 激 活 。 如 果 生 命 回 复 还 是 不 够 的 话 ， 记 得 使 用 药 水 和 技 能 来 确 保 生 存 。
+tagTutorialTip24TextB=当 你 死 亡 时 ， 你 会 失 去 一 些 经 验 并 且 你 的 角 色 会 在 你 最 近 访 问 过 的 避 难 所 内 重 生。 经 验 惩 罚 会 随 着 你 角 色 等 级 而 提 高 ， 但 是 你 可 以 通 过 找 回 自 己 的 墓 碑 来 恢 复 一 部 分 失 去 的 经 验 。
 
-tagTutorialTip27Title=Grim Dawn Multiplayer
-tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
-tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
-tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
-tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
-tagTutorialTip27CaptionB=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip27Title=多 人 游 戏
+tagTutorialTip27TextA=你 可 以 与 其 他 玩 家 组 队 ， 共 享 经 验 与 铁 币 而 且 还 能 发 起 交 易 。 组 队 对 于 PvP 也 是 至 关 重 要 的 。
+tagTutorialTip27CaptionA=快 捷 键 ：{^b}{%t0}{^w}
+tagTutorialTip27TextB=右 击 左 上 方 玩 家 状 态 栏 就 可 以 对 队 伍 内 的 另 一 名 玩 家 发 起 交 易 。
+tagTutorialTip27TextC=你 也 可 以 使 用 {^y}聊 天 窗 口{^w} 与 其 他 玩 家 交 谈 。
+tagTutorialTip27CaptionB=快 捷 键 ：{^b}{%t0}{^w}
 
-tagTutorialTip28Title=Player Trading
-tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
-tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+tagTutorialTip28Title=玩 家 交 易
+tagTutorialTip28TextA=你 可 以 把 物 品 放 入 你 的 交 易 窗 口 内 来 进 行 交 易 。 在 窗 口 顶 部 输 入 铁 币 的 数 目 就 能 使 用 铁 币 来 进 行 交 易 了 。
+tagTutorialTip28TextB=在 双 方 玩 家 都 选 择 接 受 之 后 ， 双 方 的 交 换 才 会 生 效 。 如 果 交 易 被 取 消 了 的 话 ， 所 有 的 物 品 和 铁 币 都 会 被 返 还 到 玩 家 的 物 品 栏 内 。
 
-tagTutorialTip30Title=分配你的技能
+tagTutorialTip30Title=分 配 你 的 技 能
 tagTutorialTip30TextA=你 有 未 分 配 的 主 动 技 能 。 主 动 技 能 需 要 分 配 到 鼠 标 或 快 捷 栏 才 能 使 用 。
 tagTutorialTip30TextB=要 分 配 技 能 ， 在 快 捷 栏 或 右 面 的 鼠 标 按 键 栏 上 右 键 并 从 菜 单 中 选 择 一 个 技 能 。
 
-tagTutorialTip31Title=使用生命药水
+tagTutorialTip31Title=使 用 生 命 药 水
 tagTutorialTip31TextA=当 你 的 生 命 变 得 很 少 时 ， 要 考 虑 引 用 生 命 药 水 。 它 们 有 很 长 的 冷 却 时 间 ， 但 是 它 们 能 恢 复 你 的 全 部 生 命 值 。 要 饮 用 药 水 ， 在 快 捷 栏 上 点 击 药 水 图 标 或 者 按 下 设 置 好 的 快 捷 键 。 
 tagTutorialTip31TextB=你 会 在 箱 子 里 和 怪 物 身 上 获 得 药 水 ， 但 当 你 药 水 所 剩 无 几 时 你 总 是 能 够 在 商 人 处 购 买 到 更 多 。
 
-tagTutorialTip32Title=使用获得的属性点与技能点
+tagTutorialTip32Title=使 用 获 得 的 属 性 点 与 技 能 点
 tagTutorialTip32TextA=你 有 未 分 配 的 属 性 点 或 技 能 点 。 属 性 点 能 够 用 来 提 升 你 的 灵 巧 体 格 和 精 神 ， 每  一 点 提 升 8 属 性 点 。 技 能 点 可 以 用 来 提 升 专 精 等 级 ， 解 锁 新 技 能 ， 或 提 升 已 解 锁 的 技 能 。 
 
-tagTutorialTip33Title=学习技能
+tagTutorialTip33Title=学 习 技 能
 tagTutorialTip33TextA=你 一 直 在 投 资 你 的 技 能 点 到 专 精 上 而 没 有 投 资 技 能 。 当 你 升 级 时 ， 试 着 将 一 些 技 能 点 投 入 到 技 能 上 。
 tagTutorialTip33TextB=要 在 一 项 能 力 上 投 入 技 能 点 ， 点 击{^y}技 能 窗 口{^w} 上 的 解 锁 技 能 图 标 。 第 一 个 技 能 点 将 允 许 你 使 用 该 能 力 。 额 外 的 技 能 点 将 使 能 力 增 强 。
 
-tagTutorialTip34Title=拜访商人
+tagTutorialTip34Title=拜 访 商 人
 tagTutorialTip34TextA=如 果 你 的 背 包 满 了 ， 你 会 想 到 拜 访 商 人 并 出 售 一 些 不 想 要 的 物 品 。
 tagTutorialTip34TextB=商 人 可 以 在 人 类 控 制 的 保 护 区 内 找 到 ， 但 是 你 也 会 在 世 界 上 遇 到 旅 行 商 人 。 在 罗 盘 或 在 地 图 窗 口 上 查 看 商 人 图 标 。
 
-tagTutorialTip35Title=战宠
+tagTutorialTip35Title=战 宠
 tagTutorialTip35TextA=战 宠 会 自 动 行 进 与 你 并 肩 战 斗 。 如 果 你 想 要 给 你 的 战 宠 直 接 下 达 命 令 ， 你 可 以 在 你 点 击 屏 幕 左 下 角 指 定 的 战 宠 的 时 候 按 下“{^b}{%t0}{^w}”， 然 后 选 择 一 个 目 标 。
 tagTutorialTip35TextB=你 可 以 在 任 何 时 候 通 过 在 它 们 的 头 像 上 右 键 并 选 择“{^Y}解 散 宠 物{^w}”来 解 散 你 的 战 宠 。
 
-tagTutorialTip36Title=技能重新分配
+tagTutorialTip36Title=技 能 重 新 分 配
 tagTutorialTip36TextA=灵 魂 向 导 允 许 你 复 原 技 能 点 选 择 。 在 灵 魂 向 导 的 界 面 上 点 击 技 能 图 标 来 从 该 技 能 上 移 除 一 点 技 能 点 。 其 花 费 将 随 着 你 移 除 随 后 的 技 能 点 而 增 多 。
 tagTutorialTip36TextB=你 不 能 移 除 投 资 在 专 精 上 的 技 能 点 。 此 外 ， 你 不 能 移 除 在 延 伸 技 能 上 面 投 资 了 的 前 置 技 能 的 最 后 一 点 。
 
-tagTutorialTip37Title=走私窗口
+tagTutorialTip37Title=仓 库 窗 口
 tagTutorialTip37TextA=走 私 犯 可 以 存 储 你 的 物 品 ， 甚 至 可 以 在 你 的 角 色 间 传 输 物 品 ! 你 可 以 在 整 个 凯 恩 世 界 能 找 到 的 任 何 走 私 犯 那 里 访 问 你 的 物 品 。{^N}shift+右 键 可 以 快 速 移 动 物 品 。
 tagTutorialTip37TextB=你 可 以 通 过 点 击 扩 展 存 储 按 钮 来 扩 展 你 的 存 储 空 间 。 这 将 花 费 一 些 铁 币 。{^N}{^N}点 击 物 品 转 移 来 与 你 的 其 他 角 色 共 享 物 品 。
 
-tagTutorialTip38Tile=物品转移
+tagTutorialTip38Tile=物 品 转 移
 tagTutorialTip38TextA=放 在 走 私 犯 的 物 品 转 移 界 面 的 物 品 是 在 你 的 所 有 角 色 间 共 享 的 （ 区 分 普 通 和 硬 核 模 式 ）
-tagTutorialTip38SubtitleA=角色间转移
+tagTutorialTip38SubtitleA=角 色 间 转 移
 tagTutorialTip38TextB=要 转 移 物 品 ， 把 他 们 放 在 物 品 转 移  界 面 。 当 你  登 陆 其 他 角 色 是 ， 你 可 以 从 走 私 犯 那 里 访 问 这些 物 品 。
-tagTutorialTip38SubtitleB=玩家间转移
+tagTutorialTip38SubtitleB=玩 家 间 转 移
 tagTutorialTip38TextC=要 想 在 多 人 游 戏 中 与 其 他 玩 家 的 角 色 交 易 物 品 ， 你 需 要 使 用 交 易 功 能 。
 
-tagTutorialTip39Title=发明家
+tagTutorialTip39Title=发 明 家
 tagTutorialTip39TextA=发 明 家 有 从 物 品 上 移 除 部 件 的 能 力 。 物 品 或 部 件 其 中 一 项 将 在 工 序 中 得 到 保 存 。
-tagTutorialTip39SubtitleA=移除部件
+tagTutorialTip39SubtitleA=移 除 部 件
 tagTutorialTip39TextB=物 品 上 部 件 的 移 除 将 按 物 品 与 部 件 的 组 合 价 值 的 比 例 收 取 费 用 。 在 发 明 家 的 界 面 上 放 置 一 个 带 部 件 的 物 品 来 开 始 移 除 吧 。{^N}{^N}你 可 以 获 取 物 品 或 部 件 其 中 一 项 。{^N}{^N}如 果 你 获 取 物 品 ， 部 件 将 消 失 。 反 之 亦 然 。{^N}{^N}
 
-tagTutorialTip42Title=铁匠
+tagTutorialTip42Title=铁 匠
 tagTutorialTip42TextA=铁 匠 有 制 作 强 大 威 力 物 品 的 能 力 。 他 是  一 位 经 验 丰 富 的 工 匠 ， 每 个 他 制 作 的 物 品 都 有 小 的 制 作 属 性 奖 励 ， 然 后 他 的 知  识 可 以 通 过 新 的 设 计 图 来 扩 充。
-tagTutorialTip42SubtitleA=设计图
+tagTutorialTip42SubtitleA=设 计 图
 tagTutorialTip42TextB=当 你 发 现 新 的 设 计 图 时 铁 匠 将 学 会 制 作 新 物 品 。 设 计 图 可 以 从 任 务 获 得 ， 或 者 在 世 界 范 围 内 掉 落。
-tagTutorialTip42SubtitleB=制作
+tagTutorialTip42SubtitleB=制 作
 tagTutorialTip42TextC=要 制 作 一 个 物 品 ， 在 制 作 界 面 选 择 配 方 。 在 界 面 的 指 定 空 间 放 入 需 要 的 物 品 或 者 在 背 包 中 右 击 他 们。{^N}{^N}当 所 有 需 要 的 材 料 都 在 界 面 中 时， 按 下 合 成 按 钮 来制 作 物 品 。{^N}{^N}
 
-tagTutorialTip43Title=设计图
+tagTutorialTip43Title=设 计 图
 tagTutorialTip43TextA=设 计 图 是 用 来 创 造 强 力 物 品 失 传 的 模 板 ， 铁 匠 可 以 学 习 。
 tagTutorialTip43TextB=要 学 习 一 个 设 计 图 ， 在 它 上 面 右 击 。 如 果 你 还 没 学 过 这 个 设 计 图 ， 它 会 被 加 入 到 你 的 铁 匠 物 品 列 表 中 。{^n}{^n}设 计 图 在 所 有 角 色 间 存 储 （ 区 分 普 通 和 硬 核 模 式 ） 并 且 每 张 设 计 图 只 可 以 学 一 次 。
 
-tagTutorialTip44Title=铁匠不见了!
+tagTutorialTip44Title=铁 匠 不 见 了 !
 tagTutorialTip44TextA=你 学 会 了 一 个 新 设 计 图 ， 但 没 有 能 为 你 制 作 物 品 的 铁 匠 。{^n}{^n}你 必 须 先 找 到 一 个 铁 匠 才 能 制 作 物 品 。{^n}{^n}铁 匠 会 马 上 知 道 怎 么 用 这 个 设 计 图 制 作 物 品 。
 tagTutorialTip44TextB=
 
-tagTutorialTip45Title=体力
+tagTutorialTip45Title=体 力
 tagTutorialTip45TextA=当 战 斗 结 束 你 的 生 命 值 未 满 时 ， 一 个 叫 做 体 力 的 次 级 回 复 系 统 就 会 激 活 。{^N}{^N}体 力 会 快 速 补 满 你 的 生 命 ， 但 是 在 这 个 过 程 中 也 会 被 消 耗 。 在 你 的 生 命 槽 内 的 黄 色 能 量 槽 显 示 的 就 是 体 力 的 多 少 。{^N}{^N}
 tagTutorialTip45TextB=当 你 找 到 食 物 给 养 和 生 命 精 华 的 时 候 体 力 会 自 动 进 行 补 充 ， 升 级 或 者 角 色 死 亡 亦 会 如 此 。{^N}{^N}如 果 你 的 体 力 消 耗 完 了 ， 脱 离 战 斗 后 生 命 值 不 会 再 快 速 回 复 。{^N}{^N}
 
-tagTutorialTip46Title=体力不足
+tagTutorialTip46Title=体 力 不 足
 tagTutorialTip46TextA=你 的 体 力 消 耗 完 了 ， 脱 离 战 斗 后 生 命 值 不 会 再 快 速 回 复 。 你 可 以 通 过 收 集 食 物 给 养 和 生 命 精 华 来 补 充 体 力 。
 
-tagTutorialTip47Title=分解
+tagTutorialTip47Title=分 解
 tagTutorialTip47TextA=你 解 锁 了 发 明 家 的 一 样 新 能 力 ， 让 你 能 将 物 品 分 解 成 废 铁 ， 在 此 过 程 中 有 几 率 额 外 产 生 一 个 部 件 。 越 是 强 力 的 物 品 ， 越 有 机 会 分 解 出 部 件 。
-tagTutorialTip47SubtitleA=分解一件物品
+tagTutorialTip47SubtitleA=分 解 一 件 物 品
 stagTutorialTip47TextB=要 分 解 一 件 物 品 ， 你 需 要 炸 药 和 一 些 铁 币 。 被 分 解 的 物 品 会 被 永 久 摧 毁 ， 在 发 明 家 的 界 面 放 上 一 件 魔 法 品 质 以 上  的 装 备 来 开 始 分 解 吧。{^N}{^N}按 下 分 解 按 钮  ， 炸 药 和  一 些 铁币 会 被 消 耗 ，然 后 该 物 品 就会 被 分 解 。{^N}{^N}

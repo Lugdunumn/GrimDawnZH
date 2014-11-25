@@ -1,6 +1,6 @@
-Devil's Crossing
-The Inventor's Apprentice
-Find the Inventor
+恶魔十字
+发明家的学徒
+寻找发明家
 Kasparov had sent out his apprentice, Darlet, to collect parts for his research and she has yet to return. If she is still alive, she is bound to be in one of the cellars in the Burrwitch Estates. {^n}{^n}Kasparov feels a little responsible for her current situation and has implored you to find her.
 Find Kasparov's Apprentice in the cellars beneath the Burrwitch Estates
 
@@ -15,7 +15,8 @@ Speak with Darlet
 Kasparov's Apprentice should be safe back in Devil's Crossing. {^n}{^n}Speak to her to see how she is recovering from her ordeal.
 
 
-Speak to Darlet in Devil's Crossing
+与恶魔十字的达莱特交谈
+
 
 
 

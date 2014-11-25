@@ -1,4 +1,4 @@
-tagTitleScreenText=恐怖黎明早期先行版{^n}©2014 Crate Entertainment, LLC{^n}{^n}欢迎试玩恐怖黎明早期先行版! 我们非常重视您的反馈。{^n}{^n}请前往www.grimdawn.com{^n}网站来参与到恐怖黎明的开发中来!
+tagTitleScreenText=恐怖黎明早期先行版{^n}©2014 Crate Entertainment, LLC{^n}{^n}欢迎试玩恐怖黎明早期先行版! 我们非常重视您的反馈。{^n}{^n}请前往www.grimdawn.com{^n}来参与到恐怖黎明的开发中来!
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -175,8 +175,6 @@ tagKeybind20=镜头拉近
 tagKeybind21=镜头拉远
 tagKeybind22=镜头拉至最近
 tagKeybind23=镜头拉至最远
-tagKeybind24=切换至下一个技能
-tagKeybind25=切换至上一个技能
 tagKeybind26=丢弃物品
 tagKeybind27=显示物品（无过滤选项）
 tagKeybind28=显示物品说明
@@ -212,7 +210,7 @@ tagAudioOption08=更频繁
 tagAudioOption09=开启环境音效
 tagAudioOption10=开启硬件混音
 tagAudioOption11=环境音效音量
-tagSoundDevice=Audio Device
+tagSoundDevice=设备
 tagSpeakerSetup=扬声器设置
 tagHeadphoneSpeakers=耳机
 tagStereoSpeakers=立体声
@@ -267,12 +265,12 @@ tagVideoOptionSoftParticles=柔和粒子
 tagVideoOptionUIScale=界面调整
 
 tagNetworkTitle=网络
-tagUpnpTitle=UPnP协议:
-tagUpnpStatus=UPnP协议状态：
+tagUpnpTitle=UPnP 协议:
+tagUpnpStatus=UPnP 协议状态：
 tagUpnpAvailable=可用
 tagUpnpNotAvailable=不可用
 tagUpnpHelp=帮助
-tagUpnpControl=激活UPnP
+tagUpnpControl=激活 UPnP
 tagNetworkStatusTitle=网络状态：
 tagNetworkStatusTest=测试
 tagNetworkNoOpts=游 戏 中 网 络 选 项 是 不 可 用 的 。 {^n} 请 退 出 到 主 菜 单 再 打 开 网 络 选 项 。
@@ -286,19 +284,19 @@ tagUPnPNotAvailableHelp=UPnP 不 可 用 。 恐 怖 黎 明 无 法 将 你 的
 tagUPnPEnabledHelp=已 开 启UPnP， 不 需 要 手 动 设 置 。
 tagUPnPDisabledHelp=已 开 启UPnP。 你 的 路 由 器 上 必 须 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 才 能 搭 建 一 个 恐 怖 黎 明 的 服 务 器 。
 
-tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
+tagUPnPHelp=UPnP 协 议 将 能 设 置 你 的 路 由 器 并 使 其 与 恐 怖 黎 明 游 戏 进 行 通 信 。 要 建 立 一 个 互 联 网 上 的 服 务 器 ， 你 的 路 由 器 必 须 打 开 相 应 的 端 口 。 UPnP 可 以 让 恐 怖 黎 明 游 戏 打 开 这 些 端 口 ， 并 且 退 出 的 时 候 再 关 闭 它 们 ， 无 需 手 动 设 置 。
 
-tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
+tagIPCheckHelp=网 络 设 置 检 测 将 会 检 查 路 由 器 是 否 拥 有 一 个 有 效 的 外 部 IP 地 址 ， 并 且 查 看 该 地 址 是 否 与 互 联 网 上 可 见 的 地 址 是 相 同 的 。
 
-tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
+tagIPCheckFail=路 由 器 的 公 共 IP 地 址 与 互 联 网 可 见 的 外 部 IP 地 址 不 一 致 ， 通 常 这 是 因 为 试 图 在 途 径 多 个 路 由 器 之 内 的 网 络 建 立 游 戏 服 务 器 的 缘 故 。 请 检 查 你 的 路 由 器 设 置 并 重 启 游 戏 。
 
-tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
+tagIPCheckFailMaybe=你 的 路 由 器 的 公 共 IP 地 址 ： (%t0) 不 是 一 个 有 效 的 IP 地 址 。 路 由 器 虽 然 正 常 工 作 但 是 没 有 正 确 地 返 回 公 共 地 址 这 种 情 况 也 是 可 能 出 现 的 。 请 检 查 你 的 路 由 器 设 置 ， 确 保 恐 怖 黎 明 的 游 戏 主 机 不 在 多 于 一 台 路 由 器 的 网 络 之 中 。 一 些 互 联 网 提 供 商 使 用 调 制 解 调 器 和 路 由 器 混 合 的 设 备 。 如 果 该 设 备 与 游 戏 主 机 之 间 有 另 外 一 台 路 由 器 的 话 ， 你 将 无 法 建 立 互 联 网 上 的 游 戏 主 机 。
 
-tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
+tagIPCheckPass=网 络 检 测 通 过 ， 路 由 器 的 公 共 IP 地 址 和 互 联 网 可 见 的 外 部 地 址 是 相 吻 合 的 。
 
-tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
+tagIPCheckUnable=无 法 检 测 网 络 设 置 。 测 试 需 要 本 地 路 由 器 激 活 UPnP 协 议 ， 并 且 恐 怖 黎 明 游 戏 也 要 启 用 该 协 议 。 如 果 没 有 启 用 该 协 议 ， 请 启 用 协 议 并 重 启 游 戏 ， 然 后 再 次 运 行 网 络 检 测 。
 
-tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
+tagIPCheckUnableIP=无 法 获 得 外 部 可 见 的 IP 地 址 ， 无 法 运 行 测 试 。
 
 tagIPTesting=正在检测设置……
 tagIPLocalPublic=路由器的公共IP地址：
@@ -325,9 +323,9 @@ tagMultiStats01=地图：
 tagMultiStats02=玩家：{%d0}/{%d1}
 tagMultiStats03=难度：
 tagMultiStats04=游戏已进行时间：
-tagMultiStats05=等级范围+/-
+tagMultiStats05=等级范围 +/-
 tagMultiButtonRefresh=刷新
-tagMultiNameFormat={%t0}（等级{%d0}）
+tagMultiNameFormat={%t0} (等级 {%d0})
 
 tagDefaultMap=恐怖黎明
 tagMenuErrorTitle=信息
@@ -345,16 +343,16 @@ tagMenuError18=无法连接，该房间已满。
 tagMenuError19=无法连接，你的人物还没有解锁该难度。
 tagMenuError20=无效的密码。
 tagMenuError21=该房间需要自定义地图：{%t0}
-tagMenuError21a=此 游 戏 房 间 使 用 了 一 个 不 匹 配 的 游 戏 模 式 。 你 的 游 戏 模 式 ： "{%s0"} ， 服 务 器 的 模 式 ： "{%s1}"
+tagMenuError21a=此 游 戏 房 间 使 用 了 一 个 不 匹 配 的 游 戏 模 式 。 你 的 游 戏 模 式 ： " {%s0} " ， 服 务 器 的 模 式 ： " {%s1} "
 tagMenuError21b=专 家 模 式 和 非 专 家 模 式 的 玩 家 不 能 在 一 起 进 行 游 戏 。 请 选 择 其 他 的 游 戏 房 间 。
 tagMenuError22=该游戏已满，请选择其他游戏房间。
-tagMenuError23=该游戏需要人物等级介于{%d0}~{%d1}之剑。请选择其他游戏房间。
+tagMenuError23=该游戏需要人物等级介于 {%d0} ~ {%d1} 之间。请选择其他游戏房间。
 tagMenuError24=一些改动重启游戏才会生效。
 tagMenuError25=你改变了一些选项，是否应用这些改动？
-tagMenuError26=无法连接至服务器，无效的cdkey
-tagMenuError28=无效的cdkey
-tagMenuError29=cdkey已被使用
-tagMenuError30=cdkey已被禁用
+tagMenuError26=无法连接至服务器，无效的 cdkey
+tagMenuError28=无效的 cdkey
+tagMenuError29=cdkey 已被使用
+tagMenuError30=cdkey 已被禁用
 tagMenuError31=正在建立服务器名单，取消以显示部分服务器。
 tagMenuError32=需要正确的版本才能连接到该服务器，请更新游戏。
 tagMenuError33=无法初始化游戏引擎。
@@ -399,7 +397,7 @@ tagGermanPatch=恐怖黎明现在要将原始对话文档更新到德语版本�
 tagLanguagePatchError=恐怖黎明无法更新原始对话文档。
 tagMenuPatcher01=正在更新恐怖黎明原始文件......
 tagMenuPatcher02=文件错误：
-tagGameSummary={%d0}游戏房间/{%d1}玩家
+tagGameSummary={%d0} 游戏房间 / {%d1} 玩家
 
 tagCharCreatePVP=PVP
 tagCharCreateAutoParty=自动组队
@@ -452,7 +450,7 @@ tagCharDetailsPlayerLocation=位置：
 tagCharDetailsFaction=势力状态
 tagCharDetailsActiveQuests=已激活的任务：
 
-tagDirectConnectMenuConnecting=连接到服务器{%t0}
+tagDirectConnectMenuConnecting=连接到服务器 {%t0}
 tagDirectConnectMenuStatus1=与服务器通讯中……
 tagDirectConnectMenuStatus2=正在连接服务器……
 tagDirectConnectMenuStatus3=连接完成，正在启动游戏。

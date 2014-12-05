@@ -1067,7 +1067,7 @@ tagItemSkillM004Name=奥术专注
 tagItemSkillM004Desc=Enter a trance-like state with each attack, multiplying your arcane power.
 
 tagItemSkillM005Name=狂暴
-tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
+tagItemSkillM005Desc=精神进入狂暴状态，以牺牲耐久性为代价凶猛地攻击敌人。
 
 tagItemSkillM006Name=野兽召唤
 tagItemSkillM006Desc=Call out to the creatures that heed your will, emboldening them.

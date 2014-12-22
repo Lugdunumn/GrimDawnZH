@@ -7,6 +7,18 @@
 我 能 给 你 打 开 一 个 传 送 裂 缝 ， 不 过 你 可 能 不 会 喜 欢 这 种 法 子 的 。
 万 一 身 子 回 去 了 腿 还 留 在 这 边 怎 么 办 ！ {^n}{^n}但 你 没 给 我 别 的 选 择 ， 对 不 对 ？ 把 我 传 送 过 去 吧 。
 放 心 吧 ， 没 事 的 。 （ 打 开 传 送 门 ）
+I can save you, but do you have any coin?
+A fine merchant such as yourself probably has a few coins, yes?
+Well, um, yes. I suppose I do. What are you getting at?
+I'll take you to Devil's Crossing, for some iron bits.
+What? Are you really trying to extort me at a time like this?
+
+*Luther mumbles angrily to himself*
+
+Fine, I'll give you all I've got. Just get me out of here.
+Very good. (Take the Money and Open Riftgate)
+Nevermind, I'll see you in Devil's Crossing (Open Riftgate)
+Forget it. I can open a rift for you.
 请 你 救 救 我 ！
 这 就 来 救 你 。
 谢 天 谢 地 ， 终 于 有 人 来 了 ！ 蛇 人 袭 击 了 我 的 货 车 而 且 杀 光 了 我 的 护 卫 ！ {^n}{^n}我 觉 得 他 们 留 我 一 口 气 儿 是 因 为 下 顿 还 能 吃 口 新 鲜 的 。 那 帮 混 蛋 ！

@@ -1,0 +1,51 @@
+Brother Mollarg
+You have chosen wisely, friend. You shall be welcomed at our enclave.
+Thank you.
+You've made your choice, now leave me be.
+Goodbye.
+I have come to represent Kymon's Chosen, as your superiors have requested.
+
+Goodbye.
+Words
+Where is your enclave located?
+Directions
+
+
+
+
+
+choice
+I think I've made my decision.
+
+The Black Legion will work with you. (Select the Kymon's Chosen)
+
+
+
+Actually, I'll need more time to think this through.
+What can you tell me about Kymon's Chosen?
+We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
+
+Who is Father Kymon?
+
+
+
+
+I'll need some time to think this through.
+Who is Empyrion?
+
+
+
+
+I'll need some time to think this through.
+
+What can you tell me about the Order of Death's Vigil?
+
+
+
+I'll need some time to think this through.
+Goodbye.
+I have come to represent Kymon's Chosen, as your superiors have requested.
+Who are the Kymon's Chosen?
+We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
+I see.
+Goodbye.

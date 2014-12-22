@@ -8,6 +8,9 @@ Speak to Caravan Driver
 Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
 Speak to the captured Caravan Driver
 
+
+
+
 Portal Luther Graves to Safety (Backup for old characters, should no longer be applicable)
 Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
 Speak to the captured Caravan Driver
@@ -18,9 +21,6 @@ Luther Graves should be safe back in Devil's Crossing. {^n}{^n}Speak to him to s
 
 
 Speak to Luther Graves at Devil's Crossing
-
-
-
 
 
 

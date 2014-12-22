@@ -1,0 +1,9 @@
+Aether Cluster
+The crystal hums with aetherial energy.
+(Back away)
+This cluster of Aether crystal appears to be the source the corruption. Its destruction would see an end to Cronley's mad designs.
+
+You hear faint whispers in your head as you approach it, as if a multitude of voices were calling out to you from within the shard.
+Destroy the laboratory and the crystal.
+Destroy the laboratory and keep some of the crystal for yourself.
+Leave the crystal alone.

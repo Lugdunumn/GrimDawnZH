@@ -1,0 +1,45 @@
+Homestead
+Burn the Taken
+Speak to Witch
+You have encountered a group of survivors who were about to burn a young woman they suspect of being a 'Taken'. You asked to speak with her before they do anything rash.
+Speak to Rallia
+Speak to Hostiles
+Rallia has convinced you that she is not a 'Taken', but you must now convince Nathaniel to let her go.
+Convince Nathaniel to let Rallia go
+Kill Hostiles
+You are convinced that the men trying to burn Rallia alive are paranoid, but they refuse to listen to reason. They have become violent when you suggested letting her go. There is only one way out of this. Nathaniel and his lackeys have to die.
+
+
+Kill Bolvis
+Kill Nathaniel
+Kill Vaam
+
+Freed Witch
+You have freed Rallia from her captors, for which she is eternally grateful. Speak to her for a reward.
+
+
+Speak to Rallia
+
+
+
+
+
+
+
+
+
+
+Burn Witch
+You have burnt the 'Taken' Rallia, as she deserved. Speak to Nathaniel about the ordeal.
+
+
+Speak to Nathaniel
+
+
+
+
+
+
+
+
+

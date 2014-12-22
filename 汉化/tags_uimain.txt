@@ -276,6 +276,7 @@ tagNetworkStatusTest=测试
 tagNetworkNoOpts=游 戏 中 网 络 选 项 是 不 可 用 的 。 {^n} 请 退 出 到 主 菜 单 再 打 开 网 络 选 项 。
 tagCloudSaving=开启云存档
 tagResetCloud=删除云存档
+tagDownloadCloud=下载云存档
 
 tagUPnPCheckFail=UPnP 服 务 无 法 设 置 你 的 路 由 器 以 搭 建 一 个 恐 怖 黎 明 服 务 器 。 请 检 查 你 的 路 由 器 设 置 并 开 启 UPnP ， 或 者 如 果 不 行 的 话 ， 手 动 设 置 你 的 路 由 器 ， 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 。
 
@@ -408,10 +409,12 @@ tagCharImportTQCampaign=恐怖黎明战役角色
 tagCharImportTQCustom=恐怖黎明自定义角色
 tagCharImportTitle=恐怖黎明自定义角色
 tagCharImportTitle=导入角色
+tagInstancedLoot=独立战利品掉落
 
 tagLobbyLock=密码已锁定
 tagLobbyDifficulty=难度
 tagLobbyAutoparty=已开启自动组队
+tagLobbyInstancedLoot=独立战利品掉落
 tagLobbyLanguage=语言
 tagLobbyPVP=已开启PVP
 tagLobbyHardcore=已开启专家模式
@@ -490,3 +493,5 @@ tagMenuError10=无法连接至服务器。Mod或者地图版本与主机不匹�
 tagReportUsageStats=是否定性发送匿名的系统和游戏信息以帮助我们改进恐怖黎明？
 tagImportToSteamCloud=已激活Steam云存档S功能。是否导入现有人物？
 tagResetCloudWarning=你确定要删除云存档中的所有人物和数据吗？
+tagDownloadCloudWarning=确定下载云存档？本地存档将会被覆盖！
+tagWorking=进行中...

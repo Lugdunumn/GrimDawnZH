@@ -73,6 +73,9 @@ tagSkillDefaultAttackDescription01=使 用 现 有 的 武 器 攻 击 。
 tagSkillDefaultMoveTo=移 动
 tagSkillDefaultMoveToDescription=移 动 至 选 定 的 地 点 。
 
+tagSkillDefaultPetAttack=战宠攻击
+tagSkillDefaultPetAttackDescription=命令所有可控的宠物攻击。
+
 tagSkillInnate=天 赋
 tagSkillSumLVL=随 着 技 能 等 级 而 提 升 。
 
@@ -219,7 +222,7 @@ tagClass02SkillName06C=烈焰喷射
 tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
 
 tagClass02SkillName07A=防爆护盾
-tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。
+tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。 ^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
 
 tagClass02SkillName07B=奥祖因的选召
 tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 奥 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
@@ -416,7 +419,7 @@ tagClass04SkillName07B=夜之寒气
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
 
 tagClass04SkillName08A=刀灵
-tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
+tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards. ^oBlade Spirits are considered pets and benefit from pet bonuses.
 tagClass04SkillName08PetA=回旋之刃
 tagClass04SkillName08PetB=刀刃突击
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
@@ -484,7 +487,7 @@ tagClass05SkillDescription02A=Iskandra taught her students that the most efficie
 tagClass05SkillName02B=过载
 tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
 tagClass05SkillName02C=元素平衡
-tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity to create pure arcane energy.
+tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=化身
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
 
@@ -764,7 +767,7 @@ tagItemSkillB029Name=霜火之环
 tagItemSkillB029Desc=Surrounds the caster in a ring of ice that chills enemies within its radius.
 
 tagItemSkillB030Name=电球
-tagItemSkillB030Desc=Releases a concentrated burst of static energy at the attacker which passes through foes.
+tagItemSkillB030Desc=Releases a concentrated burst of static energy which passes through foes.
 
 tagItemSkillB031Name=奥术风暴
 tagItemSkillB031Desc=Releases a concentrated burst of arcane energy around you, igniting the air in an instant.
@@ -931,6 +934,8 @@ tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer
 
 tagItemSkillC051Name=召唤奥格纳佩什的亡魂
 tagItemSkillC051Desc=Channel the dark writings of the Grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
+tagItemSkillC051Pet01=盾牌守护
+tagItemSkillC051Pet01Desc=The Revenant wards off nearby allies against crowd control and bolsters their armor and retaliation.
 
 tagItemSkillC052Name=曼海尔的祝福
 tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oThis ability must be toggled to maintain its effect.
@@ -1441,6 +1446,8 @@ tagConsumableSkill_A20=蜂王浆药膏
 tagConsumableSkill_A20Desc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
 tagConsumableSkill_A21=天神之梦魇
 tagConsumableSkill_A21Desc=圣 光 充 盈 你 的 身 体 。 
+tagConsumableSkill_A22=虚化集簇
+tagConsumableSkill_A22Desc=破开水晶体以施放出其中的能量。
 
 #SkillsGeneral
 
@@ -1495,6 +1502,9 @@ tagReallocationDescription=点 击 技 能 图 标 会 移 除 一 个 技 能 �
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me
 
-#ItemSets
 
-tagItemSetA001=死魂套装
+
+#EnemySkills 敌人技能
+
+tagEnemySkillA01=绝望光环
+tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.

@@ -1,0 +1,7 @@
+Detonation Site
+This must be the spot described in the old will. The farmhands did a thorough job in covering up the passage. You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 1 Dynamite to clear a path.
+Not enough Dynamite.
+Clear the Avalanche.
+Leave it.
+You have cleared this avalanche.
+Ok.

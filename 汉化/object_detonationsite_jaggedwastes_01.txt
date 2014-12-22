@@ -1,0 +1,7 @@
+Detonation Site
+Looks like this path has been blocked off by an avalanche. You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 3 Dynamite to clear a path.
+Not enough Dynamite.
+Clear the Avalanche.
+Leave it.
+You have cleared this avalanche.
+Ok.

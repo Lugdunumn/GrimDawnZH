@@ -372,34 +372,34 @@ tagClass04SkillName01D=狂热投掷
 tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 ， 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
 
 tagClass04SkillName02A=暗影突袭
-tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^o需 要 一 把 近 战 武 器 。
+tagClass04SkillDescription02A=幻 术 与 精 神 扭 曲 的 巧 妙 结 合 使 你 几 近 消 失 并 像 梦 魇 中 的 幽 灵 一 样 显 身 在 你 的 目 标 上 方 。 ^o需 要 一 把 近 战 武 器 。
 tagClass04SkillName02B=尼达拉的正义裁决
-tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
+tagClass04SkillDescription02B=作 为 一 个 被 大 多 数 夜 刃 所 厌 弃 的 毒 师 ，尼 达 拉 主 张 结 果 证 明 一 切 。这 项 在 传 统 暗 影 突 袭 上 的 毒 性 扭 曲 ，会 确 保 任 何 在 初 始 攻 击 下 还 存 活 着 的 敌 人 的 悲 惨 结 局。
 tagClass04SkillName02C=暗夜降临
-tagClass04SkillDescription02C=As you reappear and engage your prime target, a pall of darkness will descend upon surrounding enemies like the darkest, coldest night, chilling their blood and invading their minds with an uncontrollable weariness.
+tagClass04SkillDescription02C=当 你 现 身 并 与 主 要 目 标 交 战 时 ，一 片 黑 暗 将 如 黑 暗 寒 冷 的 夜 晚 般 降 临 于 周 围 的 敌 人 ，冻 结 他 们 的 血 液 并 将 无 法 控 制 的 疲 倦 侵 入 他 们 的 思 想 。
 
 tagClass04SkillName03A=刀锋刺盾
-tagClass04SkillDescription03A=For a master Nightblade, Belgothian was rumored to lack fine control of his conjuring; but he had the unremitting willpower to summon so many blades that they would form an impenetrable shield surrounding him, giving him a moment of respite from his foes.^o技 能 作 用 期 间 你 将 不 能 移 动 。
+tagClass04SkillDescription03A=对 于 一 个 夜 刃 大 师 来 说 ，传 言 贝 尔 戈 蒂 安 对 他 的 魔 力 缺 乏 有 效 的 控 制 ；不 过 他 拥 有 不 懈 的 意 念 来 召 唤 大 量 的 刀 刃 来 组 成 一 面 环 绕 他 的 坚 盾 ，给 他 在 敌 人 面 前 片 刻 的 喘 息 。^o技 能 作 用 期 间 你 将 不 能 移 动 。
 
 tagClass04SkillName04A=钢铁之环
 tagClass04SkillDescription04A=眨 眼 间 ， 上 百 把 幻 影 刀 锋 以 致 人 死 地 的 速 度 环 绕 着 你 ， 消 灭 邻 近 的 敌 人 。
 tagClass04SkillName04B=屠戮之环
 tagClass04SkillDescription04B=锋 利 的 幻 影 刀 锋 深 深 地 切 割 圆 环 范 围 内 的 敌 人 ， 使 他 们 流 出 大 量 的 鲜 血 。
 tagClass04SkillName04C=寒霜之环
-tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage.
+tagClass04SkillDescription04C=强 力 的 气 动 技 巧 使 钢 铁 之 环 从 附 近 的 空 气 中 获 取 能 量 ，增 强 冰 冷 伤 害 并 冰 冻 敌 人 ，不 过 需 要 以 穿 刺 伤 害 为 代 价 。
 
 tagClass04SkillName05A=双刃
-tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription05A=夜 刃 技 能 中 最 基 本 的 便 是 近 战 双 持 的 精 通 ，就 像 他 们 喜 欢 使 用 尖 利 的 刀 刃 , 和 那 些 使 钢 铁 中 产 生 元 素 之 寒 的 艺 术 。 ^o这 是 一 项 双 持 加 成 。 同 时 开 启 双 持 近 战 武 器 的 能 力 。
 tagClass04SkillName05B=贝尔戈蒂安的切割
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05B=健 壮 的 贝 尔 戈 蒂 安 是 轻 盈 的 夜 刃 大 师 中 的 异 数 ，不 过 他 在 原 始 的 力 量 上 超 越 了 他 们 。借 助 于 他 的 力 量 的 如 剪 刀 般 直 接 致 命 的 攻 击 ，贝 尔 戈 蒂 安 经 常 一 击 终 结 敌 人 。 ^o这 是 一 项 近 战 双 持 技 巧 。
 tagClass04SkillName05C=阿玛拉斯塔的瞬影
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05C=因 其 速 度 而 成 为 传 奇 , 阿 玛 拉 斯 塔 的 刀 刃 据 说 像 一 条 空 气 中 的 鞭 子 ，只 留 下 一 条 快 的 肉 眼 难 以 捕 捉 的 光 。这 项 技 艺 的 大 师 能 够 在 普 通 攻 击 的 时 间 内 打 击 三 次 。^o这 是 一 项 近 战 双 持 技 巧 。
 tagClass04SkillName05D=死亡旋风
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^o这 是 一 项 近 战 双 持 技 巧 。
 tagClass04SkillName05E=尼达拉的隐手
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
 tagClass04SkillName05F=处决
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^o这 是 一 项 近 战 双 持 技 巧 。
 
 tagClass04SkillName06A=气爆
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
@@ -408,7 +408,7 @@ tagClass04SkillDescription06B=Practice in combat meditation allows you to achiev
 tagClass04SkillName06C=元素觉醒
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 tagClass04SkillName06D=贝尔戈蒂安的呼吸
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^o这 是 一 项 近 战 双 持 技 巧 。同 时 开 启 双 持 近 战 武 器 的 能 力 。
 
 tagClass04SkillName07A=暗影面纱
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.

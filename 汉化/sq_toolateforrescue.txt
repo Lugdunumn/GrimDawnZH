@@ -1,0 +1,17 @@
+Deadman's Gulch
+Too Late for Rescue
+Find refugee
+Collin Taverin, one of the refugees from Deadman's Gulch, has implored you to enter the Mountain Deeps nearby and discover what happened to his sister, Dahlia. He fears the worst.
+Find Dahlia in the Mountain Deeps
+
+Return to Collin
+You have discovered the fate of the missing refugee. You should inform Collin Taverin of the news he was dreading. Collin is located in Deadman's Gulch, or in Homestead if you have rescued him and the other refugees from the dreaded gulch.
+Return to Collin Taverin
+
+
+
+
+
+
+
+

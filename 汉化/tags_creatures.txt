@@ -30,14 +30,23 @@ tagZealot_AncestralSpirit=先祖之魂
 #CreatureAetherial
 
 tagAetherCrystalA01=虚化水晶
+tagAetherCrystalA02=Aether Crystal Cluster
+tagAetherCrystalA03=Aether Crytal Formation
 tagAnomalyB01=扭曲元素
 tagWindDevil_PoisonA01=毒风恶魔
 tagAetherObeliskA01=虚灵方尖碑
 tagAetherObeliskB01=虚灵大地塑型者
 
+tagBossAetherObelisk01=Herald of the Flame
+
 tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影
 tagEnemyAetherialC01=虚灵幽魂
+
+tagEnemyAetherialAbominationB01=Aetherial Abomination
+tagEnemyAetherialAbominationC01=Fused Terror
+
+tagAetherialAbominationBoss01=The Amalgamation
 
 #CreatureBoar
 
@@ -109,11 +118,13 @@ tagVoidFiendBoss01=地狱之火 巴洛格纳斯
 
 tagEnemyChthonianDevourerA01=冥灵饥饿者
 tagEnemyChthonianDevourerB01=冥灵吞噬者
+tagEnemyChthonianDevourerB02=Chthonian Gorger
 
 tagChthonianDevourerHeroH01=湮灭之爪 紐加鲁
 tagChthonianDevourerHeroH02=饥饿之胃 萨戈丁
-tagChthonianDevourerHeroH03=奈卡祖尔 ~ 燃烧
-tagChthonianDevourerHeroH04=沃班纳 ~ 带电
+tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
+tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖尔 
+tagChthonianDevourerHeroH04=火花巨口 沃班纳
 
 #CreatureDranghoul 咆哮巨兽
 
@@ -173,6 +184,7 @@ tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔
 tagGhostBoss05=行刑者领主 阿卡莫斯
+tagGhostBoss06=悲伤魂灵
 
 #CreatureGolem 傀儡
 
@@ -276,6 +288,7 @@ tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
 tagEnemyBloodswornMiniBoss02=血之羁绊 伯瓦尔
 tagEnemyBloodswornMiniBoss03=屠刀 扎里亚
 tagBloodswornBoss01=血领主 泰隆尼斯
+tagBloodswornBoss02=Karroz, Sigil of Ch'thon
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯  ~ 恶棍
@@ -362,6 +375,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
++tagDermapteranBoss04=Vizier Anoxis
 
 #CreatureInsectMosquito 蚊子
 
@@ -405,9 +419,12 @@ tagInsectSwarmHeroH03=灾荒 奥姆诺 ~ 疾病
 
 #CreatureManticores 蝎尾狮
 
-tagEnemyManticoreA01=黑鬃蝎尾狮
-tagEnemyManticoreB01=蝎尾狮夜行者
+tagEnemyManticoreA01=白鬃蝎尾狮
+tagEnemyManticoreA02=黑鬃蝎尾狮
+tagEnemyManticoreB01=蝎尾狮废土追猎者
+tagEnemyManticoreB02=蝎尾狮夜行者
 tagEnemyManticoreC01=蝎尾狮领袖
+
 
 tagManticoreHeroH01=翡翠猎手 拉科萨
 tagManticoreHeroH02=死亡之眼 奈隆
@@ -438,6 +455,9 @@ tagEnemyPrawnB01=雷鳞 裂隙之灾
 tagEnemyPrawnB02=剑脊 裂隙之灾
 tagEnemyPrawnC01=被感染者 裂隙之灾
 tagEnemyPrawnSummonA01=聚生者 裂隙之灾
+
+tagEnemyCavePrawnA01=Pale Cavern Crawler
+tagEnemyCavePrawnB01=Albino Cavern Crawler
 
 tagPrawnHeroH01=贪婪的拉娃克里克斯
 tagPrawnHeroH02=先祖 帕拉克斯克斯
@@ -599,9 +619,10 @@ tagSpiderHeroH06=育母蜘蛛 奥蒂娜 ~ 防御者
 
 #CreatureThornedHorror 荆棘恐魔
 
-tagEnemyThornedHorrorA01=荆棘草恐兽
-tagEnemyThornedHorrorB01=荆棘草惧兽
-tagEnemyThornedHorrorC01=荆棘草巨兽
+tagEnemyThornedHorrorA01=荆棘恐兽
+tagEnemyThornedHorrorB01=荆棘惧兽
+tagEnemyThornedHorrorC01=荆棘巨兽
+
 
 tagThornedHorrorHeroH01=魔窟 泰若利恩
 tagThornedHorrorHeroH02=疯长的科普拉克斯
@@ -612,7 +633,7 @@ tagThornedHorrorHeroH06=寒霜树皮 ~ 冰冻
 
 tagThornedHorrorBoss01=血荆棘
 
-tagEnemyAetherHorrorA01=
+tagEnemyAetherHorrorA01=虚化荆棘恐兽
 
 tagThornedHorrorHeroH07=艾泽若斯
 
@@ -664,9 +685,9 @@ tagTrollCorruptedBoss01=屠杀者 哈拉斯
 
 #CreatureUnderdwellers
 
-tagEnemyCaveTrollHalfA01=地下栖息者 暴徒
-tagEnemyCaveTrollHalfB01=地下栖息者 蛮族
-tagEnemyCaveTrollHalfB02=地下栖息者 法师
+tagEnemyCaveTrollHalfA01=穴居人饮血者
+tagEnemyCaveTrollHalfB01=穴居人血肉撕裂者
+tagEnemyCaveTrollHalfB02=穴居人血法师
 tagEnemyCaveGrobleA01=地下栖息者 矮人
 tagEnemyCaveGrobleB01=地下栖息者 祭司
 tagEnemyCaveTrollB01=地下栖息者 巨魔
@@ -697,6 +718,7 @@ tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御者
 
 tagCaveSpiderBoss01=幽冥编织者 安苟利亚克斯
 tagCavePrawnBoss01=捕食者 伊克里克斯
+tagCaveTrollHalfBoss01=Gollus, the Deepdweller
 
 #creatureVultures 秃鹫
 
@@ -714,6 +736,8 @@ tagHeroVultureH05=虚空利爪 ~ 虚化之触
 
 tagEnemyWormA01=撼地者 钻地虫
 tagEnemyWormB01=撼地者 腐虫
+
+tagEnemyWormDeepDwellerA01=Deepdweller Grub
 
 tagWormHeroH01=嗜怒者 格拉夫内尔
 tagWormHeroH02=裂地者 ~ 带电
@@ -770,9 +794,10 @@ tagReanimatorHeroH02=不灭的高罗格 ~ 勇不可挡
 tagReanimatorHeroH03=尸体发火 ~ 伤害反弹
 tagReanimatorHeroH04=腐化者 阿兹加洛格 ~ 防御者
 
-tagReanimatorBossH01=桀斯兰特， 背叛的
-tagReanimatorBossH02=酂布兰特， 巅峰的
+tagReanimatorBossH01=背叛者 桀斯兰特
+tagReanimatorBossH02=高阶虚灵 酂布兰特
 tagReanimatorBossH03=寒冰恐惧
+tagReanimatorBossH04=堕落者 那扎格拉德
 
 #Pets 宠物
 
@@ -812,7 +837,7 @@ tagEnemySummonAetherTrap=虚化陷阱
 tagQuestEnemyReanimator=死尸复生者 凯奥格
 tagQuestEnemyMiltonHart=弥尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
-tagQuestChthonianMonstrosity=拆解者 马加赛尔
+tagQuestChthonianMonstrosity=拆解者 马格赛尔
 
 tagBossTheWarden01=典狱长
 

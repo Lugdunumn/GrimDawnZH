@@ -1,5 +1,10 @@
 艾姆卡拉
 你知道安克维亚就是罗瓦里的诞生地吗？你如果有时间听故事的话，我能给你讲述许多这片土地的过往。
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.
+
+I will make certain that all rovers who visit here learn of their contents.
+Farewell.
 请讲，我非常有兴趣了解古安克维亚的故事。
 The ruins that dot the landscape here were once part of a thriving culture in ancient times. Arkovia prospered by acting as a trade hub between the western lands and the great lake.{^n}{^n}From the little fishing village of New Harbor, which is hardly a harbor at all, the stone pylons of Arkovia's once massive docks can be seen still jutting from the water, the wood long rotted away.
 
@@ -33,8 +38,10 @@ As Arkovia waned, the Oligarchs became increasingly desperate and driven to extr
 May your path be true.
 再见。
 一路平安，小心这片土地上的魂灵。他们阴险狡诈。
+
 我会留心你说的话的。
 我们永远欢迎你。
+
 
 
 谢谢你，我会记得的。

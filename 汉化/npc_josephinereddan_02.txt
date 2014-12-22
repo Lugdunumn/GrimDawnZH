@@ -1,0 +1,41 @@
+Josephine Reddan
+If you're looking for wares, speak to my father.
+Farewell.
+Maybe I was wrong about you.
+I try to do what's best.
+Hello, my father's told me about you. It's not every day you meet someone friendly and understanding out there in the wilds.
+Your father seems like a good man.
+He's always looking out for me, especially now that mom's passed on.
+I'm sorry to hear that.
+Pleased to meet you.
+I've heard about you. You extorted my father for money out on the road. People like you don't deserve to be here.
+I just did what I thought was right.
+That so? If you're so sure, then give us back what you stole.
+Very well, here. (Give 1000 Iron Bits)
+Oh, well um, I wasn't expecting you to actually give it back.
+
+Thank you.
+Consider it a misunderstanding.
+Very well, here. (Give 4000 Iron Bits)
+Oh, well um, I wasn't expecting you to actually give it back.
+
+Thank you.
+Consider it a misunderstanding.
+Very well, here. (Give 9000 Iron Bits)
+Oh, well um, I wasn't expecting you to actually give it back.
+
+Thank you.
+Consider it a misunderstanding.
+Sorry, I can't do that.
+Figured you for scum. Just leave us alone.
+Goodbye.
+Hm, I'm afraid I don't have it anymore.
+Your father stole from Drew.
+Is that what that slimy slith told you?
+
+Drew tried to rape me in my sleep and my father defended me from him!
+
+I'm sorry, perhaps there was a misunderstanding.
+Goodbye.
+Hello. My father's still setting up shop. You should speak to him if you need to buy something.
+Farewell.

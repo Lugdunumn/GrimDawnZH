@@ -129,8 +129,8 @@ tagFactionStateEnemy3=厌恶
 tagFactionStateEnemy2=轻视
 tagFactionStateEnemy1=敌对
 tagFactionStateNeutral=容忍
-tagFactionStateFriend1=认可
-tagFactionStateFriend2=友好
+tagFactionStateFriend1=友善
+tagFactionStateFriend2=尊重
 tagFactionStateFriend3=信赖
 tagFactionStateFriend4=尊敬
 tagFactionStateFriend5=敬畏
@@ -140,13 +140,17 @@ tagFactionStateReviled=痛斥
 tagFactionStateHostile=敌对
 tagFactionStateUnfriendly=不友好
 tagFactionStateSuspicious=怀疑
-tagFactionStateFriendly=友好
+tagFactionStateFriendly=友善
 tagFactionStateTrusted=信赖
 tagFactionStateHonored=尊敬
 tagFactionStateRevered=敬畏
 tagFactionProgress=提升至下一等级需要：{^b}{%d0}
 tagFactionStatusChange={^w}你现在和{^b}{%s1}{^w}处于{%s0}关系
 tagFactionEnemies=敌对：{^b}
+tagFactionDiscountPositive=声望折扣: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=声望折扣: {^g}- {%.0f0}%
+tagFactionDiscountZero=声望折扣: {^s}{%.0f0}%
+tagFactionDoorLocked={^r}你所在的阵营{^b}{%s0}{^r}不允许你进入这个地方
 
 #HUD
 
@@ -308,7 +312,7 @@ tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击：
 tagCharStatsOAHit=击中几率：
 tagCharStatsOACrit=暴击几率：
-tagCharStatsOADescription=更 强 的 攻 击 能 力 能 提 升 你 近 战 和 远 程 攻 击 击 中 的 机 会 ， 提 升 暴 击 几 率 和 暴 击 伤 害 。 进 攻 能 力 弱 于 敌 人 的 防 御 能 力 会 极 大 地 增 加 你 的 攻 击 未 命 中 几 率 。 进 攻 能 力 受 技 能 、 物 品 和 灵 巧 影 响 。
+tagCharStatsOADescription=更 强 的 攻 击 能 力 能 提 升 你 攻 击 和 法 术 击 中 的 机 会 ， 提 升 暴 击 几 率 和 暴 击 伤 害 。 进 攻 能 力 弱 于 敌 人 的 防 御 能 力 会 极 大 地 增 加 你 的 攻 击 未 命 中 几 率 。 进 攻 能 力 受 技 能 、 物 品 和 灵 巧 影 响 。
 
 tagCharStatsDAAlert=防御能力 {^b}(?) 
 tagCharStatsDA=防御能力
@@ -332,6 +336,7 @@ tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
 tagRollFormat13={%s0} {^b}{%.1f1}%
 tagRollFormat14={%s0} {^b}{%.0f1}
 tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -741,6 +746,15 @@ tagVendorTab04B=老旧圣物和自制药水都在这儿。
 tagVendorTab05A=买回
 tagVendorTab05B=改 变 主 意 了 ？ 在 商 人 这 儿 可 以 原 价 买 回 卖 出 的 物 品 。 一 旦 你 离 开 ， 出 售 就 成 交 了 。
 
+tagFactionVendorTab01A=友善
+tagFactionVendorTab01B=友善
+tagFactionVendorTab02A=尊重
+tagFactionVendorTab02B=尊重
+tagFactionVendorTab03A=尊敬
+tagFactionVendorTab03B=尊敬
+tagFactionVendorTab04A=敬畏
+tagFactionVendorTab04B=敬畏
+
 tagVendorRolloverName=废品收集商人
 tagVendorRolloverDescription=这 些 商 人 向 敢 于 离 开 人 类 据 点 出 去 冒 险 的 人 售 卖 搜 集 来 的 或 是 偷 来 的 货 物 ， 利 用 人 类 的 灾 难 来 牟 利 。 最 好 别 打 听 这 些 货 物 的 出 处 。
 
@@ -757,6 +771,7 @@ tagMarketError01=你没有足够的铁币。
 tagMarketError02=你的库存没有足够的空间。
 tagMarketError03=该物品已经被售出。
 tagMarketError04=该物品无法被售出。
+tagMarketError05=你的声望不够。
 CanNotBeSoldHere=这个店主不接受该物品。
 Sold=已售出
 
@@ -937,7 +952,8 @@ tagInfoButtonOk=好
 tagGameOver=你死了！
 
 SimpleStringFormat={%s0}
-SimpleStringsFormat={%s0} {%s1}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
 SkillBaseNamesFormat={    %s0}
 CostFormat=花费：{%d0}
 ManaDisplayFormat=能量值 {%d0} / {%d1} ({%d2} 点预留)
@@ -1117,6 +1133,7 @@ IntelligenceText={%.0f0} 智力
 FloatFormat={%.0f0}
 Float1Format={%.1f0}
 Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
 IntFormat={%d0}
 CharacterLevelDescription={%s0} - [{%d1} 级]
 ObjectIdFormat=({%d0})
@@ -1283,6 +1300,7 @@ tagSetItems=({%d0}) 套装
 tagSecond={^E}秒
 tagSeconds={^E}秒
 DamagePerSecond= {%.1f0}{^S}点每秒伤害(装备后)
+DamagePerSecondOffHand={%.1f0} {^S}每秒伤害(副手)
 DamagePhysicalChance={^E} 点物理伤害
 DamageBasePhysical={^S} 点物理伤害
 DamageBasePierceRatio={%.0f0}% {^S}护甲穿透

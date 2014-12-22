@@ -1,0 +1,90 @@
+Deathmark Vallar
+You have served the Black Legion well. We do not forget our allies.
+Farewell.
+These are dangerous parts. Best be moving back the way you came.
+Farewell.
+How goes the battle against Bloodfeast?
+It wasn't easy, but Bloodfeast is dead.
+You are a brutal and effective fighter. I'd hate to run into you on a battlefield. Glad to have you on our side.
+
+I will be sure to include you in my report back to Captain Somer in Homestead.
+Farewell.
+How goes the battle against Bloodfeast?
+Where is the dranghoul?
+You will find Bloodfeast the Ruthless entrenched in an old fort to the east known as Tyrant's Hold. He has rallied many grobles to his side, so prepare for a prolonged conflict.
+I will end his life.
+I'm still working on it.
+Bloodfeast the Ruthless is a vicious dranghoul that has driven the local grobles into a frenzy. With the dranghoul rallying them under a single banner, the grobles are becoming a serious threat to the region that cannot be ignored.
+
+If you slay Bloodfeast, then the grobles should scatter and return to their tribal groups. Bloodfeast makes his home in a nearby ruined fort known as Tyrant's Hold, to the east. Slay him and I will provide you with some of the rare materials we have gathered on our hunts.
+I will slay Bloodfeast.
+You will have to handle this one yourself.
+I have already slain the groble tyrant.
+
+Any progress with spider queen?
+The Gloomweaver is no more.
+You are efficient, I like it. You would do well in the Deathmarks.
+
+I've got your iron bits right here, and one last mission, if you are up for it.
+What do you need?
+
+Any progress with spider queen?
+Where should I look for the Ungoliax?
+The spider queen makes her lair in one of the caverns in the Shaded Basin, just south of here. Beware of her spawn. They are as ravenous as their matron.
+I will hunt her down.
+Still working on it.
+You have proven yourself against Mogara, I'll give you that, but there are far greater threats still out there. A great spider the farmers call Ungoliax the Gloomweaver has her lair in a cavern somewhere within the Shaded Basin, to the south.
+
+Her spawn crawl out of the darkest places of the world in order terrorize the locals and gather food for their ravenous queen. This must end.
+
+Destroy the spider queen and I will see that you are rewarded with iron bits.
+I will find this Gloomweaver.
+No thanks.
+The Gloomweaver is already dead at my hands.
+
+How goes the hunt?
+Mogara lies dead.
+Impressive. That beast put one of my men out of commission for a week. Your iron, as promised.
+
+Now, if you're willing, I've got more work for a capable hunter such as yourself.
+What do you need done?
+
+How goes the hunt?
+Where should I be looking?
+The Jagged Waste to the west of the camp is where you will find most of the manticores around here. I would guess that Mogara will be among her pride.
+I will hunt her down.
+I'm still tracking the beast.
+That's far enough. You have entered a Black Legion camp. State your business.
+I'm looking to do my part.
+Hm, well my men are stretched thin and the beasts are numerous. You would do us all a favor by killing just about anything roaming the wilds. But if you are keen on risking your life, I do have a few targets in mind that I would gladly pay you to eliminate.
+
+To the west is an area known as the Jagged Waste. There you will find a pride of manticores. Their matriarch, Mogara, is a bloodthirsty beast with a taste for human flesh. Put her down and I will give you a fine share of iron bits.
+I will hunt down Mogara.
+On second thought, nevermind.
+I have already slain the manticore matriarch.
+
+What are you doing out here?
+We are on the hunt for dangerous wildlife. With humanity on the run, beasts have begun crawling out of their dank holes.
+
+We are here to make sure that they cause no more harm to the people of Homestead.
+Where is Homestead?
+Head back the way you came. Follow the Dusty Road until you reach farmland. Homestead lies not far beyond.
+Thanks.
+Need any assistance?
+
+Hope it goes well.
+Black Legion?
+That's correct. We are the Death's Bannermen, defenders of the empire. You are addressing Sergeant Vallar of the Deathmarks.
+Defenders of the empire? Great job.
+I take it you weren't in the capital when the Aetherials attacked?. We were gravely outnumbered, facing a foe unlike any men had ever seen.
+
+The commander gave the only sane order there was: retreat. Many of us didn't make it out of there, killed or worse...possessed.
+
+Used to think those that perished were the lucky ones. Not so sure anymore with the dead rising.
+I'm sorry. Do you need any help here?
+
+I'm sorry I jumped to conclusions.
+I'd like to help, if you need me.
+
+Farewell.
+I'm just passing through.

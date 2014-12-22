@@ -33,7 +33,7 @@ tagMapBrokenTeeth=破碎之牙
 tagMapDevilsSpur=恶魔山脊
 tagMapNecropolis=大墓地
 tagMapOldGrove=古老林地
-tagMapVoidlands=虚无之地
+tagMapVoidlands=冥灵虚空
 
 tagMapBrokenHills=破碎丘陵
 tagMapOldArkovia=古安克维亚
@@ -47,16 +47,105 @@ tagMapNewHarbor=新港
 tagMapBarrenHighlands=贫瘠高地
 tagMapCrumblingWatch=瞭望塔遗迹
 tagMapCronleysHideout=克隆利的藏身处
+
 tagMapSmugglersPass=走私者的通道
-tagMapJaggedWaste=锯齿荒地
 tagMapDeadmansGulch=亡者峡谷
-tagMapHighPass=高地山口
-tagMapAlpineRoad=高山道路
 tagMapMountainDeeps=山脉深渊
 
-tagMapLedgewood01=利奇伍德
+tagMapDustyRoad=采矿者小径
+tagMapShadedBasin=幽暗盆地
+tagMapPineBarrens=松林荒地
+tagMapJaggedWaste=锯齿荒地
+tagMapJaggedWasteFort=暴君的要塞
+
 tagMapWitheringFields01=干枯田地
-tagMapHomestead01=霍姆斯特德
+tagMapHomestead=霍姆斯特德
+tagMapInfestedFarms=感染农田
+tagMapRottedHarvest=腐坏田地
+tagMapCorruptedPasture=The Gruesome Harvest
+tagMapOldGrove=古老林地
+tagMapInfestedField01=Thornsbury Farm
+tagMapInfestedField02=Elmsworth Farm
+
+tagMapLedgewood01=利奇伍德
+tagMapAlpineRoad=高山道路
+
+#Riftgate Names
+
+tagRiftDevilsCrossing=恶魔十字传送门
+tagRiftLowerCrossing=下游渡口传送门
+tagRiftBurrwitchRoad=迷雾河畔传送门
+tagRiftWightmire=尸妖泥沼传送门
+tagRiftFloodedPassage=浸没通道传送门
+tagRiftBurrwitchOutskirts=伯尔维治郊外传送门
+tagRiftBurrwitchVillage=伯尔维治村传送门
+tagRiftWardensCellar=典狱长的地下室传送门
+tagRiftWardensLabratory01=地下通道传送门
+tagRiftWardensLabratory02=典狱长的实验室传送门
+
+tagRiftBrokenHills=破碎丘陵传送门
+tagRiftOldArkovia=古安克维亚传送门
+tagRiftArkovianFoothills=安克维亚山麓传送门
+tagRiftCronleysHideout=克隆利的藏身处传送门
+tagRiftTwinFalls=双子瀑布传送门
+tagRiftSmugglersPass=走私者的通道传送门
+tagRiftSmugglersRoad=尘土之路传送门
+tagRiftJaggedWaste=松林荒地传送门
+tagRiftDeadmansGulch=亡者峡谷传送门
+tagRiftAlpineRoad=高山道路传送门
+
+tagRiftHomestead=霍姆斯特德传送门
+tagRiftWitheringFields=干枯田地传送门
+tagRiftRottedHarvest=The Rotted Harvest
+tagRiftOldGrove=古老林地
+
+tagRiftRandom01=冥灵传送门
+
+#World Map Labels
+
+tagWorldMapBurrwitchEstates={^w}伯尔维治{^n}{^w}庄园
+tagWorldMapAbandonedWaterFront={^w}废弃码头
+tagWorldMapBurrwitchVillage=伯尔维治村
+tagWorldMapHallowedHill={^w}神圣丘陵
+tagWorldMapMudRow={^w}泥泞街道
+tagWorldMapMolderingFields={^w}腐坏田地
+tagWorldMapBurrwitchGraveyard={^w}伯尔维治{^n}{^w}墓园
+tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
+tagWorldMapTheFoggyBank=迷雾河畔
+tagWorldMapSoddenHollow={^w}湿润山谷
+tagWorldMapWightmire=尸妖泥沼
+tagWorldMapTheOldDump={^w}旧{^n}{^w}垃圾场
+tagWorldMapBurialHill={^w}殓葬山
+tagWorldMapLowerCrossing=下游渡口
+tagWorldMapDevilsCrossing=恶魔十字
+tagWorldMapKymonsRetreat={^w}凯蒙的{^n}{^w}隐居处
+tagWorldMapArkovianFoothills=安克维亚{^n}山麓
+tagWorldMapCrumblingWatch={^w}瞭望塔遗迹
+tagWorldMapTheRockyCoast={^w}岩石海岸
+tagWorldMapStauntonMine={^w}斯汤顿矿洞
+tagWorldMapNewHarbor={^w}新港
+tagWorldMapTheFourHills={^w}四山
+tagWorldMapOldArkovia=古安克{^n}维亚
+tagWorldMapTheStepsOfTorment={^w}苦痛阶梯
+tagWorldMapBrokenHills=破碎丘陵
+tagWorldMapTwinFalls={^w}双子瀑布
+tagWorldMapBarrenHighlands={^w}贫瘠高地
+tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
+tagWorldMapProspectorsTrail=采矿者{^n}小径
+tagWorldMapDeadmansGulch=亡者峡谷
+tagWorldMapPineBarrens=松林{^n}荒地
+tagWorldMapJaggedWaste=锯齿{^n}荒地
+tagWorldMapShadedBasin=幽暗盆地
+tagWorldMapTyrantsHold=暴君的{^n}要塞
+tagWorldMapAureateValley=金色{^n}山谷
+tagWorldMapWitheringFields=干枯{^n}田地
+tagWorldMapHomestead=霍姆斯特德
+tagWorldMapInfestedFarms=感染农田
+tagWorldMapRottingCroplands=腐坏{^n}田地
+tagWorldMapGruesomeHarvest=The Gruesome{^n}Harvest
+tagWorldMapBloodGrove=血森林
+tagWorldMapSorrowsBastian=悲伤城堡
+
 
 #Underground Names
 
@@ -91,70 +180,18 @@ tagUGBrokenHills02A=痛苦
 tagUGBrokenHills02B=不幸
 tagUGBrokenHills02C=折磨
 tagUGBrokenHills02D=悲恸
-tagUGBrokenHills02E=犹若波拉克的折磨
+tagUGBrokenHills02E=尤若布鲁克的折磨
 tagUGBrokenHills03=废弃兽穴
 tagUGBrokenHills04=走私者的通道
 tagUGBrokenHills05=尖啸山谷
 
-#Riftgate Names
-
-tagRiftDevilsCrossing=恶魔十字传送门
-tagRiftLowerCrossing=下游渡口传送门
-tagRiftBurrwitchRoad=迷雾河畔传送门
-tagRiftWightmire=尸妖泥沼传送门
-tagRiftFloodedPassage=浸没通道传送门
-tagRiftBurrwitchOutskirts=伯尔维治郊外传送门
-tagRiftBurrwitchVillage=伯尔维治村传送门
-tagRiftWardensCellar=典狱长的地下室传送门
-tagRiftWardensLabratory01=地下通道传送门
-tagRiftWardensLabratory02=典狱长的实验室传送门
-
-tagRiftBrokenHills=破碎丘陵传送门
-tagRiftOldArkovia=古安克维亚传送门
-tagRiftArkovianFoothills=安克维亚山麓传送门
-tagRiftCronleysHideout=克隆利的藏身处传送门
-tagRiftTwinFalls=双子瀑布传送门
-tagRiftSmugglersPass=走私者的通道传送门
-tagRiftHighPass=高地山口传送门
-tagRiftJaggedWaste=锯齿荒地传送门
-tagRiftDeadmansGulch=亡者峡谷传送门
-tagRiftAlpineRoad=高山道路传送门
-
-tagRiftWitheringFields=干枯田地传送门
-tagRiftHomestead=霍姆斯特德传送门
-
-tagRiftRandom01=冥灵传送门
-
-#World Map Labels
-
-tagWorldMapBurrwitchEstates={^w}伯尔维治{^n}{^w}庄园
-tagWorldMapAbandonedWaterFront={^w}废弃码头
-tagWorldMapBurrwitchVillage=伯尔维治村
-tagWorldMapHallowedHill={^w}神圣丘陵
-tagWorldMapMudRow={^w}泥泞街道
-tagWorldMapMolderingFields={^w}腐坏田地
-tagWorldMapBurrwitchGraveyard={^w}伯尔维治{^n}{^w}墓园
-tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
-tagWorldMapTheFoggyBank=迷雾河畔
-tagWorldMapSoddenHollow={^w}湿润山谷
-tagWorldMapWightmire=尸妖泥沼
-tagWorldMapTheOldDump={^w}旧{^n}{^w}垃圾场
-tagWorldMapBurialHill={^w}殓葬山
-tagWorldMapLowerCrossing=下游渡口
-tagWorldMapDevilsCrossing=恶魔十字
-tagWorldMapKymonsRetreat={^w}凯蒙的{^n}{^w}隐居处
-tagWorldMapArkovianFoothills=安克维亚{^n}山麓
-tagWorldMapCrumblingWatch={^w}瞭望塔遗迹
-tagWorldMapTheRockyCoast={^w}岩石海岸
-tagWorldMapStauntonMine={^w}斯汤顿矿洞
-tagWorldMapNewHarbor={^w}新港
-tagWorldMapTheFourHills={^w}四山
-tagWorldMapOldArkovia=古安克{^n}维亚
-tagWorldMapTheStepsOfTorment={^w}苦痛阶梯
-tagWorldMapBrokenHills=破碎丘陵
-tagWorldMapTwinFalls={^w}双子瀑布
-tagWorldMapBarrenHighlands={^w}贫瘠高地
-tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
+tagUGJaggedWasteCave01=血荆棘的巢穴
+tagUGJaggedWasteCave02=遗忘深渊
+tagUGDermapteran01=掠行虫巢
+tagUGDermapteran02=虫群孵化所
+tagUGDermapteran03A=皇室巢穴
+tagUGDermapteran03B=虫后巢穴
+tagUGHomesteadCave01=迷失洞穴
 
 #Signs
 
@@ -170,6 +207,10 @@ tagSign_Homestead=霍姆斯特德
 tagSign_MistyVale=雾色河谷
 tagSign_RockyCoast=古安克维亚
 tagSign_FoothillsVillage=凯蒙的隐居处
+tagSign_TyrantsHold=暴君的要塞
+tagSign_SorrowsBastion=悲伤城堡
+tagSign_Farm=The Averlook Tillage
+tagSign_Deeps=注意:矿洞已封闭
 
 tagSign_OldGrove=古老林地
 
@@ -218,6 +259,8 @@ tagPOIFesteringLairA=溃烂巢穴入口
 tagPOIFesteringLairB=溃烂巢穴出口
 tagPOIBrokenHillsMylesCaveA=迈尔斯的藏身处入口
 tagPOIBrokenHillsMylesCaveB=废弃兽穴出口
+tagPOIMountainDeepsA=山脉深渊入口
+tagPOIMountainDeepsB=山脉深渊出口
 
 tagPOIStepsOfTorment1A=苦痛阶梯入口
 tagPOIStepsOfTorment1B=苦痛阶梯出口
@@ -239,6 +282,7 @@ tagPOIQuestHomesteadBridge=双子瀑布桥
 tagPOIQuestHomesteadTown=霍姆斯特德镇
 tagPOIQuest_Sacrifice=艾萨克的宝藏
 tagPOIQuest_StrangeKey=堕落圣殿
+tagPOIQuest_Homestead=开辟出一条到霍姆斯特德的道路
 
 
 #Notifications
@@ -259,9 +303,12 @@ tagNotification_HS_RemoveTheHead_ElsaFound=看 起 来 克 隆 利 没 有 抓 �
 tagNotification_HS_SpoilsOfTheGrimDawn=你 找 到 了 古 老 的 遗 迹 。
 tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海 边 的 旧 桥 被 毁 掉 了 ， 你 需 要 在 走 私 者 的 通 道 内 找 出 一 条 路 来 。
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你 已 经 穿 越 了 走 私 者 的 通 道 ， 寻 找 通 往 霍 姆 斯 特 德 的 道 路 吧 。
-tagNotification_HS_WeNeedFood_HomesteadRefugees=在 走 私 者 的 通 道 的 另 一 边 ， 你 发 现 了 一 群 难 民 。
 tagNotification_HS_OldArkoviaPassagesCompleted=你 已 经 找 齐 了 讲 述 安 克 维 亚 文 章 的 所 有 章 节 并 考 察 了 其 中 的 内 容 。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你 得 到 了 一 片 被 污 染 者 的 灵 魂 碎 片 ！
+
+tagNotification_AreaC_EnclaveRiftgateEvent=进入霍姆斯特德的通道充斥着虚灵！
+tagNotification_AreaC_RefugeeRemainsFound=看起来达利娅·塔夫恩没能在山脉深渊的危险中幸免。
+tagNotification_AreaC_BloodHarvestFound=有些囚徒在呼救。
 
 tagNotification_WarningToughArea=有 个 远 比 你 强 大 的 怪 物 栖 息 在 这 里 ……
 tagNotification_WarningRiftgateDisabled=在 这 里 你 失 去 了 与 裂 缝 传 送 门 之 间 的 连 接 ……
@@ -286,6 +333,7 @@ tagNPC_Guard_DCRanged01=守卫 - 梅纳德
 tagNPC_Guard_DCRanged02=守卫 - 拉斯
 tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
 tagNPC_Guard_DCMelee02=守卫 - 奥克斯利
+tagNPC_Guard_DCMelee03=守卫 - 切斯特
 tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
@@ -297,6 +345,8 @@ tagNPC_DevilsCrossing_03=艾萨克
 tagNPC_DevilsCrossing_04=托尔文
 tagNPC_DevilsCrossing_05=库尔多
 tagNPC_DevilsCrossing_06=爱德温
+tagNPC_DevilsCrossing_07=守卫 - 罗斯
+tagNPC_DevilsCrossing_08=切斯特
 
 tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
@@ -346,8 +396,8 @@ tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Captain Somer
 tagNPC_AreaC_16=Collin Taverin
 tagNPC_AreaC_17=Deathmark Vallar
-tagNPC_AreaC_18=
-tagNPC_AreaC_19=
+tagNPC_AreaC_18=Brother Molltair
+tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=
 tagNPC_AreaC_21=
 tagNPC_AreaC_22=
@@ -361,6 +411,7 @@ tagNPC_AreaD_03=Quartermaster Edric
 tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=爆破点
+tagNPC_AetherCluster=虚化集簇
 
 tagNPC_BrokenHillsBridge=安克维亚山麓桥梁修理处
 tagNPC_OldGroveBridge=古老林地桥梁修理处
@@ -388,9 +439,10 @@ tagNPC_Flavor_DevilsCrossing03=阿莱克斯
 tagNPC_Flavor_DevilsCrossing04=格特鲁德
 tagNPC_Flavor_DevilsCrossing05=马库斯
 tagNPC_Flavor_DevilsCrossing06=达里安
+tagNPC_Flavor_DevilsCrossing07=Harvey the Drifter
 
-tagNPC_Flavor_Homestead_01=
-tagNPC_Flavor_Homestead_02=
+tagNPC_Flavor_Homestead_01=“刀子” 弗兰基
+tagNPC_Flavor_Homestead_02=克隆利帮叛逃者
 tagNPC_Flavor_Homestead_03=海伦·弗莱彻
 tagNPC_Flavor_Homestead_04=朱利叶斯·科尔
 tagNPC_Flavor_Homestead_05=
@@ -405,7 +457,7 @@ tagNPC_Flavor_Homestead_12=贺拉斯
 tagNPC_Flavor_Necropolis_01=迪恩·古冢
 tagNPC_Flavor_Necropolis_02=丹尼·古冢
 tagNPC_Flavor_Necropolis_03=玛利亚·古冢
-tagNPC_Flavor_AreaC_04=Deathmark Harriv
+tagNPC_Flavor_AreaC_04=Deathmark Harra
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -413,14 +465,14 @@ tagNPC_Flavor_AreaC_08=Taris Windborough
 tagNPC_Flavor_AreaC_09=Emily Larkson
 tagNPC_Flavor_AreaC_10=Bolvis 
 tagNPC_Flavor_AreaC_11=Vaam
-tagNPC_Flavor_AreaC_12=Elaine Cobble
-tagNPC_Flavor_AreaC_13=Julia Applesworth
-tagNPC_Flavor_AreaC_14=Shane Cobble
-tagNPC_Flavor_AreaC_15=Davis Morden
-tagNPC_Flavor_AreaC_16=Laruka
-tagNPC_Flavor_AreaC_17=Caaraka
-tagNPC_Flavor_AreaC_18=Galarok
-tagNPC_Flavor_AreaC_19=Ralukk
+tagNPC_Flavor_AreaC_12=Elara
+tagNPC_Flavor_AreaC_13=卡尔达拉
+tagNPC_Flavor_AreaC_14=塔维克
+tagNPC_Flavor_AreaC_15=阿姆卡洛
+tagNPC_Flavor_AreaC_16=拉鲁卡
+tagNPC_Flavor_AreaC_17=卡拉卡
+tagNPC_Flavor_AreaC_18=加拉若克
+tagNPC_Flavor_AreaC_19=拉鲁克
 tagNPC_Flavor_AreaC_20=Sister Thaddia
 tagNPC_Flavor_AreaC_21=Brother Lector
 tagNPC_Flavor_AreaC_22=Brother Ulnox
@@ -432,6 +484,10 @@ tagNPC_Flavor_AreaC_27=Homestead Farmer
 tagNPC_Flavor_AreaC_28=
 tagNPC_Flavor_AreaC_29=Tracy Thornsbury
 tagNPC_Flavor_AreaC_30=Alex Elmsworth
+tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
+tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
+tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
+tagNPC_Flavor_AreaC_34UNUSED=Davis Morden
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -489,6 +545,12 @@ tagQuestItemExileBossDrop_01Desc="This tome appears sealed by arcane forces. The
 
 tagQuestItemExileBossDrop_02=Head of Archivist Thelon
 tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at you."
+
+tagQuestItemBlackLegionInsignia=Black Legion Insignia
+tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their loyal service."
+
+tagQuestItemAnnalsOfArkovia=Annals of Arkovia
+tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arkovia."
 
 #Journals 日志
 
@@ -582,19 +644,22 @@ tagLoreObj_StepsOfTorment01Name=Writings of Zarthuzellan
 tagLoreObj_StepsOfTorment01codexTitle=Writings of Zarthuzellan
 tagLoreObj_StepsOfTorment01Text=The one they call Uroboruuk makes mockery of the gods. The Lord Executioner cut at his flesh, but the wounds refused to bleed. His limbs grow back; his skin is impervious to flame.{^n}{^n}I believe the time has come for me to descend into that vile place and deal with the heathen myself. We shall see how he reacts to the cleansing flame of the divine.
 
+tagLoreObj_BozemanFollyName=Bozeman's Folly
+tagLoreObject_BozemanFollyText=They all say I'm insane for taking the caravan through the deep road. The only thing that's insane is paying bribes to those smug bastards in control of Smuggler's Pass. May as well pay the imperial tariffs!{^n}{^n}I've heard on good account that the dangers in the mountain deeps are well overblown, and that the exit will spit us out far closer to Homestead than that bandit-ridden pass.{^n}{^n}When I'm swimming in gold up to my neck down in Burrwitch, then they'll all see. They'll all see that Bozeman was right.
+
 
 #Random Burrwitch Notes
-tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
+tagLoreObj_BookA01Name=Chthonic Heresy - Page 1
 tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
 
-tagLoreObj_BookA02Name=Ch'thonic Heresy - Page 2
-tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Ch'thonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
+tagLoreObj_BookA02Name=Chthonic Heresy - Page 2
+tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Chthonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
 
-tagLoreObj_BookA03Name=Ch'thonic Heresy - Page 3
-tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Ch'thonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
+tagLoreObj_BookA03Name=Chthonic Heresy - Page 3
+tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Chthonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
 
-tagLoreObj_BookA04Name=Ch'thonic Heresy - Page 4
-tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Ch'thonian shall become the fiery vengeance of divine retribution. Those that call the Ch'thonian god shall taste righteous flame. Justice be done.
+tagLoreObj_BookA04Name=Chthonic Heresy - Page 4
+tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Chthonian shall become the fiery vengeance of divine retribution. Those that call the Chthonian god shall taste righteous flame. Justice be done.
 
 tagLoreObj_CriminalA01Name=Criminal Records - Page 1
 tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
@@ -603,7 +668,7 @@ tagLoreObj_CriminalA02Name=Criminal Records - Page 2
 tagLoreObj_CriminalA02Text=Bloody Jack{^n}{^n}Reckless murderer and known worshipper of Solael, the heathen god. Reports have been received of Bloody Jack's signature murders, a carved throat and witch symbols etched into the left breast, appearing increasingly close to Burrwitch. Citizens are advised to avoid traveling alone and to steer clear of forest roads whenever possible.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 400 royal crowns is offered for the successful capture and delivery of Bloody Jack alive.
 
 tagLoreObj_CriminalA03Name=Criminal Records - Page 3
-tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Ch'thonian cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
+tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Chthonic cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
 
 tagLoreObj_BookC01Name=Gildam Arcanum - Page 1
 tagLoreObj_BookC01Text=To understand the flows of the Aether, one must first learn to appreciate its inherent risks. The arcane art is not a plaything, nor is it a tool meant to be abused. Countless young arcanists have lost their lives to carelessness and malpractice. Proper control of the Aether requires years of practice under the careful supervision of the Gildam Arcanum, the only formal office sanctioned to instruct and research the art of the arcane. Do not confuse what is lectured here with the teachings of the hypothetical witch gods, a common misconception amongst the uneducated. There are no gods. There is only reality and the science of the arcane.
@@ -624,6 +689,7 @@ tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
 tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
 tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
 
+
 #Random Old Arkovia Notes
 tagLoreObj_OldArkovia_NoteA01Name=Malros Khas' Journal
 tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
@@ -641,6 +707,35 @@ tagLoreObj_OldArkovia_BookA03Name=禁术 - 第三部分
 tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
 
 
+#Cronley's Mine Notes
+tagLoreObj_Cronley_NoteA01Name=Wilkins'Note
+tagLoreObj_Cronley_NoteA01Text=Word going 'round the camp is that the undead finally stopped attacking the walls. Not that I'm complaining, but a man's gotta wonder why. Just the other day, we lost three on the west wall when a bunch of them corpsefiends burst out of the bodies and took everyone by surprise. They was bleeding us dry, with no end in sight to their numbers. Hell, pretty sure I've seen a few of our dead lurking around out there. Now I ain't no general, but seems to me like it was only a matter of time.{^n}{^n}The boss says that we've won, that Old Arkovia belongs to the gang. He's even called in his top lieutenants to join him in the mine for some sorta celebration. Feels too soon to me, but ain't nobody asking what Wilkins thinks.
+
+tagLoreObj_Cronley_NoteA02Name="The Bruiser" Romanov's Note
+tagLoreObj_Cronley_NoteA02Text=The boss says I done good when I smashed them rover skulls for hiding their food. Says I'm next in line to join him and his brothers in the new dawn. I've seen what those boys can do with them green crystals in their flesh. They could tear a man in half like a loaf of bread. But I heard them screaming too when Cronley put the crystals in. Sounded worse than the last time he got his hands on a rover woman.{^n}{^n}But a little pain's not about to turn me into some knife-stabbing wimp. Nobody's gonna out-muscle the Bruiser around here!
+
+tagLoreObj_Cronley_NoteA03Name=Bloodstained Note
+tagLoreObj_Cronley_NoteA03Text=Third time this pale-skinned duo in robes, a man and a woman, has shown up at the hideout. The boss says to let them through, so I let them through.{^n}{^n}The whole camp's on edge whenever those two show up. Maybe it's their eyes. That unsettling green glow reminds me of the dead ones.{^n}{^n}Or maybe I'm just agitated because the crystals Cronley stuck in my back seem to vibrate whenever the duo's around; like they're ready to rip loose. The voices I hear when I sleep are already enough to make a man tense. The others told me that they hear them too, but none of us can remember what the whispers say. Boss says it will pass though, that it's just a part of ascending into the ranks of his glorious army. This new dawn of his had damn better be worth it.
+
+tagLoreObj_Cronley_NoteA04Name=Exert from the Annals of Arkovia
+tagLoreObj_Cronley_NoteA04codexTitle=Annals of Arkovia
+tagLoreObj_Cronley_NoteA04Text=It falls upon strange times that a king would abdicate the throne of his own volition. Stranger still is the reason he gave his court. There is no other way to put it. King Rhowan, the third of his line, had been struck by madness. Upon returning from a successful campaign against the barbarian tribes of Agarond's Peak, the King raved about a chance meeting with a weary traveler whom he called Mogdrogen. Rhowan, in his generosity, offered the old man the use of his horse. The man, and here is where the King's tale loses all sense, declined the proposal and, speaking in a low voice that only his Majesty could hear, instead offered Rhowan a warning.{^n}{^n}The old man spurted prophetic lies about the impending collapse of our great nation and the fall of the beacon of the west, Arkovia herself. He implored the King to leave his title, his wealth, his very identity behind. There were some amongst the court who urged Rhowan to see his madness through, greedy heads of Arkovian Houses who saw this tragedy as an opportunity to seize power. The Queen, the shining jewel of Arkovia, wept before her King and begged him to reconsider; but Rhowan was resolute. With a single decree, he shattered the royal line and abandoned his ordained post as King of Arkovia. Word of the King's madness spread quickly among the populace. To my great surprise, some of his subjects followed Rhowan's lead, abandoning their livelihoods to follow their despondent ruler into a life of poverty and lost identity.{^n}{^n}It has been three fortnights since that fateful day. The queen lies dead in her chambers. They say she had died of sorrow, from the loss of her King, but I suspect more clandestine causes. The court has fallen into chaos as the great Houses bicker amongst themselves for the empty throne. With no end in sight to the squabbles and no clear line to the throne, my patron, Laudos Vagra, has called for the formation of an Oligarchy, ruled by the heads of Arkovia's elite.{^n}{^n}No good can come of this. Of that I am certain. These days I cannot, help but wonder if Rhowan's prophecy was a self-fulfilling one. Or perhaps this storm was a longtime coming and we were merely too blind to see it. I fear for Arkovia. I fear for her soul.{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+
+tagLoreObj_Cronley_NoteA05Name=Cronley's Notes - Part 1
+tagLoreObj_Cronley_NoteA05Text=When attacks stopped and the Aetherials sent in their envoys, they knew they had us by the balls. All they had to do was squeeze and any other man would have sung them a tune worthy of the Erulan opera; but they've never contended with Darius Cronley. They came, two of them, humans in robes. Only thing that'd give them away was the eyes. The eyes glowed that sickly aether-green. They offered me a chance to surrender, a chance to live out our lives as vessels and breeders for their growing army. I sent their heads back on spikes. See if those spirits survive that.{^n}{^n}But when they came back again, with new terms, well...then they were speaking my language. I was to be a piece in their grand design, a master of my very own army of aether-empowered humans. All I had to do was to pledge myself to their cause and to plant one of their crystals within the mine. The rest, they said, would be revealed in time.
+
+tagLoreObj_Cronley_NoteA06Name=Cronley's Notes - Part 2
+tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
+
+
+
+#AreaC Notes
+tagLoreObj_HiddenWealth_MapName=The Last Will of Marthos Everbrook
+tagLoreObj_HiddenWealth_MapCodexTitle=Will of Everbrook
+tagLoreObj_HiddenWealth_MapText=Here be written the last will and decree of the late Marthos Anthony Everbrook II.{^n}{^n}To my daughter, dearest Lizzy, I leave the farmstead and its surrounding orchards. Let the land, which has blessed our family with harvest for generations, continue to provide for you and your children. And now to my bullheaded sons, Edric and Anthony, you have filled my remaining years with your endless bickering over whom would inherit my fortune. To you, I leave nothing but these words.{^n}{^n}I had the farmhands bury the gold somewhere on the Everbrook lands. You now have but two options: move on with your miserable lives and start anew through backbreaking labor, just as your great grandfather did before you, or squander your youth searching for that which you do not deserve. I trust you will make the right decision.{^n}{^n}*Along the bottom, you can barely make out some scribbled notes in a different handwriting: In the hills, up the road from Thornsbury's. Bring explosives.*
+
+
+
 #Guards 守卫
 
 tagNPC_GateGuardA01=守门人 - 鲁克 
@@ -656,6 +751,10 @@ tagStoreTitle_MerchantA02=收集品商人
 
 tagNPC_MerchantA03=卢瑟·格雷夫斯
 tagStoreTitle_MerchantA03=赃物贩子
+
+tagNPC_MerchantA04=以赛亚·瑞丹
+tagStoreTitle_MerchantA04A=特殊货物商人
+tagStoreTitle_MerchantA04B=收集品商人
 
 tagNPC_MerchantB01=游民本尼
 tagStoreTitle_MerchantB01=违禁物鉴赏家

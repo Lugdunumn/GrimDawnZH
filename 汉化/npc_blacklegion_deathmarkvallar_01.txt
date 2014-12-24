@@ -1,11 +1,11 @@
-Deathmark Vallar
-You have served the Black Legion well. We do not forget our allies.
-Farewell.
-These are dangerous parts. Best be moving back the way you came.
-Farewell.
-How goes the battle against Bloodfeast?
-It wasn't easy, but Bloodfeast is dead.
-You are a brutal and effective fighter. I'd hate to run into you on a battlefield. Glad to have you on our side.
+瓦拉尔 死亡印记
+你帮了黑色军团很多，我们是不会忘记盟友的。
+再见。
+这地界十分危险，最好哪来的回哪去。
+再见。
+和血之盛宴的战斗进行如何？
+可不轻松，不过血之盛宴已经死了。
+你真是一位勇猛的战士。我可不想在战场上遇见你，你站在我们这边令人欣喜。
 
 I will be sure to include you in my report back to Captain Somer in Homestead.
 Farewell.
@@ -59,32 +59,32 @@ I'm looking to do my part.
 Hm, well my men are stretched thin and the beasts are numerous. You would do us all a favor by killing just about anything roaming the wilds. But if you are keen on risking your life, I do have a few targets in mind that I would gladly pay you to eliminate.
 
 To the west is an area known as the Jagged Waste. There you will find a pride of manticores. Their matriarch, Mogara, is a bloodthirsty beast with a taste for human flesh. Put her down and I will give you a fine share of iron bits.
-I will hunt down Mogara.
+我会去猎杀I will hunt down Mogara.
 On second thought, nevermind.
 I have already slain the manticore matriarch.
 
-What are you doing out here?
+你们在这里做什么？
 We are on the hunt for dangerous wildlife. With humanity on the run, beasts have begun crawling out of their dank holes.
 
 We are here to make sure that they cause no more harm to the people of Homestead.
 Where is Homestead?
 Head back the way you came. Follow the Dusty Road until you reach farmland. Homestead lies not far beyond.
-Thanks.
-Need any assistance?
+谢谢。
+需要帮助吗？
 
 Hope it goes well.
-Black Legion?
-That's correct. We are the Death's Bannermen, defenders of the empire. You are addressing Sergeant Vallar of the Deathmarks.
-Defenders of the empire? Great job.
-I take it you weren't in the capital when the Aetherials attacked?. We were gravely outnumbered, facing a foe unlike any men had ever seen.
+黑色军团？
+是的。我们就是死神的封臣，帝国的捍卫者。你正在和死亡印记的中士瓦拉尔交谈。
+帝国的捍卫者？可真是名副其实。
+我暂且认为虚灵进攻的时候你不在首都。面对从来没见过的敌人，我们寡不敌众。
 
-The commander gave the only sane order there was: retreat. Many of us didn't make it out of there, killed or worse...possessed.
+指挥官只是下达了理智的命令：撤退。我们中的许多人没能活下来，他们被杀掉或是更糟……被虚灵占据。
 
 Used to think those that perished were the lucky ones. Not so sure anymore with the dead rising.
-I'm sorry. Do you need any help here?
+抱歉，你们需要帮助吗？
 
-I'm sorry I jumped to conclusions.
-I'd like to help, if you need me.
+抱歉，我一见面就乱下结论。
+我想帮你们，如果你们需要我的话。
 
-Farewell.
-I'm just passing through.
+再见。
+我只是路过。

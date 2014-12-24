@@ -47,15 +47,15 @@ tagSkillClassName0809=
 
 tagSkillDevotion=Devotion
 
-tagSkillClassDescription01=经 过 训 练 ， 帝 国 的 士 兵 们 能 在 最 恶 劣 的 条 件 下 生 存 ， 也 能 在 面 对 帝 国 最 凶 恶 的 敌 人 时 坚 守 阵 地 。 士 兵 更 喜 欢 近 身 作 战 的 兵 器 ， 诸 如 剑 与 盾 ， 但 用 起 火 器 来 也 同 样 是 得 心 应 手 。 士 兵 最 不 擅 长 的 是 假 装 英 勇 无 畏 和 领 导 别 人 。
+tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。士兵最不擅长的是假装英勇无畏和领导别人。
 
-tagSkillClassDescription02=帝 国 军 队 的 火 药 大 师 ； 爆 破 者 既 是 工 程 师 ， 也 是 巫 师 。 他 们 习 惯 于 使 用 他 们 一 系 列 可 怕 的 爆 炸 物 和 毁 灭 性 法 术 来 打 破 敌 人 阵 型 和 破 坏 防 御 工 事 。 他 们 通 常 喜 欢 远 程 战 斗 ， 使 用 枪 械 、 陷 阱 和 爆 炸 物 来 玩 弄 敌 人 不 过 他 们 也 能 熟 练 地 使 用 近 战 武 器 。
+tagSkillClassDescription02=帝国军队的火药大师；爆破者既是工程师，也是巫师。他们习惯于使用他们一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人不过他们也能熟练地使用近战武器。
 
-tagSkillClassDescription03=曾 被 企 图 掌 控 其 可 怕 力 量 的 帝 国 军 队 追 捕 ， 神 秘 学 者 的 技 艺 着 重 于 召 唤 与 借 用 三 巫 神 俾 斯 麦 尔 、 索 拉 尔 和 德 里 格 赐 予 的 力 量 。 他 们 的 多 重 技 艺 包 括 诅 咒 和 能 造 成 毒 药 、 酸 性 和 腐 蚀 伤 害 的 技 能 。 即 使 不 擅 长 用 剑 与 枪 械 ， 他 们 仍 然 可 以 使 用 其 中 任 意 一 种 来 增 强 攻 击 。
+tagSkillClassDescription03=曾被企图掌控其可怕力量的帝国军队追捕，神秘学者的技艺着重于召唤与借用三巫神俾斯麦尔、索拉尔和德里格赐予的力量。他们的多重技艺包括诅咒和能造成毒药、酸性和腐蚀伤害的技能。即使不擅长用剑与枪械，他们仍然可以使用其中任意一种来增强攻击。
 
-tagSkillClassDescription04=夜 刃 们 曾 是 为 帝 国 望 族 卖 命 的 秘 密 武 装 。 他 们 精 通 所 有 兵 器 ， 但 更 令 人 畏 惧 的 是 他 们 赖 以 为 生 的 ， 刀 刀 致 命 的 剑 术 。 夜 刃 不 适 合 面 对 面 地 硬 撼 强 敌 ， 他 要 么 依 靠 幻 象 快 速 接 近 敌 人 ， 发 动 毁 灭 性 的 攻 势 ， 要 么 远 距 离 投 射 幻 化 之 锋 。
+tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装。他们精通所有兵器，但更令人畏惧的是他们赖以为生的，刀刀致命的剑术。夜刃不适合面对面地硬撼强敌，他要么依靠幻象快速接近敌人，发动毁灭性的攻势，要么远距离投射幻化之锋。
 
-tagSkillClassDescription05=对 于 奥 术 师 来 说 ， 魔 法 的 显 现 根 本 就 不 是 什 么 秘 密 ， 也 不 是 什 么 神 的 旨 意 ， 而 是 一 门 需 要 研 究 的 学 问 。 这 种 对 知 识 的 渴 求 让 所 有 奥 术 师 都 渴 望 发 明 新 法 术 ， 然 后 用 自 己 的 名 字 为 之 命 名 。 秘 术 师 随 意 糅 合 虚 灵 和 各 种 元 素 的 能 量 ， 创 造 出 了 许 多 能 毁 灭 一 支 小 型 军 队 的 法 术 。 不 过 ， 使 用 了 如 此 强 大 的 力 量 ， 防 守 起 来 自 是 力 不 从 心 。
+tagSkillClassDescription05=对于奥术师来说，魔法的显现根本就不是什么秘密，也不是什么神的旨意，而是一门需要研究的学问。这种对知识的渴求让所有奥术师都渴望发明新法术，然后用自己的名字为之命名。秘术师随意糅合虚灵和各种元素的能量，创造出了许多能毁灭一支小型军队的法术。不过，使用了如此强大的力量，防守起来自是力不从心。
 
 tagSkillClassDescription06=
 
@@ -65,298 +65,298 @@ tagSkillClassDescription08=
 
 tagSkillClassDescription09=
 
-#Default 默认
+#Default默认
 
-tagSkillDefaultAttackName01=基 础 武 器 攻 击
-tagSkillDefaultAttackDescription01=使 用 现 有 的 武 器 攻 击 。
+tagSkillDefaultAttackName01=基础武器攻击
+tagSkillDefaultAttackDescription01=使用现有的武器攻击。
 
-tagSkillDefaultMoveTo=移 动
-tagSkillDefaultMoveToDescription=移 动 至 选 定 的 地 点 。
+tagSkillDefaultMoveTo=移动
+tagSkillDefaultMoveToDescription=移动至选定的地点。
 
 tagSkillDefaultPetAttack=战宠攻击
 tagSkillDefaultPetAttackDescription=命令所有可控的宠物攻击。
 
-tagSkillInnate=天 赋
-tagSkillSumLVL=随 着 技 能 等 级 而 提 升 。
+tagSkillInnate=天赋
+tagSkillSumLVL=随着技能等级而提升。
 
-tagSkillUsableReady=技 能 已 准 备 就 绪
+tagSkillUsableReady=技能已准备就绪
 
-#Class01 职业01
+#Class01职业01
 
 tagClass01SkillName00A=战士
-tagClass01SkillDescription00A=只 有 极 度 强 健 的 体 魄 才 能 勇 敢 地 面 对 凯 恩 世 界 严 酷 的 现 实 。
+tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对凯恩世界严酷的现实。
 
 tagClass01SkillName01A=节奏打击
-tagClass01SkillDescription01A=战 斗 时 ， 自 然 地 跟 随 周 期 性 的 节 奏 感 ， 施 展 抑 扬 顿 挫 的 打 击 ， 每 次 第 三 击 造 成 大 量 伤 害 。 虽 然 可 以 被 预 判 ， 但 却 强 效 有 力 ，难 以 实 施 反 击 。
+tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感，施展抑扬顿挫的打击，每次第三击造成大量伤害。虽然可以被预判，但却强效有力，难以实施反击。
 tagClass01SkillName01B=格斗姿态
-tagClass01SkillDescription01B=愤 怒 的 节 奏 对 周 围 的 敌 人 产 生 共 振 ， 造 成 严 重 的 出 血 。^o如 使 用 近 战 武 器 ， 共 振 效 果 会 使 节 奏 打 击 击 中 附 近 的 额 外 目 标 。
+tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的额外目标。
 tagClass01SkillName01C=致死旋律
-tagClass01SkillDescription01C=使 用 巨 大 的 力 量 施 展 节 奏 打 击 ， 有 机 会 获 得 额 外 伤 害 效 果 。
+tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机会获得额外伤害效果。
 tagClass01SkillName01D=不谐和弦
-tagClass01SkillDescription01D=愤 怒 灵 魂 的 不 谐 之 音 混 入 了 士 兵 纯 粹 的 战 斗 节  奏 之 中 ， 你 的 攻 击 中 将 夹 杂 着 元 素 和 混 乱 的 能 量 。
+tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中将夹杂着元素和混乱的能量。
 
 tagClass01SkillName02A=力场波
-tagClass01SkillDescription02A=攻 击 时 通 入 能 量 来 压 缩 空 气 ， 投 射 出 能 量 波 眩 晕 敌 人 并 造 成 伤 害 。^o该 技 能 发 动 需 要 装 备 盾 牌 或 双 手 近 战 武 器 。
+tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出能量波眩晕敌人并造成伤害。^o该技能发动需要装备盾牌或双手近战武器。
 tagClass01SkillName02B=裂甲之力
-tagClass01SkillDescription02B=力 场 波 粉 碎 敌 人 的 护 甲 ， 使 他 们 更 容 易 受 到 物 理 伤 害 。
+tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容易受到物理伤害。
 tagClass01SkillName02C=内部创伤
-tagClass01SkillDescription02C=力 场 波 粉 碎 骨 骼 ， 损 伤 内 脏 ， 造 成 大 量 的 内 外 出 血 。
+tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大量的内外出血。
 tagClass01SkillName02D=震地
-tagClass01SkillDescription02D=以 曼 海 尔 的 意 志 为 名 ， 使 用 强 有 力 的 双 手 武 器 撕 裂 大 地 。 对 敌 人 施 放 出 具 有 毁 灭 力 量 的 能 量 波 。^o需 要 一 把 双 手 近 战 武 器 。
+tagClass01SkillDescription02D=以曼海尔的意志为名，使用强有力的双手武器撕裂大地。对敌人施放出具有毁灭力量的能量波。^o需要一把双手近战武器。
 
 tagClass01SkillName03A=闪击
-tagClass01SkillDescription03A=带 着 毁 灭 性 的 动 能 冲 入 敌 群 ，发 动 突 袭 。^o需 要 一 把 近 战 武 器 。
+tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。
 tagClass01SkillName03B=攻其不备
-tagClass01SkillDescription03B=你 的 攻 击 突 然 而 猛 烈 ， 使 敌 人 失 去 平 衡 ， 降 低 作 战 能 力 。
+tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
 
 tagClass01SkillName04A=战吼
-tagClass01SkillDescription04A=毛 骨 悚 然 的 战 吼 能 削 弱 敌 人 的 意 志 ， 分 散 他 们 的 注 意 力 。
+tagClass01SkillDescription04A=毛骨悚然的战吼能削弱敌人的意志，分散他们的注意力。
 tagClass01SkillName04C=恐惧之吼
-tagClass01SkillDescription04C=不 坚 强 的 敌 人 在 听 到 你 可 怕 的 挑 衅 声 后 会 逃 走 。
+tagClass01SkillDescription04C=不坚强的敌人在听到你可怕的挑衅声后会逃走。
 tagClass01SkillName04B=破胆
-tagClass01SkillDescription04B=战 吼 粉 碎 敌 人 的 斗 志 ， 导 致 他 们 无 力 与 你 战 斗 。
+tagClass01SkillDescription04B=战吼粉碎敌人的斗志，导致他们无力与你战斗。
 
 tagClass01SkillName05A=刀锋横扫
-tagClass01SkillDescription05A=弧 形 挥 动 武 器 能 切 开 周 围 的 多 个 敌 人 。^o需 要 近 战 武 器 。
+tagClass01SkillDescription05A=弧形挥动武器能切开周围的多个敌人。^o需要近战武器。
 tagClass01SkillName05B=撕裂
-tagClass01SkillDescription05B=刀 锋 横 扫 的 高 级 技 巧 ， 攻 击 时 撕 开 敌 人 ， 造 成 流 血 。
+tagClass01SkillDescription05B=刀锋横扫的高级技巧，攻击时撕开敌人，造成流血。
 tagClass01SkillName05C=风卷残云
-tagClass01SkillDescription05C=刀 锋 横 扫 更 为 强 力 的 一 种 形 式 ， 战 士 在 攻 击 中 施 展 猛 击 ， 足 以 将 敌 人 击 倒 在 地 。
+tagClass01SkillDescription05C=刀锋横扫更为强力的一种形式，战士在攻击中施展猛击，足以将敌人击倒在地。
 
 tagClass01SkillName06A=马尔可夫优势
-tagClass01SkillDescription06A=著 名 战 术 家 马 尔 可 夫 总 是 谋 划 从 高 处 进 攻 。 这 个 经 典 攻 击 的 灵 感 正 是 来 自 马 尔 可 夫 的 战 术 ， 招 牌 是 强 力 的 向 下 攻 击 ， 摔 绊 敌 人 让 他 们 失 去 平 衡 ， 削 弱 他 们 的 防 御 。
+tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。
 tagClass01SkillName06B=佐尔汉的技艺
-tagClass01SkillDescription06B=以 一 个 著 名 的 格 斗 大 师 命 名 ， 攻 击 时 放 低 重 心 ， 猛 推 敌 人 来 使 他 们 失 去 平 衡^o当 使 用 一 把 近 战 武 器 发 动 时 ， 会 击 中 附 近 多 个 目 标 。
+tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。^o当使用一把近战武器发动时，会击中附近多个目标。
 
 tagClass01SkillName07A=战意
-tagClass01SkillDescription07A=敌 人 攻 击 的 刺 痛 无 法 使 你 屈 服 ， 相 反 激 起 你 的 怒 气 ， 在 攻 击 中 使 出 更 大 的 力 量 。
+tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反激起你的怒气，在攻击中使出更大的力量。
 tagClass01SkillName08A=曼海尔的意志
-tagClass01SkillDescription08A=当 你 接 近 死 亡 时 ， 曼 海 尔 不 屈 的 意 志 将 灌 注 给 你 新 的 力 量 。^o需 要 盾 牌 或 者 近 战 双 手 武 器 。
+tagClass01SkillDescription08A=当你接近死亡时，曼海尔不屈的意志将灌注给你新的力量。^o需要盾牌或者近战双手武器。
 
 tagClass01SkillName09A=指挥领域
-tagClass01SkillDescription09A=卓 越 的 纪 律 感 和 战 术 知 识 让 你 成 为 战 斗 领 袖 。^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass01SkillDescription09A=卓越的纪律感和战术知识让你成为战斗领袖。^o此技能需开启以保持生效。
 tagClass01SkillName09B=小队战术
-tagClass01SkillDescription09B=激 励 你 的 队 友 ， 增 强 他 们 的 战 力 。
+tagClass01SkillDescription09B=激励你的队友，增强他们的战力。
 
 tagClass01SkillName10A=军事素养
-tagClass01SkillDescription10A=严 格 的 军 事 训 练 增 强 了 身 体 对 严 酷 战 争 的 耐 受 力 。
+tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战争的耐受力。
 tagClass01SkillName11A=久经沙场
-tagClass01SkillDescription11A=战 争 的 严 苛 使 你 获 得 了 在 战 争 中 存 活 的 宝 贵 经 验 。
+tagClass01SkillDescription11A=战争的严苛使你获得了在战争中存活的宝贵经验。
 tagClass01SkillName12A=功勋卓著
-tagClass01SkillDescription12A=在 白 热 化 的 战 场 上 保 持 冷 静 思 考 的 能 力 ， 使 老 兵 们 能 够 更 轻 易 地 切 入 敌 人 的 防 御 空 档 ， 或 是 预 判 敌 人 的 攻 击 节 奏 来 施 以 反 击 。
+tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档，或是预判敌人的攻击节奏来施以反击。
 
 tagClass01SkillName13A=曼海尔的壁垒
-tagClass01SkillDescription13A=召 唤 大 地 之 神 曼 海 尔 ， 保 佑 其 追 随 者 拥 有 大 地 一 般 的 韧 性 。^o需 要 一 面 盾 牌 。
+tagClass01SkillDescription13A=召唤大地之神曼海尔，保佑其追随者拥有大地一般的韧性。^o需要一面盾牌。
 
 tagClass01SkillName14A=奥莱隆之怒
-tagClass01SkillDescription14A=召 唤 远 古 战 神 奥 莱 隆 ， 鼓 舞 起 其 追 随 者 无 法 动 摇 的 凶 猛 战 意 。
+tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞起其追随者无法动摇的凶猛战意。
 
 tagClass01SkillName15A=战斗警觉
-tagClass01SkillDescription15A=进 入 防 御 姿 态 ， 极 大 的 增 强 你 的 战 斗 意 识 。 你 只 能 在 很 短 的 时 间 内 维 持 该 状 态 。^o需 要 一 面 盾 牌 。
+tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意识。你只能在很短的时间内维持该状态。^o需要一面盾牌。
 
 tagClass01SkillName16=百战之躯
-tagClass01SkillDescription16=经 历 了 无 数 战 火 洗 礼 ， 你 已 经 见 识 过 了 最 为 严 酷 的 战 场 。 战 争 所 谓 的 恐 怖 和 小 小 的 伤 口 ， 都 已 无 法 再 阻 碍 你 。
+tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了最为严酷的战场。战争所谓的恐怖和小小的伤口，都已无法再阻碍你。
 
 tagClass01SkillName17=防守反击
-tagClass01SkillDescription17=进 入 极 度 灵 敏 的 状 态 来 发 动 闪 电 般 的 反 击 。^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击。^o此技能需开启以保持生效。
 
 
 tagClass01SkillName09C=坚守
-tagClass01SkillDescription09C=强 大 的 领 导 力 有 助 于 维 持 战 斗 中 的 士 气 与 队 形 ， 使 你 和 你 的 盟 友 在 本 该 绝 望 的 情 况 下 也 能 占 据 优 势 。
+tagClass01SkillDescription09C=强大的领导力有助于维持战斗中的士气与队形，使你和你的盟友在本该绝望的情况下也能占据优势。
 tagClass01SkillName05X=死亡之弧
-tagClass01SkillDescription05X=极 大 地 增 强 刀 锋 横 扫 的 威 力 并 提 升 其 击 中 目 标 个 数 。
+tagClass01SkillDescription05X=极大地增强刀锋横扫的威力并提升其击中目标个数。
 
 
 
 #Class02
 
 tagClass02SkillName00A=爆破者
-tagClass02SkillDescription00A=科 学 与 魔 法 相 结 合 的 专 业 技 能 在 战 场 上 释 放 炽 热 的 地 狱 。
+tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的地狱。
 
 tagClass02SkillName01A=手榴弹
-tagClass02SkillDescription01A=手 榴 弹 是 一 项 被 快 速 普 及 应 用 于 战 场 的 近 代 发 明 ， 使 战 场 上 的 巫 术 操 控 和 常 规 武 器 间 的 较 量 得 到 了 平 衡 .
+tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明，使战场上的巫术操控和常规武器间的较量得到了平衡.
 tagClass02SkillName01B=高热冲击
-tagClass02SkillDescription01B=在 标 准 手 榴 弹 上 的 改 进 设 计 使 它 爆 发 出 炽 热 并 射 出 锋 利 的 碎 片 。
+tagClass02SkillDescription01B=在标准手榴弹上的改进设计使它爆发出炽热并射出锋利的碎片。
 tagClass02SkillName01C=天火手雷
-tagClass02SkillDescription01C=当 仅 仅 炸 到 一 个 敌 人 并 不 足 够 时 ， 这 项 对 手 榴 弹 化 学 成 分 的 炼 金 改 造 能 在 引 爆 后 释 放 电 力 漩 涡 。
+tagClass02SkillDescription01C=当仅仅炸到一个敌人并不足够时，这项对手榴弹化学成分的炼金改造能在引爆后释放电力漩涡。
 
 tagClass02SkillName02A=闪光弹
-tagClass02SkillDescription02A=一 道 致 盲 闪 光 暂 时 使 敌 人 陷 入 混 乱 并 破 坏 他 们 防 护 自 身 的 能 力 。
+tagClass02SkillDescription02A=一道致盲闪光暂时使敌人陷入混乱并破坏他们防护自身的能力。
 tagClass02SkillName02B=灼热之光
-tagClass02SkillDescription02B=烙 进 敌 人 视 网 膜 的 残 像 弱 化 他 们 造 成 伤 害 的 能 力 。
+tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成伤害的能力。
 
 tagClass02SkillName03A=火焰冲击
-tagClass02SkillDescription03A=一 项 致 死 的 炼 金 技 术 ， 引 发 燃 烧 敌 人 周 围 空 气 的 攻 击。 当 作 为 你 的 默 认 武 器 攻 击 时 ， 火 焰 冲 击 造 成 额 外 的 物 理 和 火 焰 伤 害 。
+tagClass02SkillDescription03A=一项致死的炼金技术，引发燃烧敌人周围空气的攻击。当作为你的默认武器攻击时，火焰冲击造成额外的物理和火焰伤害。
 tagClass02SkillName03B=爆炸冲击
-tagClass02SkillDescription03B=提 高 火 焰 冲 击 的 效 力 ， 有 几 率 提 高 火 焰 伤 害 。 ^o如 作 为 远 程 攻 击 ， 还 能 够 爆 炸 ， 对 附 近 敌 人 造 成 伤 害 。
+tagClass02SkillDescription03B=提高火焰冲击的效力，有几率提高火焰伤害。^o如作为远程攻击，还能够爆炸，对附近敌人造成伤害。
 tagClass02SkillName03C=静电冲击
-tagClass02SkillDescription03C=进 一 步 的 炼 金 改 动 使 火 焰 冲 击 对 目 标 造 成 电 击 并 有 几 率 击 退 他 们 。
+tagClass02SkillDescription03C=进一步的炼金改动使火焰冲击对目标造成电击并有几率击退他们。
 tagClass02SkillName03D=炽烈硫磺
-tagClass02SkillDescription03D=使 用 火 焰 法 术 为 火 焰 冲 击 附 加 硫 磺 的 混 沌 之 力 。^o远 程 攻 击 也 会 分 裂 成 融 化 的 碎 片 。
+tagClass02SkillDescription03D=使用火焰法术为火焰冲击附加硫磺的混沌之力。^o远程攻击也会分裂成融化的碎片。
 tagClass02SkillName03E=灼热冲击
-tagClass02SkillDescription03E=在 较 近 的 范 围 内 集 中 火 焰 冲 击 破 坏 性 的 力 量 ， 使 技 能 威 力 增 强 同 时 减 少 能 量 消 耗 。^o需 要 一 把 近 战 武 器 。
+tagClass02SkillDescription03E=在较近的范围内集中火焰冲击破坏性的力量，使技能威力增强同时减少能量消耗。^o需要一把近战武器。
 
 tagClass02SkillName04A=罐式炸弹
-tagClass02SkillDescription04A=填 装 了 更 多 爆 炸 物 的 炸 药 ， 这 项 恐 怖 的 发 明 能 够 击 垮 一 整 片 敌 人 。
+tagClass02SkillDescription04A=填装了更多爆炸物的炸药，这项恐怖的发明能够击垮一整片敌人。
 tagClass02SkillName04B=改良外壳
-tagClass02SkillDescription04B=对 碳 罐 炸 弹 外 壳 的 调 整 增 强 了 其 震 荡 威 力 ， 对 敌 人 造 成 持 续 创 伤 并 使 其 减 速 ； 还 拥 有 更 大 的 爆 炸 范 围 。
+tagClass02SkillDescription04B=对碳罐炸弹外壳的调整增强了其震荡威力，对敌人造成持续创伤并使其减速；还拥有更大的爆炸范围。
 tagClass02SkillName04C=震荡炸弹
-tagClass02SkillDescription04C=罐 式 炸 弹 将 拥 有 更 强 的 冲 击 力 ， 减 少 造 成 的 伤 害 但 能 使 敌 人 患 上 炮 弹 休 克 症 。
+tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力，减少造成的伤害但能使敌人患上炮弹休克症。
 
 tagClass02SkillName05A=迫击抛射
-tagClass02SkillDescription05A=放 置 持 续 向 空 中 抛 射 爆 炸 物 的 迫 击 炮 ， 直 至 耗 尽 。^o迫 击 炮 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
+tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮，直至耗尽。^o迫击炮被视为战宠，会受到相应的加成。
 tagClass02SkillName05B=重型武器
-tagClass02SkillDescription05B=强 力 法 术 提 升 迫 击 炮 弹 的 输 出 伤 害 并 加 入 电 能 伤 害 。
+tagClass02SkillDescription05B=强力法术提升迫击炮弹的输出伤害并加入电能伤害。
 tagClass02SkillName05C=“大家伙”
-tagClass02SkillDescription05C=向 迫 击 抛 射 器 装 载 代 号 为 “ 大 家 伙 ” 的 毁 灭 性 炸 弹 ， 将 在 迫 击 抛 射 的 弹 幕 末 尾 发 射 。 如 果 你 的 敌 人 存 活 下 来 的 话 ， 由 此 产 生 的 巨 大 的 爆 炸 将 给 他 们 造 成 极 度 的 惊 恐 。
+tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将在迫击抛射的弹幕末尾发射。如果你的敌人存活下来的话，由此产生的巨大的爆炸将给他们造成极度的惊恐。
 tagClass02SkillName05D=火力迫击炮
-tagClass02SkillDescription05D=向 敌 人 发 射 爆 炸 的 迫 击 炮 弹 。
+tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹。
 tagClass02SkillName05E=电击迫击炮
-tagClass02SkillDescription05E=向 敌 人 发 射 带 电 的 迫 击 炮 弹 。
+tagClass02SkillDescription05E=向敌人发射带电的迫击炮弹。
 
 tagClass02SkillName06A=铝热地雷
-tagClass02SkillDescription06A=投 掷 一 组 小 而 致 命 的 火 焰 炸 药 ， 用 强 烈 的 火 焰 喷 射 烧 焦 敌 人 。^o地 雷 被 视 为 战 宠 ， 会 受 到 相 应 的 加 成 。
+tagClass02SkillDescription06A=投掷一组小而致命的火焰炸药，用强烈的火焰喷射烧焦敌人。^o地雷被视为战宠，会受到相应的加成。
 tagClass02SkillName06B=电弧
-tagClass02SkillDescription06B=同 时 应 用 烟 火 制 造 术 和 炼 金 术 ， 对 铝 热 地 雷 的 致 命 改 进 让 它 可 以 用 灼 热 火 焰 与 电 流 烧 焦 敌 人 。
+tagClass02SkillDescription06B=同时应用烟火制造术和炼金术，对铝热地雷的致命改进让它可以用灼热火焰与电流烧焦敌人。
 tagClass02SkillName06C=烈焰喷射
-tagClass02SkillDescription06C=喷 射 一 束 致 死 的 白 热 火 焰 将 经 过 的 敌 人 烧 成 灰 烬 。
+tagClass02SkillDescription06C=喷射一束致死的白热火焰将经过的敌人烧成灰烬。
 
 tagClass02SkillName07A=防爆护盾
-tagClass02SkillDescription07A=军 事 装 备 与 火 焰 法 术 的 融 合 创 造 出 能 吸 收 一 定 量 的 穿 刺 与 火 焰 伤 害 的 护 盾 ， 直 至 毁 坏 。 ^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
+tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量的穿刺与火焰伤害的护盾，直至毁坏。^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
 
 tagClass02SkillName07B=奥祖因的选召
-tagClass02SkillDescription07B=在 烟 火 制 造 工 作 中 做 出 很 大 贡 献 的 那 些 人 最 终 得 到 奥 祖 因 的 青 睐 ， 获 得 他 的 祝 福 以 对 世 界 造 成 炽 烈 破 坏 。^o[需 要 并 作 用 于 手 榴 弹 和 碳 罐 炸 弹]
+tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐，获得他的祝福以对世界造成炽烈破坏。^o[需要并作用于手榴弹和碳罐炸弹]
 
 tagClass02SkillName08A=黑水鸡尾酒
-tagClass02SkillDescription08A=黑 水 鸡 尾 酒 将 在 传 统 弹 药 将 耗 尽 时 调 制 。 这 些 简 易 的 火 焰 炸 弹 将 在 碰 撞 后 留 下 自 燃 火 焰 ， 对 付 密 集 的 敌 人 特 别 有 效 。
+tagClass02SkillDescription08A=黑水鸡尾酒将在传统弹药将耗尽时调制。这些简易的火焰炸弹将在碰撞后留下自燃火焰，对付密集的敌人特别有效。
 tagClass02SkillName08B=恶魔之火
-tagClass02SkillDescription08B=被 施 以 巫 术 的 火 焰 拥 有 混 沌 之 力 ， 能 融 化 敌 人 的 肉 体 和 损 坏 护 甲 。
+tagClass02SkillDescription08B=被施以巫术的火焰拥有混沌之力，能融化敌人的肉体和损坏护甲。
 tagClass02SkillName08C=痛苦之焰
-tagClass02SkillDescription08C=被 烈 焰 焚 身 造 成 的 灼 烧 之 痛 所 逼 疯 了 的 敌 人 会 队 形 散 乱 几 乎 无 法 进 行 还 击 。
+tagClass02SkillDescription08C=被烈焰焚身造成的灼烧之痛所逼疯了的敌人会队形散乱几乎无法进行还击。
 
 tagClass02SkillName09A=眩晕投掷
-tagClass02SkillDescription09A=扔 出 一 排 小 型 的 带 电 金 属 弹 暂 时 阻 止 敌 人 前 进 。
+tagClass02SkillDescription09A=扔出一排小型的带电金属弹暂时阻止敌人前进。
 tagClass02SkillName09B=火力全开
-tagClass02SkillDescription09B=提 升 每 个 金 属 弹 的 电 力 容 量 ， 并 增 加 一 次 能 扔 出 的 金 属 弹 的 数 量 。
+tagClass02SkillDescription09B=提升每个金属弹的电力容量，并增加一次能扔出的金属弹的数量。
 tagClass02SkillName09C=迅捷投掷
-tagClass02SkillDescription09C=金 属 弹 失 去 阻 止 敌 人 前 进 的 能 力 不 过 将 能 被 快 速 施 放 以 消 灭 成 群 的 敌 人 。
+tagClass02SkillDescription09C=金属弹失去阻止敌人前进的能力不过将能被快速施放以消灭成群的敌人。
 
 tagClass02SkillName12A=烈火加身
-tagClass02SkillDescription12A=许 多 爆 破 者 最 终 涉 足 了 火 焰 魔 法 。 他 们 运 用 其 中 的 技 艺 将 跃 动 的 烈 焰 加 诸 于 自 己 和 盟 友 身 上 ， 借 以 增 强 攻 击 力 并 能 反 击 敌 人 。^o此 技 能 需 要 开 启 以 保 持 生 效
+tagClass02SkillDescription12A=许多爆破者最终涉足了火焰魔法。他们运用其中的技艺将跃动的烈焰加诸于自己和盟友身上，借以增强攻击力并能反击敌人。^o此技能需要开启以保持生效
 tagClass02SkillName12B=回火
-tagClass02SkillDescription12B=将 驱 动 防 爆 护 盾 的 巫 术 火 焰 延 伸 至 已 装 备 的 武 器 和 护 甲 上 ， 对 它 们 使 用 超 越 传 统 的 方 法 进 行 回 火 处 理 。
+tagClass02SkillDescription12B=将驱动防爆护盾的巫术火焰延伸至已装备的武器和护甲上，对它们使用超越传统的方法进行回火处理。
 
 tagClass02SkillName13A=复仇烈焰
-tagClass02SkillDescription13A=奥 祖 因 的 永 恒 之 焰 曾 给 世 界 带 来 生 命 与 治 愈 ， 但 是 背 叛 与 折 磨 将 其 扭 曲 为 复 仇 的 武 器 。 向 奥 祖 因 宣 誓 效 忠 的 人 将 在 战 斗 中 获 得 活 力 并 激 烈 的 报 复 他 们 的 敌 人 。 ^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass02SkillDescription13A=奥祖因的永恒之焰曾给世界带来生命与治愈，但是背叛与折磨将其扭曲为复仇的武器。向奥祖因宣誓效忠的人将在战斗中获得活力并激烈的报复他们的敌人。^o此技能需开启以保持生效。
 tagClass02SkillName13B=奥祖因的愤怒
-tagClass02SkillDescription13B=奥 祖 因 的 火 焰 烧 焦 附 近 的 敌 人 ， 同 时 发 出 巫 术 的 火 与 电 将 弧 线 攻 击 更 远 的 敌 人 。
+tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人，同时发出巫术的火与电将弧线攻击更远的敌人。
 
 tagClass02SkillName10A=闪电炸弹
-tagClass02SkillDescription10A=向 敌 人 抛 出 一 个 强 力 的 带 电 炸 弹 。 能 有 效 对 付 强 壮 的 单 个 敌 人 。
+tagClass02SkillDescription10A=向敌人抛出一个强力的带电炸弹。能有效对付强壮的单个敌人。
 tagClass02SkillName10B=超载
-tagClass02SkillDescription10B=提 升 闪 电 炸 弹 的 电 能 伤 害 。
+tagClass02SkillDescription10B=提升闪电炸弹的电能伤害。
 tagClass02SkillName11A=重型武器
-tagClass02SkillDescription11A=提 升 手 榴 弹 与 碳 罐 炸 弹 的 火 力 。
+tagClass02SkillDescription11A=提升手榴弹与碳罐炸弹的火力。
 tagClass02SkillName14A=火力冲击
-tagClass02SkillDescription14A=提 升 伤 害 并 击 倒 小 到 中 型 敌 人 的 强 力 攻 击 。
+tagClass02SkillDescription14A=提升伤害并击倒小到中型敌人的强力攻击。
 
 
 
 #Class03
 
 tagClass03SkillName00=神秘学者
-tagClass03SkillDescription00=深 入 研 习 如 何 操 纵 与 控 制 神 秘 力 量 。
+tagClass03SkillDescription00=深入研习如何操纵与控制神秘力量。
 
 tagClass03SkillName01A=召唤
-tagClass03SkillDescription01A=召 唤 神 话 中 的 风 暴 乌 鸦 来 援 助 你 。 风 暴 乌 鸦 是 与 寻 常 乌 鸦 非 常 不 同 的 一 种 拥 有 不 可 思 议 的 智 慧 和 魔 力 的 怪 异 生 物 。 有 些 人 坚 信 它 们 不 是 鸟 而 是 以 乌 鸦 的 形 式 现 身 的 某 种 古 老 的 天 空 之 灵 。 ^o同 一 时 间 只 能 召 唤 一 只 乌 鸦 。
+tagClass03SkillDescription01A=召唤神话中的风暴乌鸦来援助你。风暴乌鸦是与寻常乌鸦非常不同的一种拥有不可思议的智慧和魔力的怪异生物。有些人坚信它们不是鸟而是以乌鸦的形式现身的某种古老的天空之灵。^o同一时间只能召唤一只乌鸦。
 tagClass03SkillName01B=风暴光球
-tagClass03SkillDescription01B=普 通 攻 击 。
+tagClass03SkillDescription01B=普通攻击。
 tagClass03SkillName01C=血肉缝合
-tagClass03SkillDescription01C=乌 鸦 能 引 导 神 秘 能 量 愈 合 受 伤 的 盟 友 。
+tagClass03SkillDescription01C=乌鸦能引导神秘能量愈合受伤的盟友。
 tagClass03SkillName01D=风暴之心
-tagClass03SkillDescription01D=乌 鸦 能 向 选 中 的 盟 友 注 入 它 神 秘 的 能 量 ， 授 予 他 们 超 凡 的 能 力 。
+tagClass03SkillDescription01D=乌鸦能向选中的盟友注入它神秘的能量，授予他们超凡的能力。
 tagClass03SkillName01E=闪电打击
-tagClass03SkillDescription01E=风 暴 乌 鸦 召 唤 强 力 的 闪 电 来 电 击 附 近 的 敌 人 。
+tagClass03SkillDescription01E=风暴乌鸦召唤强力的闪电来电击附近的敌人。
 
 tagClass03SkillName02A=召唤地狱犬
-tagClass03SkillDescription02A=从 虚 幻 领 域 召 唤 出 一 只 地 狱 犬 撕 咬 神 秘 学 者 的 敌 人 。 这 种 邪 恶 的 野 兽 将 跟 随 在 你 身 旁 战 斗 直 至 生 命 在 火 焰 地 狱 里 终 结 。 ^o同 一 时 间 只 能 召 唤 一 只 地 狱 犬 。
+tagClass03SkillDescription02A=从虚幻领域召唤出一只地狱犬撕咬神秘学者的敌人。这种邪恶的野兽将跟随在你身旁战斗直至生命在火焰地狱里终结。^o同一时间只能召唤一只地狱犬。
 tagClass03SkillName02B=灰烬之爪
-tagClass03SkillDescription02B=在 地 狱 犬 可 触 及 的 范 围 内 使 用 硫 磺 之 爪 在 敌 人 身 上 撕 扯 出 一 道 道 烈 焰 之 弧 。
+tagClass03SkillDescription02B=在地狱犬可触及的范围内使用硫磺之爪在敌人身上撕扯出一道道烈焰之弧。
 tagClass03SkillName02C=地狱之火
-tagClass03SkillDescription02C=地 狱 烈 火 的 光 环 围 绕 在 地 狱 犬 的 周 围 ， 给 予 它 地 狱 的 力 量 来 灼 烧 靠 近 的 敌 人 。 这 种 力 量 也 会 被 赋 予 附 近 的 友 军 。
+tagClass03SkillDescription02C=地狱烈火的光环围绕在地狱犬的周围，给予它地狱的力量来灼烧靠近的敌人。这种力量也会被赋予附近的友军。
 tagClass03SkillName02D=炼狱吐息
-tagClass03SkillDescription02D=地 狱 犬 向 外 喷 吐 地 狱 怒 炎 ， 将 敌 人 烧 成 灰 烬 。
+tagClass03SkillDescription02D=地狱犬向外喷吐地狱怒炎，将敌人烧成灰烬。
 tagClass03SkillName02E=扑咬攻击
-tagClass03SkillDescription02E=普 通 攻 击
+tagClass03SkillDescription02E=普通攻击
 tagClass03SkillName02F=死亡燃烧
-tagClass03SkillDescription02F=地 狱 犬 通 过 爆 发 出 体 内 的 地 狱 之 火 回 归 地 狱 ， 将 附 近 的 敌 人 烧 成 灰 烬 。
+tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱，将附近的敌人烧成灰烬。
 
 tagClass03SkillName03A=拜斯迈的羁绊
-tagClass03SkillDescription03A=强 化 与 召 唤 生 物 之 间 的 羁 绊 ， 使 它 们 更 努 力 更 坚 决 地 为 你 作 战 。
+tagClass03SkillDescription03A=强化与召唤生物之间的羁绊，使它们更努力更坚决地为你作战。
 tagClass03SkillName03B=忠诚
-tagClass03SkillDescription03B=以 微 妙 的 手 法 操 纵 召 唤 契 约 ， 使 召 唤 物 将 对 你 忠 诚 无 比 。 它 们 将 以 狂 热 的 力 量 和 速 度 为 你 而 战 。
+tagClass03SkillDescription03B=以微妙的手法操纵召唤契约，使召唤物将对你忠诚无比。它们将以狂热的力量和速度为你而战。
 
 tagClass03SkillName04A=德里格之血
-tagClass03SkillDescription04A=与 伟 大 的 守 护 者 之 间 的 精 神 羁 绊 将 赐 予 你 一 部 分 德 里 格 的 恢 复 能 力 。 受 到 敌 人 攻 击 时 将 喷 溅 出 巫 神 德 里 格 身 上 的 毒 血 。
+tagClass03SkillDescription04A=与伟大的守护者之间的精神羁绊将赐予你一部分德里格的恢复能力。受到敌人攻击时将喷溅出巫神德里格身上的毒血。
 tagClass03SkillName04B=守护者的坚甲
-tagClass03SkillDescription04B=神 秘 学 者 将 置 身 于 幻 化 出 的 屏 障 之 中 ， 敌 人 仿 佛 是 在 攻 击 德 里 格 那 坚 不 可 摧 的 本 体 。
+tagClass03SkillDescription04B=神秘学者将置身于幻化出的屏障之中，敌人仿佛是在攻击德里格那坚不可摧的本体。
 tagClass03SkillName04C=守护者之翎
-tagClass03SkillDescription04C=牺 牲 掉 所 有 的 回 复 力 ， 增 强 德 里 格 之 血 的 毒 性 。
+tagClass03SkillDescription04C=牺牲掉所有的回复力，增强德里格之血的毒性。
 
 tagClass03SkillName05A=索拉尔的巫火
-tagClass03SkillDescription05A=驾 驭 索 拉 尔 的 邪 术 力 量 ， 使 用 熵 能 在 每 一 次 攻 击 中 灼 烧 敌 人 。^o此 技 能 需 开 启 以 保 持 生 效 。
+tagClass03SkillDescription05A=驾驭索拉尔的邪术力量，使用熵能在每一次攻击中灼烧敌人。^o此技能需开启以保持生效。
 tagClass03SkillName05B=二次仪式
-tagClass03SkillDescription05B=加 深 神 秘 学 者 与 隐 秘 国 度 之 间 的 联 系 ， 使 巫 火 的 力 量 变 得 更 为 强 大 ， 哪 怕 是 最 为 轻 微 的 接 触 也 足 以 让 敌 人 的 魔 法 能 量 燃 烧 殆 尽 。
+tagClass03SkillDescription05B=加深神秘学者与隐秘国度之间的联系，使巫火的力量变得更为强大，哪怕是最为轻微的接触也足以让敌人的魔法能量燃烧殆尽。
 tagClass03SkillName05C=祭祀之剑
-tagClass03SkillDescription05C=巫 火 吞 噬 你 的 武 器 ， 以 混 沌 能 量 凝 聚 其 身 。^o需 要 一 把 近 战 武 器 。
+tagClass03SkillDescription05C=巫火吞噬你的武器，以混沌能量凝聚其身。^o需要一把近战武器。
 
 tagClass03SkillName06A=虚弱诅咒
-tagClass03SkillDescription06A=强 大 且 无 情 的 咒 文 将 剥 夺 敌 人 的 勇 气 ， 使 他 们 变 得 缓 慢 而 脆 弱 。
+tagClass03SkillDescription06A=强大且无情的咒文将剥夺敌人的勇气，使他们变得缓慢而脆弱。
 tagClass03SkillName06B=弱化
-tagClass03SkillDescription06B=增 强 诅 咒 蕴 含 的 邪 力 ， 以 至 于 诅 咒 现 在 能 够 弱 化 敌 人 的 体 质 ， 让 他 们 无 力 抵 抗 巫 术 与 毒 药 。
+tagClass03SkillDescription06B=增强诅咒蕴含的邪力，以至于诅咒现在能够弱化敌人的体质，让他们无力抵抗巫术与毒药。
 
 tagClass03SkillName10A=噬命魔印
-tagClass03SkillDescription10A=在 地 面 上 释 放 一 种 神 秘 的 印 记 ， 它 将 吞 噬 掉 深 陷 其 中 的 敌 人 的 生 命 力 。 造 成 的 伤 害 将 以 一 定 的 比 例 返 还 给 神 秘 学 者 。
+tagClass03SkillDescription10A=在地面上释放一种神秘的印记，它将吞噬掉深陷其中的敌人的生命力。造成的伤害将以一定的比例返还给神秘学者。
 tagClass03SkillName10B=毁灭
-tagClass03SkillDescription10B=将 混 沌 本 身 蕴 含 的 毁 灭 之 力 灌 注 于 魔 印 之 中 。
+tagClass03SkillDescription10B=将混沌本身蕴含的毁灭之力灌注于魔印之中。
 
 tagClass03SkillName11A=德里格的邪眼
-tagClass03SkillDescription11A=召 唤 隐 秘 国 度 的 守 护 者 德 里 格 所 拥 有 的 无 数 只 邪 眼 中 的 一 只 ， 它 将 迅 速 飞 向 敌 人 然 后 引 爆 自 身 。
+tagClass03SkillDescription11A=召唤隐秘国度的守护者德里格所拥有的无数只邪眼中的一只，它将迅速飞向敌人然后引爆自身。
 tagClass03SkillName11B=血爆
-tagClass03SkillDescription11B=神 秘 的 邪 眼 在 命 中 敌 人 时 爆 炸 ， 向 周 围 的 敌 人 喷 溅 毒 血 。
+tagClass03SkillDescription11B=神秘的邪眼在命中敌人时爆炸，向周围的敌人喷溅毒血。
 tagClass03SkillName11C=恐惧凝视
-tagClass03SkillDescription11C=不 朽 又 可 畏 的 巫 神 德 里 格 ， 面 对 他 那 令 人 恐 惧 的 凝 视 ， 敌 人 要 么 惊 恐 地 呆 在 原 地 ， 要 么 直 接 逃 之 夭 夭 。
+tagClass03SkillDescription11C=不朽又可畏的巫神德里格，面对他那令人恐惧的凝视，敌人要么惊恐地呆在原地，要么直接逃之夭夭。
 tagClass03SkillName11D=邪物喷涌
-tagClass03SkillDescription11D=邪 眼 撞 上 敌 人 时 会 炸 出 腐 败 的 碎 块 ，不 幸 身 处 爆 炸 范 围 内 的 敌 人 会 遭 受 更 深 的 痛 楚 。
+tagClass03SkillDescription11D=邪眼撞上敌人时会炸出腐败的碎块，不幸身处爆炸范围内的敌人会遭受更深的痛楚。
 tagClass03SkillName11E=聚能凝视
-tagClass03SkillDescription11E=将 德 里 格 的 邪 恶 力 量 引 导 至 每 只 邪 眼 之 中， 使 邪 眼 发 生 更 为 猛 烈 的 爆 炸 ， 造 成 更 多 的 伤 害 ， 但 同 时 会 延 长 施 放 邪 眼 的 间 歇 时 间。
+tagClass03SkillDescription11E=将德里格的邪恶力量引导至每只邪眼之中，使邪眼发生更为猛烈的爆炸，造成更多的伤害，但同时会延长施放邪眼的间歇时间。
 
 tagClass03SkillName12A=附身
-tagClass03SkillDescription12A=以 身 体 为 容 器 侍 奉 巫 神 索 拉 尔 ， 伟 大 的 巫 神 将 暂 时 栖 息 在 你 的 血 肉 之 躯 之 中 ， 从 而 赐 予 你 无 可 匹 敌 的 力 量 。
+tagClass03SkillDescription12A=以身体为容器侍奉巫神索拉尔，伟大的巫神将暂时栖息在你的血肉之躯之中，从而赐予你无可匹敌的力量。
 
 tagClass03SkillName13A=血瘟疫
-tagClass03SkillDescription13A=这 种 恶 毒 的 ， 连 许 许 多 多 神 秘 学 者 都 畏 之 三 分 的 诅 咒 会 在 敌 人 中 间 传 播  致 命 的 瘟 疫 ， 进 而 不 可 逆 转 地 掏 空 他 们 的 生 命 力 ， 他 们 的 每 个 毛 孔 都 将 血 流 不 止 。
+tagClass03SkillDescription13A=这种恶毒的，连许许多多神秘学者都畏之三分的诅咒会在敌人中间传播致命的瘟疫，进而不可逆转地掏空他们的生命力，他们的每个毛孔都将血流不止。
 tagClass03SkillName13B=恶疾
-tagClass03SkillDescription13B=血 瘟 疫 将 摧 毁 敌 人 的 活 力 ， 即 使 是 流 出 的 眼 泪 也 将 变 为 大 片 的 鲜 血 。 阴 险 至 斯 的 巫 术 使 神 秘 学 者 变 得 臭 名 昭 著 ， 所 以 许 多 神 秘 学 者 都 死 在 了 火 刑 柱 之 上 。
+tagClass03SkillDescription13B=血瘟疫将摧毁敌人的活力，即使是流出的眼泪也将变为大片的鲜血。阴险至斯的巫术使神秘学者变得臭名昭著，所以许多神秘学者都死在了火刑柱之上。
 tagClass03SkillName13C=黑死病
-tagClass03SkillDescription13C=身 体 的 高 热 和 内 脏 的 溶 解 折 磨 着 敌 人 ， 让 他 们 在 战 场 上 攻 击 落 空 ， 甚 至 攻 击 他 们 的 队 友 。
+tagClass03SkillDescription13C=身体的高热和内脏的溶解折磨着敌人，让他们在战场上攻击落空，甚至攻击他们的队友。
 tagClass03SkillName13D=狂热怒意
-tagClass03SkillDescription13D=血 瘟 疫 的 变 化 对 敌 人 与 神 秘 学 者 本 身 来 说 都 很 危 险 。 血 瘟 疫 将 极 快 的 发 作 ， 不 只 是 使 造 成 的 伤 害 加 倍 ， 更 会 使 神 秘 学 者 患 上 高 热 ， 变 得 癫 狂 无 比 。 他 们 将 以 异 常 的 速 度 移 动 ， 伴 随 着 狂 暴 的 怒 意 发 动 攻 击 。 而 代 价 则 是 变 得 更 为 脆 弱 。
+tagClass03SkillDescription13D=血瘟疫的变化对敌人与神秘学者本身来说都很危险。血瘟疫将极快的发作，不只是使造成的伤害加倍，更会使神秘学者患上高热，变得癫狂无比。他们将以异常的速度移动，伴随着狂暴的怒意发动攻击。而代价则是变得更为脆弱。
 
 tagClass03SkillName14A=毁灭闪电
-tagClass03SkillDescription14A=施 放 一 束 能 够 撕 裂 现 实 世 界 的 熵 能 闪 电 ， 任 何 被 它 击 中 的 敌 人 都 将 遭 受 重 创 。
+tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电，任何被它击中的敌人都将遭受重创。
 
 
 tagClass03SkillName07A=无效妖术
-tagClass03SkillDescription07A=使 敌 人 的 法 术 失 效 ， 并 且 基 于 敌 人 剩 余 的 能 量 值 造 成 法 力 燃 烧 伤 害 。
+tagClass03SkillDescription07A=使敌人的法术失效，并且基于敌人剩余的能量值造成法力燃烧伤害。
 tagClass03SkillName08A=混沌之箭
-tagClass03SkillDescription08A=施 放 大 量 的 熵 能 ， 撕 碎 敌 人 的 肉 身  。
+tagClass03SkillDescription08A=施放大量的熵能，撕碎敌人的肉身。
 tagClass03SkillName08B=能量燃烧
-tagClass03SkillDescription08B=在 增 强 混 沌 伤 害 的 同 时 ， 燃 烧 掉 一 部 分 敌 人 的 能 量 并 且 造 成 法 力 燃 烧 伤 害 。
+tagClass03SkillDescription08B=在增强混沌伤害的同时，燃烧掉一部分敌人的能量并且造成法力燃烧伤害。
 tagClass03SkillName09A=守护之环
-tagClass03SkillDescription09A=在 施 法 者 周 围 制 造 一 个 魔 法 圆 环 ， 圆 环 能 够 恢 复 生 命 并 且 击 退 敌 人 。
+tagClass03SkillDescription09A=在施法者周围制造一个魔法圆环，圆环能够恢复生命并且击退敌人。
 tagClass03SkillName15A=拜斯迈的庇护
-tagClass03SkillDescription15A=将 目 标 封 印 于 一 块 保 护 性 的 愈 伤 结 界 内 ， 目 标 虽 然 无 法 移 动 但 是 能 够 免 疫 一 切 伤 害 。
+tagClass03SkillDescription15A=将目标封印于一块保护性的愈伤结界内，目标虽然无法移动但是能够免疫一切伤害。
 
 
 
@@ -366,52 +366,52 @@ tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
 tagClass04SkillName01A=幻影刀锋
-tagClass04SkillDescription01A=夜 刃 享 有 盛 誉 的 技 能 。 投 掷 出 通 过 暗 影 魔 法 召 唤 的 刀 刃 ， 如 切 割 纸 片 一 般 撕 裂 肉 体 。
+tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤的刀刃，如切割纸片一般撕裂肉体。
 tagClass04SkillName01B=寻心击
-tagClass04SkillDescription01B=通 过 精 巧 的 技 术 ， 召 唤 出 的 幻 影 刀 锋 是 如 此 的 锋 利 以 至 于 它 们 可 以 刺 穿 多 个 目 标 而 且 隐 形 幻 线 能 从 受 害 者 身 上 吸 取 生 命 力 。 
+tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
 tagClass04SkillName01C=幽冥之刃
-tagClass04SkillDescription01C=以 黑 魔 法 强 化 幻 影 刀 锋 ， 是 一 种 仅 在 最 恶 劣 的 情 况 下 才 会 使 用 的 令 人 厌 恶 的 技 能 。
+tagClass04SkillDescription01C=以黑魔法强化幻影刀锋，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
 tagClass04SkillName01D=狂热投掷
-tagClass04SkillDescription01D=以 狂 热 的 速 度 连 续 投 掷 幻 影 刀 锋 ， 但 是 单 个 刀 锋 的 杀 伤 力 降 低 。
+tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
 
 tagClass04SkillName02A=暗影突袭
-tagClass04SkillDescription02A=幻 术 与 精 神 扭 曲 的 巧 妙 结 合 使 你 几 近 消 失 并 像 梦 魇 中 的 幽 灵 一 样 显 身 在 你 的 目 标 上 方 。 ^o需 要 一 把 近 战 武 器 。
+tagClass04SkillDescription02A=幻术与精神扭曲的巧妙结合使你几近消失并像梦魇中的幽灵一样显身在你的目标上方。^o需要一把近战武器。
 tagClass04SkillName02B=尼达拉的正义裁决
-tagClass04SkillDescription02B=作 为 一 个 被 大 多 数 夜 刃 所 厌 弃 的 毒 师 ，尼 达 拉 主 张 结 果 证 明 一 切 。这 项 在 传 统 暗 影 突 袭 上 的 毒 性 扭 曲 ，会 确 保 任 何 在 初 始 攻 击 下 还 存 活 着 的 敌 人 的 悲 惨 结 局。
+tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的毒师，尼达拉主张结果证明一切。这项在传统暗影突袭上的毒性扭曲，会确保任何在初始攻击下还存活着的敌人的悲惨结局。
 tagClass04SkillName02C=暗夜降临
-tagClass04SkillDescription02C=当 你 现 身 并 与 主 要 目 标 交 战 时 ，一 片 黑 暗 将 如 黑 暗 寒 冷 的 夜 晚 般 降 临 于 周 围 的 敌 人 ，冻 结 他 们 的 血 液 并 将 无 法 控 制 的 疲 倦 侵 入 他 们 的 思 想 。
+tagClass04SkillDescription02C=当你现身并与主要目标交战时，一片黑暗将如黑暗寒冷的夜晚般降临于周围的敌人，冻结他们的血液并将无法控制的疲倦侵入他们的思想。
 
 tagClass04SkillName03A=刀锋刺盾
-tagClass04SkillDescription03A=对 于 一 个 夜 刃 大 师 来 说 ，传 言 贝 尔 戈 蒂 安 对 他 的 魔 力 缺 乏 有 效 的 控 制 ；不 过 他 拥 有 不 懈 的 意 念 来 召 唤 大 量 的 刀 刃 来 组 成 一 面 环 绕 他 的 坚 盾 ，给 他 在 敌 人 面 前 片 刻 的 喘 息 。^o技 能 作 用 期 间 你 将 不 能 移 动 。
+tagClass04SkillDescription03A=对于一个夜刃大师来说，传言贝尔戈蒂安对他的魔力缺乏有效的控制；不过他拥有不懈的意念来召唤大量的刀刃来组成一面环绕他的坚盾，给他在敌人面前片刻的喘息。^o技能作用期间你将不能移动。
 
 tagClass04SkillName04A=钢铁之环
-tagClass04SkillDescription04A=眨 眼 间 ， 上 百 把 幻 影 刀 锋 以 致 人 死 地 的 速 度 环 绕 着 你 ， 消 灭 邻 近 的 敌 人 。
+tagClass04SkillDescription04A=眨眼间，上百把幻影刀锋以致人死地的速度环绕着你，消灭邻近的敌人。
 tagClass04SkillName04B=屠戮之环
-tagClass04SkillDescription04B=锋 利 的 幻 影 刀 锋 深 深 地 切 割 圆 环 范 围 内 的 敌 人 ， 使 他 们 流 出 大 量 的 鲜 血 。
+tagClass04SkillDescription04B=锋利的幻影刀锋深深地切割圆环范围内的敌人，使他们流出大量的鲜血。
 tagClass04SkillName04C=寒霜之环
-tagClass04SkillDescription04C=强 力 的 气 动 技 巧 使 钢 铁 之 环 从 附 近 的 空 气 中 获 取 能 量 ，增 强 冰 冷 伤 害 并 冰 冻 敌 人 ，不 过 需 要 以 穿 刺 伤 害 为 代 价 。
+tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量，增强冰冷伤害并冰冻敌人，不过需要以穿刺伤害为代价。
 
 tagClass04SkillName05A=双刃
-tagClass04SkillDescription05A=夜 刃 技 能 中 最 基 本 的 便 是 近 战 双 持 的 精 通 ，就 像 他 们 喜 欢 使 用 尖 利 的 刀 刃 , 和 那 些 使 钢 铁 中 产 生 元 素 之 寒 的 艺 术 。 ^o这 是 一 项 双 持 加 成 。 同 时 开 启 双 持 近 战 武 器 的 能 力 。
+tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃,和那些使钢铁中产生元素之寒的艺术。^o这是一项双持加成。同时开启双持近战武器的能力。
 tagClass04SkillName05B=贝尔戈蒂安的切割
-tagClass04SkillDescription05B=健 壮 的 贝 尔 戈 蒂 安 是 轻 盈 的 夜 刃 大 师 中 的 异 数 ，不 过 他 在 原 始 的 力 量 上 超 越 了 他 们 。借 助 于 他 的 力 量 的 如 剪 刀 般 直 接 致 命 的 攻 击 ，贝 尔 戈 蒂 安 经 常 一 击 终 结 敌 人 。 ^o这 是 一 项 近 战 双 持 技 巧 。
+tagClass04SkillDescription05B=健壮的贝尔戈蒂安是轻盈的夜刃大师中的异数，不过他在原始的力量上超越了他们。借助于他的力量的如剪刀般直接致命的攻击，贝尔戈蒂安经常一击终结敌人。^o这是一项近战双持技能。
 tagClass04SkillName05C=阿玛拉斯塔的瞬影
-tagClass04SkillDescription05C=因 其 速 度 而 成 为 传 奇 , 阿 玛 拉 斯 塔 的 刀 刃 据 说 像 一 条 空 气 中 的 鞭 子 ，只 留 下 一 条 快 的 肉 眼 难 以 捕 捉 的 光 。这 项 技 艺 的 大 师 能 够 在 普 通 攻 击 的 时 间 内 打 击 三 次 。^o这 是 一 项 近 战 双 持 技 巧 。
+tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀刃据说像一条空气中的鞭子，只留下一条快的肉眼难以捕捉的光。这项技艺的大师能够在普通攻击的时间内打击三次。^o这是一项近战双持技能。
 tagClass04SkillName05D=死亡旋风
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^o这 是 一 项 近 战 双 持 技 巧 。
+tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺，敌人即便存活也会像遭受千刀万剐一般血流不止。^o这是一项近战双持技能。
 tagClass04SkillName05E=尼达拉的隐手
-tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
+tagClass04SkillDescription05E=有争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与死亡旋风二者结合，这近乎残忍般的强大技巧使得她战胜了众多敌手。^o这项技能将改变死亡旋风。
 tagClass04SkillName05F=处决
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^o这 是 一 项 近 战 双 持 技 巧 。
+tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此一击侥幸存活着，也不会再苟延残喘太久。^o这是一项近战双持技能。
 
 tagClass04SkillName06A=气爆
-tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
+tagClass04SkillDescription06A=夜刃的一种绝密武艺，从周围吸取精华和“元气”以到达短时间速度与力量的爆发。由此产生的新陈代谢加速也会少量治疗夜刃的身体。^o需要一把近战武器。
 tagClass04SkillName06B=暗影之舞
-tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
+tagClass04SkillDescription06B=针对战斗中冥想的习练将使你能够在酣战之中保持心中的清明，看破敌人来袭的路线巧妙地躲避敌人的攻击。
 tagClass04SkillName06C=元素觉醒
-tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
+tagClass04SkillDescription06C=夜刃宗师们能够从空气中甚至与敌人短兵相接中汲取能量，然后施放冰冷的攻击。
 tagClass04SkillName06D=贝尔戈蒂安的呼吸
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^o这 是 一 项 近 战 双 持 技 巧 。同 时 开 启 双 持 近 战 武 器 的 能 力 。
+tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^o这是一项近战双持技能。同时开启双持近战武器的能力。
 
 tagClass04SkillName07A=暗影面纱
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
@@ -468,8 +468,8 @@ tagClass04SkillDescription15B=A master technique that enhances eviscerate and ha
 
 #Class05
 
-tagClass05SkillName00=秘术师
-tagClass05SkillDescription00=磨 炼 躯 体 与 意 志 ， 方 能 驾 驭 原 始 的 魔 法 力 量 。 
+tagClass05SkillName00=奥术师
+tagClass05SkillDescription00=磨炼躯体与意志，方能驾驭原始的魔法力量。
 
 tagClass05SkillName01A=帕内蒂的复制飞弹
 tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
@@ -511,7 +511,7 @@ tagClass05SkillName05B=转化
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
 tagClass05SkillName06A=阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-hand.
+tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^o需要装备副手法器。
 tagClass05SkillName06B=崩解
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches.
 tagClass05SkillName06C=堕落之力
@@ -636,55 +636,55 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 #ItemSkills
 
 tagItemSkillA001=骤霜
-tagItemSkillDescA001=一 道 阴 冷 的 能 量 波 ， 足 以 冻 结 阻 挡 它 的 一 切 。
+tagItemSkillDescA001=一道阴冷的能量波，足以冻结阻挡它的一切。
 
 tagItemSkillA002=鬼灵漩涡
-tagItemSkillDescA002=从 附 近 的 敌 人 身 上 吸 取 生 命 力 。
+tagItemSkillDescA002=从附近的敌人身上吸取生命力。
 
 tagItemSkillA003=静电回流
-tagItemSkillDescA003=对 攻 击 玩 家 的 敌 人 施 放 一 个 电 球 。
+tagItemSkillDescA003=对攻击玩家的敌人施放一个电球。
 
 tagItemSkillA004=火球术
-tagItemSkillDescA004=对 附 近 的 敌 人 施 放 一 个 火 球 。
+tagItemSkillDescA004=对附近的敌人施放一个火球。
 
 tagItemSkillA004B=多重火球术
-tagItemSkillDescA004B=对 附 近 的 敌 人 施 放 多 个 火 球 。
+tagItemSkillDescA004B=对附近的敌人施放多个火球。
 
 tagItemSkillA005A=火焰之环
-tagItemSkillDescA005A=火 焰 之 环 围 绕 在 施 法 者 身 边 ， 灼 烧 其 范 围 内 的 敌 人 。
+tagItemSkillDescA005A=火焰之环围绕在施法者身边，灼烧其范围内的敌人。
 
 tagItemSkillA006A=浸毒武器
-tagItemSkillDescA006A=为 武 器 涂 上 一 层 致 命 的 毒 药 。
+tagItemSkillDescA006A=为武器涂上一层致命的毒药。
 
 tagItemSkillC001Name=大法官的审判
 tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
 
 tagItemSkillA007Name=专注
-tagItemSkillA007Desc=专 注 于 战 斗 之 中 ， 所 有 攻 击 的 速 度 都 得 到 提 升 。
+tagItemSkillA007Desc=专注于战斗之中，所有攻击的速度都得到提升。
 
 tagItemSkillA008Name=生存本能
-tagItemSkillA008Desc=注 入 肾 上 腺 素 ， 短 时 间 内 提 升 移 动 速 度 。
+tagItemSkillA008Desc=注入肾上腺素，短时间内提升移动速度。
 
 tagItemSkillA009Name=闪电新星
-tagItemSkillA009Desc=施 放 一 道 闪 电 能 量 ， 伤 害 附 近 的 所 有 敌 人 。
+tagItemSkillA009Desc=施放一道闪电能量，伤害附近的所有敌人。
 
 tagItemSkillA010=静电冲击
-tagItemSkillDescA010=从 身 上 施 放 汹 涌 的 电 流 ， 伤 害 附 近 的 敌 人 。
+tagItemSkillDescA010=从身上施放汹涌的电流，伤害附近的敌人。
 
 tagItemSkillA011=基尔利安之火
-tagItemSkillDescA011=黑 火 吞 食 你 的 血 肉 ， 焚 化 所 有 敢 于 靠 近 的 敌 人 并 吸 取 他 们 的 活 力 。
+tagItemSkillDescA011=黑火吞食你的血肉，焚化所有敢于靠近的敌人并吸取他们的活力。
 
 tagItemSkillB001Name=冲击波
-tagItemSkillB001Desc=你 的 攻 击 中 爆 发 出 一 道 火 焰 冲 击 波 。
+tagItemSkillB001Desc=你的攻击中爆发出一道火焰冲击波。
 
 tagItemSkillB002Name=寒流
-tagItemSkillB002Desc=以 死 寒 之 力 反 击 ， 对 周 围 的 敌 人 施 放 投 射 物 冻 结 他 们 。
+tagItemSkillB002Desc=以死寒之力反击，对周围的敌人施放投射物冻结他们。
 
 tagItemSkillB003Name=夜神之沙
-tagItemSkillB003Desc=以 强 有 力 的 昏 睡 魔 法 反 击 ， 使 附 近 的 敌 人 陷 入 昏 睡 。
+tagItemSkillB003Desc=以强有力的昏睡魔法反击，使附近的敌人陷入昏睡。
 
 tagItemSkillB004Name=闪电链
-tagItemSkillB004Desc=以 能 在 周 围 敌 人 间 跳 跃 的 闪 电 打 击 目 标 单 位 。
+tagItemSkillB004Desc=以能在周围敌人间跳跃的闪电打击目标单位。
 
 tagItemSkillA006Name=闪电新星
 tagItemSkillA006Desc=Retaliates with a blast of lightning energy, damaging all nearby enemies.
@@ -747,7 +747,7 @@ tagItemSkillB023Name=死亡标记
 tagItemSkillB023Desc=Mark your target for a painful and imminent death.
 
 tagItemSkillB024Name=抽十杀一
-tagItemSkillB024Desc=以 压 碎 性 的 一 击 粉 碎 你 的 敌 人 。
+tagItemSkillB024Desc=以压碎性的一击粉碎你的敌人。
 
 tagItemSkillB025Name=闪电箭
 tagItemSkillB025Desc=A pure bolt of lightning strikes your target.
@@ -874,10 +874,10 @@ tagItemSkillC031Name=畏惧
 tagItemSkillC031Desc=深深地将恐惧植入敌人的内心。
 
 tagItemSkillC032Name=自制药水
-tagItemSkillC032Desc=痛 饮 一 杯 ， 病 痛 全 消 。
+tagItemSkillC032Desc=痛饮一杯，病痛全消。
 
 tagItemSkillC033Name=速攻
-tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^o需要单手枪械。
+tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.^o需要单手枪械。
 
 tagItemSkillC034Name=中断
 tagItemSkillC034Desc=The immense speed of these boots requires complete focus on every step taken. Even the slightest distraction could result in a misstep.
@@ -944,7 +944,7 @@ tagItemSkillC053Name=抵死
 tagItemSkillC053Desc=Deny death's advances when its call is strongest.
 
 tagItemSkillC054Name=纽拉姆·辛的毒咒
-tagItemSkillC054Desc=远古的魔咒的力量能将目标困于冰牢之中。
+tagItemSkillC054Desc=远古魔咒的力量能将目标困于冰牢之中。
 
 tagItemSkillC055Name=恶狼之力
 tagItemSkillC055Desc=Embody the might and fury of the great white wolf.
@@ -1117,16 +1117,16 @@ tagItemSkillD019Name=冰雹风暴
 tagItemSkillD019Desc=在目标区域召唤一阵致死的冰雹。
 
 tagItemSkillD020Name=召唤冥灵先锋
-tagItemSkillD020Desc=从 虚 空 深 处 召 唤 出 萨 拉 查 的 先 锋 。
+tagItemSkillD020Desc=从虚空深处召唤出萨拉查的先锋。
 tagItemSkillD020PetSkillName=幽冥剧毒
 tagItemSkillD020PetSkillName02=混沌光环
-tagItemSkillD020PetSkillDesc02=萨 拉 查 的 先 锋 将 混 沌 祝 福 给 予 它 的 盟 友 。
+tagItemSkillD020PetSkillDesc02=萨拉查的先锋将混沌祝福给予它的盟友。
 
 tagItemSkillFailName=Failchantment
-tagItemSkillFailDesc=Fail a little harder.
+tagItemSkillFailDesc=Failalittleharder.
 
 
-#Component Skills
+#ComponentSkills
 
 tagCompSkillA001Name=酸性打击
 tagCompSkillA001Desc=以腐蚀性的酸液猛击敌人，即使是最坚固的铠甲也将被融化。
@@ -1137,25 +1137,25 @@ tagCompSkillA002Desc=向敌人施放一道纯粹的虚化能量。
 tagCompSkillA003Name=放逐
 tagCompSkillA003Desc=用武器击打，毁灭虚灵生物。
 
-tagCompSkillA004Name=破甲光环 I
+tagCompSkillA004Name=破甲光环I
 tagCompSkillA004Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
-tagCompSkillA005Name=剑刃守卫 I
+tagCompSkillA005Name=剑刃守卫I
 tagCompSkillA005Desc=增强护甲对穿刺攻击的防御，同样反击穿刺攻击。
 
-tagCompSkillA006Name=剑刃守卫 II
+tagCompSkillA006Name=剑刃守卫II
 tagCompSkillA006Desc=灌注给护甲对穿刺攻击的防御力，同样反击穿刺攻击。
 
-tagCompSkillA007Name=饮血者 I
+tagCompSkillA007Name=饮血者I
 tagCompSkillA007Desc=以吸血鬼的能量增强你的攻击。
 
-tagCompSkillA008Name=饮血者 II
+tagCompSkillA008Name=饮血者II
 tagCompSkillA008Desc=以吸血鬼的能量增强你的攻击。
 
 tagCompSkillA009Name=混沌之箭
 tagCompSkillA009Desc=对目标施放混沌闪电。
 
-tagCompSkillA010Name=死寒光环 I
+tagCompSkillA010Name=死寒光环I
 tagCompSkillA010Desc=以死寒增强你和盟友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA011Name=斩杀 I
@@ -1207,18 +1207,18 @@ tagCompSkillA026Name=盾牌猛击 I
 tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
 tagCompSkillA027Name=刺盾
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^o需 要 一 把 近 战 武 器 。
+tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^o需要一把近战武器。
 
 tagCompSkillA028Name=银之刀锋
 tagCompSkillA028Desc=用武器击打，毁灭冥灵生物。
 
-tagCompSkillA029Name=猛击 I
+tagCompSkillA029Name=猛击I
 tagCompSkillA029Desc=以压倒性的一击猛击你的敌人。
 
-tagCompSkillA030Name=猛击 II
+tagCompSkillA030Name=猛击II
 tagCompSkillA030Desc=以压倒性的一击猛击你的敌人。
 
-tagCompSkillA031Name=破甲光环 II
+tagCompSkillA031Name=破甲光环II
 tagCompSkillA031Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
 tagCompSkillA032Name=虚化光环
@@ -1287,7 +1287,7 @@ tagRelicSkillB011Name=巨魔之怒
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
 
 tagRelicSkillB012Name=毁伤
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^o这 是 一 项 近 战 双 持 技 能 ， 也 会 激 活 双 持 近 战 武 器 的 能 力 。
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^o这是一项近战双持技能，也会激活双持近战武器的能力。
 
 tagRelicSkillB013Name=齐射
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
@@ -1296,7 +1296,7 @@ tagRelicSkillC001Name=制裁之锤
 tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
 
 tagRelicSkillC002Name=移动城堡
-tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^o需 要 一 块 盾 牌。
+tagRelicSkillC002Desc=坚如磐石，利刃与锐爪几乎无法伤你分毫。^o需要一块盾牌。
 
 tagRelicSkillC003Name=浴血
 tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
@@ -1336,7 +1336,7 @@ tagRelicSkillC014Name=枯萎
 tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
 
 tagRelicSkillC015Name=先祖的羁绊
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此 技 能 需 要 开 启 以 保 持 生 效
+tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此技能需要开启以保持生效
 
 tagRelicSkillD001Name=守护
 tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
@@ -1402,63 +1402,63 @@ tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shi
 
 #ConsumableSkills
 
-tagConsumableSkill_RoyalJellyBalmName=蜂王浆药膏 
-tagConsumableSkill_RoyalJellyBalmDesc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
+tagConsumableSkill_RoyalJellyBalmName=蜂王浆药膏
+tagConsumableSkill_RoyalJellyBalmDesc=让你充满舒缓温暖的感觉。
 tagConsumableSkill_A01=火焰吞饮药膏
-tagConsumableSkill_A01Desc=加 强 肉 体 对 火 焰 热 力 的 抗 性 。 
+tagConsumableSkill_A01Desc=加强肉体对火焰热力的抗性。
 tagConsumableSkill_A02=寒霜护体药膏
-tagConsumableSkill_A02Desc=加 强 肉 体 对 寒 冬 之 罚 的 抗 性 。 
+tagConsumableSkill_A02Desc=加强肉体对寒冬之罚的抗性。
 tagConsumableSkill_A03=风暴之拥药膏
-tagConsumableSkill_A03Desc=加 强 肉 体 对 闪 电 之 怒 的 抗 性 。 
+tagConsumableSkill_A03Desc=加强肉体对闪电之怒的抗性。
 tagConsumableSkill_A04=抗毒药膏
-tagConsumableSkill_A04Desc=加 强 肉 体 对 恶 性 毒 素 的 抗 性 。  
+tagConsumableSkill_A04Desc=加强肉体对恶性毒素的抗性。
 tagConsumableSkill_A05=血系药膏
-tagConsumableSkill_A05Desc=加 强 肉 体 对 虚 空 恶 魔 的 抗 性 。 
+tagConsumableSkill_A05Desc=加强肉体对虚空恶魔的抗性。
 tagConsumableSkill_A06=灵魂之祸药膏
-tagConsumableSkill_A06Desc=加 强 肉 体 对 虚 化 污 染 的 抗 性 。 
+tagConsumableSkill_A06Desc=加强肉体对虚化污染的抗性。
 tagConsumableSkill_A07=死亡之语药膏
-tagConsumableSkill_A07Desc=加 强 肉 体 对 死 亡 魔 法 的 抗 性 。 
+tagConsumableSkill_A07Desc=加强肉体对死亡魔法的抗性。
 tagConsumableSkill_A08=白霜药膏
-tagConsumableSkill_A08Desc=让 你 的 肉 体 充 满 令 人 安 心 的 温 暖 的 感 觉 。 
+tagConsumableSkill_A08Desc=让你的肉体充满令人安心的温暖的感觉。
 tagConsumableSkill_A09=噬命之油
-tagConsumableSkill_A09Desc=为 你 的 武 器 附 上 噬 命 邪 物 。 
+tagConsumableSkill_A09Desc=为你的武器附上噬命邪物。
 tagConsumableSkill_A10=毒牙之油
-tagConsumableSkill_A10Desc=为 你 的 武 器 附 上 毒 素 。 
+tagConsumableSkill_A10Desc=为你的武器附上毒素。
 tagConsumableSkill_A11=血牙之油
-tagConsumableSkill_A11Desc=为 你 的 武 器 附 上 血 牙 毒 素 。 
+tagConsumableSkill_A11Desc=为你的武器附上血牙毒素。
 tagConsumableSkill_A12=奥秘之油
-tagConsumableSkill_A12Desc=为 你 的 武 器 附 上 秘 术 精 华 。 
+tagConsumableSkill_A12Desc=为你的武器附上秘术精华。
 tagConsumableSkill_A13=先祖药剂
-tagConsumableSkill_A13Desc=让 你 充 满 先 祖 的 力 量 。 
+tagConsumableSkill_A13Desc=让你充满先祖的力量。
 tagConsumableSkill_A14=虚空药剂
-tagConsumableSkill_A14Desc=让 你 充 满 虚 空 的 野 性 力 量 。 
+tagConsumableSkill_A14Desc=让你充满虚空的野性力量。
 tagConsumableSkill_A15=虚灵药剂
-tagConsumableSkill_A15Desc=让 你 充 满 虚 灵 的 原 始 力 量 。 
+tagConsumableSkill_A15Desc=让你充满虚灵的原始力量。
 tagConsumableSkill_A16=追猎药剂
-tagConsumableSkill_A16Desc=让 你 充 满 无 限 的 能 量 。 
+tagConsumableSkill_A16Desc=让你充满无限的能量。
 tagConsumableSkill_A17=浓缩蜂王浆
-tagConsumableSkill_A17Desc=宁 神 醒 脑 。 
+tagConsumableSkill_A17Desc=宁神醒脑。
 tagConsumableSkill_A18=蜂王浆精华
-tagConsumableSkill_A18Desc=固 骨 生 肌 。
+tagConsumableSkill_A18Desc=固骨生肌。
 tagConsumableSkill_A19=蜂王浆药剂
-tagConsumableSkill_A19Desc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
+tagConsumableSkill_A19Desc=让你充满舒缓温暖的感觉。
 tagConsumableSkill_A20=蜂王浆药膏
-tagConsumableSkill_A20Desc=让 你 充 满 舒 缓 温 暖 的 感 觉 。 
+tagConsumableSkill_A20Desc=让你充满舒缓温暖的感觉。
 tagConsumableSkill_A21=天神之梦魇
-tagConsumableSkill_A21Desc=圣 光 充 盈 你 的 身 体 。 
+tagConsumableSkill_A21Desc=圣光充盈你的身体。
 tagConsumableSkill_A22=虚化集簇
 tagConsumableSkill_A22Desc=破开水晶体以施放出其中的能量。
 
 #SkillsGeneral
 
-MasteriesAvailable=从 {%d0} 个 额 外 专 精 栏 中 选 择
-NoMasteriesAvailable=无 可 用 的 额 外 专 精 栏
-SkillPointsAvailable=可 用 技 能 点 数 ： {%d0}
-SkillPointsAvailableSingular=可 用 技 能 点 数 ： {%d0}
-NoSkillPointsAvailable=可 用 技 能 点 数 ： 0
-DevotionPointsAvailable=可 用 点 数 ： {%d0}
-DevotionPointsAvailableSingular=可 用 点 数 ： {%d0}
-NoDevotionPointsAvailable=可 用 点 数 ： 0
+MasteriesAvailable=从{%d0}个额外专精栏中选择
+NoMasteriesAvailable=无可用的额外专精栏
+SkillPointsAvailable=可用技能点数:{%d0}
+SkillPointsAvailableSingular=可用技能点数:{%d0}
+NoSkillPointsAvailable=可用技能点数:0
+DevotionPointsAvailable=可用点数:{%d0}
+DevotionPointsAvailableSingular=可用点数:{%d0}
+NoDevotionPointsAvailable=可用点数:0
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=锤与砧
@@ -1485,26 +1485,26 @@ tagDevotionAkeron=阿克隆的蝎尾
 
 #SkillsReallocator
 
-tagReallocateError01=在 完 全 撤 销 该 技 能 加 点 之 前 你 必 须 先 撤 销 其 所 有 延 伸 技 能 的 加 点 。
-tagReallocateError02=金 钱 不 足 。
-tagReallocateError03=不 能 从 专 精 中 撤 销 点 数 。
-tagDecreaseMasteryError=不 能 从 专 精 中 撤 销 点 数 。
-tagReclaimPoint=点 击 以 撤 销 加 点(费 用{^y}{%t0}{^-})
-tagRemovePoint=左 键 点 击 来 移 除 专 精 点 数
-tagReclaimBase=先 移 除 其 延 伸 技 能 才 能 移 除 该 技 能
-tagRemoveBase=无 法 移 除 专 精 点 数
-tagReclaimNoPoints=没 有 技 能 点 数 可 以 撤 销
-tagRemoveNoPoints=没 有 点 数 可 以 移 除
-tagReclaimNoGold=金 钱 不 足(费 用{^y}{%t0}{^r})
-tagReallocateTitle=技 能 重 置
-tagReallocationDescription=点 击 技 能 图 标 会 移 除 一 个 技 能 点 ， 每 移 除 一 个 加 点 费 用 都 会 随 之 增 加 。
+tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
+tagReallocateError02=金钱不足。
+tagReallocateError03=不能从专精中撤销点数。
+tagDecreaseMasteryError=不能从专精中撤销点数。
+tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-})
+tagRemovePoint=左键点击来移除专精点数
+tagReclaimBase=先移除其延伸技能才能移除该技能
+tagRemoveBase=无法移除专精点数
+tagReclaimNoPoints=没有技能点数可以撤销
+tagRemoveNoPoints=没有点数可以移除
+tagReclaimNoGold=金钱不足(费用{^y}{%t0}{^r})
+tagReallocateTitle=技能重置
+tagReallocationDescription=点击技能图标会移除一个技能点，每移除一个加点费用都会随之增加。
 
-tagTemplateName=Rename Me
-tagTemplateDescription=Describe Me
+tagTemplateName=RenameMe
+tagTemplateDescription=DescribeMe
 
 
 
-#EnemySkills 敌人技能
+#EnemySkills敌人技能
 
 tagEnemySkillA01=绝望光环
-tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.
+tagEnemySkillA01_Desc=虚灵先锋的存在使你感到惧怕，因此你的行动减缓并受到虚化伤害。

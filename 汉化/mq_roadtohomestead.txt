@@ -1,24 +1,24 @@
-The Search for Food
-A Timely Arrival
-Find Homestead
-Ulgrim is stuck out in Deadman's Gulch with several refugees, many of them injured. He has asked you to fight your way through the Mountain Deeps, a treacherous cavern system traveled by few, in order to reach the other side of the gulch and eventually Homestead itself. Once you've made your way out of the Mountain Deeps, you should follow the Prospector's Trail northwest until you reach the farmlands. There you will find Homestead, hopefully still under the control of the Black Legion.
+寻找食物
+及时抵达
+找到霍姆斯特德
+艾格瑞姆与几位难民被困在了亡者峡谷，他们中的许多人都受了伤。他要你进入山脉深渊之中，那是个危险的，人迹罕至的地下洞穴。到达深渊的另一面才能最终到达霍姆斯特德。在通过深渊之后，你应该沿着采矿者小径然后向西北方进发，直到找到大片农田。在那里你会发现霍姆斯特德，希望那里还在黑色军团的掌控之下。
 
-Travel to Homestead through the Mountain Deeps
+穿越山脉深渊以到达霍姆斯特德
 
-Secure Rift
-You have made your way to Homestead, but the riftgate right outside its gates is swarming with Aetherials. You will have to clear them out before you can enter Homestead and secure the way for the refugees.
-Secure the riftgate outside of Homestead
+清理传送门
+你已抵达霍姆斯特德，但是大门外的传送门正在产生大量的虚灵。在进入霍姆斯特德之前你必须清除它们，保障难民们的安全。
+清理霍姆斯特德之外的传送门
 
-Return for Refugees
-You have secured the riftgate outside of Homestead. You should return to Ulgrim and the refugees in Deadman's Gulch in order to rift them to safety.
-Return to Ulgrim and the refugees in Deadman's Gulch
+返回难民身边
+你已经清理了霍姆斯特德外的传送门，应该返回亡者峡谷的艾格瑞姆和难民身边，将他们安全地传送走。
+返回亡者峡谷的艾格瑞姆和难民身边
 
-Speak to Ulgrim
-You have opened a riftgate for Ulgrim and the refugees in Deadman's Gulch. Speak to Ulgrim in Homestead.
+与艾格瑞姆交谈
+你为难民们开启了传送门，前往霍姆斯特德与艾格瑞姆谈谈。
 
 
 
-Speak to Ulgrim in Homestead
+在霍姆斯特德与艾格瑞姆交谈
 
 
 

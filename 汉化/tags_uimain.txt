@@ -1,4 +1,4 @@
-tagTitleScreenText=恐怖黎明早期先行版{^n}©2014 Crate Entertainment, LLC{^n}{^n}欢迎试玩恐怖黎明早期先行版! 我们非常重视您的反馈。{^n}{^n}请前往www.grimdawn.com{^n}来参与到恐怖黎明的开发中来!
+tagTitleScreenText=恐怖黎明早期先行版 ©2014 Crate Entertainment, LLC
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -17,13 +17,13 @@ tagMenuButton07=应用
 tagMenuButton08=默认
 tagMenuButton09=确定
 tagMenuButton10=刷新
-tagMenuChar={%d0} ~ {%d1}
+tagMenuChar={%d0}~{%d1}
 
-# Temporary popup message for alpha multiplayer build warning
-tagMenuMPWarning=欢 迎 加 入 多 人 游 戏 测 试 ！ 警 告 ： 测 试 期 间 ， 你 会 遇 到 bug ， 游 戏 崩 溃 和 性 能 问 题 。 请 到 恐 怖 黎 明 论 坛 反 馈 这 些 问 题 。
+#Temporarypopupmessageforalphamultiplayerbuildwarning
+tagMenuMPWarning=欢迎加入多人游戏测试！警告：测试期间，你会遇到bug，游戏崩溃和性能问题。请到恐怖黎明论坛反馈这些问题。
 
 #
-# Play Menu
+#PlayMenu
 #
 
 tagMenuGame01=单人游戏
@@ -47,7 +47,7 @@ tagMenuCreate03=男性
 tagMenuCreate04=女性
 tagMenuCreate05=给你的角色起个名字
 tagTunicColor=服装颜色
-tagMenuImport01=导入战役人物 {%s}
+tagMenuImport01=导入战役人物{%s}
 tagMenuImport02=选择一个人物
 tagMenuImport03=名字
 tagMenuImport04=职业
@@ -87,7 +87,7 @@ tagGameStateConnecting=正在连接至服务器……
 tagGameStateData=等待服务器……
 
 #
-# Options
+#Options
 #
 
 tagGameplayTitle=基本设置
@@ -219,9 +219,9 @@ tagSurroundSpeakers=环绕声
 tag51Speakers=5.1声道环绕声
 tag71Speakers=7.1声道环绕声
 tagVideoTitle=视频
-tagVideoResolution01=800 x 600
-tagVideoResolution02=1024 x 768
-tagVideoResolution03=1280 x 1024
+tagVideoResolution01=800x600
+tagVideoResolution02=1024x768
+tagVideoResolution03=1280x1024
 tagVideoLevel01=高
 tagVideoLevel02=中
 tagVideoLevel03=低
@@ -265,39 +265,39 @@ tagVideoOptionSoftParticles=柔和粒子
 tagVideoOptionUIScale=界面调整
 
 tagNetworkTitle=网络
-tagUpnpTitle=UPnP 协议:
-tagUpnpStatus=UPnP 协议状态：
+tagUpnpTitle=UPnP协议:
+tagUpnpStatus=UPnP协议状态：
 tagUpnpAvailable=可用
 tagUpnpNotAvailable=不可用
 tagUpnpHelp=帮助
-tagUpnpControl=激活 UPnP
+tagUpnpControl=激活UPnP
 tagNetworkStatusTitle=网络状态：
 tagNetworkStatusTest=测试
-tagNetworkNoOpts=游 戏 中 网 络 选 项 是 不 可 用 的 。 {^n} 请 退 出 到 主 菜 单 再 打 开 网 络 选 项 。
+tagNetworkNoOpts=游戏中网络选项是不可用的。{^n}请退出到主菜单再打开网络选项。
 tagCloudSaving=开启云存档
 tagResetCloud=删除云存档
 tagDownloadCloud=下载云存档
 
-tagUPnPCheckFail=UPnP 服 务 无 法 设 置 你 的 路 由 器 以 搭 建 一 个 恐 怖 黎 明 服 务 器 。 请 检 查 你 的 路 由 器 设 置 并 开 启 UPnP ， 或 者 如 果 不 行 的 话 ， 手 动 设 置 你 的 路 由 器 ， 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 。
+tagUPnPCheckFail=UPnP服务无法设置你的路由器以搭建一个恐怖黎明服务器。请检查你的路由器设置并开启UPnP，或者如果不行的话，手动设置你的路由器，为UDP协议和TCP协议打开27016端口。
 
-tagUPnPNotAvailableHelp=UPnP 不 可 用 。 恐 怖 黎 明 无 法 将 你 的 路 由 器 自 动 设 置 成 英 特 网 服 务 器 。 请 检 查 你 的 路 由 器 设 置 并 开 启 UPnP 或 者 手 动 设 置 你 的 路 由 来 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 。
+tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动                                                                                  设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
 
-tagUPnPEnabledHelp=已 开 启UPnP， 不 需 要 手 动 设 置 。
-tagUPnPDisabledHelp=已 开 启UPnP。 你 的 路 由 器 上 必 须 为 UDP 协 议 和 TCP 协 议 打 开 27016 端 口 才 能 搭 建 一 个 恐 怖 黎 明 的 服 务 器 。
+tagUPnPEnabledHelp=已开启UPnP，不需要手动设置。
+tagUPnPDisabledHelp=已开启UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
 
-tagUPnPHelp=UPnP 协 议 将 能 设 置 你 的 路 由 器 并 使 其 与 恐 怖 黎 明 游 戏 进 行 通 信 。 要 建 立 一 个 互 联 网 上 的 服 务 器 ， 你 的 路 由 器 必 须 打 开 相 应 的 端 口 。 UPnP 可 以 让 恐 怖 黎 明 游 戏 打 开 这 些 端 口 ， 并 且 退 出 的 时 候 再 关 闭 它 们 ， 无 需 手 动 设 置 。
+tagUPnPHelp=UPnP协议将能设置你的路由器并使其与恐怖黎明游戏进行通信。要建立一个互联网上的服务器，你的路由器必须打开相应的端口。UPnP可以让恐怖黎明游戏打开这些端口，并且退出的时候再关闭它们，无需手动设置。
 
-tagIPCheckHelp=网 络 设 置 检 测 将 会 检 查 路 由 器 是 否 拥 有 一 个 有 效 的 外 部 IP 地 址 ， 并 且 查 看 该 地 址 是 否 与 互 联 网 上 可 见 的 地 址 是 相 同 的 。
+tagIPCheckHelp=网络设置检测将会检查路由器是否拥有一个有效的外部IP地址，并且查看该地址是否与互联网上可见的地址是相同的。
 
-tagIPCheckFail=路 由 器 的 公 共 IP 地 址 与 互 联 网 可 见 的 外 部 IP 地 址 不 一 致 ， 通 常 这 是 因 为 试 图 在 途 径 多 个 路 由 器 之 内 的 网 络 建 立 游 戏 服 务 器 的 缘 故 。 请 检 查 你 的 路 由 器 设 置 并 重 启 游 戏 。
+tagIPCheckFail=路由器的公共IP地址与互联网可见的外部IP地址不一致，通常这是因为试图在途径多个路由器之内的网络建立游戏服务器的缘故。请检查你的路由器设置并重启游戏。
 
-tagIPCheckFailMaybe=你 的 路 由 器 的 公 共 IP 地 址 ： (%t0) 不 是 一 个 有 效 的 IP 地 址 。 路 由 器 虽 然 正 常 工 作 但 是 没 有 正 确 地 返 回 公 共 地 址 这 种 情 况 也 是 可 能 出 现 的 。 请 检 查 你 的 路 由 器 设 置 ， 确 保 恐 怖 黎 明 的 游 戏 主 机 不 在 多 于 一 台 路 由 器 的 网 络 之 中 。 一 些 互 联 网 提 供 商 使 用 调 制 解 调 器 和 路 由 器 混 合 的 设 备 。 如 果 该 设 备 与 游 戏 主 机 之 间 有 另 外 一 台 路 由 器 的 话 ， 你 将 无 法 建 立 互 联 网 上 的 游 戏 主 机 。
+tagIPCheckFailMaybe=你的路由器的公共IP地址：(%t0)不是一个有效的IP地址。路由器虽然正常工作但是没有正确地返回公共地址这种情况也是可能出现的。请检查你的路由器设置，确保恐怖黎明的游戏主机不在多于一台路由器的网络之中。一些互联网提供商使用调制解调器和路由器混合的设备。如果该设备与游戏主机之间有另外一台路由器的话，你将无法建立互联网上的游戏主机。
 
-tagIPCheckPass=网 络 检 测 通 过 ， 路 由 器 的 公 共 IP 地 址 和 互 联 网 可 见 的 外 部 地 址 是 相 吻 合 的 。
+tagIPCheckPass=网络检测通过，路由器的公共IP地址和互联网可见的外部地址是相吻合的。
 
-tagIPCheckUnable=无 法 检 测 网 络 设 置 。 测 试 需 要 本 地 路 由 器 激 活 UPnP 协 议 ， 并 且 恐 怖 黎 明 游 戏 也 要 启 用 该 协 议 。 如 果 没 有 启 用 该 协 议 ， 请 启 用 协 议 并 重 启 游 戏 ， 然 后 再 次 运 行 网 络 检 测 。
+tagIPCheckUnable=无法检测网络设置。测试需要本地路由器激活UPnP协议，并且恐怖黎明游戏也要启用该协议。如果没有启用该协议，请启用协议并重启游戏，然后再次运行网络检测。
 
-tagIPCheckUnableIP=无 法 获 得 外 部 可 见 的 IP 地 址 ， 无 法 运 行 测 试 。
+tagIPCheckUnableIP=无法获得外部可见的IP地址，无法运行测试。
 
 tagIPTesting=正在检测设置……
 tagIPLocalPublic=路由器的公共IP地址：
@@ -315,7 +315,7 @@ tagMultiplayer07=房间名称过滤：
 tagMultiplayer09=不可用的地图
 tagMultiplayer10=隐藏已满的游戏房间
 tagMultiplayer11=隐藏已锁的游戏房间
-tagMultiplayer12={%d0}/{%d1} 
+tagMultiplayer12={%d0}/{%d1}
 tagMultiplayer13={%d0}小时{%d1}分{%d2}秒
 tagMultiplayer14=上锁的
 tagMultiplayer15=版本
@@ -324,9 +324,9 @@ tagMultiStats01=地图：
 tagMultiStats02=玩家：{%d0}/{%d1}
 tagMultiStats03=难度：
 tagMultiStats04=游戏已进行时间：
-tagMultiStats05=等级范围 +/-
+tagMultiStats05=等级范围+/-
 tagMultiButtonRefresh=刷新
-tagMultiNameFormat={%t0} (等级 {%d0})
+tagMultiNameFormat={%t0}(等级{%d0})
 
 tagDefaultMap=恐怖黎明
 tagMenuErrorTitle=信息
@@ -344,16 +344,16 @@ tagMenuError18=无法连接，该房间已满。
 tagMenuError19=无法连接，你的人物还没有解锁该难度。
 tagMenuError20=无效的密码。
 tagMenuError21=该房间需要自定义地图：{%t0}
-tagMenuError21a=此 游 戏 房 间 使 用 了 一 个 不 匹 配 的 游 戏 模 式 。 你 的 游 戏 模 式 ： " {%s0} " ， 服 务 器 的 模 式 ： " {%s1} "
-tagMenuError21b=专 家 模 式 和 非 专 家 模 式 的 玩 家 不 能 在 一 起 进 行 游 戏 。 请 选 择 其 他 的 游 戏 房 间 。
+tagMenuError21a=此游戏房间使用了一个不匹配的游戏模式。你的游戏模式："{%s0}"，服务器的模式："{%s1}"
+tagMenuError21b=专家模式和非专家模式的玩家不能在一起进行游戏。请选择其他的游戏房间。
 tagMenuError22=该游戏已满，请选择其他游戏房间。
-tagMenuError23=该游戏需要人物等级介于 {%d0} ~ {%d1} 之间。请选择其他游戏房间。
+tagMenuError23=该游戏需要人物等级介于{%d0}~{%d1}之间。请选择其他游戏房间。
 tagMenuError24=一些改动重启游戏才会生效。
 tagMenuError25=你改变了一些选项，是否应用这些改动？
-tagMenuError26=无法连接至服务器，无效的 cdkey
-tagMenuError28=无效的 cdkey
-tagMenuError29=cdkey 已被使用
-tagMenuError30=cdkey 已被禁用
+tagMenuError26=无法连接至服务器，无效的cdkey
+tagMenuError28=无效的cdkey
+tagMenuError29=cdkey已被使用
+tagMenuError30=cdkey已被禁用
 tagMenuError31=正在建立服务器名单，取消以显示部分服务器。
 tagMenuError32=需要正确的版本才能连接到该服务器，请更新游戏。
 tagMenuError33=无法初始化游戏引擎。
@@ -398,7 +398,7 @@ tagGermanPatch=恐怖黎明现在要将原始对话文档更新到德语版本�
 tagLanguagePatchError=恐怖黎明无法更新原始对话文档。
 tagMenuPatcher01=正在更新恐怖黎明原始文件......
 tagMenuPatcher02=文件错误：
-tagGameSummary={%d0} 游戏房间 / {%d1} 玩家
+tagGameSummary={%d0}游戏房间/{%d1}玩家
 
 tagCharCreatePVP=PVP
 tagCharCreateAutoParty=自动组队
@@ -453,7 +453,7 @@ tagCharDetailsPlayerLocation=位置：
 tagCharDetailsFaction=势力状态
 tagCharDetailsActiveQuests=已激活的任务：
 
-tagDirectConnectMenuConnecting=连接到服务器 {%t0}
+tagDirectConnectMenuConnecting=连接到服务器{%t0}
 tagDirectConnectMenuStatus1=与服务器通讯中……
 tagDirectConnectMenuStatus2=正在连接服务器……
 tagDirectConnectMenuStatus3=连接完成，正在启动游戏。

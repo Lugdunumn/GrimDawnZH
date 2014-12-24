@@ -58,7 +58,7 @@ tagMapPineBarrens=松林荒地
 tagMapJaggedWaste=锯齿荒地
 tagMapJaggedWasteFort=暴君的要塞
 
-tagMapWitheringFields01=干枯田地
+tagMapWitheringFields=干枯田地
 tagMapHomestead=霍姆斯特德
 tagMapInfestedFarms=感染农田
 tagMapRottedHarvest=腐坏田地
@@ -287,35 +287,35 @@ tagPOIQuest_Homestead=开辟出一条到霍姆斯特德的道路
 
 #Notifications
 
-tagNotification_WightmireBurialCaveFound=距 离 死 尸 的 源 头 已 经 不 远 了 ……
-tagNotification_WightmireReanimatorFound=一 只 生 物 正 在 复 生 尸 体 ！
-tagNotification_WightmireCaravanFound=这 场 屠 杀 刚 发 生 过 不 久 ……
-tagNotification_WightmireCaravanDriverFound=一 位 俘 虏 正 在 呼 救 ！
-tagNotification_InventoryBagAcquired=得 到 储 物 袋 ！
-tagNotification_BurrwitchRiftgateEvent=裂 缝 传 送 门 正 在 产 生 敌 人 ！
-tagNotification_BurrwitchRiftgateSecured=伯 尔 维 治 的 传 送 门 已 经 被 清 理 干 净 了 ！
-tagNotification_WardenCellarFound=这 一 定 就 是 典 狱 长 的 地 下 室 了 ……
-tagNotification_WardenLabFound=一 个 实 验 室 ， 典 狱 长 一 定 就 在 附 近 ……
-tagNotification_LostApprenticeCellar=有 人 最 近 来 过 这 儿 ……
-tagNotification_LostApprenticeFound=卡 斯 帕 罗 夫 的 学 徒 在 这 儿 ！
+tagNotification_WightmireBurialCaveFound=距离死尸的源头已经不远了……
+tagNotification_WightmireReanimatorFound=一只生物正在复生尸体！
+tagNotification_WightmireCaravanFound=这场屠杀刚发生过不久……
+tagNotification_WightmireCaravanDriverFound=一位俘虏正在呼救！
+tagNotification_InventoryBagAcquired=得到储物袋！
+tagNotification_BurrwitchRiftgateEvent=裂缝传送门正在产生敌人！
+tagNotification_BurrwitchRiftgateSecured=伯尔维治的传送门已经被清理干净了！
+tagNotification_WardenCellarFound=这一定就是典狱长的地下室了……
+tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
+tagNotification_LostApprenticeCellar=有人最近来过这儿……
+tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
 
-tagNotification_HS_RemoveTheHead_ElsaFound=看 起 来 克 隆 利 没 有 抓 艾 尔 莎 ……
-tagNotification_HS_SpoilsOfTheGrimDawn=你 找 到 了 古 老 的 遗 迹 。
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海 边 的 旧 桥 被 毁 掉 了 ， 你 需 要 在 走 私 者 的 通 道 内 找 出 一 条 路 来 。
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你 已 经 穿 越 了 走 私 者 的 通 道 ， 寻 找 通 往 霍 姆 斯 特 德 的 道 路 吧 。
-tagNotification_HS_OldArkoviaPassagesCompleted=你 已 经 找 齐 了 讲 述 安 克 维 亚 文 章 的 所 有 章 节 并 考 察 了 其 中 的 内 容 。
-tagNotification_HS_OldArkoviaPassagesBossKilled=你 得 到 了 一 片 被 污 染 者 的 灵 魂 碎 片 ！
+tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
+tagNotification_HS_SpoilsOfTheGrimDawn=你找到了古老的遗迹。
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海边的旧桥被毁掉了，你需要在走私者的通道内找出一条路来。
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你已经穿越了走私者的通道，寻找通往霍姆斯特德的道路吧。
+tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
+tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
 
 tagNotification_AreaC_EnclaveRiftgateEvent=进入霍姆斯特德的通道充斥着虚灵！
 tagNotification_AreaC_RefugeeRemainsFound=看起来达利娅·塔夫恩没能在山脉深渊的危险中幸免。
 tagNotification_AreaC_BloodHarvestFound=有些囚徒在呼救。
 
-tagNotification_WarningToughArea=有 个 远 比 你 强 大 的 怪 物 栖 息 在 这 里 ……
-tagNotification_WarningRiftgateDisabled=在 这 里 你 失 去 了 与 裂 缝 传 送 门 之 间 的 连 接 ……
-tagNotification_WarningGatesOfAnguish=痛 苦 之 门 已 经 打 开 了。 动 作 要 快 ， 这 扇 门 不 会 开 着 很 久 的 ……
-tagNotification_WarningGatesOfAnguishLocked=痛 苦 之 门 已 被 封 印 ， 这 场 游 戏 它 不 会 再 打 开 了 。
+tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
+tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门之间的连接……
+tagNotification_WarningGatesOfAnguish=痛苦之门已经打开了。动作要快，这扇门不会开着很久的……
+tagNotification_WarningGatesOfAnguishLocked=痛苦之门已被封印，这场游戏它不会再打开了。
 
-#NPC Names
+#NPCNames
 
 tagNPC_JohnBourbon=约翰·波旁队长
 tagNPC_Kasparov=卡斯帕罗夫
@@ -498,26 +498,26 @@ tagNPC_Flavor_AreaD_06=
 
 #Quest Items
 
-tagQuestItemHartsAmulet_Name=哈 特 的 项 链
-tagQuestItemHartsAmulet_Text=“致 我 亲 爱 的 哥 哥 ： 希 望 这 枚 项 链 能 在 战 场 上 保 佑 你 。- 西 比 尔”
+tagQuestItemHartsAmulet_Name=哈特的项链
+tagQuestItemHartsAmulet_Text=“致我亲爱的哥哥：希望这枚项链能在战场上保佑你。-西比尔”
 
-tagQuestItemCultistKey_Name=奇 特 的 钥 匙
-tagQuestItemCultistKey_Text=“这 把 钥 匙 标 注 着 冥 神 麾 下 邪 教 徒 所 使 用 的 诸 多 奇 异 符 文 和 堕 落 符 号 。”
-tagQuestItemDirections_Name=狄 瑞 尼 的 指 引
+tagQuestItemCultistKey_Name=奇特的钥匙
+tagQuestItemCultistKey_Text=“这把钥匙标注着冥神麾下邪教徒所使用的诸多奇异符文和堕落符号。”
+tagQuestItemDirections_Name=狄瑞尼的指引
 tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
 
-tagQuestChestLostJournal=积 灰 的 诵 经 台
-tagQuestItemLostJournal_Name=邪 教 徒 的 命 令
+tagQuestChestLostJournal=积灰的诵经台
+tagQuestItemLostJournal_Name=邪教徒的命令
 tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
 
-tagQuestItemDynamite=炸 药
-tagQuestItemDynamiteDesc=“猛 烈 的 爆 炸 物 ， 爆 破 者 们 曾 使 用 它 来 对 抗 法 师 们 毁 灭 性 的 力 量 。”
-tagQuestItemSupplies=补 给 箱
-tagQuestItemSuppliesDesc=“装 满 了 有 价 值 的 材 料 和 不 易 腐 坏 食 物 的 板 条 箱 。”
-tagQuestItemSlithNecklace=蛇 人 项 链
-tagQuestItemSlithNecklaceDesc=“蛇 人 萨 满 佩 戴 的 项 链 ， 只 有 它 们 才 懂 得 此 物 的 用 途 。”
+tagQuestItemDynamite=炸药
+tagQuestItemDynamiteDesc=“猛烈的爆炸物，爆破者们曾使用它来对抗法师们毁灭性的力量。”
+tagQuestItemSupplies=补给箱
+tagQuestItemSuppliesDesc=“装满了有价值的材料和不易腐坏食物的板条箱。”
+tagQuestItemSlithNecklace=蛇人项链
+tagQuestItemSlithNecklaceDesc=“蛇人萨满佩戴的项链，只有它们才懂得此物的用途。”
 tagQuestItemFabric=织物
-tagQuestItemFabricDesc=“有 点 旧 有 点 脏 ， 但 是 其 他 方 面 都 挺 好 。”
+tagQuestItemFabricDesc=“有点旧有点脏，但是其他方面都挺好。”
 
 tagQuestItemSaltMineKey_Name=通往被遗忘的深渊的钥匙
 tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
@@ -526,7 +526,7 @@ tagQuestItemForgottenPassage=被遗忘的通道
 tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
 
 tagQuestItemSmithHammer=曼海尔的锤骨
-tagQuestItemSmithHammer_Desc=“工 匠 们 手 中 代 代 相 传 的 一 把 远 古 锻 锤 。 它 见 证 了 无 数 神 器 的 诞 生 ， 也 将 继 续 打 造 出 无 数 的 神 兵 利 器 。”
+tagQuestItemSmithHammer_Desc=“工匠们手中代代相传的一把远古锻锤。它见证了无数神器的诞生，也将继续打造出无数的神兵利器。”
 
 tagQuestItemDermapteranPheromones_01=Lozakal's Pheromone Gland
 tagQuestItemDermapteranPheromones_01Desc="The stench emanating from this gland is nauseating."
@@ -554,29 +554,29 @@ tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arko
 
 #Journals 日志
 
-tagLoreObj_InquisitorCreedA01Name=审 判 官 克 里 德 的 日 志 - 第 一 章
-tagLoreObj_InquisitorCreedA01codexTitle=审 判 官 克 里 德 - 第 一 章
-tagLoreObj_InquisitorCreedA01Text=此 时 此 刻 ， 我 正 在 赶 往 调 查 伯 尔 维 治 的 路 上 ， 最 近 有 人 报 告 在 这 个 区 域 里 发 生 了 一 些 奇 怪 的 事 情 。 黄 昏 正 在 逐 渐 笼 罩 魔 鬼 路 口 ， 附 近 阴 森 的 沼 泽 提 示 着 在 晚 上 赶 路 可 不 是 个 好 主 意 。 我 只 好 勉 强 住 进 了 下 游 渡 口 的 一 个 脏 兮 兮 的 小 旅 馆 。 {^n}{^n}也 许 经 过 一 段 匆 匆 忙 忙 的 旅 途 之 后 ， 我 应 该 感 到 很 疲 乏 ， 但 我 似 乎 感 到 空 气 中 有 一 种 奇 怪 的 压 迫 感 ， 使 我 的 情 绪 保 持 着 紧 张 的 状 态 。 这 种 感 觉 就 好 像 在 一 个 雷 鸣 般 的 夏 季 风 暴 即 将 到 来 之 前 ， 太 阳 仍 然 是 光 芒 四 射 ， 甚 至 空 中 连 一 朵 云 都 看 不 见 。 寂 静 ， 却 令 人 害 怕 。 这 里 的 一 切 事 物 似 乎 都 处 于 它 们 正 常 的 状 态 ， 看 不 出 来 任 何 端 倪 ， 但 我 的 直 觉 告 诉 我 ， 某 种 可 怕 的 事 情 将 要 到 来 了 … …
+tagLoreObj_InquisitorCreedA01Name=审判官克里德的日志-第一章
+tagLoreObj_InquisitorCreedA01codexTitle=审判官克里德-第一章
+tagLoreObj_InquisitorCreedA01Text=此时此刻，我正在赶往调查伯尔维治的路上，最近有人报告在这个区域里发生了一些奇怪的事情。黄昏正在逐渐笼罩魔鬼路口，附近阴森的沼泽提示着在晚上赶路可不是个好主意。我只好勉强住进了下游渡口的一个脏兮兮的小旅馆。{^n}{^n}也许经过一段匆匆忙忙的旅途之后，我应该感到很疲乏，但我似乎感到空气中有一种奇怪的压迫感，使我的情绪保持着紧张的状态。这种感觉就好像在一个雷鸣般的夏季风暴即将到来之前，太阳仍然是光芒四射，甚至空中连一朵云都看不见。寂静，却令人害怕。这里的一切事物似乎都处于它们正常的状态，看不出来任何端倪，但我的直觉告诉我，某种可怕的事情将要到来了……
 
-tagLoreObj_InquisitorCreedA02Name=审 判 官 克 里 德 的 日 志 - 第 二 章
-tagLoreObj_InquisitorCreedA02codexTitle=审 判 官 克 里 德 - 第 二 章
-tagLoreObj_InquisitorCreedA02Text=正 当 收 拾 行 李 准 备 重 新 踏 上 前 往 伯 尔 维 治 的 旅 途 时 ， 我 收 到 了 来 自 一 个 伐 木 营 地 的 紧 急 求 救 ， 这 个 营 地 驻 扎 在 古 老 林 地 ， 位 于 魔 鬼 路 口 的 西 边 。 奇 怪 的 野 兽 袭 击 了 那 个 营 地 ， 只 留 下 三 个 虚 弱 而 脸 色 苍 白 的 伐 木 工 人 。 {^n}{^n}到 达 营 地 之 后 ， 工 头 神 情 严 肃 地 向 我 问 好 ， 接 着 告 诉 我 被 野 兽 咬 过 的 工 人 发 了 疯 并 且 逃 离 了 营 地 。 另 外 ， 他 们 还 用 一 种 从 来 没 听 过 的 语 言 彼 此 交 谈 。 工 头 把 一 些 动 物 的 遗 骸 指 给 我 看 。 那 是 两 只 灰 狐 和 一 只 猎 犬 ， 身 上 长 满 了 令 人 毛 骨 悚 然 的 疥 疮 ， 躺 在 房 子 后 面 一 个 草 草 挖 好 的 坑 里 。 工 头 告 诉 我 这 些 动 物 在 接 触 了 那 些 工 人 之 后 ， 突 然 暴 毙 而 亡 ， 之 后 奇 怪 的 绿 色 蒸 气 从 他 们 的 尸 体 里 上 慢 慢 散 发 出 来 。 随 后 ， 三 个 伐 木 工 人 就 病 倒 在 床 ， 精 神 状 态 也 迅 速 变 得 恶 化 起 来 。 看 来 这 次 我 来 到 这 片 区 域 进 行 调 查 是 十 分 有 必 要 的 。
+tagLoreObj_InquisitorCreedA02Name=审判官克里德的日志-第二章
+tagLoreObj_InquisitorCreedA02codexTitle=审判官克里德-第二章
+tagLoreObj_InquisitorCreedA02Text=正当收拾行李准备重新踏上前往伯尔维治的旅途时，我收到了来自一个伐木营地的紧急求救，这个营地驻扎在古老林地，位于魔鬼路口的西边。奇怪的野兽袭击了那个营地，只留下三个虚弱而脸色苍白的伐木工人。{^n}{^n}到达营地之后，工头神情严肃地向我问好，接着告诉我被野兽咬过的工人发了疯并且逃离了营地。另外，他们还用一种从来没听过的语言彼此交谈。工头把一些动物的遗骸指给我看。那是两只灰狐和一只猎犬，身上长满了令人毛骨悚然的疥疮，躺在房子后面一个草草挖好的坑里。工头告诉我这些动物在接触了那些工人之后，突然暴毙而亡，之后奇怪的绿色蒸气从他们的尸体里上慢慢散发出来。随后，三个伐木工人就病倒在床，精神状态也迅速变得恶化起来。看来这次我来到这片区域进行调查是十分有必要的。
 
-tagLoreObj_InquisitorCreedA03Name=审 判 官 克 里 德 的 日 记 - 第 三 章
-tagLoreObj_InquisitorCreedA03codexTitle=审 判 官 克 里 德 - 第 三 章
-tagLoreObj_InquisitorCreedA03Text=在 穿 过 了 被 称 为 尸 妖 泥 沼 的 一 片 阴 沉 区 域 过 后 ， 我 终 于 到 达 了 伯 尔 维 治 。 多 年 来 ， 人 们 悄 悄 地 讲 述 关 于 在 尸 妖 泥 沼 里 发 生 的 一 些 超 自 然 事 件 ， 事 实 上 ， 单 单 是 听 到 这 片 沼 泽 的 名 字 ， 已 经 足 够 让 人 心 里 发 毛 了 。 说 实 话 我 并 不 太 相 信 这 些 人 ， 但 最 近 发 生 的 一 系 列 事 情 难 道 不 是 在 某 种 程 度 上 证 实 了 这 些 老 掉 牙 的 故 事 ？{^n}{^n}抵 达 目 的 地 之 后 让 我 感 到 惊 讶 的 是 ， 住 在 伯 尔 维 治 的 魔 鬼 路 口 典 狱 长 似 乎 预 料 到 了 我 的 到 来 。 当 我 刚 踏 进 镇 上 ， 一 个 男 仆 就 向 我 问 好 并 坚 持 要 我 接 受 典 狱 长 克 里 格 的 邀 请 去 他 的 庄 园 歇 息 。 这 有 点 不 同 寻 常 ， 但 我 还 是 接 受 了 邀 请 ， 因 为 假 如 想 要 调 查 一 下 克 里 格 庄 园 ， 这 可 能 是 最 好 的 方 式 了 。{^n}{^n}由 于 克 里 格 邀 请 我 今 天 就 要 去 他 那 里 吃 晚 餐 ， 使 得 我 这 次 对 伯 尔 维 治 的 访 问 变 得 十 分 短 暂 。 这 似 乎 证 明 真 相 正 在 慢 慢 浮 出 水 面 。
+tagLoreObj_InquisitorCreedA03Name=审判官克里德的日记-第三章
+tagLoreObj_InquisitorCreedA03codexTitle=审判官克里德-第三章
+tagLoreObj_InquisitorCreedA03Text=在穿过了被称为尸妖泥沼的一片阴沉区域过后，我终于到达了伯尔维治。多年来，人们悄悄地讲述关于在尸妖泥沼里发生的一些超自然事件，事实上，单单是听到这片沼泽的名字，已经足够让人心里发毛了。说实话我并不太相信这些人，但最近发生的一系列事情难道不是在某种程度上证实了这些老掉牙的故事？{^n}{^n}抵达目的地之后让我感到惊讶的是，住在伯尔维治的魔鬼路口典狱长似乎预料到了我的到来。当我刚踏进镇上，一个男仆就向我问好并坚持要我接受典狱长克里格的邀请去他的庄园歇息。这有点不同寻常，但我还是接受了邀请，因为假如想要调查一下克里格庄园，这可能是最好的方式了。{^n}{^n}由于克里格邀请我今天就要去他那里吃晚餐，使得我这次对伯尔维治的访问变得十分短暂。这似乎证明真相正在慢慢浮出水面。
 
-tagLoreObj_InquisitorCreedA04Name=审 判 官 克 里 德 的 日 记 - 第 四 章
-tagLoreObj_InquisitorCreedA04codexTitle=审 判 官 克 里 德 - 第 四 章
-tagLoreObj_InquisitorCreedA04Text=我 在 典 狱 长 克 里 格 的 庄 园 里 做 客 已 经 有 一 周 时 间 了 ， 在 这 期 间 我 每 天 都 在 暗 暗 担 忧 着 某 种 可 怕 的 事 情 会 降 临 这 儿 。 每 天 我 都 出 门 ， 在 伯 尔 维 治 附 近 调 查 另 外 一 件 不 同 寻 常 的 罪 行 和 一 些 不 详 的 流 言 ， 在 这 些 流 言 中 一 部 分 只 不 过 是 些 嚼 舌 头 的 谣 言 ， 或 者 是 某 本 小 说 里 的 天 方 夜 谭 ， 但 是 另 外 的 一 些 调 查 情 况 也 让 我 的 方 向 变 得 愈 渐 模 糊 。 我 认 为 这 里 存 在 一 种 新 的 模 式 ， 不 过 我 暂 时 还 无 法 把 这 些 片 段 拼 接 到 一 起 。{^n}{^n}这 段 时 间 内 我 做 了 许 多 无 关 紧 要 的 事 情 ， 为 自 己 提 供 一 些 借 口 ， 以 便 能 够 在 伯 尔 维 治 待 的 更 长 久 一 些 。 渐 渐 地 ， 克 里 格 成 为 了 我 调 查 的 重 点 对 象 。 尽 管 确 信 克 里 格 正 在 参 与 某 种 神 秘 活 动 ， 同 时 还 为 自 己 披 上 了 一 层 伪 装 ， 我 也 无 法 找 出 能 够 指 控 他 进 行 不 法 行 为 的 确 切 证 据 ， 这 样 的 证 据 意 味 着 我 们 能 够 对 他 实 施 正 式 的 官 方 调 查 。{^n}{^n}庄 园 里 的 很 多 区 域 对 我 都 是 没 有 开 放 的 。 克 里 格 和 他 的 拜 访 者 们 经 常 在 楼 上 的 一 些 房 间 进 进 出 出 ， 我 没 有 权 限 进 入 里 面 。 更 奇 怪 的 是 ， 一 天 夜 里 我 醒 来 后 听 到 了 类 似 马 车 赶 路 的 嘎 吱 作 响 声 ， 我 推 开 窗 子 朝 下 面 的 村 庄 寻 找 声 音 的 来 源 却 什 么 也 没 有 发 现 。 这 些 声 音 是 从 哪 里 来 的 ？ 猫 和 老 鼠 的 游 戏 仍 在 继 续 ， 不 过 迄 今 为 止 ， 还 不 知 道 谁 是 猫 ， 谁 是 老 鼠 … …
+tagLoreObj_InquisitorCreedA04Name=审判官克里德的日记-第四章
+tagLoreObj_InquisitorCreedA04codexTitle=审判官克里德-第四章
+tagLoreObj_InquisitorCreedA04Text=我在典狱长克里格的庄园里做客已经有一周时间了，在这期间我每天都在暗暗担忧着某种可怕的事情会降临这儿。每天我都出门，在伯尔维治附近调查另外一件不同寻常的罪行和一些不详的流言，在这些流言中一部分只不过是些嚼舌头的谣言，或者是某本小说里的天方夜谭，但是另外的一些调查情况也让我的方向变得愈渐模糊。我认为这里存在一种新的模式，不过我暂时还无法把这些片段拼接到一起。{^n}{^n}这段时间内我做了许多无关紧要的事情，为自己提供一些借口，以便能够在伯尔维治待的更长久一些。渐渐地，克里格成为了我调查的重点对象。尽管确信克里格正在参与某种神秘活动，同时还为自己披上了一层伪装，我也无法找出能够指控他进行不法行为的确切证据，这样的证据意味着我们能够对他实施正式的官方调查。{^n}{^n}庄园里的很多区域对我都是没有开放的。克里格和他的拜访者们经常在楼上的一些房间进进出出，我没有权限进入里面。更奇怪的是，一天夜里我醒来后听到了类似马车赶路的嘎吱作响声，我推开窗子朝下面的村庄寻找声音的来源却什么也没有发现。这些声音是从哪里来的？猫和老鼠的游戏仍在继续，不过迄今为止，还不知道谁是猫，谁是老鼠……
 
-tagLoreObj_InquisitorCreedA05Name=审 判 官 克 里 德 的 日 记 - 第 五 章
-tagLoreObj_InquisitorCreedA05codexTitle=审 判 官 克 里 德 - 第 五 章
-tagLoreObj_InquisitorCreedA05Text=我 败 给 了 克 里 格 ， 他 饶 了 我 一 命 ， 把 我 关 在 了 这 庄 园 的 地 牢 里 。{^n}{^n}意 识 到 呆 在 这 里 没 有 办 法 能 够 继 续 进 行 调 查 ， 我 费 尽 力 气 强 行 挤 进 了 庄 园 里 原 本 被 封 闭 的 区 域 ， 然 后 发 现 自 己 正 身 处 于 一 个 十 分 可 怖 的 环 境 里 。 我 本 该 明 白 那 附 在 锁 上 面 的 奇 怪 魔 法 证 明 我 并 非 只 是 简 单 的 对 付 些 凶 恶 的 神 秘 学 者 。{^n}{^n}我 穿 过 一 个 满 是 腐 烂 尸 体 的 房 间 ， 男 人 的 ， 女 人 的 都 有 ， 他 们 无 一 例 外 地 都 遭 受 了 残 忍 的 酷 刑 或 者 可 怕 的 实 验 。 在 庄 园 的 后 方 我 找 到 一 扇 通 往 下 层 的 门 ， 进 去 以 后 我 很 快 在 这 个 极 大 的 地 牢 里 迷 了 路 。 很 快 我 就 感 觉 到 黑 暗 中 有 什 么 东 西 在 移 动 ， 他 们 很 快 靠 近 并 包 围 了 我 。 我 正 要 以 死 相 搏 的 时 候 ， 克 里 格 巨 大 的 身 躯 在 阴 影 中 渐 渐 浮 现 ， 脸 上 毫 无 表 情 。 他 开 口 说 话 了 ， 冷 酷 的 语 气 仿 佛 一 切 都 很 自 然 平 常 ， 邀 请 我 参 观 他 的 设 施 。 尽 管 我 很 清 楚 这 不 是 什 么 好 事 ， 但 这 样 至 少 我 不 用 去 对 抗 眼 前 这 些 可 怕 的 怪 物 了 。
+tagLoreObj_InquisitorCreedA05Name=审判官克里德的日记-第五章
+tagLoreObj_InquisitorCreedA05codexTitle=审判官克里德-第五章
+tagLoreObj_InquisitorCreedA05Text=我败给了克里格，他饶了我一命，把我关在了这庄园的地牢里。{^n}{^n}意识到呆在这里没有办法能够继续进行调查，我费尽力气强行挤进了庄园里原本被封闭的区域，然后发现自己正身处于一个十分可怖的环境里。我本该明白那附在锁上面的奇怪魔法证明我并非只是简单的对付些凶恶的神秘学者。{^n}{^n}我穿过一个满是腐烂尸体的房间，男人的，女人的都有，他们无一例外地都遭受了残忍的酷刑或者可怕的实验。在庄园的后方我找到一扇通往下层的门，进去以后我很快在这个极大的地牢里迷了路。很快我就感觉到黑暗中有什么东西在移动，他们很快靠近并包围了我。我正要以死相搏的时候，克里格巨大的身躯在阴影中渐渐浮现，脸上毫无表情。他开口说话了，冷酷的语气仿佛一切都很自然平常，邀请我参观他的设施。尽管我很清楚这不是什么好事，但这样至少我不用去对抗眼前这些可怕的怪物了。
 
-tagLoreObj_InquisitorCreedA06Name=审 判 官 克 里 德 的 日 记 - 第 六 章
-tagLoreObj_InquisitorCreedA06codexTitle=审 判 官 克 里 德 - 第 六 章
-tagLoreObj_InquisitorCreedA06Text=我 在 这 个 阴 冷 的 牢 房 已 经 度 过 了 一 天 一 夜 ， 内 心 充 满 不 安 和 恐 惧 。 克 里 格 让 我 亲 眼 目 睹 他 们 保 存 尸 体 的 过 程 ， 他 称 之 为 荣 耀 黎 明 。{^n}{^n}我 在 克 里 格 身 上 隐 约 产 生 了 一 个 想 法 ， 就 是 加 入 他 或 者 受 他 摆 布 。 从 他 的 言 行 中 推 断 这 些 仅 仅 是 他 的 计 划 中 一 个 极 小 的 部 分 ， 背 后 一 定 还 有 更 大 的 阴 谋 。 我 猜 想 其 他 的 许 多 处 于 关 键 职 务 的 人 也 受 到 了 某 种 东 西 的 控 制 ， 就 像 现 在 的 克 里 格 一 样 。 最 初 面 对 克 里 格 时 ， 我 对 自 己 十 分 自 信 ， 甚 至 有 些 傲 慢 ， 但 我 远 远 低 估 了 我 们 将 要 面 对 的 威 胁 与 力 量 。{^n}{^n}幸 运 的 是 ， 克 里 格 同 样 也 有 这 种 傲 慢 的 心 态 ， 他 轻 视 了 囚 犯 的 智 慧 。 他 让 我 选 择 抛 弃 人 性 发 誓 对 他 效 忠 ， 或 者 成 为 那 些 封 存 尸 体 中 的 一 员 。 克 里 格 把 我 一 个 人 留 下 考 虑 他 给 出 的 选 择 ， 但 这 件 牢 房 虽 然 被 魔 法 封 印 ， 却 无 法 禁 锢 我 的 爱 好 ， 我 并 不 打 算 呆 在 这 儿 直 到 克 里 格 来 听 我 的 答 复 。
+tagLoreObj_InquisitorCreedA06Name=审判官克里德的日记-第六章
+tagLoreObj_InquisitorCreedA06codexTitle=审判官克里德-第六章
+tagLoreObj_InquisitorCreedA06Text=我在这个阴冷的牢房已经度过了一天一夜，内心充满不安和恐惧。克里格让我亲眼目睹他们保存尸体的过程，他称之为荣耀黎明。{^n}{^n}我在克里格身上隐约产生了一个想法，就是加入他或者受他摆布。从他的言行中推断这些仅仅是他的计划中一个极小的部分，背后一定还有更大的阴谋。我猜想其他的许多处于关键职务的人也受到了某种东西的控制，就像现在的克里格一样。最初面对克里格时，我对自己十分自信，甚至有些傲慢，但我远远低估了我们将要面对的威胁与力量。{^n}{^n}幸运的是，克里格同样也有这种傲慢的心态，他轻视了囚犯的智慧。他让我选择抛弃人性发誓对他效忠，或者成为那些封存尸体中的一员。克里格把我一个人留下考虑他给出的选择，但这件牢房虽然被魔法封印，却无法禁锢我的爱好，我并不打算呆在这儿直到克里格来听我的答复。
 
 tagLoreObject_PrisonNoteName=Crudely Scrawled Note
 tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...
@@ -697,10 +697,10 @@ tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed fir
 tagLoreObj_OldArkovia_NoteB01Name=Passing Judgment
 tagLoreObj_OldArkovia_NoteB01Text=This is to be a record of the passing of the final verdict regarding the practice of necromancy and its prominence in Arkovian society.{^n}{^n}The grand court has reviewed the case of one Olurokk who had willfully and consciously committed the despicable act of raising the deceased form of his neighbor's wife and using her to torture and exploit the victim for personal pleasure and financial gain. Under the weight of undeniable evidence and witness reports, this court had no choice but to sentence the necromancer Olurokk to hanging until dead.{^n}{^n}This crime is but a drop in the well of the sins committed by necromancers in our land. The people have spoken and action must be taken. For this, and countless other crimes, against nature, against the gods and against Arkovia, let it be known that the practice of necromancy, the most vile of the ancient arts, is henceforth forbidden from the lands of Arkovia under the strictest of punishments. Those found ignorant of this proclamation shall be transported, without trial, to the Steps of Torment, where they shall be locked away to the last of their days in the deepest pits of Anguish.
 
-tagLoreObj_OldArkovia_BookA01Name=禁术 - 第一部分
-tagLoreObj_OldArkovia_BookA01Text=当 认 为 我 们 没 有 在 听 的 时 候 ， 他 们 就 会 窃 窃 私 语 地 谈 论 着 我 们 。 对 我 们 的 能 力 感 到 恐 惧 ， 但 他 们 仍 然 渴 望 得 到 它 。 对 未 知 的 东 西 感 到 恐 惧 正 是 人 的 本 性 ， 我 们 的 法 术 自 然 也 不 例 外 。 死 灵 法 术 虽 然 在 安 克 维 亚 从 来 都 不 是 什 么 被 尊 重 的 技 艺 ， 但 如 此 地 遭 人 敌 视 还 是 近 年 来 才 有 的 事 。 {^n}{^n}现 在 ， 根 据 最 高 法 庭 最 新 的 判 决 ， 我 们 不 仅 是 被 驱 逐 的 对 象 ， 更 是 罪 犯 。 只 是 他 们 不 懂 得 的 是 ， 阻 碍 对 知 识 的 求 索 和 文 明 的 进 步 才 是 一 种 最 严 重 的 罪 行 。 他 们 已 将 我 的 同 胞 们 用 正 义 的 借 口 集 中 起 来 投 进 他 们 称 之 为 苦 痛 阶 梯 的 黑 牢 里 面 。 我 觉 得 他 们 找 上 门 来 将 我 也 抓 去 也 只 是 时 间 问 题 了 。
+tagLoreObj_OldArkovia_BookA01Name=禁术-第一部分
+tagLoreObj_OldArkovia_BookA01Text=当认为我们没有在听的时候，他们就会窃窃私语地谈论着我们。对我们的能力感到恐惧，但他们仍然渴望得到它。对未知的东西感到恐惧正是人的本性，我们的法术自然也不例外。死灵法术虽然在安克维亚从来都不是什么被尊重的技艺，但如此地遭人敌视还是近年来才有的事。{^n}{^n}现在，根据最高法庭最新的判决，我们不仅是被驱逐的对象，更是罪犯。只是他们不懂得的是，阻碍对知识的求索和文明的进步才是一种最严重的罪行。他们已将我的同胞们用正义的借口集中起来投进他们称之为苦痛阶梯的黑牢里面。我觉得他们找上门来将我也抓去也只是时间问题了。
 
-tagLoreObj_OldArkovia_BookA02Name=禁术 - 第二部分
+tagLoreObj_OldArkovia_BookA02Name=禁术-第二部分
 tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n}Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
 
 tagLoreObj_OldArkovia_BookA03Name=禁术 - 第三部分

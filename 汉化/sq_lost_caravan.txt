@@ -1,26 +1,26 @@
 恶魔十字
-The Lost Caravan
-Found Caravan
-You happened upon a wrecked caravan along the road near the Foggy Bank. Though there are signs of a fight, no driver can be seen. {^n}{^n}Slith tracks and blood can be seen leading deeper into the swamp. Perhaps the driver yet lives. Check the Slith camps around the Foggy Bank for the unfortunate traveler.
-Search for the Caravan Driver at the Slith Camps along Burrwitch Road
+迷失的商队
+找到商队
+你在迷雾河畔发现了一辆损坏的大篷车。尽管有打斗的迹象，但是找不到驾驶者。{^n}{^n}蛇人的足迹还有血迹指向了沼泽的深处。可能驾驶者还活着。查看迷雾河畔的蛇人营地来寻找那个不幸的旅行者。
+在去往伯尔维治路旁的蛇人营地中寻找货车的驾驶者
 
-Speak to Caravan Driver
-Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
-Speak to the captured Caravan Driver
-
-
-
-
-Portal Luther Graves to Safety (Backup for old characters, should no longer be applicable)
-Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
-Speak to the captured Caravan Driver
-
-Check on Luther Graves in DC
-Luther Graves should be safe back in Devil's Crossing. {^n}{^n}Speak to him to see how he is faring.
+和货车的驾驶者交谈
+卢瑟·格雷夫斯伤的很重，被关在迷雾河畔的蛇人营地里。从他附近的人类尸骨来看，他很幸运。{^n}{^n}跟他谈谈，了解发生了什么事。
+和被囚禁的货车驾驶者交谈
 
 
 
-Speak to Luther Graves at Devil's Crossing
+
+把卢瑟·格雷夫斯传送到安全的地方(旧版人物备份)
+卢瑟·格雷夫斯伤的很重，被关在迷雾河畔的蛇人营地里。从他附近的人类尸骨来看，他很幸运。{^n}{^n}跟他谈谈，了解发生了什么事。
+和被囚禁的货车驾驶者交谈
+
+问候恶魔十字的卢瑟·格雷夫斯
+卢瑟·格雷夫斯应该安全地返回了恶魔十字。{^n}{^n}跟他谈谈他的境遇如何。
+
+
+
+与恶魔十字的卢瑟·格雷夫斯交谈
 
 
 

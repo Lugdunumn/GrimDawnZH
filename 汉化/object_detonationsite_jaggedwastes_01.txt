@@ -1,7 +1,7 @@
-Detonation Site
-Looks like this path has been blocked off by an avalanche. You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 3 Dynamite to clear a path.
-Not enough Dynamite.
-Clear the Avalanche.
-Leave it.
-You have cleared this avalanche.
-Ok.
+爆破地点
+看起来这条路被塌方阻挡住了。你可以用猛裂的爆炸物来清除它，古安克维亚废弃的矿井是寻找炸药最佳的地点。{^n}{^n}需要三捆炸药才能清除它。
+炸药不足。
+清除塌方。
+放弃。
+你已经清除了塌方。
+好的。

@@ -1,15 +1,15 @@
-Devil's Crossing
-Something For Nothing
-Kill Zombies
-Harmond is a wreck of a man, hollow of emotions but for the cold rage he feels towards the corpses now roaming Lower Crossing and beyond. {^n}{^n}In the hopes that you will go out there and put down the living dead, he has given you enough Iron Coins to buy some supplies. {^n}{^n}This is probably the only handout you will ever see in this grim new world.
+恶魔十字
+以无换有
+杀掉丧尸
+哈蒙德是位残疾人，他的内心除了对下游渡口横行丧尸的冷酷之外已空无一物。{^n}{^n}他给了你足够的铁币来购买补给，希望你能到那里杀掉那些行尸。{^n}{^n}这可能是你在这个可怖的世界里唯一能得到的施舍了。
 
 
 
-Rotting Soldiers Slain
+杀死腐朽士兵
 
-Return to Harmond
-You have slain enough Rotting Soldiers to share some stories with Harmond, and maybe help him move on. {^n}{^n}Return to him in Devil's Crossing.
-Return to Harmond
+回到哈蒙德身边
+你杀掉了足够多的腐朽士兵，足以和哈蒙德分享经验，可能能帮助他继续生活下去。 {^n}{^n}返回恶魔十字的哈蒙德身边。
+返回哈蒙德身边
 
 
 

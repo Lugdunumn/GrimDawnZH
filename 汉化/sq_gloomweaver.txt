@@ -1,12 +1,12 @@
-Jagged Waste
-The Gloomweaver
-Kill Spider
-You have proven yourself against Mogara, so Deathmark Vallar has entrusted you with the elimination of another highly dangerous pest. A great spider known as Ungoliax the Gloomweaver has her lair somewhere within the Shaded Basin, to the south of his camp in the Pine Barrens. Her spawn crawl out of the darkest places of the world in order terrorize the locals and gather food for their ravenous queen. This must end. Seek out the lair of Ungoliax and end her life.
-Slay Ungoliax in the caves of the Shaded Basin
+锯齿荒地
+幽冥编织者
+杀死蜘蛛
+你通过杀死墨伽拉证明了你自己。所有瓦拉尔·死亡印记委托你除掉另外一个高度危险的害虫。一只名叫安苟利亚克斯幽冥编制者的蜘蛛栖息在松林荒地南部，锯齿荒地的洞穴中。它的子嗣在世上最暗黑的地方蠢蠢欲动，在当地散布恐惧，为它们贪婪的女王收集食物。该结束了，找到安苟利亚克斯的巢穴并结束它的生命。
+杀死锯齿荒地洞穴中的安苟利亚克斯。
 
-Return to Deathmark
-You have slain Ungoliax the Gloomweaver and should report back to Deathmark Vallar at his camp in the Pine Barrens.
-Return to Deathmark Vallar at his camp in the Pine Barrens
+回到死亡印记那里
+你已经杀死了安苟利亚克斯，你应该回去报告瓦拉尔。
+回到松林荒地的瓦拉尔身边
 
 
 

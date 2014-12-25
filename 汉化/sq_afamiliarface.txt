@@ -1,8 +1,8 @@
-Homestead
-A Familiar Face
-Speak to Isaiah
-You have encountered a familiar face in Homestead.
-Speak to Isaiah in Homestead
+霍姆斯特德
+熟悉的面孔
+与以赛亚交谈
+你在霍姆斯特德遇到了一张熟悉的面孔。
+与以赛亚交谈
 
 
 

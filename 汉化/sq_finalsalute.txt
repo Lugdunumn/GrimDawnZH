@@ -1,9 +1,9 @@
-Homestead
-A Final Salute
-Find Insignias and return
-Scoutmaster Lysell has lost several scouts in the cultist controlled region to the north of Homestead, past Old Grove. Recovering the insignias of lost soldiers is a bit of a ritual, a last rite, for the Black Legion. The Scoutmaster can't afford to send any more men out there, so he has asked you to recover the insignias in his stead.
-Collect insignias from fallen Black Legion soldiers around the farmlands
-Return the Insignias to Scoutmaster Lysell in Homestead
+霍姆斯特德
+最终致意
+找到勋章然后返回
+在霍姆斯特德北边，过了古老林地之后邪教徒所控制的地区，侦查队长莱伊尔损失了几位侦察兵。找回他们的勋章是黑色军团对他们最后的仪式。侦查队长已经禁不住再派人手去那里的损失了。所以他要你代替他去回收那些勋章。
+在田间收集战死的黑色军团士兵的勋章
+把勋章交还给霍姆斯特德的侦查队长莱伊尔
 
 
 

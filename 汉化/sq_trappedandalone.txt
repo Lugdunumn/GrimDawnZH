@@ -1,4 +1,4 @@
-Homestead
+霍姆斯特德
 Trapped and Alone
 Crypt Kill Complete
 
@@ -11,7 +11,7 @@ Slay Ballog'Nath in the Buried Tomb
 
 Return to Village
 
-Check on Kalista in the Rover Camp
+看望流浪者营地的卡里斯塔
 
 Village Kill Complete
 

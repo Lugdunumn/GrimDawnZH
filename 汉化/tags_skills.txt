@@ -430,7 +430,7 @@ tagClass04SkillName11B=毁灭刀锋
 tagClass04SkillDescription11B=幻影刀刃消耗被他们困住的敌人的生命精华，并传递给你。
 
 tagClass04SkillName10A=刀阵
-tagClass04SkillDescription10A=召唤一群欢迎刀刃包围你的敌人，撕裂他们的身体并使他们软弱的心灵陷入恐惧。
+tagClass04SkillDescription10A=召唤一群幻影刀刃包围你的敌人，撕裂他们的身体并使他们软弱的心灵陷入恐惧。
 tagClass04SkillName10B=阿玛拉斯塔的双刃
 tagClass04SkillDescription10B=一项精通技艺，让刀阵能将你的敌人的武器背叛他们，使他们遭受自己的战争工具所造成的进一步的痛苦。
 

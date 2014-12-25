@@ -168,7 +168,7 @@ tagTutorialTip46TextA=你的体力消耗完了，脱离战斗后生命值不会�
 tagTutorialTip47Title=分解
 tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废铁，在此过程中有几率额外产生一个部件。越是强力的物品，越有机会分解出部件。
 tagTutorialTip47SubtitleA=分解一件物品
-stagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
+tagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
 
 tagTutorialTip49Title=武器比较
 tagTutorialTip49TextA=当鼠标停留在物品栏中的一件装备上时，会自动与你已装备的物品进行比较。对于武器来说，会额外比较每秒的伤害(DPS)。

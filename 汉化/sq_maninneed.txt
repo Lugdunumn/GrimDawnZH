@@ -1,21 +1,21 @@
-Broken Hills
-A Man in Need
-Get dynamite
-You encountered a lone traveler, Myles Finegan, outside of a collapsed cave entrance in the Broken Hills, near the Tower of Exile. As this was his only safe haven, he implored you to help him acquire some dynamite from the bandits camped out in Old Arkovia so that he can clear the way into his hideout and retrieve his belongings.
-Collect Dynamite
-Deliver the Dynamite to Myles Finnegan in Broken Hills
+破碎丘陵
+急人所急
+取得炸药
+你在放逐之塔附近破碎丘陵一处坍塌的洞穴入口处遇到了一位孤独的旅行者，迈尔斯·法恩根。那里是他唯一的天堂，他恳请你帮他从古安克维亚的匪徒那里获得一些炸药，然后他就能进入他的居所拿回他的东西。
+收集炸药
+把炸药带去给破碎丘陵的迈尔斯·法恩根
 
-Speak to Myles
-You provided Myles with some dynamite, which he used to clear the way to his hideout. Follow him inside his cave in the Broken Hills to receive your reward.
-
-
-Speak to Myles Finegan in his cave
-
-Kill Myles
-Myles has betrayed you. He is in fact a devout of Ch'thon and his cave is a sanctuary for his despicable acts. It was all a ruse to lure you in. Slay Myles within the Forsaken Den in the Broken Hills.
+和迈尔斯交谈
+你给迈尔斯提供了一些炸药，他清除了障碍。给随他进入他的居所来获取你的奖赏。
 
 
+去洞穴中和迈尔斯·法恩根交谈
 
-Slay Myles within the Forsaken Den in the Broken Hills
+杀了迈尔斯
+迈尔斯背叛了你，他事实上是冥神虔诚的信徒。他的洞穴正是他用来进行卑劣行径的庇护所。引诱你进去就是一场诡计。在遗忘兽穴中杀了迈尔斯。
+
+
+
+杀了破碎丘陵遗忘兽穴中的迈尔斯
 
 

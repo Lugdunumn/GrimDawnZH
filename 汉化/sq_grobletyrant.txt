@@ -1,12 +1,12 @@
-Jagged Waste
-The Groble Tyrant
-Kill Dranghoul
-Bloodfeast the Ruthless is a vicious dranghoul that has driven the local grobles into a frenzy. With the dranghoul rallying them under a single banner, the grobles are becoming a serious threat to the region that cannot be ignored. If you slay Bloodfeast, then the grobles should scatter and return to their tribal groups. Bloodfeast makes his home in a nearby ruined fort known as Tyrant's Hold, to the east of Deathmark Vallar's camp in the Pine Barrens.
-Slay Bloodfeast the Ruthless at Tyrant's Hold
+锯齿荒地
+格罗布暴君
+杀死咆哮巨兽
+血之盛宴·残忍巨兽是头使当地的格罗布变得疯狂的咆哮巨兽。由于咆哮巨兽使格罗布聚集在一起，它们已经变成了不可忽视的威胁。如果你杀掉血之盛宴，格罗布就会分崩离析然后返回它们的部族。血之盛宴栖息在一个叫做暴君的要塞的地方，在松林荒地的营地东方。
+杀死暴君的要塞内的血之盛宴·残忍巨兽
 
-Return to Deathmark
-You have ended the reign of Bloodfeast the Ruthless and should report back to Deathmark Vallar at his camp in the Pine Barrens.
-Return to Deathmark Vallar at his camp in the Pine Barrens
+返回死亡印记营地
+你杀掉了血之盛宴，回去报告瓦拉尔。
+返回瓦拉尔身边
 
 
 

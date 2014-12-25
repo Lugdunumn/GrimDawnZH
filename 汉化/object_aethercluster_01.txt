@@ -1,9 +1,9 @@
-Aether Cluster
-The crystal hums with aetherial energy.
-(Back away)
-This cluster of Aether crystal appears to be the source the corruption. Its destruction would see an end to Cronley's mad designs.
+虚化集簇
+水晶闪耀着虚灵能量。
+(后退)
+这块虚化水晶集簇看来就是腐化的根源。摧毁它能终结克隆利疯狂的计划。
 
-You hear faint whispers in your head as you approach it, as if a multitude of voices were calling out to you from within the shard.
-Destroy the laboratory and the crystal.
-Destroy the laboratory and keep some of the crystal for yourself.
-Leave the crystal alone.
+在你走进它时，你听到了脑海中微弱的私语，就像碎片中有众多的声音在呼唤着你。
+摧毁实验室和水晶
+摧毁实验室把一些水晶据为己有
+留下水晶不管

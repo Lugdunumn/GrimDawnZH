@@ -171,13 +171,13 @@ tagTutorialTip47SubtitleA=分解一件物品
 stagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
 
 tagTutorialTip49Title=武器比较
-tagTutorialTip49TextA=When you hover over an item in your inventory. You will see a side-by-side comparison of that item with what you currently have equipped. In the case of weapons, you will also see additional information comparing the Damage per Second (DPS).
+tagTutorialTip49TextA=当鼠标停留在物品栏中的一件装备上时，会自动与你已装备的物品进行比较。对于武器来说，会额外比较每秒的伤害(DPS)。
 tagTutorialTip49SubtitleA=不含附加组件的比较
-tagTutorialTip49TextB=You can compare the two weapons without any attached components by holding the "{^b}CTRL{^w}" key.
+tagTutorialTip49TextB=你可以按住"{^b}CTRL{^w}"键来比较武器，附加组件将不被计入结果。
 
-tagTutorialTip50Title=Augments
-tagTutorialTip50TextA=Augments come in the form of enchanted powders, which can be used to upgrade your equipment. The creation of Augments is a carefully guarded secret of Cairn's various Factions.
-tagTutorialTip50TextB=To use an augment, right-click on it. You can then apply it to an appropriate item. Once applied, an Augment cannot be removed, but it can be replaced with another.
+tagTutorialTip50Title=增幅物
+tagTutorialTip50TextA=增幅物可以用来附魔物品以增强其属性。如何制作增幅物的秘诀只有凯恩世界中的多种势力团体才知晓。
+tagTutorialTip50TextB=要使用增幅物进行附魔，右键点击它。一旦附魔过后，增幅物是不能被移除的，不过它可以再次附魔来被覆盖掉。
 
-tagTutorialTip51Title=Applying Augments
-tagTutorialTip51TextA=Right-click an Augment to select it, then left-click on the item you wish to apply it to.{^N}{^N}Note that Augments can only be applied to specific item types and cannot be removed once applied; but you can overwrite an existing Augment with another.
+tagTutorialTip51Title=增幅物附魔
+tagTutorialTip51TextA=右键单击一件增幅物，然后再左键单击你想要附魔的装备。{^N}{^N}注意增幅物只能在特定的装备类型上进行附魔而且已经使用不能被移除，但是你可以通过再次附魔来覆盖掉之前的增幅物。

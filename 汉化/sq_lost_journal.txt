@@ -1,8 +1,8 @@
-Devil's Crossing
-A Cultist in the Midst
-Confront Direni
-You discovered a curious note within the ruins of Burrwitch.{^n}{^n}Inside, you found damning evidence that Direni at Devil's Crossing has been secretly in league with the Cult of Ch'thon, and is responsible for some of the recent troubles that have befallen the refuge.{^n}{^n}You should confront him before he has a chance to further sabotage the survivors' only sanctuary.
-Confront Direni at Devil's Crossing
+恶魔十字
+我们之中的邪教徒
+质问狄瑞尼
+你在伯尔维治的废墟中发现一份可疑的笔记。{^n}{^n}笔记中，你发现证据表明恶魔十字的狄瑞尼与冥神的邪教有染。而且他与最近降临在难民们身上的事有关。{^n}{^n}你应该在他继续有机会破坏幸存者唯一的庇护所之前当面质问他。
+质问恶魔十字的狄瑞尼
 
 
 
@@ -10,17 +10,17 @@ Confront Direni at Devil's Crossing
 
 
 
-Kill Direni
-Upon seeing the evidence, Direni has become violent and threatens the safety of the denizens of Devil's Crossing. {^n}{^n}You must eliminate him before anyone gets hurt.
+杀了狄瑞尼
+见到了证据，狄瑞尼变得凶暴，他会威胁到恶魔十字居民们的安全。{^n}{^n}你必须在任何人受到伤害之前除掉他。
 
 
-Kill Direni
+杀了狄瑞尼
 
 
 
-Bring Note to Bourbon
-Direni is dead and John Bourbon of Devil's Crossing will surely want to hear an explanation. {^n}{^n}Bring the cultist note to him.
-Speak to John Bourbon
+将笔记带去给波旁
+狄瑞尼死了，约翰·波旁当然需要一份解释{^n}{^n}把邪教徒的笔记带给他。
+与约翰·波旁交谈
 
 
 

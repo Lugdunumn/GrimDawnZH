@@ -30,23 +30,23 @@ tagZealot_AncestralSpirit=先祖之魂
 #CreatureAetherial
 
 tagAetherCrystalA01=虚化水晶
-tagAetherCrystalA02=Aether Crystal Cluster
-tagAetherCrystalA03=Aether Crytal Formation
+tagAetherCrystalA02=虚化水晶集簇
+tagAetherCrystalA03=虚化水晶体
 tagAnomalyB01=扭曲元素
 tagWindDevil_PoisonA01=毒风恶魔
 tagAetherObeliskA01=虚灵方尖碑
 tagAetherObeliskB01=虚灵大地塑型者
 
-tagBossAetherObelisk01=Herald of the Flame
+tagBossAetherObelisk01=烈焰使者
 
 tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影
 tagEnemyAetherialC01=虚灵幽魂
 
-tagEnemyAetherialAbominationB01=Aetherial Abomination
-tagEnemyAetherialAbominationC01=Fused Terror
+tagEnemyAetherialAbominationB01=虚灵恶煞
+tagEnemyAetherialAbominationC01=熔岩恐兽
 
-tagAetherialAbominationBoss01=The Amalgamation
+tagAetherialAbominationBoss01=混元体
 
 #CreatureBoar
 
@@ -118,11 +118,11 @@ tagVoidFiendBoss01=地狱之火 巴洛格纳斯
 
 tagEnemyChthonianDevourerA01=冥灵饥饿者
 tagEnemyChthonianDevourerB01=冥灵吞噬者
-tagEnemyChthonianDevourerB02=Chthonian Gorger
+tagEnemyChthonianDevourerB02=冥灵饱食者
 
 tagChthonianDevourerHeroH01=湮灭之爪 紐加鲁
 tagChthonianDevourerHeroH02=饥饿之胃 萨戈丁
-tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
+tagChthonianDevourerHeroH03=暴食者 纳尔·玛什
 tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖尔 
 tagChthonianDevourerHeroH04=火花巨口 沃班纳
 
@@ -288,7 +288,7 @@ tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
 tagEnemyBloodswornMiniBoss02=血之羁绊 伯瓦尔
 tagEnemyBloodswornMiniBoss03=屠刀 扎里亚
 tagBloodswornBoss01=血领主 泰隆尼斯
-tagBloodswornBoss02=Karroz, Sigil of Ch'thon
+tagBloodswornBoss02=冥神魔印 卡若兹
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯  ~ 恶棍
@@ -375,7 +375,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
-+tagDermapteranBoss04=Vizier Anoxis
++tagDermapteranBoss04=领袖 阿诺克斯
 
 #CreatureInsectMosquito 蚊子
 
@@ -456,12 +456,12 @@ tagEnemyPrawnB02=剑脊 裂隙之灾
 tagEnemyPrawnC01=被感染者 裂隙之灾
 tagEnemyPrawnSummonA01=聚生者 裂隙之灾
 
-tagEnemyCavePrawnA01=Pale Cavern Crawler
-tagEnemyCavePrawnB01=Albino Cavern Crawler
+tagEnemyCavePrawnA01=苍白的穴居爬行者
+tagEnemyCavePrawnB01=白化的穴居爬行者
 
 tagPrawnHeroH01=贪婪的拉娃克里克斯
-tagPrawnHeroH02=先祖 帕拉克斯克斯
-tagPrawnHeroH03=毒裔 维拉克斯克斯
+tagPrawnHeroH02=先祖 帕拉克里克斯
+tagPrawnHeroH03=毒裔 维拉克里克斯
 tagPrawnHeroH04=艾尔克里克斯 ~ 带电
 tagPrawnHeroH05=弗洛克里克斯~ 燃烧
 
@@ -718,7 +718,7 @@ tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御者
 
 tagCaveSpiderBoss01=幽冥编织者 安苟利亚克斯
 tagCavePrawnBoss01=捕食者 伊克里克斯
-tagCaveTrollHalfBoss01=Gollus, the Deepdweller
+tagCaveTrollHalfBoss01=穴居者 高鲁斯
 
 #creatureVultures 秃鹫
 
@@ -737,7 +737,7 @@ tagHeroVultureH05=虚空利爪 ~ 虚化之触
 tagEnemyWormA01=撼地者 钻地虫
 tagEnemyWormB01=撼地者 腐虫
 
-tagEnemyWormDeepDwellerA01=Deepdweller Grub
+tagEnemyWormDeepDwellerA01=深渊挖掘者
 
 tagWormHeroH01=嗜怒者 格拉夫内尔
 tagWormHeroH02=裂地者 ~ 带电

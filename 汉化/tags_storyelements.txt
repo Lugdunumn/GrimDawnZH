@@ -323,7 +323,7 @@ tagNPC_Harmond=哈蒙德
 tagNPC_Barnabas=巴纳巴斯
 tagNPC_SybilHart=西比尔·哈特
 tagNPC_LutherGraves=卢瑟·格雷夫斯
-tagNPC_Ulgrim=厄尔格姆
+tagNPC_Ulgrim=艾格瑞姆
 
 tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特

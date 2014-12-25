@@ -1,9 +1,9 @@
-Arkovian Foothills
-The Lost Elder
-Find talisman
-Greven of the Rovers has tasked you with finding out what happened to the elder of his group. The Elder, Mathias, had wandered off during a bandit raid in the hopes of keeping a precious Rover talisman out of the hands of the raiders. It has been several days and Greven fears the worst. Seek out the lost elder in the ruins to the west of Staunton Mine and return to Greven when you found him.
-Find the lost Rover elder
-Return to Greven at the Rover Camp in the Arkovian Foothills with news of the elder
+安克维亚山麓
+迷失的长老
+找到护身符
+流浪者格雷文要你调查流浪者团体的长老发生了什么事。马赛厄斯长老在匪徒进攻营地时带着珍贵的护身符走散了。已经过去了几天的时间，格雷文担心最坏的事情发生了。去斯汤顿矿洞西方的废墟中寻找长老。
+寻找迷失的长老
+将长老的消息告诉安克维亚山麓流浪者营地的格雷文
 
 
 
@@ -21,10 +21,10 @@ Return to Greven at the Rover Camp in the Arkovian Foothills with news of the el
 
 
 
-Field Return
-You found an old man dying out in the ruins. His names was Mathias and he was the elder of a Rover group that had set up camp along the road in the Arkovian Foothills. With his dying words, he implored you to bring a precious Rover talisman back to his people. Deliver the talisman to Greven at the Rover Camp near the Arkovian Foothills.
-Collect the talisman from Elder Mathias
-Inform Greven at the Rover Camp in the Arkovian Foothills of the elder's fate
+战场返乡
+你在废墟中找到了一位垂死的老人。他的名字叫马赛厄斯，他就是流浪者团体的长老。在临死之际，他恳求你把宝贵的流浪者护身符带去给他的人民。把护身符送还给安克维亚山麓的格雷文。
+从马赛厄斯长老那里拿走护身符
+告知格雷文长老的命运
 
 
 

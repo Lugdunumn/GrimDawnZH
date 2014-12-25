@@ -1,5 +1,5 @@
-Homestead
-Burn the Taken
+霍姆斯特德
+焚烧被占据者
 Speak to Witch
 You have encountered a group of survivors who were about to burn a young woman they suspect of being a 'Taken'. You asked to speak with her before they do anything rash.
 Speak to Rallia

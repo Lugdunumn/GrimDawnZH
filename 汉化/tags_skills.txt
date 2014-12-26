@@ -392,7 +392,7 @@ tagClass04SkillName04C=寒霜之环
 tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量，增强冰冷伤害并冰冻敌人，不过需要以穿刺伤害为代价。
 
 tagClass04SkillName05A=双刃
-tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃,和那些使钢铁中产生元素之寒的艺术。^o这是一项双持加成。同时开启双持近战武器的能力。
+tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃,和那些使钢铁中产生元素之寒的艺术。^o这是一项双持技能。同时开启双持近战武器的能力。
 tagClass04SkillName05B=贝尔戈蒂安的切割
 tagClass04SkillDescription05B=健壮的贝尔戈蒂安是轻盈的夜刃大师中的异数，不过他在原始的力量上超越了他们。借助于他的力量的如剪刀般直接致命的攻击，贝尔戈蒂安经常一击终结敌人。^o这是一项近战双持技能。
 tagClass04SkillName05C=阿玛拉斯塔的瞬影
@@ -402,7 +402,7 @@ tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技�
 tagClass04SkillName05E=尼达拉的隐手
 tagClass04SkillDescription05E=有争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与死亡旋风二者结合，这近乎残忍般的强大技巧使得她战胜了众多敌手。^o这项技能将改变死亡旋风。
 tagClass04SkillName05F=处决
-tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此一击侥幸存活着，也不会再苟延残喘太久。^o这是一项近战双持技能。
+tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此一击侥幸存活者，也不会再苟延残喘太久。^o这是一项近战双持技能。
 
 tagClass04SkillName06A=气爆
 tagClass04SkillDescription06A=夜刃的一种绝密武艺，从周围吸取精华和“元气”以到达短时间速度与力量的爆发。由此产生的新陈代谢加速也会少量治疗夜刃的身体。^o需要一把近战武器。

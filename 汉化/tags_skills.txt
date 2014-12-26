@@ -411,39 +411,39 @@ tagClass04SkillDescription06B=针对战斗中冥想的习练将使你能够在�
 tagClass04SkillName06C=元素觉醒
 tagClass04SkillDescription06C=夜刃宗师们能够从空气中甚至与敌人短兵相接中汲取能量，然后施放冰冷的攻击。
 tagClass04SkillName06D=贝尔戈蒂安的呼吸
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^o这是一项近战双持技能。同时开启双持近战武器的能力。
+tagClass04SkillDescription06D=以夜刃的标准来说过于肌肉发达和速度迟缓的贝尔戈蒂安，他的成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力。 ^o这是一项近战双持技能。同时开启双持近战武器的能力。
 
 tagClass04SkillName07A=暗影面纱
-tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
+tagClass04SkillDescription07A=一片心灵面纱密布于附近敌人的脑中，减缓他们的移动并削弱他们的战斗力发挥。 ^o此技能需开启以保持生效。
 tagClass04SkillName07B=夜之寒气
-tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
+tagClass04SkillDescription07B=使暗影面纱影响到的敌人感到黑夜般的深寒降临于身，降低他们的生命并削弱防御。
 
 tagClass04SkillName08A=刀灵
-tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards. ^oBlade Spirits are considered pets and benefit from pet bonuses.
+tagClass04SkillDescription08A=召唤一片旋转云状的致命刀刃徘徊于战场，将敌人切成碎片后最终化为锯齿状的碎片。^o刀灵被视作宠物并从宠物加成中获益。
 tagClass04SkillName08PetA=回旋之刃
 tagClass04SkillName08PetB=刀刃突击
-tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
+tagClass04SkillDescription08PetB=刀灵向四面八方发射开膛刀刃。
 
 tagClass04SkillName11A=刀锋陷阱
-tagClass04SkillDescription11A=Your command of Nightblade techniques allows you to entrap enemies within a prison of deadly phantasmal blades.
+tagClass04SkillDescription11A=你对夜刃技艺的精通使你能将敌人骗入致命幻影刀刃的牢笼。
 tagClass04SkillName11B=毁灭刀锋
-tagClass04SkillDescription11B=The phantasmal blades drain the life essence of the foes trapped within their grasp, transferring it to you.
+tagClass04SkillDescription11B=幻影刀刃消耗被他们困住的敌人的生命精华，并传递给你。
 
 tagClass04SkillName10A=刀阵
-tagClass04SkillDescription10A=Conjure a swarm of phantasmal blades to envelop your foes, lacerating their flesh and driving the weak of heart into terror.
+tagClass04SkillDescription10A=召唤一群幻影刀刃包围你的敌人，撕裂他们的身体并使他们软弱的心灵陷入恐惧。
 tagClass04SkillName10B=阿玛拉斯塔的双刃
-tagClass04SkillDescription10B=A master technique that causes the Blade Swarm to turn the weapons of your foes against themselves, causing them to inflict further suffering with their own tools of war.
+tagClass04SkillDescription10B=一项精通技艺，让刀阵能将你的敌人的武器背叛他们，使他们遭受自己的战争工具所造成的进一步的痛苦。
 
 tagClass04SkillName13A=幻影护甲
-tagClass04SkillDescription13A=A metaphysical barrier forms around you, brought into being through the focused power of mind and spirit. This barrier repels physical damage and transfers energy from magical attacks into your own pneuma reserves.
+tagClass04SkillDescription13A=在你的周围的超自然屏障，由思想和精神的集中力量所形成。这层屏障抵御物理伤害并将魔法攻击的能量转移为自身能量。
 tagClass04SkillName13B=解剖
-tagClass04SkillDescription13B=Knowledge prized by royal assassins, the extensive study of anatomy familiarizes you with all of the most vulnerable and damaging locations in which to slide a blade. 
+tagClass04SkillDescription13B=这是受到一流刺客极度赞赏的知识；对解剖的广泛研究使你熟悉刀剑所过之处所有的人体易受创与致命部位。
 tagClass04SkillName13C=无情终章
-tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledge of poisons and elemental powers can be the most effective means to gain the upper hand in combat.
+tagClass04SkillDescription13C=尽管惯例上被抛弃，有时毒药与元素力量的知识也能成为在战斗中占据上风的最有效的手段。
 
 
 tagClass04SkillName04X=毁灭刀锋
-tagClass04SkillDescription04X=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
+tagClass04SkillDescription04X=掠夺附近敌人的生命力，你将吸收短暂的生命力的一部分。
 tagClass04SkillName07X=潜入暗影
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
 tagClass04SkillName07C=阿玛拉斯塔的无形之刃

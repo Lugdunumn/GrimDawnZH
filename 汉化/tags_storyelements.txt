@@ -142,7 +142,7 @@ tagWorldMapWitheringFields={^w}干枯田地
 tagWorldMapHomestead=霍姆斯特德
 tagWorldMapInfestedFarms={^w}感染农田
 tagWorldMapRottingCroplands={^w}腐坏田地
-tagWorldMapGruesomeHarvest={^w}阴森的{^n}谷仓
+tagWorldMapGruesomeHarvest={^w}阴森的{^n}{^w}谷仓
 tagWorldMapBloodGrove={^w}血森林
 tagWorldMapSorrowsBastian=悲伤城堡
 
@@ -592,7 +592,7 @@ tagLoreObj_BurrwitchB01Text=Another boat arrived filled with hooded prisoners, d
 
 
 tagLoreObj_LowerCrossingA02Name=弗朗西斯的笔记
-tagLoreObj_LowerCrossingA02Text=我被困在这儿了……我终于意识到了，我会死在这间房子里。玛格利特，恐怕你已经死了，所以我不久之后和你团聚也还算不坏。如果奇迹发生的话，你还活着回到这儿找到这页笔记的话，你要知道我不生你的气。我从不后悔我们在一起，只是我后悔在我们的时候发了脾气，对你说了不该说的话。{^n}{^n}我希望你不要因为我要做的事觉得我是一个懦夫。他们已经进到了屋子里，我把房间阻挡住了但他们冲进来也只是时间问题。我能做的只是选择如何面对死亡而已，我宁可作为人死去也不要成那些恐怖的东西或是被活生生地啃食。我会一直爱着你的……{^n}{^n}弗朗西斯
+tagLoreObj_LowerCrossingA02Text=我被困在这儿了……我终于意识到了，我会死在这间房子里。玛格利特，恐怕你已经死了，所以我不久之后和你团聚也还算不坏。如果奇迹发生的话，如果你还活着回到这儿找到这页笔记的话，我想要你明白我不生你的气。我从不后悔我们在一起，只是我后悔当时发了脾气，对你说了不该说的话。{^n}{^n}我希望你不要因为我要做的事觉得我是一个懦夫。他们已经进到了屋子里，我把房间阻挡住了但他们冲进来也只是时间问题。我能做的只是选择如何面对死亡而已，我宁可作为人去死也不要成那些恐怖的东西或是被活生生地啃食。我会一直爱着你的……{^n}{^n}弗朗西斯
 
 tagLoreObj_WightmireA01Name=给尸妖泥沼血之兄弟会的信函
 tagLoreObj_WightmireA01codexTitle=血之兄弟会的信函

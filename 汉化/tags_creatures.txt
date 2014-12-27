@@ -307,11 +307,11 @@ tagEnemyHumanOutlaw_ArsonistC01=克隆利帮 ~ 纵火犯
 tagEnemyHumanOutlaw_MurdererC01=克隆利帮 ~ 杀人犯
 tagEnemyHumanOutlaw_HereticC01=克隆利帮 ~ 异教徒
 
-tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ 被选召的
-tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ 被选召的
-tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ 命中注定的
-tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优秀的
-tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 巅峰的
+tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ 精锐
+tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ 精锐
+tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ 命运选招
+tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优选战士
+tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 超凡的战士
 
 tagHumanOutlawLeader01=德莱厄斯·克隆利
 tagHumanOutlawMiniBoss01=“长腿” 埃德蒙·道尔

@@ -1932,9 +1932,9 @@ tagEnchantB010B=Potent Essence of Ch'thon II
 tagEnchantB010BC=Potent Essence of Ch'thon III
 tagEnchantB010Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(用于所有双手武器)
 
-tagEnchantB011A=Rhowan's Wisdom I
-tagEnchantB011B=Rhowan's Wisdom II
-tagEnchantB011BC=Rhowan's Wisdom III
+tagEnchantB011A=罗文的智慧 I
+tagEnchantB011B=罗文的智慧II
+tagEnchantB011BC=罗文的智慧III
 tagEnchantB011Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, represents wisdom among the Rovers. This enchantment was named in his honor."^w^n(用于戒指和项链)
 
 tagEnchantB012A=Mogdrogen's Sanctity I
@@ -1947,9 +1947,9 @@ tagEnchantB013B=Traveler's Boon II
 tagEnchantB013BC=Traveler's Boon III
 tagEnchantB013Desc="Rovers setting out on particularly lengthy journeys will have the elders prepare this enchantment to protect them on the long road."^w^n(用于戒指和项链)
 
-tagEnchantB014A=Breath of Life I
-tagEnchantB014B=Breath of Life II
-tagEnchantB014BC=Breath of Life III
+tagEnchantB014A=生命之息I
+tagEnchantB014B=生命之息II
+tagEnchantB014BC=生命之息III
 tagEnchantB014Desc="The spirit of spring, rebirth, a breath of new life."^w^n(用于戒指和项链)
 
 tagEnchantB015A=Winter's Chill I

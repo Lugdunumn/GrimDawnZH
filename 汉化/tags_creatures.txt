@@ -1,30 +1,30 @@
 #CreatureAllSurvivors
 
-tagSurvivorGuardGenericRangedA01=幸存者 ~ 侦察兵
-tagSurvivorGuardGenericRangedB01=幸存者 ~ 游击兵
-tagSurvivorGuardGenericMeleeA01=幸存者 ~ 防御者
-tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
+tagSurvivorGuardGenericRangedA01=幸存者~侦察兵
+tagSurvivorGuardGenericRangedB01=幸存者~游击兵
+tagSurvivorGuardGenericMeleeA01=幸存者~防御者
+tagSurvivorGuardGenericMeleeB01=幸存者~守卫
 
 tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 
-tagBlackLegion_GuardMeleeA01=黑色军团 ~ 步兵
-tagBlackLegion_GuardRangedA01=黑色军团 ~ 射手
+tagBlackLegion_GuardMeleeA01=黑色军团~步兵
+tagBlackLegion_GuardRangedA01=黑色军团~射手
 
-tagBlackLegion_MeleeA01=黑色军团 ~ 近卫
-tagBlackLegion_RangedA01=黑色军团 ~ 死亡印记
-tagBlackLegion_CasterB01=黑色军团 ~ 战法师
-tagBlackLegion_ChampionC01=黑色军团 ~ 指挥官
+tagBlackLegion_MeleeA01=黑色军团~近卫
+tagBlackLegion_RangedA01=黑色军团~死亡印记
+tagBlackLegion_CasterB01=黑色军团~战法师
+tagBlackLegion_ChampionC01=黑色军团~指挥官
 
-tagNecromancer_CasterA01=死亡守夜人 ~ 初阶信徒
-tagNecromancer_CasterB01=死亡守夜人 ~ 侍僧
-tagNecromancer_ChampionC01=死亡守夜人 ~ 恐惧领主
+tagNecromancer_CasterA01=死亡守夜人~初阶信徒
+tagNecromancer_CasterB01=死亡守夜人~侍僧
+tagNecromancer_ChampionC01=死亡守夜人~恐惧领主
 tagNecromancer_Boss01=死亡暗语者 拉沃克大师
 tagNecromancer_Boss02=死亡守夜人勇士 马卡达
 
-tagZealot_MeleeA01=凯蒙的神选战士 ~ 狂战士
-tagZealot_RangedA01=凯蒙的神选战士 ~ 狂战士
-tagZealot_CasterB01=凯蒙的神选战士 ~ 持火者
-tagZealot_ChampionC01=凯蒙的神选战士 ~ 剑姬
+tagZealot_MeleeA01=凯蒙的神选战士~狂战士
+tagZealot_RangedA01=凯蒙的神选战士~狂战士
+tagZealot_CasterB01=凯蒙的神选战士~持火者
+tagZealot_ChampionC01=凯蒙的神选战士~剑姬
 tagZealot_AncestralSpirit=先祖之魂
 
 #CreatureAetherial
@@ -291,11 +291,11 @@ tagBloodswornBoss01=血领主 泰隆尼斯
 tagBloodswornBoss02=冥神魔印 卡若兹
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
-tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯  ~ 恶棍
-tagEnemyHumanOutlaw_Wightmire_MeleeB02=罪犯  ~ 暴徒
-tagEnemyHumanOutlaw_Wightmire_MeleeB03=罪犯  ~ 施虐者
-tagEnemyHumanOutlaw_Wightmire_RangedA01=罪犯  ~ 枪手
-tagEnemyHumanOutlaw_Wightmire_RangedB01=罪犯  ~ 游击兵
+tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯 ~ 恶棍
+tagEnemyHumanOutlaw_Wightmire_MeleeB02=罪犯 ~ 暴徒
+tagEnemyHumanOutlaw_Wightmire_MeleeB03=罪犯 ~ 施虐者
+tagEnemyHumanOutlaw_Wightmire_RangedA01=罪犯 ~ 枪手
+tagEnemyHumanOutlaw_Wightmire_RangedB01=罪犯 ~ 游击兵
 
 tagEnemyHumanOutlaw_MeleeA01=克隆利帮 ~ 侍从
 tagEnemyHumanOutlaw_MeleeB01=克隆利帮 ~ 恶棍
@@ -307,11 +307,11 @@ tagEnemyHumanOutlaw_ArsonistC01=克隆利帮 ~ 纵火犯
 tagEnemyHumanOutlaw_MurdererC01=克隆利帮 ~ 杀人犯
 tagEnemyHumanOutlaw_HereticC01=克隆利帮 ~ 异教徒
 
-tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ 被选召的
-tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ 被选召的
-tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ 命中注定的
-tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优秀的
-tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 巅峰的
+tagEnemyHumanOutlaw_AetherA01=克隆利帮 ~ 精锐
+tagEnemyHumanOutlaw_AetherA02=克隆利帮 ~ 精锐
+tagEnemyHumanOutlaw_AetherB01=克隆利帮 ~ 命运选招
+tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优选战士
+tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 超凡的战士
 
 tagHumanOutlawLeader01=德莱厄斯·克隆利
 tagHumanOutlawMiniBoss01=“长腿” 埃德蒙·道尔
@@ -430,7 +430,7 @@ tagManticoreHeroH01=翡翠猎手 拉科萨
 tagManticoreHeroH02=死亡之眼 奈隆
 tagManticoreHeroH03=黑心 阿卡奥
 tagManticoreHeroH03=迅爪 尤若克西斯 ~ 迅捷
-tagManticoreHeroH04=猩红之爪 瓦罗克西斯  ~ 压碎者
+tagManticoreHeroH04=猩红之爪 瓦罗克西斯 ~ 压碎者
 tagManticoreHeroH06=炎鬃 布拉泽拉
 
 tagManticoreBoss01=女王 莫伽拉
@@ -463,7 +463,7 @@ tagPrawnHeroH01=贪婪的拉娃克里克斯
 tagPrawnHeroH02=先祖 帕拉克里克斯
 tagPrawnHeroH03=毒裔 维拉克里克斯
 tagPrawnHeroH04=艾尔克里克斯 ~ 带电
-tagPrawnHeroH05=弗洛克里克斯~ 燃烧
+tagPrawnHeroH05=弗洛克里克斯 ~ 燃烧
 
 #CreatureRaptor 猛禽
 
@@ -794,7 +794,7 @@ tagReanimatorHeroH02=不灭的高罗格 ~ 勇不可挡
 tagReanimatorHeroH03=尸体发火 ~ 伤害反弹
 tagReanimatorHeroH04=腐化者 阿兹加洛格 ~ 防御者
 
-tagReanimatorBossH01=背叛者 桀斯兰特
+tagReanimatorBossH01=背叛者 盖思兰
 tagReanimatorBossH02=高阶虚灵 酂布兰特
 tagReanimatorBossH03=寒冰恐惧
 tagReanimatorBossH04=堕落者 那扎格拉德

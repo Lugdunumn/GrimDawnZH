@@ -62,10 +62,10 @@ tagMapWitheringFields=干枯田地
 tagMapHomestead=霍姆斯特德
 tagMapInfestedFarms=感染农田
 tagMapRottedHarvest=腐坏田地
-tagMapCorruptedPasture=The Gruesome Harvest
+tagMapCorruptedPasture=阴森的谷仓
 tagMapOldGrove=古老林地
-tagMapInfestedField01=Thornsbury Farm
-tagMapInfestedField02=Elmsworth Farm
+tagMapInfestedField01=索恩斯巴利农场
+tagMapInfestedField02=埃姆斯沃斯农场
 
 tagMapLedgewood01=利奇伍德
 tagMapAlpineRoad=高山道路
@@ -96,7 +96,7 @@ tagRiftAlpineRoad=高山道路传送门
 
 tagRiftHomestead=霍姆斯特德传送门
 tagRiftWitheringFields=干枯田地传送门
-tagRiftRottedHarvest=The Rotted Harvest
+tagRiftRottedHarvest=腐烂谷仓
 tagRiftOldGrove=古老林地
 
 tagRiftRandom01=冥灵传送门
@@ -142,7 +142,7 @@ tagWorldMapWitheringFields={^w}干枯田地
 tagWorldMapHomestead=霍姆斯特德
 tagWorldMapInfestedFarms={^w}感染农田
 tagWorldMapRottingCroplands={^w}腐坏田地
-tagWorldMapGruesomeHarvest=The Gruesome{^n}Harvest
+tagWorldMapGruesomeHarvest={^w}阴森的{^n}{^w}谷仓
 tagWorldMapBloodGrove={^w}血森林
 tagWorldMapSorrowsBastian=悲伤城堡
 
@@ -214,9 +214,9 @@ tagSign_Deeps=注意:矿洞已封闭
 
 tagSign_OldGrove=古老林地
 
-tagGravestone_OldArkovia01=这里埋葬着：罗伯特
-tagGravestone_OldArkovia02=这里埋葬着：洛克福德
-tagGravestone_OldArkovia03=这里埋葬着：瑞恩
+tagGravestone_OldArkovia01=这里埋葬着:罗伯特
+tagGravestone_OldArkovia02=这里埋葬着:洛克福德
+tagGravestone_OldArkovia03=这里埋葬着:瑞恩
 
 #Points of Interest
 
@@ -328,12 +328,12 @@ tagNPC_Ulgrim=艾格瑞姆
 tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特
 
-tagNPC_GuardA04=守卫 - 麦考尔 
-tagNPC_Guard_DCRanged01=守卫 - 梅纳德
-tagNPC_Guard_DCRanged02=守卫 - 拉斯
-tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
-tagNPC_Guard_DCMelee02=守卫 - 奥克斯利
-tagNPC_Guard_DCMelee03=守卫 - 切斯特
+tagNPC_GuardA04=守卫-麦考尔 
+tagNPC_Guard_DCRanged01=守卫-梅纳德
+tagNPC_Guard_DCRanged02=守卫-拉斯
+tagNPC_Guard_DCMelee01=守卫-布瑞格斯
+tagNPC_Guard_DCMelee02=守卫-奥克斯利
+tagNPC_Guard_DCMelee03=守卫-切斯特
 tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
@@ -379,25 +379,25 @@ tagNPC_Homestead_28=海勒姆
 tagNPC_Homestead_29=卡尔德罗斯
 tagNPC_Homestead_30=巴尔沃拉克
 
-tagNPC_AreaC_01=Scoutmaster Lysell
+tagNPC_AreaC_01=侦查队长 莱伊尔
 tagNPC_AreaC_02=道格拉斯·沙利文·古冢
 tagNPC_AreaC_03=迈尔斯·法恩根
 tagNPC_AreaC_04=审判官克里德
-tagNPC_AreaC_05=Deathmark Kadris
-tagNPC_AreaC_06=Alleria
-tagNPC_AreaC_07=Kalista
-tagNPC_AreaC_08=Nathaniel Thorn
-tagNPC_AreaC_09=Lisandra Avery
-tagNPC_AreaC_10=Brother Elluvius
-tagNPC_AreaC_11=Father Kymon
-tagNPC_AreaC_12=Master Varukk
+tagNPC_AreaC_05=卡德里斯·死亡印记
+tagNPC_AreaC_06=奥蕾莉亚
+tagNPC_AreaC_07=卡里斯塔
+tagNPC_AreaC_08=纳撒尼尔·索恩
+tagNPC_AreaC_09=莉珊德拉·艾弗里
+tagNPC_AreaC_10=艾鲁维斯兄弟
+tagNPC_AreaC_11=圣父凯蒙
+tagNPC_AreaC_12=瓦拉克大师
 tagNPC_AreaC_13=The Keeper of Tomes
-tagNPC_AreaC_14=Rallia
-tagNPC_AreaC_15=Captain Somer
-tagNPC_AreaC_16=Collin Taverin
-tagNPC_AreaC_17=Deathmark Vallar
-tagNPC_AreaC_18=Brother Molltair
-tagNPC_AreaC_19=Haruuv
+tagNPC_AreaC_14=拉莉亚
+tagNPC_AreaC_15=索梅尔队长
+tagNPC_AreaC_16=科林·塔夫恩
+tagNPC_AreaC_17=瓦拉尔·死亡印记
+tagNPC_AreaC_18=莫代尔兄弟
+tagNPC_AreaC_19=哈鲁夫
 tagNPC_AreaC_20=
 tagNPC_AreaC_21=
 tagNPC_AreaC_22=
@@ -405,10 +405,10 @@ tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=Spellbreaker Moira
-tagNPC_AreaD_02=Captain Reave
-tagNPC_AreaD_03=Quartermaster Edric
-tagNPC_AreaD_04=Anasteria
+tagNPC_AreaD_01=破法者莫伊拉
+tagNPC_AreaD_02=里夫队长
+tagNPC_AreaD_03=军需官艾德里克
+tagNPC_AreaD_04=阿纳斯塔里娅
 
 tagNPC_DetonationSite=爆破点
 tagNPC_AetherCluster=虚化集簇
@@ -439,7 +439,7 @@ tagNPC_Flavor_DevilsCrossing03=阿莱克斯
 tagNPC_Flavor_DevilsCrossing04=格特鲁德
 tagNPC_Flavor_DevilsCrossing05=马库斯
 tagNPC_Flavor_DevilsCrossing06=达里安
-tagNPC_Flavor_DevilsCrossing07=Harvey the Drifter
+tagNPC_Flavor_DevilsCrossing07=流浪汉 哈维
 
 tagNPC_Flavor_Homestead_01=“刀子” 弗兰基
 tagNPC_Flavor_Homestead_02=克隆利帮叛逃者
@@ -457,15 +457,15 @@ tagNPC_Flavor_Homestead_12=贺拉斯
 tagNPC_Flavor_Necropolis_01=迪恩·古冢
 tagNPC_Flavor_Necropolis_02=丹尼·古冢
 tagNPC_Flavor_Necropolis_03=玛利亚·古冢
-tagNPC_Flavor_AreaC_04=Deathmark Harra
-tagNPC_Flavor_AreaC_05=Rob Halloway
-tagNPC_Flavor_AreaC_06=Beatrice Summers
-tagNPC_Flavor_AreaC_07=Tricia Windborough
-tagNPC_Flavor_AreaC_08=Taris Windborough
-tagNPC_Flavor_AreaC_09=Emily Larkson
-tagNPC_Flavor_AreaC_10=Bolvis 
-tagNPC_Flavor_AreaC_11=Vaam
-tagNPC_Flavor_AreaC_12=Elara
+tagNPC_Flavor_AreaC_04=拉哈·死亡印记
+tagNPC_Flavor_AreaC_05=劳勃·哈洛韦
+tagNPC_Flavor_AreaC_06=碧翠斯·萨莫斯
+tagNPC_Flavor_AreaC_07=特里西娅·温德伯勒
+tagNPC_Flavor_AreaC_08=塔里斯·温德伯勒
+tagNPC_Flavor_AreaC_09=艾米丽·拉克森
+tagNPC_Flavor_AreaC_10=鲍维斯
+tagNPC_Flavor_AreaC_11=瓦姆
+tagNPC_Flavor_AreaC_12=伊劳拉
 tagNPC_Flavor_AreaC_13=卡尔达拉
 tagNPC_Flavor_AreaC_14=塔维克
 tagNPC_Flavor_AreaC_15=阿姆卡洛
@@ -473,17 +473,17 @@ tagNPC_Flavor_AreaC_16=拉鲁卡
 tagNPC_Flavor_AreaC_17=卡拉卡
 tagNPC_Flavor_AreaC_18=加拉若克
 tagNPC_Flavor_AreaC_19=拉鲁克
-tagNPC_Flavor_AreaC_20=Sister Thaddia
-tagNPC_Flavor_AreaC_21=Brother Lector
-tagNPC_Flavor_AreaC_22=Brother Ulnox
-tagNPC_Flavor_AreaC_23=Neddie
-tagNPC_Flavor_AreaC_24=Phil
-tagNPC_Flavor_AreaC_25=Oliver Thornsbury
-tagNPC_Flavor_AreaC_26=Henry Elmsworth
-tagNPC_Flavor_AreaC_27=Homestead Farmer
+tagNPC_Flavor_AreaC_20=萨蒂亚姐妹
+tagNPC_Flavor_AreaC_21=莱克特兄弟
+tagNPC_Flavor_AreaC_22=奥诺克斯兄弟
+tagNPC_Flavor_AreaC_23=奈迪
+tagNPC_Flavor_AreaC_24=菲尔
+tagNPC_Flavor_AreaC_25=奥利弗·索恩斯巴利
+tagNPC_Flavor_AreaC_26=亨利·埃姆斯沃斯
+tagNPC_Flavor_AreaC_27=霍姆斯特德农民
 tagNPC_Flavor_AreaC_28=
-tagNPC_Flavor_AreaC_29=Tracy Thornsbury
-tagNPC_Flavor_AreaC_30=Alex Elmsworth
+tagNPC_Flavor_AreaC_29=特蕾西·索恩斯巴利
+tagNPC_Flavor_AreaC_30=阿莱克斯·埃姆斯沃斯
 tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
 tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
 tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
@@ -499,16 +499,16 @@ tagNPC_Flavor_AreaD_06=
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=哈特的项链
-tagQuestItemHartsAmulet_Text=“致我亲爱的哥哥：希望这枚项链能在战场上保佑你。-西比尔”
+tagQuestItemHartsAmulet_Text=“致我亲爱的哥哥:希望这枚项链能在战场上保佑你。-西比尔”
 
 tagQuestItemCultistKey_Name=奇特的钥匙
 tagQuestItemCultistKey_Text=“这把钥匙标注着冥神麾下邪教徒所使用的诸多奇异符文和堕落符号。”
 tagQuestItemDirections_Name=狄瑞尼的指引
-tagQuestItemDirections_Text=A deal's a deal: The cultists are sitting cozy up in the mountains, out of the way of the usual travelers. Head out to the broken bridge in the Burrwitch Outskirts. Once there, hug the cliff side until you find a path leading into the hills.{^n}{^n}When you find men in blood-soaked robes beckoning the dark powers, you're in the right place. The entrance to their sanctuary is past the camp, carved into the mountainside.
+tagQuestItemDirections_Text=遵照约定:邪教徒们很舒服地待在山中，远离通常旅行者的地方。前往伯尔维治郊外的断桥那里。到了之后，沿着悬崖边走，直到你找到一条进入山中的路。{^n}{^n}当你发现穿着浴血长袍在召唤黑暗力量的人时，你就到了。进入他们圣殿的入口就在营地的后面，深入山腹之中。
 
 tagQuestChestLostJournal=积灰的诵经台
 tagQuestItemLostJournal_Name=邪教徒的命令
-tagQuestItemLostJournal_Text="Brothers of the Blood,{^n}{^n}The Aetherial presence in Burrwitch grows stronger with each passing day. We are shifting our operations beyond the city limits where we may proceed with our plans undisturbed. Our focus now turns upon Devil's Crossing, where our newest agent, Direni, has successfully sabotaged their water pump. Soon that irksome group will be forced to flee their sanctuary, and then they shall be at our mercy. Ready yourselves, brothers. Soon we shall drink of their blood!{^n}{^n}Salazar, Blade of Ch'thon"
+tagQuestItemLostJournal_Text="血之兄弟们，{^n}{^n}伯尔维治的虚灵势力每天都在增强。本来能不受干扰地完成计划的地方已经超出了它所能承受的极限，我们因此变更着我们的行动。现在我们的目标转向了恶魔十字，我们的特工狄瑞尼成功地破坏了他们的水泵。不久那个令人生厌的群体就要被迫逃离他们的庇护所，之后他们就要由我们来掌控了。准备好，我的兄弟们。不久我们就要引用他们的鲜血！{^n}{^n}萨拉查，冥神之刃"
 
 tagQuestItemDynamite=炸药
 tagQuestItemDynamiteDesc=“猛烈的爆炸物，爆破者们曾使用它来对抗法师们毁灭性的力量。”
@@ -520,51 +520,51 @@ tagQuestItemFabric=织物
 tagQuestItemFabricDesc=“有点旧有点脏，但是其他方面都挺好。”
 
 tagQuestItemSaltMineKey_Name=通往被遗忘的深渊的钥匙
-tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
+tagQuestItemSaltMineKey_Text="用来打开封印科里根矿井中遗忘深渊的铁门的钥匙。"
 
-tagQuestItemForgottenPassage=被遗忘的通道
-tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
+tagQuestItemForgottenPassage=被遗忘的文本
+tagQuestItemForgottenPassage_Desc="一段记录古安克维亚历史的支离破碎的文本。没有剩下部分的文本是无法解密的。"
 
 tagQuestItemSmithHammer=曼海尔的锤骨
 tagQuestItemSmithHammer_Desc=“工匠们手中代代相传的一把远古锻锤。它见证了无数神器的诞生，也将继续打造出无数的神兵利器。”
 
-tagQuestItemDermapteranPheromones_01=Lozakal's Pheromone Gland
-tagQuestItemDermapteranPheromones_01Desc="The stench emanating from this gland is nauseating."
+tagQuestItemDermapteranPheromones_01=洛扎克的腺体
+tagQuestItemDermapteranPheromones_01Desc="散发出的恶臭令人作呕。"
 
-tagQuestItemDermapteranPheromones_02=Inixil's Pheromone Gland
-tagQuestItemDermapteranPheromones_02Desc="The stench emanating from this gland is nauseating."
+tagQuestItemDermapteranPheromones_02=伊尼克希尔的腺体
+tagQuestItemDermapteranPheromones_02Desc="散发出的恶臭令人作呕。"
 
-tagQuestItemManticorePoisonGland=Manticore Poison Gland
-tagQuestItemManticorePoisonGland_Desc="Dripping with a powerful toxin that burns the skin on contact."
+tagQuestItemManticorePoisonGland=蝎尾狮的毒腺
+tagQuestItemManticorePoisonGland_Desc="滴落着接触即会灼烧皮肤的烈性毒液。"
 
-tagQuestItemNecromancerRemains=Remains of Malkadarr
-tagQuestItemNecromancerRemains_Desc="The still rotting remains of a once powerful necromancer."
+tagQuestItemNecromancerRemains=马卡达的尸骨
+tagQuestItemNecromancerRemains_Desc="这位曾经强大的死灵法师的遗骸还在腐烂着。"
 
-tagQuestItemExileBossDrop_01=Archive of Fates Untold
-tagQuestItemExileBossDrop_01Desc="This tome appears sealed by arcane forces. The cover refuses to budge."
+tagQuestItemExileBossDrop_01=未知命运秘典
+tagQuestItemExileBossDrop_01Desc="这本书似乎被奥术力量封印着，无法将它的封面哪怕翻开一点点。"
 
-tagQuestItemExileBossDrop_02=Head of Archivist Thelon
-tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at you."
+tagQuestItemExileBossDrop_02=档案管理员塞隆的头颅
+tagQuestItemExileBossDrop_02Desc="闪耀着虚化光芒的双眼仍在凝视着你。"
 
-tagQuestItemBlackLegionInsignia=Black Legion Insignia
-tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their loyal service."
+tagQuestItemBlackLegionInsignia=黑色军团徽章
+tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的奖赏。"
 
-tagQuestItemAnnalsOfArkovia=Annals of Arkovia
-tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arkovia."
+tagQuestItemAnnalsOfArkovia=安克维亚编年史
+tagQuestItemAnnalsOfArkovia_Desc="记录着安克维亚罗文王最后的日子。"
 
 #Journals 日志
 
 tagLoreObj_InquisitorCreedA01Name=审判官克里德的日志-第一章
 tagLoreObj_InquisitorCreedA01codexTitle=审判官克里德-第一章
-tagLoreObj_InquisitorCreedA01Text=此时此刻，我正在赶往调查伯尔维治的路上，最近有人报告在这个区域里发生了一些奇怪的事情。黄昏正在逐渐笼罩魔鬼路口，附近阴森的沼泽提示着在晚上赶路可不是个好主意。我只好勉强住进了下游渡口的一个脏兮兮的小旅馆。{^n}{^n}也许经过一段匆匆忙忙的旅途之后，我应该感到很疲乏，但我似乎感到空气中有一种奇怪的压迫感，使我的情绪保持着紧张的状态。这种感觉就好像在一个雷鸣般的夏季风暴即将到来之前，太阳仍然是光芒四射，甚至空中连一朵云都看不见。寂静，却令人害怕。这里的一切事物似乎都处于它们正常的状态，看不出来任何端倪，但我的直觉告诉我，某种可怕的事情将要到来了……
+tagLoreObj_InquisitorCreedA01Text=此时此刻，我正在赶往调查伯尔维治的路上，最近有人报告在这个区域里发生了一些奇怪的事情。黄昏正在逐渐笼罩恶魔十字，附近阴森的沼泽提示着在晚上赶路可不是个好主意。我只好勉强住进了下游渡口的一个脏兮兮的小旅馆。{^n}{^n}也许经过一段匆匆忙忙的旅途之后，我应该感到很疲乏，但我似乎感到空气中有一种奇怪的压迫感，使我的情绪保持着紧张的状态。这种感觉就好像在一个雷鸣般的夏季风暴即将到来之前，太阳仍然是光芒四射，甚至空中连一朵云都看不见。寂静，却令人害怕。这里的一切事物似乎都处于它们正常的状态，看不出来任何端倪，但我的直觉告诉我，某种可怕的事情将要到来了……
 
 tagLoreObj_InquisitorCreedA02Name=审判官克里德的日志-第二章
 tagLoreObj_InquisitorCreedA02codexTitle=审判官克里德-第二章
-tagLoreObj_InquisitorCreedA02Text=正当收拾行李准备重新踏上前往伯尔维治的旅途时，我收到了来自一个伐木营地的紧急求救，这个营地驻扎在古老林地，位于魔鬼路口的西边。奇怪的野兽袭击了那个营地，只留下三个虚弱而脸色苍白的伐木工人。{^n}{^n}到达营地之后，工头神情严肃地向我问好，接着告诉我被野兽咬过的工人发了疯并且逃离了营地。另外，他们还用一种从来没听过的语言彼此交谈。工头把一些动物的遗骸指给我看。那是两只灰狐和一只猎犬，身上长满了令人毛骨悚然的疥疮，躺在房子后面一个草草挖好的坑里。工头告诉我这些动物在接触了那些工人之后，突然暴毙而亡，之后奇怪的绿色蒸气从他们的尸体里上慢慢散发出来。随后，三个伐木工人就病倒在床，精神状态也迅速变得恶化起来。看来这次我来到这片区域进行调查是十分有必要的。
+tagLoreObj_InquisitorCreedA02Text=正当收拾行李准备重新踏上前往伯尔维治的旅途时，我收到了来自一个伐木营地的紧急求救，这个营地驻扎在古老林地，位于恶魔十字的西边。奇怪的野兽袭击了那个营地，只留下三个虚弱而脸色苍白的伐木工人。{^n}{^n}到达营地之后，工头神情严肃地向我问好，接着告诉我被野兽咬过的工人发了疯并且逃离了营地。另外，他们还用一种从来没听过的语言彼此交谈。工头把一些动物的遗骸指给我看。那是两只灰狐和一只猎犬，身上长满了令人毛骨悚然的疥疮，躺在房子后面一个草草挖好的坑里。工头告诉我这些动物在接触了那些工人之后，突然暴毙而亡，之后奇怪的绿色蒸气从他们的尸体里上慢慢散发出来。随后，三个伐木工人就病倒在床，精神状态也迅速变得恶化起来。看来这次我来到这片区域进行调查是十分有必要的。
 
 tagLoreObj_InquisitorCreedA03Name=审判官克里德的日记-第三章
 tagLoreObj_InquisitorCreedA03codexTitle=审判官克里德-第三章
-tagLoreObj_InquisitorCreedA03Text=在穿过了被称为尸妖泥沼的一片阴沉区域过后，我终于到达了伯尔维治。多年来，人们悄悄地讲述关于在尸妖泥沼里发生的一些超自然事件，事实上，单单是听到这片沼泽的名字，已经足够让人心里发毛了。说实话我并不太相信这些人，但最近发生的一系列事情难道不是在某种程度上证实了这些老掉牙的故事？{^n}{^n}抵达目的地之后让我感到惊讶的是，住在伯尔维治的魔鬼路口典狱长似乎预料到了我的到来。当我刚踏进镇上，一个男仆就向我问好并坚持要我接受典狱长克里格的邀请去他的庄园歇息。这有点不同寻常，但我还是接受了邀请，因为假如想要调查一下克里格庄园，这可能是最好的方式了。{^n}{^n}由于克里格邀请我今天就要去他那里吃晚餐，使得我这次对伯尔维治的访问变得十分短暂。这似乎证明真相正在慢慢浮出水面。
+tagLoreObj_InquisitorCreedA03Text=在穿过了被称为尸妖泥沼的一片阴沉区域过后，我终于到达了伯尔维治。多年来，人们悄悄地讲述关于在尸妖泥沼里发生的一些超自然事件，事实上，单单是听到这片沼泽的名字，已经足够让人心里发毛了。说实话我并不太相信这些人，但最近发生的一系列事情难道不是在某种程度上证实了这些老掉牙的故事？{^n}{^n}抵达目的地之后让我感到惊讶的是，住在伯尔维治的恶魔十字典狱长似乎预料到了我的到来。当我刚踏进镇上，一个男仆就向我问好并坚持要我接受典狱长克里格的邀请去他的庄园歇息。这有点不同寻常，但我还是接受了邀请，因为假如想要调查一下克里格庄园，这可能是最好的方式了。{^n}{^n}由于克里格邀请我今天就要去他那里吃晚餐，使得我这次对伯尔维治的访问变得十分短暂。这似乎证明真相正在慢慢浮出水面。
 
 tagLoreObj_InquisitorCreedA04Name=审判官克里德的日记-第四章
 tagLoreObj_InquisitorCreedA04codexTitle=审判官克里德-第四章
@@ -578,115 +578,115 @@ tagLoreObj_InquisitorCreedA06Name=审判官克里德的日记-第六章
 tagLoreObj_InquisitorCreedA06codexTitle=审判官克里德-第六章
 tagLoreObj_InquisitorCreedA06Text=我在这个阴冷的牢房已经度过了一天一夜，内心充满不安和恐惧。克里格让我亲眼目睹他们保存尸体的过程，他称之为荣耀黎明。{^n}{^n}我在克里格身上隐约产生了一个想法，就是加入他或者受他摆布。从他的言行中推断这些仅仅是他的计划中一个极小的部分，背后一定还有更大的阴谋。我猜想其他的许多处于关键职务的人也受到了某种东西的控制，就像现在的克里格一样。最初面对克里格时，我对自己十分自信，甚至有些傲慢，但我远远低估了我们将要面对的威胁与力量。{^n}{^n}幸运的是，克里格同样也有这种傲慢的心态，他轻视了囚犯的智慧。他让我选择抛弃人性发誓对他效忠，或者成为那些封存尸体中的一员。克里格把我一个人留下考虑他给出的选择，但这件牢房虽然被魔法封印，却无法禁锢我的爱好，我并不打算呆在这儿直到克里格来听我的答复。
 
-tagLoreObject_PrisonNoteName=Crudely Scrawled Note
+tagLoreObject_PrisonNoteName=粗糙潦草的笔记
 tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...
 
 
-tagLoreObj_LowerCrossingA01Name=Harbormaster's Log - Lower Crossing
-tagLoreObj_LowerCrossingA01codexTitle=Harbormaster's Log
+tagLoreObj_LowerCrossingA01Name=港务长的日志-下游渡口
+tagLoreObj_LowerCrossingA01codexTitle=港务长的日志
 tagLoreObj_LowerCrossingA01Text=Autumn fogs are appearing early this year but traffic remains unusually high.  There is a steady flow of small craft coming down from Malmouth and other townships to the Nor'East. Some of these boats are barely afloat burdened with what looks like people's every possession. These travelers, sometimes entire families, bring with them strange tales of wars and the unnatural. Bunch'a hogwash riling up the soft townsfolk. Can't complain tho', keeps the dock busy. Most are Westbound, trying to get as far away as they can.{^n}{^n}The lads at the docks are starting to lose their nerve. Some have talked about setting out West themselves but I've assured them this is all nonsense and will pass. Youth are easily caught up in the energy of the moment.
 
-tagLoreObj_BurrwitchB01Name=Harbormaster's Log - Burrwitch
-tagLoreObj_BurrwitchB01codexTitle=Harbormaster's Log
+tagLoreObj_BurrwitchB01Name=港务长的日志-伯尔维治
+tagLoreObj_BurrwitchB01codexTitle=港务长的日志
 tagLoreObj_BurrwitchB01Text=Another boat arrived filled with hooded prisoners, dozens of 'em. As usual, a wagon was waiting for them but from what I hear, it doesn't take 'em far. One of the loading boys came back from Burrwitch after visiting that there new doctor and he said the wagon stopped outside the Warden's mansion. The lad asked 'bout the prisoners and one of the handlers said "rehabilitation". Not sure what to make of that.{^n}{^n}There's been o'er a dozen of these prisoner transports in as many weeks. I just don't see how they can fit 'em all in that mansion. I don't care how big that place may be, Krieg won't be keeping a prison's worth of no good thieves under his roof. Somethin' peculiar is going on there and it don't settle right in my stomach. Might have to send word up the lake to Malmouth, get one of them inquisitors down here to look into this curiosity. Can't say I want one o'them inquisitors poking around here much either though. They make a man uneasy.
 
 
-tagLoreObj_LowerCrossingA02Name=Francis' Note
-tagLoreObj_LowerCrossingA02Text=I'm trapped here...I realize now, I will die in this house.  Margaret, I fear that you are already dead and so it may not be so bad if I am shortly to join you.  If by some miracle, you yet live and return here to find this note, please know that I am not angry with you. I've never regretted our life together but now only regret that I lost my temper and spoke unkind words when last we parted.{^n}{^n}I hope you will not think me a coward for what I am about to do. They are already in the house. I've barricaded myself in this room but it is only a matter of time before they break through.  All I can do now is choose the manner in which I face death and I would rather die a man than be changed into one of those horrid things or eaten alive.  I will love you always...{^n}{^n}Francis
+tagLoreObj_LowerCrossingA02Name=弗朗西斯的笔记
+tagLoreObj_LowerCrossingA02Text=我被困在这儿了……我终于意识到了，我会死在这间房子里。玛格利特，恐怕你已经死了，所以我不久之后和你团聚也还算不坏。如果奇迹发生的话，如果你还活着回到这儿找到这页笔记的话，我想要你明白我不生你的气。我从不后悔我们在一起，只是我后悔当时发了脾气，对你说了不该说的话。{^n}{^n}我希望你不要因为我要做的事觉得我是一个懦夫。他们已经进到了屋子里，我把房间阻挡住了但他们冲进来也只是时间问题。我能做的只是选择如何面对死亡而已，我宁可作为人去死也不要成那些恐怖的东西或是被活生生地啃食。我会一直爱着你的……{^n}{^n}弗朗西斯
 
-tagLoreObj_WightmireA01Name=Missive to Wightmire Bloodbound
-tagLoreObj_WightmireA01codexTitle=Bloodbound Missive
+tagLoreObj_WightmireA01Name=给尸妖泥沼血之兄弟会的信函
+tagLoreObj_WightmireA01codexTitle=血之兄弟会的信函
 tagLoreObj_WightmireA01Text=The time has come to strike at our Aetherial nemesis in Wightmire. Even now, we gather our forces in the hills above Burrwitch for an assault on the Village. However, before that can happen, we must first secure Wightmire so that there are no enemies at our backs.{^n}{^n}Though strong, loyal and ready to die in the name of Ch'thon, I believe you have insufficient Bloodbound to overcome the Aetherials presence. We have had great success recently in bringing forth more powerful servants of Ch'thon from the Void. A single Harbinger could wipe out all of the Aetherians in Wightmire and even take on Devil's Crossing, which could serve as a stronghold for our order in this region.{^n}{^n}To bring forth a Harbinger, you will need the blood and lives of at least three men. Gather the sacrifices however you see fit; either from refugees on the road, rover camps or chosen amongst your own Bloodbound. Inform me of your success when it is complete.{^n}{^n}Ulto Treig, Grand Priest
 
-tagLoreObj_WardensJournalA01Name=Warden Krieg's Journal
+tagLoreObj_WardensJournalA01Name=典狱长克里格的日记
 tagLoreObj_WardensJournalA01Text=I have taken possession of my assigned vessel, the local prison warden. I appeared to him in his bed chamber and proposed the joining. I had anticipated fear and skepticism but these humans are apparently all too ready to enter into any pact they believe will profit them. Krieg is not a particularly strong willed human but he is persistent and constantly scratches at my consciousness. I have him under control though.{^n}{^n}Krieg's position as an incarcerator of other humans will greatly facilitate our efforts. His expansive dwelling has a massive cellar that I believe we can use to fashion an underground transit to conceal our activities and the transport of bodies. There is much work ahead to prepare for our Glorious Dawn but I rather enjoy this physical body. It has many advantages.
 
-tagLoreObj_WardensLabA01Name=Gethrand's Notes - 1st Entry
+tagLoreObj_WardensLabA01Name=盖思兰的笔记-第一章
 tagLoreObj_WardensLabA01Text=It is unclear why the Aetherials are so interested in tissue preservation. One of my colleagues has posited that they may intend to use human corpses as vessels for possession when they bring more of their kind into our realm.{^n}{^n}Wagon loads of corpses continue to stream in day and night. The sheer quantity is staggering and I begin to suspect that they are not merely executed criminals as we've been told.
 
-tagLoreObj_WardensLabA02Name=Gethrand's Notes - 2nd Entry
+tagLoreObj_WardensLabA02Name=盖思兰的笔记-第二章
 tagLoreObj_WardensLabA02Text=We entered stage two of our trials today but the results were not what I had anticipated.  We've progressed to the point where the corpses can endure for months, possibly years, with minimal, mostly external, deterioration. Our Aetherial overseer seemed satisfied and he, or it, unexpectedly placed his hand upon one of the corpses and released a spark of aetherial energy. The thing began to move as if it were alive again. It was a ghastly sight.{^n}{^n}What I found far more troubling though is that these corpses are clearly not meant to serve as Aetherial hosts. It has become known to me that they prefer living hosts. The sheer number of corpses they are hauling through here suggests a far worse realization: an army.
 
-tagLoreObj_WardensLabA03Name=Gethrand's Notes - Final Entry
+tagLoreObj_WardensLabA03Name=盖思兰的笔记-终章
 tagLoreObj_WardensLabA03Text=This will be my last entry as I have determined to end my life. I cannot bring myself to carry out these abominable experiments any longer. I may have already doomed humanity with my actions. Though I have long felt shunned by my fellows at the academy and thought the Aetherials could offer me something greater, I can no longer be a part of this. I fear that if they find my body, they will use me for their experimentations, so I must be discreet. Returning as one of those...things would be unbearable.
 
-tagLoreObj_WardensLabB01Name=Zanbrandt's Notes
+tagLoreObj_WardensLabB01Name=酂布兰特的笔记
 tagLoreObj_WardensLabB01Text=My colleague Gethrand took his life today - that shortsighted fool. He could never see the big picture and this project was no different. Gethrand could not fathom the glorious vision of the Aetherials and the role we will play as early human collaborators. This isn't about personal gain. We will elevate humanity! Certainly there has been a cost in lives but progress always has a price. So what of the dirty masses who will perish in the Glorious Dawn when the Aetherials reveal themselves to the world. To the Aetherials we are like some base primitive creature, as the Slith are to us. Those of us who will serve, or better yet, bond with an Aetherial, shall forge a new human future.
 
-tagLoreObj_WardensLabC01Name=Missive to Warden Krieg
+tagLoreObj_WardensLabC01Name=给典狱长克里格的信
 tagLoreObj_WardensLabC01Text=Warden Krieg,{^n}{^n}Excuse this crude form of communication. I am far to the North and it seems my thoughts are unable to reach you. In all future material correspondence we will use our host names and common human language forms.{^n}{^n}I write looking for clarification of recent perplexing reports on your conduct.  Is it true that you have been incarcerating and tormenting humans?  What is the purpose for this?  It would seem that your host's predilections are affecting your own behavior. You must bring this under your control and cease this superfluous activity.  Your role is to facilitate our laboratories with the collection of corpses. Limit yourself to the parameters of this task or you will be recalled.
 
-tagLoreObj_VilagerNoteB01Name=Alister's Diary
+tagLoreObj_VilagerNoteB01Name=阿利斯特的日记
 tagLoreObj_VillagerNoteB01Text=1st entry{^n}Momma told me to write in this thing, so I suppose now is as good as ever, seeing as I'm grounded, again! So I pulled Abigail's hair. She started it! Why doesn't she have to sit in her room and write in her stupid diary?{^n}{^n}Tomorrow, I'll catch the biggest frog I can find in the marshes and leave it in sister's room. We'll see how she likes that.{^n}{^n}2nd entry{^n}So Momma's been reading my diary and now I'm grounded again. The frog got out before sister even saw it! Why isn't Poppa home yet? He was supposed to take me out to Burrwitch today and he's still not back from business.{^n}{^n}Alister's Diary - 3rd entry{^n}Momma's saying that I'm not allowed to play outside anymore. Perkins said that there are monsters roaming the marshes, but Momma said there is no such thing and she whooped me with the ladle for talking rumors again. I wish Poppa would come home already. I want to go to Burrwitch!{^n}{^n}Alister's Diary - 4th entry{^n}I'm scared. I'm really really scared. Momma locked me and sister in my room while she checked out some noises behind the house. It's been forever and now I hear noises inside the house too. Poppa, please come home and make the noises go away. I don't care about Burrwitch anymore. Just please come home, Poppa.
 
-TagLoreObj_VillagerNoteH01Name=Abby's Note
+TagLoreObj_VillagerNoteH01Name=艾比的笔记
 TagLoreObj_VillagerNoteH01Text=Town is falling apart around me. Those things are everywhere. God knows what's making them rise. Half of Burrwitch is in flames and still they continue to multiply. No sense trying to stick this out so I'm packing some basics and leaving immediately. I hear the north is all but overrun so I'll try my luck in the south, through Wightmire.{^n}{^n}Horace, if you are reading this note, I'll make camp at Devil's Crossing. Last place I'd want to end up on a good day, but the prison sounds safer than being out in the wild with those things about. Meet me there, if you're still alive.
 
-TagLoreObj_VillagerNoteJ01Name=Nora's Note
+TagLoreObj_VillagerNoteJ01Name=诺拉的笔记
 TagLoreObj_VillagerNoteJ01Text=Third bunch of bandits this month. You would think that with all that's happened recently people would be a bit more willing to help out one another. But no, seems the world is still teeming with scum who would take advantage of a bad situation.{^n}{^n}If you are a friend of these dirt-bags, follow me and die. There is still room on my belt for a few more notches. If perhaps you are just another lost soul wandering these ruins, don't look for friends out here. People out here are just as likely to slit your throat for a few bullets as to point you in a safe direction. I'm not going to hesitate to fire the first shot, and neither should you.
 
-TagLoreObj_Kymon01Name=Kymon's Scripture: First Passage
-TagLoreObj_Kymon01codexTitle=Kymon - First Passage
+TagLoreObj_Kymon01Name=凯蒙的圣经:第一部分
+TagLoreObj_Kymon01codexTitle=凯蒙-第一部分
 TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laughter anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
 
-TagLoreObj_OldArkovia_History01Name=Last Days of Arkovia
+TagLoreObj_OldArkovia_History01Name=安克维亚的末日
 TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words undiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
 
-tagLoreObj_FloodedPassageRuins01Name=Writings of Rolderathis - 1st Entry
-tagLoreObj_FloodedPassageRuins01codexTitle=Rolderathis - 1st Entry
+tagLoreObj_FloodedPassageRuins01Name=罗德拉西斯的著作-第一章
+tagLoreObj_FloodedPassageRuins01codexTitle=罗德拉西斯-第一章
 tagLoreObj_FloodedPassageRuins01Text=The end of days is upon us! Glorious Arkovia, beacon of the west, is crumbling from within. But fear not, brothers and sisters, for we are the chosen of Ishtak.{^n}{^n}Here, upon the sacred ground of our forefathers, we shall be safe from the ruin brought about by the hubris of the oligarchs. Here, we shall outlast the immortal plague and return to the surface as the second dawn of man.{^n}{^n}It is with a heavy heart that I seal the entrance to our temple. May Ishtak have mercy on the damned souls beyond these walls. They will find no solace here.
 
-tagLoreObj_FloodedPassageRuins02Name=Writings of Rolderathis - 2nd Entry
-tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2nd Entry
+tagLoreObj_FloodedPassageRuins02Name=罗德拉西斯的著作-第二章
+tagLoreObj_FloodedPassageRuins02codexTitle=罗德拉西斯-第二章
 tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again and renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
 
-tagLoreObj_StepsOfTorment01Name=Writings of Zarthuzellan
-tagLoreObj_StepsOfTorment01codexTitle=Writings of Zarthuzellan
+tagLoreObj_StepsOfTorment01Name=扎尔泽兰的著作
+tagLoreObj_StepsOfTorment01codexTitle=扎尔泽兰的著作
 tagLoreObj_StepsOfTorment01Text=The one they call Uroboruuk makes mockery of the gods. The Lord Executioner cut at his flesh, but the wounds refused to bleed. His limbs grow back; his skin is impervious to flame.{^n}{^n}I believe the time has come for me to descend into that vile place and deal with the heathen myself. We shall see how he reacts to the cleansing flame of the divine.
 
-tagLoreObj_BozemanFollyName=Bozeman's Folly
+tagLoreObj_BozemanFollyName=波兹曼的疯言疯语
 tagLoreObject_BozemanFollyText=They all say I'm insane for taking the caravan through the deep road. The only thing that's insane is paying bribes to those smug bastards in control of Smuggler's Pass. May as well pay the imperial tariffs!{^n}{^n}I've heard on good account that the dangers in the mountain deeps are well overblown, and that the exit will spit us out far closer to Homestead than that bandit-ridden pass.{^n}{^n}When I'm swimming in gold up to my neck down in Burrwitch, then they'll all see. They'll all see that Bozeman was right.
 
 
 #Random Burrwitch Notes
-tagLoreObj_BookA01Name=Chthonic Heresy - Page 1
+tagLoreObj_BookA01Name=冥灵异教-第一页
 tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
 
-tagLoreObj_BookA02Name=Chthonic Heresy - Page 2
+tagLoreObj_BookA02Name=冥灵异教-第二页
 tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Chthonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
 
-tagLoreObj_BookA03Name=Chthonic Heresy - Page 3
+tagLoreObj_BookA03Name=冥灵异教-第三页
 tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Chthonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
 
-tagLoreObj_BookA04Name=Chthonic Heresy - Page 4
+tagLoreObj_BookA04Name=冥灵异教-第四页
 tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Chthonian shall become the fiery vengeance of divine retribution. Those that call the Chthonian god shall taste righteous flame. Justice be done.
 
-tagLoreObj_CriminalA01Name=Criminal Records - Page 1
+tagLoreObj_CriminalA01Name=罪行记录-第一页
 tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
 
-tagLoreObj_CriminalA02Name=Criminal Records - Page 2
+tagLoreObj_CriminalA02Name=罪行记录-第二页
 tagLoreObj_CriminalA02Text=Bloody Jack{^n}{^n}Reckless murderer and known worshipper of Solael, the heathen god. Reports have been received of Bloody Jack's signature murders, a carved throat and witch symbols etched into the left breast, appearing increasingly close to Burrwitch. Citizens are advised to avoid traveling alone and to steer clear of forest roads whenever possible.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 400 royal crowns is offered for the successful capture and delivery of Bloody Jack alive.
 
-tagLoreObj_CriminalA03Name=Criminal Records - Page 3
+tagLoreObj_CriminalA03Name=罪行记录-第三页
 tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Chthonic cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
 
-tagLoreObj_BookC01Name=Gildam Arcanum - Page 1
+tagLoreObj_BookC01Name=吉尔达姆秘学社-第一页
 tagLoreObj_BookC01Text=To understand the flows of the Aether, one must first learn to appreciate its inherent risks. The arcane art is not a plaything, nor is it a tool meant to be abused. Countless young arcanists have lost their lives to carelessness and malpractice. Proper control of the Aether requires years of practice under the careful supervision of the Gildam Arcanum, the only formal office sanctioned to instruct and research the art of the arcane. Do not confuse what is lectured here with the teachings of the hypothetical witch gods, a common misconception amongst the uneducated. There are no gods. There is only reality and the science of the arcane.
 
-tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
+tagLoreObj_BookC02Name=吉尔达姆秘学社-第二页
 tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
 
-tagLoreObj_BookD01Name=Origin of the Slith - Page 1
+tagLoreObj_BookD01Name=蛇人的起源-第一页
 tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
 
-tagLoreObj_BookD02Name=Origin of the Slith - Page 2
+tagLoreObj_BookD02Name=蛇人的起源-第二页
 tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
 
-tagLoreObj_BookD03Name=Origin of the Slith - Page 3
+tagLoreObj_BookD03Name=蛇人的起源-第三页
 tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
 
-tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
-tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
+tagLoreObj_VillagerNoteE01Name=警告:格罗布的进攻日益猖獗
+tagLoreObj_VillagerNoteE01codexTitle=警告:格罗布的进攻
 tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
 
 
@@ -694,7 +694,7 @@ tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has rec
 tagLoreObj_OldArkovia_NoteA01Name=Malros Khas' Journal
 tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
 
-tagLoreObj_OldArkovia_NoteB01Name=Passing Judgment
+tagLoreObj_OldArkovia_NoteB01Name=判决
 tagLoreObj_OldArkovia_NoteB01Text=This is to be a record of the passing of the final verdict regarding the practice of necromancy and its prominence in Arkovian society.{^n}{^n}The grand court has reviewed the case of one Olurokk who had willfully and consciously committed the despicable act of raising the deceased form of his neighbor's wife and using her to torture and exploit the victim for personal pleasure and financial gain. Under the weight of undeniable evidence and witness reports, this court had no choice but to sentence the necromancer Olurokk to hanging until dead.{^n}{^n}This crime is but a drop in the well of the sins committed by necromancers in our land. The people have spoken and action must be taken. For this, and countless other crimes, against nature, against the gods and against Arkovia, let it be known that the practice of necromancy, the most vile of the ancient arts, is henceforth forbidden from the lands of Arkovia under the strictest of punishments. Those found ignorant of this proclamation shall be transported, without trial, to the Steps of Torment, where they shall be locked away to the last of their days in the deepest pits of Anguish.
 
 tagLoreObj_OldArkovia_BookA01Name=禁术-第一部分
@@ -703,28 +703,28 @@ tagLoreObj_OldArkovia_BookA01Text=当认为我们没有在听的时候，他们�
 tagLoreObj_OldArkovia_BookA02Name=禁术-第二部分
 tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n}Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
 
-tagLoreObj_OldArkovia_BookA03Name=禁术 - 第三部分
+tagLoreObj_OldArkovia_BookA03Name=禁术-第三部分
 tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
 
 
 #Cronley's Mine Notes
-tagLoreObj_Cronley_NoteA01Name=Wilkins'Note
+tagLoreObj_Cronley_NoteA01Name=威尔金的笔记
 tagLoreObj_Cronley_NoteA01Text=Word going 'round the camp is that the undead finally stopped attacking the walls. Not that I'm complaining, but a man's gotta wonder why. Just the other day, we lost three on the west wall when a bunch of them corpsefiends burst out of the bodies and took everyone by surprise. They was bleeding us dry, with no end in sight to their numbers. Hell, pretty sure I've seen a few of our dead lurking around out there. Now I ain't no general, but seems to me like it was only a matter of time.{^n}{^n}The boss says that we've won, that Old Arkovia belongs to the gang. He's even called in his top lieutenants to join him in the mine for some sorta celebration. Feels too soon to me, but ain't nobody asking what Wilkins thinks.
 
-tagLoreObj_Cronley_NoteA02Name="The Bruiser" Romanov's Note
+tagLoreObj_Cronley_NoteA02Name=“压碎者”罗曼诺夫的笔记
 tagLoreObj_Cronley_NoteA02Text=The boss says I done good when I smashed them rover skulls for hiding their food. Says I'm next in line to join him and his brothers in the new dawn. I've seen what those boys can do with them green crystals in their flesh. They could tear a man in half like a loaf of bread. But I heard them screaming too when Cronley put the crystals in. Sounded worse than the last time he got his hands on a rover woman.{^n}{^n}But a little pain's not about to turn me into some knife-stabbing wimp. Nobody's gonna out-muscle the Bruiser around here!
 
-tagLoreObj_Cronley_NoteA03Name=Bloodstained Note
+tagLoreObj_Cronley_NoteA03Name=染血的笔记
 tagLoreObj_Cronley_NoteA03Text=Third time this pale-skinned duo in robes, a man and a woman, has shown up at the hideout. The boss says to let them through, so I let them through.{^n}{^n}The whole camp's on edge whenever those two show up. Maybe it's their eyes. That unsettling green glow reminds me of the dead ones.{^n}{^n}Or maybe I'm just agitated because the crystals Cronley stuck in my back seem to vibrate whenever the duo's around; like they're ready to rip loose. The voices I hear when I sleep are already enough to make a man tense. The others told me that they hear them too, but none of us can remember what the whispers say. Boss says it will pass though, that it's just a part of ascending into the ranks of his glorious army. This new dawn of his had damn better be worth it.
 
 tagLoreObj_Cronley_NoteA04Name=Exert from the Annals of Arkovia
-tagLoreObj_Cronley_NoteA04codexTitle=Annals of Arkovia
+tagLoreObj_Cronley_NoteA04codexTitle=安克维亚编年史
 tagLoreObj_Cronley_NoteA04Text=It falls upon strange times that a king would abdicate the throne of his own volition. Stranger still is the reason he gave his court. There is no other way to put it. King Rhowan, the third of his line, had been struck by madness. Upon returning from a successful campaign against the barbarian tribes of Agarond's Peak, the King raved about a chance meeting with a weary traveler whom he called Mogdrogen. Rhowan, in his generosity, offered the old man the use of his horse. The man, and here is where the King's tale loses all sense, declined the proposal and, speaking in a low voice that only his Majesty could hear, instead offered Rhowan a warning.{^n}{^n}The old man spurted prophetic lies about the impending collapse of our great nation and the fall of the beacon of the west, Arkovia herself. He implored the King to leave his title, his wealth, his very identity behind. There were some amongst the court who urged Rhowan to see his madness through, greedy heads of Arkovian Houses who saw this tragedy as an opportunity to seize power. The Queen, the shining jewel of Arkovia, wept before her King and begged him to reconsider; but Rhowan was resolute. With a single decree, he shattered the royal line and abandoned his ordained post as King of Arkovia. Word of the King's madness spread quickly among the populace. To my great surprise, some of his subjects followed Rhowan's lead, abandoning their livelihoods to follow their despondent ruler into a life of poverty and lost identity.{^n}{^n}It has been three fortnights since that fateful day. The queen lies dead in her chambers. They say she had died of sorrow, from the loss of her King, but I suspect more clandestine causes. The court has fallen into chaos as the great Houses bicker amongst themselves for the empty throne. With no end in sight to the squabbles and no clear line to the throne, my patron, Laudos Vagra, has called for the formation of an Oligarchy, ruled by the heads of Arkovia's elite.{^n}{^n}No good can come of this. Of that I am certain. These days I cannot, help but wonder if Rhowan's prophecy was a self-fulfilling one. Or perhaps this storm was a longtime coming and we were merely too blind to see it. I fear for Arkovia. I fear for her soul.{^n}{^n}Theodokus Vagra, Scribe of Arkovia
 
-tagLoreObj_Cronley_NoteA05Name=Cronley's Notes - Part 1
+tagLoreObj_Cronley_NoteA05Name=克隆利的笔记-第一部分
 tagLoreObj_Cronley_NoteA05Text=When attacks stopped and the Aetherials sent in their envoys, they knew they had us by the balls. All they had to do was squeeze and any other man would have sung them a tune worthy of the Erulan opera; but they've never contended with Darius Cronley. They came, two of them, humans in robes. Only thing that'd give them away was the eyes. The eyes glowed that sickly aether-green. They offered me a chance to surrender, a chance to live out our lives as vessels and breeders for their growing army. I sent their heads back on spikes. See if those spirits survive that.{^n}{^n}But when they came back again, with new terms, well...then they were speaking my language. I was to be a piece in their grand design, a master of my very own army of aether-empowered humans. All I had to do was to pledge myself to their cause and to plant one of their crystals within the mine. The rest, they said, would be revealed in time.
 
-tagLoreObj_Cronley_NoteA06Name=Cronley's Notes - Part 2
+tagLoreObj_Cronley_NoteA06Name=克隆利的笔记-第二部分
 tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
 
 
@@ -741,7 +741,7 @@ tagLoreObj_HiddenWealth_MapText=Here be written the last will and decree of the 
 tagNPC_GateGuardA01=守门人 - 鲁克 
 
 
-#Merchants and Other Services 商人等npc
+#Merchants and Other Services商人等npc
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -782,13 +782,13 @@ tagStoreTitle_SmithA01=锻造大师
 tagStoreDesc_SmithA01_1={}精湛技艺
 tagStoreDesc_SmithA01_2=安格瑞姆运用他多年的经验打造出夺命的武器和坚不可摧的护甲。
 tagStoreDesc_SmithA01_3= 
-tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一：
+tagStoreDesc_SmithA01_4=锻造的武器、护甲和饰品会被注入以下属性之一:
 
 tagNPC_SmithA02=邓肯
 tagStoreTitle_SmithA02=玄秘铁匠
 tagStoreDesc_SmithA02_1={}玄秘锻造
 tagStoreDesc_SmithA02_2=邓肯运用实验性的技术为武器和护甲注入魔力
 tagStoreDesc_SmithA02_3= 
-tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一：
+tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一:
 
 tagStoreTitle_SmithA03=铁匠

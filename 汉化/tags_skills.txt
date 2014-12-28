@@ -1254,34 +1254,34 @@ tagCompSkillB006Desc=用你的武器猛击，造成重伤并致残目标。
 #Relic Skills
 
 tagRelicSkillB001Name=灾虐
-tagRelicSkillB001Desc=A burst of searing brimstones erupts from you.
+tagRelicSkillB001Desc=你释放出一片灼热的地狱硫磺火爆发。
 
 tagRelicSkillB002Name=快速打击
-tagRelicSkillB002Desc=Begin rapidly attacking in the hopes of landing a few stray blows.
+tagRelicSkillB002Desc=开始快速攻击，有一定几率散乱打击。
 
 tagRelicSkillB003Name=宁静
-tagRelicSkillB003Desc=Overwhelm nearby enemies with your mind.
+tagRelicSkillB003Desc=用你的思想压制敌人。
 
 tagRelicSkillB004Name=寒冰巨浪
-tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice .
+tagRelicSkillB004Desc=通过你的内心输送寒冷之能，使攻击你的敌人有几率触发寒冰巨浪。
 
 tagRelicSkillB005Name=闪电风暴
-tagRelicSkillB005Desc=Summon a storm cloud over the target area, periodically electrocuting enemies caught underneath it.
+tagRelicSkillB005Desc=在目标区域召唤暴风云，周期性的电击被笼罩的敌人。
 
 tagRelicSkillB006Name=火山之怒
-tagRelicSkillB006Desc=Fills you with fiery fury, causing your attacks to ignite enemies.
+tagRelicSkillB006Desc=让你充满烈火般狂怒，使你的攻击能够点燃敌人。
 
 tagRelicSkillB007Name=腐化
-tagRelicSkillB007Desc=Corrupts your blood, causing it to spread a deadly contagion to those that dare strike you.
+tagRelicSkillB007Desc=腐蚀你的血液，它能够使敢于攻击你的敌人感染致命的传染病。
 
 tagRelicSkillB008Name=庇护
-tagRelicSkillB008Desc=A protective barrier forms around you whenever an enemy manages to find a weak point in your defenses.
+tagRelicSkillB008Desc=当敌人想要在你的防御中找到弱点的时候，在你的周围形成一层防护屏障。
 
 tagRelicSkillB009Name=诡诈
-tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillB009Desc=你的狡猾智慧激励了你的队友，更好的预测敌人的行动并造成毁灭性打击。^o此技能需开启以保持生效。
 
 tagRelicSkillB010Name=狂暴
-tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
+tagRelicSkillB010Desc=当造成暴击伤害时进入狂怒状态，确保造成更多的暴击。
 
 tagRelicSkillB011Name=巨魔之怒
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.

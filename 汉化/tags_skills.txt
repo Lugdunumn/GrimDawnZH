@@ -1159,55 +1159,55 @@ tagCompSkillA010Name=死寒光环I
 tagCompSkillA010Desc=以死寒增强你和盟友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA011Name=斩杀 I
-tagCompSkillA011Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
+tagCompSkillA011Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA012Name=斩杀 II
-tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
+tagCompSkillA012Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA013Name=火焰光环
-tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA013Desc=用燃烧烈焰强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA014Name=烈焰冲击 I
-tagCompSkillA014Desc=Launch a ball of incinerating flame at your target.
+tagCompSkillA014Desc=向你的目标发射一枚燃烧火球。
 
 tagCompSkillA015Name=烈焰冲击 II
-tagCompSkillA015Desc=Launch a ball of incinerating flame at your target.
+tagCompSkillA015Desc=向你的目标发射一枚燃烧火球。
 
 tagCompSkillA016Name=寒冰尖刺 I
-tagCompSkillA016Desc=Launch a spike of rock solid ice to impale your enemies.
+tagCompSkillA016Desc=发射一簇岩石般的坚冰来穿刺敌人。
 
 tagCompSkillA017Name=寒冰尖刺 II
-tagCompSkillA017Desc=Launch a spike of rock solid ice to impale your enemies.
+tagCompSkillA017Desc=发射一簇岩石般的坚冰来穿刺敌人。
 
 tagCompSkillA018Name=闪电光环
-tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA018Desc=用闪电能量强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA019Name=雷击 I
-tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
+tagCompSkillA019Desc=用雷霆闪电之力击中你的敌人。
 
 tagCompSkillA020Name=雷击 II
-tagCompSkillA020Desc=Strike at your enemies with the force of a lightning bolt.
+tagCompSkillA020Desc=用雷霆闪电之力击中你的敌人。
 
 tagCompSkillA021Name=剧毒光环
-tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA021Desc=用腐烂剧毒强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA022Name=剧毒炸弹 I
-tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+tagCompSkillA022Desc=发射一枚在目标点爆炸的剧毒炸弹，使你的敌人被毒素包裹。
 
 tagCompSkillA023Name=剧毒炸弹 II
-tagCompSkillA023Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+tagCompSkillA023Desc=发射一枚在目标点爆炸的剧毒炸弹，使你的敌人被毒素包裹。
 
 tagCompSkillA024Name=辐光之盾
-tagCompSkillA024Desc=Imbue your shield against the elements.
+tagCompSkillA024Desc=使你的盾牌附加元素抵抗。
 
 tagCompSkillA025Name=神圣打击
-tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
+tagCompSkillA025Desc=对你的敌人造成能够减弱元素抵抗的毁灭性打击。
 
 tagCompSkillA026Name=盾牌猛击 I
-tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
+tagCompSkillA026Desc=用你的盾牌猛击敌人，可使小型敌人完全失去能力。^o需要一把近战武器。
 
 tagCompSkillA027Name=刺盾
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes. ^o需要一把近战武器。
+tagCompSkillA027Desc=用你的盾牌猛击敌人，用锋利的边缘穿刺他们。 ^o需要一把近战武器。
 
 tagCompSkillA028Name=银之刀锋
 tagCompSkillA028Desc=用武器击打，毁灭冥灵生物。
@@ -1222,31 +1222,31 @@ tagCompSkillA031Name=破甲光环II
 tagCompSkillA031Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
 tagCompSkillA032Name=虚化光环
-tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA032Desc=用虚灵能力强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA033Name=混沌打击
-tagCompSkillA033Desc=Strike at your enemies with the destructive power of the void.
+tagCompSkillA033Desc=用混沌的毁灭之力击打敌人。
 
 tagCompSkillA034Name=盾牌猛击 II
-tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
+tagCompSkillA034Desc=用你的盾牌猛击敌人，可使小型敌人完全失去能力。^o需要一把近战武器。
 
 tagCompSkillB001Name=恶魔吐息
-tagCompSkillB001Desc=Launch a blastwave of unearthly flame at your enemies.
+tagCompSkillB001Desc=向敌人发射一波异世烈焰的冲击。
 
 tagCompSkillB002Name=贝若纳斯之怒
-tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
+tagCompSkillB002Desc=向敌人发出巨兽贝若纳斯的狂怒。当作为默认武器攻击时，贝若纳斯之怒提升你每一次攻击的强度。
 
 tagCompSkillB003Name=银弹飞散
-tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
+tagCompSkillB003Desc=发射一片用来杀死鬼灵生物的镀银爆弹。
 
 tagCompSkillB004Name=德里格的无尽凝视
-tagCompSkillB004Desc=Unleash the infinite gaze of Dreeg around you.
+tagCompSkillB004Desc=在你身上释放德里格的无尽凝视。
 
 tagCompSkillB005Name=索拉尔的火焰
-tagCompSkillB005Desc=Coat your target with the dark flame of Solael.
+tagCompSkillB005Desc=用索拉尔的黑暗之焰覆盖你的敌人。
 
 tagCompSkillB006Name=奥莱隆之力
-tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and crippling the target.
+tagCompSkillB006Desc=用你的武器猛击，造成重伤并致残目标。
 
 
 
@@ -1254,34 +1254,34 @@ tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and cr
 #Relic Skills
 
 tagRelicSkillB001Name=灾虐
-tagRelicSkillB001Desc=A burst of searing brimstones erupts from you.
+tagRelicSkillB001Desc=你释放出一片灼热的地狱硫磺火爆发。
 
 tagRelicSkillB002Name=快速打击
-tagRelicSkillB002Desc=Begin rapidly attacking in the hopes of landing a few stray blows.
+tagRelicSkillB002Desc=开始快速攻击，有一定几率散乱打击。
 
 tagRelicSkillB003Name=宁静
-tagRelicSkillB003Desc=Overwhelm nearby enemies with your mind.
+tagRelicSkillB003Desc=用你的思想压制敌人。
 
 tagRelicSkillB004Name=寒冰巨浪
-tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice .
+tagRelicSkillB004Desc=通过你的内心输送寒冷之能，使攻击你的敌人有几率触发寒冰巨浪。
 
 tagRelicSkillB005Name=闪电风暴
-tagRelicSkillB005Desc=Summon a storm cloud over the target area, periodically electrocuting enemies caught underneath it.
+tagRelicSkillB005Desc=在目标区域召唤暴风云，周期性的电击被笼罩的敌人。
 
 tagRelicSkillB006Name=火山之怒
-tagRelicSkillB006Desc=Fills you with fiery fury, causing your attacks to ignite enemies.
+tagRelicSkillB006Desc=让你充满烈火般狂怒，使你的攻击能够点燃敌人。
 
 tagRelicSkillB007Name=腐化
-tagRelicSkillB007Desc=Corrupts your blood, causing it to spread a deadly contagion to those that dare strike you.
+tagRelicSkillB007Desc=腐蚀你的血液，它能够使敢于攻击你的敌人感染致命的传染病。
 
 tagRelicSkillB008Name=庇护
-tagRelicSkillB008Desc=A protective barrier forms around you whenever an enemy manages to find a weak point in your defenses.
+tagRelicSkillB008Desc=当敌人想要在你的防御中找到弱点的时候，在你的周围形成一层防护屏障。
 
 tagRelicSkillB009Name=诡诈
-tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillB009Desc=你的狡猾智慧激励了你的队友，更好的预测敌人的行动并造成毁灭性打击。^o此技能需开启以保持生效。
 
 tagRelicSkillB010Name=狂暴
-tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
+tagRelicSkillB010Desc=当造成暴击伤害时进入狂怒状态，确保造成更多的暴击。
 
 tagRelicSkillB011Name=巨魔之怒
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.

@@ -582,9 +582,9 @@ tagClass06SkillName02C=突击部队
 tagClass06SkillDescription02C=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
 
 
-tagClass06SkillName07B=Second Wind
+tagClass06SkillName07B=复苏之风
 tagClass06SkillDescription07B=A surge of renewed strength fills your body washing away your wounds and fatigue.
-tagClass06SkillName07C=Celerity
+tagClass06SkillName07C=迅捷
 tagClass06SkillDescription07C=Alive with the fury of battle, adrenaline courses through your veins making you move and attack faster.
 
 #Class07
@@ -1284,43 +1284,42 @@ tagRelicSkillB010Name=狂暴
 tagRelicSkillB010Desc=当造成暴击伤害时进入狂怒状态，确保造成更多的暴击。
 
 tagRelicSkillB011Name=巨魔之怒
-tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
+tagRelicSkillB011Desc=像残忍的巨魔一样发动战斗。当作为默认武器攻击时，巨魔之怒能使你每一击都进入更深层的愤怒，而代价是专注力。^o需要一把近战武器。
 
 tagRelicSkillB012Name=毁伤
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^o这是一项近战双持技能，也会激活双持近战武器的能力。
+tagRelicSkillB012Desc=以三次快速攻击肢解你的目标，造成严重出血。^o这是一项近战双持技能，也会激活双持近战武器的能力。
 
 tagRelicSkillB013Name=齐射
-tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
+tagRelicSkillB013Desc=向目标发动一定数量的子弹。^o这是一项远程双持技能。同时开启双持远程武器的能力。
 
 tagRelicSkillC001Name=制裁之锤
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
+tagRelicSkillC001Desc=向邪恶生物发动公义的审判。^o需要一把双手近战武器。
 
 tagRelicSkillC002Name=移动城堡
 tagRelicSkillC002Desc=坚如磐石，利刃与锐爪几乎无法伤你分毫。^o需要一块盾牌。
 
 tagRelicSkillC003Name=浴血
-tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
-
+tagRelicSkillC003Desc=一项能使你的敌人血流如注的邪恶技能，导致缓慢而痛苦的死亡。^o这是一项近战双持技能。同时开启双持近战武器的能力。
 tagRelicSkillC004Name=勇不可当
-tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
+tagRelicSkillC004Desc=你就像那无坚不摧之力一般，迸出会击倒体型较小人类的冲击。
 
 tagRelicSkillC005Name=恐惧
-tagRelicSkillC005Desc=Instill sheer terror into the hearts of your enemies, eating away at them from within.
+tagRelicSkillC005Desc=将绝对的恐惧灌输进你的敌人心中，由内部侵蚀他们。
 
 tagRelicSkillC006Name=苦痛
-tagRelicSkillC006Desc=Invoke a terrible curse upon any that would dare strike you, causing weakness and intense pain.
+tagRelicSkillC006Desc=对任何敢于攻击你的人造成可怕的诅咒，引起虚弱和极度痛苦。
 
 tagRelicSkillC007Name=噬魂
-tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
+tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰寒他们的血液。
 
 tagRelicSkillC008Name=爆炎
-tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰。^o这是一项引导技能，需要按住以维持。
 
 tagRelicSkillC009Name=召唤风暴魔犬
-tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.
+tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬-源于天堂的可怕野兽。^o同一时间只能召唤一只风暴魔犬。
 
 tagRelicSkillC010Name=死寒光环
-tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillC010Desc=以恐怖阴森的死亡之寒强化你和你附近队友的攻击。^o此技能需要开启以保持生效。
 
 tagRelicSkillC011Name=牺牲
 tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks with your very vitality.
@@ -1336,7 +1335,7 @@ tagRelicSkillC014Name=枯萎
 tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
 
 tagRelicSkillC015Name=先祖的羁绊
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此技能需要开启以保持生效
+tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此技能需要开启以保持生效。
 
 tagRelicSkillD001Name=守护
 tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
@@ -1372,7 +1371,7 @@ tagRelicSkillD011Name=湮灭
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
 
 tagRelicSkillD012Name=杀戮
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a melee dual-wielding technique.
+tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^o这是一项近战双持技能。
 
 tagRelicSkillD013Name=陨石
 tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.

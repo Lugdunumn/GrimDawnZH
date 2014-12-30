@@ -472,18 +472,18 @@ tagClass05SkillName00=奥术师
 tagClass05SkillDescription00=磨炼躯体与意志，方能驾驭原始的魔法力量。
 
 tagClass05SkillName01A=帕内蒂的复制飞弹
-tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
+tagClass05SkillDescription01A=最为杰出的科托西安奥术师帕内蒂一直在致力于改进经典的奥术飞弹。他的成就似乎违反了能量守恒定律，经他改进的飞弹会在击中敌人时将自己复制为多枚飞弹。
 tagClass05SkillName01B=扰动
-tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, causing the projectile to sometimes completely pass through your target.
+tagClass05SkillDescription01B=复制飞弹会扰动敌人的实体，使飞弹有时会穿过敌人。
 tagClass05SkillName01C=超负荷
-tagClass05SkillDescription01C=The air around the Replicating Missile becomes supercharged with static energy, electrocuting any enemies unfortunate enough to come in contact with the projectile.
+tagClass05SkillDescription01C=复制飞弹周围的空气因静电能量产生过载，电击任何靠近飞弹的敌人。
 tagClass05SkillName01D=增殖
-tagClass05SkillDescription01D=A more advanced technique of Replicating Missile perfected by a student of Panetti draws upon the energy of the target itself to spawn even more missiles on impact.
+tagClass05SkillDescription01D=由帕内蒂的一位学生完善的一项复制飞弹的高级技巧，利用施法目标本身的能量复制出更多的奥术飞弹。
 tagClass05SkillName01E=震荡飞弹
-tagClass05SkillDescription01E=Manifests the power of the Replicating Missile into the corporeal realm, causing it to inflict physical as well as metaphysical harm.
+tagClass05SkillDescription01E=在实体国度中展现复制飞弹的能量，同时造成物理和精神伤害。
 
 tagClass05SkillName02A=伊斯坎德拉的元素交换
-tagClass05SkillDescription02A=Iskandra taught her students that the most efficient path of victory was to turn an opponent's own energies against them. Just so, Elemental Exchange causes the weapons of allies to hungrily absorb arcane energy from foes and return it in the form of elemental damage. ^oThis ability must be toggled to maintain its effect.
+tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说化用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素交换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o此技能需开启以保持生效。
 tagClass05SkillName02B=过载
 tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
 tagClass05SkillName02C=元素平衡
@@ -550,12 +550,12 @@ tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manif
 tagClass05SkillName15B=支配
 tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies.
 tagClass05SkillName15C=无尽之力
-tagClass05SkillDescription15C=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and open themselves up fully to the aether. It is these Arcanists that strike fear into the hearts of lesser mortals.
+tagClass05SkillDescription15C=许多奥术师都在对无尽能量的追寻中做出了很多牺牲。其中有一些人无视古老的告诫，将他们自己完全浸淫在虚化力量之中。正是这些奥术师在渺小的人类心中留下了难以磨灭的恐惧。
 
 tagClass05SkillName16A=奥莱克西拉的急速冻结
-tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance.
+tagClass05SkillDescription16A=一位政治斗争的受害者，奥莱克西拉被判处进入黑色军团中服役。于是她之前研究奥术的学院生涯变成了在战场上艰难的求生之路。奥莱克西拉很快把她的学识付诸实际，创造出了一种能将显著范围内的敌人急速冻结的法术。
 tagClass05SkillName16B=绝对零度
-tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving anything caught within the Flash Freeze slowed and debilitated even after the initial effects wear off.
+tagClass05SkillDescription16B=完全吸干周围空气中的热量，使所有接触到的敌人减速和衰弱，即使是在最初的冻结效果已经消失之后。
 
 
 #Class06

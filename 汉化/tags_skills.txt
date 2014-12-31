@@ -1007,34 +1007,34 @@ tagItemSkillC074Name=守护者的意志
 tagItemSkillC074Desc=即使是在死神的爪下，你那顽强的求生意志仍能拯救你的生命。^o需要一块盾牌。
 
 tagItemSkillC075Name=掠夺者的怒火
-tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^o激活双持远程武器的能力。
+tagItemSkillC075Desc=释放一阵注火弹药的齐射。 ^o激活双持远程武器的能力。
 
 tagItemSkillC076Name=掠夺者的审判
-tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^o激活双持远程武器的能力。
+tagItemSkillC076Desc=释放一阵浸寒弹药的齐射。 ^o激活双持远程武器的能力。
 
 tagItemSkillC077Name=惊慌
-tagItemSkillC077Desc=Overwhelm the mind of your enemy with sheer terror.
+tagItemSkillC077Desc=以绝对的恐惧击溃敌人的心理。
 
 tagItemSkillC078Name=呼啸之风
-tagItemSkillC078Desc=Surrounds you with a blistering wind that chills your enemies to the bone.
+tagItemSkillC078Desc=以能让敌人冷到骨头里的呼啸之风环绕于你。
 
 tagItemSkillC079Name=神射手
-tagItemSkillC079Desc=Deadly with a gun, suffices to say even deadlier with two. ^o这是一项远程双持技能，也会激活双持远程武器的能力。
+tagItemSkillC079Desc=手中有一把枪就是致命的，那么可以说有两把枪的话就更加致命了。^o这是一项远程双持技能，也会激活双持远程武器的能力。
 
 tagItemSkillC080Name=噬命新星
-tagItemSkillC080Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
+tagItemSkillC080Desc=激增的坏死能量撕扯附近敌人的生命并转移给你。
 
 tagItemSkillC081Name=虚化飞弹
-tagItemSkillC081Desc=Releases a concentrated burst of aether energies at your foes.
+tagItemSkillC081Desc=向你的敌人释放一团集中的虚化能量。
 
 tagItemSkillC082Name=虚空之火新星
-tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
+tagItemSkillC082Desc=从你身上爆发出大量集中的负能量。
 
 tagItemSkillC083Name=掠夺者的齐射
-tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^o激活双持远程武器的能力。
+tagItemSkillC083Desc=释放一阵注满弹药的奥术齐射。^o激活双持远程武器的能力。
 
 tagItemSkillC084Name=瘴气
-tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
+tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
 
 tagItemSkillC085Name=召唤裂隙之灾
 tagItemSkillC085Desc=从深渊中召唤裂隙魔犬，它将听命于你。^o同时只能召唤一只裂隙魔犬。
@@ -1042,43 +1042,43 @@ tagItemSkillC085PetSkillName01=酸液喷吐
 tagItemSkillC085PetSkillName02=剧毒新星
 
 tagItemSkillC086Name=瘟疫
-tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
+tagItemSkillC086Desc=在你所过之处传播瘟疫与疾病。
 
 tagItemSkillC087Name=惩戒
-tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
+tagItemSkillC087Desc=以盾牌发出的冲击波挑衅敌人。^o需要一块盾牌。
 
 tagItemSkillC088Name=奥术之怒
-tagItemSkillC088Desc=Refusing to submit, you unleash the unbridled potential of the mind.
+tagItemSkillC088Desc=拒不放弃, 你释放出心中放纵的潜能。
 
 tagItemSkillC089Name=火焰风暴
-tagItemSkillC089Desc=Creates a ring of unbearable flame to incinerate your enemies.
+tagItemSkillC089Desc=制造一圈难以承受的烈焰将敌人烧成灰烬。
 
 tagItemSkillC090Name=血瘟疫
-tagItemSkillC090Desc=An abhorrent curse that calls down a virulent plague to spread among your foes.
+tagItemSkillC090Desc=一个能导致传染瘟疫在敌人间传播的憎恶诅咒。
 
 tagItemSkillC091Name=复制飞弹
-tagItemSkillC091Desc=A replicating spell that copies itself upon striking an enemy.
+tagItemSkillC091Desc=一项复制技能，当打击敌人时复制释放。
 
 tagItemSkillM001Name=生命精华
-tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
+tagItemSkillM001Desc=修复创伤使疲惫的英雄恢复生气。
 
 tagItemSkillM002Name=死亡精华
-tagItemSkillM002Desc=Destroys the very essence of your enemies.
+tagItemSkillM002Desc=从其内心摧毁你的敌人。
 
 tagItemSkillM003Name=天启
-tagItemSkillM003Desc=Rains purging hellfire upon your enemies.
+tagItemSkillM003Desc=向敌人释放净化一切的地狱之火。
 
 tagItemSkillM004Name=奥术专注
-tagItemSkillM004Desc=Enter a trance-like state with each attack, multiplying your arcane power.
+tagItemSkillM004Desc=每一击都能进入恍惚状态，获得奥术能力加成。
 
 tagItemSkillM005Name=狂暴
 tagItemSkillM005Desc=精神进入狂暴状态，以牺牲耐久性为代价凶猛地攻击敌人。
 
 tagItemSkillM006Name=野兽召唤
-tagItemSkillM006Desc=Call out to the creatures that heed your will, emboldening them.
+tagItemSkillM006Desc=呼唤可以听从你的意愿的生物并加强他们。
 
 tagItemSkillM007Name=霜冻炸弹
-tagItemSkillM007Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
+tagItemSkillM007Desc=向目标投掷一发霜冻炸弹，将其裹入坚冰。
 
 tagItemSkillM008Name=强化
 tagItemSkillM008Desc=以鲜血为代价强化你的攻击。

@@ -1322,26 +1322,26 @@ tagRelicSkillC010Name=死寒光环
 tagRelicSkillC010Desc=以恐怖阴森的死亡之寒强化你和你附近队友的攻击。^o此技能需要开启以保持生效。
 
 tagRelicSkillC011Name=牺牲
-tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks with your very vitality.
+tagRelicSkillC011Desc=利用你的生机根源的力量使你的攻击受到你顽强生命力的加持。
 
 tagRelicSkillC012Name=热忱
-tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oRequires a melee weapon.
+tagRelicSkillC012Desc=乘胜追击，当造成暴击时额外释放一阵攻击。^o需要一把近战武器。
 
 tagRelicSkillC013Name=荒芜
-tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
-tagRelicSkillC013Desc2=Destroy the earth beneath your feet with destructive static force.
+tagRelicSkillC013Desc=腐化你脚下的大地，使它成为死亡的有毒领域。
+tagRelicSkillC013Desc2=用破坏性的静态力破坏你脚下的大地。
 
 tagRelicSkillC014Name=枯萎
-tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
+tagRelicSkillC014Desc=用一片枯萎之云环绕于你，产生能感染任何接触到的人的无尽疾病。
 
 tagRelicSkillC015Name=先祖的羁绊
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^o此技能需要开启以保持生效。
+tagRelicSkillC015Desc=你的先祖与你的仆从们之间的联系释放了他们以往不可能拥有的内在能力。^o此技能需要开启以保持生效。
 
 tagRelicSkillD001Name=守护
-tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
+tagRelicSkillD001Desc=以圣光关灌注你的盾牌，吸收接下来的攻击，使你免受进一步的伤害。
 
 tagRelicSkillD002Name=诅咒
-tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillD002Desc=以腐蚀毒药和致命疾病灌注你的武器，每一击都能感染你的敌人。^o此技能需要开启以保持生效。
 
 tagRelicSkillD003Name=召唤复仇女神
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.

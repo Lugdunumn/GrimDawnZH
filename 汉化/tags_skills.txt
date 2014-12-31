@@ -456,9 +456,9 @@ tagClass04SkillName13D=无情终章
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 tagClass04SkillName14A=致命策略
-tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oRequires a melee weapon.
+tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器。
 tagClass04SkillName14B=阿玛拉斯塔的爆裂之刃
-tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
+tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀锋，用来伤害到所有邻近的敌人。
 
 tagClass04SkillName15A=剔骨
 tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^o需要一把剑或斧。
@@ -841,28 +841,28 @@ tagItemSkillC020Name=极寒冲击
 tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
 
 tagItemSkillC021Name=雷击
-tagItemSkillC021Desc=Calls forth holy justice from the heavens.
+tagItemSkillC021Desc=召唤来自于天堂的神圣裁决。
 
 tagItemSkillC022Name=连射
-tagItemSkillC022Desc=A trick with the loading mechanism allows for an occasional burst of ammo to be unleashed in rapid succession.
+tagItemSkillC022Desc=一种弹药填装的技巧，使得有时能连续地爆射出大量弹药。
 
 tagItemSkillC023Name=疫病之咬
-tagItemSkillC023Desc=The blade digs into flesh like the foul bite of a rift hound.
+tagItemSkillC023Desc=你的刀锋会像一头裂隙魔犬狠咬敌人一般切割血肉。
 
 tagItemSkillC024Name=连环收割
 tagItemSkillC024Desc=吸取目标的生命力，贪婪地跳跃至周围的目标。
 
 tagItemSkillC025Name=践踏大地
-tagItemSkillC025Desc=The enchanted sole of these boots smashes into the ground, unleashing a shockwave that staggers nearby foes.
+tagItemSkillC025Desc=以具有魔力的鞋子底部践踏大地，施放的能量波将使得敌人步履蹒跚。
 
 tagItemSkillC026Name=复仇
-tagItemSkillC026Desc=A swift jab with your weapon. ^oRequires a melee weapon.
+tagItemSkillC026Desc=使用你的武器造成迅雷一击。^o需要一把近战武器。
 
 tagItemSkillC027Name=能量护盾
-tagItemSkillC027Desc=Raises a protective shield that absorbs incoming physical blows.
+tagItemSkillC027Desc=施放一面护盾来吸收受到的物理伤害。
 
 tagItemSkillC028Name=恐惧
-tagItemSkillC028Desc=Fills the minds of nearby enemies with visions of their own demise, causing the weakminded to flee.
+tagItemSkillC028Desc=将敌人死亡的景象映入他们的脑海之中，不够坚强的敌人会因此而逃走。
 
 tagItemSkillC029Name=狙击
 tagItemSkillC029Desc=以极佳的精准度射出一发无坚不摧的子弹。
@@ -877,16 +877,16 @@ tagItemSkillC032Name=自制药水
 tagItemSkillC032Desc=痛饮一杯，病痛全消。
 
 tagItemSkillC033Name=速攻
-tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.^o需要单手枪械。
+tagItemSkillC033Desc=掏出一把可靠的左轮手枪，手指轻轻扣动扳机，发出精准的一击。^o需要单手枪械。
 
 tagItemSkillC034Name=中断
-tagItemSkillC034Desc=The immense speed of these boots requires complete focus on every step taken. Even the slightest distraction could result in a misstep.
+tagItemSkillC034Desc=这种迅如疾风的靴子穿起来每走一步都要全神贯注。即使是轻微的分神也会使人失足。
 
 tagItemSkillC035Name=扭曲时空
-tagItemSkillC035Desc=Tear a warp in time itself at the location of your attacker.
+tagItemSkillC035Desc=在敌人所在之处扭曲时间本身。
 
 tagItemSkillC036Name=杀意
-tagItemSkillC036Desc=Enter a dangerous state of mind that leaves little room for doubt and second thoughts.
+tagItemSkillC036Desc=进入一种危险的精神状态，不再迟疑，不再慎重思考。
 
 tagItemSkillC037Name=黏液之球
 tagItemSkillC037Desc=Hurl a sticky projectile of disease and slime, immobilizing and slowing your enemies.
@@ -907,9 +907,9 @@ tagItemSkillC042Name=Add a Notch
 tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway?
 
 tagItemSkillC043Name=不熄烈焰之环
-tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC043Desc=沐浴在能够将周围一切焚烧成灰的烈焰之中，而你本身却能毫发无损。^o此技能需要开启以保持生效。
 tagItemSkillC043NameB=不熄烈焰之环
-tagItemSkillC043DescB=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed.
+tagItemSkillC043DescB=沐浴在能够将周围一切焚烧成灰的烈焰之中，而你本身却能毫发无损。
 
 tagItemSkillC044Name=摧心诅咒
 tagItemSkillC044Desc=让人心烦意乱的咒语使你的敌人反映迟钝并夺取他们的生气。
@@ -927,36 +927,36 @@ tagItemSkillC048Name=治疗之风
 tagItemSkillC048Desc=召唤永恒之春的疾风来修复你的伤口。
 
 tagItemSkillC049Name=太阳黑子
-tagItemSkillC049Desc=Blast your target with a heavenly ray of searing flames.
+tagItemSkillC049Desc=使用一道炽烈的天堂火光轰击你的敌人。
 
 tagItemSkillC050Name=巫妖守卫
-tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer from lethal harm.
+tagItemSkillC050Desc=在危难之时，巫妖守卫会保护它的持有者免遭致命的伤害。
 
 tagItemSkillC051Name=召唤奥格纳佩什的亡魂
-tagItemSkillC051Desc=Channel the dark writings of the Grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
+tagItemSkillC051Desc=施放奥格纳佩什的魔法书中记载的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。
 tagItemSkillC051Pet01=盾牌守护
-tagItemSkillC051Pet01Desc=The Revenant wards off nearby allies against crowd control and bolsters their armor and retaliation.
+tagItemSkillC051Pet01Desc=亡魂帮助周围的友军抵抗群体控制效果，并且强化他们的护甲与反击。
 
 tagItemSkillC052Name=曼海尔的祝福
-tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC052Desc=以曼海尔那强大的神圣咒语祝福附近所有的友军。^o此技能需要开启以保持生效。
 
 tagItemSkillC053Name=抵死
-tagItemSkillC053Desc=Deny death's advances when its call is strongest.
+tagItemSkillC053Desc=在死意最为强烈的时候，抵抗住它的到来。
 
 tagItemSkillC054Name=纽拉姆·辛的毒咒
 tagItemSkillC054Desc=远古魔咒的力量能将目标困于冰牢之中。
 
 tagItemSkillC055Name=恶狼之力
-tagItemSkillC055Desc=Embody the might and fury of the great white wolf.
+tagItemSkillC055Desc=化身为狼神，拥有它的力量与怒意。
 
 tagItemSkillC056Name=先祖召唤
-tagItemSkillC056Desc=Call forth an ancestral spirit to revitalize you.
+tagItemSkillC056Desc=召唤先祖的灵魂来使你重获活力。
 
 tagItemSkillC057Name=悲痛
 tagItemSkillC057Desc=The cursed chains torment you with visions of your own demise.
 
 tagItemSkillC058Name=战地医师
-tagItemSkillC058Desc=Use established medical techniques to mend critical wounds in the heat of battle.
+tagItemSkillC058Desc=利用现有的医疗技术在酣战中治疗严重的创伤。
 
 tagItemSkillC059Name=灵魂之井
 tagItemSkillC059Desc=Tear open a rift to the beyond, unleashing a well of restless spirits that will tear at any enemy that dares enter it.
@@ -977,40 +977,40 @@ tagItemSkillC064Name=凝视弱点
 tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillC065Name=疯狂
-tagItemSkillC065Desc=Unleash the spirit of madness from within the mask, destroying the minds of nearby enemies.
+tagItemSkillC065Desc=解放面具中疯狂的灵魂，摧毁附近敌人的心智。
 
 tagItemSkillC066Name=诛邪除恶
-tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oRequires a melee weapon.
+tagItemSkillC066Desc=以天谴之力荡涤邪恶，发出一记重击。^o需要一把近战武器。
 
 tagItemSkillC067Name=海啸
-tagItemSkillC067Desc=Unleash a torrent of cascading water at your enemies, a technique mastered by the foul slith.
+tagItemSkillC067Desc=向敌人施放出一道激流，邪恶的蛇人掌握着这种法术。
 
 tagItemSkillC068Name=地震
-tagItemSkillC068Desc=Create a fissure at the target area, slowing and stunning any enemies caught within it.
+tagItemSkillC068Desc=撕裂目标区域的大地，造成眩晕和加速效果。
 
 tagItemSkillC069Name=狂热
-tagItemSkillC069Desc=Enter a state of fanatical frenzy, tearing at your enemies with ruthless resolve.
+tagItemSkillC069Desc=进入一种狂热无度的状态，无情地撕裂你的敌人。
 
 tagItemSkillC070Name=混沌召唤
-tagItemSkillC070Desc=Invoke the dark powers, placing a minion of Ch'thon under your devious command.
+tagItemSkillC070Desc=吟唱黑暗的法术，召唤一只冥神的仆役到你的麾下。
 
 tagItemSkillC071Name=外交策略
-tagItemSkillC071Desc=Your voice carries with it the command of kings, few can withstand its power.
+tagItemSkillC071Desc=你的话语包含的帝王的意志，几乎没有人能抵抗住这种力量。
 
 tagItemSkillC072Name=曼海尔之触
-tagItemSkillC072Desc=The devout of Menhir find their faith to be their most formidable shield in times of grave danger.
+tagItemSkillC072Desc=曼海尔的信徒们发现，在最危难的时刻，他们的信仰才是最为坚强的护盾。
 
 tagItemSkillC073Name=心灵控制
-tagItemSkillC073Desc=Mesmerizes the target, making them confuse friend with foe.
+tagItemSkillC073Desc=催眠目标，使他们不分敌我。
 
 tagItemSkillC074Name=守护者的意志
-tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oRequires a shield.
+tagItemSkillC074Desc=即使是在死神的爪下，你那顽强的求生意志仍能拯救你的生命。^o需要一块盾牌。
 
 tagItemSkillC075Name=掠夺者的怒火
-tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^o激活双持远程武器的能力。
 
 tagItemSkillC076Name=掠夺者的审判
-tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^o激活双持远程武器的能力。
 
 tagItemSkillC077Name=惊慌
 tagItemSkillC077Desc=Overwhelm the mind of your enemy with sheer terror.
@@ -1019,7 +1019,7 @@ tagItemSkillC078Name=呼啸之风
 tagItemSkillC078Desc=Surrounds you with a blistering wind that chills your enemies to the bone.
 
 tagItemSkillC079Name=神射手
-tagItemSkillC079Desc=Deadly with a gun, suffices to say even deadlier with two. ^oThis is a ranged dual-wielding bonus. Also enables the ability to dual wield ranged weapons.
+tagItemSkillC079Desc=Deadly with a gun, suffices to say even deadlier with two. ^o这是一项远程双持技能，也会激活双持远程武器的能力。
 
 tagItemSkillC080Name=噬命新星
 tagItemSkillC080Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
@@ -1031,7 +1031,7 @@ tagItemSkillC082Name=虚空之火新星
 tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
 
 tagItemSkillC083Name=掠夺者的齐射
-tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^o激活双持远程武器的能力。
 
 tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.

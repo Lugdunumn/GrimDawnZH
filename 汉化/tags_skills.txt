@@ -953,28 +953,28 @@ tagItemSkillC056Name=先祖召唤
 tagItemSkillC056Desc=召唤先祖的灵魂来使你重获活力。
 
 tagItemSkillC057Name=悲痛
-tagItemSkillC057Desc=The cursed chains torment you with visions of your own demise.
+tagItemSkillC057Desc=诅咒的枷锁以你自身灭亡的景象折磨着你。
 
 tagItemSkillC058Name=战地医师
 tagItemSkillC058Desc=利用现有的医疗技术在酣战中治疗严重的创伤。
 
 tagItemSkillC059Name=灵魂之井
-tagItemSkillC059Desc=Tear open a rift to the beyond, unleashing a well of restless spirits that will tear at any enemy that dares enter it.
+tagItemSkillC059Desc=撕开与来世间的裂缝，释放不安的灵魂之井撕扯任何敢于进入的敌人。
 
 tagItemSkillC060Name=爆炎
-tagItemSkillC060Desc=Create a burst of hellish flames around you, incinerating nearby enemies.
+tagItemSkillC060Desc=在周围制造一阵熊熊的地狱烈焰，将附近敌人烧成灰烬。
 
 tagItemSkillC061Name=毒蛇猛击
-tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oRequires a melee weapon.
+tagItemSkillC061Desc=向毒蛇一样猛地袭击敌人，向目标注入致命的毒液。^o需要一把近战武器。
 
 tagItemSkillC062Name=击倒
-tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oRequires a melee weapon.
+tagItemSkillC062Desc=以快速精确的一击将你的对手清出战斗。^o需要一把近战武器。
 
 tagItemSkillC063Name=棱光护盾
-tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
+tagItemSkillC063Desc=发动护腕之上的符文刻印，在周围制造一面保护盾。
 
 tagItemSkillC064Name=凝视弱点
-tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC064Desc=以你的新眼凝视敌人以察觉他们每一个弱点并可以将其转告于你的队友。^o此技能需要开启以保持生效。
 
 tagItemSkillC065Name=疯狂
 tagItemSkillC065Desc=解放面具中疯狂的灵魂，摧毁附近敌人的心智。

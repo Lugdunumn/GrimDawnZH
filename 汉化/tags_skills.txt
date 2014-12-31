@@ -1344,58 +1344,58 @@ tagRelicSkillD002Name=诅咒
 tagRelicSkillD002Desc=以腐蚀毒药和致命疾病灌注你的武器，每一击都能感染你的敌人。^o此技能需要开启以保持生效。
 
 tagRelicSkillD003Name=召唤复仇女神
-tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
+tagRelicSkillD003Desc=召唤复仇女神-暗影之半神和黑夜狩猎之王。^o你在同一时间只能召唤一个复仇女神的显影。
 
 tagRelicSkillD004Name=堡垒
-tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
+tagRelicSkillD004Desc=使你和你的队友的防御成为一个移动的要塞堡垒。^o需要一块盾牌。此技能需要开启以保持生效。
 
 tagRelicSkillD005Name=风暴召唤者光环
-tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillD005Desc=将雷电风暴之力赋予你和你的队友。^o此技能需要开启以保持生效。
 
 tagRelicSkillD006Name=清算
-tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
+tagRelicSkillD006Desc=凶猛对攻击你的人发动清算使他们轻易受到反击的伤害。
 
 tagRelicSkillD007Name=天灾打击
-tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
+tagRelicSkillD007Desc=对你的敌人造成令人胆寒的打击，以死亡之寒削弱他们的信念，将为你返回部分生命力。^o需要一把近战武器。
 
 tagRelicSkillD008Name=火焰冲撞
-tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
+tagRelicSkillD008Desc=发动一波撕裂天空的地狱之火袭击你的敌人。
 
 tagRelicSkillD009Name=坏死
-tagRelicSkillD009Desc=Invoke a debilitating curse upon your enemies, causing their flesh to rot and their senses to slow.
+tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒，使他们肉体腐坏意识缓慢。
 
 tagRelicSkillD010Name=召唤血肉巨人
-tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agrivix's old techniques, summoning a Flesh Hulk to do your bidding.
+tagRelicSkillD010Desc=完成对奥术师阿戈里维克斯的禁忌仪式的再现，召唤血肉巨人使其听命于你。
 
 tagRelicSkillD011Name=湮灭
-tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
+tagRelicSkillD011Desc=对你的敌人发动混沌的纯粹毁灭之力。
 
 tagRelicSkillD012Name=杀戮
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^o这是一项近战双持技能。
+tagRelicSkillD012Desc=你造成的杀戮与毁坏越多，就会变得越强力。 ^o这是一项近战双持技能。
 
 tagRelicSkillD013Name=陨石
-tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
+tagRelicSkillD013Desc=穿透幽冥与人间的脆弱屏障，召唤大规模的燃烧陨石砸向你的敌人。
 
 tagRelicSkillD014Name=复仇
-tagRelicSkillD014Desc=Unleash the combined energy of the blows absorbed by your shield in one devastating shockwave.
+tagRelicSkillD014Desc=释放你的盾牌吸收的所有能量形成毁灭性的冲击波。
 
 tagRelicSkillD015Name=虫群之心
-tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth a Swarmling to your aid.
+tagRelicSkillD015Desc=你的无尽抗争中有节奏的步调将召唤虫群协助你。
 
 tagRelicSkillD016Name=屠杀
-tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
+tagRelicSkillD016Desc=对敢于攻击他选中的仆从之人释放索拉尔之怒。
 
 tagRelicSkillD017Name=德里格的痛苦尖刺
-tagRelicSkillD017Desc=Unleash a ring of Dreeg's poisonous spines upon your unsuspecting foes, infecting them with the great one's blood.
+tagRelicSkillD017Desc=向毫无戒备的敌人释放一圈德里格的剧毒尖刺，以这位伟大的神灵的血液感染他们。
 
 tagRelicSkillD018Name=狂热献身
-tagRelicSkillD018Desc=Seeing their master injured drives your minions into a vicious frenzy.
+tagRelicSkillD018Desc=见到他们的主人受到伤害，你的仆从会陷入邪恶的疯狂之中。
 
 tagRelicSkillD019Name=奥莱隆之怒
-tagRelicSkillD019Desc=Become empowered with the power of the war god's blood, unleashing his wrath upon nearby enemies.
+tagRelicSkillD019Desc=掌握战争之神的血液之力，向附近敌人倾泻他的愤怒。
 
 tagRelicSkillD020Name=曼海尔的壁垒
-tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oRequires a shield.
+tagRelicSkillD020Desc=掌握曼海尔的守护之灵，使你和你的队友抵挡住物理伤害。^o需要一块盾牌。
 
 
 

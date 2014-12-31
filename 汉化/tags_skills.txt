@@ -1300,6 +1300,7 @@ tagRelicSkillC002Desc=坚如磐石，利刃与锐爪几乎无法伤你分毫。^
 
 tagRelicSkillC003Name=浴血
 tagRelicSkillC003Desc=一项能使你的敌人血流如注的邪恶技能，导致缓慢而痛苦的死亡。^o这是一项近战双持技能。同时开启双持近战武器的能力。
+
 tagRelicSkillC004Name=勇不可当
 tagRelicSkillC004Desc=你就像那无坚不摧之力一般，迸出会击倒体型较小人类的冲击。
 

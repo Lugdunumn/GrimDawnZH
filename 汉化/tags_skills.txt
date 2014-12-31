@@ -563,12 +563,12 @@ tagClass05SkillDescription16B=完全吸干周围空气中的热量，使所有�
 tagClass06SkillName02B=元素平衡
 tagClass06SkillDescription02B=Strike a finely-tuned balance within your incantation, attuning your weapons to the opposing forces of ice and fire.
 
-tagClass06SkillName00=vigilante义 勇
+tagClass06SkillName00=义勇
 tagClass06SkillDescription00=Training in the field to take down the toughest bounties, and all who stand on the path to your quarry.
 
-tagClass06SkillName01A=Bulwark
+tagClass06SkillName01A=保障
 tagClass06SkillDescription01A=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01B=Honor Guard
+tagClass06SkillName01B=仪仗队
 tagClass06SkillDescription01B=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
 tagClass06SkillName01C=最后防线
 tagClass06SkillDescription01C=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
@@ -631,7 +631,7 @@ xxxtagClass05SkillName01A=邪恶毒剂
 xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
 
 xxxtagClass05SkillName02A=涂毒
-xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
+xxxtagClass05SkillDescription02A=将你的武器涂满堕落酿造之油。
 
 #ItemSkills
 
@@ -657,7 +657,7 @@ tagItemSkillA006A=浸毒武器
 tagItemSkillDescA006A=为武器涂上一层致命的毒药。
 
 tagItemSkillC001Name=大法官的审判
-tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
+tagItemSkillC001Description=这把剑的剑刃曾作为一个金属饰物，悬挂在一名将切掉他认定的亵渎者的舌头作为“审查”手段而闻名的残忍法官的办公室里。被印上了那些惨状的灵魂记忆，这把武器同样会沉默你的敌人。
 
 tagItemSkillA007Name=专注
 tagItemSkillA007Desc=专注于战斗之中，所有攻击的速度都得到提升。
@@ -687,37 +687,37 @@ tagItemSkillB004Name=闪电链
 tagItemSkillB004Desc=以能在周围敌人间跳跃的闪电打击目标单位。
 
 tagItemSkillA006Name=闪电新星
-tagItemSkillA006Desc=Retaliates with a blast of lightning energy, damaging all nearby enemies.
+tagItemSkillA006Desc=以一阵闪电能量回击，对附近所有敌人造成伤害。
 
 tagItemSkillB005Name=剧毒新星
-tagItemSkillB005Desc=Retaliates with a blast of poisonous fumes, poisoning all nearby enemies.
+tagItemSkillB005Desc=以一阵剧毒烟雾回击，使附近所有敌人中毒。
 
 tagItemSkillB006Name=出血
-tagItemSkillB006Desc=Wounds the target, causing bleeding and increased susceptability to bleed damage.
+tagItemSkillB006Desc=使目标受到创伤，引起出血并加成受到的流血伤害。
 
 tagItemSkillB007Name=冰碎
-tagItemSkillB007Desc=Releases a cone of ice shards at the target.
+tagItemSkillB007Desc=向目标释放锥形的寒冰裂片。
 
 tagItemSkillB008Name=战吼
-tagItemSkillB008Desc=Embolden nearby allies with a mighty roar.
+tagItemSkillB008Desc=以威猛的咆哮激励队友。
 
 tagItemSkillB009Name=寒冰尖刺
-tagItemSkillB009Desc=Launch a spike of rock solid ice to impale your enemies.
+tagItemSkillB009Desc=发射一簇岩石般的坚冰来穿刺敌人。
 
 tagItemSkillB010Name=撕裂大地
-tagItemSkillB010Desc=Unleash a wave of seismic energy towards your enemies.
+tagItemSkillB010Desc=向你的敌人释放一波地震之能。
 
 tagItemSkillB011Name=治疗
-tagItemSkillB011Desc=A soothing power seals your wounds.
+tagItemSkillB011Desc=一种平静的能量封闭你的伤口。
 
 tagItemSkillB012Name=地震波
-tagItemSkillB012Desc=A seismic force erupts around you, damaging and knocking down nearby foes.
+tagItemSkillB012Desc=一阵地震之能从你周围喷发而出，伤害并击倒附近敌人。
 
 tagItemSkillB013Name=奥术冲击
-tagItemSkillB013Desc=A surge of arcane energies erupts from you, damaging all nearby enemies.
+tagItemSkillB013Desc=从你身上爆发出一股奥术能量，对附近所有敌人造成伤害。
 
 tagItemSkillB014Name=地之守护
-tagItemSkillB014Desc=Embrace the protective essence of the earth, raising armor and regeneration.
+tagItemSkillB014Desc=拥抱大地的守护本质，提高护甲和生命回复。
 
 tagItemSkillB015Name=激怒
 tagItemSkillB015Desc=Throws you into a berserker-like rage, causing you to attack faster and with greater ferocity, but also make you more susceptible to attacks.
@@ -779,66 +779,66 @@ tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
 
 tagItemSkillC003Name=激怒
-tagItemSkillC003Desc=Throws the target into a berserker-like rage, causing it to deal more damage, but also make it more susceptible to attacks.
+tagItemSkillC003Desc=另目标如狂战士般陷入狂怒，使其造成更高伤害，不过也使其易受攻击。
 
 tagItemSkillC004Name=坚定守卫
-tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat.
+tagItemSkillC004Desc=召唤具有强力防御与高威胁的守护神。
 
 tagItemSkillC004PetSkill01=嘲讽之吼
-tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby enemies.
+tagItemSkillC004PetSkill01Desc=守护神发起挑战怒吼，嘲讽附近的敌人。
 
 tagItemSkillC004PetSkill02=基本属性
 
 tagItemSkillC005Name=鲁莽守卫
-tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
+tagItemSkillC005Desc=召唤具有强力攻击的守护神。
 
 tagItemSkillC005PetSkill01=狂乱之吼
-tagItemSkillC005PetSkill01Desc=The guardian roars, emboldening nearby allies.
+tagItemSkillC005PetSkill01Desc=守护神的怒吼，激励你的队友。
 
 tagItemSkillC006Name=腐蚀瘟疫
-tagItemSkillC006Desc=Unleashes a powerful contagion among your enemies that eats away at armor and spreads rapidly.
+tagItemSkillC006Desc=在你的敌人之间发动一场强力的侵蚀护甲并迅速传播的传染病。
 
 tagItemSkillC007Name=碎骨瘟疫
-tagItemSkillC007Desc=Unleashes a powerful contagion among your enemies that devours bones and spreads rapidly.
+tagItemSkillC007Desc=在你的敌人之间发动一场强力的吞噬骨头并迅速传播的传染病。
 
 tagItemSkillC008Name=碎魂瘟疫
-tagItemSkillC008Desc=Unleashes a powerful contagion among your enemies that saps the spirit and spreads rapidly.
+tagItemSkillC008Desc=在你的敌人之间发动一场强力的衰竭精神力并迅速传播的传染病。
 
 tagItemSkillC009Name=噬命瘟疫
-tagItemSkillC009Desc=Unleashes a powerful contagion among your enemies that saps vitality and spreads rapidly.
+tagItemSkillC009Desc=在你的敌人之间发动一场强力的衰竭生命力并迅速传播的传染病。
 
 tagItemSkillC010Name=恐惧瘟疫
-tagItemSkillC010Desc=Unleashes a powerful contagion among your enemies that incites fear and spreads rapidly.
+tagItemSkillC010Desc=在你的敌人之间发动一场强力的引起恐惧并迅速传播的传染病。
 
 tagItemSkillC011Name=疲惫瘟疫
-tagItemSkillC011Desc=Unleashes a powerful contagion among your enemies that causes fatigue and spreads rapidly.
+tagItemSkillC011Desc=在你的敌人之间发动一场强力的引发疲劳并迅速传播的传染病。
 
 tagItemSkillC012Name=腐坏瘟疫
-tagItemSkillC012Desc=Unleashes a powerful contagion among your enemies that infects with toxins and spreads rapidly.
+tagItemSkillC012Desc=在你的敌人之间发动一场强力的感染毒素并迅速传播的传染病。
 
 tagItemSkillC013Name=腐化瘟疫
-tagItemSkillC013Desc=Unleashes a powerful contagion among your enemies that creates dissent and spreads rapidly.
+tagItemSkillC013Desc=在你的敌人之间发动一场强力的动摇信仰并迅速传播的传染病。
 
 tagItemSkillC014Name=支配
-tagItemSkillC014Desc=Overpowers the mind of the target, forcing it to fight for you for a period of time.
+tagItemSkillC014Desc=击溃目标的心理防线，迫使其在一段时间内为你战斗。
 
 tagItemSkillC015Name=裂肠
-tagItemSkillC015Desc=Hurl a clump of jagged shrapnel at nearby enemies.
+tagItemSkillC015Desc=向附近敌人投掷一丛锯齿状的碎片。
 
 tagItemSkillC016Name=火山喷发
-tagItemSkillC016Desc=Unleash a burst of molten fragments at nearby enemies.
+tagItemSkillC016Desc=向附近敌人释放一片熔岩。
 
 tagItemSkillC017Name=静电爆发
-tagItemSkillC017Desc=Unleash a burst of electric bolts at nearby enemies.
+tagItemSkillC017Desc=向附近敌人释放一片闪电霹雳。
 
 tagItemSkillC018Name=钩网
-tagItemSkillC018Desc=Capture your prey with a net that ensnares and constricts the target.
+tagItemSkillC018Desc=用一张网住并紧束目标的网捕获你的猎物。
 
 tagItemSkillC019Name=喷火
-tagItemSkillC019Desc=Unleash a burst of fiery death in a line.
+tagItemSkillC019Desc=在一条线上释放致死的火焰。
 
 tagItemSkillC020Name=极寒冲击
-tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
+tagItemSkillC020Desc=投掷一枚能够坚实的冻结敌人的充满巨大冰冷之能的爆炸冲击。
 
 tagItemSkillC021Name=雷击
 tagItemSkillC021Desc=召唤来自于天堂的神圣裁决。

@@ -889,22 +889,22 @@ tagItemSkillC036Name=杀意
 tagItemSkillC036Desc=进入一种危险的精神状态，不再迟疑，不再慎重思考。
 
 tagItemSkillC037Name=黏液之球
-tagItemSkillC037Desc=Hurl a sticky projectile of disease and slime, immobilizing and slowing your enemies.
+tagItemSkillC037Desc=投掷一枚粘液和烂泥组成的黏性弹药，黏住并缓慢敌人。
 
 tagItemSkillC038Name=冰风
-tagItemSkillC038Desc=Unleash a burst of chilling spines that pierce through armor and freeze flesh.
+tagItemSkillC038Desc=发动一片令人胆寒的刺，穿透护甲并冻僵人体。
 
 tagItemSkillC039Name=震荡炸弹
-tagItemSkillC039Desc=Hurls a concussive bomb that leaves your target in a stunned daze.
+tagItemSkillC039Desc=投掷一枚震荡炸弹使你的目标处于不知所措的迷乱。
 
 tagItemSkillC040Name=抗凝血标枪
-tagItemSkillC040Desc=Fire a dart of anti-clotting chemicals that prevent wounds from healing, inducing heavy bleeding.
+tagItemSkillC040Desc=发射一发能够阻止伤口愈合的抗凝血药物的标枪，引发严重出血。
 
 tagItemSkillC041Name=幽魂波
-tagItemSkillC041Desc=Unleash a wave of angry spirits to drain the life out of your enemies.
+tagItemSkillC041Desc=释放一波愤怒幽魂的无尽之浪使你的敌人流失生命。
 
-tagItemSkillC042Name=Add a Notch
-tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway?
+tagItemSkillC042Name=增等
+tagItemSkillC042Desc=在想象出的许许多多之上再加个等级，不过又有谁在数呢？
 
 tagItemSkillC043Name=不熄烈焰之环
 tagItemSkillC043Desc=沐浴在能够将周围一切焚烧成灰的烈焰之中，而你本身却能毫发无损。^o此技能需要开启以保持生效。

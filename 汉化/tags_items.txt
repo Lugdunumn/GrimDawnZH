@@ -2946,13 +2946,13 @@ tagSuffixB044_Sh_A=冰河之
 
 tagAutoSkillCondition01=(生命过低时有{%d0}%的几率施放该技能)
 tagAutoSkillCondition02=(能量过低时有{%d0}%的几率施放该技能)
-tagAutoSkillCondition03=(受到攻击有{%d0}%的几率施放该技能)
-tagAutoSkillCondition04=(受到近战攻击有{%d0}%的几率施放该技能)
-tagAutoSkillCondition05=(受到远程攻击有{%d0}%的几率施放该技能)
+tagAutoSkillCondition03=(受到攻击时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition04=(受到近战攻击时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition05=(受到远程攻击时有{%d0}%的几率施放该技能)
 tagAutoSkillCondition06=(施放增益效果有{%d0}%的几率施放该技能)
-tagAutoSkillCondition07=(攻击时有{%d0}%的几率施放该技能该技能)
+tagAutoSkillCondition07=(攻击时有{%d0}%的几率施放该技能)
 tagAutoSkillCondition08=(装备时即生效)
-tagAutoSkillCondition09=(遭到暴击伤害时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition09=(受到暴击伤害时有{%d0}%的几率施放该技能)
 tagAutoSkillCondition10=(造成暴击时有{%d0}%的几率施放该技能)
 tagAutoSkillCondition11=(格挡时有{%d0}%的几率施放该技能)
 

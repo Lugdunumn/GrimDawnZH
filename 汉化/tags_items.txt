@@ -2944,17 +2944,17 @@ tagSuffixB044_Sh_A=冰河之
 
 #ItemSkills物品技能
 
-tagAutoSkillCondition01=({%d0}%的几率在生命过低时施放)
-tagAutoSkillCondition02=({%d0}%的几率在能量过低时施放)
-tagAutoSkillCondition03=({%d0}%的几率在攻击时施放)
-tagAutoSkillCondition04=({%d0}%的几率在受到物理攻击时施放)
-tagAutoSkillCondition05=({%d0}%的几率在受到远程攻击时施放)
-tagAutoSkillCondition06=({%d0}%的几率在施放增益效果时施放)
-tagAutoSkillCondition07=({%d0}%的几率在攻击时施放)
-tagAutoSkillCondition08=(装备时生效)
-tagAutoSkillCondition09=({%d0}%的几率在受到致命伤害时施放)
-tagAutoSkillCondition10=({%d0}%的几率在致命攻击时施放)
-tagAutoSkillCondition11=({%d0}%的几率在格挡时施放)
+tagAutoSkillCondition01=(生命过低时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition02=(能量过低时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition03=(受到攻击有{%d0}%的几率施放该技能)
+tagAutoSkillCondition04=(受到近战攻击有{%d0}%的几率施放该技能)
+tagAutoSkillCondition05=(受到远程攻击有{%d0}%的几率施放该技能)
+tagAutoSkillCondition06=(施放增益效果有{%d0}%的几率施放该技能)
+tagAutoSkillCondition07=(攻击时有{%d0}%的几率施放该技能该技能)
+tagAutoSkillCondition08=(装备时即生效)
+tagAutoSkillCondition09=(遭到暴击伤害时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition10=(造成暴击时有{%d0}%的几率施放该技能)
+tagAutoSkillCondition11=(格挡时有{%d0}%的几率施放该技能)
 
 
 #LootChests宝箱

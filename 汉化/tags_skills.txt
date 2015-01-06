@@ -720,16 +720,16 @@ tagItemSkillB014Name=地之守护
 tagItemSkillB014Desc=拥抱大地的守护本质，提高护甲和生命回复。
 
 tagItemSkillB015Name=激怒
-tagItemSkillB015Desc=Throws you into a berserker-like rage, causing you to attack faster and with greater ferocity, but also make you more susceptible to attacks.
+tagItemSkillB015Desc=进入狂战士般的暴怒状态，你将更凶狠地快速攻击敌人，但与此同时也将降低防御能力。
 
 tagItemSkillB016Name=洞悉
-tagItemSkillB016Desc=Enter a trance of greater understanding, channeling arcane forces through your flesh.
+tagItemSkillB016Desc=凝神入定，以你的血肉之躯引导奥术力量。
 
 tagItemSkillB017Name=邪恶毒剂
-tagItemSkillB017Desc=Launches an exploding concoction of corrosive fluid.
+tagItemSkillB017Desc=施放具有爆炸性的腐蚀性液体混合物。
 
 tagItemSkillB018Name=魔力灌注
-tagItemSkillB018Desc=A soothing mist envelops you, clearing your mind.
+tagItemSkillB018Desc=魔力包裹你的全身，能够凝神醒脑。
 
 tagItemSkillB019Name=扎尔泽兰的烈焰
 tagItemSkillB019Desc=对异教徒施放炽烈的爆炎。
@@ -738,45 +738,45 @@ tagItemSkillB020Name=罗德拉西斯之触
 tagItemSkillB020Desc=对目标投掷一枚寒冷的投射物，用冰将其禁锢。
 
 tagItemSkillB021Name=寒冰守护
-tagItemSkillB021Desc=Launches a volatile chunk of ice at those who manage to find a weak point in your defenses, freezing them solid.
+tagItemSkillB021Desc=向能够发现你的防御薄弱之处的敌人施放出冰块，将他们封冻得严严实实。
 
 tagItemSkillB022Name=战斗暴怒
 tagItemSkillB022Desc=进入随时准备战斗的状态。
 
 tagItemSkillB023Name=死亡标记
-tagItemSkillB023Desc=Mark your target for a painful and imminent death.
+tagItemSkillB023Desc=标记目标，迎接敌人的将是痛苦的死亡。
 
 tagItemSkillB024Name=抽十杀一
 tagItemSkillB024Desc=以压碎性的一击粉碎你的敌人。
 
 tagItemSkillB025Name=闪电箭
-tagItemSkillB025Desc=A pure bolt of lightning strikes your target.
+tagItemSkillB025Desc=发出一道纯粹的闪电箭攻击你的敌人。
 
 tagItemSkillB026NameA=幽魂一击
-tagItemSkillB026DescA=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
+tagItemSkillB026DescA=隐匿于冥界之中，然后瞬间重新在目标身边显现。
 tagItemSkillB026NameB=霜火
-tagItemSkillB026DescB=A ring of spectral flame expands around you.
+tagItemSkillB026DescB=环状的幽魂之火萦绕在你的身边。
 
 tagItemSkillB027Name=元素封印
-tagItemSkillB027Desc=Creates an arcane seal on the ground imbued with destructive force.
+tagItemSkillB027Desc=在地面施放一枚具有毁灭之力的奥术封印。
 
 tagItemSkillB028Name=噬命魔印
-tagItemSkillB028Desc=Creates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the caster.
+tagItemSkillB028Desc=在地面上释放一种神秘的印记，它将吞噬掉深陷其中的敌人的生命力。造成的伤害将以一定的比例返还给施法者者。
 
 tagItemSkillB029Name=霜火之环
-tagItemSkillB029Desc=Surrounds the caster in a ring of ice that chills enemies within its radius.
+tagItemSkillB029Desc=冰环围绕在施法者的周围，减慢其范围之内敌人的速度。
 
 tagItemSkillB030Name=电球
-tagItemSkillB030Desc=Releases a concentrated burst of static energy which passes through foes.
+tagItemSkillB030Desc=施放集中的静电能量，能够穿越敌人单位。
 
 tagItemSkillB031Name=奥术风暴
-tagItemSkillB031Desc=Releases a concentrated burst of arcane energy around you, igniting the air in an instant.
+tagItemSkillB031Desc=在你的周围施放集中的奥术能量，瞬间点燃空气。
 
 tagItemSkillB032Name=天崩
-tagItemSkillB032Desc=降下敌人的头顶的苍穹。
+tagItemSkillB032Desc=撕裂敌人头顶的苍穹。
 
 tagItemSkillC002Name=闪电光球
-tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
+tagItemSkillC002Desc=反击攻击你的敌人，向敌人所在的方向施放出一枚闪电光球，伤害并眩晕所有所经之处的敌人。
 
 tagItemSkillC003Name=激怒
 tagItemSkillC003Desc=另目标如狂战士般陷入狂怒，使其造成更高伤害，不过也使其易受攻击。

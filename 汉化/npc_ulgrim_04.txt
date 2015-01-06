@@ -36,14 +36,10 @@ Where is she?
 Right here in Homestead. Look for the grumpy middle-aged hag in Black Legion armor.
 Ok.
 I'll speak to her soon.
-I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.
-
-She will fill you in on the situation.
+I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.{^n}{^n}She will fill you in on the situation.
 I will speak to her.
 Maybe later.
-I wasn't sure you'd make it, but you pulled through.
-
-These people owe you their lives.
+I wasn't sure you'd make it, but you pulled through.{^n}{^n}These people owe you their lives.
 I did what was right.
 I wish that was the end of our troubles, but there is a grave threat on the horizon that threatens to destroy us all if we don't act soon.
 What do we do now?

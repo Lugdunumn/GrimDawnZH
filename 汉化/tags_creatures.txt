@@ -650,7 +650,7 @@ tagEnemyTrollHalfA02=雾裔牧人
 tagEnemyTrollHalfB01=雾裔猎手
 tagEnemyTrollHalfB02=雾裔战士
 tagEnemyTrollHalfB03=雾裔萨满
-tagEnemyTrollHalfC01=雾裔长着
+tagEnemyTrollHalfC01=雾裔长者
 
 tagTrollHalfHeroH01=吞岩者 巴拉尔
 tagTrollHalfHeroH02=战争狂 帕德瑞克

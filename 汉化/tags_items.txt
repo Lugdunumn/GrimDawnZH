@@ -280,9 +280,9 @@ tagWeaponCrossbow2hC005=严寒之息
 tagWeaponCrossbow2hC006=掷桩弩
 tagWeaponCrossbow2hC007=蜘蛛之拥
 tagWeaponCrossbow2hC008=拜斯迈的悲惨乌鸦之弩
-tagWeaponCrossbow2hC008Desc="俾斯麦尔的虔诚追随者所使用的标志性武器。"
+tagWeaponCrossbow2hC008Desc="拜斯迈的虔诚追随者所使用的标志性武器。"
 tagWeaponCrossbow2hC009=尤达·贾克斯
-tagWeaponCrossbow2hC009Desc="山地野人的武器，工艺粗糙，却好用的得令人感到吃惊。"
+tagWeaponCrossbow2hC009Desc="山地野人的武器，工艺粗糙，却好用得令人感到吃惊。"
 tagWeaponCrossbow2hC010=火花劲弩
 
 tagWeaponCrossbow2hD001=银箭

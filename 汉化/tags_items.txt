@@ -635,7 +635,7 @@ tagStyle041=镀金
 tagStyle042=丰饶
 
 #ArmorClass
-tagArmorClass01=法袍
+tagArmorClass01=施法者护甲
 tagArmorClass02=轻甲
 tagArmorClass03=重甲
 
@@ -653,7 +653,7 @@ tagBelt=腰带
 #QualityClass
 tagMagic=魔法
 tagRare=稀有
-tagEpic=史诗
+tagEpic=史诗级
 tagLegend=传奇
 
 tagSoulbound=灵魂绑定

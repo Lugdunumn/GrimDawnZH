@@ -636,8 +636,8 @@ tagStyle042=丰饶
 
 #ArmorClass
 tagArmorClass01=施法者护甲
-tagArmorClass02=轻甲
-tagArmorClass03=重甲
+tagArmorClass02=轻型护甲
+tagArmorClass03=重型护甲
 
 #WeaponClass
 tagOneHanded=单手武器

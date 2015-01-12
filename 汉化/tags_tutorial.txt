@@ -50,15 +50,15 @@ tagTutorialTip17TextA=选择技能专精是一项定义角色的决定。不同�
 tagTutorialTip17TextB=一旦你选择了一项专精并点了技能点，你将不能恢复专精的选择。
 tagTutorialTip17TextC=当你的角色到达10级时你将获得选择第二个专精的选择权。
 
-tagTutorialTip19Title=附加部件
-tagTutorialTip19TextA=部件可以用来升级装备。他们通常呈碎片形式，可以合成获得更强力的奖励。{^n}{^n}神话中提到的稀有部件充满了古老的能量，显示为浅黄色。
-tagTutorialTip19TextB=要使用部件，在它上面右击。你可以将它合并到匹配的碎片或者将它附加到装备上。
+tagTutorialTip19Title=镶嵌物
+tagTutorialTip19TextA=镶嵌物可以用来升级装备。他们通常呈碎片形式，可以合成获得更强力的奖励。{^n}{^n}神话中提到的稀有镶嵌物充满了古老的能量，显示为浅黄色。
+tagTutorialTip19TextB=要使用镶嵌物，在它上面右击。你可以将它合并到匹配的碎片或者将它附加到装备上。
 
-tagTutorialTip20Title=使用部件
-tagTutorialTip20SubtitleA=附加部件
-tagTutorialTip20TextA=右击部件选择它，然后左键单击你想要附加的装备。注意每个部件只能附加到特定的物品种类。
-tagTutorialTip20SubtitleB=合成部件
-tagTutorialTip20TextB=你可以合成相同名字的部件碎片来获得更强力的奖励。完整的部件将生成额外的奖励。{^n}{^n}相同名字的部件碎片可以在第一块碎片附加过的物品上继续附加。
+tagTutorialTip20Title=使用镶嵌物
+tagTutorialTip20SubtitleA=镶嵌
+tagTutorialTip20TextA=右击部件选择它，然后左键单击你想要附加的装备。注意每个镶嵌物只能用于镶嵌特定的物品种类。
+tagTutorialTip20SubtitleB=合成镶嵌物
+tagTutorialTip20TextB=你可以合成相同名字的镶嵌物碎片来获得更强力的奖励。完整的镶嵌物将生成额外的奖励。{^n}{^n}相同名字的镶嵌物碎片可以在第一块碎片附加过的物品上继续附加。
 
 tagTutorialTip21Title=第二技能专精
 tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开技能窗口。第二专精不是必须的，但是在到达10级后你将总会有权选择它。
@@ -139,9 +139,9 @@ tagTutorialTip38SubtitleB=玩家间转移
 tagTutorialTip38TextD=要想在多人游戏中与其他玩家的角色交易物品，你需要使用交易功能。
 
 tagTutorialTip39Title=发明家
-tagTutorialTip39TextA=发明家有从物品上移除部件的能力。物品或部件其中一项将在工序中得到保存。
-tagTutorialTip39SubtitleA=移除部件
-tagTutorialTip39TextB=物品上部件的移除将按物品与部件的组合价值的比例收取费用。在发明家的界面上放置一个带部件的物品来开始移除吧。{^N}{^N}你可以获取物品或部件其中一项。{^N}{^N}如果你获取物品，部件将消失。反之亦然。{^N}{^N}
+tagTutorialTip39TextA=发明家有从物品上移除镶嵌物的能力。物品或镶嵌物其中一项将在工序中保留下来。
+tagTutorialTip39SubtitleA=移除镶嵌物
+tagTutorialTip39TextB=物品上镶嵌物的移除将按物品与镶嵌物的组合价值的比例收取费用。在发明家的界面上放置一个带有镶嵌物的物品来开始移除吧。{^N}{^N}你可以获取物品或镶嵌物其中一项。{^N}{^N}如果你获取物品，镶嵌物将消失。反之亦然。{^N}{^N}
 
 tagTutorialTip42Title=铁匠
 tagTutorialTip42TextA=铁匠有制作强大威力物品的能力。他是一位经验丰富的工匠，每个他制作的物品都有小的制作属性奖励，然后他的知识可以通过新的设计图来扩充。
@@ -166,14 +166,14 @@ tagTutorialTip46Title=体力不足
 tagTutorialTip46TextA=你的体力消耗完了，脱离战斗后生命值不会再快速回复。你可以通过收集食物给养和生命精华来补充体力。
 
 tagTutorialTip47Title=分解
-tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废铁，在此过程中有几率额外产生一个部件。越是强力的物品，越有机会分解出部件。
+tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废铁，在此过程中有几率额外产生一个镶嵌物。越是强力的物品，越有机会分解出镶嵌物。
 tagTutorialTip47SubtitleA=分解一件物品
 tagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
 
 tagTutorialTip49Title=武器比较
 tagTutorialTip49TextA=当鼠标停留在物品栏中的一件装备上时，会自动与你已装备的物品进行比较。对于武器来说，会额外比较每秒的伤害(DPS)。
-tagTutorialTip49SubtitleA=不含附加组件的比较
-tagTutorialTip49TextB=你可以按住"{^b}CTRL{^w}"键来比较武器，附加组件将不被计入结果。
+tagTutorialTip49SubtitleA=不含镶嵌物的比较
+tagTutorialTip49TextB=你可以按住"{^b}CTRL{^w}"键来比较武器，镶嵌物将不被计入结果。
 
 tagTutorialTip50Title=增幅物
 tagTutorialTip50TextA=增幅物可以用来附魔物品以增强其属性。如何制作增幅物的秘诀只有凯恩世界中的多种势力团体才知晓。

@@ -2159,16 +2159,16 @@ tagEnchantB055Desc="Captured form of a vile and vengeful spirit from the Arkovia
 
 #ItemComponents部件
 
-tagComponentIncomplete=部件碎片
-tagComponentComplete=部件
+tagComponentIncomplete=镶嵌物碎片
+tagComponentComplete=镶嵌物
 tagComponentNumber={%s0-%d1/%d2}
 tagComponentNumberRare={%s0}{%s1-%d2/%d3}
-tagComponentBonus=完整奖励：
-tagComponentQualities=部件品质：
+tagComponentBonus=完整镶嵌物奖励：
+tagComponentQualities=镶嵌物品质：
 tagComponentHelp=[右键点击以镶嵌或组合]
 tagComponentError=[无法使用-需求未满足]
 tagComponentCombine=[右键点击以组合]
-tagComponentConfirmation=你确定要组合成完整部件吗？
+tagComponentConfirmation=你确定要组合成完整镶嵌物吗？
 
 tagCompA001Name=尖刺外壳
 tagCompA001Desc="一种长着锯齿状的刺的厚重甲壳"^w^n(用于所有护甲)

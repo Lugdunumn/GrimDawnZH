@@ -787,7 +787,7 @@ tagCraftingPanelA=装备改造
 tagCraftingPanelB=装备拆解
 tagCraftingCost=费用:
 tagCraftingBlueprint=设计图
-tagCraftingComponent=部件
+tagCraftingComponent=镶嵌物
 tagCraftingComponentRequired=原材料:
 tagCraftingCombine=组合
 tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备。
@@ -798,7 +798,7 @@ tagCraftingLearn=[右键学习]
 tagCraftingRandom={^E}+随机属性(单个或多个)
 
 tagCraftingItemType00= ~ 设备
-tagCraftingItemType01= ~ 完整部件
+tagCraftingItemType01= ~ 完整镶嵌物
 tagCraftingItemType02= ~ 完整补给品
 tagCraftingItemType03= ~ 卷轴
 tagCraftingItemType04= ~ 装备
@@ -810,7 +810,7 @@ tagCraftingDetatchmentInfo=
 tagCraftingProductBoxInfo=一旦所需材料均已就位，要锻造的物品就会在这里出现。
 tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品。
 
-tagCraftingInsterComponent=把设计图特定的组件加入到这些空位中。
+tagCraftingInsterComponent=把设计图特定的部件放入到这些空位中。
 
 #Subheadings
 
@@ -833,7 +833,7 @@ tagCraftingFeet=脚部
 tagCraftingOffhands=聚能法器
 tagCraftingShields=盾牌
 
-tagCraftingComponents=部件
+tagCraftingComponents=镶嵌物
 tagCraftingAccessories=饰品
 tagCraftingConsumables=消耗品
 tagCraftingMaterials=材料
@@ -843,24 +843,24 @@ tagCraftingRelicsTier02=卓越遗物
 tagCraftingRelicsTier03=神话遗物
 
 tagDividerTab01=回收
-tagDividerRoll01=回收装置被用来从物品上分离附加部件。不幸的是，回收工序的不完善会摧毁物品或附加部件中的一个，不过你可以做出选择。
+tagDividerRoll01=回收装置被用来从物品上分离镶嵌物。不幸的是，回收工序的不完善会摧毁物品或镶嵌物中的一个，不过你可以做出选择。
 
 tagDividerTab02=分解
 tagDividerRoll02=分解装置被用来拆解强力的物品以得到其基本的部分。
 tagDividerRoll02B=分解装置被用来拆解强力的物品以得到其基本的部分，在分解过程中需要大量的能量，所以睿智的发明家使用火药来完成这个过程。
 
 tagDividingButtonKeepItem=保留物品
-tagDividingBoxInfo=将带有附加部件的物品放入回收装置。
-tagDividingButtonKeepComponent=保留附加部件
-tagDividingKeepItemWarning=选择回收物品将会摧毁附加的部件。
-tagDividingKeepComponentWarning=选择回收附加部件将会摧毁物品。
+tagDividingBoxInfo=将带有镶嵌物的物品放入回收装置。
+tagDividingButtonKeepComponent=保留镶嵌物
+tagDividingKeepItemWarning=选择回收物品将会摧毁镶嵌物。
+tagDividingKeepComponentWarning=选择回收镶嵌物将会摧毁物品。
 tagDividingCost=回收花费:
 
 tagDismantleDynamiteTotal=炸药总数:
 tagDismantleCost=拆解消耗:
 tagDismantleButton=选择拆解会彻底摧毁该物品。
 tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
-tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留组件，继续？
+tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留镶嵌物，继续？
 tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
 
 #Smuggler
@@ -916,7 +916,7 @@ tagMapSymbolSmugglerDesc=一个存储你的装备并能在你的角色之间运�
 tagMapSymbolHero=玩家
 tagMapSymbolHeroDesc=你的当前位置。
 tagMapSymbolInventor=发明家
-tagMapSymbolInventorDesc=一位有从装备上移除附加部件本领的工匠。
+tagMapSymbolInventorDesc=一位有从装备上移除镶嵌物本领的工匠。
 tagMapSymbolMission=任务
 tagMapSymbolMissionDesc=当前任务。
 tagMapSymbolNPC=NPC
@@ -1634,7 +1634,7 @@ tagAutoItemSkill=(从物品获取-被动激活)
 tagExclusiveSkill=专有技能-同一时间只能激活一个专有技能。
 
 tagAutoSort=自动整理
-tagAutoComplete=合并完整部件
+tagAutoComplete=合并镶嵌物
 tagAttributeUndo=撤销
 
 tagQuestItem=任务物品

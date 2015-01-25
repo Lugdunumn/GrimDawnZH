@@ -445,15 +445,15 @@ tagClass04SkillDescription13C=尽管惯例上被抛弃，有时毒药与元素�
 tagClass04SkillName04X=毁灭刀锋
 tagClass04SkillDescription04X=掠夺附近敌人的生命力，你将吸收短暂的生命力的一部分。
 tagClass04SkillName07X=潜入暗影
-tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
+tagClass04SkillDescription07X=更深地潜入暗影会减弱敌人的身影，阻碍他们对物理攻击的防御。
 tagClass04SkillName07C=阿玛拉斯塔的无形之刃
-tagClass04SkillDescription07C=Throughout combat with the Nightblade, wounds appear on enemies where no weapon was seen to strike.
+tagClass04SkillDescription07C=在夜刃参与的战斗之中，敌人身上的伤口根本看不出武器的痕迹。
 tagClass04SkillName09A=夺命
-tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the Nightblade, allowing them to grow stronger even as the life leaves their quarry.
+tagClass04SkillDescription09A=这种技艺直接夺取敌人的生命为夜刃所用，使夜刃变得更加强壮，甚至是在猎物生气不再之后。
 tagClass04SkillName12A=元气汲取
-tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
+tagClass04SkillDescription12A=吸取周围敌人的生气，以敌人流失的生命和能量来回复自己。
 tagClass04SkillName13D=无情终章
-tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
+tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂会是一种终极武器。
 
 tagClass04SkillName14A=致命策略
 tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器。
@@ -461,9 +461,9 @@ tagClass04SkillName14B=阿玛拉斯塔的爆裂之刃
 tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀锋，用来伤害到所有邻近的敌人。
 
 tagClass04SkillName15A=剔骨
-tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^o需要一把剑或斧。
+tagClass04SkillDescription15A=迅猛的切割使受害者长时间地出血，同时削弱他们的移动力和攻击速度。^o需要一把剑或斧。
 tagClass04SkillName15B=阿玛拉斯塔的策略
-tagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
+tagClass04SkillDescription15B=一项大师级的武技，能够更有效地切割内脏，如果完美地施放更能造成毁灭性的伤害。但同时它也有徒劳无功的危险。
 
 
 #Class05

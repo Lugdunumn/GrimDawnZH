@@ -485,70 +485,70 @@ tagClass05SkillDescription01E=在实体国度中展现复制飞弹的能量，�
 tagClass05SkillName02A=伊斯坎德拉的元素交换
 tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说化用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素交换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o此技能需开启以保持生效。
 tagClass05SkillName02B=过载
-tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
+tagClass05SkillDescription02B=向元素交换魔法中注入过量的奥术力量，元素的原力在你的武器上爆裂作响。
 tagClass05SkillName02C=元素平衡
-tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
+tagClass05SkillDescription02C=元素交换魔法臻至一种绝妙的平衡之境，狂野的闪电元素与截然相反的冰火元素和谐共处。
 tagClass05SkillName02D=化身
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
+tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们的一些力量转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。
 
 tagClass05SkillName03A=特洛赞的天之裂片
-tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
+tagClass05SkillDescription03A=神话中的特洛赞是位天性自由，桀骜不驯的人物，他不愿服从帝国奥术师们的教条。当帝国最终在山顶上他的居所包围住他的时候，他使用了一种从未见过的法术撕裂天空，借以羞辱他们。^o在目标区域降落3块天之裂片。
 tagClass05SkillName03B=冰封之核
-tagClass05SkillDescription03B=The ice trapped within the Sky Shard becomes released upon collision, bathing those near the point of impact with a freezing chill.
+tagClass05SkillDescription03B=天之裂片中的冰晶会在碰撞时被释放出来，附近的敌人都将遭受极寒。
 tagClass05SkillName03C=碎裂星体
-tagClass05SkillDescription03C=The Sky Shard becomes increasingly unstable upon descent, building up a dangerous amount of charge as it propels through the sky.
+tagClass05SkillDescription03C=天之裂片在降落时变得更加不稳定，仿佛受到力量驱动一般造成大量的冲击。
 
 tagClass05SkillName04A=卡里多的风暴
-tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
+tagClass05SkillDescription04A=卡里多大师在塞缪尔王的军中担任将军。当他被派往前线时，他将一种法术臻至完美：通过瞬间集中的原始虚化能量的爆发，点燃他周围的空气以制造出一场奥术风暴。
 tagClass05SkillName04B=炼狱
-tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
+tagClass05SkillDescription04B=奥术风暴变为烈焰地狱，灼烧血肉融化护甲。
 tagClass05SkillName04C=阿格维克斯的愤怒
-tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
+tagClass05SkillDescription04C=阿格维克斯因为将如此巨大的力量引导入奥术风暴之中而闻名遐迩。任何敢于靠近风暴范围的蠢货都会因为爆炸而化为尘埃。不过，他的法术需要极高的专注力，需要休息之后才能再一次施放。
 
 tagClass05SkillName05A=麦文的守护领域
-tagClass05SkillDescription05A=A rare defensive technique of arcane magic invented by the revered Arcanist Maiven. Creates a protective shield around the caster, but at a great cost in concentration.
+tagClass05SkillDescription05A=令人尊敬的奥术师麦文发明的一种罕见的防御法术。以极高的专注力，在施法者周围制造出一层法术护盾。
 tagClass05SkillName05B=转化
-tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
+tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果，转化成为能量为你所用。
 
 tagClass05SkillName06A=阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^o需要装备副手法器。
+tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。^o需要装备副手法器。
 tagClass05SkillName06B=崩解
-tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches.
+tagClass05SkillDescription06B=倾斜你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。
 tagClass05SkillName06C=堕落之力
-tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
+tagClass05SkillDescription06C=与崩解相反，用狂暴的混沌之力腐化虚化射线。
  
 tagClass05SkillName07A=无效
-tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
+tagClass05SkillDescription07A=在目标区域集中大量负面能量，清除敌人所有的有益的光环和法术，同时清除友军的有害增益。
 
 tagClass05SkillName08A=毁灭
-tagClass05SkillDescription08A=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy. This dangerous spell is extremely draining and should not be used lightly. ^oRequires a Caster Off-hand. If you stand still beyond the first cast, you will unleash up to 2 additional waves upon the target area.
+tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险，而有极为耗能的法术不该被轻易使用。^o需要副手法器。如果你在第一次施法时静止不动，那么你将能在目标区域额外施放两波法术。
 
 tagClass05SkillName09A=心灵专注
-tagClass05SkillDescription09A=Focusing the mind and body into a locus for arcane energies is one of the first meditative techniques taught to aspiring Arcanists.
+tagClass05SkillDescription09A=以专注的身心作为奥术能量的洪炉，有志于成为奥术师的人都会首先学习这种冥想术。
 
 tagClass05SkillName10A=奥术意志
-tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations that can turn the tide of combat. Battle Arcanists learn to use this to their advantage.
+tagClass05SkillDescription10A=肾上腺素在险恶的境地是能扭转战局的法宝。奥术战士们学会了如何利用这一点。
 
 tagClass05SkillName11A=精神迅捷
-tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
+tagClass05SkillDescription11A=奥术大师们学会了如何快速且专注地引导魔法力量，而不必担心精神力的局限。
 
 tagClass05SkillName12A=撕裂空间
-tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
+tagClass05SkillDescription12A=一旦揭示了现实空间的奥秘，那么虚化之力和虚空力量对你说便如同玩物一般。
 
 tagClass05SkillName13A=奥莱克西拉的屏障
-tagClass05SkillDescription13A=Olexra favored the use of ice in her spellcasting. One of her tactics involved raising up a wall of volatile ice spikes to keep her foes at bay while she attacked safely from the other side.
+tagClass05SkillDescription13A=奥莱克西拉喜爱将寒冰用于她的法术之中。其中一种技艺是建起一道不稳定的尖刺冰墙来让敌人陷入困境，这时她就能在冰墙的另一边安全地攻击敌人。
 tagClass05SkillName13B=寒冰光环
-tagClass05SkillDescription13B=Icy Barrier chills nearby enemies.
+tagClass05SkillDescription13B=寒冰屏障会减速周围的敌人。
 tagClass05SkillName13C=冰之终结
-tagClass05SkillDescription13C=Icy Barrier collapses in an explosion of ice.
+tagClass05SkillDescription13C=寒冰屏障坍塌时将引起冰暴。
 
 tagClass05SkillName14A=艾瑞奥特之镜
-tagClass05SkillDescription14A=In an instant, the air around you becomes hard as stone, absorbing all manner of attacks and reflecting them back at the attacker; a favoured technique of Master Ereoctes.
+tagClass05SkillDescription14A=霎时，你周围的空气变得坚硬如石，吸收掉所有形式的伤害并返还给攻击者。艾瑞奥特大师偏爱此项技艺。
 
 tagClass05SkillName15A=狂野之力
-tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manifesting terrifying arcane energies while sacrificing some of your humanity and lifeforce.
-tagClass05SkillName15B=支配
-tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies.
+tagClass05SkillDescription15A=以躯体引导虚化力量，牺牲些许人性和生命力来展现出恐怖的奥术能量。
+tagClass05SkillName15B=超越
+tagClass05SkillDescription15B=超越你的物理形态的边界，将一部分奥术能量延伸到队友身上。
 tagClass05SkillName15C=无尽之力
 tagClass05SkillDescription15C=许多奥术师都在对无尽能量的追寻中做出了很多牺牲。其中有一些人无视古老的告诫，将他们自己完全浸淫在虚化力量之中。正是这些奥术师在渺小的人类心中留下了难以磨灭的恐惧。
 

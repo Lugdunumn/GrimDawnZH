@@ -645,7 +645,7 @@ tagThornedHorrorBoss01=血荆棘
 
 tagEnemyAetherHorrorA01=虚化荆棘恐兽
 
-tagThornedHorrorHeroH07=艾泽若斯
+tagThornedHorrorHeroH01=艾泽若斯
 
 
 #CreatureTraps 陷阱

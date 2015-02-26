@@ -461,9 +461,9 @@ tagNPC_Flavor_Homestead_10=受伤的流浪者
 tagNPC_Flavor_Homestead_11=阿卡拉
 tagNPC_Flavor_Homestead_12=贺拉斯
 
-tagNPC_Flavor_Necropolis_01=迪恩·古冢
-tagNPC_Flavor_Necropolis_02=丹尼·古冢
-tagNPC_Flavor_Necropolis_03=玛利亚·古冢
+tagNPC_Flavor_AreaC_01=迪恩·古冢
+tagNPC_Flavor_AreaC_02=丹尼·古冢
+tagNPC_Flavor_AreaC_03=玛利亚·古冢
 tagNPC_Flavor_AreaC_04=拉哈·死亡印记
 tagNPC_Flavor_AreaC_05=劳勃·哈洛韦
 tagNPC_Flavor_AreaC_06=碧翠斯·萨莫斯

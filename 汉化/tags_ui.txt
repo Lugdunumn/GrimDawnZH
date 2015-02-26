@@ -113,7 +113,7 @@ tagFactionAetherialsRewards5=N/A
 tagFactionAetherialsRewards6=N/A
 tagFactionAetherialsRewards7=N/A
 tagFactionAetherialsRewards8=N/A
-tagFactionCthonians=Chthonians
+tagFactionCthonians=冥灵
 tagFactionCthoniansInfo= Chthonians, horrors from the Void, are the things of nightmares. Prior to the Grim Dawn, Chthonians would only be seen upon Cairn following an arcane ritual gone wrong or at the beckoning of a powerful sorcerer. {^n}{^n} Despite an effort to exterminate the practice, a cult has formed around blood rituals and the worship of Chthonic beings. Members of the cult have been overheard chanting one name in particular: Ch'thon. With the world in disarray, the cult has grown strong, garnering new followers desperate for answers in a world that no longer makes sense. {^n}{^n} Chthonians, and their loyal cult, appear to be at odds with the Aetherials, eagerly harvesting helpless humans for blood so that the Aetherials cannot use them as vessels.
 tagFactionCthoniansRewards1=Nemesis Spawns
 tagFactionCthoniansRewards2=Additional Hero Spawns
@@ -313,14 +313,14 @@ tagFactionProgress=Required to {%s0}{^w}: {^b}{%d1}
 tagFactionKillingGain=Reputation gained from killing:
 tagFactionKillingLoss=Infamy gained from killing:
 tagFactionRewardsTier=Unlocked at Next Tier:
-tagFactionKillCommon=Common Monsters
-tagFactionKillChampion=Champion Monsters
-tagFactionKillHero=Hero Monsters
-tagFactionKillBoss=Boss Monsters
+tagFactionKillCommon=普通怪物
+tagFactionKillChampion=精英怪物
+tagFactionKillHero=英雄怪物
+tagFactionKillBoss=Boss
 tagFactionStatusChange={^w}你现在和{^b}{%s1}{^w}处于{%s0}关系
 tagFactionReputation=Reputation Gained From: {^n}
-tagFactionReputationKilling=Killing {%s0}{^n}
-tagFactionReputationBounties=Bounties{^n}
+tagFactionReputationKilling=击杀 {%s0}{^n}
+tagFactionReputationBounties=赏金{^n}
 tagFactionReputationQuests=Quests{^n}
 tagFactionDiscountPositive=声望折扣: {^r}+ {%.0f0}%
 tagFactionDiscountNegative=声望折扣: {^g}- {%.0f0}%
@@ -329,7 +329,7 @@ tagFactionDoorLocked={^r}你所在的阵营{^b}{%s0}{^r}不允许你进入这个
 
 #Faction Window
 
-tagFactionWindowName=Factions
+tagFactionWindowName=势力
 tagFactionWindowFactionTitle={%s0} - {%s1}
 
 #HUD
@@ -357,7 +357,7 @@ tagSkillRefreshTimeInfinate=冷却时间减少 100%
 tagSkillUnusableLowMana=能量过低
 tagSkillUnusableCooldown=技能冷却中
 tagSkillUnusableConfiguration=技能需要装备
-tagSkillUnusableNotLearned=Skill Not Learned
+tagSkillUnusableNotLearned=未习得该技能
 
 tagHUD_Riftgate=在现实的空间上撕裂一个入口穿梭到任何一个已知的裂缝。
 tagHUD_EmptySlot_R=清空快捷槽
@@ -394,7 +394,7 @@ tagHUDButtonGroup=组队窗口
 tagHUDButtonQuest=任务窗口
 tagHUDButtonMap=地图窗口
 tagHUDButtonChat=聊天窗口
-tagHUDButtonFaction=Faction Window
+tagHUDButtonFaction=势力窗口
 tagHUDButtonHelp=帮助窗口
 tagHUDButtonOptions=选项菜单
 
@@ -477,9 +477,9 @@ tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的�
 tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力。精神力越强，就会有越多的能量在等待回复之前供你取用。
 
 tagCharBonusHealth=生命值加成:
-tagCharBonusHealthRegen=Bonus Health Regen:
+tagCharBonusHealthRegen=生命回复加成:
 tagCharBonusEnergy=能量值加成:
-tagCharBonusEnergyRegen=Bonus Energy Regen:
+tagCharBonusEnergyRegen=能量回复加成:
 
 tagCharBonusPhysicalDmg=物理伤害加成:
 tagCharBonusPierceDmg=穿刺伤害加成:

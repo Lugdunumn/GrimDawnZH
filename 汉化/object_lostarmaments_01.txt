@@ -1,0 +1,22 @@
+Lost Armaments
+These cannons have been liberated from the Aetherials.{^n}{^n}The Black Legion will recover them soon.
+Ok.
+You liberated these cannons from the Aetherials.{^n}{^n}Someone will have to recover them when the opportunity arises.
+Ok.
+These cannons have been liberated from the Aetherials.{^n}{^n}Someone will have to recover them when the opportunity arises.
+Ok.
+These must be the cannons Weapons Master Barrov was referring to.
+Claim this resource for the Black Legion.
+Leave it.
+These cannons would serve the Black Legion in Homestead well.
+Claim this resource for the Black Legion.
+Leave it.
+These cannons would serve humanity well, if someone could move them.
+Take note of this location for the future.
+Leave it.
+These must be the cannons Weapons Master Barrov was referring to.{^n}{^n}Unfortunately the Black Legion will not be able to claim these while the Herald of Flame still lives.
+Ok.
+These cannons would serve the Black Legion in Homestead well.{^n}{^n}Unfortunately the Black Legion will not be able to claim these while the Herald of Flame still lives.
+Ok.
+These cannons would serve humanity well.{^n}{^n}Unfortunately nobody will be able to claim these while the Herald of Flame still lives.
+Ok.

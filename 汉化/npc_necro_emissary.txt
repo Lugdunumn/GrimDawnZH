@@ -9,32 +9,41 @@
 那个叫做艾格瑞姆的人要和死亡守夜人教团谈谈。因此我才会在你面前出现。
 
 再见。
-Words
+Please, visit out sanctum. Master Varuuk will wish to speak with you.
 你们的圣所在哪里？
-Directions
-
-
-
-
-
-你好，我是哈鲁夫，死亡守夜人教团的代表。{^n}{^n}我们想要达成一项协定，即使是We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
+Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.
+Thank you.
+I'm on my way.
+I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+你好，我是哈鲁夫，死亡守夜人教团的代表。{^n}{^n}我们想要与你们达成一项协定，即使是We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
 我想我已经决定好了。
 你的决定是什么？是让黑色军团与死亡守夜人教团一同抵抗那些侵入我们世界的入侵者么？
 黑色军团会与你们共谋大业的。(选择教团)
-好极了。我这就将一切安排妥当。
-
-
+好极了。我这就将一切安排妥当。{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
 我需要更多的时间来考虑。
 关于教团，你能告诉我些什么？
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+
+What do you offer the Black Legion?
+We are experts in the arcane and masters of necromancy,{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
 
 
+
+
+I'll need some time to think this through.
 关于尤若布鲁克你能告诉我些什么？
+Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
 
 
 
 
 我需要一些时间来考虑。
 什么是死灵法术？
+Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
 
 
 
@@ -42,13 +51,13 @@ Directions
 我需要一些时间来考虑。
 
 关于凯蒙的神选战士，你能告诉我些什么？
-
+They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
 
 
 我需要一些时间来考虑。
-back out
+Farewell.
 那个叫做艾格瑞姆的人要和死亡守夜人教团谈谈。因此我才会在你面前出现。
 死亡守夜人教团是什么组织？
-
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
 我懂了。
 再见。

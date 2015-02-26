@@ -1,6 +1,8 @@
-霍姆斯特德
+Homestead
 Trapped and Alone
 Crypt Kill Complete
+You called Kalista's bluff and she revealed herself to be a Chthonian spawn by the name Ballog'Nath. Slay her in the Buried Tomb.
+
 
 Slay Ballog'Nath in the Buried Tomb
 
@@ -9,13 +11,21 @@ Slay Ballog'Nath in the Buried Tomb
 
 
 
-Return to Village
 
-看望流浪者营地的卡里斯塔
+
+Return to Village
+You have found a terrified young girl by the name Kalista in an old tomb. She became trapped in the tomb after the entrance collapsed. You opened a riftgate, allowing the girl to travel back to her family in a Rover camp in the southern Rotting Croplands. You should check on how she's doing.
+
+
+Check on Kalista in the Rover Camp
 
 Village Kill Complete
+The Rover camp in the Rotting Croplands has been destroyed a Chthonian and the girl Kalista is nowhere to be found. Slay the creature responsible for this tragedy, Ballog'Nath.
 
 Slay Ballog'Nath in the Rover Camp
+
+
+
 
 
 

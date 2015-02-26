@@ -1,47 +1,70 @@
-艾格瑞姆
-All quests done catch-all
+Ulgrim
+This cult situation brings back bad memories.{^n}{^n}*Ulgrim shakes his head*{^n}{^n}Are you ready to set out?
+Everything alright?
+Oh, it's nothing.{^n}{^n}I should prepare for the journey.
+Alright. I'll see you out there.
+Almost.
+I heard about Karroz. You might be better at this grisly cult business than Creed.
+I found these notes on Karroz.
+*Ulgrim's face becomes grim as he reads over the papers*{^n}{^n}This can't be happening again...Creed must see these at once.
+What do you mean again?
+This isn't the first time this ritual has been performed. The last time nearly set the empire back 100 years.{^n}{^n}Mag'Thel must not be called back from the void.
+We'll stop them.
+It won't. We'll stop them.
+Thanks, I think?
+What can I do for you?
 
+Farewell.
+Come back another time. I've got important matters to attend to.
+Farewell.
+Got anything useful out of those two?
+Who would you choose?
+Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
+Alright.
+I'm still deciding.
+Just the person I'm looking for. The others may disagree with me on this, but there is something I need you to do.
+What is it?
+There are two other groups of survivors in the region that we are aware of, but Somer and Creed do not consider them to be of strategic value. Frankly, I disagree. They may consist largely of fanatics, but fanatics aimed in the right direction can be a powerful force.{^n}{^n}I've asked representatives from both the Order of Death's Vigil and Kymon's Chosen to visit here and speak to us. There is some obvious animosity between the two, but perhaps we can leverage that against them. I would like you to be our representative. Speak to both of them. Learn all that you can and decide which of the two groups would prove to be of superior strategic value. I just don't see them working together, I'm afraid.
+I will speak to the emissaries.
+Find someone else to be your diplomat.
+Why won't you talk to them?
+As much as I'd love to play politics again, Creed demands my attention at the war table. {^n}{^n}I am asking you to do this because I trust your judgement.
+I will speak to the emissaries.
+Find someone else to be your diplomat.
 
-quest blocked
+What can you tell me about the two groups?
+Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
+I will speak to the emissaries.
+Find someone else to be your diplomat.
 
-Allies Among the Ashes progress
-
-
-
-
-Offer Allies Among the Ashes
-
-
-
-
-Question Set
+This place may seem safe for now, but don't ever let your guard down.{^n}{^n}We are at war with devious enemies.
 I have some questions.
-
-Question 1
-Answer 1
+Ask away.
+Why do you dislike the Black Legion?
+They represent the rejects of the empire, forced together under a banner of oppression and lack of restraint. The Legion may be famous for its countless victories, but what you don't hear about is the brutality and the senseless murder.{^n}{^n}Sure, not all of them are like that. Many are unfortunate souls caught on the wrong side of politics, but it's difficult to wash that much blood off your banner with the good intentions of a select few.
+I have another question.
+I see.
+How do you know Inquisitor Creed?
+Hmm, I swear I can't recall when exactly we've met, but the good Inquisitor had accompanied me on several missions since his encounter with Warden Krieg raised suspicions of corruption in the Capital.{^n}{^n}His analytical mind and experience with the occult has proven invaluable since the Grim Dawn. It is unfortunate that we were too late to save Erulan.
 I have another question.
 
-Question 2
-Answer 2
+What did you do as the First Blade of the Emperor?
+Much of what I had to do does not bear mentioning. Let's just say that I eliminated threats to the crown and maintained a spy network spanning the width of the empire.{^n}{^n}Most of that network has now collapsed, with agents gone missing or dead, but it has served me well even after the end of the world.
 I have another question.
-
-Question 3
-Answer 3
-I have another question.
-
+Fascinating.
 Nevermind.
-
+I'll keep my eye out.
 Still haven't talked to the Captain?
 Where is she?
 Right here in Homestead. Look for the grumpy middle-aged hag in Black Legion armor.
 Ok.
 I'll speak to her soon.
-I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.{^n}{^n}She will fill you in on the situation.
+I'm going to check in with Creed here, but I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.{^n}{^n}Look for the grumpy middle-aged hag in Black Legion armor. She will fill you in on the situation.
 I will speak to her.
 Maybe later.
-I wasn't sure you'd make it, but you pulled through.{^n}{^n}These people owe you their lives.
+I wasn't sure you'd make it, but you pulled through.{^n}{^n}Those people owe you their lives.
 I did what was right.
-I wish that was the end of our troubles, but there is a grave threat on the horizon that threatens to destroy us all if we don't act soon.
+I wish that was the end of our troubles, but there is a mounting threat on the horizon that threatens to wipe us all out.
 What do we do now?
 
 Come back another time. I've got important matters to attend to.

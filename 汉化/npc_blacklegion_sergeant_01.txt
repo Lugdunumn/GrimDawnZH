@@ -1,0 +1,25 @@
+Sergeant Serriv
+That lumber mill will go a long way towards making this place more livable. Thank you.
+Farewell.
+I hope you're here to do more than just loiter.
+Goodbye.
+Any luck with the lumber mill?
+The lumber mill is clear of Chthonian spawn.
+I'll have men sent over there immediately so it stays that way.{^n}{^n}A job well done.
+Thank you.
+Any luck with the lumber mill?
+Where is the lumber mill again?
+Head out through the northern gates, into the Blood Grove. The lumber mill is not far, but it's overrun with Chthonians.
+I'll take care of it.
+It will take some time to clear out the Chthonians.
+Excuse me, citizen, but I was wondering if you could help me out with something.
+What do you need?
+Homestead is running low on building supplies. We've already salvaged the barn roof to reinforce the walls, but there's only so much we can do with sheets of metal. One of the buildings here would be a perfect place to let our men catch some sleep, but it's completely run down.{^n}{^n}We are going to need lumber and I know just the place to get it. Problem is, the nearest lumber mill is overrun with Chthonic spawn. I've insisted to the Captain that our men need a place to rest properly, but she feels that the casualties would be too great to risk retaking the mill.{^n}{^n}You are not under her command. You can do as you choose. Please, head out in the the Blood Grove to the north and secure the lumber mill. After your heroics at the Gruesome Harvest, a few Chthonic runts should be a cakewalk.
+I will clear out the lumber mill.
+Handle this yourself.
+Sorry, can't help you.
+I hope you're here to do more than just loiter.
+Anything need doing?
+If you're willing to help, you should report to Captain Somer.
+Goodbye.
+Goodbye.

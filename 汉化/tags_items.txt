@@ -30,6 +30,9 @@ tagWeaponSwordB007=马卡达的死亡之刃
 tagWeaponSwordB008=蝎尾狮长剑
 tagWeaponSwordB009=刻骨刀
 tagWeaponSwordB010=骨剑
+tagWeaponSwordB011=革翅目之爪
+tagWeaponSwordB012=革翅目切刀
+
 
 tagWeaponSwordC001=避雷针
 tagWeaponSwordC002=猎犬之咬
@@ -68,6 +71,9 @@ tagWeaponSwordD007=日出
 tagWeaponSwordD007Desc="只要看到这把武器，你的内心就会充满希望。"
 
 
+tagWeaponSwordF001=军团切刀
+tagWeaponSwordF002=神选之剑
+tagWeaponSwordF003=魔鬼契约
 tagWeaponBluntA000=木棒
 tagWeaponBluntA001=球头锤
 tagWeaponBluntA002=钉锤
@@ -94,6 +100,8 @@ tagWeaponBluntB008Desc="一位绝望之人的最后一线希望……"
 tagWeaponBluntB009=专家级刃锤
 tagWeaponBluntB010=专家级晨星锤
 tagWeaponBluntB011=专家级凸缘钉头锤
+tagWeaponBluntB012=突变臂膀
+tagWeaponBluntB013=突变短棒
 
 tagWeaponBluntC001=虚化之灾
 tagWeaponBluntC002=混沌无序
@@ -122,7 +130,10 @@ tagWeaponBluntD005=德里格之瘟疫
 tagWeaponBluntD005Desc="承载着巫神德里格的七种天灾。"
 tagWeaponBluntD006=破晓巨锤
 
-
+tagWeaponBluntF001=恶魔压碎者
+tagWeaponBluntF002=军团战锤
+tagWeaponBluntF003=亡者之力
+tagWeaponBluntF004=罗瓦里木槌
 tagWeaponAxeA000=伐木斧
 tagWeaponAxeA001=锯斧
 tagWeaponAxeA002=手斧
@@ -168,6 +179,10 @@ tagWeaponAxeD004=裂地
 tagWeaponAxeD004Desc="传说一位凡人拿着这把武器，不顾诸神的乞求而劈开了曼海尔山。因此形成了现在的曼海尔双子山。"
 tagWeaponAxeD005=天谴
 
+
+tagWeaponAxeF001=罗瓦里的正义
+tagWeaponAxeF002=日阳边缘
+tagWeaponAxeF003=死亡新月
 
 tagWeaponGun1hA001=手持短枪
 tagWeaponGun1hA002=狩猎手枪
@@ -219,6 +234,10 @@ tagWeaponGun1hD007=屠魔者的夺命
 tagWeaponGun1hD008=枪械师的齐射
 tagWeaponGun1hD009=枪械师的交叉火力
 
+tagWeaponGun1hF001=恶魔的惩戒
+tagWeaponGun1hF002=日阳左轮枪
+tagWeaponGun1hF003=亡者左轮枪
+tagWeaponGun1hF004=军团手持火炮
 
 tagWeaponGun2hA001=火枪
 tagWeaponGun2hA002=燧发步枪
@@ -235,6 +254,8 @@ tagWeaponGun2hA011=战斗霰弹枪
 tagWeaponGun2hB001=转拴步枪
 tagWeaponGun2hB002=前装枪
 tagWeaponGun2hB003=榴弹枪
+tagWeaponGun2hB004=奇型步枪
+tagWeaponGun2hB005=奇型卡宾枪
 
 tagWeaponGun2hC001=猎人
 tagWeaponGun2hC002=鹰眼
@@ -260,6 +281,8 @@ tagWeaponGun2hD004=灵魂旋风
 tagWeaponGun2hD004Desc="用它发射出去的每一枪都会产生虚化之力的波动。"
 tagWeaponGun2hD005=裂肠者
 
+tagWeaponGun2hF001=恶魔火枪
+tagWeaponGun2hF002=收割者的双管枪
 
 tagWeaponCrossbow2hA001=十字弩
 tagWeaponCrossbow2hA002=强弩
@@ -294,6 +317,8 @@ tagWeaponCrossbow2hD003Desc="源自北地刺骨寒风中的霜血巨龙。"
 tagWeaponCrossbow2hD004=拉卡·贾克斯
 tagWeaponCrossbow2hD005=永恒苦难之先兆
 
+tagWeaponCrossbow2hF001=罗瓦里刺蝎弩
+tagWeaponCrossbow2hF002=神选爆弹枪
 
 tagWeaponMelee2hA001=巨剑
 tagWeaponMelee2hA002=战剑
@@ -355,6 +380,11 @@ tagWeaponMelee2hD007Desc="北方边境的统治者，白狼之子，霍思纳尔
 tagWeaponMelee2hD008=时光弧形刃
 tagWeaponMelee2hD009=野性之血粉碎者
 
+tagWeaponMelee2hF001=军团战剑
+tagWeaponMelee2hF002=日阳巨锤
+tagWeaponMelee2hF003=死亡之镰
+tagWeaponMelee2hF004=神选战锤
+
 tagWeaponCaster1hA001=魔杖
 tagWeaponCaster1hA002=权杖
 tagWeaponCaster1hA003=奥术魔杖
@@ -380,6 +410,8 @@ tagWeaponCaster1hB006=大师级权杖
 tagWeaponCaster1hB007=巫师的魔刃
 tagWeaponCaster1hB008=骨刀
 tagWeaponCaster1hB009=骨刺
+tagWeaponCaster1hB010=裂隙之灾利爪
+tagWeaponCaster1hB011=裂隙之灾切刀
 
 tagWeaponCaster1hC001=怒火焚身
 tagWeaponCaster1hC002=咒火魔杖
@@ -411,6 +443,16 @@ tagWeaponCaster1hC021=寒冰降生魔刃
 tagWeaponCaster1hC022=圣约的血匕首
 
 tagWeaponCaster1hD001=
+
+tagWeaponCaster1hF001=军团唤火者
+tagWeaponCaster1hF002=军团虚化火花
+tagWeaponCaster1hF003=军团虚空分断
+tagWeaponCaster1hF004=罗瓦里酸液之触
+tagWeaponCaster1hF005=罗瓦里死寒之触
+tagWeaponCaster1hF006=罗瓦里死亡之触
+tagWeaponCaster1hF007=神选苍穹分断
+tagWeaponCaster1hF008=神选烈焰召唤者
+tagWeaponCaster1hF009=神选寒霜使者
 
 
 tagWeaponArcaneA001=粗制法杖
@@ -469,6 +511,8 @@ tagShieldC011=救赎之盾
 tagShieldC012=毁誓者的守护
 tagShieldC013=源质
 +tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
+tagShieldC014=拉夫娜的守护
+tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
 
 tagShieldD001=血肉之盾
 tagShieldD001Desc="用一位不幸农夫的胸腔塑型而成的死灵之盾。"
@@ -479,6 +523,9 @@ tagShieldD004=生存意志
 tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在冥灵的烈火中重生为一面盾牌。"
 tagShieldD005=破晓者的使命
 
+tagShieldF001=恶魔的守护者
+tagShieldF002=收割者的守护
+tagShieldF003=神选火焰守卫
 
 tagQualityShieldA01=废铁
 tagQualityShieldA02=生锈
@@ -522,6 +569,7 @@ tagFocusB004B=奥秘头骨
 tagFocusB005A=秘文宝典
 tagFocusB005B=奥秘雕像
 tagFocusB006=巫师的雕像
+tagFocusB007=脉动碎片
 
 tagFocusC001=狂乱
 tagFocusC002=粉碎意志
@@ -551,6 +599,16 @@ tagFocusD005Desc="狂热的异教徒佩戴着这枚包含冥神血滴的法珠�
 tagFocusD006=亡者之语
 tagFocusD006Desc="用于葬礼的诗集和宗教文本汇编而成文集。"
 tagFocusD007=大法师的手抄本
+
+tagFocusF001=收割者的宝典
+tagFocusF002=收割者的账簿
+tagFocusF003=日阳法典
+tagFocusF004=罗瓦里寒冬法典
+tagFocusF005=罗瓦里虚空法典
+tagFocusF006=罗瓦里天之法典
+tagFocusF007=亡者遗迹
+tagFocusF008=亡者之拥
+tagFocusF009=亡者预言
 
 
 #WEAPON_QUALITY
@@ -636,7 +694,7 @@ tagStyle042=丰饶
 
 #ArmorClass
 tagArmorClass01=施法者护甲
-tagArmorClass02=轻型护甲
+tagArmorClass02=护甲
 tagArmorClass03=重型护甲
 
 #WeaponClass
@@ -658,6 +716,16 @@ tagLegend=传奇
 
 tagSoulbound=灵魂绑定
 tagDestroySoulbound=摧毁灵魂绑定的物品？
+
+tagTransmuted=已幻化
+tagTransmuteCapture=[右键点击以灌注]
+tagTransmuteApply=[右键点击以使用]
+tagTransmuteUnusable=[无法使用-未满足需求]
+tagTransmuteConfirmation=你确定要幻化这件装备吗？
+tagTransmuteOverwrite=你确定要覆盖已经存在的幻化效果吗？
+tagTransmuteSoulboundConfirmation=你确定要幻化该装备吗？幻化将使物品变为灵魂绑定。
+tagTransmuteSoulboundOverwrite=你确定要覆盖已经存在的幻化效果吗？幻化将使物品变为灵魂绑定。
+tagTransmuteDestroy=你确定要灌注幻化效果吗？这将会摧毁这件装备。
 
 #ArmorHead头盔
 
@@ -686,8 +754,10 @@ tagHeadB007=专家级兜帽
 tagHeadB008=游侠之盔
 tagHeadB009=专家级头环
 tagHeadB010=游侠之兜盔
-tagHeadB011=幽魂头环
-tagHeadB012=幽魂权冠
+tagHeadB011=升灵头环
+tagHeadB012=升灵权冠
+tagHeadB013=奇型头盔
+tagHeadB014=奇型兜盔
 
 tagHeadC001=风暴召唤者的头环
 tagHeadC002=狂战士的风帽
@@ -733,6 +803,20 @@ tagHeadD008=先驱者面具
 tagHeadD009=屠魔者的宽檐帽
 tagHeadD010=大法师的宽檐帽
 
+tagHeadF001=Exile's Hood
+tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
+tagHeadF002=Devil's Cover
+tagHeadF003=Devil's Headguard
+tagHeadF004=Legion Spellbearer
+tagHeadF005=Legion Casque
+tagHeadF006=Legion Headguard
+tagHeadF007=Harvest's Helm
+tagHeadF008=Solar Defender
+tagHeadF009=Death's Visage
+tagHeadF010=Death's Headguard
+tagHeadF011=Chosen Cowl
+tagHeadF012=Chosen Headguard
+
 
 #ArmorShoulders肩甲
 
@@ -752,8 +836,10 @@ tagShoulderB006=凶徒肩饰
 tagShoulderB007=艾萨克的肩甲
 tagShoulderB008=幽魂披肩
 tagShoulderB009=幽魂肩饰
-tagShoulderB010=贤者披肩
-tagShoulderB011=贤者肩饰
+tagShoulderB010=升灵披肩
+tagShoulderB011=升灵肩饰
+tagShoulderB012=Fleshwarped Spaulders
+tagShoulderB013=Fleshwarped Pauldrons
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -789,6 +875,28 @@ tagShoulderD008=破晓者的护肩
 tagShoulderD009=狂野之血披肩
 tagShoulderD010=大法师的披肩
 
+tagShoulderF001=Exile's Burning Mantle
+tagShoulderF002=Exile's Chilled Mantle
+tagShoulderF003=Exile's Sky Mantle
+tagShoulderF004=Exile's Wrath Mantle
+tagShoulderF005=Exile's Void Mantle
+tagShoulderF006=Exile's Burning Pauldrons
+tagShoulderF007=Exile's Chilled Pauldrons
+tagShoulderF008=Exile's Sky Pauldrons
+tagShoulderF009=Exile's Wrath Pauldrons
+tagShoulderF010=Exile's Void Pauldrons
+tagShoulderF011=Devil's Spaulders
+tagShoulderF012=Devil's Shoulderguard
+tagShoulderF013=Rhowari Mantle
+tagShoulderF014=Rhowari Shoulderguard
+tagShoulderF015=Legion Mantle
+tagShoulderF016=Legion Spaulders
+tagShoulderF017=Legion Pauldrons
+tagShoulderF018=Death's Mantle
+tagShoulderF019=Death's Pauldrons
+tagShoulderF020=Chosen Mantle
+tagShoulderF021=Chosen Pauldrons
+
 
 #ArmorTorso护甲
 
@@ -814,12 +922,14 @@ tagTorsoA017C=长袍
 tagTorsoB001=谋杀者的护身甲
 tagTorsoB002=谋杀者的胸甲
 tagTorsoB003=强化紧身衣
-tagTorsoB004=幽魂长袍
-tagTorsoB005=幽魂战衣
-tagTorsoB006=升灵长袍
-tagTorsoB007=升灵战衣
-tagTorsoB008=贤者长袍
-tagTorsoB009=贤者战衣
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006=幽魂长袍
+tagTorsoB007=幽魂战衣
+tagTorsoB008=升灵长袍
+tagTorsoB009=升灵战衣
+tagTorsoB010=奇型长袍
+tagTorsoB011=奇型战衣
 
 tagTorsoC001=
 tagTorsoC002=暗夜猎人护胸
@@ -861,6 +971,28 @@ tagTorsoD006=正义护胸
 tagTorsoD007=野兽召唤师的披风
 tagTorsoD008=屠魔者的外套
 tagTorsoD009=大法师的长袍
+
+tagTorsoF001=Exile's Burning Vestments
+tagTorsoF002=Exile's Chilled Vestments
+tagTorsoF003=Exile's Sky Vestments
+tagTorsoF004=Exile's Wrath Vestments
+tagTorsoF005=Exile's Void Vestments
+tagTorsoF006=Exile's Burning Cuirass
+tagTorsoF007=Exile's Chilled Cuirass
+tagTorsoF008=Exile's Sky Cuirass
+tagTorsoF009=Exile's Wrath Cuirass
+tagTorsoF010=Exile's Void Cuirass
+tagTorsoF011=Devil's Cuirass
+tagTorsoF012=Devil's Chestguard
+tagTorsoF013=Legion Vestments
+tagTorsoF014=Legion Cuirass
+tagTorsoF015=Legion Chestguard
+tagTorsoF016=Death's Vestments
+tagTorsoF017=Death's Cuirass
+tagTorsoF018=Chosen Vestments
+tagTorsoF019=Chosen Chestguard
+tagTorsoF020=Rhowari Vestments
+tagTorsoF021=Rhowari Cuirass
 
 tagTorsoM001=破烂外套
 tagTorsoM002=染血外套
@@ -964,6 +1096,11 @@ tagHandsD007=野兽召唤师的裹手
 tagHandsD008=先驱者之握
 tagHandsD009=大法师的裹手
 
+tagHandsF001=Rhowari Grips
+tagHandsF002=Rhowari Handguards
+tagHandsF003=Harvest Grips
+tagHandsF004=Harvest Handguards
+
 
 #ArmorLegs护腿
 
@@ -1050,6 +1187,12 @@ tagFeetD007=野兽召唤师的便鞋
 tagFeetD008=屠魔者的护胫
 tagFeetD009=大法师之靴
 
+tagFeetF001=Rhowari Footpads
+tagFeetF002=Rhowari Greaves
+tagFeetF003=Legion Greaves
+tagFeetF004=Harvest Footpads
+tagFeetF005=Harvest Greaves
+
 
 #Rings戒指
 
@@ -1129,6 +1272,19 @@ tagRingD009=仁慈之手
 tagRingD010=复仇之拳
 tagRingD011=大法师的玺戒
 
+tagRingF001=Devil's War Seal
+tagRingF002=Devil's Wrath Seal
+tagRingF003=Rhowari Wrath Seal
+tagRingF004=Rhowari Void Seal
+tagRingF005=Legion War Seal
+tagRingF006=Legion Conjuration Seal
+tagRingF007=Harvest Venom Seal
+tagRingF008=Harvest Blade Seal
+tagRingF009=Death's Storm Seal
+tagRingF010=Death's Life Seal
+tagRingF011=Chosen Flame Seal
+tagRingF012=Chosen Frost Seal
+
 
 #Necklaces项链
 
@@ -1206,6 +1362,16 @@ tagNecklaceD011=野兽召唤师的符咒
 tagNecklaceD012=破晓者的信标
 tagNecklaceD013=屠魔者的守御
 
+tagNecklaceF001=Rhowari Guardstone
+tagNecklaceF002=Rhowari Rancor
+tagNecklaceF003=Rhowari Lifecaller
+tagNecklaceF004=Solar Channelling Stone
+tagNecklaceF005=Harvester Stone
+tagNecklaceF006=Thundering Gem
+tagNecklaceF007=Grasp of the Reaper
+tagNecklaceF008=Pendant of Ubiquitous Wrath
+tagNecklaceF009=Voidcaller Pendant
+
 
 #Medals勋章
 
@@ -1253,6 +1419,16 @@ tagMedalD006Desc="巨型白狼图案的盾徽，冰原狼是北部荒野的守�
 tagMedalD007=不灭誓言
 tagMedalD008=马尔可夫的谋略
 tagMedalD008Desc="以著名的战术家马尔可夫的名字命名的勋章，奖励给最为功勋卓著的将军。"
+
+tagMedalF001=Devil's Badge of Flame
+tagMedalF002=Devil's Badge of Frost
+tagMedalF003=Devil's Badge of Venom
+tagMedalF004=Legion Mark of the Spellweaver
+tagMedalF005=Legion Mark of the Void
+tagMedalF006=Legion Mark of Blades
+tagMedalF007=Chosen Star of War
+tagMedalF008=Chosen Star of Thunder
+tagMedalF009=Chosen Star of Life
 
 
 #Blueprints设计图
@@ -1307,6 +1483,7 @@ tagBlueprint_RelicD017=设计图：遗物-德里格的灾祸
 tagBlueprint_RelicD018=设计图：遗物-拜斯迈的主宰
 tagBlueprint_RelicD019=设计图：遗物-奥莱隆之怒
 tagBlueprint_RelicD020=设计图：遗物-曼海尔的壁垒
+tagBlueprint_RelicD021=设计图：遗物-伊斯坎德拉的平衡
 
 tagBlueprint_ComponentA01=设计图：虚化之魂
 tagBlueprint_ComponentA02=设计图：弹痕甲片
@@ -1516,7 +1693,8 @@ tagRelicD019=奥莱隆之怒
 tagRelicD019Desc0="鲜血……痛苦……死亡。还有无法抗拒的隆隆战鼓声。"
 tagRelicD020=曼海尔的壁垒
 tagRelicD020Desc="大地不会忍受什么邪灵或是嗜血的异教徒，奋起抗争保卫她，凯恩世界也将与你同在。"
-
+tagRelicD021=伊斯坎德拉的平衡
+tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
 
 #Crafting锻造
 tagCraftTabArtifactA=遗物
@@ -1585,14 +1763,14 @@ tagCraftRandomHands_Heavy=附魔护手甲
 tagCraftRandomHands_Light=附魔手套
 tagCraftRandomHead_Caster=附魔头盔
 tagCraftRandomHead_Heavy=附魔重盔
-tagCraftRandomHead_Light=附魔轻盔
+tagCraftRandomHead_Light=附魔头盔
 tagCraftRandomLegs_Heavy=附魔重腿甲
-tagCraftRandomLegs_Light=附魔轻腿甲
+tagCraftRandomLegs_Light=附魔腿甲
 tagCraftRandomShoulder_Heavy=附魔重型肩甲
-tagCraftRandomShoulder_Light=附魔轻型肩甲
+tagCraftRandomShoulder_Light=附魔肩甲
 tagCraftRandomTorso_Caster=附魔胸甲
 tagCraftRandomTorso_Heavy=附魔重型胸甲
-tagCraftRandomTorso_Light=附魔轻型胸甲
+tagCraftRandomTorso_Light=附魔胸甲
 
 
 tagSuppliesIncomplete=部分锻造材料
@@ -1606,6 +1784,7 @@ tagSuppliesError=
 #Consumables消耗品
 
 tagScrollDirections=[右击以使用]
+tagUseDirections=[右击以使用]
 
 tagConsumableRoyalJellyBalmBlueprint=配方：蜂王浆药膏
 tagConsumableRoyalJellyBalmBlueprintDesc="流浪者的制药秘诀。"
@@ -1685,6 +1864,17 @@ tagConsumableA21Desc="保护凡人不受天神惩罚的半神所使用的灵药�
 tagConsumableA22=虚化集簇
 tagConsumableA22Desc="虚化水晶的大型集簇，散发着奇异的能量。"
 
+#DLC
+tagDLCA01=Illusion: Powdered Wig
+tagDLCA01Desc="The definition of sophistication and style."
+tagDLCA02=Illusion: Swashbuckler's Coat
+tagDLCA02Desc="The preferred choice of adventurers everywhere."
+tagDLCConsumableA01=Will'O'Wisp in a Jar
+tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
+tagDLCConsumableA01PetSkill01=Wisp Aura
+tagDLCConsumableA01PetSkill01Desc=The Wisp surrounds you with a warm light that pierces the darkness.
+tagDLCConsumableA02=Burrwitch Brew
+tagDLCConsumableA02Desc="Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night."
 
 #ItemNote阅读记录
 
@@ -1750,6 +1940,11 @@ tagEnchantA009A=安克维亚玫瑰粉末I
 tagEnchantA009B=安克维亚玫瑰粉末II
 tagEnchantA009C=安克维亚玫瑰粉末III
 tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(用于戒指和项链)
+
+tagEnchantA010A=Rotbloom Powder I
+tagEnchantA010A=Rotbloom Powder II
+tagEnchantA010A=Rotbloom Powder III
+tagEnchantA010Desc="Powder derived from a brown-grey flower found growing among carnage and rot."^w^n(Applied to rings and amulets)
 
 tagEnchantA011A=蛇人草粉末I
 tagEnchantA011B=蛇人草粉末II
@@ -1841,9 +2036,9 @@ tagEnchantA028B=Potent Raincaller Powder II
 tagEnchantA028C=Potent Raincaller Powder III
 tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(用于所有双手武器)
 
-tagEnchantA029A=Divine Flame I
-tagEnchantA029B=Divine Flame II
-tagEnchantA029C=Divine Flame II
+tagEnchantA029A=圣火I
+tagEnchantA029B=圣火II
+tagEnchantA029C=圣火III
 tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(用于戒指和项链)
 
 tagEnchantA030A=Blessed Ashes I
@@ -2635,7 +2830,7 @@ tagPrefixAO005=灼热
 tagPrefixAO006=涂毒
 tagPrefixAO007=带电
 tagPrefixAO008=吸血
-tagPrefixAO009=噬魂
+tagPrefixAO009=吮咒
 tagPrefixAO010=吸蚀
 tagPrefixAO011=侵蚀
 tagPrefixAO012=弯曲
@@ -2859,7 +3054,7 @@ tagSuffixB007_Ar_A=自然的馈赠之
 tagSuffixB008_Ar_A=阿尔布雷特的法器之
 tagSuffixB009_Ar_A=吉尔达姆秘学社之
 tagSuffixB010_Ar_A=虚无之
-tagSuffixB011_Ar_A=德鲁伊之
+tagSuffixB011_Ar_A=林地之
 tagSuffixB012_Ar_A=刀锋之
 tagSuffixB013_Ar_A=英雄之
 tagSuffixB014_Ar_A=怒吼巨兽之
@@ -3035,6 +3230,7 @@ tagChestOneShot_BurrwitchCave01=怪物的宝藏
 tagChestOneShot_LowerCrossingCave01=怪物的宝藏
 tagChestOneShot_CultistSummoner=依科佐尔的宝箱
 tagChestOneShot_ChthonicAbomination=冥灵宝箱
+tagChestOneShot_HiddenWealth=隐藏宝藏
 
 #InteractiveObjects
 tagShrineConstitutionA01=未动过的饭
@@ -3068,9 +3264,12 @@ tagMineDoor=矿井门
 tagEpicDoor_StepsOfTorment=痛苦之门
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
 tagLocked= {^R} ~ 锁着的
+tagBlocked= {^R} ~ the Cave-In Blocks the way
 tagUGDoorDermapteranQueen=通往女皇巢穴的通道
 tagUGDoorDermapteranQueenLocked= {^R} ~ 由虫群领袖封印着
 tagDoorRampart=被阻挡的门
+tagDoorWarden=铁门
+tagDoorFarmland=木门
 
 #QuestRewards任务奖励
 

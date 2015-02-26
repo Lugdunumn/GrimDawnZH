@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感�
 tagClass01SkillName01B=格斗姿态
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的额外目标。
 tagClass01SkillName01C=致死旋律
-tagClass01SkillDescription01C=使用巨大的力量施展节奏打击，有机会获得额外伤害效果。
+tagClass01SkillDescription01C=在进行一次节奏打击之后，利用技能的优势，短暂地使你的所有攻击附加额外的致命的力量。^o致死旋律激活时会影响到所有技能。
 tagClass01SkillName01D=不谐和弦
 tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中将夹杂着元素和混乱的能量。
 
@@ -232,7 +232,7 @@ tagClass02SkillDescription08A=黑水鸡尾酒将在传统弹药将耗尽时调�
 tagClass02SkillName08B=恶魔之火
 tagClass02SkillDescription08B=被施以巫术的火焰拥有混沌之力，能融化敌人的肉体和损坏护甲。
 tagClass02SkillName08C=痛苦之焰
-tagClass02SkillDescription08C=被烈焰焚身造成的灼烧之痛所逼疯了的敌人会队形散乱几乎无法进行还击。
+tagClass02SkillDescription08C=黑水火焰造成的痛苦会削弱敌人对即将到来的法术攻击的抵抗能力。
 
 tagClass02SkillName09A=眩晕投掷
 tagClass02SkillDescription09A=扔出一排小型的带电金属弹暂时阻止敌人前进。
@@ -293,7 +293,7 @@ tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回�
 
 tagClass03SkillName03A=拜斯迈的羁绊
 tagClass03SkillDescription03A=强化与召唤生物之间的羁绊，使它们更努力更坚决地为你作战。
-tagClass03SkillName03B=忠诚
+tagClass03SkillName03B=掌控
 tagClass03SkillDescription03B=以微妙的手法操纵召唤契约，使召唤物将对你忠诚无比。它们将以狂热的力量和速度为你而战。
 
 tagClass03SkillName04A=德里格之血
@@ -489,7 +489,7 @@ tagClass05SkillDescription02B=向元素交换魔法中注入过量的奥术力�
 tagClass05SkillName02C=元素平衡
 tagClass05SkillDescription02C=元素交换魔法臻至一种绝妙的平衡之境，狂野的闪电元素与截然相反的冰火元素和谐共处。
 tagClass05SkillName02D=化身
-tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们的一些力量转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。
+tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们的一些力量转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。^o技能效果也会延伸至队友身上。
 
 tagClass05SkillName03A=特洛赞的天之裂片
 tagClass05SkillDescription03A=神话中的特洛赞是位天性自由，桀骜不驯的人物，他不愿服从帝国奥术师们的教条。当帝国最终在山顶上他的居所包围住他的时候，他使用了一种从未见过的法术撕裂天空，借以羞辱他们。^o在目标区域降落3块天之裂片。
@@ -513,7 +513,7 @@ tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果，转�
 tagClass05SkillName06A=阿尔布雷特的虚化射线
 tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。^o需要装备副手法器。
 tagClass05SkillName06B=崩解
-tagClass05SkillDescription06B=倾斜你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。
+tagClass05SkillDescription06B=倾斜你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。^o每次伤害间隔魔法消耗都会提高。
 tagClass05SkillName06C=堕落之力
 tagClass05SkillDescription06C=与崩解相反，用狂暴的混沌之力腐化虚化射线。
  
@@ -548,7 +548,7 @@ tagClass05SkillDescription14A=霎时，你周围的空气变得坚硬如石，�
 tagClass05SkillName15A=狂野之力
 tagClass05SkillDescription15A=以躯体引导虚化力量，牺牲些许人性和生命力来展现出恐怖的奥术能量。
 tagClass05SkillName15B=超越
-tagClass05SkillDescription15B=超越你的物理形态的边界，将一部分奥术能量延伸到队友身上。
+tagClass05SkillDescription15B=超越你的物理形态的边界，将一部分奥术能量延伸到队友身上。^o狂野之力作用期间在你的周围制造出光环效果
 tagClass05SkillName15C=无尽之力
 tagClass05SkillDescription15C=许多奥术师都在对无尽能量的追寻中做出了很多牺牲。其中有一些人无视古老的告诫，将他们自己完全浸淫在虚化力量之中。正是这些奥术师在渺小的人类心中留下了难以磨灭的恐惧。
 
@@ -560,32 +560,6 @@ tagClass05SkillDescription16B=完全吸干周围空气中的热量，使所有�
 
 #Class06
 
-tagClass06SkillName02B=元素平衡
-tagClass06SkillDescription02B=Strike a finely-tuned balance within your incantation, attuning your weapons to the opposing forces of ice and fire.
-
-tagClass06SkillName00=义勇
-tagClass06SkillDescription00=Training in the field to take down the toughest bounties, and all who stand on the path to your quarry.
-
-tagClass06SkillName01A=保障
-tagClass06SkillDescription01A=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01B=仪仗队
-tagClass06SkillDescription01B=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01C=最后防线
-tagClass06SkillDescription01C=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-
-
-tagClass06SkillName02A=先锋
-tagClass06SkillDescription02A=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02B=前线
-tagClass06SkillDescription02B=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02C=突击部队
-tagClass06SkillDescription02C=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-
-
-tagClass06SkillName07B=复苏之风
-tagClass06SkillDescription07B=A surge of renewed strength fills your body washing away your wounds and fatigue.
-tagClass06SkillName07C=迅捷
-tagClass06SkillDescription07C=Alive with the fury of battle, adrenaline courses through your veins making you move and attack faster.
 
 #Class07
 
@@ -774,6 +748,39 @@ tagItemSkillB031Desc=在你的周围施放集中的奥术能量，瞬间点燃�
 
 tagItemSkillB032Name=天崩
 tagItemSkillB032Desc=撕裂敌人头顶的苍穹。
+
+tagItemSkillB033Name=Aether Blastwave
+tagItemSkillB033Desc=A blast of Aether energy knocks your attackers back.
+
+tagItemSkillB034Name=Quake
+tagItemSkillB034Desc=Sends a shockwave of energy through the earth around you, damaging nearby foes.
+
+tagItemSkillB035Name=Minion Frenzy
+tagItemSkillB035Desc=Upon seeing their master get hurt, your minions enter a wild frenzy.
+
+tagItemSkillB036Name=Fire Blast
+tagItemSkillB036Desc=A surge of flames erupts from you, damaging all nearby enemies.
+
+tagItemSkillB037Name=Warp Blast
+tagItemSkillB037Desc=A surge of chaotic energies erupts from you, damaging all nearby enemies.
+
+tagItemSkillB038Name=Lightning Barrage
+tagItemSkillB038Desc=Sparks of lightning erupt from you, damaging any enemies they come in contact with.
+
+tagItemSkillB039Name=Frigid Barrage
+tagItemSkillB039Desc=Shards of chilling ice erupt from you, freezing any enemies they come in contact with.
+
+tagItemSkillB040Name=Toxic Gas Cloud
+tagItemSkillB040Desc=A toxic cloud erupts from you, choking all enemies caught within it.
+
+tagItemSkillB041Name=Vitality Wave
+tagItemSkillB041Desc=A blast of life-stealing energies surges forward, draining enemies of precious vitality.
+
+tagItemSkillB042Name=Vitality Barrage
+tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping enemies they come in contact with of precious vitality.
+
+tagItemSkillB043Name=Rejuvenation
+tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=反击攻击你的敌人，向敌人所在的方向施放出一枚闪电光球，伤害并眩晕所有所经之处的敌人。
@@ -1031,7 +1038,7 @@ tagItemSkillC082Name=虚空之火新星
 tagItemSkillC082Desc=从你身上爆发出大量集中的负能量。
 
 tagItemSkillC083Name=掠夺者的齐射
-tagItemSkillC083Desc=释放一阵注满弹药的奥术齐射。^o激活双持远程武器的能力。
+tagItemSkillC083Desc=当双持手枪时，有时你会释放一阵装满弹药的奥术齐射。^o激活双持远程武器的能力。
 
 tagItemSkillC084Name=瘴气
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
@@ -1398,6 +1405,9 @@ tagRelicSkillD019Desc=掌握战争之神的血液之力，向附近敌人倾泻�
 tagRelicSkillD020Name=曼海尔的壁垒
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵，使你和你的队友抵挡住物理伤害。^o需要一块盾牌。
 
+tagRelicSkillD021Name=元素失衡
+tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^o需要装备施法者副手。
+
 
 
 #ConsumableSkills
@@ -1448,6 +1458,8 @@ tagConsumableSkill_A21=天神之梦魇
 tagConsumableSkill_A21Desc=圣光充盈你的身体。
 tagConsumableSkill_A22=虚化集簇
 tagConsumableSkill_A22Desc=破开水晶体以施放出其中的能量。
+tagConsumableSkill_A23=伯尔维治纯酿
+tagConsumableSkill_A23Desc=这可不是给软蛋喝的。副作用可能包括：恶心，呕吐，忘了你昨晚在哪儿。
 
 #SkillsGeneral
 
@@ -1459,6 +1471,7 @@ NoSkillPointsAvailable=可用技能点数:0
 DevotionPointsAvailable=可用点数:{%d0}
 DevotionPointsAvailableSingular=可用点数:{%d0}
 NoDevotionPointsAvailable=可用点数:0
+tagConfirmSkillChanges=确认变更？
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=锤与砧
@@ -1483,21 +1496,29 @@ tagDevotionMagi=魔导师
 tagDevotionAssassin=暗杀者
 tagDevotionAkeron=阿克隆的蝎尾
 
+tagDevotionInfo=Devotion is great. Devotion devotion devotion. Lorem ipsum dolor sit amet, vero perfecto nominati te vim, duo esse inciderint ea. Eos nostrud facilisis no, alii electram rationibus sea et.
+
 #SkillsReallocator
 
 tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
-tagReallocateError02=金钱不足。
+tagReallocateError02=铁币不足。
 tagReallocateError03=不能从专精中撤销点数。
 tagDecreaseMasteryError=不能从专精中撤销点数。
-tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-})
+tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-}铁币)
+tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether)
 tagRemovePoint=左键点击来移除专精点数
 tagReclaimBase=先移除其延伸技能才能移除该技能
+tagReclaimDevotion=Remove Attached Devotion Effect
 tagRemoveBase=无法移除专精点数
 tagReclaimNoPoints=没有技能点数可以撤销
 tagRemoveNoPoints=没有点数可以移除
-tagReclaimNoGold=金钱不足(费用{^y}{%t0}{^r})
+tagReclaimTotalGold=铁币总数:
+tagReclaimCost=铁币花费:
+tagReclaimNoGold=铁币不足(花费{^s}{%t0}{^r})
+tagReclaimNoAether=虚化水晶不足(花费{^g}{%t0}{^r})
 tagReallocateTitle=技能重置
 tagReallocationDescription=点击技能图标会移除一个技能点，每移除一个加点费用都会随之增加。
+tagReclaimTotalAether=虚化水晶总数:
 
 tagTemplateName=RenameMe
 tagTemplateDescription=DescribeMe

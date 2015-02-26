@@ -1,0 +1,13 @@
+Chef Brackham
+With the Dermapteran threat dealt with, Captain Somer has requisitioned some supplies to get a kitchen up and running.{^n}{^n}Now that we have food coming in from the fields you've reclaimed, we can finally start living off of more than scraps.
+I could use a meal.
+Of course. Enjoy.
+Thank you.
+I'm sorry, but I can't offer any more.{^n}{^n}The Black Legion has us on strict rations.
+Alright.
+What about food for the people of Devil's Crossing?
+You'll have to take that up with Douglass.
+Very well.
+Farewell.
+Sorry, still getting the kitchen ready for business.{^n}{^n}Please come back later.
+Farewell.

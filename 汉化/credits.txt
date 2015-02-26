@@ -55,8 +55,11 @@
 <h5>Father Squid
 <h5>Michael "SoulSeekkor" Ewert
 <h5>Vincent "Gibly" Schrijen
+<h5>Matthew Farmery
+<h5>Jon "Jaknet" Kent
+<h5>Powbam
 
-<h3>Kickstarter "Boss" 级支持者
+<h3>Kickstarter "Boss" 级支持者：
 
 <h5>Douglas "Money Bags" Martin Jr.
 <h5>Robert D. Fergusson

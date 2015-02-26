@@ -1,45 +1,52 @@
 Brother Mollarg
-You have chosen wisely, friend. You shall be welcomed at our enclave.
-Thank you.
+You have chosen wisely, friend.
+Farewell.
 You've made your choice, now leave me be.
 Goodbye.
 I have come to represent Kymon's Chosen, as your superiors have requested.
 
 Goodbye.
-Words
+You are expected at our Enclave.
 Where is your enclave located?
-Directions
-
-
-
-
-
-choice
+Head out through the northern gates and into the Blood Grove. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
+Thank you.
+I'm on my way.
+I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
+Brother Mollarg, Chosen of Kymon, at your service.{^n}{^n}Though I must wonder why you've brought this necromancer filth here as well.
 I think I've made my decision.
-
+You have decided then? Are the Chosen of Kymon to battle alongside the Black Legion?
 The Black Legion will work with you. (Select the Kymon's Chosen)
-
-
-
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
 Actually, I'll need more time to think this through.
 What can you tell me about Kymon's Chosen?
 We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
 
-Who is Father Kymon?
+What do you offer the Black Legion?
+We are well-trained and well-armed. Our men and women serve Cairn proudly and will die for her if need be.{^n}{^n}Our faith steels us against the wicked powers of the Aetherial and the Chthonian.{^n}{^n}With the Chosen at the Legion's side, our forces will be unstoppable.
 
 
 
 
 I'll need some time to think this through.
-Who is Empyrion?
+Who is Father Kymon?
+Father Kymon is our spiritual leader. He is blessed by Empyrion the Light-Bringer, first among the gods.{^n}{^n}By His word, we will cleanse Cairn of the impure and the corrupt, starting with the abhorrent Order of Death's Vigil and ending with the eradication of the Aetherials and the Chthonians.
 
+
+
+I'll need some time to think this through.
+Who is Empyrion?
+Empyrion the Light-Bringer is first among the gods. Under His just rule, the world experienced order and balance, free of the corruption of the void and the aether.{^n}{^n}However, the other gods grew jealous of Empyrion's power and they imprisoned Him deep within the earth, locked away for centuries, perhaps millennia.{^n}{^n}But Father Kymon has found the old god's prison. He communes with the Light-Bringer, delivering the Divine One's word onto his Chosen.
 
 
 
 I'll need some time to think this through.
 
 What can you tell me about the Order of Death's Vigil?
-
+They are abominations that twist the divine threads of life to their will as if they were playthings.{^n}{^n}The Order is a plague upon this world, much like the Aetherials and the Chthonians. In order for Cairn to heal, they must be purged.
 
 
 I'll need some time to think this through.

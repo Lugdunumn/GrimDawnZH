@@ -1,9 +1,22 @@
 Brother Mollarg
+You have chosen wisely, friend. May Empyrion bless your path.
+Where is the Kymon's Chosen sanctuary?
+Out beyond Blood Grove. We have taken refuge within an old fort known as Sorrow's Bastion. Follow the road north.
+Thank you.
+Farewell.
 You do not belong here. Leave at once and you may still live.
 Alright, I'm going.
-You have chosen wisely. May Empyrion bless your path.
+You have chosen wisely, friend. May Empyrion bless your path.
 Farewell.
 Only those who seek Empyrion's truth are welcome here. You should leave.
 Farewell.
+You are expected at our Enclave.
+Where is your enclave located?
+Head out through the northern gates and into the Blood Grove. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
+Thank you.
+I'm on my way.
+I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
 Only those who seek Empyrion's truth are welcome here. You should leave.
 Farewell.

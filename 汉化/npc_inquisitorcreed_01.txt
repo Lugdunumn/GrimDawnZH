@@ -20,9 +20,14 @@ Where do you need me?
 
 A timely rescue. The fate awaiting those prisoners was indeed a horrible one.
 
+
 Farewell.
 You have done well in destroying that abomination. I dread to think what it could have done should it have been set loose.
 
+What do you know about the Order and the Chosen?
+There was once a time when I would have been tasked with tracking down members of the Order of Death's Vigil, but I think we are a little past the privilege of such prejudice.{^n}{^n}Kymon's Chosen are fanatical heretics, but faith can be a powerful weapon.
+
+Thank you.
 Farewell.
 I hear you are headed to the Gruesome Harvest. Be mindful of the possessed trolls. They are even stronger than their living counterparts and highly resistant to the Aether. The Vanguards can even unleash the Aether in a burst of energy around them.{^n}{^n}The Reanimators will resurrect additional allies if not dealt with quickly, but if you manage to destroy them, their minions will fall along with them.
 How do you know so much about the Aetherials?
@@ -30,28 +35,28 @@ I've dedicated all my resource to tracking down the Aetherial threat, but I was 
 Well, thank you.
 
 Thanks for the tips.
-If you have something to say, make it quick.
+So much death...and no end in sight.
 I have some questions.
-You may ask.
+If you have something to say, make it quick.
 How do you know Ulgrim?
-I've first had the pleasure of meeting Ulgrim back in Erulan, during a convergence of the high court. I was there on Inquisition business, he was doing what he does best.{^n}{^n}The unease with which people conversed around him immediately drew my attention. Of course, back then he was known by a rather unusual title: the First Blade of the Emperor.
+I've long known of Ulgrim by his previous title, the First Blade, although I was fortunate not to have met him in his working capacity back then. It was not until the days prior to the Grim Dawn that I met him in person. It was our mutual awareness of the Aetherial conspiracy and individual inability to counter it that brought us together. In the end, we realized the Aetherials already controlled too much of the government and could not be stopped. So we instead set out to gather resources and allies to weather the invasion and launch a resistance.
 The First Blade of the Emperor?
-Yes, the emperor's personal spy and executioner. His name was stricken from all the records. His very identity erased so he could exist outside the boundaries of the law.{^n}{^n}This gave the emperor great freedom in handling matters some would deem objectionable to the crown. All knew it, none would dare bring it to light lest they have a meeting with the First Blade.
+Yes, the emperor's spymaster and assassin. His name was stricken from all the records. His very identity erased so he could exist outside the boundaries of the law.{^n}{^n}This gave the emperor great freedom in handling matters some would deem objectionable to the throne. All knew it, none would dare bring it to light lest they have a meeting with the First Blade. He was truly unparalleled in his art; feared even by the nightblades of the noble houses, many of whom silently met their end at his hands. One might question the morality of his job but not the ruthless effectiveness of his performance. {^n}{^n}I will say though, he did deliver a form of justice to many corrupt and vile men. He silenced many conflicts before they could grow into larger and bloodier ordeals.
 I have another question.
-The court sounded like a treacherous place.
+The capital sounded like a treacherous place.
 I have another question.
 I see.
 How did you escape from Warden Krieg's lab?
-Ah, that was a little trick of the trade. As an inquisitor, I have access to many occult artifacts and relics that the Office of the Inquisiton has deemed benign. I use them to great advantage.{^n}{^n}Krieg underestimated that.
+As an inquisitor, I had access to many occult artifacts and relics that had come into the safekeeping of the Luminari. Some that were deemed more benign were occasionally lent out to veteran inquisitors and I have used them to great advantage.{^n}{^n}Krieg underestimated that.
 Could I have access to some of these?
-These aren't toys we just hand out to everybody. They are powerful artifacts that have to be handled carefully.{^n}{^n}I'm afraid the answer is no.
+These aren't toys we just hand out to everybody. They are powerful artifacts that have to be handled carefully. Besides that, they are now irreplaceable as the vault of the Luminari has fallen into the hands of our enemies. I can only hope that the Aetherials never discern the power of some of the more potent objects within the vaults or are at least wide enough not to use them.{^n}{^n}In any case, I'm afraid the answer is no.
 I have another question.
 Very well.
 I have another question.
 Farewell.
 What does an inquisitor do?
-The Office of the Inquisition was responsible for tracking down and crippling occult activities within the empire. That could mean anything from preventing the dissemination of heretical texts to locking down a dangerous artifact.{^n}{^n}The Cult of Ch'thon was our greatest challenge and, given their recent rise to power, our greatest failure.
+The inquisitors of the Luminari were responsible for investigating and eliminating any supernatural threats within the empire. That could mean anything from breaking up an occult coven to securing a dangerous artifact or even hunting down otherworldly creatures that occasionally cross the veil between realities.{^n}{^n}The Cult of Ch'thon was one of the greatest challenges because the root of it, the dying god, is beyond our reach or power to destroy. It has been with us since ancient times. Given their recent rise to power, it also seems to be one of our greatest failures.
 I have another question.
 Farewell.
 Actually, nevermind.
-Farewell.
+Goodbye.

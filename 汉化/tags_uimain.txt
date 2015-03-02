@@ -1,4 +1,5 @@
-tagTitleScreenText=恐怖黎明早期先行版 ©2014 Crate Entertainment, LLC
+tagTitleScreenText=恐怖黎明早期先行版 ©2014 Crate Entertainment, LLC{^n}{^n}欢迎来到恐怖黎明早请先行版！我们感谢您对游戏的反馈。{^n}{^n}请访问我们的官网 www.grimdawn.com 来参与到恐怖黎明的开发中来！
+tagDemoScreenText=Thanks for playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -16,8 +17,9 @@ tagMenuButton06=取消
 tagMenuButton07=应用
 tagMenuButton08=默认
 tagMenuButton09=确定
-tagMenuButton10=刷新
+tagMenuButton10=创建
 tagMenuChar={%d0}~{%d1}
+tagCharLevelClass= {%d0} 级{%t1}
 
 #Temporarypopupmessageforalphamultiplayerbuildwarning
 tagMenuMPWarning=欢迎加入多人游戏测试！警告：测试期间，你会遇到bug，游戏崩溃和性能问题。请到恐怖黎明论坛反馈这些问题。
@@ -196,6 +198,8 @@ tagKeybind43=聊天命令：回复
 tagKeybind44=镜头左转
 tagKeybind45=镜头右转
 tagKeybind46=镜头旋转
+tagKeybind47=势力窗口
+tagKeybind48=成就窗口
 tagKeybindTitle01=通用键位设定
 tagKeybindTitle02=聊天键位设定
 tagAudioTitle=音频
@@ -263,6 +267,7 @@ tagWindowed=窗口
 tagVideoOptionDepthOfField=景深
 tagVideoOptionSoftParticles=柔和粒子
 tagVideoOptionUIScale=界面调整
+tagVideoOptionA2C=通道印射
 
 tagNetworkTitle=网络
 tagUpnpTitle=UPnP协议:

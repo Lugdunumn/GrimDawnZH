@@ -1,22 +1,98 @@
-卡里斯塔
-欢迎来到我们的营地。
-我有一些问题。
-请讲。
+Kalista
+Hush now, little human. We wouldn't want to spoil the fun for the others. Now would we?
+You monster.
+Please, I'm so scared.
+Someone is coming. Just hang in there.
+Please help me. I'm so scared.
+How did you get trapped down here?
+I was out playing by myself like mama said not to. I wandered into this cave when the exit collapsed behind me.{^n}{^n}*Kalista sobs between words*{^n}{^n}Please, I just want to go home to my mama and papa. They live in a camp nearby.
+Of course I will help you out. (Open Riftgate)
+I'll be right back.
+Why didn't they come looking for you?
+I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
+Ok, calm down. I will get you home. (Open Riftgate)
+I'll be right back.
+
+
+Where is your camp?
+You must have passed the camp on the way here. I sense... I mean, I know my people are down below in the valley; probably waiting for me!{^n}{^n}*Kalista sobs*{^n}{^n}Please, you must let me out; I must escape this place!
+I will get you home. (Open Riftgate)
+I'll be right back.
+Why didn't your parents look for you?
+
+How long have you been down here?
+I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now. I'm hungry; so hungry...
+I will get you home. (Open Riftgate)
+I'll be right back.
+Shouldn't someone be out looking for you?
+
+
+I find it odd that you survived on your own out here.
+I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
+I will get you home. (Open Riftgate)
+I'll be right back.
+Why hasn't someone come looking for you?
 
 
 
-谢谢。
+Where are you from?
+I live in a nearby camp with mama and papa. They say we are...Row...Rovers, but I don't know what that means.{^n}{^n}I just wanna go home.
+I will get you home. (Open Riftgate)
+I'll be right back.
+How did you get trapped down here?
+I was out playing by myself like mama said not to. I wandered into this cave when the exit collapsed behind me.{^n}{^n}*Kalista sobs between words*{^n}{^n}Please, I just want to go home to my mama and papa. They live in a camp nearby.
+Of course I will help you out. (Open Riftgate)
+I'll be right back.
 
 
 
-谢谢。
+Why didn't they come looking for you?
+I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
+Ok, calm down. I will get you home. (Open Riftgate)
+I'll be right back.
+
+
+Something seems off here.
+*Flame flickers in Kalista's eyes*{^n}{^n}Take me from this place now!
+You are a deceiver, demon. (Attack)
+I will spare you, for now.
+How long have you been down here?
+I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now.
+I will get you home. (Open Riftgate)
+I'll be right back.
+
+Shouldn't somebody be out looking for you?
+
+I find it odd that you survived on your own out here.
+I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
+I will get you home. (Open Riftgate)
+I'll be right back.
+
+Why hasn't someone come looking for you?
+
+
+A little girl all by herself in here?
+*Kalista suddenly looks serious*{^n}{^n}I'm not a little girl. I'm almost this many years old.{^n}{^n}*Kalista holds up a hand with all her fingers spread out*{^n}{^n}Mama says so.
+
+
+How long have you been down here?
+I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now. I'm hungry; so hungry...
+I will get you home. (Open Riftgate)
+I'll be right back.
+
+
+Shouldn't somebody be out looking for you?
+I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
+Ok, calm down. I will get you home. (Open Riftgate)
+I'll be right back.
+
+I find it odd that you survived on your own out here.
+I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
+I will get you home. (Open Riftgate)
+I'll be right back.
 
 
 
-谢谢。
 
 
-
-谢谢。
-没什么。
-再见。
+I'll be right back.

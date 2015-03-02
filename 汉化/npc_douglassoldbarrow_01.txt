@@ -20,32 +20,32 @@ Nevermind.
 I hope so too.
 I trust that the food has arrived safely in Devil's Crossing?
 I still need to check in with my people.
-I've been pondering your situation at Devil's Crossing of late, and I think we may finally be in a position where Homestead can return the favor for all of your hard work.
+I've been pondering your situation at Devil's Crossing of late, and I think we may finally be in a position where Homestead can return the favor for all of your hard work.{^n}{^n}Captain Somer argued against it, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 I'm glad to hear that.
 You have done much to assist us here at Homestead. I wish to return the favor.{^n}{^n}I've sent word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
 Thank you. I will let my people know immediately.
 Thank you. I will get back to you on this soon.
 You are a great service to the people of Homestead.
 My people at Devil's Crossing need food.
-You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
+You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
 Very well.
-It sounds like your people are in a grave situation indeed. You have done so much for us, I think it is only fair that we help out.
+It sounds like your people are in a grave situation indeed. You have done so much for us, I think it is only fair that we help out.{^n}{^n}Captain Somer might disagree about sharing our resources, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 I'm glad to hear that.
 I will send word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
 Thank you. I will let my people know immediately.
 Thank you. I will get back to you on this soon.
 What else could I do to help out?
-Anything you can do to ease the load on the farmers will be of great help.The more time they can spend tending to the crops, the better. Clearing out the beasts roaming the land will also assure that we can work in peace.
+Anything you can do to ease the load on the farmers will be of great help. The more time they can spend tending to the crops, the better. Clearing out the beasts roaming the land will also assure that we can work in peace.
 Farewell.
 Goodbye.
 Have you dealt with the Dermapteran queen?
 The Dermapteran cycle is disrupted.
-That is the best news I've heard for weeks.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
+That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
 What about Devil's Crossing?
-You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
+You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
 Very well.
 Farewell.
-That is the best news I've heard for weeks.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
+That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
 I'm glad to hear that.
 
 Have you dealt with the Dermapteran queen?
@@ -63,11 +63,11 @@ The Dermapteran hives are cyclical in nature. Every seven years or so, they birt
 I will slay the Dermapteran queen.
 There is no way I can do this.
 I have already dealt with the queen.
-That is the best news I've heard for weeks.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
+That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
 What about Devil's Crossing?
 
 Farewell.
-That is the best news I've heard for weeks.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
+That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
 I'm glad to hear that.
 
 Sorry, I think I've done enough.
@@ -87,7 +87,10 @@ There are two farms just west of here, belonging to Elmsworth and Thornsbury, wh
 I will head there now.
 I'm still working on a solution.
 Welcome back. I don't suppose you've had a change of heart about helping us out?
-
+What is the problem?
+After the Grim Dawn, many of our neighbors were forced to abandon their homes and flee here. Together, we built Homestead up into a sanctuary, but it came at a loss of countless other farmsteads.{^n}{^n}When the Black Legion arrived, we were able to recover a few fields, but not nearly enough to feed everyone. Captain Somer considers the resources available to be sufficient for her campaign and has deemed any further efforts to restore the farmland to be secondary to the Legion's mission.The Dermapterans, a vile infestation that plagues this land every few years, are running rampant throughout our lands, devouring all they see and laying their eggs. If we don't act soon, our harvest will be ruined and the land left barren.{^n}{^n}There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields. I'll see to it that you are justly compensated. What do you say?
+I will clear out the infestation.
+Sounds like a job for the Legion.
 
 
 Goodbye.

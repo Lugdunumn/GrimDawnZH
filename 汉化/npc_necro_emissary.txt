@@ -1,54 +1,63 @@
-Haruuv
-The path you walk is a wise one. We look forward to working alongside you.
-Likewise.
-If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
-I do what I must so that we all survive.
-I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
-Goodbye.
-I did what I feel is right.
-The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+哈鲁夫
+你的选择很明智。我们期待与你共事。
+我也一样。
+如果你的抉择代表了黑色军团的话，那么我想人类的末日就要来了。
+我只为所有人的生存而战。
+我真诚地希望你的选择是对的，但是我不能不怀疑你对黑色军团那盲目的忠心。
+再见。
+我知道我的感觉不会错。
+那个叫做艾格瑞姆的人要和死亡守夜人教团谈谈。因此我才会在你面前出现。
 
-Goodbye.
-Words
-Where is your sanctum?
-Directions
+再见。
+Please, visit out sanctum. Master Varuuk will wish to speak with you.
+你们的圣所在哪里？
+Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.
+Thank you.
+I'm on my way.
+I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+你好，我是哈鲁夫，死亡守夜人教团的代表。{^n}{^n}我们想要与你们达成一项协定，即使是We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
+我想我已经决定好了。
+你的决定是什么？是让黑色军团与死亡守夜人教团一同抵抗那些侵入我们世界的入侵者么？
+黑色军团会与你们共谋大业的。(选择教团)
+好极了。我这就将一切安排妥当。{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+我需要更多的时间来考虑。
+关于教团，你能告诉我些什么？
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
 
-
-
-
-
-Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
-I think I've made my decision.
-What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
-The Black Legion will work with you. (Select the Order)
-Splendid. I shall make the arrangements immediately.
-
-
-Actually, I'll need more time to think this through.
-What can you tell me about the Order?
-
-
-What can you tell me about Uroboruuk?
-
-
-
-
-I'll need some time to think this through.
-What is necromancy?
+What do you offer the Black Legion?
+We are experts in the arcane and masters of necromancy,{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
 
 
 
 
 I'll need some time to think this through.
+关于尤若布鲁克你能告诉我些什么？
+Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
 
-What can you tell me about Kymon's Chosen?
 
 
 
-I'll need some time to think this through.
-back out
-The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
-What is the Order of Death's Vigil?
+我需要一些时间来考虑。
+什么是死灵法术？
+Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
 
-I see.
-Goodbye.
+
+
+
+我需要一些时间来考虑。
+
+关于凯蒙的神选战士，你能告诉我些什么？
+They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
+
+
+我需要一些时间来考虑。
+Farewell.
+那个叫做艾格瑞姆的人要和死亡守夜人教团谈谈。因此我才会在你面前出现。
+死亡守夜人教团是什么组织？
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+我懂了。
+再见。

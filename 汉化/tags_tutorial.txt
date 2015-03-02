@@ -7,7 +7,7 @@ tagTutorialTip06Title=未动过的饭
 tagTutorialTip06TextA=你找到了被人丢弃的一餐饭，估计是个倒霉的冒险者留下的。{^n}{^n}吃下这顿饭，你会恢复一些体力。
 
 tagTutorialTip08Title=欢迎来到恐怖黎明
-tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我们希望你享受游戏这部分开始的内容。请记住这只是由七个人的工作室制作的预览版本。你将会遇到bug、未完成的特色内容和大约只有游戏的第一章第二章和第三章的情况。我们欢迎你们在论坛www.grimdawn.com反馈bug和游戏体验。
+tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我们希望你享受游戏这部分开始的内容。请记住这只是由八个人的工作室制作的预览版本。你将会遇到bug、未完成的特色内容和大约只有游戏的第一章第二章和第三章的情况。我们欢迎你们在论坛www.grimdawn.com反馈bug和游戏体验。
 
 tagTutorialTip09Title=商人界面
 tagTutorialTip09TextA=商人出售与收购在凯恩世界的险境中生存所必需的武器装备。
@@ -181,3 +181,20 @@ tagTutorialTip50TextB=要使用增幅物进行附魔，右键点击它。一旦�
 
 tagTutorialTip51Title=增幅物附魔
 tagTutorialTip51TextA=右键单击一件增幅物，然后再左键单击你想要附魔的装备。{^N}{^N}注意增幅物只能在特定的装备类型上进行附魔而且已经使用不能被移除，但是你可以通过再次附魔来覆盖掉之前的增幅物。
+
+tagTutorialTip52Title=Faction Gained
+tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
+tagTutorialTip52CaptionA=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip53Title=Faction Quartermaster
+tagTutorialTip53TextA=Faction Quartermasters sell items exclusively available from his or her faction. This equipment is only available to those who have proven themselves to their faction.
+tagTutorialTip53SubtitleA=Soulbound Equipment
+tagTutorialTip53TextB=Equipment sold by Faction Quartermasters is soulbound to your character and cannot be traded or placed in the Transfer UI.{^N}{^N}If a Soulbound Augment is applied to an item, that item becomes soulbound as well.
+
+tagTutorialTip54Title=Reputation Level
+tagTutorialTip54TextA=You have reached the next level of reputation with a faction. This entitles you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.{^N}{^N}Look around as new quests may have become available.
+
+tagTutorialTip55Title=Faction Window
+tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
+tagTutorialTip55SubtitleA=Gaining Reputation
+tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.

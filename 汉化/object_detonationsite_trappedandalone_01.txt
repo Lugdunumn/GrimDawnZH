@@ -1,0 +1,7 @@
+Detonation Site
+It appears that the entrance to this cave has collapsed. You could clear the way with some explosives. The old abandoned mines around Old Arkovia are likely the best place to find some.{^n}{^n}It will take 1 Dynamite to clear a path.
+Not enough Dynamite.
+Clear the Cave-in.
+Leave it.
+You have cleared this cave-in.
+Ok.

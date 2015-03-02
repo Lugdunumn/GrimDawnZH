@@ -1,0 +1,15 @@
+Kory the Keeper
+Well met, friend! Have I seen you before?... Perhaps we've met... on the road somewhere? Kory is my name. I'm a traveler... a trader... a keeper of the strange. There was a time when... well... no matter. I've traveled far, always in the shadows.
+That's an interesting coat you are wearing...
+Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...
+(Receive Illusion: Swashbuckler's Coat)
+*Secret Handshake*
+*Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.
+(Receive Illusion: Powdered Wig)
+Care for a drink?
+*Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!
+(Receive Item: Burrwitch Brew)
+What's that glowing in your pocket?
+Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. They are handy in dark places.
+(Receive Item: Will'O'Wisp in a Jar)
+Um, ok. Goodbye.

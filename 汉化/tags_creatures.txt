@@ -363,6 +363,7 @@ tagEnemyDermapteranA01=革翅目象甲虫
 tagEnemyDermapteranB01=革翅目哨兵
 tagEnemyDermapteranB02=革翅目掠夺者
 tagEnemyDermapteranC01=革翅目元老
+tagEnemyDermapteranC02=革翅目先祖
 
 tagEnemySummonWeavilA01=感染者
 
@@ -375,7 +376,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
-+tagDermapteranBoss04=领袖 阿诺克斯
++tagDermapteranBoss04=领袖 污染者 阿诺克斯 
 
 #CreatureInsectMosquito 蚊子
 
@@ -457,13 +458,22 @@ tagEnemyPrawnC01=被感染者 裂隙之灾
 tagEnemyPrawnSummonA01=聚生者 裂隙之灾
 
 tagEnemyCavePrawnA01=苍白的穴居爬行者
+tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
 tagEnemyCavePrawnB01=白化的穴居爬行者
+tagEnemyCavePrawnC01=Bursting Cavern Crawler
+tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
 
 tagPrawnHeroH01=贪婪的拉娃克里克斯
 tagPrawnHeroH02=先祖 帕拉克里克斯
 tagPrawnHeroH03=毒裔 维拉克里克斯
 tagPrawnHeroH04=艾尔克里克斯 ~ 带电
 tagPrawnHeroH05=弗洛克里克斯 ~ 燃烧
+
+tagCavePrawnHeroH01=Terrocrix
+tagCavePrawnHeroH02=Chiricrix ~ Frozen
+tagCavePrawnHeroH03=Blucrix ~ Defender
+
+tagCavePrawnBoss01=Ikrix, the Ravener
 
 #CreatureRaptor 猛禽
 
@@ -635,7 +645,7 @@ tagThornedHorrorBoss01=血荆棘
 
 tagEnemyAetherHorrorA01=虚化荆棘恐兽
 
-tagThornedHorrorHeroH07=艾泽若斯
+tagThornedHorrorHeroH01=艾泽若斯
 
 
 #CreatureTraps 陷阱
@@ -696,11 +706,6 @@ tagEnemyCaveSpiderA01=恐惧编织者 幼蛛
 tagEnemyCaveSpiderB01=恐惧编织者 蜘蛛
 tagEnemyCaveSpiderB02=恐惧编织者 寡妇
 tagEnemyCaveSpiderC01=恐惧编织者 女王
-tagEnemyCavePrawnA01=裂隙灾异 恐惧之麟
-tagEnemyCavePrawnA02=裂隙灾异 恐惧之光
-tagEnemyCavePrawnB01=裂隙灾异 恐惧利爪
-tagEnemyCavePrawnC01=裂隙灾异 成体
-tagEnemyCavePrawnSummonA01=裂隙灾异 穴居者
 
 tagCaveTrollHalfHeroH01=黑暗之民 格鲁科洛克
 tagCaveTrollHalfHeroH02=盲眼狂战士 阿格洛克
@@ -712,12 +717,8 @@ tagCaveTrollHeroH02=若沃斯 ~ 伤害反弹
 tagCaveSpiderHeroH01=黑暗 谢尔勒
 tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
-tagCavePrawnHeroH01=泰罗克里克斯
-tagCavePrawnHeroH02=基里克里克斯 ~ 冰冻
-tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御者
 
 tagCaveSpiderBoss01=幽冥编织者 安苟利亚克斯
-tagCavePrawnBoss01=捕食者 伊克里克斯
 tagCaveTrollHalfBoss01=穴居者 高鲁斯
 
 #creatureVultures 秃鹫
@@ -804,6 +805,9 @@ tagReanimatorBossH04=堕落者 那扎格拉德
 tagPetRavenA01=风暴乌鸦
 tagPetHellhoundA01=地狱魔犬
 tagPetWhirlwindA01=旋风
+tagPetThornedHorrorA01=荆棘
+tagPetManticoreA01=原始灵魂
+tagPetWindDevilA01=风魔
 
 tagPetIceWallA01=寒冰屏障
 
@@ -822,6 +826,8 @@ tagRelicStormhound=风暴猎犬
 tagRelicNemesis=复仇女神
 tagRelicSwarm=虫群
 
+tagDLCWisp=Will'O'Wisp
+
 #EnemySummons 敌军召唤物
 
 tagEnemySummonHellspawn=地狱生物
@@ -837,7 +843,7 @@ tagEnemySummonAetherTrap=虚化陷阱
 tagQuestEnemyReanimator=死尸复生者 凯奥格
 tagQuestEnemyMiltonHart=弥尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
-tagQuestChthonianMonstrosity=拆解者 马格赛尔
+tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
 
 tagBossTheWarden01=典狱长
 

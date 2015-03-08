@@ -139,8 +139,8 @@ tagDranghoulHeroH02=驯犬师 鲁迦鲁
 tagDranghoulHeroH03=奥格拉 ~ 免疫控制
 tagDranghoulHeroH04=里夫 ~ 燃烧
 tagDranghoulHeroH05=沃瓦尔 ~ 冰冻
-+tagDranghoulHeroH06=拉瓦达 ~ 腐化
-+tagDranghoulHeroH07=维纳达 ~ 虚空之触
+tagDranghoulHeroH06=拉瓦达 ~ 腐化
+tagDranghoulHeroH07=维纳达 ~ 虚空之触
 
 #CreatureFleshHulk 血肉巨人
 
@@ -376,7 +376,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
-+tagDermapteranBoss04=领袖 污染者 阿诺克斯 
+tagDermapteranBoss04=领袖 污染者 阿诺克斯 
 
 #CreatureInsectMosquito 蚊子
 

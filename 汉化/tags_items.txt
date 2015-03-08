@@ -510,7 +510,7 @@ tagShieldC010=圣殿骑士的信仰
 tagShieldC011=救赎之盾
 tagShieldC012=毁誓者的守护
 tagShieldC013=源质
-+tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
+tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
 tagShieldC014=拉夫娜的守护
 tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
 

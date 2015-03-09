@@ -458,10 +458,10 @@ tagEnemyPrawnC01=被感染者 裂隙之灾
 tagEnemyPrawnSummonA01=聚生者 裂隙之灾
 
 tagEnemyCavePrawnA01=苍白的穴居爬行者
-tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
+tagEnemyCavePrawnA02=恐怖的穴居爬行者
 tagEnemyCavePrawnB01=白化的穴居爬行者
-tagEnemyCavePrawnC01=Bursting Cavern Crawler
-tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
+tagEnemyCavePrawnC01=凶暴的穴居爬行者
+tagEnemyCavePrawnSummonA01=成群的穴居爬行者
 
 tagPrawnHeroH01=贪婪的拉娃克里克斯
 tagPrawnHeroH02=先祖 帕拉克里克斯
@@ -469,11 +469,11 @@ tagPrawnHeroH03=毒裔 维拉克里克斯
 tagPrawnHeroH04=艾尔克里克斯 ~ 带电
 tagPrawnHeroH05=弗洛克里克斯 ~ 燃烧
 
-tagCavePrawnHeroH01=Terrocrix
-tagCavePrawnHeroH02=Chiricrix ~ Frozen
-tagCavePrawnHeroH03=Blucrix ~ Defender
+tagCavePrawnHeroH01=泰若克里克斯
+tagCavePrawnHeroH02=基里克里克斯 ~ 冰冻
+tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御者
 
-tagCavePrawnBoss01=Ikrix, the Ravener
+tagCavePrawnBoss01=捕食者 伊克里克斯
 
 #CreatureRaptor 猛禽
 

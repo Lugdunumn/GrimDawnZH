@@ -1,16 +1,16 @@
 # Achievement Groups
 
-achGroupAct1=Act 1
-achGroupAct2=Act 2
-achGroupAct3=Act 3
-achGroupWorld=World
+achGroupAct1=第一章
+achGroupAct2=第二章
+achGroupAct3=第三章
+achGroupWorld=世界
 
 # Achievements
 
-ach001Title=Monster Slayer
+ach001Title=怪物屠杀者
 ach001Desc=Eradicate 15 Heroic Monsters (marked by a Star).
 
-ach002Title=Heroic Slayer
+ach002Title=英雄屠杀者
 ach002Desc=Eradicate 30 Heroic Monsters (marked by a Star).
 
 ach003Title=Legendary Slayer
@@ -130,13 +130,13 @@ ach040Desc=Reach level 75.
 ach041Title=Immortal Legend
 ach041Desc=Reach level 75 on Hardcore Mode.
 
-ach042Title=Defender of Cairn
+ach042Title=世界保卫者
 ach042Desc=Complete the Game.
 
 ach043Title=Champion of Cairn
 ach043Desc=Complete the Game on Elite Difficulty.
 
-ach044Title=Savior of Cairn
+ach044Title=救世主
 ach044Desc=Complete the Game on Ultimate Difficulty.
 
 ach045Title=Immportal Savior
@@ -157,7 +157,7 @@ ach049Desc=Secure the Burrwitch Riftgate on Veteran Mode.
 ach050Title=Hidden in the Flooded Passage
 ach050Desc=Discover what is concealed behind the collapsed rocks in the Flooded Passage.
 
-ach051Title=Cronley's Secret
+ach051Title=克隆利的秘密
 ach051Desc=Uncover Darius Cronley's Secret.
 
 ach052Title=Hidden Wealth

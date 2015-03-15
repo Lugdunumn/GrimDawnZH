@@ -1,6 +1,6 @@
 #装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
-tagItemNameOrder={%s4}{%s0}{%s1}{%s2}{%s3}
+tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 
 #武器
 
@@ -510,7 +510,7 @@ tagShieldC010=圣殿骑士的信仰
 tagShieldC011=救赎之盾
 tagShieldC012=毁誓者的守护
 tagShieldC013=源质
-+tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
+tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
 tagShieldC014=拉夫娜的守护
 tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
 
@@ -803,19 +803,19 @@ tagHeadD008=先驱者面具
 tagHeadD009=屠魔者的宽檐帽
 tagHeadD010=大法师的宽檐帽
 
-tagHeadF001=Exile's Hood
-tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
-tagHeadF002=Devil's Cover
-tagHeadF003=Devil's Headguard
-tagHeadF004=Legion Spellbearer
-tagHeadF005=Legion Casque
-tagHeadF006=Legion Headguard
-tagHeadF007=Harvest's Helm
-tagHeadF008=Solar Defender
-tagHeadF009=Death's Visage
-tagHeadF010=Death's Headguard
-tagHeadF011=Chosen Cowl
-tagHeadF012=Chosen Headguard
+tagHeadF001=放逐者的兜帽
+tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
+tagHeadF002=恶魔的头巾
+tagHeadF003=恶魔的头盔
+tagHeadF004=军团施法者
+tagHeadF005=军团兜盔
+tagHeadF006=军团头盔
+tagHeadF007=收割者的头盔
+tagHeadF008=日阳防御者
+tagHeadF009=死亡面容
+tagHeadF010=死亡头盔
+tagHeadF011=神选风帽
+tagHeadF012=神选头盔
 
 
 #ArmorShoulders肩甲
@@ -838,8 +838,8 @@ tagShoulderB008=幽魂披肩
 tagShoulderB009=幽魂肩饰
 tagShoulderB010=升灵披肩
 tagShoulderB011=升灵肩饰
-tagShoulderB012=Fleshwarped Spaulders
-tagShoulderB013=Fleshwarped Pauldrons
+tagShoulderB012=奇型肩甲
+tagShoulderB013=奇型肩铠
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -875,27 +875,27 @@ tagShoulderD008=破晓者的护肩
 tagShoulderD009=狂野之血披肩
 tagShoulderD010=大法师的披肩
 
-tagShoulderF001=Exile's Burning Mantle
-tagShoulderF002=Exile's Chilled Mantle
-tagShoulderF003=Exile's Sky Mantle
-tagShoulderF004=Exile's Wrath Mantle
-tagShoulderF005=Exile's Void Mantle
-tagShoulderF006=Exile's Burning Pauldrons
-tagShoulderF007=Exile's Chilled Pauldrons
-tagShoulderF008=Exile's Sky Pauldrons
-tagShoulderF009=Exile's Wrath Pauldrons
-tagShoulderF010=Exile's Void Pauldrons
-tagShoulderF011=Devil's Spaulders
-tagShoulderF012=Devil's Shoulderguard
-tagShoulderF013=Rhowari Mantle
-tagShoulderF014=Rhowari Shoulderguard
-tagShoulderF015=Legion Mantle
-tagShoulderF016=Legion Spaulders
-tagShoulderF017=Legion Pauldrons
-tagShoulderF018=Death's Mantle
-tagShoulderF019=Death's Pauldrons
-tagShoulderF020=Chosen Mantle
-tagShoulderF021=Chosen Pauldrons
+tagShoulderF001=放逐者的燃烧披肩
+tagShoulderF002=放逐者的寒霜披肩
+tagShoulderF003=放逐者的天之披肩
+tagShoulderF004=放逐者的愤怒披肩
+tagShoulderF005=放逐者的虚空披肩
+tagShoulderF006=放逐者的燃烧肩铠
+tagShoulderF007=放逐者的寒霜肩铠
+tagShoulderF008=放逐者的天之肩铠
+tagShoulderF009=放逐者的愤怒肩铠
+tagShoulderF010=放逐者的虚空肩铠
+tagShoulderF011=恶魔的肩甲
+tagShoulderF012=恶魔的护肩
+tagShoulderF013=罗瓦里披肩
+tagShoulderF014=罗瓦里护肩
+tagShoulderF015=军团披肩
+tagShoulderF016=军团肩甲
+tagShoulderF017=军团肩铠
+tagShoulderF018=死亡披肩
+tagShoulderF019=死亡肩铠
+tagShoulderF020=神选披肩
+tagShoulderF021=神选肩铠
 
 
 #ArmorTorso护甲
@@ -972,27 +972,27 @@ tagTorsoD007=野兽召唤师的披风
 tagTorsoD008=屠魔者的外套
 tagTorsoD009=大法师的长袍
 
-tagTorsoF001=Exile's Burning Vestments
-tagTorsoF002=Exile's Chilled Vestments
-tagTorsoF003=Exile's Sky Vestments
-tagTorsoF004=Exile's Wrath Vestments
-tagTorsoF005=Exile's Void Vestments
-tagTorsoF006=Exile's Burning Cuirass
-tagTorsoF007=Exile's Chilled Cuirass
-tagTorsoF008=Exile's Sky Cuirass
-tagTorsoF009=Exile's Wrath Cuirass
-tagTorsoF010=Exile's Void Cuirass
-tagTorsoF011=Devil's Cuirass
-tagTorsoF012=Devil's Chestguard
-tagTorsoF013=Legion Vestments
-tagTorsoF014=Legion Cuirass
-tagTorsoF015=Legion Chestguard
-tagTorsoF016=Death's Vestments
-tagTorsoF017=Death's Cuirass
-tagTorsoF018=Chosen Vestments
-tagTorsoF019=Chosen Chestguard
-tagTorsoF020=Rhowari Vestments
-tagTorsoF021=Rhowari Cuirass
+tagTorsoF001=放逐者的燃烧战衣
+tagTorsoF002=放逐者的严寒战衣
+tagTorsoF003=放逐者的天之战衣
+tagTorsoF004=放逐者的愤怒战衣
+tagTorsoF005=放逐者的虚空战衣
+tagTorsoF006=放逐者的燃烧胸铠
+tagTorsoF007=放逐者的严寒胸铠
+tagTorsoF008=放逐者的天之胸铠
+tagTorsoF009=放逐者的愤怒胸铠
+tagTorsoF010=放逐者的虚空胸铠
+tagTorsoF011=恶魔的胸铠
+tagTorsoF012=恶魔的护胸
+tagTorsoF013=军团战衣
+tagTorsoF014=军团胸铠
+tagTorsoF015=军团护胸
+tagTorsoF016=死亡战衣
+tagTorsoF017=死亡胸铠
+tagTorsoF018=神选战衣
+tagTorsoF019=神选护胸
+tagTorsoF020=罗瓦里战衣
+tagTorsoF021=罗瓦里胸铠
 
 tagTorsoM001=破烂外套
 tagTorsoM002=染血外套
@@ -1096,10 +1096,10 @@ tagHandsD007=野兽召唤师的裹手
 tagHandsD008=先驱者之握
 tagHandsD009=大法师的裹手
 
-tagHandsF001=Rhowari Grips
-tagHandsF002=Rhowari Handguards
-tagHandsF003=Harvest Grips
-tagHandsF004=Harvest Handguards
+tagHandsF001=罗瓦里抓握护手
+tagHandsF002=罗瓦里护手
+tagHandsF003=收割者抓握护手
+tagHandsF004=收割者护手
 
 
 #ArmorLegs护腿
@@ -1187,11 +1187,11 @@ tagFeetD007=野兽召唤师的便鞋
 tagFeetD008=屠魔者的护胫
 tagFeetD009=大法师之靴
 
-tagFeetF001=Rhowari Footpads
-tagFeetF002=Rhowari Greaves
-tagFeetF003=Legion Greaves
-tagFeetF004=Harvest Footpads
-tagFeetF005=Harvest Greaves
+tagFeetF001=罗瓦里裹足
+tagFeetF002=罗瓦里护胫
+tagFeetF003=军团护胫
+tagFeetF004=收割者裹足
+tagFeetF005=收割者护胫
 
 
 #Rings戒指
@@ -1218,7 +1218,7 @@ tagRingB001Desc="这枚指环上磨损的刻文写着：爱你的-艾米莉亚�
 tagRingB002=克隆利的印玺
 tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
 tagRingB003=斯金纳的家传印戒
-tagRingB003Desc="它可能是这家人唯一的财富了。"
+tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
 tagRingB004=高鲁斯的戒指
 tagRingB004Desc="他真的是很喜欢这枚戒指。"
 
@@ -1272,18 +1272,18 @@ tagRingD009=仁慈之手
 tagRingD010=复仇之拳
 tagRingD011=大法师的玺戒
 
-tagRingF001=Devil's War Seal
-tagRingF002=Devil's Wrath Seal
-tagRingF003=Rhowari Wrath Seal
-tagRingF004=Rhowari Void Seal
-tagRingF005=Legion War Seal
-tagRingF006=Legion Conjuration Seal
-tagRingF007=Harvest Venom Seal
-tagRingF008=Harvest Blade Seal
-tagRingF009=Death's Storm Seal
-tagRingF010=Death's Life Seal
-tagRingF011=Chosen Flame Seal
-tagRingF012=Chosen Frost Seal
+tagRingF001=恶魔的战争印戒
+tagRingF002=恶魔的愤怒印戒
+tagRingF003=罗瓦里的愤怒印戒
+tagRingF004=罗瓦里的虚空印戒
+tagRingF005=军团的战争印戒
+tagRingF006=军团的召唤印戒
+tagRingF007=收割者的剧毒印戒
+tagRingF008=收割者的刀锋印戒
+tagRingF009=死亡的风暴印戒
+tagRingF010=死亡的生命印戒
+tagRingF011=神选火焰印戒
+tagRingF012=神选寒霜印戒
 
 
 #Necklaces项链
@@ -1362,15 +1362,15 @@ tagNecklaceD011=野兽召唤师的符咒
 tagNecklaceD012=破晓者的信标
 tagNecklaceD013=屠魔者的守御
 
-tagNecklaceF001=Rhowari Guardstone
-tagNecklaceF002=Rhowari Rancor
-tagNecklaceF003=Rhowari Lifecaller
-tagNecklaceF004=Solar Channelling Stone
-tagNecklaceF005=Harvester Stone
-tagNecklaceF006=Thundering Gem
-tagNecklaceF007=Grasp of the Reaper
+tagNecklaceF001=罗瓦里守护石
+tagNecklaceF002=罗瓦里的怨恨
+tagNecklaceF003=罗瓦里生命召唤者
+tagNecklaceF004=日阳引导石
+tagNecklaceF005=收割者宝石
+tagNecklaceF006=雷霆宝石
+tagNecklaceF007=死灵之爪
 tagNecklaceF008=Pendant of Ubiquitous Wrath
-tagNecklaceF009=Voidcaller Pendant
+tagNecklaceF009=虚空召唤者吊坠
 
 
 #Medals勋章
@@ -1420,15 +1420,15 @@ tagMedalD007=不灭誓言
 tagMedalD008=马尔可夫的谋略
 tagMedalD008Desc="以著名的战术家马尔可夫的名字命名的勋章，奖励给最为功勋卓著的将军。"
 
-tagMedalF001=Devil's Badge of Flame
-tagMedalF002=Devil's Badge of Frost
-tagMedalF003=Devil's Badge of Venom
-tagMedalF004=Legion Mark of the Spellweaver
-tagMedalF005=Legion Mark of the Void
-tagMedalF006=Legion Mark of Blades
-tagMedalF007=Chosen Star of War
-tagMedalF008=Chosen Star of Thunder
-tagMedalF009=Chosen Star of Life
+tagMedalF001=恶魔的火焰徽章
+tagMedalF002=恶魔的寒霜徽章
+tagMedalF003=恶魔的剧毒徽章
+tagMedalF004=军团的织法者徽记
+tagMedalF005=军团的虚空徽记
+tagMedalF006=军团的刀锋徽记
+tagMedalF007=神选战争星章
+tagMedalF008=神选雷霆星章
+tagMedalF009=神选生命星章
 
 
 #Blueprints设计图
@@ -1865,16 +1865,16 @@ tagConsumableA22=虚化集簇
 tagConsumableA22Desc="虚化水晶的大型集簇，散发着奇异的能量。"
 
 #DLC
-tagDLCA01=Illusion: Powdered Wig
-tagDLCA01Desc="The definition of sophistication and style."
-tagDLCA02=Illusion: Swashbuckler's Coat
-tagDLCA02Desc="The preferred choice of adventurers everywhere."
-tagDLCConsumableA01=Will'O'Wisp in a Jar
-tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
-tagDLCConsumableA01PetSkill01=Wisp Aura
-tagDLCConsumableA01PetSkill01Desc=The Wisp surrounds you with a warm light that pierces the darkness.
-tagDLCConsumableA02=Burrwitch Brew
-tagDLCConsumableA02Desc="Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night."
+tagDLCA01=幻象:假发
+tagDLCA01Desc="高雅和风尚的定义。"
+tagDLCA02=幻象: 侠盗的外套
+tagDLCA02Desc="环游世界的首选穿着。"
+tagDLCConsumableA01=罐中鬼火
+tagDLCConsumableA01Desc="一个人畜无害的幽灵，困在了一个罐子里。"
+tagDLCConsumableA01PetSkill01=精灵光环
+tagDLCConsumableA01PetSkill01Desc=精灵以温暖的光芒围绕在你的周围，足以穿透黑暗。
+tagDLCConsumableA02=伯尔维治啤酒
+tagDLCConsumableA02Desc="这酒可不是给软蛋喝的，它可能产生的副作用有：恶心，呕吐，忘了你昨晚在哪儿。"
 
 #ItemNote阅读记录
 
@@ -2127,7 +2127,7 @@ tagEnchantB010B=Potent Essence of Ch'thon II
 tagEnchantB010BC=Potent Essence of Ch'thon III
 tagEnchantB010Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(用于所有双手武器)
 
-tagEnchantB011A=罗文的智慧 I
+tagEnchantB011A=罗文的智慧I
 tagEnchantB011B=罗文的智慧II
 tagEnchantB011BC=罗文的智慧III
 tagEnchantB011Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, represents wisdom among the Rovers. This enchantment was named in his honor."^w^n(用于戒指和项链)
@@ -2202,19 +2202,19 @@ tagEnchantB025B=Potent Nature's Harvest II
 tagEnchantB025BC=Potent Nature's Harvest III
 tagEnchantB025Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(用于所有双手武器)
 
-tagEnchantB026A=Solar Radiance I
-tagEnchantB026B=Solar Radiance II
-tagEnchantB026BC=Solar Radiance III
-tagEnchantB026Desc="The power of the sun, trapped in sorcerous powder."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB026A=日阳之辉I
+tagEnchantB026B=日阳之辉II
+tagEnchantB026BC=日阳之辉III
+tagEnchantB026Desc="魔法粉末之中困着太阳的力量。"^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB027A=Potent Solar Radiance I
-tagEnchantB027B=Potent Solar Radiance II
-tagEnchantB027BC=Potent Solar Radiance III
-tagEnchantB027Desc="The power of the sun, trapped in sorcerous powder."^w^n(用于所有双手武器)
+tagEnchantB027A=强效日阳之辉I
+tagEnchantB027B=强效日阳之辉II
+tagEnchantB027BC=强效日阳之辉III
+tagEnchantB027Desc="魔法粉末之中困着太阳的力量。"^w^n(用于所有双手武器)
 
-tagEnchantB028A=Menhir's Blessing I
-tagEnchantB028B=Menhir's Blessing II
-tagEnchantB028BC=Menhir's Blessing III
+tagEnchantB028A=曼海尔的祝福I
+tagEnchantB028B=曼海尔的祝福II
+tagEnchantB028BC=曼海尔的祝福III
 tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(用于所有单手武器，盾牌和副手)
 
 tagEnchantB029A=Potent Menhir's Blessing I
@@ -3264,7 +3264,7 @@ tagMineDoor=矿井门
 tagEpicDoor_StepsOfTorment=痛苦之门
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
 tagLocked= {^R} ~ 锁着的
-tagBlocked= {^R} ~ the Cave-In Blocks the way
+tagBlocked= {^R} ~ 塌方阻挡了道路
 tagUGDoorDermapteranQueen=通往女皇巢穴的通道
 tagUGDoorDermapteranQueenLocked= {^R} ~ 由虫群领袖封印着
 tagDoorRampart=被阻挡的门
@@ -3277,4 +3277,4 @@ tagQuestItemBrothersAmulet=妹妹的护身符
 tagQuestItemBrothersAmuletDesc="致亲爱的哥哥:愿这枚护身符护佑你在战斗中勇不可当-西比尔"
 
 tagQuestItemSlithRing=蛇人原始戒指
-tagQuestItemSlithRingDesc="这枚戒指有股挥之不去的恶臭。"
+tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"

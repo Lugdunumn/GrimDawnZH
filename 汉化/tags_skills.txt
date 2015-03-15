@@ -749,38 +749,38 @@ tagItemSkillB031Desc=在你的周围施放集中的奥术能量，瞬间点燃�
 tagItemSkillB032Name=天崩
 tagItemSkillB032Desc=撕裂敌人头顶的苍穹。
 
-tagItemSkillB033Name=Aether Blastwave
-tagItemSkillB033Desc=A blast of Aether energy knocks your attackers back.
+tagItemSkillB033Name=虚化冲击波
+tagItemSkillB033Desc=虚化能量波将攻击你的敌人击退。
 
-tagItemSkillB034Name=Quake
-tagItemSkillB034Desc=Sends a shockwave of energy through the earth around you, damaging nearby foes.
+tagItemSkillB034Name=地震
+tagItemSkillB034Desc=向你周围的大地发出一阵能量波，伤害附近的敌人。
 
-tagItemSkillB035Name=Minion Frenzy
-tagItemSkillB035Desc=Upon seeing their master get hurt, your minions enter a wild frenzy.
+tagItemSkillB035Name=仆从狂暴
+tagItemSkillB035Desc=看到它们的主人受伤，你的仆从将变得狂野。
 
-tagItemSkillB036Name=Fire Blast
-tagItemSkillB036Desc=A surge of flames erupts from you, damaging all nearby enemies.
+tagItemSkillB036Name=火焰冲击
+tagItemSkillB036Desc=从你的身上爆发出一团火焰，伤害周围所有的敌人。
 
-tagItemSkillB037Name=Warp Blast
-tagItemSkillB037Desc=A surge of chaotic energies erupts from you, damaging all nearby enemies.
+tagItemSkillB037Name=次元爆裂
+tagItemSkillB037Desc=从你的身上爆发出一股混沌的能量，伤害周围所有的敌人。
 
-tagItemSkillB038Name=Lightning Barrage
-tagItemSkillB038Desc=Sparks of lightning erupt from you, damaging any enemies they come in contact with.
+tagItemSkillB038Name=闪电弹幕
+tagItemSkillB038Desc=从你的身上爆发出电火花，伤害接触到的敌人。
 
-tagItemSkillB039Name=Frigid Barrage
-tagItemSkillB039Desc=Shards of chilling ice erupt from you, freezing any enemies they come in contact with.
+tagItemSkillB039Name=严寒弹幕
+tagItemSkillB039Desc=从你的身上爆发出寒冰碎片，冻结所有接触到的敌人。
 
-tagItemSkillB040Name=Toxic Gas Cloud
-tagItemSkillB040Desc=A toxic cloud erupts from you, choking all enemies caught within it.
+tagItemSkillB040Name=毒云
+tagItemSkillB040Desc=从你的身上爆发出一团毒云，窒息所有接触到的敌人。
 
-tagItemSkillB041Name=Vitality Wave
-tagItemSkillB041Desc=A blast of life-stealing energies surges forward, draining enemies of precious vitality.
+tagItemSkillB041Name=活力波动
+tagItemSkillB041Desc=一股窃取生命力的能量向前奔涌，吸取敌人宝贵的生命力。
 
-tagItemSkillB042Name=Vitality Barrage
-tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping enemies they come in contact with of precious vitality.
+tagItemSkillB042Name=活力弹幕
+tagItemSkillB042Desc=从你的身上爆发出吸取生命力的弹幕，使接触的敌人流失宝贵的生命力。
 
-tagItemSkillB043Name=Rejuvenation
-tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
+tagItemSkillB043Name=回春
+tagItemSkillB043Desc=一阵平静安抚你的全身，增强身体的自愈能力。
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=反击攻击你的敌人，向敌人所在的方向施放出一枚闪电光球，伤害并眩晕所有所经之处的敌人。
@@ -1406,7 +1406,7 @@ tagRelicSkillD020Name=曼海尔的壁垒
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵，使你和你的队友抵挡住物理伤害。^o需要一块盾牌。
 
 tagRelicSkillD021Name=元素失衡
-tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^o需要装备施法者副手。
+tagRelicSkillD021Desc=你冒着施法中断的风险，谨慎地平衡着元素力量。释放一股让你的敌人后悔靠近你的力量。^o需要装备施法者副手。
 
 
 

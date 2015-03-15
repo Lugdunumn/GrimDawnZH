@@ -182,19 +182,19 @@ tagTutorialTip50TextB=要使用增幅物进行附魔，右键点击它。一旦�
 tagTutorialTip51Title=增幅物附魔
 tagTutorialTip51TextA=右键单击一件增幅物，然后再左键单击你想要附魔的装备。{^N}{^N}注意增幅物只能在特定的装备类型上进行附魔而且已经使用不能被移除，但是你可以通过再次附魔来覆盖掉之前的增幅物。
 
-tagTutorialTip52Title=Faction Gained
-tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
-tagTutorialTip52CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip52Title=与势力接触
+tagTutorialTip52TextA=你通过一项任务获得了凯恩世界内某一势力的声望。{^N}{^N}完成任务是一种提升你与势力之间的关系的绝佳手段，但这并非唯一的方法。你可以通过{^y}势力窗口{^w}来了解更多信息。
+tagTutorialTip52CaptionA=快捷键:{^b}{%t0}{^w}
 
-tagTutorialTip53Title=Faction Quartermaster
-tagTutorialTip53TextA=Faction Quartermasters sell items exclusively available from his or her faction. This equipment is only available to those who have proven themselves to their faction.
-tagTutorialTip53SubtitleA=Soulbound Equipment
-tagTutorialTip53TextB=Equipment sold by Faction Quartermasters is soulbound to your character and cannot be traded or placed in the Transfer UI.{^N}{^N}If a Soulbound Augment is applied to an item, that item becomes soulbound as well.
+tagTutorialTip53Title=势力营地
+tagTutorialTip53TextA=势力营地贩卖该势力特有的物品。只有获得该势力的信任才能购买。
+tagTutorialTip53SubtitleA=灵魂绑定的装备
+tagTutorialTip53TextB=势力营地中贩卖的特有装备是灵魂绑定的，不能交易也不能放在角色共享的储物箱里。{^N}{^N}如果一个灵魂绑定的增幅物用在了一件物品上，那么这件物品也将变为灵魂绑定。
 
-tagTutorialTip54Title=Reputation Level
-tagTutorialTip54TextA=You have reached the next level of reputation with a faction. This entitles you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.{^N}{^N}Look around as new quests may have become available.
+tagTutorialTip54Title=声望等级
+tagTutorialTip54TextA=你与一股势力之间的声望提升了一个等级。你将有资格享受属于该势力的商人所贩卖物品的折扣和在该势力的营地获取到更好的装备。{^N}{^N}四处看一看，或许有你有新的任务可以领取了。
 
-tagTutorialTip55Title=Faction Window
-tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
-tagTutorialTip55SubtitleA=Gaining Reputation
-tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.
+tagTutorialTip55Title=势力窗口
+tagTutorialTip55TextA=使用{^y}势力窗口{^w}来查看你与凯恩世界中各股势力的关系，这将决定你为了赢得他们的青睐而需要做的事情。注意b25将完整地实装势力与奖励系统。
+tagTutorialTip55SubtitleA=获取声望
+tagTutorialTip55TextB=每股势力都有其独有的诉求和目标。你可以通过查看{^y}获得声望{^w}一栏来知晓如何赢得该势力的敬意。{^N}{^N}请注意如果你的声望越显赫，那么你就要通过击杀更强大的敌人才能获得更多的声望。

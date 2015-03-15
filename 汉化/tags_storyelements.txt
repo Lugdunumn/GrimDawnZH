@@ -563,8 +563,8 @@ tagQuestItemAnnalsOfArkovia_Desc="记录着安克维亚罗文王最后的日子�
 tagQuestItemExileBeastFang=Fang of the Beast
 tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
 
-tagQuestItemThornsburyDiary=Daila's Diary
-tagQuestItemThornsburyDiary_Desc="Property of Daila Thornsbury."
+tagQuestItemThornsburyDiary=黛拉的日记
+tagQuestItemThornsburyDiary_Desc="它属于黛拉·索恩斯巴利。"
 
 #Journals 日志
 
@@ -845,22 +845,22 @@ tagStoreDesc_SmithA02_2=邓肯运用实验性的技术为武器和护甲注入�
 tagStoreDesc_SmithA02_3= 
 tagStoreDesc_SmithA02_4=锻造的武器、护甲和饰品会被注入以下属性之一:
 
-tagNPC_SmithA03=Valdrick
-tagStoreTitle_SmithA03=Legion Smith
-tagStoreDesc_SmithA03_1={}Know Thy Enemy
-tagStoreDesc_SmithA03_2=Valdrick has studied the enemies of man and learned to counter their strengths through the forge.
+tagNPC_SmithA03=沃德里克
+tagStoreTitle_SmithA03=军团铁匠
+tagStoreDesc_SmithA03_1={}知己知彼
+tagStoreDesc_SmithA03_2=沃德里克研究了人类的敌人之后，学会了如何通过锻造反制它们的力量。
 tagStoreDesc_SmithA03_3= 
-tagStoreDesc_SmithA03_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
-tagNPC_SmithA04=Horrus
+tagNPC_SmithA04=何露斯
 tagStoreTitle_SmithA04=Fallen Smith
-tagStoreDesc_SmithA04_1={}Gift of Unlife
+tagStoreDesc_SmithA04_1={}亡灵天赋
 tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
 tagStoreDesc_SmithA04_3= 
 tagStoreDesc_SmithA04_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
-tagNPC_SmithA05=Brother Galvin
-tagStoreTitle_SmithA05=Kymon's Smith
+tagNPC_SmithA05=加尔文兄弟
+tagStoreTitle_SmithA05=凯蒙的铁匠
 tagStoreDesc_SmithA05_1={}Blessed by Empyrion
 tagStoreDesc_SmithA05_2=Galvin's work is considered sacred, his hammer guided by the will of Empyrion himself.
 tagStoreDesc_SmithA05_3= 
@@ -868,14 +868,14 @@ tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with o
 
 
 #Faction Quartermasters
-tagNPC_FactionQuartermaster_01=Quartermaster Ellis
-tagStoreTitle_FactionQuartermaster_01=Devil's Crossing Quartermaster
+tagNPC_FactionQuartermaster_01=军需官埃利斯
+tagStoreTitle_FactionQuartermaster_01=恶魔十字军需官
 
-tagNPC_FactionQuartermaster_02=Keeper Unkala
-tagStoreTitle_FactionQuartermaster_02=Rover Keeper of Artifacts
+tagNPC_FactionQuartermaster_02=管理人安卡拉
+tagStoreTitle_FactionQuartermaster_02=流浪者手工艺品管理者
 
-tagNPC_FactionQuartermaster_03=Quartermaster Whitfield
-tagStoreTitle_FactionQuartermaster_03=Homestead Quartermaster
+tagNPC_FactionQuartermaster_03=军需官怀特菲尔德
+tagStoreTitle_FactionQuartermaster_03=霍姆斯特德军需官
 
 tagNPC_FactionQuartermaster_04=Brother Mulven
 tagStoreTitle_FactionQuartermaster_04=Kymon's Chosen Master of Arms
@@ -887,8 +887,8 @@ tagStoreTitle_FactionQuartermaster_06=Order of Death's Vigil Keeper of Artifacts
 tagNPC_FactionQuartermaster_07=Keeper Poruuk
 tagStoreTitle_FactionQuartermaster_07=Order of Death's Vigil Keeper of Artifacts
 
-tagNPC_FactionQuartermaster_08=Quartermaster Thorney
-tagStoreTitle_FactionQuartermaster_08=Black Legion Quartermaster
+tagNPC_FactionQuartermaster_08=军需官索尼
+tagStoreTitle_FactionQuartermaster_08=黑色军团军需官
 
 tagNPC_FactionQuartermaster_09=Anasteria's Collection
 tagStoreTitle_FactionQuartermaster_09=The Exile's Secrets

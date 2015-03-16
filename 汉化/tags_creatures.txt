@@ -112,7 +112,7 @@ tagVoidFiendHeroH03=虚空使者 森·特尔
 tagVoidFiendHeroH04=尼·特尔 ~ 压碎者
 tagVoidFiendHeroH05=古尔哥特·西恩 ~ 燃烧
 
-tagVoidFiendBoss01=地狱之火 巴洛格纳斯
+tagVoidFiendBoss01=地狱之火 巴洛格·纳斯
 
 #CreatureChthonianDevourer
 

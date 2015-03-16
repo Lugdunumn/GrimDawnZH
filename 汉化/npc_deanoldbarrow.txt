@@ -1,8 +1,8 @@
-Dean Oldbarrow
-Looks like the old man was right to trust you. We owe you our thanks.
-Just doing my part.
-What brings you to Homestead?
-What can you tell me about Homestead?
-Not much to tell. When the attacks started, we gathered our neighbors and holed up in here as best we could.{^n}{^n}Things were looking pretty bad up until the Legion showed up. Now we stand a fighting chance.
+迪恩·古冢
+看来老家伙相信你没错。我们欠你一个人情。
+我只是做了我应该做的。
+是什么风把你吹到霍姆斯特德来的？
+关于霍姆斯特德，你能告诉我些什么？
+没有多少可以告诉你的事。When the attacks started, we gathered our neighbors and holed up in here as best we could.{^n}{^n}Things were looking pretty bad up until the Legion showed up. Now we stand a fighting chance.
 Farewell.
 Just passing through.

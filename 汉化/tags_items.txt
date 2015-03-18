@@ -70,10 +70,11 @@ tagWeaponSwordD006Desc="看着这把剑，你能感受到自己的死期。"
 tagWeaponSwordD007=日出 Ortus
 tagWeaponSwordD007Desc="只要看到这把武器，你的内心就会充满希望。"
 
-
 tagWeaponSwordF001=军团切刀
 tagWeaponSwordF002=神选之剑
 tagWeaponSwordF003=魔鬼契约
+tagWeaponSwordF004=军团切刀 Legion Slicer
+
 tagWeaponBluntA000=木棒
 tagWeaponBluntA001=球头锤
 tagWeaponBluntA002=钉锤
@@ -130,10 +131,11 @@ tagWeaponBluntD005=德里格之瘟疫 Pestilence of Dreeg
 tagWeaponBluntD005Desc="承载着巫神德里格的七种天灾。"
 tagWeaponBluntD006=破晓巨锤 Dawnbreaker's Sledge
 
-tagWeaponBluntF001=恶魔压碎者 Devil's Crusher
+tagWeaponBluntF001=恶魔的压碎者 Devil's Crusher
 tagWeaponBluntF002=军团战锤 Legion Warhammer
 tagWeaponBluntF003=亡者之力 Death's Force
 tagWeaponBluntF004=罗瓦里木槌 Rhowari Gavel
+tagWeaponBluntF005=恶魔的棍棒 Devil's Cudgel
 tagWeaponAxeA000=伐木斧
 tagWeaponAxeA001=锯斧
 tagWeaponAxeA002=手斧
@@ -238,6 +240,7 @@ tagWeaponGun1hF001=恶魔的惩戒 Devil's Retribution
 tagWeaponGun1hF002=日阳左轮枪 Solar Revolver
 tagWeaponGun1hF003=亡者左轮枪 Death's Revolver
 tagWeaponGun1hF004=军团手持火炮 Legion Hand Cannon
+tagWeaponGun1hF005=亡者的六发左轮 Death's Sixgun
 
 tagWeaponGun2hA001=火枪
 tagWeaponGun2hA002=燧发步枪
@@ -284,15 +287,15 @@ tagWeaponGun2hD005=裂肠者 Gutripper
 tagWeaponGun2hF001=恶魔火枪 Devil's Musket
 tagWeaponGun2hF002=收割者的双管枪 Harvest's Double-Barrel
 
-tagWeaponCrossbow2hA001=十字弩 
+tagWeaponCrossbow2hA001=十字弩
 tagWeaponCrossbow2hA002=强弩
 tagWeaponCrossbow2hA003=重弩
 tagWeaponCrossbow2hA004=刺蝎弩
 
-tagWeaponCrossbow2hB001=幽光十字弩
-tagWeaponCrossbow2hB002=幽光强弩
+tagWeaponCrossbow2hB001=幽光十字弩 Spectral Crossbow
+tagWeaponCrossbow2hB002=幽光强弩 Spectral Arbalest
 
-tagWeaponCrossbow2hC001=雷霆十字枪
+tagWeaponCrossbow2hC001=雷霆十字枪 Boltspitter
 tagWeaponCrossbow2hC001Desc="一支原型武器。不幸的是，发明者在该武器能够被量产之前已死于非命。"
 tagWeaponCrossbow2hC002=疾病 Malady
 tagWeaponCrossbow2hC003=伯尔维治的诅咒 Curse of Burrwitch 
@@ -319,6 +322,7 @@ tagWeaponCrossbow2hD005=永恒苦难之先兆 Harbinger of Eternal Suffering
 
 tagWeaponCrossbow2hF001=罗瓦里刺蝎弩 Rhowari Scorpion
 tagWeaponCrossbow2hF002=神选爆弹枪 Chosen Bolter
+tagWeaponCrossbow2hF003=罗瓦里劲弩 Rhowari Arbalest
 
 tagWeaponMelee2hA001=巨剑
 tagWeaponMelee2hA002=战剑
@@ -384,6 +388,8 @@ tagWeaponMelee2hF001=军团战剑 Legion Warblade
 tagWeaponMelee2hF002=日阳巨锤 Solar Sledge
 tagWeaponMelee2hF003=死亡之镰 Death's Scythe
 tagWeaponMelee2hF004=神选战锤 Chosen Warmaul
+tagWeaponMelee2hF005=月光巨锤 Lunar Sledge
+tagWeaponMelee2hF006=神选粉碎者 Chosen Crusher
 
 tagWeaponCaster1hA001=魔杖
 tagWeaponCaster1hA002=权杖
@@ -526,6 +532,8 @@ tagShieldD005=破晓者的使命 Dawnbreaker's Duty
 tagShieldF001=恶魔的守护者 Devil's Protector
 tagShieldF002=收割者的守护 Harvest's Guard
 tagShieldF003=神选火焰守卫 Chosen Fireguard
+tagShieldF004=收割者的防御 Harvest's Defender
+tagShieldF005=神选猩红守护 Chosen Crimsonguard
 
 tagQualityShieldA01=废铁
 tagQualityShieldA02=生锈
@@ -609,7 +617,8 @@ tagFocusF006=罗瓦里天之法典 Rhowari Sky Codex
 tagFocusF007=亡者遗迹 Death's Ruin
 tagFocusF008=亡者之拥 Death's Embrace
 tagFocusF009=亡者预言 Death's Advance
-
+tagFocusF010=罗瓦里织法者秘典 Rhowari Spellweaver Codex
+tagFocusF011=亡者的凝视 Death's Gaze
 
 #WEAPON_QUALITY
 
@@ -1049,6 +1058,24 @@ tagWaistD008=幽魂丝线束腰 Phantom-Thread Girdle
 tagWaistD008Desc="受诅咒的灵魂缠绕于魔神的纺锤上，这件束腰就由这些丝线编织而成。"
 tagWaistD009=野性之血束腰 Wildblood Girdle
 
+tagWaistF001=恶魔的束带 Devil's Cord
+tagWaistF002=恶魔的护腰 Devil's Waistguard
+tagWaistF003=恶魔的束腰 Devil's Girdle
+tagWaistF004=罗瓦里束带 Rhowari Cord
+tagWaistF005=罗瓦里护腰 Rhowari Waistguard
+tagWaistF006=罗瓦里束腰 Rhowari Girdle
+tagWaistF007=日阳腰带 Solar Belt
+tagWaistF008=日阳护腰 Solar Waistguard
+tagWaistF009=日阳束腰 Solar Girdle
+tagWaistF010=军团腰带 Legion Belt
+tagWaistF011=军团护腰 Legion Waistguard
+tagWaistF012=军团束腰 Legion Girdle
+tagWaistF013=亡者束带 Death's Cord
+tagWaistF014=亡者护腰 Death's Waistguard
+tagWaistF015=亡者束腰 Death's Girdle
+tagWaistF016=神选束带 Chosen Cord
+tagWaistF017=神选护腰 Chosen Waistguard
+tagWaistF018=神选束腰 Chosen Girdle
 
 #ArmorHands手套
 
@@ -1558,6 +1585,24 @@ tagBlueprint_WeaponC005=设计图：震颤
 tagBlueprint_WeaponC006=设计图：咒火魔杖
 tagBlueprint_WeaponC007=设计图：火焰风暴权杖
 
+tagBlueprint_WeaponF001=设计图：恶魔的棍棒
+tagBlueprint_WeaponF002=设计图：恶魔十字防御者
+tagBlueprint_WeaponF003=设计图：罗瓦里织法者秘典
+tagBlueprint_WeaponF004=设计图：罗瓦里劲弩
+tagBlueprint_WeaponF005=设计图：预兆之剑
+tagBlueprint_WeaponF006=设计图：月光巨锤
+tagBlueprint_WeaponF007=设计图：收割者的防御
+tagBlueprint_WeaponF008=设计图：雷霆十字枪
+tagBlueprint_WeaponF009=设计图：军团切刀
+tagBlueprint_WeaponF010=设计图：黑色军团盾徽
+tagBlueprint_WeaponF011=设计图：亡者的六发左轮
+tagBlueprint_WeaponF012=设计图：亡者的凝视
+tagBlueprint_WeaponF013=设计图：死神之触
+tagBlueprint_WeaponF014=设计图：神选猩红守护
+tagBlueprint_WeaponF015=设计图：神选压碎者
+tagBlueprint_WeaponF016=设计图：奥威尔的左轮手枪
+
+
 tagBlueprint_ArmorB001=设计图：专家级靴子
 tagBlueprint_ArmorB002=设计图：专家级护胫
 tagBlueprint_ArmorB003=设计图：侍从靴子
@@ -1570,6 +1615,25 @@ tagBlueprint_ArmorB009=设计图：专家级兜帽
 tagBlueprint_ArmorB010=设计图：专家级头环
 tagBlueprint_ArmorB011=设计图：游侠之盔
 tagBlueprint_ArmorB012=设计图：游侠之兜盔
+
+tagBlueprint_ArmorF001=设计图：恶魔的束带
+tagBlueprint_ArmorF002=设计图：恶魔的护腰
+tagBlueprint_ArmorF003=设计图：恶魔的束腰
+tagBlueprint_ArmorF004=设计图：罗瓦里束带
+tagBlueprint_ArmorF005=设计图：罗瓦里护腰
+tagBlueprint_ArmorF006=设计图：罗瓦里束腰
+tagBlueprint_ArmorF007=设计图：日阳腰带
+tagBlueprint_ArmorF008=设计图：日阳护腰
+tagBlueprint_ArmorF009=设计图：日阳束腰
+tagBlueprint_ArmorF010=设计图：军团腰带
+tagBlueprint_ArmorF011=设计图：军团护腰
+tagBlueprint_ArmorF012=设计图：军团束腰
+tagBlueprint_ArmorF013=设计图：亡者束带
+tagBlueprint_ArmorF014=设计图：亡者护腰
+tagBlueprint_ArmorF015=设计图：亡者束腰
+tagBlueprint_ArmorF016=设计图：神选束带
+tagBlueprint_ArmorF017=设计图：神选护腰
+tagBlueprint_ArmorF018=设计图：神选束腰
 
 tagBlueprint_ArmorC001=设计图：帝国卫兵的防御者
 tagBlueprint_ArmorC002=设计图：帝国卫兵的胸甲
@@ -1863,6 +1927,31 @@ tagConsumableA21=天神之梦魇
 tagConsumableA21Desc="保护凡人不受天神惩罚的半神所使用的灵药。"
 tagConsumableA22=虚化集簇
 tagConsumableA22Desc="虚化水晶的大型集簇，散发着奇异的能量。"
+
+tagConsumableF01=石心之油 Stoneheart Oil
+tagConsumableF01Desc="An oil that strengthens the shield and lightens its load."
+tagConsumableF02=蛇人之血药剂
+tagConsumableF02Desc="Shatter the vial, releasing a cloud of vile toxins around you."
+tagConsumableF03=罗瓦里之油
+tagConsumableF03Desc="A toxin derived from the vile undead roaming Old Arkovia."
+tagConsumableF04=Wrath of the Beast Tincture
+tagConsumableF04Desc="Shatter the vial, driving your minions into a frenzy."
+tagConsumableF05=革翅目之油
+tagConsumableF05Desc="A toxin derived from the poison glands of Dermapterans."
+tagConsumableF06=勇气药剂
+tagConsumableF06Desc="Shatter the vial, emboldening all nearby allies."
+tagConsumableF07=寻心之油
+tagConsumableF07Desc="A toxin devised by Black Legion assassins."
+tagConsumableF08=刀锋守护药剂
+tagConsumableF08Desc="Shatter the vial, conjuring swirling blades around you."
+tagConsumableF09=冷血之油
+tagConsumableF09Desc="An arcane toxin that freezes the blood of your enemies."
+tagConsumableF10=寒霜守卫药剂
+tagConsumableF10Desc="Shatter the vial, releasing a bone-chilling wind around you."
+tagConsumableF11=凯蒙的圣油
+tagConsumableF11Desc="Sacred oils blessed by Kymon himself to ignite your foes."
+tagConsumableF12=凯蒙的愤怒药剂
+tagConsumableF12Desc="Shatter the vial, releasing Kymon's divine wrath around you."
 
 #DLC
 tagDLCA01=幻象:假发 Illusion: Powdered Wig
@@ -2685,7 +2774,7 @@ tagItemSetC005Name=掠夺者的正义
 tagItemSetC005Desc="我身兼判官，陪审，和刽子手。"
 
 tagItemSetC006Name=使者的华服
-tagItemSetC006Desc="执行外交使命的君王使节所穿的服饰。"
+tagItemSetC006Desc="执行外交使命的帝王使节所穿的服饰。"
 
 tagItemSetC007Name=曼海尔之触
 tagItemSetC007Desc="曼海尔的祭司们所穿过的服饰。他们治疗着这个世界，不分种族与国界。"

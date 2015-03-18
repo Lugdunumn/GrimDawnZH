@@ -405,7 +405,7 @@ tagNPC_AreaC_17=瓦拉尔·死亡印记
 tagNPC_AreaC_18=莫代尔兄弟
 tagNPC_AreaC_19=哈鲁夫
 tagNPC_AreaC_20=中士瑟里夫
-tagNPC_AreaC_21=武器专家巴罗
+tagNPC_AreaC_21=武器专家波若
 tagNPC_AreaC_22=
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
@@ -769,7 +769,7 @@ tagLoreObj_TrappedAndAloneName=伊劳拉的日记
 tagLoreObj_TrappedAndAloneText=Had the nightmare again. I am in an old tomb, barely a candle to light the way. Off in the corner I see a pair of red glowing eyes. They come closer...closer...then just before I can make out what it is through the shadows, the creature is gone.{^n}{^n}I try to run, but every way I go ends in rubble and stone. There is no escape. I turn around to see the eyes once more, staring back at me. I hear laughter, a child's laughter. Then everything is fire. I try to scream, but nothing comes out. The eyes just stare ahead as I writhe in the flames.{^n}{^n}That is when I awaken, drenched in sweat. It has been like this for five nights in a row. The nightmares are becoming more frequent and I am not sure how much more of this I can stand. It may not be wise, but perhaps it is time we moved on from this wretched place.
 
 tagLoreObj_AreaCThornsburyDiary_Name=黛拉日记的节选
-tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Sorrow's Bastion. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating up the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
+tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Sorrow's Bastion. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
 
 tagLoreObj_AreaCFarmer_NoteA01Name=沃尔特的笔记
 tagLoreObj_AreaCFarmer_NoteA01Text=I can see smoke rising from the Everbrook estate. They're nearly here, whatever they are. I've barricaded the doors and windows as best I could. All that remains now is to wait for them to come to us.{^n}{^n}The wife insisted that we abandon the farm and head for Homestead, but I'll be damned if I let some green-eyed freaks kick us off our land. Our family has not toiled on this farm for generations just to leave it at the first sign of trouble. Those cowards in Homestead can leave their crops to rot. When all this blows over, I'll still be here tending to the harvest, and they will look the fools.
@@ -868,27 +868,29 @@ tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with o
 
 
 #Faction Quartermasters
-tagNPC_FactionQuartermaster_01=军需官埃利斯
-tagStoreTitle_FactionQuartermaster_01=恶魔十字军需官
+tagNPC_FactionQuartermaster_01=埃利斯
+tagStoreTitle_FactionQuartermaster_01=军需官
 
 tagNPC_FactionQuartermaster_02=管理人安卡拉
 tagStoreTitle_FactionQuartermaster_02=流浪者手工艺品管理者
 
-tagNPC_FactionQuartermaster_03=军需官怀特菲尔德
-tagStoreTitle_FactionQuartermaster_03=霍姆斯特德军需官
+tagNPC_FactionQuartermaster_03=怀特菲尔德
+tagStoreTitle_FactionQuartermaster_03=军需官
 
 tagNPC_FactionQuartermaster_04=Brother Mulven
-tagStoreTitle_FactionQuartermaster_04=Kymon's Chosen Master of Arms
+tagStoreTitle_FactionQuartermaster_04=Master of Arms
 tagNPC_FactionQuartermaster_05=Brother Adrius
-tagStoreTitle_FactionQuartermaster_05=Kymon's Chosen Master of Arms
+tagStoreTitle_FactionQuartermaster_05=Master of Arms
 
 tagNPC_FactionQuartermaster_06=Keeper Malvor
-tagStoreTitle_FactionQuartermaster_06=Order of Death's Vigil Keeper of Artifacts
+tagStoreTitle_FactionQuartermaster_06=Keeper of Artifacts
 tagNPC_FactionQuartermaster_07=Keeper Poruuk
-tagStoreTitle_FactionQuartermaster_07=Order of Death's Vigil Keeper of Artifacts
+tagStoreTitle_FactionQuartermaster_07=Keeper of Artifacts
 
-tagNPC_FactionQuartermaster_08=军需官索尼
-tagStoreTitle_FactionQuartermaster_08=黑色军团军需官
+tagNPC_FactionQuartermaster_08=索恩
+tagStoreTitle_FactionQuartermaster_08=军需官
+tagNPC_FactionQuartermaster_09=柯林斯
 
-tagNPC_FactionQuartermaster_09=Anasteria's Collection
-tagStoreTitle_FactionQuartermaster_09=The Exile's Secrets
+tagNPC_FactionQuartermaster_10=Anasteria's Drudge
+tagStoreTitle_FactionQuartermaster_10=The Exile's Secrets
+

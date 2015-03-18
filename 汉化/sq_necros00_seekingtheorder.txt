@@ -1,8 +1,8 @@
-Order of Death's Vigil
-Seeking the Order
-Find Order
-Haruuv, a representative of the Order of Death's Vigil, has asked you to travel to a crypt near Sorrow's Bastion, where the Order has its sanctum. To reach the crypt, follow the road north out of Homestead, through the Blood Grove. When you've reached the ruins of Sorrow's Bastion, look west for the crypt entrance. Once inside, speak to Master Varuuk.
-Speak to Master Varuuk
+死亡守夜人教团
+寻找教团
+找到教团
+哈鲁夫,死亡守夜人教团的一位代表，要你前往悲伤城堡附近的一个地下室，那里存在着一个教团的圣所。要到达那个地下室，沿着霍姆斯特德北方的路走，穿过血森林。当你到达悲伤城堡的废墟时，在西边寻找地下室的入口。进入之后，和瓦鲁克大师交谈。
+和瓦鲁克大师交谈
 
 
 

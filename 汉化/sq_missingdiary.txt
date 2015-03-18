@@ -1,10 +1,10 @@
-Homestead
-Missing Diary
-Return diary
-You have discovered a diary abandoned at the Thornsbury farm. It apparently belongs to someone by the name Daila Thornsbury. See if someone by that name exists in Homestead. She will likely be glad to have her diary returned.
+霍姆斯特德
+丢失的日记
+交还日记
+你在索恩斯巴利农场发现了一本被丢弃的日记。显然它属于一个名叫黛拉·索恩斯巴利的人。找找霍姆斯特德有没有这个人。能够找回日记，她会很高兴的。
 
-Collect Daila's Diary
-Return the Diary to Daila Thornsbury in Homestead
+收集黛拉·的日记
+把日记交还给霍姆斯特德的黛拉·索恩斯巴利
 
 
 

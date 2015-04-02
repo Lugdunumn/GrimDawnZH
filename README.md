@@ -17,7 +17,7 @@ beta24版汉化正在进行中
 
 ```html
 
-mq_aetherialfarm.txt <p style="color:red">完成</p>
+mq_aetherialfarm.txt 完成
 
 mq_alliesfromtheashesofcairn.txt  完成
 

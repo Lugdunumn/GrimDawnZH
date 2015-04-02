@@ -14,3 +14,255 @@ beta24版汉化正在进行中
 换行问题已经由开发者解决，不需要再添加空格了！
 
 请优先汉化怪物、装备、技能和界面
+
+
+mq_aetherialfarm.txt  完成
+mq_alliesfromtheashesofcairn.txt  完成
+mq_bloodharvest.txt 完成
+mq_burrwitch.txt  完成
+mq_cullingtheswarm.txt  完成
+mq_farmerplight.txt	  完成
+mq_helpingout.txt	  完成
+mq_infestedfields.txt	完成
+mq_makingadeal.txt  完成
+mq_murdersandworse.txt  完成
+mq_pocketportal.txt 完成
+mq_prisonentry.txt  完成
+mq_reapingwhatyousow.txt  
+mq_removethehead.txt
+mq_roadtohomestead.txt
+mq_theinquisitor.txt	
+mq_wakingtomisery.txt	
+mq_warden.txt	
+mq_warrioramongrovers.txt
+mq_waterpump.txt
+mq_weneedfood.txt
+npc_alex_01.txt
+npc_alicia.txt
+npc_alicia_02.txt
+npc_alleria_01.txt	
+npc_barnabas_01.txt	
+npc_bernard_01.txt	
+npc_blacklegion_deathmarkkadris_01.txt
+npc_blacklegion_deathmarkvallar_01.txt
+npc_blacklegion_flavordeathmark_01.txt
+npc_blacklegion_flavorguard_01.txt
+npc_blacklegion_homesteadcaptain_01.txt	
+npc_blacklegion_scoutmasterlysell_01.txt
+npc_blacklegion_sergeant_01.txt	
+npc_blacklegion_weaponsmaster_01.txt
+npc_bloodharvest_male_01.txt
+npc_bloodharvest_male_01rescued.txt
+npc_bloodharvest_male_02.txt
+npc_bloodharvest_male_02rescued.txt
+npc_bonusitems_01.txt	
+npc_burnthetaken_flavor_male_01.txt
+npc_burnthetaken_flavor_male_02.txt
+npc_burrwitchhermit_01.txt
+npc_captive_inventor_01.txt
+npc_captive_rover_jasper_01.txt
+npc_caravan_merchant_01.txt
+npc_child_judith_01.txt	
+npc_child_judith_02.txt	
+npc_child_oscar_01.txt	
+npc_child_oscar_02.txt
+npc_constance_01.txt
+npc_dariuscronley_01.txt	
+npc_deanoldbarrow.txt	
+npc_dennyoldbarrow.txt	
+npc_direni_01.txt	
+npc_direni_02.txt	
+npc_douglassoldbarrow_01.txt
+npc_drewlarkin_01.txt	
+npc_edmunddoyle_01.txt
+npc_edwin_01.txt
+npc_edwin_02.txt
+npc_elizabethskinner_01.txt
+npc_elsa.txt	
+npc_elsa_02.txt	
+npc_endofareaplaceholder.txt
+npc_eva.txt
+npc_fishingvillager_01.txt
+npc_fishingvillager_02.txt
+npc_ghost_minova.txt
+npc_greven.txt
+npc_gus_02.txt
+npc_harmond_01.txt
+npc_helenfletcher.txt
+npc_helenfletcher_02.txt
+npc_hiram.txt
+npc_hiram_healed.txt
+npc_homestead_flavor_chef.txt
+npc_homestead_flavor_child_01.txt
+npc_homestead_flavor_female_01.txt
+npc_homestead_flavor_female_02.txt
+npc_infestedfield_farmer_01.txt
+npc_infestedfield_farmer_02.txt
+npc_infestedfield_farmer_field01.txt
+npc_infestedfield_farmer_field02.txt
+npc_inquisitorcreed_01.txt
+npc_isaac_01.txt
+npc_isaiahreddan_01.txt
+npc_isaiahreddan_02.txt
+npc_jailor_01.txt
+npc_jane_01.txt
+npc_johnbourbon_reversetest_01.txt	
+npc_josephinereddan_01.txt	
+npc_josephinereddan_02.txt	
+npc_juliuscole.txt
+npc_juliuscole_02.txt
+npc_kalista_01.txt
+npc_kasparov_01.txt
+npc_lisandra_01.txt
+npc_lisandra_02.txt
+npc_mariaoldbarrow.txt
+npc_milahskinner_01.txt	
+npc_milesfinegan_01.txt	
+npc_milesfinegan_02.txt
+npc_mornay.txt
+npc_nathaniel_01.txt
+npc_necro_balvoruuk.txt
+npc_necro_emissary.txt
+npc_necro_emissary_base.txt
+npc_necro_flavor_female_01.txt
+npc_necro_flavor_female_02.txt
+npc_necro_flavor_male_01.txt
+npc_necro_flavor_male_02.txt
+npc_necro_keeperoftomes_01.txt
+npc_necro_mastervaruuk_01.txt	
+npc_necromancer.txt	
+npc_necromancer_02.txt
+npc_necromancerghost.txt	
+npc_outlawdefector.txt
+npc_outlawdefector02.txt
+npc_prisongateguard_01.txt
+npc_quade.txt	
+npc_rallia_01.txt	
+npc_rallia_02.txt
+npc_refugee_01.txt
+npc_refugee_01b.txt
+npc_refugee_02.txt
+npc_refugee_02b.txt
+npc_refugee_03.txt
+npc_refugee_collin_01.txt	
+npc_refugee_collin_02.txt	
+npc_rescued_inventor_01.txt
+npc_rescued_merchant_01.txt
+npc_rover_camp_01.txt	
+npc_rover_marcelus_01.txt
+npc_rover_oldarkovia_flavor.txt	
+npc_roverelder.txt
+npc_silas.txt	
+npc_smith_apprentice_01.txt
+npc_smith_apprentice_02.txt
+npc_smith_master_01.txt
+npc_smith_master_02.txt
+npc_smugglerpass_refugee_01.txt
+npc_smugglerpass_refugee_01hs.txt	
+npc_smugglerpass_refugee_02.txt	
+npc_smugglerpass_refugee_02hs.txt
+npc_smugglerpass_refugee_03.txt
+npc_smugglerpass_refugee_03hs.txt
+npc_smugglerpass_refugee_04hs.txt	
+npc_smugglerpass_refugee_05hs.txt
+npc_stephenskinner_01.txt
+npc_stephenskinner_02.txt	
+npc_tomhart_01.txt
+npc_trappedandalone_flavor_female_01.txt
+npc_trappedandalone_flavor_female_02.txt
+npc_trappedandalone_flavor_male_01.txt
+npc_trappedandalone_flavor_male_02.txt
+npc_ulgrim_01.txt	
+npc_ulgrim_02.txt	
+npc_ulgrim_03.txt
+npc_ulgrim_04.txt
+npc_zealot_brotherelluvius_01.txt
+npc_zealot_emissary.txt
+npc_zealot_emissary_base.txt
+npc_zealot_fatherkymon_01.txt
+npc_zealot_flavor_female_01.txt	
+npc_zealot_flavor_male_01.txt	
+npc_zealot_flavor_male_02.txt	
+object_aethercluster_01.txt	
+object_bountyboard_01.txt	
+object_bridgeburrwitch_01.txt
+object_bridgefarmlands_01.txt	
+object_bridgehomestead_01.txt	
+object_bridgeoldgrove_01.txt
+object_bridgewightmire_01.txt	
+object_clearingtheway_01.txt
+object_detonationsite_floodedpassage_01.txt
+object_detonationsite_hiddenwealth_01.txt
+object_detonationsite_jaggedwastes_01.txt
+object_detonationsite_lowercrossing_01.txt
+object_detonationsite_oldarkovia_01.txt	
+object_detonationsite_trappedandalone_01.txt
+object_lostarmaments_01.txt	
+sq_afamiliarface.txt
+sq_annalsofarkovia.txt
+sq_bastionofchaos.txt	
+sq_burnthetaken.txt
+sq_cannons.txt
+sq_chef.txt	
+sq_cleansingtheshrine.txt	
+sq_clearingtheway.txt	
+sq_cronleysecret.txt
+sq_depthsofoldarkovia.txt	
+sq_disarmingtheenemy.txt
+sq_dismantling.txt	
+sq_familycrisis.txt	
+sq_finalsalute.txt
+sq_findelsa.txt	
+sq_gloomweaver.txt
+sq_grobletyrant.txt
+sq_harts_amulet.txt
+sq_hiddenwealth.txt
+sq_huntingthehunter.txt
+sq_ironandflesh.txt	
+sq_lost_apprentice.txt	
+sq_lost_caravan.txt	
+sq_lost_journal.txt	
+sq_lostelder.txt	
+sq_lumbermill.txt	
+sq_maninneed.txt	
+sq_manticorevenom.txt	
+sq_medicalpractice.txt	
+sq_mercifuldeath.txt	
+sq_missingdiary.txt
+sq_necros00_seekingtheorder.txt
+sq_necros01_worthyoftheorder.txt
+sq_necros02_sealsofbinding.txt
+sq_necros03_soulsofthedead.txt
+sq_necros04_servicebeyonddeath.txt
+sq_necros05_apledgetocairn.txt
+sq_oldarkovia_partone.txt	
+sq_oldarkovia_parttwo.txt
+sq_payingtribute.txt 完成
+sq_prideofjaggedwaste.txt 完成
+sq_rescuechildren.txt 完成
+sq_restoredc.txt 完成
+sq_roverrescue.txt 完成
+sq_sacrifice.txt 完成
+sq_slithnecklaces.txt 完成
+sq_smith.txt 完成
+sq_somethingfornothing.txt 完成
+sq_strangekey.txt 完成
+sq_strikeattheheart.txt	完成
+sq_toolateforrescue.txt 完成
+sq_trappedandalone.txt	完成
+sq_troll.txt	完成
+sq_vengeance.txt	完成
+sq_zealots00_prophetscall.txt	
+sq_zealots01_proveyourselftothecause.txt
+sq_zealots02_makingastand.txt	
+sq_zealots03_enemyofmyenemy.txt	
+sq_zealots04_shrineofourfathers.txt	
+sq_zealots05_apledgetocairn.txt
+tags_achievements.txt	
+tags_creatures.txt 完成
+tags_items.txt 完成
+tags_skills.txt	完成
+tags_storyelements.txt 完成
+tags_tutorial.txt 完成
+tags_ui.txt 完成
+tags_uimain.txt 完成

@@ -133,10 +133,10 @@ Not interested in heroics.
 I hear you've dragged Ulgrim's sorry ass out of Deadman's Gulch. Good work.{^n}{^n}Come see me later. Perhaps we can put your skills to some use.
 I take it you don't like Ulgrim?
 Let's just say Ulgrim and the Black Legion have a history.
-I...see.
+我……懂了。
 I'll think about it.
 Welcome to Homestead. We could definitely use more capable hands around here.{^n}{^n}If you find yourself back out there and run into a smug smartass by the name Ulgrim, tell him he's late, as usual...
-I have some questions.
+我有一些问题。
 What is it?
 Can you open the gates?
 Nobody's going through those gates until I've received Ulgrim's report.
@@ -144,23 +144,23 @@ I have another question.
 Very well.
 What is the situation here?
 I'd tell you that I've dealt with worse, but I'm not sure that's true. The situation here is about as bad as it gets.{^n}{^n}We have Aetherials and the Cult of Ch'thon on our doorstep, few supplies, no heavy weapons and barely enough men to keep it all together.
-I have another question.
+我还有一个问题。
 Sounds rough.
 What can you tell me about the Black Legion?
 What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in the Grim Dawn but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
-I have another question.
-Thank you.
-Is that Inquisitor Creed?
-Why, you've heard of him?{^n}{^n}Yes, Inquisitor Creed has been working closely with the Black Legion after the Grim Dawn. His insight on the Aetherials has helped keep all of us alive so far.
-I found evidence of his presence in Burrwitch.
-Yes, grisly business with Warden Krieg. Creed barely escaped with his life.
-I killed the Warden.
-If that's true, then you have my respect.
-I have another question.
-Goodbye.
-I have another question.
-Goodbye.
-I have another question.
-Thank you.
-Nevermind.
-Goodbye.
+我还有一个问题。
+谢谢。
+那是审判官克里德吗？
+你怎么知道的？{^n}{^n}他就是克里德。在恐怖黎明之后，审判官克里德和黑色军团一起紧密地合作。他对于虚灵的了解让我们得以活到现在。
+我在伯尔维治找到了他曾经到访那里的证据。
+是的，他曾去那里处理典狱长克里格在进行的一些邪恶的勾当。但是克里德差点死在他手里。
+我已经杀掉了典狱长。
+如果你说的是真的，那么你将得到我的敬意。
+我还有一个问题。
+再见。
+我还有一个问题。
+再见。
+我还有一个问题。
+再见。
+没事了。
+再见。

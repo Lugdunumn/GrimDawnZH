@@ -1,11 +1,11 @@
-Weapons Master Borrov
-With those cannons, we'll give anything that comes within 300 yards a taste of Black Legion lead.
-Perfect.
-Off with ya. I've got inventory to do.
-Goodbye.
-You're still in one piece, suppose that means ya didn't try to enter the Conflagration then.{^n}{^n}Wise choice.
-Actually, I went out there. The cannons are secured.
-Well I'll be damned. Ya got more guts than brains, but ya won't find me complaining when those cannons are back in our hands.{^n}{^n}I'll have some men sent out there to haul them back immediately.{^n}{^n}Ya have done the Legion a huge service. Thank ya.
+武器专家波若
+有了这些大炮，我们就能给任何进入300码之内的家伙先尝尝黑色军团第一波攻击。
+好极了。
+不和你闲扯了，我要管理库存。
+再见。
+你还是囫囵个的回来了，说明你没玩战火平原去。{^n}{^n}那是明智的选择。
+实际上，我去了。那些大炮安全了。
+哎我这张臭嘴。你的勇气超越了你的理智。but ya won't find me complaining when those cannons are back in our hands.{^n}{^n}I'll have some men sent out there to haul them back immediately.{^n}{^n}Ya have done the Legion a huge service. Thank ya.
 You're welcome.
 You're still in one piece, suppose that means ya didn't try to enter the Conflagration then.{^n}{^n}Wise choice.
 Where are the cannons?

@@ -81,9 +81,9 @@ npc_blacklegion_flavorguard_01.txt 完成
 
 npc_blacklegion_homesteadcaptain_01.txt
 
-npc_blacklegion_scoutmasterlysell_01.txt
+npc_blacklegion_scoutmasterlysell_01.txt 完成
 
-npc_blacklegion_sergeant_01.txt	
+npc_blacklegion_sergeant_01.txt	完成
 
 npc_blacklegion_weaponsmaster_01.txt
 

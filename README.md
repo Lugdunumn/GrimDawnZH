@@ -387,7 +387,7 @@ sq_annalsofarkovia.txt完成
 
 sq_bastionofchaos.txt	完成
 
-sq_burnthetaken.txt 完成
+sq_burnthetaken.txt
 
 sq_cannons.txt 完成
 

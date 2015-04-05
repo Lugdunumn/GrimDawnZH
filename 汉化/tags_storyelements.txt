@@ -397,7 +397,7 @@ tagNPC_AreaC_09=莉珊德拉·艾弗里
 tagNPC_AreaC_10=艾鲁维斯兄弟
 tagNPC_AreaC_11=圣父凯蒙
 tagNPC_AreaC_12=瓦拉克大师
-tagNPC_AreaC_13=The Keeper of Tomes
+tagNPC_AreaC_13=秘典守护者
 tagNPC_AreaC_14=拉莉亚
 tagNPC_AreaC_15=索梅尔队长
 tagNPC_AreaC_16=科林·塔夫恩
@@ -792,7 +792,7 @@ tagNPC_GateGuardA01=守门人 - 鲁克
 
 #Merchants and Other Services商人等npc
 
-tagNPC_BonusItems=Kory the Keeper
+tagNPC_BonusItems=守护者 科丽
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -852,19 +852,19 @@ tagStoreDesc_SmithA03_2=沃德里克研究了人类的敌人之后，学会了�
 tagStoreDesc_SmithA03_3= 
 tagStoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
-tagNPC_SmithA04=何露斯
-tagStoreTitle_SmithA04=Fallen Smith
+tagNPC_SmithA04=霍鲁斯
+tagStoreTitle_SmithA04=亡灵铁匠
 tagStoreDesc_SmithA04_1={}亡灵天赋
 tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
 tagStoreDesc_SmithA04_3= 
-tagStoreDesc_SmithA04_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA05=加尔文兄弟
 tagStoreTitle_SmithA05=凯蒙的铁匠
 tagStoreDesc_SmithA05_1={}Blessed by Empyrion
 tagStoreDesc_SmithA05_2=Galvin's work is considered sacred, his hammer guided by the will of Empyrion himself.
 tagStoreDesc_SmithA05_3= 
-tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 
 #Faction Quartermasters

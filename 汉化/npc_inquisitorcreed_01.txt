@@ -1,62 +1,62 @@
-Inquisitor Creed
-If you have something to say, make it quick.
+审判官 克里德
+如果你有什么要说的，快说。
 
-Goodbye.
-I'm pleased that you will join us. It may take everything we have to stop the cult.
-Where are we headed again?
-The Black Legion has a stronghold to the north.
-I'm on my way.
-We will stop them.
-We are not going to be in Homestead much longer, and I could use your help.{^n}{^n}Will you join us?
-Where do you need me?
+再见。
+我很高兴你将加入我们。要组织邪教徒，我们可能要付出一切。
+我们要去哪里？
+黑色军团在北方有一座要塞。
+我这就上路。
+我们会阻止他们的。
+我们不会在霍姆斯特的待太久。你可以帮得上忙。{^n}{^n}你要加入我们么？
+你要我做什么？
 WORDS
-I will meet you up north.
-I'm afraid I can't.
-I have some matters I must attend to first.
-You're here. Good.{^n}{^n}We have much to discuss.
-I found these notes on Karroz.
-Hm, I've heard of this ritual. It has been performed only once before, if my memory serves me. The results were...not good.{^n}{^n}We cannot waste any time. We must head north to STRONGHOLD immediately. Will you join us?
-Where do you need me?
+北边再见。
+我恐怕不能加入。
+我还有些需要做的事。
+你来了，很好。{^n}{^n}我们有很多事要谈。
+我在卡若兹身上找到了这些笔记。
+嗯，我听说过这种仪式。如果我没记错的话，以前它只被实施过一次。结果……非常不妙。{^n}{^n}我们不能浪费任何时间了，我们必须马上前往北方的要塞。你会加入我们吗？
+你要我做什么？
 
 A timely rescue. The fate awaiting those prisoners was indeed a horrible one.
 
 
-Farewell.
-You have done well in destroying that abomination. I dread to think what it could have done should it have been set loose.
+再见。
+你很漂亮地摧毁了混元体。如果它被释放出来，我不敢想那会造成什么样的后果。
 
-What do you know about the Order and the Chosen?
-There was once a time when I would have been tasked with tracking down members of the Order of Death's Vigil, but I think we are a little past the privilege of such prejudice.{^n}{^n}Kymon's Chosen are fanatical heretics, but faith can be a powerful weapon.
+对于教团和神选战士你了解多少？
+曾有一次我奉命追踪教团的成员，但我觉得我们对于他们存在着过多的偏见。{^n}{^n}凯蒙的神选战士是些狂热的异教徒，但是信仰可以成为强大的武器。
 
-Thank you.
-Farewell.
-I hear you are headed to the Gruesome Harvest. Be mindful of the possessed trolls. They are even stronger than their living counterparts and highly resistant to the Aether. The Vanguards can even unleash the Aether in a burst of energy around them.{^n}{^n}The Reanimators will resurrect additional allies if not dealt with quickly, but if you manage to destroy them, their minions will fall along with them.
-How do you know so much about the Aetherials?
-I've dedicated all my resource to tracking down the Aetherial threat, but I was too late to stop the events that led to the Grim Dawn.{^n}{^n}Now I study the enemy, learn their tactics so that we make no further mistakes. Trust me, I fully intend to use every resource at our disposal.
-Well, thank you.
+谢谢。
+再见。
+我听说你要前往阴森的谷仓。当心那些被占据的巨魔，他们比活着的时候更加强大，对虚化有很高的抗性。那些先锋甚至可以在他们的周围爆发出虚化能量。{^n}{^n}如果不快速地杀掉复生者，它们会复活额外的援军。但如果你能摧毁它们，那么那些援军也会一同消失。
+你怎么对虚灵这么了解？
+我为了追踪虚灵付出了我所有的资源，但却来不及阻止恐怖黎明的发生。{^n}{^n}现在我研究敌人，学习他们的策略以便不再犯错。相信我，我愿意动用我们的一切力量。
+好的，谢谢你。
 
-Thanks for the tips.
-So much death...and no end in sight.
-I have some questions.
-If you have something to say, make it quick.
-How do you know Ulgrim?
-I've long known of Ulgrim by his previous title, the First Blade, although I was fortunate not to have met him in his working capacity back then. It was not until the days prior to the Grim Dawn that I met him in person. It was our mutual awareness of the Aetherial conspiracy and individual inability to counter it that brought us together. In the end, we realized the Aetherials already controlled too much of the government and could not be stopped. So we instead set out to gather resources and allies to weather the invasion and launch a resistance.
-The First Blade of the Emperor?
-Yes, the emperor's spymaster and assassin. His name was stricken from all the records. His very identity erased so he could exist outside the boundaries of the law.{^n}{^n}This gave the emperor great freedom in handling matters some would deem objectionable to the throne. All knew it, none would dare bring it to light lest they have a meeting with the First Blade. He was truly unparalleled in his art; feared even by the nightblades of the noble houses, many of whom silently met their end at his hands. One might question the morality of his job but not the ruthless effectiveness of his performance. {^n}{^n}I will say though, he did deliver a form of justice to many corrupt and vile men. He silenced many conflicts before they could grow into larger and bloodier ordeals.
-I have another question.
+谢谢你的提醒。
+太多的死亡……根本看不到尽头。
+我有一些问题。
+如果你有什么要说的，快说。
+你是怎么认识艾格瑞姆的？
+因为他之前的名号，第一刃，我很早就知道了艾格瑞姆。不过我很幸运没有在他的职责范围内见到过他。知道恐怖黎明来临之前我都没有亲眼见过他。是对虚灵阴谋的察觉和拥有对其反击的个人能力让我们一起共事。最后，我们认识到虚灵控制了太多的政府人员，已经变得难以阻挡。所以我们一同出发寻找资源和盟友，以经受住入侵然后实施反击。
+帝国的第一刃？
+是的，皇帝的间谍首脑和刺客。他的名字和身份都被抹去了，以便于在法律之外行事。{^n}{^n}This gave the emperor great freedom in handling matters some would deem objectionable to the throne. All knew it, none would dare bring it to light lest they have a meeting with the First Blade. He was truly unparalleled in his art; feared even by the nightblades of the noble houses, many of whom silently met their end at his hands. One might question the morality of his job but not the ruthless effectiveness of his performance. {^n}{^n}I will say though, he did deliver a form of justice to many corrupt and vile men. He silenced many conflicts before they could grow into larger and bloodier ordeals.
+我还有一个问题。
 The capital sounded like a treacherous place.
-I have another question.
+我还有一个问题。
 I see.
 How did you escape from Warden Krieg's lab?
 As an inquisitor, I had access to many occult artifacts and relics that had come into the safekeeping of the Luminari. Some that were deemed more benign were occasionally lent out to veteran inquisitors and I have used them to great advantage.{^n}{^n}Krieg underestimated that.
 Could I have access to some of these?
 These aren't toys we just hand out to everybody. They are powerful artifacts that have to be handled carefully. Besides that, they are now irreplaceable as the vault of the Luminari has fallen into the hands of our enemies. I can only hope that the Aetherials never discern the power of some of the more potent objects within the vaults or are at least wise enough not to use them.{^n}{^n}In any case, I'm afraid the answer is no.
-I have another question.
-Very well.
-I have another question.
-Farewell.
-What does an inquisitor do?
-The inquisitors of the Luminari were responsible for investigating and eliminating any supernatural threats within the empire. That could mean anything from breaking up an occult coven to securing a dangerous artifact or even hunting down otherworldly creatures that occasionally cross the veil between realities.{^n}{^n}The Cult of Ch'thon was one of the greatest challenges because the root of it, the dying god, is beyond our reach or power to destroy. It has been with us since ancient times. Given their recent rise to power, it also seems to be one of our greatest failures.
-I have another question.
+我还有一个问题。
+很好。
+我还有一个问题。
+再见。
+审判官的职责是什么？
+光明会的审判官们负责调查和清除威胁到帝国的超自然力量。这意味着从打断巫师的聚会以到That could mean anything from breaking up an occult coven to securing a dangerous artifact or even hunting down otherworldly creatures that occasionally cross the veil between realities.{^n}{^n}The Cult of Ch'thon was one of the greatest challenges because the root of it, the dying god, is beyond our reach or power to destroy. It has been with us since ancient times. Given their recent rise to power, it also seems to be one of our greatest failures.
+我还有一个问题。
 Farewell.
 Actually, nevermind.
 Goodbye.

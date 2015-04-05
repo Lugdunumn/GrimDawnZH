@@ -207,7 +207,7 @@ npc_juliuscole.txt 完成
 
 npc_juliuscole_02.txt 完成
 
-npc_kalista_01.txt
+npc_kalista_01.txt 完成
 
 npc_kasparov_01.txt 完成
 
@@ -215,7 +215,7 @@ npc_lisandra_01.txt 完成
 
 npc_lisandra_02.txt 完成
 
-npc_mariaoldbarrow.txt
+npc_mariaoldbarrow.txt 完成
 
 npc_milahskinner_01.txt	完成
 
@@ -229,7 +229,7 @@ npc_nathaniel_01.txt 完成
 
 npc_necro_balvoruuk.txt 完成
 
-npc_necro_emissary.txt
+npc_necro_emissary.txt 完成
 
 npc_necro_emissary_base.txt
 
@@ -329,17 +329,17 @@ npc_trappedandalone_flavor_male_01.txt 完成
 
 npc_trappedandalone_flavor_male_02.txt 完成
 
-npc_ulgrim_01.txt	完成
+npc_ulgrim_01.txt 完成
 
-npc_ulgrim_02.txt	完成
+npc_ulgrim_02.txt 完成
 
-npc_ulgrim_03.txt完成
+npc_ulgrim_03.txt 完成
 
-npc_ulgrim_04.txt
+npc_ulgrim_04.txt 完成
 
 npc_zealot_brotherelluvius_01.txt
 
-npc_zealot_emissary.txt
+npc_zealot_emissary.txt 完成
 
 npc_zealot_emissary_base.txt
 

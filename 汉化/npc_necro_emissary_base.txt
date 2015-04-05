@@ -1,15 +1,15 @@
-Haruuv
+哈鲁夫
 Greetings. I trust all goes well in our war against the invaders?
 Where is the Order of Death's Vigil sanctum?
 We have taken over a small crypt to the north, beyond the Blood Grove. Sadly, it is near Sorrow's Bastion, the reviled sanctuary of Kymon's Chosen.
-Thank you.
-Farewell.
-You defile this place with your presence, zealot.
-I'm leaving.
-Greetings.
-Farewell.
+谢谢。
+再见。
+你玷污了这个地方，狂徒。
+我这就走。
+你好。
+再见。
 You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
-Farewell.
+再见。
 Please, visit out sanctum. Master Varuuk will wish to speak with you.
 Where is your sanctum?
 Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.

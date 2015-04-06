@@ -157,8 +157,6 @@ npc_ghost_minova.txt 完成
 
 npc_greven.txt 完成
 
-npc_gus_02.txt
-
 npc_harmond_01.txt 完成
 
 npc_helenfletcher.txt 完成
@@ -171,7 +169,7 @@ npc_hiram_healed.txt 完成
 
 npc_homestead_flavor_chef.txt 完成
 
-npc_homestead_flavor_child_01.txt
+npc_homestead_flavor_child_01.txt 完成
 
 npc_homestead_flavor_female_01.txt 完成
 
@@ -231,7 +229,7 @@ npc_necro_balvoruuk.txt 完成
 
 npc_necro_emissary.txt 完成
 
-npc_necro_emissary_base.txt
+npc_necro_emissary_base.txt 完成
 
 npc_necro_flavor_female_01.txt 完成
 
@@ -341,7 +339,7 @@ npc_zealot_brotherelluvius_01.txt
 
 npc_zealot_emissary.txt 完成
 
-npc_zealot_emissary_base.txt
+npc_zealot_emissary_base.txt 完成
 
 npc_zealot_fatherkymon_01.txt
 
@@ -387,7 +385,7 @@ sq_annalsofarkovia.txt完成
 
 sq_bastionofchaos.txt	完成
 
-sq_burnthetaken.txt
+sq_burnthetaken.txt 完成
 
 sq_cannons.txt 完成
 

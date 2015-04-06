@@ -763,7 +763,7 @@ tagLoreObj_Cronley_NoteA06Text=虚灵离开了。他们去了北方的霍姆斯�
 #AreaC Notes
 tagLoreObj_HiddenWealth_MapName=玛索斯·艾弗布鲁克的遗愿
 tagLoreObj_HiddenWealth_MapCodexTitle=艾弗布鲁克的遗愿
-tagLoreObj_HiddenWealth_MapText=已故的玛索斯·艾弗布鲁克二世颁布的遗愿如下：{^n}{^n}法姆斯特德和它附近的果园留给我最亲爱的女儿丽琪。让那片保佑我们家族一代又一代丰产的土地继续为你和你孩子出产作物。还有我那鲁莽的儿子们，埃德里克和安东尼。你们在我剩余的岁月中不停地争吵着谁将继承我的财产。对于你们，我除了这些话以外什么都不会留给你们。{^n}{^n}我让农场的工人将金子埋在了属于艾弗布鲁克家族的土地上。你们只有两个选择：放弃你们那可悲的生活，用辛勤的劳作重新开始，就像你们的祖父曾经做过的一样。或者挥霍掉你们的青春，寻找这份不应属于你们的财富。我相信你们会做出争取的选择的。{^n}{^n}*在最后你勉强能看到用另外一种笔迹写下的潦草笔记：沿着索恩斯巴利农场的路进入山中，带上爆炸物。*
+tagLoreObj_HiddenWealth_MapText=已故的玛索斯·艾弗布鲁克二世颁布的遗愿如下：{^n}{^n}农庄和它附近的果园留给我最亲爱的女儿丽琪。让那片保佑我们家族一代又一代丰产的土地继续为你和你孩子出产作物。还有我那鲁莽的儿子们，埃德里克和安东尼。你们在我剩余的岁月中不停地争吵着谁将继承我的财产。对于你们，我除了这些话以外什么都不会留给你们。{^n}{^n}我让农场的工人将金子埋在了属于艾弗布鲁克家族的土地上。你们只有两个选择：放弃你们那可悲的生活，用辛勤的劳作重新开始，就像你们的祖父曾经做过的一样。或者挥霍掉你们的青春，寻找这份不应属于你们的财富。我相信你们会做出争取的选择的。{^n}{^n}*在最后你勉强能看到用另外一种笔迹写下的潦草笔记：沿着索恩斯巴利农场的路进入山中，带上爆炸物。*
 
 tagLoreObj_TrappedAndAloneName=伊劳拉的日记
 tagLoreObj_TrappedAndAloneText=Had the nightmare again. I am in an old tomb, barely a candle to light the way. Off in the corner I see a pair of red glowing eyes. They come closer...closer...then just before I can make out what it is through the shadows, the creature is gone.{^n}{^n}I try to run, but every way I go ends in rubble and stone. There is no escape. I turn around to see the eyes once more, staring back at me. I hear laughter, a child's laughter. Then everything is fire. I try to scream, but nothing comes out. The eyes just stare ahead as I writhe in the flames.{^n}{^n}That is when I awaken, drenched in sweat. It has been like this for five nights in a row. The nightmares are becoming more frequent and I am not sure how much more of this I can stand. It may not be wise, but perhaps it is time we moved on from this wretched place.
@@ -792,7 +792,7 @@ tagNPC_GateGuardA01=守门人 - 鲁克
 
 #Merchants and Other Services商人等npc
 
-tagNPC_BonusItems=守护者 科丽
+tagNPC_BonusItems=保管人 科丽
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人

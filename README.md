@@ -85,21 +85,21 @@ npc_blacklegion_scoutmasterlysell_01.txt 完成
 
 npc_blacklegion_sergeant_01.txt	完成
 
-npc_blacklegion_weaponsmaster_01.txt
+npc_blacklegion_weaponsmaster_01.txt 完成
 
-npc_bloodharvest_male_01.txt
+npc_bloodharvest_male_01.txt 完成
 
-npc_bloodharvest_male_01rescued.txt
+npc_bloodharvest_male_01rescued.txt 完成
 
-npc_bloodharvest_male_02.txt
+npc_bloodharvest_male_02.txt 完成
 
-npc_bloodharvest_male_02rescued.txt
+npc_bloodharvest_male_02rescued.txt 完成
 
-npc_bonusitems_01.txt	
+npc_bonusitems_01.txt 完成
 
 npc_burnthetaken_flavor_male_01.txt 完成
 
-npc_burnthetaken_flavor_male_02.txt
+npc_burnthetaken_flavor_male_02.txt 完成
 
 npc_burrwitchhermit_01.txt 完成
 
@@ -123,13 +123,13 @@ npc_dariuscronley_01.txt 完成
 
 npc_deanoldbarrow.txt	完成
 
-npc_dennyoldbarrow.txt	
+npc_dennyoldbarrow.txt	完成
 
 npc_direni_01.txt	完成
 
 npc_direni_02.txt	完成
 
-npc_douglassoldbarrow_01.txt
+npc_douglassoldbarrow_01.txt 完成
 
 npc_drewlarkin_01.txt	完成
 
@@ -169,21 +169,21 @@ npc_hiram.txt 完成
 
 npc_hiram_healed.txt 完成
 
-npc_homestead_flavor_chef.txt
+npc_homestead_flavor_chef.txt 完成
 
 npc_homestead_flavor_child_01.txt
 
-npc_homestead_flavor_female_01.txt
+npc_homestead_flavor_female_01.txt 完成
 
-npc_homestead_flavor_female_02.txt
+npc_homestead_flavor_female_02.txt 完成
 
-npc_infestedfield_farmer_01.txt
+npc_infestedfield_farmer_01.txt 完成
 
-npc_infestedfield_farmer_02.txt
+npc_infestedfield_farmer_02.txt 完成
 
-npc_infestedfield_farmer_field01.txt
+npc_infestedfield_farmer_field01.txt 完成
 
-npc_infestedfield_farmer_field02.txt
+npc_infestedfield_farmer_field02.txt 完成
 
 npc_inquisitorcreed_01.txt
 

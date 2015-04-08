@@ -1825,14 +1825,14 @@ tagCraftRandomFeet_Heavy=附魔重靴
 tagCraftRandomFeet_Light=附魔便鞋
 tagCraftRandomHands_Heavy=附魔护手甲
 tagCraftRandomHands_Light=附魔手套
-tagCraftRandomHead_Caster=附魔头盔
+tagCraftRandomHead_Caster=附魔施法者头盔
 tagCraftRandomHead_Heavy=附魔重盔
 tagCraftRandomHead_Light=附魔头盔
 tagCraftRandomLegs_Heavy=附魔重腿甲
 tagCraftRandomLegs_Light=附魔腿甲
 tagCraftRandomShoulder_Heavy=附魔重型肩甲
 tagCraftRandomShoulder_Light=附魔肩甲
-tagCraftRandomTorso_Caster=附魔胸甲
+tagCraftRandomTorso_Caster=附魔施法者胸甲
 tagCraftRandomTorso_Heavy=附魔重型胸甲
 tagCraftRandomTorso_Light=附魔胸甲
 

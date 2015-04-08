@@ -43,7 +43,7 @@ Inquisitor Creed worked for the Luminari, investigating and dealing with superna
 我还有一个问题。
 再见。
 Forget it.
-Nothing. Goodbye.
+没事了，再见。
 I've already informed Creed of your recent actions. He is most eager to speak with you.{^n}{^n}Show him what you've shown me. He needs to see this.
 我这就去和克里德谈谈。
 我一会儿再处理这件事。
@@ -58,13 +58,13 @@ I can't right now.
 Why do you have such a grim look on your face?{^n}{^n}What happened out there?
 Karroz lies dead, but I found some disturbing information on him.
 Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's notes*{^n}{^n}I'll be damned. If the bastards pull this off, we may as well slit our own throats. This scenario is well beyond my pay-grade or would be if I were ever paid. You will need to bring this to Creed's attention immediately.
-The inquisitor?
+审判官？
 
-Have you tracked down the target?
-Where should I be looking for Karroz?
+你追踪到目标了吗？
+我该去哪找卡若兹？
 We suspect that Karroz, the Sigil of Ch'thon, is hiding out somewhere in one of the larger cultist camps to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
-I'll be careful.
-Not yet.
+我会小心的。
+还没有。
 Karroz, the Sigil of Ch'thon. That is the name of the cult's leader in the area. We have no idea if he is the head of the entire organization or if he is merely a pawn in someone else's game, but his name has come up several times, including a recent bloody interrogation.{^n}{^n}Karroz is hiding out somewhere north of Sorrow's Bastion, likely in one of the bigger camps. His death would surely cripple the cult's chain of command. Anything I need done is clearly beneath Ulgrim's dainty nose, so it falls to you. Will you be my assassin?
 It will be done.
 I won't do this.
@@ -115,21 +115,21 @@ I see your reputation is well-earned. The Legion thanks you for your service to 
 Hope the campaign goes well.
 What about the Dermapterans?
 Been talking to Douglass? Look, I'd love to solve all the world's problems, but unfortunately I do not have the troops to send them out on a bug hunt.{^n}{^n}Douglass and the other farmers will just have to accept it for now. Perhaps later, once the Aetherials and Chthonians have been dealt with, then I can think about sending some men out to the fields to clear out this infestation.
-What did you need from me again?
-Very well.
-What's the Black Legion?
-You are joking, right?{^n}{^n}We are the imperium's most infamous if not elite legion; conscripted from criminals and political outcasts and tempered in the front lines of the empire's most brutal wars. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
+你还需要我做什么？
+很好。
+黑色军团是个什么组织？
+你在开玩笑，是么？{^n}{^n}We are the imperium's most infamous if not elite legion; conscripted from criminals and political outcasts and tempered in the front lines of the empire's most brutal wars. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
 
 Not interested in heroics.
 Not interested in heroics.
 I'll skip the pleasantries. Ulgrim tells me you're one tough slith and right now that's what I need most.{^n}{^n}Will you fight for the Black Legion?
 Where do you need me?
 
-What's the Black Legion?
+黑色军团是个什么组织？
 You are joking, right?{^n}{^n}We are the imperium's elite. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
 
-Not interested in heroics.
-Not interested in heroics.
+我对英雄主义不感兴趣。
+我对英雄主义不感兴趣。
 I hear you've dragged Ulgrim's sorry ass out of Deadman's Gulch. Good work.{^n}{^n}Come see me later. Perhaps we can put your skills to some use.
 I take it you don't like Ulgrim?
 Let's just say Ulgrim and the Black Legion have a history.
@@ -138,14 +138,14 @@ I'll think about it.
 Welcome to Homestead. We could definitely use more capable hands around here.{^n}{^n}If you find yourself back out there and run into a smug smartass by the name Ulgrim, tell him he's late, as usual...
 我有一些问题。
 What is it?
-Can you open the gates?
-Nobody's going through those gates until I've received Ulgrim's report.
-I have another question.
+你能把打开大门么？
+在我接到艾格瑞姆的报告之前，任何人都不准从大门出去。
+我还有一个问题。
 Very well.
-What is the situation here?
+这里情况如何？
 I'd tell you that I've dealt with worse, but I'm not sure that's true. The situation here is about as bad as it gets.{^n}{^n}We have Aetherials and the Cult of Ch'thon on our doorstep, few supplies, no heavy weapons and barely enough men to keep it all together.
 我还有一个问题。
-Sounds rough.
+听起来很不妙啊。
 What can you tell me about the Black Legion?
 What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in the Grim Dawn but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
 我还有一个问题。

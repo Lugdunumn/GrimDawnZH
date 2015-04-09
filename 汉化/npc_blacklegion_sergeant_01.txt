@@ -1,25 +1,25 @@
-Sergeant Serriv
-That lumber mill will go a long way towards making this place more livable. Thank you.
-Farewell.
-I hope you're here to do more than just loiter.
-Goodbye.
-Any luck with the lumber mill?
-The lumber mill is clear of Chthonian spawn.
-I'll have men sent over there immediately so it stays that way.{^n}{^n}A job well done.
-Thank you.
-Any luck with the lumber mill?
-Where is the lumber mill again?
-Head out through the northern gates, into the Blood Grove. The lumber mill is not far, but it's overrun with Chthonians.
-I'll take care of it.
-It will take some time to clear out the Chthonians.
-Excuse me, citizen, but I was wondering if you could help me out with something.
-What do you need?
-Homestead is running low on building supplies. We've already salvaged the barn roof to reinforce the walls, but there's only so much we can do with sheets of metal. One of the buildings here would be a perfect place to let our men catch some sleep, but it's completely run down.{^n}{^n}We are going to need lumber and I know just the place to get it. Problem is, the nearest lumber mill is overrun with Chthonic spawn. I've insisted to the Captain that our men need a place to rest properly, but she feels that the casualties would be too great to risk retaking the mill.{^n}{^n}You are not under her command. You can do as you choose. Please, head out in the the Blood Grove to the north and secure the lumber mill. After your heroics at the Gruesome Harvest, a few Chthonic runts should be a cakewalk.
-I will clear out the lumber mill.
-Handle this yourself.
-Sorry, can't help you.
-I hope you're here to do more than just loiter.
-Anything need doing?
-If you're willing to help, you should report to Captain Somer.
-Goodbye.
-Goodbye.
+中士 瑟里夫
+那个伐木场会让这个地方的宜居性得到长足的进步。谢谢你。
+再见。
+我希望你在这儿多做事，少闲逛。
+再见。
+伐木场的事情还顺利么？
+伐木场的冥灵已经被清除干净了。
+我这就派人去那里。{^n}{^n}做得漂亮。
+谢谢。
+伐木场的事情还顺利么？
+伐木场在哪？
+从北门出发，进入血森林。伐木场就在不远处，但是那里冥灵横行。
+我会多加小心的。
+清除那里的冥灵需要花费一些时间。
+打扰一下，平民。我想知道你是否能帮我做一件事。
+你要我做什么？
+霍姆斯特德急缺建筑材料。我们已经把谷仓的顶都拆了用来加固围墙。但是用金属板也只能做到这种地步了。这里有一幢建筑很适合用来给士兵们休息，但是它已经倒塌了。{^n}{^n}我们需要木材，我也正巧知道能取得木材的地方。可是问题是离这里最近的伐木场充满了冥灵。我向队长坚持说我们的人需要一个合适的地方来休息，可是队长觉得要夺取伐木场付出的伤亡代价实在太大了。{^n}{^n}你不受他的节制，你可以按照自己的选择来行动。请你向北出发去往血森林，清理那间伐木场吧，你既然在阴森的谷仓的成就了英雄般的伟业，几只冥灵对你来说简直是易如反掌。
+我会清理那间伐木场的。
+你自己解决吧。
+抱歉，我帮不了你。
+我希望你在这儿多做事，少闲逛。
+有什么需要做的事情吗？
+如果你想帮忙，应该去索梅尔队长那里报道。
+再见。
+再见。

@@ -1,58 +1,58 @@
-Brother Mollarg
-You have chosen wisely, friend.
-Farewell.
-You've made your choice, now leave me be.
-Goodbye.
-I have come to represent Kymon's Chosen, as your superiors have requested.
+莫代尔兄弟
+你做出了明智的选择，我的朋友。
+再见。
+你做出了你的选择。走开吧。
+再见。
+就像你的上司要求的那样，我是凯蒙的神选战士的代表。
 
-Goodbye.
-You are expected at our Enclave.
-Where is your enclave located?
-Head out through the northern gates and into the Blood Grove. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
-Thank you.
-I'm on my way.
-I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
-I will seek out your enclave.
-Perhaps another time.
-Brother Mollarg, Chosen of Kymon, at your service.{^n}{^n}Though I must wonder why you've brought this necromancer filth here as well.
-I think I've made my decision.
-You have decided then? Are the Chosen of Kymon to battle alongside the Black Legion?
-The Black Legion will work with you. (Select the Kymon's Chosen)
-Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
-I will seek out your enclave.
-Perhaps another time.
-Actually, I'll need more time to think this through.
-What can you tell me about Kymon's Chosen?
-We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
+再见。
+我们的营地期待你的到来。
+你们的营地在哪里？
+从北边的大门出发进入血森林。沿着道路一直走到古老要塞的废墟那里。那儿就是悲伤城堡了。我们的营地就在高塔里面。
+谢谢。
+我该上路了。
+我必须要求你前往北方拜访我们的营地。我们占据了悲伤城堡的一部分，把那里作为我们的新家。{^n}{^n}从北边的路穿越血森林就能找到我们。当你到达一片废墟时，寻找一座高塔。{^n}{^n}然后找艾鲁维斯兄弟谈谈，他会引导你走上光明的大道。
+我会出发寻找你们的营地。
+下次吧。
+莫代尔兄弟，凯蒙的神选战士，愿意为你效劳。{^n}{^n}但我必须质疑为何你们也把这个肮脏的死灵法师也带到了这里来。
+我觉得我已经做好了决定。
+你决定好了？凯蒙的神选战士要和黑色军团并肩战斗了么？
+黑色军团将与你们并肩作战。(选择凯蒙的神选战士)
+凯蒙听到这个消息一定会很高兴的。这次结盟将会带来双赢。让我们一同清除敌人吧！{^n}{^n}我必须要求你前往北方拜访我们的营地。我们占据了悲伤城堡的一部分，把那里作为我们的新家。{^n}{^n}从北边的路穿越血森林就能找到我们。当你到达一片废墟时，寻找一座高塔。{^n}{^n}然后找艾鲁维斯兄弟谈谈，他会引导你走上光明的大道。
+我会出发寻找你们的营地。
+下次吧。
+事实上，我需要更多时间来考虑一下。
+关于凯蒙的神选战士你能告诉我些什么？
+我们是受到圣父凯蒙选昭的战士。他是受到至高之神祝福的先知，圣火的守护者和人类的救世主。
 
-What do you offer the Black Legion?
-We are well-trained and well-armed. Our men and women serve Cairn proudly and will die for her if need be.{^n}{^n}Our faith steels us against the wicked powers of the Aetherial and the Chthonian.{^n}{^n}With the Chosen at the Legion's side, our forces will be unstoppable.
-
-
-
-
-I'll need some time to think this through.
-Who is Father Kymon?
-Father Kymon is our spiritual leader. He is blessed by Empyrion the Light-Bringer, first among the gods.{^n}{^n}By His word, we will cleanse Cairn of the impure and the corrupt, starting with the abhorrent Order of Death's Vigil and ending with the eradication of the Aetherials and the Chthonians.
+你们会对黑色军团有何帮助？
+我们是装备精良，训练有素的战士。我们的男女战士们自豪地为凯恩世界而战，愿意为之付出生命。{^n}{^n}我们的信念支撑我们面对虚灵和冥灵的邪恶力量。{^n}{^n}有凯蒙的神选战士站在黑色军团这边，我们将战无不胜。
 
 
 
-I'll need some time to think this through.
-Who is Empyrion?
-Empyrion the Light-Bringer is first among the gods. Under His just rule, the world experienced order and balance, free of the corruption of the void and the aether.{^n}{^n}However, the other gods grew jealous of Empyrion's power and they imprisoned Him deep within the earth, locked away for centuries, perhaps millennia.{^n}{^n}But Father Kymon has found the old god's prison. He communes with the Light-Bringer, delivering the Divine One's word onto his Chosen.
+
+我需要一些时间来考虑一下。
+圣父凯蒙是谁？
+圣父凯蒙是我们的精神领袖。他受到了诸神之首，光明使者--至高之神的祝福。{^n}{^n}遵照他的指示，我们将净化凯恩世界内的不洁和腐化之物。以可憎的死亡守夜人教团为开始，以铲除虚灵和冥灵为终结。
 
 
 
-I'll need some time to think this through.
+我需要一些时间来考虑一下。
+至高之神是谁？
+光明使者--至高之神是诸神之首。在他那公正的统治之下，世界充满了秩序和平衡，远离虚无或是虚化的腐化。{^n}{^n}然而，其他的神嫉妒他的力量，他们把他囚禁在大地深处，封印了几个世纪，甚至可能是几千年之久。{^n}{^n}不过圣父凯蒙找到了这位古老神祇的监狱。他深入地和光明使者交谈，把圣言传达给神选之人。
 
-What can you tell me about the Order of Death's Vigil?
-They are abominations that twist the divine threads of life to their will as if they were playthings.{^n}{^n}The Order is a plague upon this world, much like the Aetherials and the Chthonians. In order for Cairn to heal, they must be purged.
 
 
-I'll need some time to think this through.
-Goodbye.
-I have come to represent Kymon's Chosen, as your superiors have requested.
-Who are the Kymon's Chosen?
-We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
-I see.
-Goodbye.
+我需要一些时间来考虑一下。
+
+关于死亡守夜人教团你能告诉我什么？
+他们是些将神圣的生命当成儿戏玩弄于股掌的可憎之人。{^n}{^n}那个教团对这个世界的如同瘟疫一般，不吝于虚灵和冥灵。为了治疗凯恩世界，他们必须被净化掉。
+
+
+我需要一些时间来考虑一下。
+再见。
+就像你的上司要求的那样，我是凯蒙的神选战士的代表。
+凯蒙的神选战士是些什么人？
+我们是受到圣父凯蒙选昭的战士。他是受到至高之神祝福的先知，圣火的守护者和人类的救世主。
+我明白了。
+再见。

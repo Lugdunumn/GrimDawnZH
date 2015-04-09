@@ -127,7 +127,7 @@ tagTutorialTip36TextA=灵魂向导允许你复原技能点选择。在灵魂向�
 tagTutorialTip36TextB=你不能移除投资在专精上的技能点。此外，你不能移除在延伸技能上面投资了的前置技能的最后一点。
 
 tagTutorialTip37Title=仓库窗口
-tagTutorialTip37TextA=走私犯可以存储你的物品，甚至可以在你的角色间传输物品!你可以在整个凯恩世界能找到的任何走私犯那里访问你的物品。{^N}shift+右键可以快速移动物品。
+tagTutorialTip37TextA=走私犯可以存储你的物品，甚至可以在你的角色间传输物品!你可以在整个凯恩世界能找到的任何走私犯那里访问你的物品。{^N}Shift+左键可以快速移动物品。
 tagTutorialTip37TextB=点击物品转移来和你的其他角色分享物品。
 
 tagTutorialTip38Tile=物品转移

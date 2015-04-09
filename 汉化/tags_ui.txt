@@ -21,6 +21,7 @@ tagBossKilled=击杀敌方首领
 tagXPAwarded=经验奖励 {%d0}
 tagRepAwarded={%s1}的声望 +{%d0}
 tagDevotionAwarded=奖励 {%d0} 点虔诚点数
+tagDevotionShrine=已净化的祭坛
 
 tagUndo=撤销
 Chat=聊天:
@@ -933,13 +934,13 @@ tagVendorTab05A=买回
 tagVendorTab05B=改变主意了？在商人这儿可以原价买回卖出的物品。一旦你离开，出售就成交了。
 
 tagFactionVendorTab01A=友善
-tagFactionVendorTab01B=友善
+tagFactionVendorTab01B=声望为友善时解锁的奖励
 tagFactionVendorTab02A=尊重
-tagFactionVendorTab02B=尊重
+tagFactionVendorTab02B=声望为尊重时解锁的奖励
 tagFactionVendorTab03A=尊敬
-tagFactionVendorTab03B=尊敬
+tagFactionVendorTab03B=声望为尊敬时解锁的奖励
 tagFactionVendorTab04A=敬畏
-tagFactionVendorTab04B=敬畏
+tagFactionVendorTab04B=声望为敬畏时解锁的奖励
 
 tagVendorRolloverName=废品收集商人
 tagVendorRolloverDescription=这些商人向敢于离开人类据点出去冒险的人售卖搜集来的或是偷来的货物，利用人类的灾难来牟利。最好别打听这些货物的出处。
@@ -1561,6 +1562,8 @@ DamageTotalResistanceReductionPercent=% {^E}目标抗性降低
 DamagePhysicalReductionPercent=% {^E}减少目标的物理伤害
 DamageElementalReductionPercent=% {^E}减少目标的元素伤害
 DamageTotalResistanceReductionAbsolute= {^E}目标抗性降低
+DamagePhysicalResistanceReductionPercent=% {^E}减少目标的物理抗性
+DamagePhysicalResistanceReductionAbsolute= {^E}减少目标的物理抗性
 DamageDurationFumble=% {^E}的几率目标攻击失误
 DamageDurationProjectileFumble=% {^E}的几率目标瞄准障碍
 

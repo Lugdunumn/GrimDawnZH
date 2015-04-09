@@ -1,22 +1,22 @@
-Haruuv
-Greetings. I trust all goes well in our war against the invaders?
-Where is the Order of Death's Vigil sanctum?
-We have taken over a small crypt to the north, beyond the Blood Grove. Sadly, it is near Sorrow's Bastion, the reviled sanctuary of Kymon's Chosen.
-Thank you.
-Farewell.
-You defile this place with your presence, zealot.
-I'm leaving.
-Greetings.
-Farewell.
-You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
-Farewell.
-Please, visit out sanctum. Master Varuuk will wish to speak with you.
-Where is your sanctum?
-Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.
-Thank you.
-I'm on my way.
-I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
-I will seek out your sanctum.
-Perhaps another time.
-You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
-Farewell.
+哈鲁夫
+欢迎。我相信和入侵的战斗一切顺利吧？
+死亡守夜人教团的圣所在哪里？
+我们在北方穿过血森林的地方占领了一个小小墓穴。可悲的是，那儿离悲伤城堡很近。因为那里是可恨的凯蒙的神选战士的营地。
+谢谢。
+再见。
+你玷污了这个地方，狂徒。
+我这就走。
+你好。
+再见。
+你进入了死亡守夜人教团的场所。小心行事，陌生人。
+再见。
+请拜访我们的圣所。瓦拉克大师会很想和你谈谈的。
+你们的圣所在哪里？
+我们的圣所在北方一个叫做悲伤城堡的古老废墟之中。{^n}{^n}要去那里，你必须沿着霍姆斯特的北边的路走，穿过血森林。
+谢谢。
+我该上路了。
+我想让你去北方寻找我们的圣所。我们在悲伤城堡的西边占据了山中一个隐秘的墓穴。{^n}{^n}要去那里，你必须沿着霍姆斯特的北边的路走，穿过血森林。当你到达那个古老要塞的遗迹时，你就和我们的家园很近了。{^n}{^n}进去之后，去见见瓦拉克大师。他希望和我们新盟友谈一谈。
+我会去寻找你们的圣所。
+下次吧。
+你进入了死亡守夜人教团的场所。小心行事，陌生人。
+再见。

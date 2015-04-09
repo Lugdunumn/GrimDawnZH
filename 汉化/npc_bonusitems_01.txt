@@ -1,15 +1,15 @@
-Kory the Keeper
-Well met, friend! Have I seen you before?... Perhaps we've met... on the road somewhere? Kory is my name. I'm a traveler... a trader... a keeper of the strange. There was a time when... well... no matter. I've traveled far, always in the shadows.
-That's an interesting coat you are wearing...
-Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...
-(Receive Illusion: Swashbuckler's Coat)
-*Secret Handshake*
-*Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.
-(Receive Illusion: Powdered Wig)
-Care for a drink?
-*Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!
-(Receive Item: Burrwitch Brew)
-What's that glowing in your pocket?
-Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. They are handy in dark places.
-(Receive Item: Will'O'Wisp in a Jar)
-Um, ok. Goodbye.
+保管人 科丽
+很高兴见到你，我的朋友！我之前见过你么？……可能我们在……哪条路上遇见过？我叫做科丽。我是个旅行者……商人……奇特物品的保管人。曾经……嗯……没什么。我曾流浪至远方，我总是行走在暗影之中。
+你穿的外套看来很有趣啊……
+啊，的确如此……这上面有侠盗的标志。我曾经……是个像你一样的冒险者。
+(得到幻象: 侠盗的外套)
+*她和你神秘地握了握手*
+*科丽私语着*{^n}{^n}欢迎，[[ms]兄弟[fs]姐妹]。永远保持警觉。
+(得到幻象:假发)
+要喝一杯吗？
+*科丽举起了一瓶伯尔维治啤酒*{^n}{^n}干杯！
+(得到物品：伯尔维治啤酒)
+你口袋里发光的是什么东西？
+哦，这个？{^n}{^n}*科丽拿着一个环绕着蓝色光芒的罐子*{^n}{^n}这个东西嘛，我的朋友，是一位精灵。它们在黑暗的地方可有用了。
+(得到物品：罐中精灵)
+嗯，行啦，再见了。

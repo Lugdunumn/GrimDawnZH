@@ -1,71 +1,71 @@
-Ulgrim
-This cult situation brings back bad memories.{^n}{^n}*Ulgrim shakes his head*{^n}{^n}Are you ready to set out?
-Everything alright?
-Oh, it's nothing.{^n}{^n}I should prepare for the journey.
-Alright. I'll see you out there.
-Almost.
-I heard about Karroz. You might be better at this grisly cult business than Creed.
-I found these notes on Karroz.
-*Ulgrim's face becomes grim as he reads over the papers*{^n}{^n}This can't be happening again...Creed must see these at once.
-What do you mean again?
-This isn't the first time this ritual has been performed. The last time nearly set the empire back 100 years.{^n}{^n}Mag'Thel must not be called back from the void.
-We'll stop them.
-It won't. We'll stop them.
-Thanks, I think?
-What can I do for you?
+艾格瑞姆
+邪教徒的事唤起了我糟糕的记忆。{^n}{^n}*艾格瑞姆摇了摇头*{^n}{^n}你准备好出发了么？
+一切都还好么？
+噢，没事。{^n}{^n}我该为旅途准备一下了。
+好的，到了那边再见。
+差不多了。
+我听说了卡若兹的事。看来你比克里德还要擅长邪教徒的事情。
+我发现了这些卡若兹的笔记。
+*艾格瑞姆阅读着笔记，脸色渐渐变得凝重起来*{^n}{^n}怎么可能又发生了这种事情……必须马上把这件事告知克里德。
+又发生了这种事是什么意思？
+这不是第一次有人搞出这种仪式了。上次几乎让帝国的发展倒退了一百年。{^n}{^n}一定不能让他们从虚空中召唤出马格特尔。
+我们会阻止他们的。
+他们不会得逞的，我们会阻止他们。
+我想我应该对你说声谢谢。
+我能帮你做些什么？
 
-Farewell.
-Come back another time. I've got important matters to attend to.
-Farewell.
-Got anything useful out of those two?
-Who would you choose?
-Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
-Alright.
-I'm still deciding.
-Just the person I'm looking for. The others may disagree with me on this, but there is something I need you to do.
-What is it?
-There are two other groups of survivors in the region that we are aware of, but Somer and Creed do not consider them to be of strategic value. Frankly, I disagree. They may consist largely of fanatics, but fanatics aimed in the right direction can be a powerful force.{^n}{^n}I've asked representatives from both the Order of Death's Vigil and Kymon's Chosen to visit here and speak to us. There is some obvious animosity between the two, but perhaps we can leverage that against them. I would like you to be our representative. Speak to both of them. Learn all that you can and decide which of the two groups would prove to be of superior strategic value. I just don't see them working together, I'm afraid.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
-Why won't you talk to them?
-As much as I'd love to play politics again, Creed demands my attention at the war table. {^n}{^n}I am asking you to do this because I trust your judgement.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
+再见。
+过会儿再来找我吧。我有些重要的事情要做。
+再见。
+你从这两股势力身上得到了什么有价值的信息了么？
+你会选择谁呢？
+把他们那些狂热的信仰放在一边，两伙人都拥有着很有价值的资源。{^n}{^n}凯蒙的神选战士或许是些宗教狂热分子，但他们受到过良好的训练，对于战争来说绝对是强有力的盟友。{^n}{^n}死亡守夜人教团……他们身上的那种死亡的力量让我的脊梁骨都感到寒冷，不过他们的那些强大的法术用来对付恐怖的怪物却是在合适不过了。{^n}{^n}我不跟你说场面话了，这可不是个容易的选择。
+好吧。
+我还没决定。
+你正是我要找的人选。别人可能会不同意我的做法的，不过我还有事情需要你来做。
+是什么事？
+这里还有我们已知的两个幸存者群体，但是索梅尔和克里德不把他们当成战略上有价值的目标。坦白讲，我不这么认为。他们大体是些狂热分子，但是如果这股狂热用在正地方，那就是强力的臂助。{^n}{^n}我要求死亡守夜人教团和凯蒙的神选战士都派使者来这里跟我们谈谈。显然他们两者之间有着深仇大恨，不过或许我们可以利用这一点。我想让你作为我们的代表，和他们两个都谈谈。了解一下所能了解到的信息，然后决定谁才是更有价值的盟友。我恐怕，让他们一起共事是绝不可能的。
+我会和使者们谈谈的。
+还是找别人做你的外交使节吧。
+为什么你不去跟他们交涉呢？
+我也想再玩一把政治的游戏，可克里德要我专注于作战的事情上。{^n}{^n}我之所以要你来做这件事，是因为我相信的判断。
+我会和使者们谈谈的。
+还是找别人做你的外交使节吧。
 
-What can you tell me about the two groups?
-Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
+关于这两伙人你能告诉我些什么？
+把他们那些狂热的信仰放在一边，两伙人都拥有着很有价值的资源。{^n}{^n}凯蒙的神选战士或许是些宗教狂热分子，但他们受到过良好的训练，对于战争来说绝对是强有力的盟友。{^n}{^n}死亡守夜人教团……他们身上的那种死亡的力量让我的脊梁骨都感到寒冷，不过他们的那些强大的法术用来对付恐怖的怪物却是在合适不过了。{^n}{^n}我不跟你说场面话了，这可不是个容易的选择。
+我会和使者们谈谈的。
+还是找别人做你的外交使节吧。
 
-This place may seem safe for now, but don't ever let your guard down.{^n}{^n}We are at war with devious enemies.
-I have some questions.
-Ask away.
-Why do you dislike the Black Legion?
-They represent the rejects of the empire, forced together under a banner of oppression and lack of restraint. The Legion may be famous for its countless victories, but what you don't hear about is the brutality and the senseless murder.{^n}{^n}Sure, not all of them are like that. Many are unfortunate souls caught on the wrong side of politics, but it's difficult to wash that much blood off your banner with the good intentions of a select few.
-I have another question.
-I see.
-How do you know Inquisitor Creed?
-Hmm, I swear I can't recall when exactly we've met, but the good Inquisitor had accompanied me on several missions since his encounter with Warden Krieg raised suspicions of corruption in the Capital.{^n}{^n}His analytical mind and experience with the occult has proven invaluable since the Grim Dawn. It is unfortunate that we were too late to save Erulan.
-I have another question.
+这个地方虽然现在看起来安全了，可是绝不要放松警惕。{^n}{^n}我们是在和异常狡猾的敌人作战。
+我有些问题。
+尽管问。
+你为什么这么讨厌黑色军团？
+他们象征着被帝国抛弃的人，被强制集中起来，以压迫大众为旗帜组成了这样一支缺少管制的军队。黑色军团以无数的胜利而闻名遐迩，可是你听不到的是他们的残暴，和毫无意义的杀戮。{^n}{^n}当然，他们并不全是那样的人。他们中许多人只是些在政治中站错了队才落得如此的下场。可是仅仅存在少数的好人是无法将黑色军团这面旗帜上的血迹洗刷干净的。
+我还有一个问题。
+我懂了。
+你是怎么认识审判官克里德的？
+嗯，我发誓我记不得我们具体是在哪里见过面的了。但在他与典狱长克里格的交锋过后，我与他一道对帝都内可疑的腐化势力展开过几次行动。{^n}{^n}他那善于分析的头脑，还有面对超自然力量的经验都在恐怖黎明之后变得弥足珍贵。实在是太不幸了，我们没来得及拯救伊露兰。
+我还有一个问题。
 
-What did you do as the First Blade of the Emperor?
-Much of what I had to do does not bear mentioning. Let's just say that I eliminated threats to the crown and maintained a spy network spanning the width of the empire.{^n}{^n}Most of that network has now collapsed, with agents gone missing or dead, but it has served me well even after the end of the world.
-I have another question.
-Fascinating.
-Nevermind.
-I'll keep my eye out.
-Still haven't talked to the Captain?
-Where is she?
-Right here in Homestead. Look for the grumpy middle-aged hag in Black Legion armor.
-Ok.
-I'll speak to her soon.
-I'm going to check in with Creed here, but I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.{^n}{^n}Look for the grumpy middle-aged hag in Black Legion armor. She will fill you in on the situation.
-I will speak to her.
-Maybe later.
-I wasn't sure you'd make it, but you pulled through.{^n}{^n}Those people owe you their lives.
-I did what was right.
-I wish that was the end of our troubles, but there is a mounting threat on the horizon that threatens to wipe us all out.
-What do we do now?
+你作为帝国的第一刃做了些什么？
+大部分我不得不做的事都不忍提及。这么说吧，我负责清除掉威胁到王座的人，维持布满整个帝国的间谍网络。{^n}{^n}这个网络如今大部分都已经被破坏掉了，特工们不是失踪就是死了。不过即使是在世界末日过后，这个网络还是帮了我很大的忙。
+我还有一个问题。
+真是了不起。
+没事了。
+我会小心行事。
+还没和队长见面么？
+她在哪？
+就在霍姆斯特德。去找一个脾气暴躁，穿着黑色军团的铠甲，像是中世纪来的母夜叉就对了。
+好的。
+我马上就和她谈谈。
+我要去克里德那个报个到，我建议你去找索梅尔队长谈谈。她是黑色军团在这里的指挥官，这群倒霉的家伙们的头领。{^n}{^n}去找一个脾气暴躁，穿着黑色军团的铠甲，像是中世纪来的母夜叉就对了。这种情况下她会布置一堆任务，让你忙的团团转的。
+我会跟她谈谈的。
+等会儿吧。
+我本来不知道你能不能成功的，但你克服了诸多困难。{^n}{^n}这些人都欠你一条命。
+我只是做了正确的事情。
+我希望我们的麻烦都结束了，但是眼下还有要把我们全部消灭的威胁在日益增长着。
+我们现在要做什么？
 
-Come back another time. I've got important matters to attend to.
-Farewell.
+过会儿再来找我吧。我有些重要的事情要做。
+再见。

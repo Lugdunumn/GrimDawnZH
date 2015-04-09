@@ -51,7 +51,7 @@ tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的�
 
 tagSkillClassDescription02=帝国军队的火药大师；爆破者既是工程师，也是巫师。他们习惯于使用他们一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人不过他们也能熟练地使用近战武器。
 
-tagSkillClassDescription03=曾被企图掌控其可怕力量的帝国军队追捕，神秘学者的技艺着重于召唤与借用三巫神俾斯麦尔、索拉尔和德里格赐予的力量。他们的多重技艺包括诅咒和能造成毒药、酸性和腐蚀伤害的技能。即使不擅长用剑与枪械，他们仍然可以使用其中任意一种来增强攻击。
+tagSkillClassDescription03=曾被企图掌控其可怕力量的帝国军队追捕，神秘学者的技艺着重于召唤与借用三巫神拜斯迈、索拉尔和德里格赐予的力量。他们的多重技艺包括诅咒和能造成毒药、酸性和腐蚀伤害的技能。即使不擅长用剑与枪械，他们仍然可以使用其中任意一种来增强攻击。
 
 tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装。他们精通所有兵器，但更令人畏惧的是他们赖以为生的，刀刀致命的剑术。夜刃不适合面对面地硬撼强敌，他要么依靠幻象快速接近敌人，发动毁灭性的攻势，要么远距离投射幻化之锋。
 
@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感�
 tagClass01SkillName01B=格斗姿态 Fighting Form
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的额外目标。
 tagClass01SkillName01C=致死旋律 Deadly Momentum
-tagClass01SkillDescription01C=在进行一次节奏打击之后，利用技能的优势，短暂地使你的所有攻击附加额外的致命的力量。^o致死旋律激活时会影响到所有技能。
+tagClass01SkillDescription01C=在进行一次节奏打击之后，利用技能的优势，短暂地使你的所有攻击附加额外的致命的力量。^o致死旋律激活时会影响到所有的攻击。
 tagClass01SkillName01D=不谐和弦 Discord
 tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中将夹杂着元素和混乱的能量。
 
@@ -124,9 +124,9 @@ tagClass01SkillName05C=风卷残云 Clean Sweep
 tagClass01SkillDescription05C=刀锋横扫更为强力的一种形式，战士在攻击中施展猛击，足以将敌人击倒在地。
 
 tagClass01SkillName06A=马尔可夫优势 Markovian's Advantage
-tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。
+tagClass01SkillDescription06A=著名战术家马尔可夫总是谋划从高处进攻。这个经典攻击的灵感正是来自马尔可夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。^o使用所有的武器均可激活该技能效果。
 tagClass01SkillName06B=佐尔汉的技艺 Zolhan's Technique
-tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。^o当使用一把近战武器发动时，会击中附近多个目标。
+tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。^o当使用一把近战武器发动时，会击中附近多个目标。^o使用所有的武器均可激活该技能效果。
 
 tagClass01SkillName07A=战意 Fighting Spirit
 tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，相反激起你的怒气，在攻击中使出更大的力量。
@@ -297,7 +297,7 @@ tagClass03SkillName03B=掌控 Manipulation
 tagClass03SkillDescription03B=以微妙的手法操纵召唤契约，使召唤物将对你忠诚无比。它们将以狂热的力量和速度为你而战。
 
 tagClass03SkillName04A=德里格之血 Blood of Dreeg
-tagClass03SkillDescription04A=与伟大的守护者之间的精神羁绊将赐予你一部分德里格的恢复能力。受到敌人攻击时将喷溅出巫神德里格身上的毒血。
+tagClass03SkillDescription04A=与伟大的守护者之间的精神羁绊将赐予你一部分德里格的恢复能力。受到敌人攻击时将喷溅出巫神德里格身上的毒血。 ^o技能效果也会作用于队友身上。
 tagClass03SkillName04B=守护者的坚甲 Armor of the Guardian
 tagClass03SkillDescription04B=神秘学者将置身于幻化出的屏障之中，敌人仿佛是在攻击德里格那坚不可摧的本体。
 tagClass03SkillName04C=守护者之翎 Quills of the Guardian
@@ -1460,6 +1460,31 @@ tagConsumableSkill_A22=虚化集簇
 tagConsumableSkill_A22Desc=破开水晶体以施放出其中的能量。
 tagConsumableSkill_A23=伯尔维治纯酿
 tagConsumableSkill_A23Desc=这可不是给软蛋喝的。副作用可能包括：恶心，呕吐，忘了你昨晚在哪儿。
+
+tagConsumableSkill_F01=石心之油
+tagConsumableSkill_F01Desc=Coats your shield with the Stoneheart concoction.
+tagConsumableSkill_F02=蛇人之血药剂
+tagConsumableSkill_F02Desc=An mist of toxins surrounds you.
+tagConsumableSkill_F03=罗瓦里之油
+tagConsumableSkill_F03Desc=Coats your weapon with the Arkovian toxin.
+tagConsumableSkill_F04=Wrath of the Beast Tincture
+tagConsumableSkill_F04Desc=Drives your minions into a frenzy.
+tagConsumableSkill_F05=革翅目之油
+tagConsumableSkill_F05Desc=Coats your weapon with Dermapteran toxin.
+tagConsumableSkill_F06=勇气药剂
+tagConsumableSkill_F06Desc=Fills you and your allies with the will to keep on fighting.
+tagConsumableSkill_F07=寻心之油
+tagConsumablevF07Desc=Coats your weapon with the Heartseeker toxin.
+tagConsumableSkill_F08=刀锋守护药剂
+tagConsumableSkill_F08Desc=Surrounds you with swirling blades that strike anything that attacks you.
+tagConsumableSkill_F09=冷血之油
+tagConsumableSkill_F09Desc=Coats your weapon with the Ice-Blood concoction.
+tagConsumableSkill_F10=寒霜守卫药剂
+tagConsumableSkill_F10Desc=A bone-chilling wind surrounds you.
+tagConsumableSkill_F11=凯蒙的圣油
+tagConsumableSkill_F11Desc=Coats your weapon with oils blessed by Kymon himself.
+tagConsumableSkill_F12=凯蒙的愤怒药剂
+tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
 
 #SkillsGeneral
 

@@ -1462,29 +1462,29 @@ tagConsumableSkill_A23=伯尔维治纯酿
 tagConsumableSkill_A23Desc=这可不是给软蛋喝的。副作用可能包括：恶心，呕吐，忘了你昨晚在哪儿。
 
 tagConsumableSkill_F01=石心之油
-tagConsumableSkill_F01Desc=Coats your shield with the Stoneheart concoction.
+tagConsumableSkill_F01Desc=在你的盾牌上涂抹石心之油。
 tagConsumableSkill_F02=蛇人之血药剂
-tagConsumableSkill_F02Desc=An mist of toxins surrounds you.
+tagConsumableSkill_F02Desc=毒雾环绕着你.
 tagConsumableSkill_F03=罗瓦里之油
-tagConsumableSkill_F03Desc=Coats your weapon with the Arkovian toxin.
-tagConsumableSkill_F04=Wrath of the Beast Tincture
-tagConsumableSkill_F04Desc=Drives your minions into a frenzy.
+tagConsumableSkill_F03Desc=在你的武器上涂抹阿克夫毒素。
+tagConsumableSkill_F04=愤怒野兽酊剂
+tagConsumableSkill_F04Desc=使你的仆从进入狂怒状态.
 tagConsumableSkill_F05=革翅目之油
-tagConsumableSkill_F05Desc=Coats your weapon with Dermapteran toxin.
+tagConsumableSkill_F05Desc=在你的武器上涂抹革翅目毒素。
 tagConsumableSkill_F06=勇气药剂
-tagConsumableSkill_F06Desc=Fills you and your allies with the will to keep on fighting.
+tagConsumableSkill_F06Desc=使你和队友充满继续战斗的意志。
 tagConsumableSkill_F07=寻心之油
-tagConsumablevF07Desc=Coats your weapon with the Heartseeker toxin.
+tagConsumablevF07Desc=在你的武器上涂抹寻心者毒素。
 tagConsumableSkill_F08=刀锋守护药剂
-tagConsumableSkill_F08Desc=Surrounds you with swirling blades that strike anything that attacks you.
+tagConsumableSkill_F08Desc=以刀锋漩涡围绕着你，打击攻击你的敌人。
 tagConsumableSkill_F09=冷血之油
-tagConsumableSkill_F09Desc=Coats your weapon with the Ice-Blood concoction.
+tagConsumableSkill_F09Desc=在你的武器上涂抹冷血之油。
 tagConsumableSkill_F10=寒霜守卫药剂
-tagConsumableSkill_F10Desc=A bone-chilling wind surrounds you.
+tagConsumableSkill_F10Desc=一阵刺骨寒风围绕着你。
 tagConsumableSkill_F11=凯蒙的圣油
-tagConsumableSkill_F11Desc=Coats your weapon with oils blessed by Kymon himself.
+tagConsumableSkill_F11Desc=在你的武器上涂抹凯蒙祝福的圣油。
 tagConsumableSkill_F12=凯蒙的愤怒药剂
-tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
+tagConsumableSkill_F12Desc=你发出爆发的火焰。
 
 #SkillsGeneral
 

@@ -814,7 +814,7 @@ tagNPC_MerchantB02=莫里斯·波顿
 tagStoreTitle_MerchantB02=稀有货物商人
 
 tagNPC_MerchantC01=马里斯·卡斯
-tagStoreTitle_MerchantC01=遗失货物商人
+tagStoreTitle_MerchantC01=失落宝物商人
 
 tagNPC_MerchantT01=流动商人
 tagStoreTitle_MerchantT01=流动商人

@@ -416,7 +416,7 @@ tagCharImportTitle=恐怖黎明自定义角色
 tagCharImportTitle=导入角色
 tagInstancedLoot=组队独立战利品掉落
 
-tagLobbyLock=密码已锁定
+tagLobbyLock=房间已上锁
 tagLobbyDifficulty=难度
 tagLobbyAutoparty=已开启自动组队
 tagLobbyInstancedLoot=组队独立战利品掉落

@@ -166,7 +166,7 @@ tagUGDevilsCrossingAquifer=恶魔含水层
 tagUGDevilsCrossingDungeon01=监牢地下城
 tagUGDevilsCrossingHiddenPassage01=罪犯隧道
 tagUGBurrwitchFloodedCellars=浸没的地窖
-tagUGBurrwitchOutskirtsBasin=走私者的水潭
+tagUGBurrwitchOutskirtsBasin=走私者的盆地
 tagUGFloodedPassageRuin=沉没圣所
 
 tagUGArkovianFoothills01=斯汤顿矿洞

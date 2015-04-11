@@ -19,7 +19,7 @@ tagWeaponSwordA011=骨锯
 tagWeaponSwordA012=征服者
 tagWeaponSwordA013=马刀
 
-tagWeaponSwordB001=萨拉查的君权剑 Salazar's Sovereign Blade
+tagWeaponSwordB001=萨拉查的王者之剑 Salazar's Sovereign Blade
 tagWeaponSwordB001Desc="此剑由冥神授予萨拉查，用来表彰他对冥神坚定不移的追随。"
 tagWeaponSwordB002=幽光阔剑
 tagWeaponSwordB003=幽光长剑
@@ -2613,7 +2613,7 @@ tagCompA052Desc="复仇的灵魂。" ^w^n(用于项链和勋章)
 tagCompA053Name=幻象印记
 tagCompA053Desc="一种象征着力量的符号，许多铭文中都会使用它。" ^w^n(用于戒指和项链)
 
-tagCompA054Name=恶毒颚骨
+tagCompA054Name=恶毒下颚
 tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同刺一般。" ^w^n(用于项链和勋章)
 
 tagCompA055Name=愤怒之石
@@ -2715,7 +2715,7 @@ tagCompAmmoBox=弹药匣
 tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭凯恩世界的黑暗势力。"
 
 tagCompAScrap=废铁
-tagCompAScrapDesc="可以用来作固定，连接之用的废旧材料，诸如子弹，皮绳和劣质的金属。"
+tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
 
 
 #Misc杂项

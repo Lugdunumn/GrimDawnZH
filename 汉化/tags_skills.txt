@@ -341,7 +341,7 @@ tagClass03SkillDescription13B=血瘟疫将摧毁敌人的活力，即使是流�
 tagClass03SkillName13C=黑死病 Black Death
 tagClass03SkillDescription13C=身体的高热和内脏的溶解折磨着敌人，让他们在战场上攻击落空，甚至攻击他们的队友。
 tagClass03SkillName13D=狂热怒意 Fevered Rage
-tagClass03SkillDescription13D=血瘟疫的变化对敌人与神秘学者本身来说都很危险。血瘟疫将极快的发作，不只是使造成的伤害加倍，更会使神秘学者患上高热，变得癫狂无比。他们将以异常的速度移动，伴随着狂暴的怒意发动攻击。而代价则是变得更为脆弱。
+tagClass03SkillDescription13D=血瘟疫的变化对敌人与神秘学者本身来说都很危险。血瘟疫将极快的发作，不只是使造成的伤害加倍，更会使敌人患上高热，变得癫狂无比。他们将以异常的速度移动，伴随着狂暴的怒意发动攻击。而代价则是敌人变得更为脆弱。
 
 tagClass03SkillName14A=末日闪电 Doom Bolt
 tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电，任何被它击中的敌人都将遭受重创。

@@ -430,8 +430,8 @@ tagEnemyManticoreC01=蝎尾狮领袖
 tagManticoreHeroH01=翡翠猎手 拉科萨
 tagManticoreHeroH02=死亡之眼 奈隆
 tagManticoreHeroH03=黑心 阿卡奥
-tagManticoreHeroH03=迅爪 尤若克西斯 ~ 迅捷
-tagManticoreHeroH04=猩红之爪 瓦罗克西斯 ~ 压碎者
+tagManticoreHeroH04=迅爪 尤若克西斯 ~ 迅捷
+tagManticoreHeroH05=猩红之爪 瓦罗克西斯 ~ 压碎者
 tagManticoreHeroH06=炎鬃 布拉泽拉
 
 tagManticoreBoss01=女王 莫伽拉

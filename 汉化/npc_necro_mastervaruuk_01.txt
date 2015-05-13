@@ -1,22 +1,88 @@
 Master Varuuk
-Welcome to our enclave.
-I have some questions.
-Please, speak.
+It pains me to hear that we've come so close to finding out master again, only to have that hope dashed.
+We will find Uroboruuk, someday.
+Your master does not wish to be found.
+Malkadarr has been returned to us.{^n}{^n}No small thanks to you. The Order was right to have trusted you.
+It is a fruitful alliance.
+May the specter of death guard your path.
+What is the Keeper's role?
+Farewell.
+May the specter of death guard your path.
+Goodbye.
+Have you dealt with Noveria?
+I have gathered her essence.
+Excellent work. I was worried that she may have been too much for you, but you have proven to be quite resourceful.{^n}{^n}There is but one final piece we still require to bring back Malkadarr, but that is not for me to discuss. Speak with the Keeper when you are able. She will have the details.
+The Keeper?
+The Keeper of Tomes, guardian of the Order's knowledge. She has become the Order's de-facto leader after Uroboruuk's disappearance.
+Uroboruuk is gone?
+Yes, sadly our master has left us several years ago. To what end, we do not know.{^n}{^n}He left us no information as to his departure, nor has he tried to contact anyone within the Order.
+Has anyone seen him since?
+Yes, quite a few. Some never returned, dead or still searching.{^n}{^n}Before the Grim Dawn, our accomplished acolytes would set out into the world for a year in order to search for our master. It was a rite of passage of sorts.
+Perhaps he will return some day.
+I see.
+I will speak to her.
+I will.
+Have you dealt with Noveria?
+Where should I be looking?
+Travel into the Conflagration, a blasted area filled with Aetherfire to the northeast of Homestead, and track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.{^n}{^n}Destroy Noveria and gather her essence.
+I will do so.
+Not yet.
+The Rite of Resurrection requires powerful incantations, and an equally powerful energy source.{^n}{^n}Without something to draw upon, the ritual would drain the participants dry and leave them as nothing but withered husks.
+How can we prevent that?
+Aetherials are a manifestation of the Aether itself, a source of pure arcane energy. The more powerful the Aetherial, the hotter its spirit will burn within the ritual.{^n}{^n}Travel into the Conflagration, a blasted area filled with Aetherfire to the northeast of Homestead, and track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.I will bestow a boon of the Order upon you to help counter her arcane prowess and to contain her essence. Destroy Noveria in the Order's name!
+I will gather the essence.
+I am not going into that hell-hole.
+I've already done this with the help of another.
 
+I will return later.
+Have you gathered the Chthonic Seals?
+Are these the Seals you seek?
+Yes, these appear to be in good shape. They will be most useful in returning Malkadarr to this world.{^n}{^n}Next, we will require a source of arcane power. I have just the thing in mind.
+What's next?
 
+There are other matters I must attend to.
+Have you gathered the Chthonic Seals?
+Where should I be looking?
+The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the Blood Grove and beyond, then return to me with the Seals.
+It will be done.
+Not yet.
+The Cult of Ch'thon is experienced in summoning rituals, something we can use to our advantage.{^n}{^n}We will take what we need from the Cult, while crippling them in the process. Interested?
+Go on.
+The Cult uses Chthonic Seals of Binding to maintain the rifts into the Void. Many of their more powerful members carry these on their person at all times.{^n}{^n}Should the Cult be denied these Seals, then their rituals will destabilize, denying them valuable reinforcements.{^n}{^n}Their loss is our gain. Bring me the Seals so that we can use them to stabilize our own ritual.
+I will gather the Seals.
+Find someone else.
+Are these the Seals you seek?
 
-Thank you.
+Perhaps another time.
+Have you done as I asked, initiate?
+Yes, I have the remains.
+You have entered the pit of despair and emerged unscathed. Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
+What is it?
 
+Perhaps another time.
+Have you done as I asked, initiate?
+Where should I look for the remains?
+Chthonic rifts have been opening randomly around the Blood Grove.{^n}{^n}Any one of them will lead you to the void, and Malkadarr's remains.
+I will search for it.
+Not yet.
+If you are to fight alongisde the Order of Death's Vigil, then first you must prove yourself to us.{^n}{^n}Show us that you do not fear death, and we will show you its secrets.
+What must I do?
+One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains were dragged into Void through one of their rifts in the Blood Grove.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the void and recover Malkadarr's remains. 
+I will recover the remains.
+Forget it. Sounds like suicide.
+I've already recovered the remains.
+You entered that pit of despair without cause or reason? Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
+What is it?
 
+Perhaps later.
+What is the Rite of Resurrection?
+It is a sacred ritual performed in dire times to bring back a fallen member of the Order. It is not resurrection in the literal sense, Malkadarr will not be returned to his mortal form. Instead, he will continue to serve the Order as a revenant.{^n}{^n}Can I count on you to retrieve what's left of him?
+I will recover the remains.
+Forget it. Sounds like suicide.
 
-Thank you.
+I will return later to discuss this.
+You must be the representative from the Black Legion.{^n}{^n}Come, come, there is much to be done.
+You wanted to speak with me?
 
-
-
-Thank you.
-
-
-
-Thank you.
-Nevermind.
+May the specter of death guard your path.
 Goodbye.

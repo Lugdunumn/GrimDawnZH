@@ -1,12 +1,15 @@
 拉莉亚
-quest blocked
+See something you like?{^n}{^n}Move along.
+Alright then.
+Hate to admit, for a while there I thought I was as good as dead.{^n}{^n}Thank you, for my freedom.
+How did Nathaniel get the best of you?
+They must have seen me working the cauldron, saw some Aether glow and jumped to their own crazy conclusions. They were on me before I could cast a single spell.{^n}{^n}I may have access to powers beyond most men, but I am no Aetherial.{^n}{^n}Here, take this. It is a paltry gift, but the least I could offer my savior. I will not forget this kindness. Farewell.
+Goodbye.
+Earlier, you stared at me as if you knew everything about me.
+A little trick I picked up. You should work on that, blocking your thoughts. Not all mind readers are as benevolent as I am.{^n}{^n}Nevertheless, you are not Taken either, though the after-effects on your mind are astonishing. It's as if the Aetherial was rearranging your brain.
+Rearranging how?
+Hard to say. Perhaps you should ask the one that did this to you?{^n}{^n}*Rallia laughs*
 
 
-
-
-
-
-
-
-catch all
-
+See something you like?{^n}{^n}Move along.
+Alright then.

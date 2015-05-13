@@ -31,7 +31,7 @@ tagMapBurrwitchCenter=伯尔维治中心
 tagMapBurrwitchEstates=伯尔维治庄园
 tagMapBrokenTeeth=破碎之牙
 tagMapDevilsSpur=恶魔山脊
-tagMapNecropolis=大墓地
+tagMapNecropolis=古代墓地
 tagMapOldGrove=古老林地
 tagMapVoidlands=冥灵虚空
 

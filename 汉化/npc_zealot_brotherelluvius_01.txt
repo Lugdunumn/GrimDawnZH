@@ -1,22 +1,92 @@
 Brother Elluvius
-Welcome to our enclave.
-I have some questions.
-Please, speak.
+Father Kymon speaks very highly of you, [[ms]brother[fs]sister].
+There is something you should know about Kymon.
+Do not strain yourself, [[ms]brother[fs]sister]. I've heard all the praises.
+Kymon has made a deal with a Primordial, not Empyrion.
+You speak blasphemy. I will hear no more of this nonsense.{^n}{^n}Purge your mind of such wicked ideas.
+You don't understand, I saw it with my own eyes.
+Our Prophet has brought us hope in desperate times.{^n}{^n}I will not allow you to tear his work apart. Leave me be.
+Stubborn son of a slith.
+Fine...
+I...nevermind.
+You're right. Farewell.
+Farewell.
+I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
 
+Farewell.
+May the Light of Empyrion guide your path.
+What can you tell me about Father Kymon?
+He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
+I see. Thank you.
+Farewell.
+May the Light of Empyrion guide your path.
+Goodbye.
+How goes your Trial?
+I have braved the Void and its master.
+You have achieved more than even some of the Chosen can claim.{^n}{^n}Few are asked to brave the Void as you have. Fewer still return alive.{^n}{^n}You are ready to speak to Father Kymon, [[ms]brother[fs]sister].
 
+I will speak to him now.
+I must rest after the ordeal.
+How goes your Trial?
+Where should I be looking?
+Chthonic rifts have been opening randomly around the Blood Grove.{^n}{^n}Any one of them will lead you into the Void, and its master Bane'Gargoth.
+I will go there now.
+I've barely started.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon, but before you are allowed to receive Empyrion's will from the Blessed Father himself, you must first prove your iron will through a trial-by-fire.
+What is this trial?
+The trial will test your mind and your strength as nothing has ever done so before.{^n}{^n}You are to enter the Chthonic Void itself and lay havoc upon our enemies in the heart of their home. The cult's activities have caused chaos rifts to open randomly around the Blood Grove. Find one and enter it.{^n}{^n}Once inside, seek out its master, a Chthonian beast known as Bane'Gargoth, and destroy it. Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
+I will face the trial.
+Sounds like suicide.
+I have already braved the Void and its master.
 
-Thank you.
+I cannot right now.
+Have you dealt with the heretics?
+They are finished.
+Father Kymon will be pleased to learn of their demise.{^n}{^n}You are ever eager to act out Kymon's will. Perhaps you are ready for the Trial of the Void. You are not permitted to receive Empyrion's will from the Blessed Father himself until you have done so.
+The Trial of the Void?
 
+Not interested.
+Have you dealt with the heretics?
+Where should I be looking?
+Bolvar the Bloodbinder and Zaria the Carver have been spotted around Darkvale, to the north of Blood Grove.{^n}{^n}By Kymon's will, hunt them down and act out Empyrion's vengeance upon them.
+I will.
+Not yet.
+You have crippled the cult's rituals, but that is not enough. So long as the cult is allowed to act without fear, they shall wreak havoc upon what's left of humanity.{^n}{^n}We have tolerated their movements for too long.
+What must be done?
+Father Kymon demands that the cult's higher ranked members be exterminated as the vermin they are. I speak specifically of Bolvar the Bloodbinder and Zaria the Carver.{^n}{^n}These individuals are responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt them down near Darkvale to the north and act out Empyrion's vengeance upon them.
+I will slay them.
+Find someone else to be your assassin.
+I have already dealt with those two.
+As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of their demise.{^n}{^n}You are ever eager to act out Kymon's will. Perhaps you are ready for the Trial of the Void. You are not permitted to receive Empyrion's will from the Blessed Father himself until you have done so.
 
+Not interested.
+I must deal with other matters.
+Do you have the Chthonic Seals?
+Are these the Seals you seek?
+Good, without these the cult's rituals will suffer and their foul implements will burn in righteous fire.{^n}{^n}You have proven yourself, initiate. Are you prepared to fight in Kymon's name?
+What does Kymon require?
 
-Thank you.
+Perhaps later.
+Do you have the Chthonic Seals?
+Where should I be looking?
+The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the Blood Grove and beyond, then return to me with the Seals.
+It will be done.
+Not yet.
+If you wish to prove yourself to the Chosen of Kymon, then first I require proof of your purity of spirit.{^n}{^n}Show us that you are not aligned with the forces of the Void.
+What must I do?
+The vile Cult of Ch'thon has long been an agent of corruption and chaos within Cairn, but their activities since the Grim Dawn are reaching catastrophic levels.{^n}{^n}Even now they summon creatures from the Void using their heathen blood rituals. These rituals must be stopped at any cost. The cultists are known to use special Seals of Binding when practicing their art. Their most powerful members often carry them on their person.If you truly are interested in Father Kymon's mission, then you must recover these Seals and bring them to me so that they can be incinerated in Empyrion's fire.
+I will gather the Seals.
+Find someone else.
+Are these the seals?
 
+Empyrion's fire?
+Yes, the sacred flame of Empyrion, the Light of the World.{^n}{^n}Empyrion, the first of the gods and protector of Cairn has returned to us in our darkest hour. His will is made known to us through Father Kymon, our prophet.
+I will gather the Seals.
+Find someone else.
 
+I will return later to discuss this.
+You are the one the Legion sent?{^n}{^n}You are later than I've expected.
+You wanted to speak with me?
 
-Thank you.
-
-
-
-Thank you.
-Nevermind.
+May the Light of Empyrion guide your path.
 Goodbye.

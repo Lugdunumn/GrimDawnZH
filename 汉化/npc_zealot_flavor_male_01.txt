@@ -1,22 +1,13 @@
 Brother Lector
-Welcome to our enclave.
-I have some questions.
-Please, speak.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-Nevermind.
-Goodbye.
+Bring righteous death to our enemies, [[ms]brother[fs]sister].
+I shall.
+My mace thirsts for heathen skulls. Have you seen any of the foul Order of Death's Vigil out there?
+What do you have against the Order?
+Their blatant disregard for death disgusts me. They toy with the domain of the gods, thinking themselves above the Divine plan.{^n}{^n}I will see the world rid of their kind so that good men and women may inherit her fertile lands.
+Perhaps there is a misunderstanding?
+There is no misunderstanding. The necromancers are no better than the Aetherials and Chthonians threatening to wipe us out.{^n}{^n}They would see us burn in damnation.
+Then they all must die.
+Time will tell on who is right.
+A noble goal.
+They are about the area, yes.
+I'm afraid not.

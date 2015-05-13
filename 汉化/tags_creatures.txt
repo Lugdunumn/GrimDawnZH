@@ -1,31 +1,44 @@
 #CreatureAllSurvivors
 
-tagSurvivorGuardGenericRangedA01=幸存者~侦察兵
-tagSurvivorGuardGenericRangedB01=幸存者~游击兵
-tagSurvivorGuardGenericMeleeA01=幸存者~防御者
-tagSurvivorGuardGenericMeleeB01=幸存者~守卫
+tagSurvivorGuardGenericRangedA01=幸存者 ~ 侦察兵
+tagSurvivorGuardGenericRangedB01=幸存者 ~ 游击兵
+tagSurvivorGuardGenericMeleeA01=幸存者 ~ 防御者
+tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
 
 tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
 
-tagBlackLegion_GuardMeleeA01=黑色军团~步兵
-tagBlackLegion_GuardRangedA01=黑色军团~射手
+tagBlackLegion_GuardMeleeA01=黑色军团 ~ 步兵
+tagBlackLegion_GuardRangedA01=黑色军团 ~ 射手
 
-tagBlackLegion_MeleeA01=黑色军团~近卫
-tagBlackLegion_RangedA01=黑色军团~死亡印记
-tagBlackLegion_CasterB01=黑色军团~战法师
-tagBlackLegion_ChampionC01=黑色军团~指挥官
+tagBlackLegion_MeleeA01=黑色军团 ~ 近卫
+tagBlackLegion_MeleeB01=黑色军团 ~ 先锋
+tagBlackLegion_RangedA01=黑色军团 ~ 死亡印记
+tagBlackLegion_CasterB01=黑色军团 ~ 战法师
+tagBlackLegion_CasterB02=黑色军团 ~ 军医
+tagBlackLegion_ChampionC01=黑色军团 ~ 指挥官
 
-tagNecromancer_CasterA01=死亡守夜人~初阶信徒
-tagNecromancer_CasterB01=死亡守夜人~侍僧
-tagNecromancer_ChampionC01=死亡守夜人~恐惧领主
+tagNecromancer_CasterA01=死亡守夜人 ~ 初阶信徒
+tagNecromancer_MeleeA01=死亡守夜人 ~ 初阶信徒
+tagNecromancer_CasterB01=死亡守夜人 ~ 侍僧
+tagNecromancer_ChampionC01=死亡守夜人 ~ 恐惧领主
+tagNecromancerH01=亡者代言人 尤若克拉
+tagNecromancerH02=死神 诺酷塔克
+tagNecromancerH03=纳卡拉 ~ 回复者
+tagNecromancerH04=米索纳克 ~ 护盾
 tagNecromancer_Boss01=死亡暗语者 拉沃克大师
 tagNecromancer_Boss02=死亡守夜人勇士 马卡达
 
-tagZealot_MeleeA01=凯蒙的神选战士~狂战士
-tagZealot_RangedA01=凯蒙的神选战士~狂战士
-tagZealot_CasterB01=凯蒙的神选战士~持火者
-tagZealot_ChampionC01=凯蒙的神选战士~剑姬
-tagZealot_AncestralSpirit=先祖之魂
+tagZealot_MeleeA01=凯蒙的神选战士 ~ 狂战士
+tagZealot_RangedA01=凯蒙的神选战士 ~ 狂战士
+tagZealot_CasterB01=凯蒙的神选战士 ~ 驭雷者
+tagZealot_ChampionC01=凯蒙的神选战士 ~ 剑姬
+tagZealotH01=暴风少女 奥赛蒂亚姐妹
+tagZealotH02=至高神使 鲍德里斯兄弟 
+tagZealotH03=山德莉亚姐妹 ~ 防御者
+tagZealotH04=汉德瑞克兄弟 ~ 燃烧
+tagZealot_Boss01=裂天者 布拉夫娜姐妹 
+tagZealot_Boss02=虚空使者 莎拉那图
+tagZealot_AncestralSpirit=执政官 巴托雷姆
 
 #CreatureAetherial
 
@@ -38,6 +51,7 @@ tagAetherObeliskA01=虚灵方尖碑
 tagAetherObeliskB01=虚灵大地塑型者
 
 tagBossAetherObelisk01=烈焰使者
+tagBossAetherObelisk02=毁灭使者
 
 tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影
@@ -47,6 +61,7 @@ tagEnemyAetherialAbominationB01=虚灵恶煞
 tagEnemyAetherialAbominationC01=熔岩恐兽
 
 tagAetherialAbominationBoss01=混元体
+tagAetherialCommanderBoss01=指挥官卢修斯
 
 #CreatureBoar
 
@@ -88,6 +103,8 @@ tagEnemyCelestial_QuestA01=Celestial Thing
 
 #CreatureChthonian 冥灵
 
+tagEnemyChthonianAbomination=冥灵拆解者
+
 tagEnemyChthonianMinionA01=冥灵先锋
 tagEnemyChthonianMinionB01=冥灵放血者
 tagEnemyChthonianMinionC01=冥灵凋零使者
@@ -99,6 +116,9 @@ tagChthonianMinionHeroH04=奥尔杜安·达若斯
 tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
+
+tagChthonianBoss01=鲜血使者 拉苟扎克
+tagChthonianBoss02=混沌使者 沙祖尔
 
 #CreatureChthonianFiend
 
@@ -116,6 +136,7 @@ tagVoidFiendBoss01=地狱之火 巴洛格·纳斯
 
 #CreatureChthonianDevourer
 
+tagEnemyChthonianDevourerA00=冥灵游荡者
 tagEnemyChthonianDevourerA01=冥灵饥饿者
 tagEnemyChthonianDevourerB01=冥灵吞噬者
 tagEnemyChthonianDevourerB02=冥灵饱食者
@@ -185,6 +206,20 @@ tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔
 tagGhostBoss05=行刑者领主 阿卡莫斯
 tagGhostBoss06=悲伤魂灵
+
+#Ghoul 食尸鬼
+
+tagEnemyGhoulA01=食尸鬼
+tagEnemyGhoulB01=食尸鬼 食尸者
+tagEnemyGhoulB02=食尸鬼 饮血者
+tagEnemyGhoulC01=食尸鬼 死灵法师
+
+tagEnemyGhoulH01=
+tagEnemyGhoulH02=
+tagEnemyGhoulH03=
+tagEnemyGhoulH04=
+
+tagGhoulBoss01=永恒的那卡森
 
 #CreatureGolem 傀儡
 
@@ -281,9 +316,17 @@ tagHarvestmanHeroH04=乌鸦凶煞 ~ 压碎者
 
 tagEnemyBloodswornA01=血誓 崇拜者
 tagEnemyBloodswornB01=血誓 狂热者
+tagEnemyBloodswornB02=血誓 召唤者
+tagEnemyBloodswornB03=血誓 虚空召唤者
 tagEnemyBloodswornC01=血誓 牧师
+tagEnemyBloodswornC02=血誓 末日预言者
+
 
 tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
+tagHumanCultistHeroH02=血沸 卢修斯
+tagHumanCultistHeroH03=猎犬召唤者 奈达利安
+tagHumanCultistHeroH04=依格纳修斯 ~ 燃烧
+tagHumanCultistHeroH05=嗜血者 玻利瓦 ~ 回复者
 tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
 tagEnemyBloodswornMiniBoss02=血之羁绊 伯瓦尔
 tagEnemyBloodswornMiniBoss03=屠刀 扎里亚
@@ -357,6 +400,8 @@ tagHumanPossessedHeroH03=霜心 卡姆拉德瑞斯
 tagHumanPossessedHeroH04=科尔普斯 ~ 伤害反弹
 tagHumanPossessedHeroH05=埃斯匹瑞斯 ~ 支援者
 
+tagHumanPossessedBoss01=风暴之火 诺维利亚
+
 #CreatureInsectDermapteran 革翅目
 
 tagEnemyDermapteranA01=革翅目象甲虫
@@ -426,6 +471,9 @@ tagEnemyManticoreB01=蝎尾狮废土追猎者
 tagEnemyManticoreB02=蝎尾狮夜行者
 tagEnemyManticoreC01=蝎尾狮领袖
 
+tagEnemyManticoreAetherA01=奇型蝎尾狮
+tagEnemyManticoreAetherB01=奇型废土追猎者
+tagEnemyManticoreAetherC01=奇型虚化之裔
 
 tagManticoreHeroH01=翡翠猎手 拉科萨
 tagManticoreHeroH02=死亡之眼 奈隆
@@ -441,12 +489,15 @@ tagManticoreBoss01=女王 莫伽拉
 tagEnemyObsidianDefilerA01=黑曜岩降生者
 tagEnemyObsidianDefilerB01=黑曜石蝎子
 tagEnemyObsidianDefilerC01=黑曜石掠夺者
+tagEnemyObsidianDefilerC02=黑曜石歼灭者
 
 tagObsidianDefilerHeroH01=泰坦 奥珀西迪斯
 tagObsidianDefilerHeroH02=篡位者 萨里斯
 tagObsidianDefilerHeroH03=凯尔法·依多斯 ~ 带电
 tagObsidianDefilerHeroH04=奥鲁金·依多斯 ~ 冰冻
 tagObsidianDefilerHeroH05=卓格·尤考格 ~ 冲锋
+
+tagObsidianDefilerBoss01=梦魇 加戈斯
 
 #CreaturePrawns 虾
 
@@ -545,6 +596,7 @@ tagSkeletalGolemHeroH05=混乱使者 奥拉加尔 ~ 虚空之触
 
 
 tagSkeletalGolemBossB01=不朽者 伊尔戈
+tagSkeletalGolemBossB02=尤若布鲁克的守卫
 
 #CreatureSkeleton 骷髅
 
@@ -580,8 +632,11 @@ tagGravestone_Skeleton03=瑞恩
 tagEnemyDeepMire_SlithWarriorA01=泥潭战士
 tagEnemyDeepMire_SlithWarriorB01=泥潭先锋
 tagEnemyDeepMire_SlithWarriorC01=泥潭勇士
+tagEnemyDeepMire_SlithWarriorC02=泥潭潮汐猎人
 tagEnemyDeepMire_SlithShamanB01=泥潭萨满
+tagEnemyDeepMire_SlithShamanB02=泥潭驯兽师
 tagEnemyDeepMire_SlithShamanC01=泥潭召唤者
+tagEnemyDeepMire_SlithShamanC02=泥潭纯种蛇人
 
 tagEnemyVenomtongue_SlithWarriorA01=毒舌战士
 tagEnemyVenomtongue_SlithWarriorB01=毒舌先锋
@@ -604,6 +659,7 @@ tagSlithHeroH06=阿瓦拉瑞安 ~ 腐化
 
 tagSlithBossB01=腐化者 维洛丝
 tagSlithBossB02=被遗忘者 派莫笛安
+tagSlitbBossB03=第一只蛇人 艾莱纳
 
 tagEnemyMurkTide_SlithWarriorA01=黑潮战士
 tagEnemyMurkTide_SlithWarriorB01=黑潮先锋
@@ -652,6 +708,9 @@ tagAetherHorrorHeroH01=艾泽若斯
 
 tagEnemyTrapA01=闪耀陷阱
 tagEnemyTrapA02=发射陷阱
+tagEnemyTrapA03=黑曜石碎片
+tagEnemyTrapA04=黑曜石变体
+tagEnemyTrapA05=地面尖刺
 
 #CreatureTrolls 巨魔
 
@@ -746,6 +805,21 @@ tagWormHeroH03=裂石者 ~ 护盾
 tagWormHeroH04=愤怒之虫 ~ 腐化
 tagWormHeroH05=裂隙魔虫 ~ 虚化之触
 
+#CreatureYeti 雪人
+
+tagEnemyYetiA01=寒鬃野兽
+tagEnemyYetiB01=寒鬃狂暴者
+tagEnemyYetiB02=寒鬃寒冰分断者
+tagEnemyYetiC01=寒鬃头领
+
+tagYetiHeroH01=
+tagYetiHeroH02=
+tagYetiHeroH03=
+tagYetiHeroH04=
+
+tagYetiBoss01=
+
+
 #CreatureZombie
 
 tagEnemyZombieA01=行尸
@@ -837,6 +911,8 @@ tagEnemySummonRifthound=蓝色裂隙魔犬
 tagEnemySummonObsidianCluster=黑曜石簇
 tagEnemySummonRaven=风暴巨鸦
 tagEnemySummonAetherTrap=虚化陷阱
+tagEnemySummonIceCrystal=冰晶
+tagEnemySummonTentacle=缠绕触手
 
 #Boss&Quest boss和任务怪
 
@@ -846,6 +922,70 @@ tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
 
 tagBossTheWarden01=典狱长
+tagBossOutcast01=虚化盗贼 阿纳斯塔里娅
+tagBossOutcast02=虚灵复仇者 阿纳斯塔里娅
+tagBossOutcast03=虚灵之怒 阿纳斯塔里娅
+
+#Nemesis 复仇者
+tagNemesis_Aetherial01=风暴之灾 沃达兰
+tagNemesis_Aetherial02=被遗忘的邪灵
+tagNemesis_Aetherial03=贱民
+tagNemesis_Chthonian01=永恒之石 扎克·阿兰
+tagNemesis_Chthonian02=巨像 本·扎尔
+tagNemesis_Chthonian03=无尽饥饿 巴格斯·祖尔
+tagNemesis_Kymon01=地狱火领主
+tagNemesis_Kymon02=铁娘子
+tagNemesis_OrderDeathsVigil01=不朽的赞塔兰
+tagNemesis_OrderDeathsVigil02=腐朽编织者 卡巴拉
+tagNemesis_Outlaw01=隐秘刺客 费比乌斯·冈扎尔
+tagNemesis_Outlaw02=裁决者沃斯
+tagNemesis_Outlaw03=死眼
+tagNemesis_Undead01=技师 奥米诺克西斯
+tagNemesis_Undead02=寒风 莫斯劳克
+tagNemesis_Undead03=血毒
+
+
+#Bounties 赏金
+tagBountyBL08=饱食之胃
+tagBountyBL09=掠行的西克里斯
+tagBountyBL10=灰烬之爪
+tagBountyBL17=复生者 哈拉斯
+tagBountyBL18=派得曼斯蒂亚
+tagBountyBL19=尸化者
+tagBountyBL20=卢萨斯·巴洛克
+tagBountyDC06=压碎者 罗曼诺夫
+tagBountyDC07=乌鸦 波拉
+tagBountyDC08=病疫的斯拉丝
+tagBountyDC09=Ballior ~ Burning
+tagBountyDC10=压碎者 罗曼诺夫
+tagBountyDC11=Caspis, the Blooddrinker
+tagBountyDC15=Rostov, the Aetherflame
+tagBountyDC17=Nalloth, the Frostbound
+tagBounyExile12=Nucus'Dal
+tagBounyExile13=Innu'Garbal
+tagBounyExile14=Conastaria
+tagBounyExile15=Ludia Starfire
+tagBountyHS09=Bogloth the Marrowdrinker
+tagBountyHS10=The Locust
+tagBountyHS11=Vizier Haxin
+tagBountyHS12=Glukrog Lifedrinker
+tagBountyHS13=Phabius ~ Electrified
+tagBountyKC07=Holvuur Bonespeaker
+tagBountyKC08=Igniaa Venomtongue
+tagBountyKC09=Vom'Zul
+tagBountyKC10=Thullon, Chosen of Ch'thon
+tagBountyKC11=Abathis, the Withered
+tagBountyKC19=Ludia Bloodwhisper
+tagBountyODV06=Halvastra Wrathfire
+tagBountyODV07=Horvald Shieldbreaker
+tagBountyODV08=Olga Flamebearer
+tagBountyODV09=Narroth, the Behemoth
+tagBountyODV10=Barrostrandt, the Ascended
+tagBountyODV11=Gravvis, the Decayed
+tagBountyODV12=Narl'Sarroth
+tagBountyRO10=Oligeane Dar
+tagBountyRO11=Rixna Plaguefeather
+tagBountyRO12=莫塔里斯
 
 #Races 种族
 

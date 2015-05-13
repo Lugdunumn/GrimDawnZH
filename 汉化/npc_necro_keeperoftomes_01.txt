@@ -1,22 +1,180 @@
 The Keeper of Tomes
-Welcome to our enclave.
+You have served the Order well, and your discovery has given us hope that our master may someday return to us.
+What is next for the Order?
+We shall take the battle to the Aetherials and the Chthonians, alongside our Black Legion allies, as promised.{^n}{^n}Beyond that...well that remains to be seen whether we succeed.
+
+I'll see you on the battlefield.
+What about Uroboruuk?
+It has become clear after years of searching that our master does not wish to be found.{^n}{^n}If and when he chooses to return to us, we shall welcome him with great celebration and curiosity.
+
+I wonder if he's alright.
+So be it.
+Farewell.
+The Order welcomes you.
+Goodbye.
+Was your journey successful?
+I found a part of Uroboruuk's journal.
+This is a shocking discovery. None have found even a hint of Uroboruuk before now.{^n}{^n}It appears that our master has involved himself in the events revolved around the Grim Dawn's origins. Being involved in world-changing events is not exactly new for him.
+His guardian was contaminated by the Void.
+It appears that Ch'thon's minions do not look kindly upon our master's actions. Whatever he is doing, it has stirred the Chthonians into action.{^n}{^n}I have little doubt that he prevailed against his assailants though.
+Should we go after him?
+
+That's rather confident of you.
+We can only hope.
+How goes your search?
+Where should be looking?
+We have heard rumors of our master cropping up around the area east of Burrwitch known as East Marsh. It is a foul place filled with toxic waters and vicious wildlife, so beware.
+I'll be careful.
+I'm still looking.
+You have proven yourself to be a valuable ally, and the Order thanks you for your service.{^n}{^n}But now I must come before you with a task I can only entrust to our closest allies.
+What is so important?
+Our master, Uroboruuk. We have information that may lead us to him. I've already sent several of the Order to explore the area, but none have returned.{^n}{^n}And so I turn to you. You have proven to be both resourceful and deadly, attributes that should serve us well in tracking down our master. We have reason to believe that Uroboruuk was recently in an area known as East Marsh, not far from Burrwitch. It is a foul place filled with toxic waters and vicious wildlife. I fear that I may have sent our acolytes to their deaths.{^n}{^n}But you, you may succeed where they have failed. Will you investigate this lead for the Order?
+I will search for Uroboruuk
+Don't you have enough acolytes doing this already?
+I found a part of Uroboruuk's journal.
+
+Perhaps another time.
+You have served the Order well, but there are things I cannot entrust you with yet.{^n}{^n}Come back to me when you've proven your loyalty without a shadow of a doubt.
+What can I do to prove myself?
+Vanquish our foes, the Chosen of Kymon, or the Aetherials which mock our powers.{^n}{^n}You could check the Bounty Table in case any of our Order have tasks they require assistance in.
+Ok, I will.
+What of Malkadarr?
+Malkadarr shall continue his duties within the first circle, passing on his knowledge to his students.{^n}{^n}When it is demanded of him, he shall wage war against our enemies. It is his eternal charge to defend the Order and its knowledge.
+Malkadarr has to serve you?
+His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
+That seems wrong.
+Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
+Seems like a horrible fate.
+I suppose that makes sense.
+I suppose that makes sense.
+Alright.
+Malkadarr once again walks among us.{^n}{^n}You have done well.
+The ritual is complete, the spirits are banished.
+Indeed, the Rite of Resurrection was a success and our brave Malkadarr is once again able to serve me and the Order.
+Malkadarr has to serve you?
+His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
+That seems wrong.
+Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
+
+Seems like a horrible fate.
+I suppose that makes sense.
+
+Do you require anything else?
+
+
+May he serve you well.
+Please head over to the Chamber of Souls.{^n}{^n}Your assistance is required.
+Where should I go?
+The Chamber of Souls is right here in our sanctum. Join the ritual and secure Malkadarr's soul from beyond!
+I will go there now.
+I will.
+We now have everything we need to perform the Rite of Resurrection. Your loyalty and assistance have earned you the right to see Malkadarr return to this world.{^n}{^n}Do you wish to join us?
+What does this ritual entail?
+The ritual will be dangerous, of that I can assure you. Malignant spirits will be drawn to it like moths to the flame. I need you to dispatch anything that tries to interfere.{^n}{^n}Join us at the Chamber of Souls, its doors have been unlocked to you. Keep the chamber clear of spirits so that Malkadarr can find his way back to us.
+I will assist you in the ritual.
+I will have no part in this.
+What happens if I fail?
+Then we risk allowing another to enter Malkadarr's vessel.{^n}{^n}Should that happen, we will be forced to destroy it, and Malkadarr will be forever lost to us.{^n}{^n}Do not fail us.
+I will assist you in the ritual.
+I will have no part in this.
+I'm afraid not.
+You have served the Order well in preparing for Malkadarr's return, but the final step must be left to the Order's most trusted members.{^n}{^n}Come back to me when you've proven your loyalty.
+
+Very well.
+Have you vanquished our foes and claimed the ashes?
+Yes, I have them here.
+Excellent! With these ashes, Malkadarr shall once again take form in the physical realm.{^n}{^n}I hope many Chosen died tried to stop you from claiming them.
+Can we perform the ritual now?
+
+
+They were of no consequence.
+They fought fanatically to defend them.
+Have you vanquished our foes and claimed the ashes?
+Where are the ashes again?
+Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes.
+I will gather them now.
+Not yet.
+Master Varuuk speaks highly of your contributions. The Order values the Legion's assistance, and yours.{^n}{^n}But by now I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us.
+What is it?
+Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes. They will serve as the core of his revenant body.{^n}{^n}Unfortunately, Kymon's Chosen have already moved in on the crypt, declaring its contents sacred to their misguided faith. We will have to take the ashes from them by force.{^n}{^n}The Order is already advancing on the crypt as we speak. I need you to spearhead the attack. Wipe them out and claim the ashes for the Order!
+I will gather the ashes.
+I will not take part in this slaughter.
+I have the ashes, the Chosen died defending them.
+
 I have some questions.
-Please, speak.
+If I know the answer, you shall have it.
+What can you tell me about the Order's history?
+The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic ellimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.{^n}{^n}He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
+Who was Uroboruuk?
+Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to the Steps of Torment, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before the Grim Dawn struck.
+Your master left you?
+Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
+Has anyone gone out after him?
+Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
+I have another question.
+What did you need me to do?
+Perhaps we will find him someday.
+I have another question.
+What did you need me to do?
+It is a mystery then.
+I have another question.
+What did you need me to do?
+He was a fascinating man.
+I have another question.
+What did you need me to do?
+What a curious tale.
+What is your role as Keeper?
+I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
 
-
-
+I have another question.
+What did you need me to do?
 Thank you.
+What are the Order's goals?
+To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
+I have another question.
 
-
-
+What did you need me to do?
 Thank you.
+What can you tell me about Kymon's Chosen?
+They are zealous followers of a false prophet and a nonexistent god known as Empyrion. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm
+I have another question.
+What did you need me to do?
+I see.
+What did you need me to do?
+Nevermind.
+We will have to talk later.
+Another one joins our ranks. It is always a pleasure to welcome another open-minded individual into our ranks.{^n}{^n}Make yourself at home.
+I have some questions.
+If I know the answer, you shall have it.
+What can you tell me about the Order's history?
+The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic ellimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
+Who was Uroboruuk?
+Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to the Steps of Torment, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before the Grim Dawn struck.
+Your master left you?
+Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
+Has anyone gone out after him?
+Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
+I have another question.
+Perhaps we will find him someday.
+I have another question.
+It is a mystery then.
+I have another question.
+He was a fascinating man.
+I have another question.
+What a curious tale.
+What is your role as Keeper?
+I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
 
+I have another question.
 
+What are the Order's goals?
+To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
 
-Thank you.
+I have another question.
 
-
-
-Thank you.
+What can you tell me about Kymon's Chosen?
+They are zealous followers of a false prophet and a nonexistent god. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm.
+I have another question.
+I see.
 Nevermind.
 Goodbye.

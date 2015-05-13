@@ -1,22 +1,13 @@
 Ralukk
-Welcome to our enclave.
-I have some questions.
-Please, speak.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-Nevermind.
-Goodbye.
+With Malkadarr's return, perhaps we can finally wipe out the Chosen and end this foolish conflict.{^n}{^n}The Aetherials will not wait while we settle our mortal disputes.
+May it end swiftly.
+I hope we can focus on the real enemy soon.
+A rogue spirit nearly ruined a day's worth of study.{^n}{^n}I shall have to be more careful with the binding ritual in the future.
+You mean you capture spirits to serve you?
+But of course. Spectral servants are invaluable to our research on death and history.{^n}{^n}Sure, some spirits are accommodating, but not all are as understanding of the greater purpose we all serve.
+That seems despicable.
+Perhaps you do not have the stomach to do what must be done?{^n}{^n}We all have a part to play. Make sure that you do yours.
+We may be allies, but I do not support your ideals.
+I suppose these are desperate times.
+I see.
+Farewell.

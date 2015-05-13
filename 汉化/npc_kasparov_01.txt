@@ -1,8 +1,78 @@
 卡斯帕罗夫
-你好，我的朋友。卡斯帕罗夫能为你做些什么？
+At least you're good for gathering food, like a proper caveman that cannot appreciate the wonders of science.
+
+
+Goodbye.
+The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible. A shame...
+
+
+I...don't even want to know what that entailed.
+Farewell.
+What do you want?
+I've changed my mind, have Hargate's notes. (Give Formula)
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 2000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 10000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 20000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Can you provide me with Inventor services?
+I wouldn't dream of helping you.{^n}{^n}Leave me to my work.
+So be it.
+Nevermind.
+Is there something you need?
+Any progress with Hargate's formula?
+The man wasn't very good at keeping notes, I'm afraid.{^n}{^n}Most of what I've deciphered so far has been nothing but the random musings of a madman. Nothing solid to work with.{^n}{^n}Are you sure there weren't any other notes down there?
+I'm pretty sure.
+I'm not going back there, if that's what you're asking.
+
+Nevermind.
+What can I do for you?
+
+Just passing through.
+Hm? Do you have something for me?
+I have the formula right here. (Give Formula)
+Good, good, hand it here. Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.
+What exactly do you plan to do with these notes?
+Well, sate my curiosity at worst, find a way to revert some of the mutations induced by the Aetherials at best.{^n}{^n}Where we fall in the spectrum depends on if I can ever make any sense of this jargon.
+Good luck, I guess.
+Glad to be done with this.
+No, I am keeping it. (Keep Formula)
+What? No, no, you can't do this!{^n}{^n}Think about what you're doing. I only wish to use those notes in order to treat Aetherial victims, I swear it.
+This knowledge cannot end up in the wrong hands.
+You're being a fool. A selfish fool!{^n}{^n}Think of all the good we could do with that knowledge!
+Farewell.
+Alright, have them. (Give Formula)
+Hm? Do you have something for me?
+Where should I be looking for the formula?
+Hargate's lab, it's not far off the coast. You'll need to take a boat.{^n}{^n}I have a row boat in Lower Crossing for just the occasion. Just make sure nothing devours you out on those waters.
+That's comforting. Thanks for the info.
+Not yet.
+There you are! Come, come. I have something that requires your penchant for violence and survival despite all odds.
+Oh great, what is it this time?
+Nearly a century ago, a man named Oswald Hargate created the first slith. Needless to say, it was all a huge mistake, and the man paid for it with a lifetime in prison, but what interests me is the how.{^n}{^n}You see, Hargate harnessed the Aether in order to perform his mutagenic experiment. If I could get my hands on his notes, perhaps I could use his knowledge of the Aether to reverse some of the damage the Aetherials have cause to the local flora and fauna.I've been searching for Hargate's Lab for years, bribed the right people, even visited some prisons, and I believe I know where it is hidden. I was in Burrwitch putting together an expedition when everything turned sour.{^n}{^n}Now I'm here, and the discovery is more important than ever. I'd send Darlet, but after her performance in Burrwitch, I'm reluctant to give her more than a rag to wipe the shelves.{^n}{^n}Will you be my liaison? I have a row boat in Lower Crossing, just past the bridge out of the prison. If you take it northwest, you should find Hargate's Isle and, underneath it, his lab.
+I will find these notes for you.
+Find someone else crazy enough.
+I've been there. Here is Hargate's Formula. (Give Formula)
+
+I've been there. You will not have his notes. (Keep Formula)
+
+These notes sound dangerous. I'm not sure anyone should have them.
+I don't appreciate the suspicion. After all, I've trusted you from the beginning, despite your, um, disability.{^n}{^n}Besides, sometimes we must deal with dangerous materials in order to push the boundaries, and benefits, of science.{^n}{^n}*Kasparov holds up his left hand, which is missing two fingers*{^n}{^n}So how about a little more confidence, yes?
+I will find these notes for you.
+There's no way I am doing this for you.
+I don't have time for your experiments.
+The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible. A shame...
 你能给我提供储物箱服务么？
 哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
 嗯，好的。
+I...don't even want to know what that entailed.
+再见。
+你好，我的朋友。卡斯帕罗夫能帮你做些什么？
+
 我只是路过。
 你的盟友已经给我提供了实验所需要的材料，他们可真能干。
 很好。
@@ -32,6 +102,21 @@
 是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
 
 哦不，别又是一次实验……
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
+Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+
+Oh no, not another experiment...
+You're back! Is there anything I can help you with?
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
 你回来了！有什么我能帮你做的吗？
 你能给我提供储物箱服务么？
 哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
@@ -39,6 +124,8 @@
 你的盟友已经救回了我的笨徒弟。所以我觉得我们之间没事可谈了，对不？
 好的。
 我的懒徒弟终于从她的小旅行回来了。好，很好。我会打发她去工作的。{^n}{^n}她提到了你，你应该去和她谈谈。
+我会的。
+我看到我的懒徒弟终于从她的小旅行回来了。好，很好。我会打发她去工作的。{^n}{^n}她提到了你，你应该去和她谈谈。
 我会的。
 你找到了我的学徒没？我肯定她一定是在伯尔维治庄园的什么地窖里呆着。你可以开传送门把她给送回这里。事实上，如果还有其他人困在那儿，你也可以送他们过来。
 我会继续寻找的。

@@ -1,22 +1,30 @@
 拉莉亚
-Welcome to our enclave.
-I have some questions.
-Please, speak.
+Don't mind me, just waiting to be burnt to a crisp.
+Um...ok.
+Don't just stand there, kill them!
+Alright, alright.
+Since you insist, please talk some sense into Nathaniel.{^n}{^n}Fear clouds a man's judgement. He doesn't understand what he's doing.
+
+Here to gloat over Nathaniel's prize? Want to look me in the eye before you light the torch?{^n}{^n}I suppose it's a waste of breath to tell you that I am not a Taken?
+Then what are you?
+These farmers wouldn't know a Taken if it walked in on them fornicating with a goat.{^n}{^n}Look...I may have dabbled in the arcane here and there, maybe cursed a few mongrels for getting too touchy, but I am not some Aetherial's puppet.
+How do I know you're telling the truth?
+*Rallia stares at you, her eyes piercing through you*{^n}{^n}Perhaps because you of all people should know better than to accuse people of being Taken?
+I will talk to them. (Speak to Nathaniel)
+I will stop them. (Attack Nathaniel)
+I can't take the chance. (Burn Her)
+
+Sounds to me like you're guilty. (Burn Her)
+Why do they think you are Taken?
+These peasants see Aetherfire and immediately think it must be an Aetherial's doing.{^n}{^n}Arcanists have been wielding the Aether for centuries, but nowadays you might as well tie your own noose if you're a practitioner of the arcane.
 
 
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-Nevermind.
-Goodbye.
+No more lies. (Burn Her)
+I don't believe you. (Burn Her)
+We're not done here.
+Talk some sense into this maniacs!
+What's going on here?
+This is all a huge misunderstanding.{^n}{^n}Just talk to Nathaniel. There's a reasonable way out of all this.
+I'll see what I can do.
+I'm not getting involved in this.
+I'm not getting involved in this.

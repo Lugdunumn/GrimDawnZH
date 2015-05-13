@@ -118,7 +118,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
@@ -128,7 +128,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
@@ -168,7 +168,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance with a priority target.{^n}{^n}Padmanestia, a possessed human, has been spotted in the Conflagration. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}派得曼斯蒂亚, a possessed human, has been spotted in the Conflagration. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
@@ -178,7 +178,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance with a priority target.{^n}{^n}Luthus'Balok is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
@@ -243,7 +243,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
@@ -253,7 +253,7 @@ Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Decline the Bounty.
 (Skip this Bounty)

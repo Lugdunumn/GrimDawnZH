@@ -1,5 +1,5 @@
 索梅尔队长
-不用担心霍姆斯特德的安危。一切都尽在掌控。{^n}{^n}专心前往大墓地。
+不用担心霍姆斯特德的安危。一切都尽在掌控。{^n}{^n}专心前往古代墓地。
 
 保重。
 别傻站在这儿。我知道你一定可以干点什么。
@@ -42,6 +42,14 @@ Inquisitor Creed worked for the Luminari, investigating and dealing with superna
 再见。
 我还有一个问题。
 再见。
+What can you tell me about Fort Ikon?
+Fort Ikon has withstood generations of warfare. It was originally constructed over 300 years ago during a drawn-out conflict with another human nation, long since conquered by Erulan.{^n}{^n}The Fort is our northern bastion, a beacon of the empire's strength.
+Tell me about that war.
+I'm not exactly a historian, but I'll give it my best shot.{^n}{^n}The North Wars as they came to be called were waged over the disputed lands beyond the Asterkarn Mountains. The area was rich in resources and provided ample farmland, so it proved to be a point of contention between the two great nations. Neither side would relent ownership of the territory, and so it came to war.{^n}{^n}The conflict dragged on over twenty six years before we finally pushed them back. That was not the end of the bloodshed though. Years later, the northerners returned with another army, intent on retaking the region. The final exchange marked one of the bloodiest days in the Empire's history. It was also one of the first campaigns undertaken by the Black Legion. Back then, we were still unproven, only a few battles under our banner; but the Legion proved to be a force to be reckoned with. That same year we marched all the way to their capital, and crushed them. That was the end of the North Wars.
+I have another question.
+Goodbye.
+I have another question.
+Goodbye.
 Forget it.
 没事了，再见。
 I've already informed Creed of your recent actions. He is most eager to speak with you.{^n}{^n}Show him what you've shown me. He needs to see this.
@@ -57,23 +65,23 @@ I will speak to Creed.
 I can't right now.
 Why do you have such a grim look on your face?{^n}{^n}What happened out there?
 Karroz lies dead, but I found some disturbing information on him.
-Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's notes*{^n}{^n}I'll be damned. If the bastards pull this off, we may as well slit our own throats. This scenario is well beyond my pay-grade or would be if I were ever paid. You will need to bring this to Creed's attention immediately.
+Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's notes*{^n}{^n}I'll be damned. If the bastards pull this off, we may as well slit our own throats. This scenario is well beyond my pay-grade, or would be if I were getting paid. You will need to bring this to Creed's attention immediately.
 审判官？
 
 你追踪到目标了吗？
 我该去哪找卡若兹？
-We suspect that Karroz, the Sigil of Ch'thon, is hiding out somewhere in one of the larger cultist camps to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
+We suspect that Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
 我会小心的。
 还没有。
-Karroz, the Sigil of Ch'thon. That is the name of the cult's leader in the area. We have no idea if he is the head of the entire organization or if he is merely a pawn in someone else's game, but his name has come up several times, including a recent bloody interrogation.{^n}{^n}Karroz is hiding out somewhere north of Sorrow's Bastion, likely in one of the bigger camps. His death would surely cripple the cult's chain of command. Anything I need done is clearly beneath Ulgrim's dainty nose, so it falls to you. Will you be my assassin?
+When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress once used to protect the trade routes leading through the Alpine Valley.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as the Conflagration, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
 It will be done.
 I won't do this.
 I have already killed Karroz. I found some disturbing information on him.
 
-I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in Old Grove.
+I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in the Blood Grove.
 The cult must be stopped.
-I could not agree more, and now we have a key bit of information that could help drive this conflict to a swift conclusion.
-What did you learn?
+I could not agree more. We've been cut off from Fort Ikon long enough.
+What's our next step?
 
 别再浪费时间了，我们等得越久，邪教徒就会召唤越多的冥灵。
 Where is the Cult of Ch'thon entrenched?

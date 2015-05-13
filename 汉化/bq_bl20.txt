@@ -1,11 +1,11 @@
 Bounties
-Bounty: Luthus'Balok
+Bounty: 卢萨斯·巴洛克
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}Luthus'Balok is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay Luthus'Balok
+Slay 卢萨斯·巴洛克
 
 Turn In
 You have completed the task for the Black Legion and should return to the Bounty Table for your reward.

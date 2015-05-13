@@ -1,4 +1,48 @@
 艾姆卡拉
+Hello, traveler.
+What can you tell me about the area?
+
+
+I heard news of the shrine's restoration. The Rhowari are forever in your debt.
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
+Farewell.
+What can you tell me about the area?
+
+You're welcome.
+It had to be done.
+Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
+Where is the shrine?
+The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
+Thank you.
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
+Farewell.
+What can you tell me about the area?
+
+Farewell.
+Hello, friend of the Rhowari. I apologize for interrupting you in your important travels, but I must ask something of you, something that requires utmost care and trust.
+What is it?
+Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
+What can be done?
+The Shrine lies in ruins, its Runed Stone and Spirit scattered among the Cult's camps. We cannot allow for this symbol of our people to be lost to history. Please, search the cultist grounds to the north and recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
+I will restore the shrine of Mogdrogen.
+Find someone else.
+I have already restored the shrine.
+That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
+I will clenase the area of Chthonians.
+Find someone else.
+I have already restored the shrine, and cleansed it of evil.
+You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?
+I will visit the shrine.
+Perhaps another time.
+I'm sorry, I cannot help you.
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
+Farewell.
+What can you tell me about the area?
+
+Perhaps another time.
 你知道安克维亚就是罗瓦里的诞生地吗？你如果有时间听故事的话，我能给你讲述许多这片土地的过往。
 我找到一些你可能会感兴趣的文本。
 真是令人震惊的发现。谢谢你，以全体罗瓦里的名义，把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。

@@ -1,22 +1,9 @@
 Galarok
-Welcome to our enclave.
-I have some questions.
-Please, speak.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-
-
-
-Thank you.
-Nevermind.
-Goodbye.
+May the Chosen of Kymon fall before your might.
+Farewell.
+Should you encounter any of Kymon's Chosen out in the wilderness, beware. They are a zealous group and attack us on sight.
+What happened?
+Bastard jumped me in the woods, burning blades drawn. Of course, poor fool made the mistake of thinking I was alone.{^n}{^n}Cost me a few decent minions, but he made an ample replacement for one.{^n}{^n}*Galarok grins*
+Poetic justice.
+A cruel end.
+I'll be careful.

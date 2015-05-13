@@ -1,0 +1,16 @@
+Bounties
+Bounty: Corruption
+Bounty
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+
+Craft a Corruption Relic
+Deliver Corruption to the Outcast
+
+
+
+
+
+
+
+
+

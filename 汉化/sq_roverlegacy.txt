@@ -1,0 +1,29 @@
+Old Arkovia
+Rhowari Legacy
+Repair Shrine
+Far to the north, in the Asterkarn Mountains, the Cult of Ch'thon has desecrated the Shrine of Mogdrogen, a place sacred to the Rovers. Amkala has asked you to recover the parts of the shrine that had been stolen by the cultists and to restore the shrine by returning the pieces, along with an Ancient Heart, to the Shrine. The pieces may be found in any of the cult's camps, far to the north of Old Arkovia.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
+
+
+Find Spirit of Mogdrogen
+Find Runed Stone of Mogdrogen
+Collect Ancient Heart
+Restore the Shrine of Mogdrogen
+
+
+
+
+Defeat Chthonians
+You have restored the Shrine of Mogdrogen, but the Chthonians infesting the area are manifesting themselves. Destroy them all.
+
+Defeat the spawns of Ch'thon
+
+
+Turn-in
+You have cleansed the Shrine of Mogdrogen. An Avatar of Mogdrogen has appeared from the Shrine to thank you for your service. Speak to him.
+Speak to the Avatar of Mogdrogen
+
+
+
+
+
+

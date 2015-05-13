@@ -1,0 +1,194 @@
+The Outcast's Tasks
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return with the materials in hand, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You return triumphantly, a Task fulfilled.
+Report in.
+
+Step away from the Table.
+You are already on a Task for the Outcast.
+Step away from the Table.
+The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+Take a look at the task.
+No Tasks available at this time.
+Step away from the Table.
+Take a look at the task.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Table.
+Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a Tainted Brain Matter and I shall reward you with iron bits.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a Blood of Ch'thon and I shall reward you with iron bits.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+I have sensed the presence of an old nemesis, a harbinger known as Nucus'Dal. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within the Necropolis, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate Nucus'Dal for me and I shall reward you with something from my collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+An Aetherial witch known as Conastaria has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+Ludia Starfire was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in the Conflagration. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near the Necropolis, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as the Steps of Torment, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into the Steps of Torment and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.
+Accept the Task.
+Decline the Task.
+(Skip this Bounty)
+
+The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+
+Step away from the Table.
+The Outcast does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Table.

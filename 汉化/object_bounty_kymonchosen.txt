@@ -1,0 +1,146 @@
+Kymon's Chosen Bounties
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for the Kymon's Chosen.
+Step away from the Bounty Table.
+Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
+Take a look at the bounty.
+You have fulfilled all of Father Kymon's decrees for this session.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard were the void's stone behemoths, the Obsidian Defilers.{^n}{^n}This vision must not come to pass. The Obsidian Defilers are to be destroyed.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Chthonian Gorgers have been seen rampaging through the Blood Grove, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Tavel with Kymon's blessing, brave Chosen.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Reports have come in from the frontlines that a necromancer scum by the name Ravok has been desecrating our dead and using them to bolster her reinforcements.{^n}{^n}This is a despicable display of indecency in war and a complete lack of respect to the fallen. The Chosen will not stand idly by as our dead are desecrated before our eyes. This Master Ravok is to be made an example of.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Cult of Ch'thon has twisted many individuals under their bloodstained banner. Their promises of a Cairn restored resonate with many, from the lowest beggar to the most esteemed of nobles.{^n}{^n}Father Kymon once knew a man named Salazar from the high court in Erulan. This same man turned out to be a traitor to humanity as he now serves the Dead God in the Burrwitch Outskirts. Father Kymon has decreed that Salazar's depravity is to end.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near Sorrow's Bastion. His name is Holvuur Bonespeaker. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near Sorrow's Bastion. Her name is Igniaa Venomtongue. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}Deep within the chthonic void, through a rift torn between our world and theirs, there dwells a cruel creature by the name Vom'Zul. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The accursed Ch'thon has many loyal followers, but none as reviled as his Chosen. The Chosen of Ch'thon willingly give their bodies to the void, allowing its most powerful fiends to cross over into Cairn without the use of a riftgate.{^n}{^n}One such Chosen, by the name Thullon, has been spotted making the rounds at Cult's camps. This is an opportunity, brothers and sisters. One that we cannot miss.{^n}{^n}Thullon's elimination will be amply rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Abathis, has been wandering the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Abathis' elimination will be amply rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in the Gruesome Harvest. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Tavel with Kymon's blessing, brave Chosen.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The work of the Chosen is never finished.{^n}{^n}We have made discovery of a ruin out in the Broken Hills known as the Steps of Torment. It is a cursed place filled with undying abominations.{^n}{^n}On one of the lower levels, there dwells a priest that calls out to false gods. Father Kymon has called upon us to exterminate this sacrilege.{^n}{^n}Anyone willing to act out the Blessed One's orders shall be rewarded with materials from our stores. Travel with Kymon's blessing.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Father Kymon calls to his most loyal followers for a trial by fire, a test of faith.{^n}{^n}Deep within the Bastion of Chaos, there is a place of decay and malice known as the Fields of Despair. The strong of faith are to enter the void and purge the Fields of chthonic spawn.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive. Tavel with Kymon's blessing, brave Chosen.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+One of the Cult's most prominent leaders has revealed himself at the Necropolis.{^n}{^n}It is an opportunity, my brothers and sisters, to finally land a crippling blow to the Cult of Ch'thon. Travel to the Necropolis and end the life of Bloodlord Thalonis. By Kymon's will!{^n}{^n}Anyone willing to take on this traitor to humanity shall be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Bastion of Chaos houses some of the void's most fearsome foes.{^n}{^n}When the Harbinger of Blood, Lagoth'Ak, speaks, the spawns of Ch'thon obey. It is Kymon's will that the Harbinger be brought down.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The region is overrun with chthonic spawn, thanks largely to the efforts of traitors such as Ludia Bloodwhisper.{^n}{^n}Ludia has been performing vile blood rituals in Darkvale, sacrificing her fellow men to the Void. She must be killed.{^n}{^n}Anyone willing to take on this heathen will be justly rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The work of the Chosen is never finished.{^n}{^n}We have made discovery of an underground system of tunnels underneath Old Arkovia known as the Undercity. It is a cursed place filled with undying abominations.{^n}{^n}On its lowest level, there dwells the undying vessel of a corrupt Arkovian soul, Kilrian. This fiend's very existence corrupts the land. Gather its shattered spirit and bring it here so that it can be cleansed by Empyrion's flame and the land can be allowed to heal.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive this ordeal. Travel with Kymon's blessing.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
+
+Step away from the Bounty Table.
+Father Kymon does not yet trust you to carry out his will.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

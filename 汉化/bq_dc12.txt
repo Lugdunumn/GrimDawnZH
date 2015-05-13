@@ -1,0 +1,18 @@
+Bounties
+Bounty: Scrap
+Bounty
+Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
+
+Collect Scrap
+Deliver the Scrap to the Devil's Crossing Bounty Table
+
+
+
+
+
+
+
+
+
+
+

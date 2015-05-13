@@ -1,0 +1,16 @@
+Bounties
+Bounty: Beating Hearts
+Bounty
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
+
+Collect Ancient Heart
+Deliver the Ancient Heart to the Outcast
+
+
+
+
+
+
+
+
+

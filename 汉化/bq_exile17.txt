@@ -1,0 +1,16 @@
+Bounties
+Bounty: Rampage
+Bounty
+To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+
+Craft a Rampage Relic
+Deliver Rampage to the Outcast
+
+
+
+
+
+
+
+
+

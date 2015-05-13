@@ -1,0 +1,22 @@
+Bounties
+Bounty: The Warden's Slaves
+Bounty
+We have identified two of the men involved in the experiments conducted within Warden Krieg's laboratory. Unfortunately, they are both already dead.{^n}{^n}Fortunately, however, they have both been raised as Reanimators. The Order wishes to study the process by which normal humans are turned into these necrotic vessels.{^n}{^n}Travel to Krieg's facility and slay Gethrand and Zanbrandt.{^n}{^n}The elimination of the Reanimators will be rewarded with iron bits.
+
+Slay Gethrand
+Slay Zanbrandt
+
+Turn In
+You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
+Return to the Order of Death's Vigil Bounty Table
+
+
+
+
+
+
+
+
+
+
+

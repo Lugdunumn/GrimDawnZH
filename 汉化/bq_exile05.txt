@@ -1,0 +1,17 @@
+Bounties
+Bounty: Bountiful Blood
+Bounty
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
+
+Collect Blood of Ch'thon
+Deliver the Blood of Ch'thon to the Outcast
+
+
+
+
+
+
+
+
+
+

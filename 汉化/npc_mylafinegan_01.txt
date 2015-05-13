@@ -1,0 +1,33 @@
+Myla Finegan
+Hello, stranger.
+Farewell.
+You've returned! Do you have the dynamite?
+Here you go.
+Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
+Alright. Thank you.
+Hello, friend! How goes the search for the dynamite?
+Where should I be looking again?
+I suppose I would check the mines around Old Arkovia, or perhaps a merchant down in Homestead may carry some.
+I will get on it.
+I'm still looking for more.
+What are you doing out here?
+I was out in the wilderness doing research for my book when the Grim Dawn struck. Cut off from civilized society, I did the best I could out on my own.{^n}{^n}I've managed to survive off of the local flora and fauna, though I have to say the increased cult activity has not made living out here any easier. And now it appears that even nature itself is against me. If you had not found me...I dare not think of it.
+I will return with the dynamite.
+Hello there, stranger. You don't have the look of a cultist about you.{^n}{^n}What brings such a well-armed adventurer way out here into the middle of nowhere?
+My business is my own. What are you doing out here?
+I do admit, an unarmed woman stranged on her own out in cult-infested lands must be a strange sight.{^n}{^n}I was out here working on a book when the Grim Dawn struck. Stranded between the wilderness and bloodthirsty cultist, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
+Do you need any help?
+You truly are a godsend, stranger. We will need some dynamite in order to clear the way. Don't suppose you have any?{^n}{^n}If not, perhaps one of the mines may have some, or perhaps a merchant back in Homestead?{^n}{^n}If you bring me some, we can clear the rocks and I can retrieve my belongings. Perhaps there is something among them that you would find acceptable as compensation for your aid.
+Sure, I'll help you out.
+You're on your own.
+Is this enough dynamite?
+Why, yes that will do! Aren't you the resourceful type!
+Here you go.
+Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
+Alright. Thank you.
+Not my problem.
+I am here to stop the Cult of Ch'thon.
+What a noble and foolhardy pursuit. After the Grim Dawn stranded me out here, I claimed this cave as my home; but nature, it seems, has decreed that I die out here instead.{^n}{^n}An avalanche collapsed the entrance not a day ago. All of my food and belongings are inside.
+
+Not my problem.
+None of your concern.

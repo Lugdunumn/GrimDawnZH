@@ -1,0 +1,16 @@
+Bounties
+Bounty: Scrap
+Bounty
+Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require Scrap and we need it immediately. A share of our scavenged materials to anyone that gathers some.
+
+Collect Scrap
+Deliver the Scrap to the Homestead Bounty Table
+
+
+
+
+
+
+
+
+

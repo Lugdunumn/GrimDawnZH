@@ -1,0 +1,16 @@
+Bounties
+Bounty: Inferno
+Bounty
+To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+
+Craft an Inferno Relic
+Deliver Inferno to the Outcast
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+Bounties
+Bounty: Tainted Brain
+Bounty
+The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
+
+Collect Tainted Brain Matter
+Deliver the Tainted Brain Matter to the Black Legion Bounty Table
+
+
+
+
+
+
+
+
+
+

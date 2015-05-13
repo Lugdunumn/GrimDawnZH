@@ -1,0 +1,146 @@
+Order of Death's Vigil Bounties
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for the Order of Death's Vigil.
+Step away from the Bounty Table.
+The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
+Take a look at the bounty.
+You have completed all of the Order's currently available Bounties.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+The Aetherials have an uncanny ability to manipulate the dead that is worthy of investigation, but first we must contend with their creations.{^n}{^n}Fleshwarped Vanguards, once living trolls, are being created somewhere out near the Gruesome Harvest. They are resilient and incredibly strong. We cannot allow the Aetherials to maintain such a resource.{^n}{^n}Eliminate Fleshwarped Vanguards and cripple the Aetherial forces.{^n}{^n}Your efforts will be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Aetherial Dominators are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Kymon's Chosen cannot be reasoned with. They send their flame-wielding Blade Maidens after our people to butcher them like animals.{^n}{^n}We will not stand for this. Slaughter any Blade Maidens you come across. Perhaps that will send a message to the Chosen and their false prophet. And besides, they will serve as excellent minions.{^n}{^n}Iron bits for every slain Blade Maiden.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, too far gone to be reasoned with. The Necropolis is teeming with these Corpse-eaters. There is little choice in the matter. They must be exterminated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Chosen of Kymon have deployed one of their most powerful agents to face us in battle. Her name is Sister Bravna, the Skybreaker.{^n}{^n}Show the Chosen that even their most powerful champions cannot stand against the masters of death. To set an example, we shall raise her corpse to serve as a pathetic skeletal minion.{^n}{^n}Our material stores are at the disposal of the champion that ends her.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Underneath Burrwitch, in the Warden's Lab, were conducted some of the Aetherials' early experiments into resurrecting our dead.{^n}{^n}The research was spearheaded by several Aetherials, including a Taken known as Halvastra Wrathfire. Though it is too late to prevent what was discovered in those labs, we can still lay vengeance upon one of the masterminds behind the operation.{^n}{^n}A reward of iron bits awaits the one who slays the Aetherial witch.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, Horvald Shieldbreaker, has been spotted on the battlefield. Make an example of him.{^n}{^n}Our material stores are at the disposal of the champion that ends his life.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, Olga Flamebearer, has been spotted on the battlefield. Make an example of her.{^n}{^n}Our material stores are at the disposal of the champion that ends her life.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+A fleshwarped troll of truly massive proportions has been spotted out in the Gruesome Harvest. This behemoth could lay waste to the Black Legion forces stationed within Homestead and crush any chance we may have of stopping the Aetherials in this region.{^n}{^n}The Order sees this as an opportunity to prove ourselves to our new-found allies. Head into the Harvest and slay this Narroth. The Order will bestow an enchantment upon your weapons to aid with this dangerous task.{^n}{^n}Your efforts will be compensated with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+A Reanimator walks the halls of the Warden's Laboratory with an uncanny connection to the Aether.{^n}{^n}While most Reanimator can merely conjure burst of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to Burrwitch and slay this Barrostrandt, the Ascended so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Aetherials have proven to be a curious enemy, their powers contending with our own, but we must never let our guard down around the Cult of Ch'thon.{^n}{^n}Their summoners are capable of bringing horrific creatures into this world, but their leader, one Karroz the Sigil of Ch'thon, brings forth the worst. One of his personal pets, Narl'Sarroth, has an insatiable appetite for human flesh. Horror stories are told of it single-handedly devouring every inhabitant of Darkvale prior to the cult taking the village and the gates beyond.{^n}{^n}Anyone willing to take on this monstrosity will be amply rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Arkovian curse of a horrific display of our master's power, but it also serves as a source of countless curiosities for the Order.{^n}{^n}Deep within the Steps of Torment, out in the Broken Hills, there are Revenants that have learned to manipulate death as we have. It is a twisted mockery of Uroboruuk's spell and must be put to an end.{^n}{^n}Anyone who braves the Steps of Torment in order to see this through will be justly rewarded with a substantial sum of iron bits. The Order shall provide enchantments to assist in the journey.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+No Arkovian was spared from Uroboruuk's curse, such was his wrath. But that did not stop the Arkovians from trying to evade it. One such group gathered in a temple hidden away within a flooded cavern near Wightmire.{^n}{^n}There they prayed to their gods and waited for the curse to expire. Their High Priest, Rolderathis, preached sermon after sermon condemning necromancy and praising the Arkovians. To this day, he stands at his ruined altar and spew out the same flawd rhetoric.{^n}{^n}The Keeper of Tomes wishes to reclaim the temple from the undead in order to tap into its archives, what little remains undamaged by the flooding. For this to be accomplished, Rolderathis must be destroyed.{^n}{^n}His elimination will be amply rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for close study.{^n}{^n}Every seal delivered will be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Within the Steps of Torment, there is room known as the Chamber of Souls. For reasons we cannot explain, the Chamber calls out to and traps wandering spirits.{^n}{^n}The Keeper of Tomes wishes to learn more about this phenomenon. Enter the Steps of Torment, survive the ordeals of this Chamber of Souls so that we may learn of its secrets. The Order shall provide enchantments to aid in the journey.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+One of the Cult's most prominent leaders has revealed himself at the Necropolis.{^n}{^n}The arrival of a sorcerer of such power cannot be ignored. We must take advantage of this opportunity to land a crippling blow to our foes. Travel to the Necropolis and end the life of Bloodlord Thalonis.{^n}{^n}Thalonis' death will be rewarded with materials from our stores.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+We have identified two of the men involved in the experiments conducted within Warden Krieg's laboratory. Unfortunately, they are both already dead.{^n}{^n}Fortunately, however, they have both been raised as Reanimators. The Order wishes to study the process by which normal humans are turned into these necrotic vessels.{^n}{^n}Travel to Krieg's facility and slay Gethrand and Zanbrandt.{^n}{^n}The elimination of the Reanimators will be rewarded with iron bits.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Arkovian curse had many curious side-effects on the afflicted, but none have proven to be dangerous until now.{^n}{^n}Within the Steps of Torment, out in the Broken Hills, there dwells a skeletal abomination known as Ilgorr the Eternal. Formed from a fusion of countless Arkovian souls and bodies, Ilgorr has developed necrotic powers that are truly terrifying to behold.{^n}{^n}We must not allow such an abomination to exist. Travel into the Steps of Torment and eliminate Ilgorr. The Order shall provide enchantments to aid in the journey.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+Underneath the lands now known as Old Arkovia, there lies an extensive network of tunnels known as the Undercity.{^n}{^n}In the darkest depths of the Undercity dwells a corrupted being known as Kilrian. His very presence taints the land and disrupts the natural order. The Keeper of Tomes wishes to study his shattered soul and unlock its potential. The Order shall provide enchantments to aid in the journey.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive this ordeal.
+Accept the Bounty.
+Decline the Bounty.
+(Skip this Bounty)
+
+The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
+
+Step away from the Bounty Table.
+The Keeper of Tomes does not yet trust you to handle important Order duties.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

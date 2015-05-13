@@ -1,0 +1,16 @@
+Bounties
+Bounty: Sanctuary
+Bounty
+To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+
+Craft a Sanctuary Relic
+Deliver Sanctuary to the Outcast
+
+
+
+
+
+
+
+
+

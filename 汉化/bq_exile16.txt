@@ -1,0 +1,16 @@
+Bounties
+Bounty: Guile
+Bounty
+The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+
+Craft a Guile Relic
+Deliver Guile to the Outcast
+
+
+
+
+
+
+
+
+

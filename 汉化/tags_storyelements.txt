@@ -34,6 +34,8 @@ tagMapDevilsSpur=恶魔山脊
 tagMapNecropolis=古代墓地
 tagMapOldGrove=古老林地
 tagMapVoidlands=冥灵虚空
+tagMapEastMarsh01=东方沼泽
+tagMapEastMarsh02=剧毒林地
 
 tagMapBrokenHills=破碎丘陵
 tagMapOldArkovia=古安克维亚
@@ -63,10 +65,12 @@ tagMapHomestead=霍姆斯特德
 tagMapInfestedFarms=感染农田
 tagMapRottedHarvest=腐坏田地
 tagMapCorruptedPasture=阴森的谷仓
+tagMapSorrowsBastion=悲伤城堡
 tagMapBloodGrove=血森林
 tagMapInfestedField01=索恩斯巴利农场
 tagMapInfestedField02=埃姆斯沃斯农场
 tagMapConflagration01=战火平原
+tagMapConflagration02=献祭之地
 
 tagMapLedgewood01=利奇伍德
 tagMapAlpineRoad=高山道路
@@ -93,13 +97,15 @@ tagRiftSmugglersPass=走私者的通道传送门
 tagRiftSmugglersRoad=采矿者小径传送门
 tagRiftJaggedWaste=松林荒地传送门
 tagRiftDeadmansGulch=亡者峡谷传送门
-tagRiftAlpineRoad=高山道路传送门
+
 
 tagRiftHomestead=霍姆斯特德传送门
 tagRiftWitheringFields=干枯田地传送门
 tagRiftRottedCroplands=腐坏田地传送门
 tagRiftRottedHarvest=腐烂谷仓
-tagRiftOldGrove=古老林地
+tagRiftSorrowsBastion=悲伤城堡传送门
+tagRiftBloodGrove=血森林传送门
+tagRiftAlpineRoad=高山道路传送门
 
 tagRiftRandom01=冥灵传送门
 
@@ -169,6 +175,10 @@ tagUGBurrwitchFloodedCellars=浸没的地窖
 tagUGBurrwitchOutskirtsBasin=走私者的盆地
 tagUGFloodedPassageRuin=沉没圣所
 
+tagUGSlithLab01=哈格特的小岛
+tagUGSlithLab02=哈格特的实验室 - 第一层
+tagUGSlithLab03=哈格特的实验室 - 第二层
+
 tagUGArkovianFoothills01=斯汤顿矿洞
 tagUGArkovianFoothills02=脊状峡谷
 tagUGOldArkovia01=汉内法矿洞
@@ -183,6 +193,7 @@ tagUGBrokenHills02B=不幸
 tagUGBrokenHills02C=折磨
 tagUGBrokenHills02D=悲恸
 tagUGBrokenHills02E=尤若布鲁克的折磨
+tagUGBrokenHills02F=灵魂居所
 tagUGBrokenHills03=废弃兽穴
 tagUGBrokenHills04=走私者的通道
 tagUGBrokenHills05=尖啸山谷
@@ -195,6 +206,24 @@ tagUGDermapteran03A=皇室巢穴
 tagUGDermapteran03B=虫后巢穴
 tagUGHomesteadCave01=迷失洞穴
 tagUGRottingCroplandsCrypt01=地下墓室
+tagUGCaveGhost01=骸骨洞穴
+tagUGFortZealot01=凯蒙的庇护所
+tagUGFortZealot02=凯蒙的书房
+tagUGCryptNecro01=教团的要塞
+tagUGCryptNecro02=灵魂居所
+
+tagUGFortCultist01=黑谷门
+tagUGFortBlackLegion01=圣像堡
+tagUGCryptNecropolis01=黑坟场
+tagUGCryptFactionBattle01=执政官巴托雷姆之墓
+tagUGCryptZealot01=寇瓦克之墓
+
+tagUGVoidlands01=混沌要塞
+tagUGVoidlands01A=不谐
+tagUGVoidlands01B=无序
+tagUGVoidlands01C=熵
+tagUGVoidlands01D=混乱
+tagUGVoidlands01AE=绝望之地
 
 #Signs
 
@@ -238,6 +267,7 @@ tagPOI007A=矿洞入口
 tagPOI007B=矿洞出口
 tagPOI008A=革翅目坑道入口
 tagPOI008B=革翅目坑道出口
+tagPOI009A=哈格特的实验室
 
 tagPOIFloodedPassageA=浸没通道入口
 tagPOIFloodedPassageB=浸没通道出口
@@ -262,8 +292,8 @@ tagPOIOldArkoviaMineA=克隆利的藏身处入口
 tagPOIOldArkoviaMineB=克隆利的藏身处出口
 tagPOIFesteringLairA=溃烂巢穴入口
 tagPOIFesteringLairB=溃烂巢穴出口
-tagPOIBrokenHillsMylesCaveA=迈尔斯的藏身处入口
-tagPOIBrokenHillsMylesCaveB=废弃兽穴出口
+tagPOIManInNeedCaveA=迈拉的藏身处入口
+tagPOIManInNeedCaveB=废弃兽穴出口
 tagPOIMountainDeepsA=山脉深渊入口
 tagPOIMountainDeepsB=山脉深渊出口
 
@@ -310,11 +340,15 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海边的旧桥被毁掉了�
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你已经穿越了走私者的通道，寻找通往霍姆斯特德的道路吧。
 tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
+tagNotification_HS_RoverLegacy_Chthonians=The Shrine of Mogdrogen is overrun with Chthonians!
+tagNotification_HS_RoverLegacy_Cleansed=The Chthonians have been purged!
 
 tagNotification_AreaC_EnclaveRiftgateEvent=进入霍姆斯特德的通道充斥着虚灵！
 tagNotification_AreaC_RefugeeRemainsFound=看起来达利娅·塔夫恩没能在山脉深渊的危险中幸免。
 tagNotification_AreaC_BloodHarvestFound=有些囚徒在呼救。
 tagNotification_AreaC_TrappedAndAloneReturn=一个冥灵正在屠杀流浪者营地！
+
+tagNotification_AreaD_KymonSecret=You hear the faint sound of a stone door opening nearby.
 
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门之间的连接……
@@ -335,11 +369,11 @@ tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特
 
 tagNPC_GuardA04=守卫-麦考尔 
-tagNPC_Guard_DCRanged01=守卫-梅纳德
-tagNPC_Guard_DCRanged02=守卫-拉斯
-tagNPC_Guard_DCMelee01=守卫-布瑞格斯
-tagNPC_Guard_DCMelee02=守卫-奥克斯利
-tagNPC_Guard_DCMelee03=守卫-切斯特
+tagNPC_Guard_DCRanged01=守卫 - 梅纳德
+tagNPC_Guard_DCRanged02=守卫 - 罗斯
+tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
+tagNPC_Guard_DCMelee02=守卫 - 奥克斯利
+tagNPC_Guard_DCMelee03=守卫 - 切斯特
 tagNPC_BountyBoard=恶魔十字悬赏
 
 tagNPC_Guard_Female01=守卫
@@ -356,7 +390,7 @@ tagNPC_DevilsCrossing_08=切斯特
 
 tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
-tagNPC_Homestead_03=
+tagNPC_Homestead_03=莫格卓根的化身
 tagNPC_Homestead_04=德鲁·拉金
 tagNPC_Homestead_05=“长腿” 埃德蒙·道尔
 tagNPC_Homestead_06=伊丽莎白·斯金纳
@@ -387,7 +421,7 @@ tagNPC_Homestead_30=巴尔沃拉克
 
 tagNPC_AreaC_01=侦查队长 莱伊尔
 tagNPC_AreaC_02=道格拉斯·沙利文·古冢
-tagNPC_AreaC_03=迈尔斯·法恩根
+tagNPC_AreaC_03=迈拉·法恩根
 tagNPC_AreaC_04=审判官克里德
 tagNPC_AreaC_05=卡德里斯·死亡印记
 tagNPC_AreaC_06=奥蕾莉亚
@@ -406,14 +440,14 @@ tagNPC_AreaC_18=莫代尔兄弟
 tagNPC_AreaC_19=哈鲁夫
 tagNPC_AreaC_20=中士瑟里夫
 tagNPC_AreaC_21=武器专家波若
-tagNPC_AreaC_22=
+tagNPC_AreaC_22=信使
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=破法者莫伊拉
+tagNPC_AreaD_01=战法师莫伊拉
 tagNPC_AreaD_02=里夫队长
-tagNPC_AreaD_03=军需官艾德里克
+tagNPC_AreaD_03=武器专家艾德里克
 tagNPC_AreaD_04=阿纳斯塔里娅
 
 tagNPC_DetonationSite=爆破点
@@ -548,11 +582,17 @@ tagQuestItemManticorePoisonGland_Desc="滴落着接触即会灼烧皮肤的烈�
 tagQuestItemNecromancerRemains=马卡达的尸骨
 tagQuestItemNecromancerRemains_Desc="这位曾经强大的死灵法师的遗骸还在腐烂着。"
 
+tagQuestItemUroboruukInfo=尤若布鲁克的笔记
+tagQuestItemUroboruukInfo_Desc="Notes seemingly abandoned by Master Necromancer Uroboruuk."
+
+tagQuestItemKymonRelic=寇瓦克之眼
+tagQuestItemKymonRelic_Desc="A shriveled eye brimming with arcane energies. You can't help but feel as if it's staring back at you."
+
 tagQuestItemExileBossDrop_01=未知命运秘典
 tagQuestItemExileBossDrop_01Desc="这本书似乎被奥术力量封印着，无法将它的封面哪怕翻开一点点。"
 
 tagQuestItemExileBossDrop_02=档案管理员塞隆的头颅
-tagQuestItemExileBossDrop_02Desc="闪耀着虚化光芒的双眼仍在凝视着你。"
+tagQuestItemExileBossDrop_02Desc="闪耀着虚化光芒的双眼仍在面无表情地凝视着你。"
 
 tagQuestItemBlackLegionInsignia=黑色军团徽章
 tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的奖赏。"
@@ -565,6 +605,23 @@ tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
 
 tagQuestItemThornsburyDiary=黛拉的日记
 tagQuestItemThornsburyDiary_Desc="它属于黛拉·索恩斯巴利。"
+
+tagQuestItemSlithLab=Hargate's Formula
+tagQuestItemSlithLab_Desc="The impossible to decipher scribblings of the mad Arcanist Oswald Hargate."
+
+tagQuestItemAetherialEssence=虚灵精华
+tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
+
+tagQuestMogdrogenShrine=Shrine of Mogdrogen
+tagQuestItemMogdrogenShrine01=莫格卓根的灵魂
+tagQuestItemMogdrogenShrine02=莫格卓根的符文石
+tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
+
+tagQuestItemSacredAshes=至高神的神圣尘埃
+tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of the Lightbringer."
+
+tagQuestItemDesecratedAshes=Desecrated Ashes of Empyrion
+tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
 
 #Journals 日志
 
@@ -709,13 +766,25 @@ tagLoreObj_BookC02Name=吉尔达姆秘学社-第二页
 tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
 
 tagLoreObj_BookD01Name=蛇人的起源-第一页
-tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
+tagLoreObj_BookD01Text=In all the history of our great nation, there has been no greater atrocity committed than the creation of the vile vermin we call Slith. Part man, part serpent, the Slith are a testament to the dangers of the arcane and served as the driving force behind the formation of the Gildam Arcanum and its tighter sanctions on arcane practices.{^n}{^n}The Slith owe their existence to the actions of a single individual: Oswald Hargate. Backed by family wealth and a passion for research, Oswald aspired to leave his mark upon the study of the arcane. Little did he know that his legacy would leave a permanent stain upon all Arcanists and their field.
 
 tagLoreObj_BookD02Name=蛇人的起源-第二页
-tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
+tagLoreObj_BookD02Text=Oswald Hargate firmly believed that the Aether could be used to create new life. Convinced that he could supersede the gods, Oswald set out to perform his heinous research in a, to this day, unknown location.{^n}{^n}Though not much is known about the exact details of his research, the results were quite clear. Calling his creation a Slith, for its slithering movement and snake-like lower body, Oswald triumphantly announced his findings to the Arcanum Society. The abomination bore the torso of a man and the tail of a snake, though its reptilian snout was unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication of a human conscience trapped within the slith body.{^n}{^n}Those attending were shocked by the blatant disregard for the gods and their domain. Following a brief trial, Oswald was charged with endangering society and was imprisoned for the remainder of his life. The specimen was destroyed and its ashes scattered to the winds. With Oswald behind bars and the slith dead, all believed that the nightmare was over; but they were wrong.
 
 tagLoreObj_BookD03Name=蛇人的起源-第三页
-tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
+tagLoreObj_BookD03Text=When the first slith began to appear in the area known as Wightmire, it became clear that Oswald did not create just one slith. As his laboratory was never uncovered, officials could only guess as to the origin of the new species. The slith were incredibly invasive, easily dominating the local food chain and reproducing at an alarming rate.{^n}{^n}As their numbers multiplied, the slith adapted a primitive tribal hierarchy, with certain members of their packs exhibiting clear authority over the rest. And, perhaps most alarmingly of all, shamanistic behavior was reported among the slith population, indicating a strong connection to the Aether and perhaps their unnatural origins.{^n}{^n}All efforts to exterminate the slith proved fruitless, with the species simply returning at a new location from hidden nests and caverns. It is without a doubt that the actions of one arrogant individual will continue to reverberate across countless generations to come.
+
+tagLoreObj_BookD04Name=Hargate's Journal - Page 1
+tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires provided for, and Burrwitch is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
+
+tagLoreObj_BookD05Name=Hargate's Journal - Page 2
+tagLoreObj_BookD05Text=At Helen's recommendation, I have chosen the lowly green swamp adder as the basis of my experiment. Its short lifespan and rapidly shedding skin made for a malleable test subject. The initial results seemed promising at first. Using high concentrations of Aether energy, we were able to instill various mutations within the specimens, creating new limbs or inducing gigantism. Unfortunately, none of the samples survived beyond a couple weeks, their higher brain functions being seemingly incapable of handling the introduction of additional bodily elements.{^n}{^n}For our second batch of experiments, we molded the adders with a few grobles captured by local trappers. The results were...curious to say the least. While this was not the breakthrough I was looking for, we seem to be heading in the right direction. The dull mind of a groble was capable of adapting to its new body, but its primitive and disgustingly malformed physique would see me become the laughing stock of my colleagues. No, I must see this through to its logical conclusion. Helen may frown upon it, but the next step seems clear as day to me...
+
+tagLoreObj_BookD06Name=Hargate's Journal - Page 3
+tagLoreObj_BookD06Text=I have sent Helen and Ellena away for the summer to visit family in the capital while I continue my work alone. I tasked a few unsavory individuals to gather "volunteers" for the next stage of my research, mere vagrants and Rovers, people nobody would miss. The fees they charged were considerable, but I will pay any price when I am so close to my breakthrough.{^n}{^n}The samples arrived in the middle of the night, delivered to their cells as promised. My collaborators took their pay and left promptly without asking any questions. Frankly, they looked a bit disturbed. But I was unfazed. They are but simpletons, unable to fathom the importance of my work.{^n}{^n}The specimens began stirring by morning, their frightened cries echoing throughout the lab. I explained to them that they were selected for an important duty, that their lives would finally have meaning and purpose. The scum should have been thanking me, but instead they cursed me as a madman and criminal. I dismissed their accusations and got to work. There was much to be done.
+
+tagLoreObj_BookD07Name=Hargate's Journal - Page 4
+tagLoreObj_BookD07Text=Helen and Ellena returned early from their trip. While Ellena was otherwise occupied with her toys in the living quarters, Helen came down into the lab to find me in the midst of my latest study. The horrified look on her face is something I shall never forget. I tried to be reasonable. I explained that what she witnessed was merely a stepping stone, that those men and women died so that our work would not be squandered on snakes and grobles. But she would not budge.{^n}{^n}My wife, my partner, had betrayed me at this most critical junction. My work is too important to let emotional attachments get in the way. I did the only sensible thing. Let history judge my actions...{^n}{^n} With the unfortunate distraction dealt with, I returned to my results. The human-snake hybrids had proven unstable and violent. I was assaulted on several occasions while attempting to study their physical functions, but those attacks proved to be little more than outbursts on the verge of death. All of the specimens died shortly after the procedure. Dissection revealed an incomplete hybridization of internal organs. With a dysfunctional digestive system, death was inevitable. But I wonder if perhaps the subjects were too old for the procedure to succeed. If I started over, with a younger candidate, then perhaps I would finally have the results I seek...
 
 tagLoreObj_VillagerNoteE01Name=警告:格罗布的进攻日益猖獗
 tagLoreObj_VillagerNoteE01codexTitle=警告:格罗布的进攻
@@ -783,6 +852,8 @@ tagLoreObj_AreaCFarmer_NoteA03Text=We got away! I couldn't believe it at the tim
 tagLoreObj_AreaCAetherial_NoteA01Name=混元体
 tagLoreObj_AreaCAetherial_NoteA01Text=Consensus is achieved. The sanctum of Homestead is to fall within the fortnight. With the Herald making its steady approach from the north, nothing but conflagration in its wake, it falls upon me to render a force capable of assaulting the human stronghold from the west. The reanimators are tirelessly working within the cages, pouring the gift of the Aether into the humans and trolls we had gathered for the purpose. But the real work will be conducted within the barn.{^n}{^n}It is true that the humans have proven to be...difficult hosts, the mind struggles against a greater power it cannot possibly fathom. But the flesh? It is malleable, easily tainted.  I look upon the corpses filling the barn with the stench of decay not as a sign of how fragile life is, but as a canvas; a canvas upon which we will paint the future of Cairn.{^n}{^n}Theodin Marcell, Shaper of Flesh
 
+tagLoreObj_BlackLegion_NoteA01Name=黑色军团侦查报告
+tagLoreObj_BlackLegion_NoteA01Text=I write this letter to report of extreme and disturbing Aetherial activity to the North of Homestead. I set off to the foothills and made my way through the warren of low stone walls, fences, and occasional farmhouses. I was careful to move in secret and remain undetected from the horrors that still roam the fields unchecked. I made it to the valley of two hills near the river when I witnessed something I can barely comprehend. {^n}{^n}An unearthly black pillar that was neither stone nor flesh drifting slowly across the land as would a low cloud.  A sickly green glow burned at its core and great writhing tendrils hung from somewhere underneath the shifting back shell. I watched in mounting dread as the unholy obelisk slowed and then, without warning, burrowed the hooks of the dangling tentacles into the ground. The ground began to wither and glow with the same unwholesome green. It was then that the obelisk pulled itself into the ground. With a sound that made me feel as if the earth was dying, it began glowing so bright I could hardly look. Its power seeped into the ground, twisting and corrupting as it spread. {^n}{^n}I lingered for nearly an hour in that place and in that time a great distance around the obelisk had been changed. I was about to leave when the obelisk erupted from the ground and drifted to an untouched patch of land to begin the cycle again. We must act soon or there will be nothing left to save. {^n}{^n}--6th Regimental Scouts of the Black Legion, Renall Oberach
 
 
 #Guards 守卫
@@ -892,5 +963,13 @@ tagStoreTitle_FactionQuartermaster_08=军需官
 tagNPC_FactionQuartermaster_09=柯林斯
 
 tagNPC_FactionQuartermaster_10=Anasteria's Drudge
-tagStoreTitle_FactionQuartermaster_10=The Exile's Secrets
+tagStoreTitle_FactionQuartermaster_10=放逐者的秘密
 
+#Faction Bounty Tables
+tagNPC_FactionTable_01=恶魔十字赏金目录
+tagNPC_FactionTable_02=流浪者赏金目录
+tagNPC_FactionTable_03=霍姆斯特德赏金目录
+tagNPC_FactionTable_04=黑色军团赏金目录
+tagNPC_FactionTable_05=凯蒙的神选战士赏金目录
+tagNPC_FactionTable_06=死亡守夜人教团赏金目录
+tagNPC_FactionTable_07=放逐者赏金目录

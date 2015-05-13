@@ -1486,6 +1486,20 @@ tagConsumableSkill_F11Desc=在你的武器上涂抹凯蒙祝福的圣油。
 tagConsumableSkill_F12=凯蒙的愤怒药剂
 tagConsumableSkill_F12Desc=你发出爆发的火焰。
 
+
+#SkillsEnemy 敌人技能
+
+tagEnemySkill01=虚弱诅咒
+tagEnemySkill01Desc=削弱灵魂对虚无的自然抵抗力
+
+#SkillsQuest
+
+tagQuestSkill_A01=凯蒙的祝福
+tagQuestSkill_A01Desc=你的武器加持了至高神的圣火。
+tagQuestSkill_A02=死亡守夜人的增益
+tagQuestSkill_A02Desc=你的武器受到了教团的强化。
+
+
 #SkillsGeneral
 
 MasteriesAvailable=从{%d0}个额外专精栏中选择
@@ -1496,6 +1510,7 @@ NoSkillPointsAvailable=可用技能点数:0
 DevotionPointsAvailable=可用点数:{%d0}
 DevotionPointsAvailableSingular=可用点数:{%d0}
 NoDevotionPointsAvailable=可用点数:0
+DevotionPointsTotal=已解锁点数: {%d0} / {%d1}
 tagConfirmSkillChanges=确认变更？
 
 #SkillDevotion
@@ -1521,7 +1536,7 @@ tagDevotionMagi=魔导师
 tagDevotionAssassin=暗杀者
 tagDevotionAkeron=阿克隆的蝎尾
 
-tagDevotionInfo=Devotion is great. Devotion devotion devotion. Lorem ipsum dolor sit amet, vero perfecto nominati te vim, duo esse inciderint ea. Eos nostrud facilisis no, alii electram rationibus sea et.
+tagDevotionInfo=在这最为黑暗的时刻，人性将会成为耀眼的星辰。将自己奉献给天神和古老的神明，来获得他们古老的力量。
 
 #SkillsReallocator
 

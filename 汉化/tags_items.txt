@@ -26,13 +26,14 @@ tagWeaponSwordB003=幽光长剑
 tagWeaponSwordB004=抛光长剑
 tagWeaponSwordB005=抛光阔剑
 tagWeaponSwordB006=抛光的征服者
-tagWeaponSwordB007=马卡达的死亡之刃
+tagWeaponSwordB007=马卡达的恐惧之刃
 tagWeaponSwordB008=蝎尾狮长剑
 tagWeaponSwordB009=刻骨刀
 tagWeaponSwordB010=骨剑
 tagWeaponSwordB011=革翅目之爪
 tagWeaponSwordB012=革翅目切刀
-
+tagWeaponSwordB013=血领主之刃
+tagWeaponSwordB013Desc="戴罗尼斯的兵刃，以冥神的血液加持过的武器。"
 
 tagWeaponSwordC001=避雷针 Lightning Rod
 tagWeaponSwordC002=猎犬之咬 Hound's Bite
@@ -200,6 +201,8 @@ tagWeaponGun1hA010=齐射枪
 tagWeaponGun1hB001=双管手枪
 tagWeaponGun1hB002=手持迫击炮
 tagWeaponGun1hB003=霰弹手枪
+tagWeaponGun1hB004=血誓手枪
+tagWeaponGun1hB005=血誓连发枪
 
 tagWeaponGun1hC001=利安德·格林的手持火炮 Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc="从黑水强盗冰冷的死尸手中夺来的武器。"
@@ -345,6 +348,7 @@ tagWeaponMelee2hB006=阿卡莫斯之镰
 tagWeaponMelee2hB007=幽光战斧
 tagWeaponMelee2hB008=阿卡莫斯战剑
 tagWeaponMelee2hB009=幽光战锤
+tagWeaponMelee2hB010=执政官的战锤
 
 tagWeaponMelee2hC001=残暴开膛者 Gutwrench Eviscerator
 tagWeaponMelee2hC002=屠杀 Massacre
@@ -418,6 +422,8 @@ tagWeaponCaster1hB008=骨刀
 tagWeaponCaster1hB009=骨刺
 tagWeaponCaster1hB010=裂隙之灾利爪
 tagWeaponCaster1hB011=裂隙之灾切刀
+tagWeaponCaster1hB012=血誓魔杖
+tagWeaponCaster1hB013=血誓权杖
 
 tagWeaponCaster1hC001=怒火焚身 Burning Hatred
 tagWeaponCaster1hC002=咒火魔杖 Spellfire Wand
@@ -578,6 +584,8 @@ tagFocusB005A=秘文宝典
 tagFocusB005B=奥秘雕像
 tagFocusB006=巫师的雕像
 tagFocusB007=脉动碎片
+tagFocusB008=血誓宝典
+tagFocusB009=血誓手抄本
 
 tagFocusC001=狂乱 Dementia
 tagFocusC002=粉碎意志 Crushing Will
@@ -726,6 +734,9 @@ tagLegend=传奇
 tagSoulbound=灵魂绑定
 tagDestroySoulbound=摧毁灵魂绑定的物品？
 
+tagUntradeable=不可交易
+tagDestroyUntradeable=摧毁不可交易的物品？
+
 tagTransmuted=已幻化
 tagTransmuteCapture=[右键点击以灌注]
 tagTransmuteApply=[右键点击以使用]
@@ -767,6 +778,8 @@ tagHeadB011=升灵头环
 tagHeadB012=升灵权冠
 tagHeadB013=奇型头盔
 tagHeadB014=奇型兜盔
+tagHeadB015=幽光王冠
+tagHeadB015Desc="强大的死亡能量使这顶王冠在人世中得以显形。"
 
 tagHeadC001=风暴召唤者的头环 Stormcaller's Circlet
 tagHeadC002=狂战士的风帽 Berserker's Cowl
@@ -812,7 +825,7 @@ tagHeadD008=先驱者面具 Mask of the Harbinger
 tagHeadD009=屠魔者的宽檐帽 Demonslayer's Hat
 tagHeadD010=大法师的宽檐帽 Archmage's Hat
 
-tagHeadF001=放逐者的兜帽 Exile's Hood
+tagHeadF001=放逐者的兜帽 Outcast's Hood
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
 tagHeadF002=恶魔的头巾 Devil's Cover
 tagHeadF003=恶魔的头盔 Devil's Headguard
@@ -939,6 +952,8 @@ tagTorsoB008=升灵长袍
 tagTorsoB009=升灵战衣
 tagTorsoB010=奇型长袍
 tagTorsoB011=奇型战衣
+tagTorsoB012=血誓长袍
+tagTorsoB013=血誓战衣
 
 tagTorsoC001=
 tagTorsoC002=暗夜猎人护胸 Nighthunter's Chestguard
@@ -967,6 +982,7 @@ tagTorsoC021=黎明守卫板甲 Dawnguard Plate
 tagTorsoC022=佐尔汉的战甲 Zolhan's Battle Plate
 tagTorsoC022Desc="著名的战斗大师佐尔汉穿过的战甲。"
 tagTorsoC023=瘴气长袍 Miasma Robes
+tagTorsoC024=东方长袍 Eastern Robes
 
 tagTorsoD001=恶魔之鳞夹克 Fiendscale Jacket
 tagTorsoD002=魔鬼囚笼锁子甲 Devil's Cage Hauberk
@@ -1109,6 +1125,7 @@ tagHandsC014=救赎护手 Handguards of Redemption
 tagHandsC015=黎明守卫手甲 Dawnguard Gauntlets
 tagHandsC016=余烬之握 Embergrip Handguards
 tagHandsC017=速攻手套 Quickdraw Gloves
+tagHandsC018=东方手套 Eastern Gloves
 
 tagHandsD001=不羁之力 Grasp of Unchained Might
 tagHandsD001Desc="用奥莱隆本体的凶暴之力赐福过的手套。"
@@ -1151,8 +1168,7 @@ tagLegsC009=食肉者裹腿 Flesheater Legwraps
 tagLegsC009Desc="有些东西的本来面目还是呆在编年史里面比较好。"
 tagLegsC010=晦暗皮革长裤 Shadeleather Leggings
 tagLegsC011=笨重护腿 Hulking Legguards
-tagLegsC012=救赎护腿 Legguards of Redemption
-tagLegsC013=黎明守卫长裤 Dawnguard Legplates
+tagLegsC012=东方护腿 Eastern Legguards
 
 tagLegsD001=恶魔之骨长裤 Demonbone Legplates
 tagLegsD001Desc="制作这件腿甲最困难地方在于收集必需的材料。"
@@ -1248,6 +1264,8 @@ tagRingB003=斯金纳的家传印戒 Skinner Family Seal
 tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
 tagRingB004=高鲁斯的戒指 Gollus' Ring
 tagRingB004Desc="他真的是很喜欢这枚戒指。"
+tagRingB005=血誓玺戒
+tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
 
 tagRingC001=骨髓戒指 Marrow Band
 tagRingC002=黑曜石印戒 Obsidian Seal
@@ -1334,6 +1352,9 @@ tagNecklaceA016=帝国坠饰
 
 tagNecklaceB001=腐臭项链 Putrid Necklace
 tagNecklaceB001Desc="这枚头骨外包着一层腐臭的黏液。"
+tagNecklaceB002=死亡守望者坠饰 Death-Watcher Pendant
+tagNecklaceB003=艾莱纳的项链 Ellena's Necklace
+tagNecklaceB003Desc="曾属于第一只蛇人艾莱纳的战利品。"
 
 tagNecklaceC001=眼之项链 Amulet of the Eye
 tagNecklaceC001Desc="一支眼球在宝石内前前后后飞快地移动着。"
@@ -1413,6 +1434,8 @@ tagMedalA007=帝国星章
 tagMedalB001=游骑兵绶带
 tagMedalB002=游骑兵徽章
 tagMedalB003=伊克里克斯的鳞片 Ikrix Scale
+tagMedalB004=凯蒙的徽章
+tagMedalB005=血誓魔印
 
 tagMedalC001=野兽屠杀者徽记 Beast Slayer's Mark
 tagMedalC002=坚韧徽章 Badge of Tenacity
@@ -1433,6 +1456,8 @@ tagMedalC014=巫师的勋章 Enchanter's Insignia
 tagMedalC015=异教徒的魔印 Heretic's Sigil
 tagMedalC016=风暴魔印 Tempest Sigil
 tagMedalC017=伪神的徽记 Mark of the False Gods
+tagMedalC018=格特沃姆的血印章 Gutworm's Bloody Seal
+tagMedalC018Desc="浸透着他手中受害者的鲜血。"
 
 tagMedalD001=变节者的徽记 Mark of the Apostate
 tagMedalD001Desc="它曾是强加给异教徒的徽记，但后来巫神的追随者们以之为傲。"
@@ -1490,6 +1515,8 @@ tagBlueprint_RelicC012=设计图：遗物-热诚
 tagBlueprint_RelicC013=设计图：遗物-荒芜
 tagBlueprint_RelicC014=设计图：遗物-枯萎
 tagBlueprint_RelicC015=设计图：遗物-先祖
+tagBlueprint_RelicC016=设计图：遗物-剑舞者的护身符
+tagBlueprint_RelicC017=设计图：遗物-掠夺者的护身符
 tagBlueprint_RelicD001=设计图：遗物-守护
 tagBlueprint_RelicD002=设计图：遗物-诅咒
 tagBlueprint_RelicD003=设计图：遗物-天罚
@@ -1511,6 +1538,8 @@ tagBlueprint_RelicD018=设计图：遗物-拜斯迈的主宰
 tagBlueprint_RelicD019=设计图：遗物-奥莱隆之怒
 tagBlueprint_RelicD020=设计图：遗物-曼海尔的壁垒
 tagBlueprint_RelicD021=设计图：遗物-伊斯坎德拉的平衡
+tagBlueprint_RelicD022=设计图：遗物-剑圣的护身符
+tagBlueprint_RelicD023=设计图：遗物-盗贼的护身符
 
 tagBlueprint_ComponentA01=设计图：虚化之魂
 tagBlueprint_ComponentA02=设计图：弹痕甲片
@@ -1530,6 +1559,7 @@ tagBlueprint_ComponentA15=设计图：纯净之盐
 tagBlueprint_ComponentA16=设计图：中空之牙
 tagBlueprint_ComponentA17=设计图：灌魔银粉
 tagBlueprint_ComponentA18=设计图：赐福磨石
+tagBlueprint_ComponentA19=设计图: 黑色油脂
 tagBlueprint_ComponentC01=设计图：奥莱隆之血
 tagBlueprint_ComponentC02=设计图：贝若纳斯的鳞片
 tagBlueprint_ComponentC03=设计图：奥术火花
@@ -1537,6 +1567,7 @@ tagBlueprint_ComponentC04=设计图：棱光钻石
 tagBlueprint_ComponentC05=设计图：附魂钢铁
 tagBlueprint_ComponentC06=设计图：莫格卓根的印记
 tagBlueprint_ComponentC07=设计图：银核弹药
+tagBlueprint_ComponentC08=设计图：赐福磨石
 
 
 tagBlueprint_WaistB001=设计图：赏金猎人腰带
@@ -1716,6 +1747,10 @@ tagRelicC014=枯萎 Blight
 tagRelicC014Desc="德里格的七种天灾之首。"
 tagRelicC015=先祖 Ancestor
 tagRelicC015Desc="与先祖相同的血液之中，流淌着真正的潜力。"
+tagRelicC016=剑舞者的护身符
+tagRelicC016Desc="能够同时持握两把近战武器的象征。"
+tagRelicC017=掠夺者的护身符
+tagRelicC017Desc="能够同时手持两把手枪进行精准射击的象征。"
 
 tagRelicD001=守护 Aegis
 tagRelicD001Desc="伊师塔克的指引之光会抚平痛苦，使人重拾信念。"
@@ -1759,6 +1794,10 @@ tagRelicD020=曼海尔的壁垒 Menhir's Bastion
 tagRelicD020Desc="大地不会忍受什么邪灵或是嗜血的异教徒，奋起抗争保卫她，凯恩世界也将与你同在。"
 tagRelicD021=伊斯坎德拉的平衡 Iskandra's Balanace
 tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
+tagRelicD022=剑圣的护身符
+tagRelicD022Desc="能够同时持握两把近战武器的象征。"
+tagRelicD023=盗贼的护身符
+tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
 
 #Crafting锻造
 tagCraftTabArtifactA=遗物
@@ -1981,6 +2020,7 @@ tagEnchantmentConfirmation=确定使用这件增幅物？
 tagEnchantmentOverwrite=确定覆盖掉已有的增幅物？
 tagEnchantmentSoulboundConfirmation=确定使用这件增幅物？附魔这件装备会使它变为灵魂绑定。
 tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅物？附魔这件装备会使它变为灵魂绑定。
+tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅物吗？覆盖掉现存的增幅物会移除灵魂绑定状态。
 
 tagEnchantTest=TESTNAME
 tagEnchantTestDesc="A test description."^w^n(Used in rings)
@@ -2031,8 +2071,8 @@ tagEnchantA009C=安克维亚玫瑰粉末III
 tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(用于戒指和项链)
 
 tagEnchantA010A=Rotbloom Powder I
-tagEnchantA010A=Rotbloom Powder II
-tagEnchantA010A=Rotbloom Powder III
+tagEnchantA010B=Rotbloom Powder II
+tagEnchantA010C=Rotbloom Powder III
 tagEnchantA010Desc="Powder derived from a brown-grey flower found growing among carnage and rot."^w^n(Applied to rings and amulets)
 
 tagEnchantA011A=蛇人草粉末I
@@ -2341,95 +2381,95 @@ tagEnchantB035B=Uroboruuk's Path II
 tagEnchantB035BC=Uroboruuk's Path III
 tagEnchantB035Desc="To follow Uroboruuk's path is to seek the path of knowledge, wherever it may lead."^w^n(用于戒指和项链)
 
-tagEnchantB036A=Exile's Might I
-tagEnchantB036B=Exile's Might II
-tagEnchantB036BC=Exile's Might III
-tagEnchantB036Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB036A=Outcast's Might I
+tagEnchantB036B=Outcast's Might II
+tagEnchantB036BC=Outcast's Might III
+tagEnchantB036Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB037A=Potent Exile's Might I
-tagEnchantB037B=Potent Exile's Might II
-tagEnchantB037BC=Potent Exile's Might III
-tagEnchantB037Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(用于所有双手武器)
+tagEnchantB037A=Potent Outcast's Might I
+tagEnchantB037B=Potent Outcast's Might II
+tagEnchantB037BC=Potent Outcast's Might III
+tagEnchantB037Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB038A=Exile's Frostbite I
-tagEnchantB038B=Exile's Frostbite II
-tagEnchantB038BC=Exile's Frostbite III
-tagEnchantB038Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB038A=Outcast's Frostbite I
+tagEnchantB038B=Outcast's Frostbite II
+tagEnchantB038BC=Outcast's Frostbite III
+tagEnchantB038Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB039A=Potent Exile's Frostbite I
-tagEnchantB039B=Potent Exile's Frostbite II
-tagEnchantB039BC=Potent Exile's Frostbite III
-tagEnchantB039Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(用于所有双手武器)
+tagEnchantB039A=Potent Outcast's Frostbite I
+tagEnchantB039B=Potent Outcast's Frostbite II
+tagEnchantB039BC=Potent Outcast's Frostbite III
+tagEnchantB039Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB040A=Exile's Inferno I
-tagEnchantB040B=Exile's Inferno II
-tagEnchantB040BC=Exile's Inferno III
-tagEnchantB040Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB040A=Outcast's Inferno I
+tagEnchantB040B=Outcast's Inferno II
+tagEnchantB040BC=Outcast's Inferno III
+tagEnchantB040Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB041A=Potent Exile's Inferno I
-tagEnchantB041B=Potent Exile's Inferno II
-tagEnchantB041BC=Potent Exile's Inferno III
-tagEnchantB041Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(用于所有双手武器)
+tagEnchantB041A=Potent Outcast's Inferno I
+tagEnchantB041B=Potent Outcast's Inferno II
+tagEnchantB041BC=Potent Outcast's Inferno III
+tagEnchantB041Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB042A=Exile's Thunder I
-tagEnchantB042B=Exile's Thunder II
-tagEnchantB042BC=Exile's Thunder III
-tagEnchantB042Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB042A=Outcast's Thunder I
+tagEnchantB042B=Outcast's Thunder II
+tagEnchantB042BC=Outcast's Thunder III
+tagEnchantB042Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB043A=Potent Exile's Thunder I
-tagEnchantB043B=Potent Exile's Thunder II
-tagEnchantB043BC=Potent Exile's Thunder III
-tagEnchantB043Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(用于所有双手武器)
+tagEnchantB043A=Potent Outcast's Thunder I
+tagEnchantB043B=Potent Outcast's Thunder II
+tagEnchantB043BC=Potent Outcast's Thunder III
+tagEnchantB043Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB044A=Exile's Venom I
-tagEnchantB044B=Exile's Venom II
-tagEnchantB044BC=Exile's Venom III
-tagEnchantB044Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB044A=Outcast's Venom I
+tagEnchantB044B=Outcast's Venom II
+tagEnchantB044BC=Outcast's Venom III
+tagEnchantB044Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB045A=Potent Exile's Venom I
-tagEnchantB045B=Potent Exile's Venom II
-tagEnchantB045BC=Potent Exile's Venom III
-tagEnchantB045Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(用于所有双手武器)
+tagEnchantB045A=Potent Outcast's Venom I
+tagEnchantB045B=Potent Outcast's Venom II
+tagEnchantB045BC=Potent Outcast's Venom III
+tagEnchantB045Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB046A=Exile's Deathtouch I
-tagEnchantB046B=Exile's Deathtouch II
-tagEnchantB046BC=Exile's Deathtouch III
-tagEnchantB046Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB046A=Outcast's Deathtouch I
+tagEnchantB046B=Outcast's Deathtouch II
+tagEnchantB046BC=Outcast's Deathtouch III
+tagEnchantB046Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB047A=Potent Exile's Deathtouch I
-tagEnchantB047B=Potent Exile's Deathtouch II
-tagEnchantB047BC=Potent Exile's Deathtouch III
-tagEnchantB047Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(用于所有双手武器)
+tagEnchantB047A=Potent Outcast's Deathtouch I
+tagEnchantB047B=Potent Outcast's Deathtouch II
+tagEnchantB047BC=Potent Outcast's Deathtouch III
+tagEnchantB047Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB048A=Exile's Wrath I
-tagEnchantB048B=Exile's Wrath II
-tagEnchantB048BC=Exile's Wrath III
-tagEnchantB048Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB048A=Outcast's Wrath I
+tagEnchantB048B=Outcast's Wrath II
+tagEnchantB048BC=Outcast's Wrath III
+tagEnchantB048Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB049A=Potent Exile's Wrath I
-tagEnchantB049B=Potent Exile's Wrath II
-tagEnchantB049BC=Potent Exile's Wrath III
-tagEnchantB049Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(用于所有双手武器)
+tagEnchantB049A=Potent Outcast's Wrath I
+tagEnchantB049B=Potent Outcast's Wrath II
+tagEnchantB049BC=Potent Outcast's Wrath III
+tagEnchantB049Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB050A=Exile's Riftstorm I
-tagEnchantB050B=Exile's Riftstorm II
-tagEnchantB050BC=Exile's Riftstorm III
-tagEnchantB050Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB050A=Outcast's Riftstorm I
+tagEnchantB050B=Outcast's Riftstorm II
+tagEnchantB050BC=Outcast's Riftstorm III
+tagEnchantB050Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB051A=Potent Exile's Riftstorm I
-tagEnchantB051B=Potent Exile's Riftstorm II
-tagEnchantB051BC=Potent Exile's Riftstorm III
-tagEnchantB051Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(用于所有双手武器)
+tagEnchantB051A=Potent Outcast's Riftstorm I
+tagEnchantB051B=Potent Outcast's Riftstorm II
+tagEnchantB051BC=Potent Outcast's Riftstorm III
+tagEnchantB051Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(用于所有双手武器)
 
-tagEnchantB052A=Exile's Bastion I
-tagEnchantB052B=Exile's Bastion II
-tagEnchantB052BC=Exile's Bastion III
-tagEnchantB052Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB052A=Outcast's Bastion I
+tagEnchantB052B=Outcast's Bastion II
+tagEnchantB052BC=Outcast's Bastion III
+tagEnchantB052Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(用于所有单手武器，盾牌和副手)
 
-tagEnchantB053A=Potent Exile's Bastion I
-tagEnchantB053B=Potent Exile's Bastion II
-tagEnchantB053BC=Potent Exile's Bastion III
-tagEnchantB053Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(用于所有双手武器)
+tagEnchantB053A=Potent Outcast's Bastion I
+tagEnchantB053B=Potent Outcast's Bastion II
+tagEnchantB053BC=Potent Outcast's Bastion III
+tagEnchantB053Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(用于所有双手武器)
 
 tagEnchantB054A=Nature's Wrath I
 tagEnchantB054B=Nature's Wrath II
@@ -2628,17 +2668,17 @@ tagCompA057Desc="用虚化的怪物身上的精华增强过的子弹。" ^w^n(�
 tagCompA058Name=虚空之触弹药
 tagCompA058Desc="浸染了冥灵的鲜血。" ^w^n(用于枪械和十字弓)
 
-tagCompA059Name=虚化钢铁合金
-tagCompA059Desc="异常轻便且经久耐用的金属。" ^w^n(用于盾牌)
+tagCompA059Name=强固外壳
+tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。" ^w^n(用于盾牌)
 
 tagCompA060Name=磨损外壳
 tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。" ^w^n(用于盾牌)
 
-tagCompA061Name=恶性毒物
-tagCompA061Desc="来自一种特殊的有毒生物的酸性胆汁。" ^w^n(用于所有护甲)
+tagCompA061Name=抗毒血清
+tagCompA061Desc="来自一种特殊的有毒生物中和过的胆汁。" ^w^n(用于所有护甲)
 
-tagCompA062Name=强固外壳
-tagCompA062Desc="令人生畏的甲壳，由成串剃刀般锋利的尖刺所作成，几乎不可能被穿透。"^w^n(用于盾牌)
+tagCompA062Name=锯齿外壳
+tagCompA062Desc="坚硬的甲壳，上面长有成串剃刀般锋利的尖刺。"^w^n(用于盾牌)
 
 
 tagCompB001Name=^k拜斯迈之缚
@@ -2717,6 +2757,49 @@ tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭凯恩世
 tagCompAScrap=废铁
 tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
 
+#ItemFactionBoosters
+
+tagFactionBooster={^E}Reputation gain increased by {^H}{%d0}% {^E}with {%s1} on {%s2} Difficulty
+tagFactionAlreadyBoosted={^r}[This faction has already had a Faction Writ applied to this difficulty]
+
+tagBoosterADesc=Faction documents recognizing you as a paragon of their people.
+tagBoosterBDesc=Faction documents entrusting another entity as a representative. ^oCan be placed in the Transfer Stash to use on other characters.
+tagBoosterBL_A01=Writ of the Black Legion
+tagBoosterBL_A02=Greater Writ of the Black Legion
+tagBoosterBL_B01=Mandate of the Black Legion
+tagBoosterBL_B02=Greater Mandate of the Black Legion
+tagBoosterBL_B03=Mythical Mandate of the Black Legion
+tagBoosterDC_A01=Writ of Devil's Crossing
+tagBoosterDC_A02=Greater Writ of Devil's Crossing
+tagBoosterDC_B01=Mandate of Devil's Crossing
+tagBoosterDC_B02=Greater Mandate of Devil's Crossing
+tagBoosterDC_B03=Mythical Mandate of Devil's Crossing
+tagBoosterEXILE_A01=Writ of the Outcast
+tagBoosterEXILE_A02=Greater Writ of the Outcast
+tagBoosterEXILE_B01=Mandate of the Outcast
+tagBoosterEXILE_B02=Greater Mandate of the Outcast
+tagBoosterEXILE_B03=Mythical Mandate of the Outcast
+tagBoosterHS_A01=Writ of Homestead
+tagBoosterHS_A02=Greater Writ of Homestead
+tagBoosterHS_B01=Mandate of Homestead
+tagBoosterHS_B02=Greater Mandate of Homestead
+tagBoosterHS_B03=Mythical Mandate of Homestead
+tagBoosterKC_A01=Writ of the Kymon's Chosen
+tagBoosterKC_A02=Greater Writ of the Kymon's Chosen
+tagBoosterKC_B01=Mandate of the Kymon's Chosen
+tagBoosterKC_B02=Greater Mandate of the Kymon's Chosen
+tagBoosterKC_B03=Mythical Mandate of the Kymon's Chosen
+tagBoosterODV_A01=Writ of the Order of Death's Vigil
+tagBoosterODV_A02=Greater Writ of the Order of Death's Vigil
+tagBoosterODV_B01=Mandate of the Order of Death's Vigil
+tagBoosterODV_B02=Greater Mandate of the Order of Death's Vigil
+tagBoosterODV_B03=Mythical Mandate of the Order of Death's Vigil
+tagBoosterRO_A01=Writ of the Rovers
+tagBoosterRO_A02=Greater Writ of the Rovers
+tagBoosterRO_B01=Mandate of the Rovers
+tagBoosterRO_B02=Greater Mandate of the Rovers
+tagBoosterRO_B03=Mythical Mandate of the Rovers
+
 
 #Misc杂项
 
@@ -2754,6 +2837,7 @@ tagBonusExperience={%+d0}的经验值
 tagBonusMoney={%+d0}铁币
 tagBonusSkillPoint={%+d0}技能点数
 tagBonusAttribPoint={%+d0}属性点数
+
 
 #ItemSets套装
 
@@ -2817,6 +2901,9 @@ tagItemSetC019Desc="受到德里格选召之辈所穿戴的服饰。"
 
 tagItemSetC020Name=硫磺
 tagItemSetC020Desc="奥祖因虔诚的信徒所使用的武器和甲胄。"
+
+tagItemSetC021Name=The Eastern Pledge
+tagItemSetC021Desc="Robes worn by revered priests from a foreign land beyond the great seas."
 
 tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc="曼海尔的卫士中的大审判官，沉默的霍瓦德的盔甲。"
@@ -3270,6 +3357,7 @@ tagChestCorpse_RoverElder=马赛厄斯的尸体
 tagChestCorpse_Jacob=雅各布的尸体
 tagChestCorpse_Refugee=达利娅·塔夫恩的尸体
 tagChestCorpse_BlackLegion=黑色军团遗骸
+tagChestCorpse_Malkadarr=马卡达的遗骸
 
 tagLectern_WardensLabA01=研究日志
 tagLectern_OldArkoviaRuinsA01=古老的讲台
@@ -3288,6 +3376,7 @@ tagChestHeroD06=卓越的宝箱
 
 tagChestHeroD07=黑曜石集簇
 tagChestHeroD08=黑曜石宝藏
+tagChestNemesis01=复仇者的珍宝
 tagBreakableA01=桶
 tagBreakableA02=板条箱
 tagBreakableJugA01=壶
@@ -3313,7 +3402,7 @@ tagChestLockedQuest={^R} ~ 被任务锁着的
 tagChestBossOneShot_Warden=典狱长的箱子
 tagChestBossOneShot_Darius=德莱厄斯的箱子
 tagChestOneShot_Sacrifice=艾萨克的珍藏
-tagChestOneShot_Generic01=辉煌珍藏
+tagChestOneShot_Generic01=崇高珍藏
 tagChestOneShot_Generic02=崇高珍藏
 tagChestOneShot_BurrwitchCave01=怪物的宝藏
 tagChestOneShot_LowerCrossingCave01=怪物的宝藏
@@ -3340,7 +3429,9 @@ tagUGDoorMine01=矿坑入口
 tagUGDoorRuin01=废墟入口
 tagUGDoorIronDoorSecret01=铁门
 tagUGDoorPortcullisFloor01=吊门
-tagDoorLocked=锁着的
+tagUGDoorBoat=划艇
+tagUGDoorObsidian=黑曜石尖刺
+tagDoorLocked= {^R} ~ 锁着的
 
 tagDoorOneWay01=通往地表的出口
 tagDoorLever01=吊门控制器
@@ -3354,11 +3445,15 @@ tagEpicDoor_StepsOfTorment=痛苦之门
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
 tagLocked= {^R} ~ 锁着的
 tagBlocked= {^R} ~ 塌方阻挡了道路
+tagLocked_BlackLegion= {^R} ~ 由黑色军团封印着
 tagUGDoorDermapteranQueen=通往女皇巢穴的通道
 tagUGDoorDermapteranQueenLocked= {^R} ~ 由虫群领袖封印着
 tagDoorRampart=被阻挡的门
 tagDoorWarden=铁门
 tagDoorFarmland=木门
+tagDoorLab=强固大门
+tagLocked_Kymon= {^R} ~ 由圣父凯蒙封印着
+tagLocked_Necro= {^R} ~ 由死亡守夜人教团封印着
 
 #QuestRewards任务奖励
 

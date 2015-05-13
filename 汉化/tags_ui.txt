@@ -49,10 +49,12 @@ tagQuestIncentives=动机:
 tagQuestObjectives=目标:
 tagQuestRewards=奖励:
 tagCodexJournalNoNotes=没有条目
-tagCodexJournalSubHeadingAct1=第一章
-tagCodexJournalSubHeadingAct2=第二章
-tagCodexJournalSubHeadingAct3=第三章
-tagCodexJournalSubHeadingAct4=第四章
+tagCodexJournalSubHeadingEnemy=敌人情报
+tagCodexJournalSubHeadingFaction=势力
+tagCodexJournalSubHeadingCreed=审判官克里德
+tagCodexJournalSubHeadingArkovia=历史 - 安克维亚
+tagCodexJournalSubHeadingSurvivorBurrwitch=幸存者 - 伯尔维治
+tagCodexJournalSubHeadingSurvivorsHomestead=幸存者 - 霍姆斯特德
 tagCodexJournalSubHeadingDefault=杂项
 tagAccept=接受
 tagDecline=拒绝
@@ -84,6 +86,7 @@ tagQuestRewardXP=经验值:{%d0}
 tagQuestRewardReputationPositive={%s1}声望增加 {%d0} 点
 tagQuestRewardReputationNegative={%s1}声望减少 {%d0} 点
 tagQuestRewardAcceptButton=接受
+tagQuestBlockedDescription=基于游戏建立者的进度，任务在此次游戏中已经锁定。
 
 #Faction
 
@@ -101,8 +104,8 @@ tagFactionSurvivorsRewards2=N/A
 tagFactionSurvivorsRewards3=N/A
 tagFactionSurvivorsRewards4=空
 tagFactionSurvivorsRewards5=新任务 {^n}获得势力特有商店
-tagFactionSurvivorsRewards6=新任务 {^n}势力特有增幅物 {^n}势力特有设计图
-tagFactionSurvivorsRewards7=新任务 {^n}势力特有武器 {^n}势力特有护甲
+tagFactionSurvivorsRewards6=新任务 {^n}领取赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
+tagFactionSurvivorsRewards7=新的地下城/新任务 {^n}势力特有武器 {^n}势力特有护甲
 tagFactionSurvivorsRewards8=稀有增幅物 {^n}势力特有饰品
 tagFactionAetherials=虚灵
 tagFactionAetherialsInfo=凯恩世界的奥术师们愚蠢而又贪婪地追寻着被称为虚化力量的魔法，却从不在意有些东西已经在背后盯上了他们。{^n}{^n}虚灵在被称作恐怖黎明的事件发生之时来到了凯恩世界，它们占据了无数的人类，然后将剩余的屠戮殆尽。最为卑劣的是，它们开始复活死去的人，将他们变成变异的不死怪物，成为它们麾下没有任何个人意志的侵略大军。它们的存在也将凯恩世界原有的野生生物改变了，原本温顺的动物纷纷变成了邪恶的怪物。{^n}{^n}可最奇怪的还是它们对冥灵的憎恨，只要有机会它们就一定会和那些来自虚空之中的恐惧之物战个不死不休。
@@ -155,7 +158,7 @@ tagFactionUser2Rewards2=N/A
 tagFactionUser2Rewards3=N/A
 tagFactionUser2Rewards4=空
 tagFactionUser2Rewards5=新任务 {^n}获得势力特有商店
-tagFactionUser2Rewards6=新任务 {^n}势力特有增幅物 {^n}势力特有设计图
+tagFactionUser2Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
 tagFactionUser2Rewards7=新任务 {^n}势力特有武器 {^n}势力特有护甲
 tagFactionUser2Rewards8=稀有增幅物 {^n}势力特有饰品
 tagFactionUser3=科里根矿的自由民
@@ -169,7 +172,7 @@ tagFactionUser3Rewards6=N/A
 tagFactionUser3Rewards7=N/A
 tagFactionUser3Rewards8=N/A
 tagFactionUser4=放逐者
-tagFactionUser4Info=营地：Jaws of Korvaak {^n}{^n} Not much is known about the enigmatic Anasteria or why she knows so much about the Aetherials and their plans. She seemingly arrived out of nowhere, providing the Black Legion with information on enemy activity that has saved precious lives. {^n}{^n} Many in the Black Legion have branded her a witch, and would gladly see her burnt at the stake despite Inquisitor Creed's insistence that she be kept safe. 
+tagFactionUser4Info=营地：圣像堡{^n}{^n} Not much is known about the enigmatic Anasteria or why she knows so much about the Aetherials and their plans. She seemingly arrived out of nowhere, providing the Black Legion with information on enemy activity that has saved precious lives. {^n}{^n} Many in the Black Legion have branded her a witch, and would gladly see her burnt at the stake despite Inquisitor Creed's insistence that she be kept safe. 
 tagFactionUser4Rewards1=放逐者的复仇
 tagFactionUser4Rewards2=放逐者的愤怒
 tagFactionUser4Rewards3=放逐者大军
@@ -185,7 +188,7 @@ tagFactionUser5Rewards2=刷新额外英雄单位
 tagFactionUser5Rewards3=刷新额外敌人
 tagFactionUser5Rewards4=空
 tagFactionUser5Rewards5=获得势力特有商店
-tagFactionUser5Rewards6=新任务 {^n}势力特有增幅物 {^n}势力特有设计图
+tagFactionUser5Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
 tagFactionUser5Rewards7=新任务 {^n}势力特有武器 {^n}势力特有护甲
 tagFactionUser5Rewards8=稀有增幅物 {^n}势力特有饰品
 tagFactionUser6=不死族
@@ -199,14 +202,14 @@ tagFactionUser6Rewards6=N/A
 tagFactionUser6Rewards7=N/A
 tagFactionUser6Rewards8=N/A
 tagFactionUser7=黑色军团
-tagFactionUser7Info=营地:寇瓦克城堡{^n}{^n}The Black Legion are the imperium's elite, Death's Bannermen sent forth to act out the emperor's will with great prejudice. Legends of their valor intermingle with equally common tales of their cruelty and violence. {^n}{^n}Regardless of whether they are respected or feared, the Black Legion was the only imperial regiment to escape the fallen capital following the Grim Dawn and may now represent the only hope humanity has left of ever fighting back.
+tagFactionUser7Info=营地:圣像堡{^n}{^n}The Black Legion are the imperium's elite, Death's Bannermen sent forth to act out the emperor's will with great prejudice. Legends of their valor intermingle with equally common tales of their cruelty and violence. {^n}{^n}Regardless of whether they are respected or feared, the Black Legion was the only imperial regiment to escape the fallen capital following the Grim Dawn and may now represent the only hope humanity has left of ever fighting back.
 tagFactionUser7Rewards1=N/A
 tagFactionUser7Rewards2=N/A
 tagFactionUser7Rewards3=N/A
 tagFactionUser7Rewards4=空
 tagFactionUser7Rewards5=可接受赏金任务 {^n}获得势力特有商店
-tagFactionUser7Rewards6=更艰难的赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
-tagFactionUser7Rewards7=新任务 {^n}势力特有武器 {^n}势力特有护甲
+tagFactionUser7Rewards6=新的赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
+tagFactionUser7Rewards7=新的地下城/新任务 {^n}势力特有武器 {^n}势力特有护甲
 tagFactionUser7Rewards8=稀有增幅物 {^n}势力特有饰品
 tagFactionUser8=凯蒙的神选战士
 tagFactionUser8Info=营地:悲伤城堡{^n}{^n}Kymon's Chosen are the zealous followers of Empyrion, the Light-Bringer, whom they believe will return to Cairn in blazing glory and guide his Chosen into a new dawn of order and prosperity.{^n}{^n}Led by a charismatic preacher known as Father Kymon and guarded by their faith, the Chosen are eager to stamp out all corruption from Cairn, whether it is vile Chthonic horrors or death-manipulating necromancers. To this end, they consider ridding the world of the Order of Death's Vigil to be one of their utmost priorities.
@@ -215,7 +218,7 @@ tagFactionUser8Rewards2=刷新额外英雄单位
 tagFactionUser8Rewards3=刷新额外敌人
 tagFactionUser8Rewards4=空
 tagFactionUser8Rewards5=获得势力特有商店
-tagFactionUser8Rewards6=新任务 {^n}势力特有增幅物 {^n}势力特有设计图
+tagFactionUser8Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有增幅物 {^n}势力特有设计图
 tagFactionUser8Rewards7=新任务 {^n}势力特有武器 {^n}势力特有护甲
 tagFactionUser8Rewards8=稀有增幅物 {^n}势力特有饰品
 tagFactionUser9=User9
@@ -310,15 +313,14 @@ tagFactionStateFriendly=友善
 tagFactionStateTrusted=信赖
 tagFactionStateHonored=尊敬
 tagFactionStateRevered=敬畏
-tagFactionProgress=距离 {%s0} {^w}还需要: {^b}{%d1} 点声望值
-tagFactionKillingGain=击杀以下敌人可以获得声望:
-tagFactionKillingLoss=击杀以下敌人可以扩大你在该势力的恶名:
-tagFactionRewardsTier=下一等级解锁:
-tagFactionKillCommon=普通怪物
-tagFactionKillChampion=精英怪物
-tagFactionKillHero=英雄怪物
-tagFactionKillBoss=首领怪物
-tagFactionStatusChange={^w}你现在和{^b}{%s1}{^w}处于{%s0}关系
+
+#Faction Window 势力窗口
+
+tagFactionStatusChange={^w}你在{^b}{%s1}{^w}势力中的声望已达到{%s0}
+tagFactionNegativeStatusChange={^w}你在{^b}{%s1}{^w}势力中的声望已变为{%s0}
+tagFactionDoorLocked={^r}你和{^b}{%s0}{^r}之间的关系不允许你进入这里
+tagFactionWindowName=势力
+tagFactionWindowFactionTitle={%s0} - {%s1}
 tagFactionReputation=获得声望的方式:{^n}
 tagFactionReputationKilling=击杀{%s0} {^n}
 tagFactionReputationBounties=赏金任务 {^n}
@@ -326,12 +328,20 @@ tagFactionReputationQuests=剧情任务 {^n}
 tagFactionDiscountPositive=声望折扣: {^r}+ {%.0f0}%
 tagFactionDiscountNegative=声望折扣: {^g}- {%.0f0}%
 tagFactionDiscountZero=声望折扣: {^s}{%.0f0}%
-tagFactionDoorLocked={^r}你所在的阵营{^b}{%s0}{^r}不允许你进入这个地方
+tagFactionProgress=距离{%s0}{^w}还需要: {^b}{%d1} 点声望值
+tagFactionKillingGain=击杀以下敌人可以获得声望:
+tagFactionKillingLoss=击杀以下敌人可以扩大你在该势力的恶名:
+tagFactionRewardsTier=下一等级解锁:
+tagFactionKillCommon=普通怪物
+tagFactionKillChampion=精英怪物
+tagFactionKillHero=英雄怪物
+tagFactionKillBoss=首领怪物
+tagFactionBonusRep=声望加成： {%d0}%
 
-#Faction Window
+#Achievements 成就
 
-tagFactionWindowName=势力
-tagFactionWindowFactionTitle={%s0} - {%s1}
+tagAchievements=成就
+tagAchievementUnlocked=已解锁成就！
 
 #HUD
 
@@ -584,6 +594,7 @@ tagItemCompareEquipped=已装备
 tagItemCompareVendor=出售的物品
 tagItemCompareInventory=物品栏内物品
 tagItemCompareGround=地上的物品
+tagItemInsufficientStatus={^r}声望不足
 
 
 #CharStatsTab2人物属性栏2
@@ -1030,18 +1041,20 @@ tagCraftingRelicsTier01=注能遗物
 tagCraftingRelicsTier02=卓越遗物
 tagCraftingRelicsTier03=神话遗物
 
-tagDividerTab01=回收
-tagDividerRoll01=回收装置被用来从物品上分离镶嵌物。不幸的是，回收工序的不完善会摧毁物品或镶嵌物中的一个，不过你可以做出选择。
+tagDividerTab01=拆分
+tagDividerRoll01=拆分装置被用来从物品上分离镶嵌物和增幅物。不幸的是，拆分工序的不完善会摧毁物品或镶嵌物中的一个，不过你可以做出选择。{^n}{^n}如果你拆分了该物品，物品上的增幅物会被分离。如果一个灵魂绑定的增幅物这样被分离下来，而且物品的初始状态不是灵魂绑定的话，那么灵魂绑定状态也将会被移除。
 
-tagDividerTab02=分解
-tagDividerRoll02=分解装置被用来拆解强力的物品以得到其基本的部分。
-tagDividerRoll02B=分解装置被用来拆解强力的物品以得到其基本的部分，在分解过程中需要大量的能量，所以睿智的发明家使用火药来完成这个过程。
+tagDividerTab02=销毁
+tagDividerRoll02=销毁装置被用来拆解强力的物品以得到其基本的部分。
+tagDividerRoll02B=销毁装置被用来拆解强力的物品以得到其基本的部分，在销毁过程中需要大量的能量，所以睿智的发明家使用火药来完成这个过程。
 
 tagDividingButtonKeepItem=保留物品
-tagDividingBoxInfo=将带有镶嵌物的物品放入回收装置。
+tagDividingBoxInfo=将带有镶嵌物或增幅物的物品放入拆分装置。
 tagDividingButtonKeepComponent=保留镶嵌物
-tagDividingKeepItemWarning=选择回收物品将会摧毁镶嵌物。
-tagDividingKeepComponentWarning=选择回收镶嵌物将会摧毁物品。
+tagDividingButtonRemoveAugment=移除增幅物
+tagDividingKeepItemWarning=选择回收物品将会摧毁镶嵌物和移除增幅物。
+tagDividingKeepComponentWarning=选择回收镶嵌物将会摧毁物品和增幅物。
+tagDividingRemoveAugmentWarning=移除增幅物将会摧毁该增幅物，任何由增幅物附加的灵魂绑定属性也会被移除掉。
 tagDividingCost=回收花费:
 
 tagDismantleDynamiteTotal=炸药总数:
@@ -1053,6 +1066,8 @@ tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
 
 #Shrine
 
+tagShrineDesecrated=Desecrated Shrine
+tagShrineRuined=Ruined Shrine
 tagShrineButton=Offer
 tagShrineButtonInfo=Place this offering near the shrine
 tagShrineWarning=Are you sure you want to place this offering?
@@ -1093,6 +1108,11 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 
 #NPC Conversation
 tagNpcConversationBusy=那个NPC正在和另一名玩家交谈。
+
+tagShrineActivated=That shrine has already been restored.
+tagShrineHostActivated=That shrine has already been restored by the host.
+tagShrineBusy=That shrine is being used by another player.
+tagShrineLocked=The shrine lies dormant.
 
 #Maps
 
@@ -1825,7 +1845,7 @@ tagItemSkill=(从物品中获得)
 tagItemSkillShort=(物品)
 tagEffect=效果:
 tagSkillGrantEffect=次级效果:
-tagDevotionAttached=Attached To:
+tagDevotionAttached=Bound To:
 
 tagItemUseDirections=[右键点击来使用]
 

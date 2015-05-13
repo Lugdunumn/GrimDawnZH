@@ -43,7 +43,7 @@ tagTutorialTip16TextA=使用{^y}角色窗口{^w}来装备物品，管理背包�
 tagTutorialTip16SubtitleA=背包：
 tagTutorialTip16TextB=要装备物品，从背包中右键点击或者将它拖动到适当的装备槽。你可以将物品拖出角色窗口来扔掉它，或者点击它然后按下“{^b}{%t0}{^w}”键。
 tagTutorialTip16SubtitleB=属性点：
-tagTutorialTip16TextC=点击想要的属性左边的“{^y}+{^w}”按钮来花费属性点。每个属性点提升8点属性。
+tagTutorialTip16TextC=点击想要的属性左边的“{^y}+{^w}”按钮来花费属性点。每个属性点提升8点属性。{^n}{^n}
 
 tagTutorialTip17Title=技能专精
 tagTutorialTip17TextA=选择技能专精是一项定义角色的决定。不同的专精迎合不同的游戏风格，所以要谨慎选择。
@@ -61,7 +61,7 @@ tagTutorialTip20SubtitleB=合成镶嵌物
 tagTutorialTip20TextB=你可以合成相同名字的镶嵌物碎片来获得更强力的奖励。完整的镶嵌物将生成额外的奖励。{^n}{^n}相同名字的镶嵌物碎片可以在第一块碎片附加过的物品上继续附加。
 
 tagTutorialTip21Title=第二技能专精
-tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开技能窗口。第二专精不是必须的，但是在到达10级后你将总会有权选择它。
+tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开{^y}技能窗口{^w}。第二专精不是必须的，但是在到达10级后你将总会有权选择它。
 
 tagTutorialTip22Title=技能窗口
 tagTutorialTip22TextA=每次你升级的时候都将获得技能点。将你的技能点投资到专精等级上或解锁技能。
@@ -139,9 +139,12 @@ tagTutorialTip38SubtitleB=玩家间转移
 tagTutorialTip38TextD=要想在多人游戏中与其他玩家的角色交易物品，你需要使用交易功能。
 
 tagTutorialTip39Title=发明家
-tagTutorialTip39TextA=发明家有从物品上移除镶嵌物的能力。物品或镶嵌物其中一项将在工序中保留下来。
+tagTutorialTip39TextA=发明家有从物品上移除镶嵌物和增幅物的能力。物品或镶嵌物其中一项将在工序中保留下来。任何的增幅物都会丢失。
 tagTutorialTip39SubtitleA=移除镶嵌物
-tagTutorialTip39TextB=物品上镶嵌物的移除将按物品与镶嵌物的组合价值的比例收取费用。在发明家的界面上放置一个带有镶嵌物的物品来开始移除吧。{^N}{^N}你可以获取物品或镶嵌物其中一项。{^N}{^N}如果你获取物品，镶嵌物将消失。反之亦然。{^N}{^N}
+tagTutorialTip39TextB=物品上镶嵌物的移除将按物品，镶嵌物和增幅物的组合价值的比例收取费用。在发明家的界面上放置一个带有镶嵌物的物品来开始移除吧。{^N}{^N}你可以获取物品或镶嵌物其中一项。{^N}{^N}如果你获取物品，镶嵌物将消失。反之亦然。{^N}{^N}
+tagTutorialTip39SubtitleB=只移除增幅物
+tagTutorialTip39TextC=无论何时你只移除增幅物的话，物品和镶嵌物都会被保留下来。{^N}{^N}如果一件灵魂绑定的增幅物以这种方式移除，而且物品原本并非灵魂绑定，那么物品的灵魂绑定状态也将会被移除。{^N}{^N}
+
 
 tagTutorialTip42Title=铁匠
 tagTutorialTip42TextA=铁匠有制作强大威力物品的能力。他是一位经验丰富的工匠，每个他制作的物品都有小的制作属性奖励，然后他的知识可以通过新的设计图来扩充。
@@ -183,7 +186,7 @@ tagTutorialTip51Title=增幅物附魔
 tagTutorialTip51TextA=右键单击一件增幅物，然后再左键单击你想要附魔的装备。{^N}{^N}注意增幅物只能在特定的装备类型上进行附魔而且已经使用不能被移除，但是你可以通过再次附魔来覆盖掉之前的增幅物。
 
 tagTutorialTip52Title=与势力接触
-tagTutorialTip52TextA=你通过一项任务获得了凯恩世界内某一势力的声望。{^N}{^N}完成任务是一种提升你与势力之间的关系的绝佳手段，但这并非唯一的方法。你可以通过{^y}势力窗口{^w}来了解更多信息。
+tagTutorialTip52TextA=你通过一项任务获得了凯恩世界内众多势力中一股势力的声望。{^N}{^N}完成任务是一种提升你与势力之间的关系的绝佳手段，但这并非唯一的方法。你可以通过{^y}势力窗口{^w}来了解更多信息。
 tagTutorialTip52CaptionA=快捷键:{^b}{%t0}{^w}
 
 tagTutorialTip53Title=势力营地
@@ -195,6 +198,33 @@ tagTutorialTip54Title=声望等级
 tagTutorialTip54TextA=你与一股势力之间的声望提升了一个等级。你将有资格享受属于该势力的商人所贩卖物品的折扣和在该势力的营地获取到更好的装备。{^N}{^N}四处看一看，或许有你有新的任务可以领取了。
 
 tagTutorialTip55Title=势力窗口
-tagTutorialTip55TextA=使用{^y}势力窗口{^w}来查看你与凯恩世界中各股势力的关系，这将决定你为了赢得他们的青睐而需要做的事情。注意b25将完整地实装势力与奖励系统。
+tagTutorialTip55TextA=使用{^y}势力窗口{^w}来查看你与凯恩世界中各股势力的关系，这将决定你为了赢得他们的青睐而需要做的事情。
 tagTutorialTip55SubtitleA=获取声望
 tagTutorialTip55TextB=每股势力都有其独有的诉求和目标。你可以通过查看{^y}获得声望{^w}一栏来知晓如何赢得该势力的敬意。{^N}{^N}请注意如果你的声望越显赫，那么你就要通过击杀更强大的敌人才能获得更多的声望。
+
+tagTutorialTip56Title=赏金任务
+tagTutorialTip56TextA=Bounties are an excellent way to raise your reputation with the various factions of Cairn. Bounty quests send you on tasks of varying difficulty and reward and are generally unguided. You must hunt down your prey with limited assistance.
+tagTutorialTip56SubtitleA=赏金任务是可重复的
+tagTutorialTip56TextB=Unlike regular quests, Bounty quests are not limited to once per character. Each Faction will offer you up to 5 Bounties per game session, and you may discover Bounties you have done in previous sessions.{^N}{^N}
+
+tagTutorialTip57Title=Devotion Shrines
+tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you will earn Devotion Points, which you can allocate in a unique layer of character customization.
+
+tagTutorialTip58Title=Claiming a Shrine
+tagTutorialTip58TextA=Devotion Shrines are ancient remnants of a long-lost empire, monuments dedicated to various gods and celestial symbols.{^N}{^N}Shrines must either be cleansed by defeating a corrupting presence trapped within or restored by placing an offering of rare crafting materials. The requirements vary from shrine to shrine.
+tagTutorialTip58SubtitleA=Restoring a Shrine
+tagTutorialTip58TextB=To Restore a ruined shrine, place the required materials into the Shrine UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Offer button to restore the Shrine.
+
+tagTutorialTip59Title=虔诚点数
+tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion Point. Devotion Points can be allocated in the {^y}Devotion Window{^w}, which can be accessed through the {^y}Skill Window{^w}.
+tagTutorialTip59CaptionA=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip60Title=虔诚窗口
+tagTutorialTip60TextA=The {^y}Devotion Window{^w} allows you to dedicate your Devotion Points to various deities and celestial symbols of Cairn.
+tagTutorialTip60SubtitleA=获取虔诚点数
+tagTutorialTip60TextB=Devotion Points are earned by claiming Shrines scattered throughout the world. Explore everywhere to find them all!
+
+tagTutorialTip61Title=次级技能
+tagTutorialTip61TextA=Secondary Skills are powerful auto-activated effects which can be assigned to your existing primary skills from your Masteries.
+tagTutorialTip61SubtitleA=分配一项主要技能
+tagTutorialTip61TextB=To assign a Secondary Skill, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. To re-assign a Secondary Skill, you must visit a Spirit Guide. 

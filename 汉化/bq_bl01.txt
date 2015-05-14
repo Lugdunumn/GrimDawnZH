@@ -1,13 +1,13 @@
-Bounties
-Bounty: Fleshwarped Commanders
-Bounty
-The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
+赏金任务
+赏金: 奇型指挥官
+赏金
+军团请求你解决奇型巨魔的威胁。{^n}{^n}为了在这个地区取得胜利，除掉奇型指挥官是势在必行的。{^n}{^n}任何的协助都将回报以铁币。
 
-Slay Fleshwarped Commanders
+杀死奇型指挥官
 
-Turn In
-You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
-Return to the Black Legion Bounty Table
+回报任务
+你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。
+回到黑色军团的赏金桌那里
 
 
 

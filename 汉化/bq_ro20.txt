@@ -6,7 +6,7 @@ The Venomwing hives are each under the control of a queen. These queens once pro
 Slay Ulraprax
 Slay Ronaprax
 
-Turn In
+回报任务
 You have completed the task for the Rovers and should return to the Bounty Table for your reward.
 Return to the Rover Bounty Table
 

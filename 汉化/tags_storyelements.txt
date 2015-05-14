@@ -926,14 +926,14 @@ tagStoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属�
 tagNPC_SmithA04=霍鲁斯
 tagStoreTitle_SmithA04=亡灵铁匠
 tagStoreDesc_SmithA04_1={}亡灵天赋
-tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagStoreDesc_SmithA04_2=霍鲁斯在尘世那特殊的存在方式，承载了数个世纪的锻造知识。
 tagStoreDesc_SmithA04_3= 
 tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA05=加尔文兄弟
 tagStoreTitle_SmithA05=凯蒙的铁匠
-tagStoreDesc_SmithA05_1={}Blessed by Empyrion
-tagStoreDesc_SmithA05_2=Galvin's work is considered sacred, his hammer guided by the will of Empyrion himself.
+tagStoreDesc_SmithA05_1={}至高神的祝福
+tagStoreDesc_SmithA05_2=加尔文的作品是神圣的，他的锻锤由至高神亲自指引。
 tagStoreDesc_SmithA05_3= 
 tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
@@ -966,10 +966,10 @@ tagNPC_FactionQuartermaster_10=Anasteria's Drudge
 tagStoreTitle_FactionQuartermaster_10=放逐者的秘密
 
 #Faction Bounty Tables
-tagNPC_FactionTable_01=恶魔十字赏金目录
-tagNPC_FactionTable_02=流浪者赏金目录
-tagNPC_FactionTable_03=霍姆斯特德赏金目录
-tagNPC_FactionTable_04=黑色军团赏金目录
-tagNPC_FactionTable_05=凯蒙的神选战士赏金目录
-tagNPC_FactionTable_06=死亡守夜人教团赏金目录
-tagNPC_FactionTable_07=放逐者赏金目录
+tagNPC_FactionTable_01=恶魔十字赏金桌
+tagNPC_FactionTable_02=流浪者赏金桌
+tagNPC_FactionTable_03=霍姆斯特德赏金桌
+tagNPC_FactionTable_04=黑色军团赏金桌
+tagNPC_FactionTable_05=凯蒙的神选战士赏金桌
+tagNPC_FactionTable_06=死亡守夜人教团赏金桌
+tagNPC_FactionTable_07=放逐者赏金桌

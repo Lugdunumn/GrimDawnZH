@@ -5,8 +5,8 @@ The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's 
 
 Slay Bloodlord Thalonis
 
-Turn In
-You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
+回报任务
+你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。
 Return to the Black Legion Bounty Table
 
 

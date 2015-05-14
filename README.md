@@ -17,6 +17,297 @@ beta24版汉化正在进行中
 
 ```html
 
+bq_bl01.txt	
+
+bq_bl02.txt	
+
+bq_bl03.txt	
+
+bq_bl04.txt	
+
+bq_bl05.txt	
+
+bq_bl06.txt	
+
+bq_bl07.txt	
+
+bq_bl08.txt	
+
+bq_bl09.txt	
+
+bq_bl10.txt	
+
+bq_bl11.txt	
+
+bq_bl12.txt	
+
+bq_bl13.txt	
+
+bq_bl14.txt	
+
+bq_bl15.txt	
+
+bq_bl16.txt	
+
+bq_bl17.txt	
+
+bq_bl18.txt	
+
+bq_bl19.txt	
+
+bq_bl20.txt	
+
+bq_bl21.txt	
+
+bq_bl22.txt	
+
+bq_bl23.txt	
+
+bq_bl24.txt	
+
+bq_bl25.txt	
+
+bq_dc01.txt	
+
+bq_dc02.txt	
+
+bq_dc03.txt	
+
+bq_dc04.txt	
+
+bq_dc05.txt	
+
+bq_dc06.txt	
+
+bq_dc07.txt	
+
+bq_dc08.txt	
+
+bq_dc09.txt	
+
+bq_dc10.txt	
+
+bq_dc11.txt	
+
+bq_dc12.txt	
+
+bq_dc13.txt	
+
+bq_dc14.txt	
+
+bq_dc15.txt	
+
+bq_dc16.txt	
+
+bq_dc17.txt	
+
+bq_dc18.txt	
+
+bq_dc19.txt	
+
+bq_dc20.txt	
+
+bq_exile01.txt	
+
+bq_exile02.txt	
+
+bq_exile03.txt	
+
+bq_exile04.txt	
+
+bq_exile05.txt	
+
+bq_exile06.txt	
+
+bq_exile07.txt	
+
+bq_exile08.txt	
+
+bq_exile09.txt	
+
+bq_exile10.txt	
+
+bq_exile11.txt	
+
+bq_exile12.txt	
+
+bq_exile13.txt	
+
+bq_exile14.txt	
+
+bq_exile15.txt	
+
+bq_exile16.txt	
+
+bq_exile17.txt	
+
+bq_exile18.txt	
+
+bq_exile19.txt	
+
+bq_exile20.txt	
+
+bq_hs01.txt	
+
+bq_hs02.txt	
+
+bq_hs03.txt	
+
+bq_hs04.txt	
+
+bq_hs05.txt	
+
+bq_hs06.txt	
+
+bq_hs07.txt	
+
+bq_hs08.txt	
+
+bq_hs09.txt	
+
+bq_hs10.txt	
+
+bq_hs11.txt	
+
+bq_hs12.txt	
+
+bq_hs13.txt	
+
+bq_hs14.txt	
+
+bq_hs15.txt	
+
+bq_hs16.txt	
+
+bq_hs17.txt	
+
+bq_hs18.txt	
+
+bq_hs19.txt	
+
+bq_hs20.txt	
+
+bq_kc01.txt	
+
+bq_kc02.txt	
+
+bq_kc03.txt	
+
+bq_kc04.txt	
+
+bq_kc05.txt	
+
+bq_kc06.txt	
+
+bq_kc07.txt	
+
+bq_kc08.txt	
+
+bq_kc09.txt	
+
+bq_kc10.txt	
+
+bq_kc11.txt	
+
+bq_kc12.txt	
+
+bq_kc13.txt	
+
+bq_kc14.txt	
+
+bq_kc15.txt	
+
+bq_kc16.txt	
+
+bq_kc17.txt	
+
+bq_kc18.txt	
+
+bq_kc19.txt	
+
+bq_kc20.txt	
+
+bq_odv01.txt	
+
+bq_odv02.txt	
+
+bq_odv03.txt	
+
+bq_odv04.txt	
+
+bq_odv05.txt	
+
+bq_odv06.txt	
+
+bq_odv07.txt	
+
+bq_odv08.txt	
+
+bq_odv09.txt	
+
+bq_odv10.txt	
+
+bq_odv11.txt	
+
+bq_odv12.txt	
+
+bq_odv13.txt	
+
+bq_odv14.txt	
+
+bq_odv15.txt	
+
+bq_odv16.txt	
+
+bq_odv17.txt	
+
+bq_odv18.txt	
+
+bq_odv19.txt	
+
+bq_odv20.txt	
+
+bq_ro01.txt	
+
+bq_ro02.txt	
+
+bq_ro03.txt	
+
+bq_ro04.txt	
+
+bq_ro05.txt	
+
+bq_ro06.txt	
+
+bq_ro07.txt	
+
+bq_ro08.txt	
+
+bq_ro09.txt	
+
+bq_ro10.txt	
+
+bq_ro11.txt	
+
+bq_ro12.txt
+
+bq_ro13.txt	
+
+bq_ro14.txt	
+
+bq_ro15.txt	
+
+bq_ro16.txt	
+
+bq_ro17.txt	
+
+bq_ro18.txt	
+
+bq_ro19.txt	
+
+bq_ro20.txt
+
+
 mq_aetherialfarm.txt 完成
 
 mq_alliesfromtheashesofcairn.txt  完成
@@ -157,6 +448,8 @@ npc_ghost_minova.txt 完成
 
 npc_greven.txt 完成
 
+npc_gus_02.txt
+
 npc_harmond_01.txt 完成
 
 npc_helenfletcher.txt 完成
@@ -240,6 +533,8 @@ npc_necro_flavor_male_01.txt 完成
 npc_necro_flavor_male_02.txt 完成
 
 npc_necro_keeperoftomes_01.txt 完成
+
+npc_necro_malkadarr_01.txt
 
 npc_necro_mastervaruuk_01.txt	完成
 
@@ -337,6 +632,8 @@ npc_ulgrim_04.txt 完成
 
 npc_zealot_brotherelluvius_01.txt
 
+npc_zealot_champion_01.txt
+
 npc_zealot_emissary.txt 完成
 
 npc_zealot_emissary_base.txt 完成
@@ -350,6 +647,20 @@ npc_zealot_flavor_male_01.txt
 npc_zealot_flavor_male_02.txt	
 
 object_aethercluster_01.txt	完成
+
+object_bounty_blacklegion.txt
+
+object_bounty_devilscrossing.txt
+
+object_bounty_exile.txt	
+
+object_bounty_homestead.txt	
+
+object_bounty_kymonchosen.txt
+
+object_bounty_orderdeathsvigil.txt
+
+object_bounty_rover.txt
 
 object_bountyboard_01.txt	完成
 
@@ -447,11 +758,21 @@ sq_necros01_worthyoftheorder.txt
 
 sq_necros02_sealsofbinding.txt
 
+sq_necros03_catalyst.txt
+
 sq_necros03_soulsofthedead.txt
 
 sq_necros04_servicebeyonddeath.txt
 
+sq_necros04_soulsofthedead.txt
+
 sq_necros05_apledgetocairn.txt
+
+sq_necros05_servicebeyonddeath.txt
+
+sq_necros06_apledgetocairn.txt
+
+sq_necros07_searchforuroboruuk.txt
 
 sq_oldarkovia_partone.txt	完成
 
@@ -464,9 +785,14 @@ sq_prideofjaggedwaste.txt 完成
 sq_rescuechildren.txt 完成
 
 sq_restoredc.txt 完成
+
+sq_roverlegacy.txt
+
 sq_roverrescue.txt 完成
 
 sq_sacrifice.txt 完成
+
+sq_slithlab.txt
 
 sq_slithnecklaces.txt 完成
 
@@ -492,11 +818,19 @@ sq_zealots01_proveyourselftothecause.txt
 
 sq_zealots02_makingastand.txt	
 
+sq_zealots03_bravingthevoid.txt
+
 sq_zealots03_enemyofmyenemy.txt	
+
+sq_zealots04_enemyofmyenemy.txt
 
 sq_zealots04_shrineofourfathers.txt	
 
 sq_zealots05_apledgetocairn.txt
+
+sq_zealots06_apledgetocairn.txt
+
+sq_zealots07_kymonsecret.txt
 
 tags_achievements.txt	
 

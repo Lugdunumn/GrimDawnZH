@@ -7,164 +7,164 @@ achGroupWorld=世界
 
 # Achievements
 
-ach001Title=怪物屠杀者
-ach001Desc=Eradicate 15 Heroic Monsters (marked by a Star).
+ach001Title=怪物屠杀者 Monster Slayer
+ach001Desc=消灭 15 只精英怪物 (地图标记为星形)。
 
-ach002Title=英雄屠杀者
-ach002Desc=Eradicate 30 Heroic Monsters (marked by a Star).
+ach002Title=史诗屠杀者 Heroic Slayer
+ach002Desc=消灭 30 只精英怪物 (地图标记为星形)。
 
 ach003Title=传奇屠杀者 Legendary Slayer
-ach003Desc=Eradicate 100 Heroic Monsters (marked by a Star).
+ach003Desc=消灭 100 只精英怪物 (地图标记为星形)。
 
-ach004Title=One in a Million
-ach004Desc=Slay an Ultra Rare Heroic Monster (red name) on Elite or Ultimate Difficulty.
+ach004Title=万里挑一 One in a Million
+ach004Desc=在精英或者极限难度击杀一个极度稀有级的史诗怪物(red name)。
 
-ach005Title=Eight in a Million
-ach005Desc=Slay All the Ultra Rare Heroic Monsters (red name) on Elite or Ultimate Difficulty.
+ach005Title=万里挑八 Eight in a Million
+ach005Desc=在精英或者极限难度击杀所有极度稀有级的史诗怪物(red name)。
 
 ach006Title=净化世界 Cleansing the World
-ach006Desc=Rid Cairn of 100000 Monsters.
+ach006Desc=清除凯恩世界的100000只怪物。
 
-ach007Title=A Wake of Carnage
-ach007Desc=Rid Cairn of 500000 Monsters.
+ach007Title=屠戮过境 A Wake of Carnage
+ach007Desc=清除凯恩世界的500000只怪物。
 
 ach008Title=尸山血海 An Ocean of Blood
-ach008Desc=Rid Cairn of 1000000 Monsters.
+ach008Desc=清除凯恩世界的1000000只怪物。
 
 ach009Title=末日友谊 Friends in the Apocalypse
-ach009Desc=Become Revered with a Faction.
+ach009Desc=与一个派系关系达到尊敬。
 
-ach010Title=凯恩的完人 Paragon of Cairn
-ach010Desc=Become Revered with 6 Factions.
+ach010Title=凯恩世界的典范 Paragon of Cairn
+ach010Desc=与六个派系关系达到尊敬。
 
-ach011Title=Servant of Empyrion
-ach011Desc=Reach Revered reputation with Kymon's Chosen.
+ach011Title=至高之神的仆从 Servant of Empyrion
+ach011Desc=在凯蒙的神选战士的声望达到尊敬。
 
-ach012Title=Follower of Uroboruuk
-ach012Desc=Reach Revered reputation with the Order of Death's Vigil.
+ach012Title=尤若布鲁克信徒 Follower of Uroboruuk
+ach012Desc=在死亡守夜人兄弟会的声望达到尊敬。
 
-ach013Title=The End to Depravity
-ach013Desc=Slay Salazar, Blade of Ch'thon in the Depraved Sanctuary.
+ach013Title=堕落终结 The End to Depravity
+ach013Desc=击杀在堕落圣殿的冥神之刃萨拉查。
 
-ach014Title=Shattering the Blade of Ch'thon
-ach014Desc=Slay Salazar, Blade of Ch'thon in the Depraved Sanctuary on Veteran Mode.
+ach014Title=粉碎冥神之刃 Shattering the Blade of Ch'thon
+ach014Desc=老兵难度下击杀在堕落圣殿的冥神之刃萨拉查。
 
-ach015Title=The Executioner Executed
+ach015Title=刽子手行刑 The Executioner Executed
 ach015Desc=Slay Alkamos, Lord Executioner in the Steps of Torment.
 
-ach016Title=The End of Torment
-ach016Desc=Slay Alkamos, Lord Executioner in the Steps of Torment on Veteran Mode.
+ach016Title=苦痛终结 The End of Torment
+ach016Desc=在老兵模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
 
-ach017Title=Immortal Executioner
-ach017Desc=Slay Alkamos, Lord Executioner in the Steps of Torment on Hardcore Mode.
+ach017Title=永恒行刑者 Immortal Executioner
+ach017Desc=在硬核模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
 
-ach018Title=Delivering Justice
-ach018Desc=Slay Warden Krieg in the Hidden Laboratory.
+ach018Title=伸张正义 Delivering Justice
+ach018Desc=击杀在隐藏实验室的典狱长克里格。
 
 ach019Title=旧威胁 An Old Threat
-ach019Desc=Slay Darius Cronley.
+ach019Desc=击杀德莱厄斯·克隆利。
 
 ach020Title=以血还血
-ach020Desc=Slay Karroz, Sigil of Ch'thon.
+ach020Desc=击杀冥神魔像卡洛斯。
 
 ach021Title=凯恩的梦魇 The Bane of Cairn
-ach021Desc=Slay ???
+ach021Desc=击杀 ???
 
 ach022Title=净化战火平原 Cleansing the Conflagration
-ach022Desc=Slay the Herald of Flame in the Conflagration.
+ach022Desc=击杀战火平原的烈焰先驱。
 
 ach023Title=不惧火焰 Not Afraid of a Little Fire
-ach023Desc=Slay the Herald of Flame in the Conflagration on Veteran Mode.
+ach023Desc=在老兵难度击杀战火平原的烈焰先驱。
 
 ach024Title=屠杀格特沃姆
-ach024Desc=Slay Gutworm in Smuggler's Basin.
+ach024Desc=击杀在走私者盆地的格特沃姆。
 
 ach025Title=你很有种 You've Got Guts
-ach025Desc=Slay Gutworm in Smuggler's Basin on Veteran Mode.
+ach025Desc=在老兵模式击杀在走私者盆地的格特沃姆。
 
-ach026Title=Tinkering is Her Speciality
-ach026Desc=Rescue Darlet in Burrwitch.
+ach026Title=修补是她的专长 Tinkering is Her Speciality
+ach026Desc=在伯尔维治解救达莱特。
 
 ach027Title=以曼海尔的锤骨之名 By the Malleum Menhir
-ach027Desc=Enlist the help of a Blacksmith.
+ach027Desc=争取到铁匠的帮助。
 
 ach028Title=汤没你的份儿
-ach028Desc=Rescue Ulgrim in the Burrwitch Outskirts.
+ach028Desc=在伯尔维治郊外解救艾格瑞姆。
 
 ach029Title=学徒级工匠 Apprentice Crafter
-ach029Desc=Craft 10 items.
+ach029Desc=制作 10 物品。
 
 ach030Title=专家级工匠 Expert Crafter
-ach030Desc=Craft 100 items.
+ach030Desc=制作 100 物品。
 
 ach031Title=大师级工匠 Master Crafter
-ach031Desc=Craft 1000 items.
+ach031Desc=制作 1000 物品。
 
 ach032Title=古代遗物 Relics from the Past
-ach032Desc=Craft a Relic.
+ach032Desc=合成一个遗物。
 
-ach033Title=Transcendent Power
-ach033Desc=Craft a Transcendent Relic.
+ach033Title=卓越之能 Transcendent Power
+ach033Desc=合成一个卓越遗物。
 
-ach034Title=Mythic Power
-ach034Desc=Craft a Mythical Relic.
+ach034Title=神话之能 Mythic Power
+ach034Desc=合成一个神话遗物。
 
-ach035Title=To the Explorer Go the Spoils
-ach035Desc=Open 10 One-Shot Chests.
+ach035Title=战利品属于探索者 To the Explorer Go the Spoils
+ach035Desc=打开10个一次性箱子。
 
-ach036Title=True Devotion
-ach036Desc=Restore 10 Devotion Shrines.
+ach036Title=真正奉献
+ach036Desc=修复10个奉献圣坛。
 
 ach037Title=幸存者 Survivor
-ach037Desc=Reach level 10.
+ach037Desc=达到等级 10。
 
-ach038Title=Champion
-ach038Desc=Reach level 35.
+ach038Title=斗士 Champion
+ach038Desc=达到等级 35。
 
 ach039Title=英雄 Hero
-ach039Desc=Reach level 50.
+ach039Desc=达到等级 50。
 
 ach040Title=传奇 Legend
-ach040Desc=Reach level 75.
+ach040Desc=达到等级 75。
 
 ach041Title=不朽传奇 Immortal Legend
-ach041Desc=Reach level 75 on Hardcore Mode.
+ach041Desc=在硬核模式达到等级 75。
 
 ach042Title=世界保卫者
-ach042Desc=Complete the Game.
+ach042Desc=通关游戏。
 
-ach043Title=Champion of Cairn
-ach043Desc=Complete the Game on Elite Difficulty.
+ach043Title=凯恩世界的捍卫者 Champion of Cairn
+ach043Desc=精英难度通关游戏。
 
 ach044Title=救世主
-ach044Desc=Complete the Game on Ultimate Difficulty.
+ach044Desc=极限难度通关游戏。
 
 ach045Title=不朽的幸存者 Immportal Savior
-ach045Desc=Complete the Game on Ultimate Difficulty, Hardcore Mode.
+ach045Desc=极限难度硬核模式通关游戏。
 
-ach046Title=Difficult Decisions
+ach046Title=艰难决断 Difficult Decisions
 ach046Desc=???
 
-ach047Title=No Exceptions
-ach047Desc=Slay ???
+ach047Title=一视同仁 No Exceptions
+ach047Desc=击杀 ???
 
-ach048Title=I Was Not Expecting You, Human
-ach048Desc=Slay Warden Krieg on Veteran mode with a character under level 11.
+ach048Title=我没有想到会是你，人类 I Was Not Expecting You, Human
+ach048Desc=在老兵模式用低于11级的角色击杀典狱长克里格。
 
-ach049Title=Securing Burrwitch
-ach049Desc=Secure the Burrwitch Riftgate on Veteran Mode.
+ach049Title=保卫伯尔维治 Securing Burrwitch
+ach049Desc=在老兵模式保卫伯尔维治传送门。
 
-ach050Title=Hidden in the Flooded Passage
-ach050Desc=Discover what is concealed behind the collapsed rocks in the Flooded Passage.
+ach050Title=藏匿于洪水通道 Hidden in the Flooded Passage
+ach050Desc=找出洪水通道的倒塌岩石后藏匿着什么。
 
 ach051Title=克隆利的秘密
-ach051Desc=Uncover Darius Cronley's Secret.
+ach051Desc=掩饰德莱厄斯·克隆利的秘密。
 
 ach052Title=隐藏的宝藏 Hidden Wealth
-ach052Desc=Find the buried treasure in the farmlands near Homestead.
+ach052Desc=在霍姆斯特德附近的农田里找到埋藏的宝藏。
 
-ach053Title=In the Depths, He Lived Forgotten
-ach053Desc=Slay ???
+ach053Title=在深处，他被遗忘般的活着 In the Depths, He Lived Forgotten
+ach053Desc=击杀 ???
 
-ach054Title=The Death Room
+ach054Title=死亡空间 The Death Room
 ach054Desc=???

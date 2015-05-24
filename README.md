@@ -832,7 +832,7 @@ sq_zealots06_apledgetocairn.txt
 
 sq_zealots07_kymonsecret.txt
 
-tags_achievements.txt	
+tags_achievements.txt 完成
 
 tags_creatures.txt 完成
 

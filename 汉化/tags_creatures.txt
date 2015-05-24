@@ -200,7 +200,7 @@ tagHeroGhostH04=风暴尖啸 ~ 带电
 tagHeroGhostH05=奥尔德拉康领主 ~ 迅捷
 tagHeroGhostH06=虚化之魂 ~ 腐化
 
-tagGhostBoss01=堕落之魂领主 拉德里斯男爵
+tagGhostBoss01=堕落之魂领主 瓦德里斯男爵
 tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔

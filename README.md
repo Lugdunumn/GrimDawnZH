@@ -17,13 +17,13 @@ beta24版汉化正在进行中
 
 ```html
 
-bq_bl01.txt	
+bq_bl01.txt	完成
 
-bq_bl02.txt	
+bq_bl02.txt	完成
 
-bq_bl03.txt	
+bq_bl03.txt	完成
 
-bq_bl04.txt	
+bq_bl04.txt	完成
 
 bq_bl05.txt	
 

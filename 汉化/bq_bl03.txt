@@ -1,9 +1,9 @@
-Bounties
-Bounty: Devourers
-Bounty
-The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金任务
+赏金: 吞噬者
+赏金
+军团请求协助对抗虚空生物。{^n}{^n}有人见到冥灵吞噬者在血森林中横冲直撞，用它们凶猛的钳子将我们的人撕碎。 它们的存在正在动摇军心所以需要被消灭。{^n}{^n}任何的协助都将回报以军团商店的物资。
 
-Slay Chthonian Devourers
+杀死 冥灵吞噬者
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

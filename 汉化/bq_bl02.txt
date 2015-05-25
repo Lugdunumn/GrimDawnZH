@@ -1,9 +1,9 @@
 赏金任务
 赏金: 末日预言者
 赏金
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
+军团请求援助以对抗阴险的冥神教。{^n}{^n}血誓末日预言者正在学森林跨过我们的防线在肆虐破坏。他们被所有的军团特使都认定为是主要的目标。{^n}{^n}任何的协助都将回报以铁币。
 
-杀掉血誓 末日预言者
+杀死 血誓 末日预言者
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

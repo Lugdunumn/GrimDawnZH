@@ -8,19 +8,19 @@ achGroupWorld=世界
 # Achievements
 
 ach001Title=怪物屠杀者 Monster Slayer
-ach001Desc=消灭 15 只精英怪物 (地图标记为星形)。
+ach001Desc=消灭 15 只精英怪物 (带有星形标记)。
 
 ach002Title=史诗屠杀者 Heroic Slayer
-ach002Desc=消灭 30 只精英怪物 (地图标记为星形)。
+ach002Desc=消灭 30 只精英怪物 (带有星形标记)。
 
 ach003Title=传奇屠杀者 Legendary Slayer
-ach003Desc=消灭 100 只精英怪物 (地图标记为星形)。
+ach003Desc=消灭 100 只精英怪物 (带有星形标记)。
 
 ach004Title=万里挑一 One in a Million
-ach004Desc=在精英或者极限难度击杀一个极度稀有级的史诗怪物(red name)。
+ach004Desc=在精英或者极限难度击杀一个极度稀有级的史诗怪物(名称为红色)。
 
 ach005Title=万里挑八 Eight in a Million
-ach005Desc=在精英或者极限难度击杀所有极度稀有级的史诗怪物(red name)。
+ach005Desc=在精英或者极限难度击杀所有极度稀有级的史诗怪物(名称为红色)。
 
 ach006Title=净化世界 Cleansing the World
 ach006Desc=清除凯恩世界的100000只怪物。
@@ -71,10 +71,10 @@ ach021Title=凯恩的梦魇 The Bane of Cairn
 ach021Desc=击杀 ???
 
 ach022Title=净化战火平原 Cleansing the Conflagration
-ach022Desc=击杀战火平原的烈焰先驱。
+ach022Desc=击杀战火平原的烈焰使者。
 
 ach023Title=不惧火焰 Not Afraid of a Little Fire
-ach023Desc=在老兵难度击杀战火平原的烈焰先驱。
+ach023Desc=在老兵难度击杀战火平原的烈焰使者。
 
 ach024Title=屠杀格特沃姆
 ach024Desc=击杀在走私者盆地的格特沃姆。

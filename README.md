@@ -1,13 +1,13 @@
 恐怖黎明中文本地化
 ===
 
-beta24版汉化正在进行中
+beta26版汉化正在进行中
 
-所有文本均已升级至beta24，先同步或反向更新后再进行修改。
+所有文本均已升级至beta26，先同步或反向更新后再进行修改。
 
 翻译时注意使用`中文标点符号`，中文不需要留大量空格
 
-查看beta24文本变动：https://github.com/solael/GrimDawn/compare/master...beta24
+查看beta26文本变动：https://github.com/solael/GrimDawn/compare/b26
 
 发现与最新版英文原文不一致请及时通知
 

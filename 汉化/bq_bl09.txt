@@ -1,11 +1,11 @@
-Bounties
-Bounty: Sicrix
+赏金任务
+赏金：掠行的西克里斯
 Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脉深渊. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay Sicrix
+杀死掠行的西克里斯
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

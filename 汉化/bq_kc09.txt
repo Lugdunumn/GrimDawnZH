@@ -1,11 +1,11 @@
-Bounties
-Bounty: Vom'Zul
+赏金任务
+赏金：沃姆·祖尔
 Bounty
-Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}Deep within the chthonic void, through a rift torn between our world and theirs, there dwells a cruel creature by the name Vom'Zul. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}In the 血森林, through a rift torn between our world and theirs, there is a plane of existence we call the Ashen Waste. There dwells a cruel creature by the name 沃姆·祖尔. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 
 
 
-Slay Vom'Zul
+杀了沃姆·祖尔
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

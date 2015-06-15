@@ -1,15 +1,15 @@
-Bounties
-Bounty: The Raven
+赏金任务
+赏金：The Raven
 Bounty
-For the first time since evading capture back before the Grim Dawn, 乌鸦 波拉 has been spotted out in the Arkovian Foothills. Last known location: Staunton Mines.{^n}{^n}Many in Burrwitch have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
+For the first time since evading capture back before 恐怖黎明, 乌鸦 波拉 has been spotted out in 安克维亚山麓. Last known location: Staunton Mines.{^n}{^n}Many in 伯尔维治 have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 
 
 
-Slay 乌鸦 波拉
+杀了乌鸦 波拉
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

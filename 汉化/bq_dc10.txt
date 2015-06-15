@@ -1,15 +1,15 @@
-Bounties
-Bounty: Romanov
+赏金任务
+赏金：Igor
 Bounty
-Romanov was a brutal man with more muscle than brains back before the Grim Dawn.{^n}{^n}Now rumor is that he's accepted Cronley's Aether crystals to become even stronger. If such a beast of a man ever decides to attack Devil's Crossing, he could cause some serious harm.{^n}{^n}Anyone that tracks down Romanov and puts him down will be justly rewarded with some of our scavenged materials.
+"格斗士" 伊戈尔  was a brutal man with more muscle than brains back before 恐怖黎明.{^n}{^n}Now rumor is that he's accepted Cronley's 虚化水晶 to become even stronger. If such a beast of a man ever decides to attack 恶魔十字, he could cause some serious harm.{^n}{^n}Anyone that tracks down the Brawler and puts him down will be justly rewarded with some of our scavenged materials.
 
 
 
-Slay 压碎者 罗曼诺夫
+杀了"格斗士" 伊戈尔 
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

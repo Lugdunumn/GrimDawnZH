@@ -1,9 +1,9 @@
-Bounties
-Bounty: The Bloodlord
+赏金任务
+赏金：血领主
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at the Necropolis. Bloodlord Thalonis is part of the elite actively trying to resurrect a Chthonian demigod. We cannot allow this to happen. Bloodlord Thalonis must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at 古代墓地. 血领主 泰隆尼斯 is part of the elite actively trying to resurrect a Chthonian demigod. We cannot allow this to happen. 血领主 泰隆尼斯 must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
-Slay Bloodlord Thalonis
+杀了血领主 泰隆尼斯
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

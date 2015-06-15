@@ -1,11 +1,10 @@
-Bounties
-Bounty: The Shattered Soul
+赏金任务
+赏金：Ruination
 Bounty
-The work of the Chosen is never finished.{^n}{^n}We have made discovery of an underground system of tunnels underneath Old Arkovia known as the Undercity. It is a cursed place filled with undying abominations.{^n}{^n}On its lowest level, there dwells the undying vessel of a corrupt Arkovian soul, Kilrian. This fiend's very existence corrupts the land. Gather its shattered spirit and bring it here so that it can be cleansed by Empyrion's flame and the land can be allowed to heal.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive this ordeal. Travel with Kymon's blessing.
+Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
 
-Collect Kilrian's Shattered Soul
-Deliver Kilrian's Shattered Soul to the Kymon's Chosen Bounty Table
-
+Craft a Ruination Relic
+Deliver Ruination to the Kymon's Chosen Bounty Table
 
 
 

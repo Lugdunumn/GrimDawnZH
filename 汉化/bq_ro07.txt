@@ -1,5 +1,5 @@
-Bounties
-Bounty: Cronley's Forges
+赏金任务
+赏金：Cronley's Forges
 Bounty
 Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
 

@@ -1,11 +1,11 @@
 Order of Death's Vigil
 Worthy of the Order
-Collect Remains
-Master Varuuk of the Order of Death's Vigil has instructed you in your first task as an initiate. One of the groups most prominent members, Master Malkadarr, was recently slain by Chthonians in the void rift that opened near Sorrow's Bastion. Malkadarr's duties are not yet concluded. You are to enter the rift and retrieve the fallen necromancer's remains. Bring them back to Master Varuuk at Sorrow's Bastion.
+收集Remains
+Master Varuuk of the Order of Death's Vigil has instructed you in your first task as an initiate. One of the groups most prominent members, Master Malkadarr, was recently slain by the Cult out in the 血森林. Malkadarr's duties are not yet concluded. You are to search the cult's camps in the 血森林 and retrieve the fallen necromancer's remains. Bring them back to Master Varuuk at 悲伤城堡.
 
 
 Gather Malkadarr's Remains
-Bring the Remains to Master Varuuk at Sorrow's Bastion
+Bring the Remains to Master Varuuk at 悲伤城堡
 
 
 

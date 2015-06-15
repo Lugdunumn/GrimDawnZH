@@ -1,9 +1,9 @@
 赏金任务
-Bounty: The Tainted Vizier
+赏金：The Tainted Vizier
 Bounty
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
+The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the 腐坏田地 has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
 
-Slay Vizier Anoxis
+杀死领袖阿诺克斯
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

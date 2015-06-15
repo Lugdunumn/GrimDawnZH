@@ -1,9 +1,9 @@
-Bounties
-Bounty: Zarthuzellan
+赏金任务
+赏金：Zarthuzellan
 Bounty
-The Arkovian Grand Priest, Zarthuzellan, came up often in the Rover text as a charismatic and manipulative spiritual leader of Arkovia.{^n}{^n}His tortured soul now roams within the Steps of Torment, forever bound to the land he helped condemn to damnation. But even in death, he gathers followers at his cursed altar.{^n}{^n}This twisted practice must be stopped. We have set aside iron bits for anyone brave enough to enter the Steps of Torment.
+The Arkovian Grand Priest, Zarthuzellan, came up often in the Rover text as a charismatic and manipulative spiritual leader of Arkovia.{^n}{^n}His tortured soul now roams within 苦痛阶梯, forever bound to the land he helped condemn to damnation. But even in death, he gathers followers at his cursed altar.{^n}{^n}This twisted practice must be stopped. We have set aside iron bits for anyone brave enough to enter 苦痛阶梯.
 
-Slay Grand Priest Zarthuzellan
+杀了Grand Priest Zarthuzellan
 
 回报任务
 You have completed the task for the Rovers and should return to the Bounty Table for your reward.

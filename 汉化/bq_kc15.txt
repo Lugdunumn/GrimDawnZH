@@ -1,10 +1,10 @@
-Bounties
-Bounty: Chthonic Seal
+赏金任务
+赏金：冥灵魔印
 Bounty
 The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 
-Collect Chthonic Seal
-Deliver the Chthonic Seal to the Kymon's Chosen Bounty Table
+收集冥灵魔印
+Deliver the 冥灵魔印 to the Kymon's Chosen Bounty Table
 
 
 

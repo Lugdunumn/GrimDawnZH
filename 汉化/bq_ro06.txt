@@ -1,11 +1,11 @@
-Bounties
-Bounty: The Oligarchs
+赏金任务
+赏金：The Oligarchs
 Bounty
-The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam the Undercity of Old Arkovia, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
+The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam 古安克维亚地下城, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
 
-Slay Nomos Dred
-Slay Laudos Vagra
-Slay Rhovena Kur
+杀了Nomos Dred
+杀了Laudos Vagra
+杀了Rhovena Kur
 
 回报任务
 You have completed the task for the Rovers and should return to the Bounty Table for your reward.

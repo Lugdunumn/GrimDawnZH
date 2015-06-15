@@ -1,9 +1,9 @@
-Bounties
-Bounty: Corpse-eaters
+赏金任务
+赏金：Corpse-eaters
 Bounty
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 
-Slay Ghoul Corpse-eaters
+杀了Ghoul Corpse-eaters
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

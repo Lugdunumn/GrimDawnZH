@@ -1,9 +1,9 @@
-Bounties
-Bounty: Bane'Gargoth
+赏金任务
+赏金：梦魇 加戈斯
 Bounty
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
+The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near 悲伤城堡. There, an obsidian monster known as 梦魇 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
 
-Slay Bane'Gargoth
+杀了梦魇 加戈斯
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

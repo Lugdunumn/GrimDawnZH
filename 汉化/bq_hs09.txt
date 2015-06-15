@@ -1,15 +1,15 @@
-Bounties
-Bounty: The Marrowdrinker
+赏金任务
+赏金：吸髓者
 Bounty
-Terror tales have been told of trolls breaking into homes in the night and stealing young virgins, but no tales were as horrid as that of Bogloth the Marrowdrinker.{^n}{^n}Bogloth would not bother with just virgins, he would leave entire households in shambles, the inhabitants slain and their bones ripped from their bodies.{^n}{^n}There have been recent sightings of Bogloth near Smuggler's Pass, likely his hideout. Put that monster down and we will see that you are rewarded with some of our scavenged supplies.
+Terror tales have been told of trolls breaking into homes in the night and stealing young virgins, but no tales were as horrid as that of 吸髓者 鲍格罗斯.{^n}{^n}鲍格罗斯 would not bother with just virgins, he would leave entire households in shambles, the inhabitants slain and their bones ripped from their bodies.{^n}{^n}There have been recent sightings of 鲍格罗斯 near 走私者的通道, likely his hideout. Put that monster down and we will see that you are rewarded with some of our scavenged supplies.
 
 
 
-Slay Bogloth
+杀了鲍格罗斯
 
 回报任务
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

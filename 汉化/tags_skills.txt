@@ -3,7 +3,7 @@ tagSkillClassName02=爆破者
 tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
 tagSkillClassName05=奥术师
-tagSkillClassName06=?
+tagSkillClassName06=萨满
 tagSkillClassName07=?
 tagSkillClassName08=?
 tagSkillClassName09=?
@@ -12,29 +12,29 @@ tagSkillClassName0102=突击者
 tagSkillClassName0103=巫师之刃
 tagSkillClassName0104=剑圣
 tagSkillClassName0105=战法师
-tagSkillClassName0106=
+tagSkillClassName0106=守卫
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
 tagSkillClassName0203=烈焰术士
 tagSkillClassName0204=破坏者
 tagSkillClassName0205=魔法师
-tagSkillClassName0206=
+tagSkillClassName0206=元素使者
 tagSkillClassName0207=
 tagSkillClassName0208=
 tagSkillClassName0209=
 tagSkillClassName0304=魔法猎人
 tagSkillClassName0305=术士
-tagSkillClassName0306=
+tagSkillClassName0306=咒术师
 tagSkillClassName0307=
 tagSkillClassName0308=
 tagSkillClassName0309=
 tagSkillClassName0405=破法者
-tagSkillClassName0406=
+tagSkillClassName0406=幻术师
 tagSkillClassName0407=
 tagSkillClassName0408=
 tagSkillClassName0409=
-tagSkillClassName0506=
+tagSkillClassName0506=德鲁伊
 tagSkillClassName0507=
 tagSkillClassName0508=
 tagSkillClassName0509=
@@ -57,7 +57,7 @@ tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武装�
 
 tagSkillClassDescription05=对于奥术师来说，魔法的显现根本就不是什么秘密，也不是什么神的旨意，而是一门需要研究的学问。这种对知识的渴求让所有奥术师都渴望发明新法术，然后用自己的名字为之命名。秘术师随意糅合虚灵和各种元素的能量，创造出了许多能毁灭一支小型军队的法术。不过，使用了如此强大的力量，防守起来自是力不从心。
 
-tagSkillClassDescription06=
+tagSkillClassDescription06=来自于尚未得以开发的北方大地，萨满们曾是他们人民的守护者和精神领袖。掌握着与自然和他们的主神莫格卓根之间的和谐之道，萨满们能够运用大自然可怕的力量对抗他们的敌人，他们甚至可以召唤野兽前来协助。萨满擅长使用威力十足的双手近战武器，但借助他们的原始魔力，他们也能轻松地驾驭其他的兵器。
 
 tagSkillClassDescription07=
 
@@ -105,7 +105,7 @@ tagClass01SkillName02D=震地 Tremor
 tagClass01SkillDescription02D=以曼海尔的意志为名，使用强有力的双手武器撕裂大地。对敌人施放出具有毁灭力量的能量波。^o需要一把双手近战武器。
 
 tagClass01SkillName03A=闪击 Blitz
-tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。
+tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。^o需要一把近战武器。当装备盾牌时，盾牌的伤害也将猛击目标。
 tagClass01SkillName03B=攻其不备 Blindside
 tagClass01SkillDescription03B=你的攻击突然而猛烈，使敌人失去平衡，降低作战能力。
 
@@ -400,7 +400,7 @@ tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀�
 tagClass04SkillName05D=死亡旋风 Whirling Death
 tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺，敌人即便存活也会像遭受千刀万剐一般血流不止。^o这是一项近战双持技能。
 tagClass04SkillName05E=尼达拉的隐手 Nidalla's Hidden Hand
-tagClass04SkillDescription05E=有争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与死亡旋风二者结合，这近乎残忍般的强大技巧使得她战胜了众多敌手。^o这项技能将改变死亡旋风。
+tagClass04SkillDescription05E=有争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合，这近乎残忍般的强大技巧使得她战胜了众多敌手。^o这项技能将改变贝尔戈蒂安的切割，阿玛拉斯塔的瞬影和死亡旋风。
 tagClass04SkillName05F=处决 Execution
 tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此一击侥幸存活者，也不会再苟延残喘太久。^o这是一项近战双持技能。
 
@@ -553,12 +553,105 @@ tagClass05SkillName15C=无尽之力 Unlimited Power
 tagClass05SkillDescription15C=许多奥术师都在对无尽能量的追寻中做出了很多牺牲。其中有一些人无视古老的告诫，将他们自己完全浸淫在虚化力量之中。正是这些奥术师在渺小的人类心中留下了难以磨灭的恐惧。
 
 tagClass05SkillName16A=奥莱克西拉的急速冻结 Olexra's Flash Freeze
-tagClass05SkillDescription16A=一位政治斗争的受害者，奥莱克西拉被判处进入黑色军团中服役。于是她之前研究奥术的学院生涯变成了在战场上艰难的求生之路。奥莱克西拉很快把她的学识付诸实际，创造出了一种能将显著范围内的敌人急速冻结的法术。
+tagClass05SkillDescription16A=一位政治斗争的受害者，奥莱克西拉被判处进入黑色军团中服役。于是她之前研究奥术的学院生涯变成了在战场上艰难的求生之路。奥莱克西拉很快把她的学识付诸实际，创造出了一种能将显著范围内的敌人急速冻结的法术。^o这项技能将在持续时间内冻结敌人，具有冻结抵抗属性的敌人将会减少冻结的持续时间。
 tagClass05SkillName16B=绝对零度 Absolute Zero
 tagClass05SkillDescription16B=完全吸干周围空气中的热量，使所有接触到的敌人减速和衰弱，即使是在最初的冻结效果已经消失之后。
 
 
 #Class06
+tagClass06SkillName00=萨满
+tagClass06SkillDescription00=与自然的原始力量和谐共处。
+
+tagClass06SkillName01A=野性 Savagery
+tagClass06SkillDescription01A=The heat of battle rouses savage animal impulses within you that heighten your aggression and empower you with nature's fury. When used as your default weapon attack, Savagery increases the intensity of your attacks with every strike. ^oHigher ranks of this skill increase the maximum charge level. The displayed values represent the skill when fully charged.
+tagClass06SkillName01B=雄猪之韧 Tenacity of the Boar
+tagClass06SkillDescription01B=Embrace the aspect of the boar, becoming a ferocious and unstoppable foe in the wake of battle.
+tagClass06SkillName01C=风暴之触 Storm Touched
+tagClass06SkillDescription01C=Calling out to the heavens, you infuse your attacks with the fury of a thunderstorm.
+tagClass06SkillName01D=熊罴之力 Might of the Bear
+tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee weapon.
+
+tagClass06SkillName02A=原始打击 Primal Strike
+tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee weapon.
+tagClass06SkillName02B=风暴潮 Storm Surge
+tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels and leaving them helpless against further onslaught.
+tagClass06SkillName02C=激流 Torrent
+tagClass06SkillDescription02C=Torrential force cascades from your weapon, electrocuting your target and leaping to nearby foes.
+tagClass06SkillName02D=雷电打击 Thunderous Strike
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries.
+
+tagClass06SkillName03A=野性饥渴 Feral Hunger
+tagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
+tagClass06SkillName03B=血之气息 Taste for Blood
+tagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
+
+tagClass06SkillName04A=暴风 Squall
+tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a lightning storm.
+tagClass06SkillName04B=狂风暴雨 Raging Tempest
+tagClass06SkillDescription04B=The Squall rages with tumultuous power, electrocuting foes even after they leave its vicinity.
+tagClass06SkillName04C=风暴漩涡 Maelstrom
+tagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
+
+tagClass06SkillName05A=自然的恩赐 Nature's Boon
+tagClass06SkillDescription05A=Call upon the beast god, Mogdrogen, to bestow nature's blessing upon you and your nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagClass06SkillName05B=坚韧树皮 Bark Skin
+tagClass06SkillDescription05B=Empower Nature's Boon with the aspect of ancient trees, solemn ageless titans that have outlived civilizations, bestowing additional protection upon those under Mogdrogen's blessing.
+tagClass06SkillName05C=野性之心 Heart of the Wild
+tagClass06SkillDescription05C=The wild spirit of nature flows through your veins, rapidly sealing wounds and cleansing poisons.
+tagClass06SkillName05D=岩石之心 Heart of Stone
+tagClass06SkillDescription05D=Embracing the nature of the earth upon which you stand, you no longer regenerate health in combat, but your skin becomes tough as stone. ^oThis effect is extended to your allies.
+
+tagClass06SkillName06A=召唤荆棘兽 Summon Briarthorn
+tagClass06SkillDescription06A=荆棘恐兽 are tenacious beasts, born of brambly woods and wild magic. Skilled Shamans can call upon these creatures to aid them in battle. ^oOnly one Briarthorn can be summoned at any one time.
+tagClass06SkillName06B=岩石皮肤 Stonebark
+tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
+tagClass06SkillName06C=撕裂大地 Ground Slam
+tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, crushing any foe unlucky enough to be within reach.
+tagClass06SkillName06D=激励咆哮 Emboldening Roar
+tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldening them when fighting is at its thickest.
+tagClass06SkillName06E=荆棘之爪 Thorned Claws
+tagClass06SkillDescription06E=基础攻击。
+
+tagClass06SkillName07A=风暴图腾 Storm Totem
+tagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+
+tagClass06SkillName08A=风暴契约 Storm Pact
+tagClass06SkillDescription08A=Unleash the ultimate wrath of nature as the air around you ripples with static energy and nearby foes are randomly struck down by the heavens themselves.
+
+tagClass06SkillName09A=召唤原始之魂 Conjure Primal Spirit
+tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle.
+tagClass06SkillName09B_Pet=毒尾打击 Tail Strike
+tagClass06SkillDescription09B_Pet=Strike the target with a poisonous tail.
+tagClass06SkillName009C=爪牙攻击 Claw and Fang Attacks
+tagClass06SkillDescription09C=基础攻击。
+
+tagClass06SkillName10A=蛮力 Brute Force
+tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage and close-quarters combat rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee weapon.
+tagClass06SkillName11A=萨满神教 Shamanism
+tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
+tagClass06SkillName12A=自然之怒 Nature's Wrath
+tagClass06SkillDescription12A=Become as one with the primal forces of nature, tearing your foes apart with tooth, claw and lightning.
+tagClass06SkillName13A=原始羁绊 Primal Bond
+tagClass06SkillDescription13A=Strengthen your bond to the beasts that dwell within the wilds.
+
+tagClass06SkillName14A=震荡大地 Upheaval
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
+
+tagClass06SkillName15A=吞噬虫群 Devouring Swarm
+tagClass06SkillDescription15A=Conjure a swarm of bloodthirsty insects that tear apart anything they come in contact with, transferring precious lifeblood to you.
+tagClass06SkillName15B=致残虫群 Crippling Swarm
+tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
+tagClass06SkillName15C=贪食虫群 Voracious Swarm
+tagClass06SkillDescription15C=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a more voracious swarm which hungrily tears apart anything it comes in contact with.
+
+
+xtagClass06SkillName13A=莫格卓根之怒 Wrath of Mogdrogen
+xtagClass06SkillDescription13A=Mogdrogen is often depicted as a benevolent deity who bestows protective boons upon his followers, but the wrath of the beast god can be terrifying to behold when his sanctum is threatened.
+
+xtagClass06SkillName08A=召唤风魔 Conjure Wind Devil
+xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
+xtagClass06SkillName08B_Pet=呼啸狂风 Howling Wind
+xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
 
 
 #Class07
@@ -777,7 +870,7 @@ tagItemSkillB041Name=活力波动 Vitality Wave
 tagItemSkillB041Desc=一股窃取生命力的能量向前奔涌，吸取敌人宝贵的生命力。
 
 tagItemSkillB042Name=活力弹幕 Vitality Barrage
-tagItemSkillB042Desc=从你的身上爆发出吸取生命力的弹幕，使接触的敌人流失宝贵的生命力。
+tagItemSkillB042Desc=从你的身上爆发出吸取生命力的弹幕，使接触到的敌人流失宝贵的生命力。
 
 tagItemSkillB043Name=回春 Rejuvenation
 tagItemSkillB043Desc=一阵平静安抚你的全身，增强身体的自愈能力。
@@ -1065,6 +1158,9 @@ tagItemSkillC090Desc=一个能导致传染瘟疫在敌人间传播的憎恶诅�
 
 tagItemSkillC091Name=复制飞弹 Replicating Missile
 tagItemSkillC091Desc=一项复制技能，当打击敌人时复制释放。
+
+tagItemSkillC092Name=风暴潮 Storm Surge
+tagItemSkillC092Desc=在危急关头，你将从天堂召唤出毁灭性的雷电之力加诸于身。
 
 tagItemSkillM001Name=生命精华 Life's Essence
 tagItemSkillM001Desc=修复创伤使疲惫的英雄恢复生气。

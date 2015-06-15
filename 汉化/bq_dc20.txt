@@ -1,14 +1,14 @@
-Bounties
-Bounty: Warden's Pets
+赏金任务
+赏金：典狱长的走狗
 Bounty
-Gethrand and Zanbrandt were two scientists that disappeared around the time of the Grim Dawn. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to Devil's Crossing. Search the Warden's Lab and Quarters and eliminate the reanimators. You will be suitably rewarded with iron bits.
+盖思兰 and 赞布兰特 were two scientists that disappeared around the time of 恐怖黎明. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to 恶魔十字. Search the Warden's Lab and Quarters and eliminate the 复生者. You will be suitably rewarded with iron bits.
 
-Slay Gethrand
-Slay Zanbrandt
+杀了盖思兰
+杀了赞布兰特
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

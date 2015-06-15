@@ -1,13 +1,13 @@
-Bounties
-Bounty: Nicholas Balthazar
+赏金任务
+赏金：尼古拉斯·巴尔萨泽
 Bounty
-Nicholas Balthazar was once on death row here at Devil's Crossing for countless brutal murders.{^n}{^n}As with the other inmates, Nicholas is now free and hiding somewhere in the Arkovian Foothills, perhaps in the mines?{^n}{^n}It is time to finish his prison sentence, for good. Compensation will be offered in the form of iron bits.
+尼古拉斯·巴尔萨泽 was once on death row here at 恶魔十字 for countless brutal murders.{^n}{^n}As with the other inmates, Nicholas is now free and hiding somewhere in 安克维亚山麓, perhaps in the mines?{^n}{^n}It is time to finish his prison sentence, for good. Compensation will be offered in the form of iron bits.
 
-Slay Nicholas Balthazar
+杀了尼古拉斯·巴尔萨泽
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

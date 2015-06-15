@@ -1,10 +1,10 @@
-Bounties
-Bounty: Tainted Brains
+赏金任务
+赏金：感染大脑s
 Bounty
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three 感染大脑 Matters and I shall reward you with some of my valuables.
 
-Collect Tainted Brain Matter
-Deliver the Tainted Brain Matter to the Outcast
+收集感染大脑 Matter
+Deliver the 感染大脑 Matter to the Outcast
 
 
 

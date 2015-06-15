@@ -1,11 +1,11 @@
-Bounties
-Bounty: 饱食之胃
+赏金任务
+赏金：饱食之胃
 Bounty
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the 血森林. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay 饱食之胃
+杀死饱食之胃
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

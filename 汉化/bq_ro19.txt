@@ -1,9 +1,11 @@
-Bounties
-Bounty: Lord Executioner
+赏金任务
+赏金：格鲁姆
 Bounty
-Deep within the Steps of Torment, beyond the ancient gates, there exists a chamber. Within that chamber, the fate of an entire nation was sealed for all eternity.{^n}{^n}And within that chamber, there dwells an ancient spirit known as Alkamos, the Lord Executioner. It is said that Alkamos was there when the curse was made manifest and there he remained, forever bound to the Steps of Torment.{^n}{^n}Should he ever escape, his vengeance would be devastating. Alkamos must be banished, that is the only solution.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our rarest scavenged materials.
+A skeletal monstrosity known as 格鲁姆 has been spotted out at the Crumbling Watch in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
 
-Slay Alkamos
+
+
+杀了格鲁姆
 
 回报任务
 You have completed the task for the Rovers and should return to the Bounty Table for your reward.

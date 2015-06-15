@@ -1,13 +1,13 @@
-Bounties
-Bounty: Chamber of Souls
+赏金任务
+赏金：Cripple the Cult
 Bounty
-Within the Steps of Torment, there is room known as the Chamber of Souls. For reasons we cannot explain, the Chamber calls out to and traps wandering spirits.{^n}{^n}The Keeper of Tomes wishes to learn more about this phenomenon. Enter the Steps of Torment, survive the ordeals of this Chamber of Souls so that we may learn of its secrets. The Order shall provide enchantments to aid in the journey.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
+The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near the village of Darkvale.{^n}{^n}The Keeper has demanded their lives. End them and you shall be rewarded with materials from our stores. The Order shall provide enchantments to assist in the mission.
 
-Survive the Chamber of Souls
+Kill Bolvar, the Bloodbinder
+Kill Zaria, the Carver
 
 回报任务
 You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-
 Return to the Order of Death's Vigil Bounty Table
 
 

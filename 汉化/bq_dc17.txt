@@ -1,15 +1,15 @@
-Bounties
-Bounty: Nalloth
+赏金任务
+赏金：Nalloth
 Bounty
-A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular reanimators roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
+A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular 复生者 roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
 
 
 
-Slay Nalloth
+杀了Nalloth
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

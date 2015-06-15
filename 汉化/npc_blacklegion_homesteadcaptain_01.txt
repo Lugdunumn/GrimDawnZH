@@ -35,7 +35,7 @@ That's quite a history.
 我想问一些其他的事情。
 没事了。
 关于克里德，你能告诉我些什么？
-Inquisitor Creed worked for the Luminari, investigating and dealing with supernatural threats to the empire. It was he who first discovered the Aetherial conspiracy but, alas, not in time to stop it.{^n}{^n}Creed gathered trusted allies instead and laid the foundations for whatever human resistance exists today. The Black Legion survived the Grim Dawn largely thanks to his intervention. Since then he's been helping to coordinate our resistance and providing valuable insights into the nature of our supernatural foes.
+Inquisitor Creed worked for the Luminari, investigating and dealing with supernatural threats to the empire. It was he who first discovered the Aetherial conspiracy but, alas, not in time to stop it.{^n}{^n}Creed gathered trusted allies instead and laid the foundations for whatever human resistance exists today. The Black Legion survived 恐怖黎明 largely thanks to his intervention. Since then he's been helping to coordinate our resistance and providing valuable insights into the nature of our supernatural foes.
 他怎么知道那么多关于虚灵的事？
 没人是虚灵专家，他也不例外。在恐怖黎明发生之前，我们对它们一无所知。这也是它们如此成功地侵入并击败帝国的原因之一。{^n}{^n}不过在幸存下来的人里面，克里德是恐怖黎明之前就跟虚灵打过交道的人员之一。显然，他是在光明会的宝库之中找到了关于虚灵的古籍。我们每天都会学到关于它们的新东西，可是它们还是能不断刷新我们的认知。我们仍然不知道它们到底来自何方……
 我还有一个问题。
@@ -56,7 +56,7 @@ I've already informed Creed of your recent actions. He is most eager to speak wi
 我这就去和克里德谈谈。
 我一会儿再处理这件事。
 审判官是谁？
-Inquisitor Creed is one of Erulan's chief exterminators of the occult and the strange. Incidentally, he was outside the capital during the fall as he was tracking down just how deep the Aetherial corruption ran.{^n}{^n}Creed has played a critical role in the Legion's activities after the Grim Dawn, coordinating assaults and providing insight on the enemy.
+Inquisitor Creed is one of Erulan's chief exterminators of the occult and the strange. Incidentally, he was outside the capital during the fall as he was tracking down just how deep the Aetherial corruption ran.{^n}{^n}Creed has played a critical role in the Legion's activities after 恐怖黎明, coordinating assaults and providing insight on the enemy.
 我这就去和克里德谈谈。
 I will speak to Creed another time.
 他怎么知道那么多关于虚灵的事？
@@ -70,28 +70,35 @@ Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's
 
 你追踪到目标了吗？
 我该去哪找卡若兹？
-We suspect that Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
+卡若兹已经死了。
+Good, we can finally reconvene with our forces to the north.{^n}{^n}Did you find anything on him that may help us uncover the reasons behind the cult's activities?
+Actually, there was a tome.
+Well, bring it here then. Any bit of intel will be tremendously useful.
+I'll be right back.
+Actually...I'll be right back.
+Have you tracked down the target?
+We suspect that Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of 悲伤城堡.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
 我会小心的。
 还没有。
-When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress once used to protect the trade routes leading through the Alpine Valley.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as the Conflagration, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
+When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress to the far north once used to protect the trade routes leading through the Asterkarn Mountains.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as 战火平原, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
 It will be done.
 I won't do this.
 I have already killed Karroz. I found some disturbing information on him.
 
-I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in the Blood Grove.
+I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in the 血森林.
 The cult must be stopped.
 I could not agree more. We've been cut off from Fort Ikon long enough.
 What's our next step?
 
 别再浪费时间了，我们等得越久，邪教徒就会召唤越多的冥灵。
 Where is the Cult of Ch'thon entrenched?
-You will have to venture out beyond Sorrow's Bastion, to the north of Homestead, and search the cultist camps. Rescue any survivors before the Cult of Ch'thon can use them as sacrifices.
+You will have to venture out beyond 悲伤城堡, to the north of Homestead, and search the cultist camps. Rescue any survivors before the Cult of Ch'thon can use them as sacrifices.
 我这就出发。
 我这就出发。
 I was going to have you interrupt the cult's supply of sacrifices, but with Lisandra's recent return, I'm beginning to think that you can be in several places at once.{^n}{^n}Good work there. We cannot afford to have the cult summon additional reinforcements from the void. The next priority though, that's a bit tougher.
 What is it?
 
-My scouts have reported back from the lands to the north. The situation is far worse than I ever imagined. The Cult of Ch'thon is on our doorstep, and in great numbers. Worse still, they've been capturing farmers, travelers, even my own soldiers and using them for their blood rituals.{^n}{^n}We cannot risk the cult bolstering their forces with Chthonic beings. I need you to venture out beyond Sorrow's Bastion to the north and search their camps. Rescue any survivors before the cultists can use them as sacrifices.
+My scouts have reported back from the lands to the north. The situation is far worse than I ever imagined. The Cult of Ch'thon is on our doorstep, and in great numbers. Worse still, they've been capturing farmers, travelers, even my own soldiers and using them for their blood rituals.{^n}{^n}We cannot risk the cult bolstering their forces with Chthonic beings. I need you to venture out beyond 悲伤城堡 to the north and search their camps. Rescue any survivors before the cultists can use them as sacrifices.
 I will rescue the prisoners.
 Sorry, I cannot right now.
 What can I expect out there?
@@ -107,12 +114,12 @@ I'm eager to get started.
 We will speak of this another time.
 I hope I didn't make a mistake by sending you.
 Where are the Aetherials?
-They are in an area we are calling the Gruesome Harvest. You'll know why when you see it.{^n}{^n}You will have to go through the Infested Farms and the Rotting Croplands to the west of Homestead.
+They are in an area we are calling the Gruesome Harvest. You'll know why when you see it.{^n}{^n}You will have to go through the Infested Farms and the 腐坏田地 to the west of Homestead.
 我这就出发。
 No, you have not.
 I see you've returned. Changed your mind about serving the Legion?{^n}{^n}Or would you rather sit back and enjoy some of Ulgrim's 'fine' soup?
 Where do you need me?
-The Legion is split on two fronts. To the north, we have the Cult of Ch'thon. Nasty bastards keen on turning all of us into a puddle of blood for their rituals. I have my best men out there right now, scouting ahead. The cultists are amassing in great numbers, and I'd like to know why.{^n}{^n}There is a more pressing issue, however, and this is where you come in. Ulgrim says that you are experienced with fighting the Aetherials. That's good. You'll need all your skills for this one. Far to the west, beyond the Infested Farms and the Rotting Croplands, there is an area teeming with Aetherials that we have started calling the Gruesome Harvest. It is a fitting title as the Aetherials have been gathering corpses, animal and human alike, in order to conduct their sick resurrection techniques upon them.{^n}{^n}The barn there has been giving off a blinding aether light nonstop for the last few days and nights. That is, until today. Whatever they are working on, it must be nearly finished. And knowing the Aetherials, it's something monstrous.{^n}{^n}We can't risk the Aetherials discovering that we know about their creation. I need someone to sneak in there and destroy this abomination before it even has a chance to wreck havoc upon my people. We'll only get one shot at this, so I want someone who has experience dealing with Aetherial horrors to handle this mission.{^n}{^n}Will you be my champion?
+The Legion is split on two fronts. To the north, we have the Cult of Ch'thon. Nasty bastards keen on turning all of us into a puddle of blood for their rituals. I have my best men out there right now, scouting ahead. The cultists are amassing in great numbers, and I'd like to know why.{^n}{^n}There is a more pressing issue, however, and this is where you come in. Ulgrim says that you are experienced with fighting the Aetherials. That's good. You'll need all your skills for this one. Far to the west, beyond the Infested Farms and the 腐坏田地, there is an area teeming with Aetherials that we have started calling the Gruesome Harvest. It is a fitting title as the Aetherials have been gathering corpses, animal and human alike, in order to conduct their sick resurrection techniques upon them.{^n}{^n}The barn there has been giving off a blinding aether light nonstop for the last few days and nights. That is, until today. Whatever they are working on, it must be nearly finished. And knowing the Aetherials, it's something monstrous.{^n}{^n}We can't risk the Aetherials discovering that we know about their creation. I need someone to sneak in there and destroy this abomination before it even has a chance to wreck havoc upon my people. We'll only get one shot at this, so I want someone who has experience dealing with Aetherial horrors to handle this mission.{^n}{^n}Will you be my champion?
 I will track down this abomination.
 I am not risking my life for this.
 I've already slain the abomination.
@@ -155,7 +162,7 @@ I'd tell you that I've dealt with worse, but I'm not sure that's true. The situa
 我还有一个问题。
 听起来很不妙啊。
 What can you tell me about the Black Legion?
-What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in the Grim Dawn but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
+What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in 恐怖黎明 but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
 我还有一个问题。
 谢谢。
 那是审判官克里德吗？

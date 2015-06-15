@@ -1,11 +1,11 @@
-Bounties
-Bounty: 灰烬之爪
+赏金任务
+赏金：灰烬之爪
 Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay 灰烬之爪
+杀了灰烬之爪
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

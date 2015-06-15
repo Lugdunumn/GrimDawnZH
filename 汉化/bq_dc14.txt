@@ -1,10 +1,10 @@
-Bounties
-Bounty: Calamity
+赏金任务
+赏金：Calamity
 Bounty
-Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object for him will be rewarded with a Blood of Ch'thon from Kasparov's stores.
+Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object for him will be rewarded with a 冥神之血 from Kasparov's stores.
 
 Craft a Calamity Relic
-Deliver Calamity to the Devil's Crossing Bounty Table
+Deliver Calamity to the 恶魔十字 Bounty Table
 
 
 

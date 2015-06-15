@@ -1,11 +1,11 @@
-Bounties
-Bounty: 尸化者
+赏金任务
+赏金：尸化者
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}Corpus, a voracious ghoul, is inhibiting our efforts at the Necropolis. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}尸化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay 尸化者
+杀了尸化者
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

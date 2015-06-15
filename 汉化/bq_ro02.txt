@@ -1,9 +1,9 @@
-Bounties
-Bounty: Children of Arkovia
+赏金任务
+赏金：Children of Arkovia
 Bounty
 The harpies are a cruel punishment upon the legacy of a long-dead people. Their Oracles have somehow learned to channel sky magic.{^n}{^n}For now, this is limited to storm clouds and gusts of wind but, if their studies are allowed to continue, we dread to think of what they could do next.{^n}{^n}Anyone that slays Harpy Oracles will be rewarded with a pouch of iron bits.
 
-Slay Harpy Oracles
+杀了Harpy Oracles
 
 回报任务
 You have completed the task for the Rovers and should return to the Bounty Table for your reward.

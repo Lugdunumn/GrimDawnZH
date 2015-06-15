@@ -2,10 +2,10 @@ Kymon's Chosen
 Braving the Void
 Kill Boss
 WORDS
-Slay Bane'Gargoth
+杀了梦魇 加戈斯
 
-Turn-in
-You have slain Bane'Gargoth and passed Father Kymon's test. Speak to him back at Sorrow's Bastion of your success.
+回报任务
+You have slain 梦魇 加戈斯 and passed Father Kymon's test. Speak to him back at 悲伤城堡 of your success.
 Return to Father Kymon
 
 

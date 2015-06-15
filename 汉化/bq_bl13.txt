@@ -1,10 +1,10 @@
-Bounties
-Bounty: Aether Shard
+赏金任务
+赏金：虚化碎片
 Bounty
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
+The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an 虚化碎片 will be compensated with materials from the Legion stores.
 
-Collect Aether Shard
-Deliver the Aether Shard to the Black Legion Bounty Table
+收集虚化碎片
+Deliver the 虚化碎片 to the Black Legion Bounty Table
 
 
 

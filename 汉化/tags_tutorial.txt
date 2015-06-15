@@ -39,7 +39,7 @@ tagTutorialTip15CaptionB=快捷键：{^b}{%t0}{^w}
 tagTutorialTip15TextC=你可以通过在信息面板底部和{^y}角色窗口{^w}中的绿条来监测你的经验获取。下一级所需的经验数量显示在信息面板的底部和{^y}角色窗口{^w}中的绿条上。当经验条填满时，你将提升一个等级。
 
 tagTutorialTip16Title=角色窗口
-tagTutorialTip16TextA=使用{^y}角色窗口{^w}来装备物品，管理背包，花费属性点和查看角色属性一览。
+tagTutorialTip16TextA=使用{^y}角色窗口{^w}来装备物品，管理背包，花费属性点和查看角色属性一览。把鼠标悬停在属性上可以获得更多的信息。
 tagTutorialTip16SubtitleA=背包：
 tagTutorialTip16TextB=要装备物品，从背包中右键点击或者将它拖动到适当的装备槽。你可以将物品拖出角色窗口来扔掉它，或者点击它然后按下“{^b}{%t0}{^w}”键。
 tagTutorialTip16SubtitleB=属性点：
@@ -203,9 +203,9 @@ tagTutorialTip55SubtitleA=获取声望
 tagTutorialTip55TextB=每股势力都有其独有的诉求和目标。你可以通过查看{^y}获得声望{^w}一栏来知晓如何赢得该势力的敬意。{^N}{^N}请注意如果你的声望越显赫，那么你就要通过击杀更强大的敌人才能获得更多的声望。
 
 tagTutorialTip56Title=赏金任务
-tagTutorialTip56TextA=Bounties are an excellent way to raise your reputation with the various factions of Cairn. Bounty quests send you on tasks of varying difficulty and reward and are generally unguided. You must hunt down your prey with limited assistance.
+tagTutorialTip56TextA=赏金任务 are an excellent way to raise your reputation with the various factions of Cairn. Bounty quests send you on tasks of varying difficulty and reward and are generally unguided. You must hunt down your prey with limited assistance.
 tagTutorialTip56SubtitleA=赏金任务是可重复的
-tagTutorialTip56TextB=Unlike regular quests, Bounty quests are not limited to once per character. Each Faction will offer you up to 5 Bounties per game session, and you may discover Bounties you have done in previous sessions.{^N}{^N}
+tagTutorialTip56TextB=Unlike regular quests, Bounty quests are not limited to once per character. Each Faction will offer you up to 5 赏金任务 per game session, and you may discover 赏金任务 you have done in previous sessions.{^N}{^N}
 
 tagTutorialTip57Title=Devotion Shrines
 tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you will earn Devotion Points, which you can allocate in a unique layer of character customization.

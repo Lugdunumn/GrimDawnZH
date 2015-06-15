@@ -1,13 +1,13 @@
-Bounties
-Bounty: Reanimators
+赏金任务
+赏金：复生者
 Bounty
-Reanimators are the harbingers of the Aetherial invasion. They supply the enemy with reinforcements and spread corruption with every step.{^n}{^n}If you thin their numbers, then that should give the guards of Devil's Crossing a much needed reprieve.{^n}{^n}You will be suitably rewarded with iron bits.
+复生者 are the harbingers of the Aetherial invasion. They supply the enemy with reinforcements and spread corruption with every step.{^n}{^n}If you thin their numbers, then that should give the guards of 恶魔十字 a much needed reprieve.{^n}{^n}You will be suitably rewarded with iron bits.
 
-Kill Reanimators
+Kill 复生者
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

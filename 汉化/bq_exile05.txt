@@ -1,10 +1,10 @@
-Bounties
-Bounty: Bountiful Blood
+赏金任务
+赏金：Bountiful Blood
 Bounty
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
+I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
 
-Collect Blood of Ch'thon
-Deliver the Blood of Ch'thon to the Outcast
+收集冥神之血
+Deliver the 冥神之血 to the Outcast
 
 
 

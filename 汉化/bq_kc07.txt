@@ -1,11 +1,11 @@
-Bounties
-Bounty: Rolvuur Bonespeaker
+赏金任务
+赏金：Rolvuur Bonespeaker
 Bounty
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near Sorrow's Bastion. His name is Holvuur Bonespeaker. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 悲伤城堡. His name is 骸骨之语 霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 
 
 
-Slay Rolvuur Bonespeaker
+杀了Rolvuur Bonespeaker
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

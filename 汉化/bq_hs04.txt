@@ -1,13 +1,13 @@
-Bounties
-Bounty: Manticore Alphas
+赏金任务
+赏金：蝎尾狮领袖
 Bounty
-Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas and you will be rewarded with iron bits.
+Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
 
-Slay Manticores Alphas
+杀死蝎尾狮领袖
 
 回报任务
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

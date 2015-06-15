@@ -1,16 +1,16 @@
-Bounties
-Bounty: Master of the Pit
+赏金任务
+赏金：Master of the Pit
 Bounty
-The outlaws inhabiting the Four Hills in Old Arkovia have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, Devil's Crossing has prepared a hefty sum of iron bits as compensation for the death of Boris.
+The outlaws inhabiting the Four Hills in 古安克维亚 have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, 恶魔十字 has prepared a hefty sum of iron bits as compensation for the death of Boris.
 
 
 
-Slay Boris
+杀了Boris
 
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

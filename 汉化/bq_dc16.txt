@@ -1,10 +1,10 @@
-Bounties
-Bounty: Tainted Brain
+赏金任务
+赏金：感染大脑
 Bounty
-Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
+Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some 感染大脑 Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
 
-Collect Tainted Brain Matter
-Deliver the Tainted Brain Matter to the Devil's Crossing Bounty Table
+收集感染大脑 Matter
+Deliver the 感染大脑 Matter to the 恶魔十字 Bounty Table
 
 
 

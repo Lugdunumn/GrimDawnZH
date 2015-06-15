@@ -1,9 +1,9 @@
-Bounties
-Bounty: The Prime Matriarch
-Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
+赏金任务
+赏金: 蝎尾狮女王
+赏金
+The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
 
-Slay Mogara
+杀死莫伽拉
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

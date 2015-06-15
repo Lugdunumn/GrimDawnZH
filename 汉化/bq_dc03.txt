@@ -1,13 +1,13 @@
-Bounties
-Bounty: Cronley's Ascended
+赏金任务
+赏金：克隆利的超凡战士
 Bounty
-Darius Cronley has performed atrocious experiments upon his lackeys with the use of Aether crystals.{^n}{^n}These men now exhibit superhuman strength and speed, but at a terrible price.{^n}{^n}We cannot risk them ever setting foot in Devil's Crossing. Eliminate them.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
+Darius Cronley has performed atrocious experiments upon his lackeys with the use of 虚化水晶.{^n}{^n}These men now exhibit superhuman strength and speed, but at a terrible price.{^n}{^n}We cannot risk them ever setting foot in 恶魔十字. Eliminate them.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 
-Kill Ascended Outlaws
+杀死超凡的匪徒
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

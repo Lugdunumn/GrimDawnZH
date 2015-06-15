@@ -1,13 +1,13 @@
-Bounties
-Bounty: Cronley's Lackeys
+赏金任务
+赏金：克隆利的走狗
 Bounty
-Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after the Grim Dawn.{^n}{^n}For now they seem content to remain in the Four Hills in Old Arkovia, but should they ever lead an attack on Devil's Crossing, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
+Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after 恐怖黎明.{^n}{^n}For now they seem content to remain in the Four Hills in 古安克维亚, but should they ever lead an attack on 恶魔十字, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
 
-Kill Darius' Lieutenants
+杀死克隆利的副手们
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

@@ -1,9 +1,10 @@
-Bounties
-Bounty: Fields of Despair
+赏金任务
+赏金：Cripple the Cult
 Bounty
-Father Kymon calls to his most loyal followers for a trial by fire, a test of faith.{^n}{^n}Deep within the Bastion of Chaos, there is a place of decay and malice known as the Fields of Despair. The strong of faith are to enter the void and purge the Fields of chthonic spawn.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive. Tavel with Kymon's blessing, brave Chosen.
+The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near the village of Darkvale.{^n}{^n}It is Kymon's will that they be eliminated. Their deaths will be rewarded with materials from our stores. Go forth with Kymon's Blessing, brave Chosen.
 
-Survive the Fields of Despair
+Kill Bolvar, the Bloodbinder
+Kill Zaria, the Carver
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

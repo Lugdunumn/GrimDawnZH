@@ -57,6 +57,10 @@ tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影
 tagEnemyAetherialC01=虚灵幽魂
 
+tagAetherialHeroH01=愤怒的阿扎尔
+tagAetherialHeroH02=永恒燃烧的蒙德拉克
+tagAetherialHeroH03=英特希尔斯
+
 tagEnemyAetherialAbominationB01=虚灵恶煞
 tagEnemyAetherialAbominationC01=熔岩恐兽
 
@@ -95,6 +99,7 @@ tagBoneRatHeroH05=寒霜之爪 ~ 冰冻
 tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 
 tagBoneRatMiniBoss01=贮藏者 格兰德佩里斯
+tagBoneRatMiniBoss02=贮藏者 普斯贵尔
 
 #CreatureCelestial 天神
 
@@ -123,8 +128,8 @@ tagChthonianBoss02=混沌使者 沙祖尔
 #CreatureChthonianFiend
 
 tagEnemyVoidFiendA01=虚空恶魔
-tagEnemyVoidFiendA02=虚空异兽
-tagEnemyVoidFiendC01=虚空憎恶
+tagEnemyVoidFiendA02=虚空焚烧者
+tagEnemyVoidFiendC01=虚空地狱兽
 
 tagVoidFiendHeroH01=虚空恐惧 因努盖如
 tagVoidFiendHeroH02=黑暗预兆 海尔恩·拉兹
@@ -146,6 +151,8 @@ tagChthonianDevourerHeroH02=饥饿之胃 萨戈丁
 tagChthonianDevourerHeroH03=暴食者 纳尔·玛什
 tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖尔 
 tagChthonianDevourerHeroH04=火花巨口 沃班纳
+
+tagChthonianDevourerBossB01=巨胃 拉格·纳达
 
 #CreatureDranghoul 咆哮巨兽
 
@@ -394,11 +401,11 @@ tagHumanPossessedA02=失心秘术师
 tagHumanPossessedB01=失心元素师
 tagHumanPossessedC01=失心大法师
 
-tagHumanPossessedHeroH01=星火 阿拉瑞斯
+tagHumanPossessedHeroH01=星火 阿腊拉
 tagHumanPossessedHeroH02=虚化烈焰
 tagHumanPossessedHeroH03=霜心 卡姆拉德瑞斯
-tagHumanPossessedHeroH04=科尔普斯 ~ 伤害反弹
-tagHumanPossessedHeroH05=埃斯匹瑞斯 ~ 支援者
+tagHumanPossessedHeroH04=科普西亚 ~ 伤害反弹
+tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 
 tagHumanPossessedBoss01=风暴之火 诺维利亚
 
@@ -424,10 +431,12 @@ tagDermapteranBoss03=虫后 拉夫娜
 tagDermapteranBoss04=领袖 污染者 阿诺克斯 
 
 #CreatureInsectMosquito 蚊子
-
 tagEnemyInsectMosquitoA01=泥沼食血者
 tagEnemyInsectMosquitoB01=泥沼血恶魔
 tagEnemyInsectMosquitoC01=泥沼女王
+tagEnemyInsectMosquitoA02=溃烂之裔 食血者
+tagEnemyInsectMosquitoB02=溃烂之裔 血恶魔
+tagEnemyInsectMosquitoC02=溃烂之裔 女王
 
 tagInsectMosquitoHeroH01=放血者 弗拉多克斯
 tagInsectMosquitoHeroH02=萨拉普 ~ 带电
@@ -550,6 +559,9 @@ tagRaptorHeroH06=巴尔拉 ~ 虚空之触
 tagEnemyRiftHoundA01=裂隙魔犬
 tagEnemyRiftHoundB01=裂隙魔犬 ~ 咆哮者
 tagEnemyRiftHoundC01=裂隙魔犬 ~ 天空女王
+tagEnemyRiftHoundA02=灾疫猎犬
+tagEnemyRiftHoundB02=灾疫猎犬 ~ 食腐者
+tagEnemyRiftHoundC02=灾疫猎犬 ~ 首领
 
 tagEnemyPlanesHoundA01=位面魔犬
 tagEnemyPlanesHoundB01=位面魔犬 ~ 犬群之首
@@ -726,9 +738,18 @@ tagTrollHalfHeroH02=战争狂 帕德瑞克
 tagTrollHalfHeroH03=石牙 ~ 防御者
 tagTrollHalfHeroH04=食日者 艾洛拉斯 ~ 燃烧
 
+tagTrollHalfSwampHeroH01=碎石者 拉加尔
+tagTrollHalfSwampHeroH02=渡鸦 拖格洛克
+tagTrollHalfSwampHeroH03=马格拉克 ~ 护盾
+tagTrollHalfSwampHeroH04=瓦拉克 ~ 支援者
+
 tagEnemyTrollA01=石疣巨魔
 tagEnemyTrollB01=石疣狂怒者
 tagEnemyTrollC01=石疣巨兽
+
+tagEnemyTrollSwampA01=毒疣巨魔
+tagEnemyTrollSwampB01=毒疣狂怒者
+tagEnemyTrollSwampC01=毒疣巨兽
 
 tagTrollHeroH01=不朽的 阿格拉克
 tagTrollHeroH02=动地者 苏拉克
@@ -736,8 +757,14 @@ tagTrollHeroH03=特格拉克 ~ 勇不可挡
 tagTrollHeroH04=瘴气 欧达克 ~ 疾病
 tagTrollHeroH05=汪特拉克 ~ 冰冻
 
+tagTrollSwampHeroH01=沼泽守卫 巴格拉克
+tagTrollSwampHeroH02=若沃斯 ~ 伤害反弹
+tagTrollSwampHeroH03=马加洛克 ~ 虚空之触
+tagTrollSwampHeroH04=阿瓦加尔 ~ 腐化
+
 tagBossTrollB01=狂暴的苟格思
 tagBossTrollB02=破坏者 沃德瑞克
+tagBossTrollB03=沼泽之王 贝尔戈
 
 tagEnemyTrollCorruptedA01=奇型巨魔
 tagEnemyTrollCorruptedB01=奇型先锋
@@ -766,13 +793,11 @@ tagEnemyCaveSpiderB01=恐惧编织者 蜘蛛
 tagEnemyCaveSpiderB02=恐惧编织者 寡妇
 tagEnemyCaveSpiderC01=恐惧编织者 女王
 
-tagCaveTrollHalfHeroH01=黑暗之民 格鲁科洛克
+tagCaveTrollHalfHeroH01=黑暗之民 格拉沃洛克
 tagCaveTrollHalfHeroH02=盲眼狂战士 阿格洛克
 tagCaveTrollHalfHeroH03=萨瓦洛克 ~ 护盾
 tagCaveGrobleHeroH01=阿卡拉 ~ 迅捷
 tagCaveGrobleHeroH02=欧巴拉克 ~ 支援者
-tagCaveTrollHeroH01=洞穴守护者 贝尔格拉克
-tagCaveTrollHeroH02=若沃斯 ~ 伤害反弹
 tagCaveSpiderHeroH01=黑暗 谢尔勒
 tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
@@ -870,7 +895,7 @@ tagReanimatorHeroH03=尸体发火 ~ 伤害反弹
 tagReanimatorHeroH04=腐化者 阿兹加洛格 ~ 防御者
 
 tagReanimatorBossH01=背叛者 盖思兰
-tagReanimatorBossH02=高阶虚灵 酂布兰特
+tagReanimatorBossH02=高阶虚灵 赞布兰特
 tagReanimatorBossH03=寒冰恐惧
 tagReanimatorBossH04=堕落者 那扎格拉德
 
@@ -956,36 +981,37 @@ tagBountyBL20=卢萨斯·巴洛克
 tagBountyDC06=压碎者 罗曼诺夫
 tagBountyDC07=乌鸦 波拉
 tagBountyDC08=病疫的斯拉丝
-tagBountyDC09=Ballior ~ Burning
-tagBountyDC10=压碎者 罗曼诺夫
-tagBountyDC11=Caspis, the Blooddrinker
-tagBountyDC15=Rostov, the Aetherflame
-tagBountyDC17=Nalloth, the Frostbound
-tagBounyExile12=Nucus'Dal
-tagBounyExile13=Innu'Garbal
-tagBounyExile14=Conastaria
-tagBounyExile15=Ludia Starfire
-tagBountyHS09=Bogloth the Marrowdrinker
-tagBountyHS10=The Locust
-tagBountyHS11=Vizier Haxin
-tagBountyHS12=Glukrog Lifedrinker
-tagBountyHS13=Phabius ~ Electrified
-tagBountyKC07=Holvuur Bonespeaker
-tagBountyKC08=Igniaa Venomtongue
-tagBountyKC09=Vom'Zul
-tagBountyKC10=Thullon, Chosen of Ch'thon
-tagBountyKC11=Abathis, the Withered
-tagBountyKC19=Ludia Bloodwhisper
-tagBountyODV06=Halvastra Wrathfire
-tagBountyODV07=Horvald Shieldbreaker
-tagBountyODV08=Olga Flamebearer
-tagBountyODV09=Narroth, the Behemoth
-tagBountyODV10=Barrostrandt, the Ascended
-tagBountyODV11=Gravvis, the Decayed
-tagBountyODV12=Narl'Sarroth
-tagBountyRO10=Oligeane Dar
-tagBountyRO11=Rixna Plaguefeather
+tagBountyDC09=巴利尔 ~ 燃烧
+tagBountyDC10="格斗士" 伊戈尔 
+tagBountyDC11=饮血者 贾斯匹斯
+tagBountyDC15=虚化之火 罗斯托夫
+tagBountyDC17=寒霜之裔 纳罗斯
+tagBounyExile12=纽科斯·达尔
+tagBounyExile13=印纽·家宝
+tagBounyExile14=寇纳斯塔利亚
+tagBounyExile15=鲁迪亚·星火
+tagBountyHS09=吸髓者 鲍格罗斯
+tagBountyHS10=蚱蜢
+tagBountyHS11=领袖 哈辛
+tagBountyHS12=生命吸食者 格鲁克若格
+tagBountyHS13=费比亚斯
+tagBountyKC07=骸骨之语 霍威尔
+tagBountyKC08=剧毒之舌 依格尼亚
+tagBountyKC09=沃姆·祖尔
+tagBountyKC10=冥神选诏的战士 土伦
+tagBountyKC11=干枯的阿拔西斯
+tagBountyKC19=鲜血私语者 卢蒂雅
+tagBountyODV06=怒火 哈尔瓦斯塔
+tagBountyODV07=破盾者 霍瓦德
+tagBountyODV08=持火者 奥尔加
+tagBountyODV09=巨兽 那若斯
+tagBountyODV10=超凡的战士 巴洛斯特兰
+tagBountyODV11=腐朽的 格拉维斯
+tagBountyODV12=纳尔·萨若斯
+tagBountyRO10=奥里根·达尔
+tagBountyRO11=灾疫之羽 雷克希纳
 tagBountyRO12=莫塔里斯
+tagBountyRO19=格鲁姆
 
 #Races 种族
 

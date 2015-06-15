@@ -11,8 +11,8 @@ I see.
 I have another question.
 I...see...
 Now that you are here, what will you do?
-I will bring the wrath of Empyrion upon those who would defile Cairn, beginning with the taint infecting the Necropolis.
-What is at the Necropolis?
+I will bring the wrath of Empyrion upon those who would defile Cairn, beginning with the taint infecting 古代墓地.
+What is at 古代墓地?
 A gathering of darkness. The Cult of Ch'thon and its minions have come together in great numbers.{^n}{^n}For what purpose, it matters not. All shall burn.
 I have another question.
 Goodbye.

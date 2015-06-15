@@ -1,12 +1,11 @@
 Kymon's Chosen
 Making a Stand
 Kill Cultist Champions
-The Cult of Ch'thon has been expanding its reach and their activities in Darkvale have been tolerated for too long. Two of the cult's more prominent members, Bolvar the Bloodbinder and Zaria the Carver have been spotted near Darkvale. Father Kymon wishes them eliminated, as the vermin they are. End their lives for the good of us all.
+The Cult of Ch'thon has been expanding its reach and their activities in Darkvale have been tolerated for too long. One of the cult's more prominent members, Bolvar the Bloodbinder has been spotted to the north, in 血森林. Father Kymon wishes him eliminated as the vermin he is. End his life for the good of us all.
 Kill Bolvar, the Bloodbinder
-Kill Zaria, the Carver
 
 Return to Zealots
-You have slain the heretics and the Cult has lost two prominent members. Report back to Brother Elluvius at Sorrow's Bastion.
+You have slain the heretic and the Cult has lost a prominent member. Report back to Brother Elluvius at 悲伤城堡.
 Return to Brother Elluvius
 
 

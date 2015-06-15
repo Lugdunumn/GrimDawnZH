@@ -53,7 +53,7 @@ That's comforting. Thanks for the info.
 Not yet.
 There you are! Come, come. I have something that requires your penchant for violence and survival despite all odds.
 Oh great, what is it this time?
-Nearly a century ago, a man named Oswald Hargate created the first slith. Needless to say, it was all a huge mistake, and the man paid for it with a lifetime in prison, but what interests me is the how.{^n}{^n}You see, Hargate harnessed the Aether in order to perform his mutagenic experiment. If I could get my hands on his notes, perhaps I could use his knowledge of the Aether to reverse some of the damage the Aetherials have cause to the local flora and fauna.I've been searching for Hargate's Lab for years, bribed the right people, even visited some prisons, and I believe I know where it is hidden. I was in Burrwitch putting together an expedition when everything turned sour.{^n}{^n}Now I'm here, and the discovery is more important than ever. I'd send Darlet, but after her performance in Burrwitch, I'm reluctant to give her more than a rag to wipe the shelves.{^n}{^n}Will you be my liaison? I have a row boat in Lower Crossing, just past the bridge out of the prison. If you take it northwest, you should find Hargate's Isle and, underneath it, his lab.
+Nearly a century ago, a man named Oswald Hargate created the first slith. Needless to say, it was all a huge mistake, and the man paid for it with a lifetime in prison, but what interests me is the how.{^n}{^n}You see, Hargate harnessed the Aether in order to perform his mutagenic experiment. If I could get my hands on his notes, perhaps I could use his knowledge of the Aether to reverse some of the damage the Aetherials have caused to the local flora and fauna.I've been searching for Hargate's Lab for years, bribed the right people, even visited some prisons, and I believe I know where it is hidden. I was in 伯尔维治 putting together an expedition when everything turned sour.{^n}{^n}Now I'm here, and the discovery is more important than ever. I'd send Darlet, but after her performance in 伯尔维治, I'm reluctant to give her more than a rag to wipe the shelves.{^n}{^n}Will you be my liaison? I have a row boat in Lower Crossing, just past the bridge out of the prison. If you take it northwest, you should find Hargate's Isle and, underneath it, his lab.
 I will find these notes for you.
 Find someone else crazy enough.
 I've been there. Here is Hargate's Formula. (Give Formula)
@@ -104,7 +104,7 @@ I...don't even want to know what that entailed.
 哦不，别又是一次实验……
 Ah, there you are! Come, come, we have an errand you must perform immediately.
 Excuse me?
-Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around 安克维亚山麓 and 古安克维亚 immediately!
 Very well. I'll gather the explosives.
 Oh no, I'm not getting involved in another of your experiments.
 Will this Dynamite suffice?

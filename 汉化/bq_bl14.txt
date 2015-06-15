@@ -1,10 +1,10 @@
-Bounties
-Bounty: Aether Cluster
+赏金任务
+赏金：虚化集簇
 Bounty
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
+The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest 虚化水晶 and 虚灵方尖碑, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an 虚化集簇 will be compensated with materials from the Legion stores.
 
-Collect Aether Cluster
-Deliver the Aether Cluster to the Black Legion Bounty Table
+收集虚化集簇
+Deliver the 虚化集簇 to the Black Legion Bounty Table
 
 
 

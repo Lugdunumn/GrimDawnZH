@@ -1,15 +1,15 @@
-Bounties
-Bounty: Ballior
+赏金任务
+赏金：Ballior
 Bounty
-Ballior was once a joyful older man who managed a bakery in Burrwitch. Sadly, he fell when the Aetherials attacked.{^n}{^n}I dread to think of what the Aetherials had done to his remains when they dragged him into a cellar. It would ease my heart to know that he is at peace.{^n}{^n}I do not have much to offer, but I've set aside some materials for anyone that puts Ballior to rest.
+Ballior was once a joyful older man who managed a bakery in 伯尔维治. Sadly, he fell when the Aetherials attacked.{^n}{^n}I dread to think of what the Aetherials had done to his remains when they dragged him into a cellar. It would ease my heart to know that he is at peace.{^n}{^n}I do not have much to offer, but I've set aside some materials for anyone that puts Ballior to rest.
 
 
 
 Put Ballior to rest
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

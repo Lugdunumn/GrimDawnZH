@@ -27,7 +27,7 @@ A strange question. What does it feel like to be alive?{^n}{^n}I feel no pain. I
 I have another question.
 Goodbye.
 Nevermind.
-Welcome back, Malkadarr
+Welcome back, Malkadarr.
 By the will of the Keeper, I have returned.
 Who are you?
 I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
@@ -47,7 +47,7 @@ I see.
 A steep price for knowledge.
 Sounds like a terrible fate.
 I shall speak to her then.
-Welcome back, Malkadarr
+Welcome back, Malkadarr.
 By the will of the Keeper, I have returned.
 Who are you?
 I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.

@@ -1,13 +1,13 @@
-Bounties
-Bounty: The Maneater
+赏金任务
+赏金：食人者
 Bounty
-Back when I was a younger man, I used to do a smuggling run that ran between Homestead and Burrwitch. We ran our operations out of a place we called Smuggler's Basin, out near Burrwitch.{^n}{^n}Last I've heard, the place was massacred by a dranghoul known as Gutworm. The beast feasted on the flesh of my comrades and scattered their bones.{^n}{^n}I want revenge. I want the Maneater dead. I've stowed away some valuable materials in my smuggling days. I will gladly share them with anyone that butchers that beast.
+Back when I was a younger man, I used to do a smuggling run that ran between 霍姆斯特德和伯尔维治. We ran our operations out of a place we called 走私者的水潭, out near 伯尔维治.{^n}{^n}Last I've heard, the place was massacred by a dranghoul known as 格特沃姆. The beast feasted on the flesh of my comrades and scattered their bones.{^n}{^n}I want revenge. I want 食人者 dead. I've stowed away some valuable materials in my smuggling days. I will gladly share them with anyone that butchers that beast.
 
-Slay Gutworm
+杀了格特沃姆
 
 回报任务
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

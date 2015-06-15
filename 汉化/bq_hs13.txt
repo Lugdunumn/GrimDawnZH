@@ -1,15 +1,15 @@
-Bounties
-Bounty: Phabius
+赏金任务
+赏金：费比亚斯
 Bounty
-Phabius Crowsworth is one of the locals, but sadly he was staying with family in Burrwitch when the Grim Dawn took place.{^n}{^n}Based on the tales I've heard about what happened in the village, I fear the worst. Please, if Phabius has been turned into one of those undead monsters, I wish that he be put to rest.{^n}{^n}I will gladly share my scavenged supplies in exchange for peace of mind.
+费比亚斯 Crowsworth is one of the locals, but sadly he was staying with family in 伯尔维治 when 恐怖黎明 took place.{^n}{^n}Based on the tales I've heard about what happened in the village, I fear the worst. Please, if 费比亚斯 has been turned into one of those undead monsters, I wish that he be put to rest.{^n}{^n}I will gladly share my scavenged supplies in exchange for peace of mind.
 
 
 
-Slay Phabius
+杀了费比亚斯
 
-Turn-in
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+回报任务
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

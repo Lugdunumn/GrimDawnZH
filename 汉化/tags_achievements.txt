@@ -50,7 +50,7 @@ ach014Title=粉碎冥神之刃 Shattering the Blade of Ch'thon
 ach014Desc=老兵难度下击杀在堕落圣殿的冥神之刃萨拉查。
 
 ach015Title=刽子手行刑 The Executioner Executed
-ach015Desc=Slay Alkamos, Lord Executioner in the Steps of Torment.
+ach015Desc=杀了Alkamos, Lord Executioner in 苦痛阶梯.
 
 ach016Title=苦痛终结 The End of Torment
 ach016Desc=在老兵模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
@@ -70,7 +70,7 @@ ach020Desc=击杀冥神魔像卡洛斯。
 ach021Title=凯恩的梦魇 The Bane of Cairn
 ach021Desc=击杀 ???
 
-ach022Title=净化战火平原 Cleansing the Conflagration
+ach022Title=净化战火平原 Cleansing 战火平原
 ach022Desc=击杀战火平原的烈焰使者。
 
 ach023Title=不惧火焰 Not Afraid of a Little Fire
@@ -151,7 +151,7 @@ ach047Desc=击杀 ???
 ach048Title=我没有想到会是你，人类 I Was Not Expecting You, Human
 ach048Desc=在老兵模式用低于11级的角色击杀典狱长克里格。
 
-ach049Title=保卫伯尔维治 Securing Burrwitch
+ach049Title=保卫伯尔维治 Securing 伯尔维治
 ach049Desc=在老兵模式保卫伯尔维治传送门。
 
 ach050Title=藏匿于洪水通道 Hidden in the Flooded Passage

@@ -1,9 +1,9 @@
-Bounties
-Bounty: Shattered Soul
+赏金任务
+赏金：碎裂之魂
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}An undead being known as Kilrian dwells within the Undercity of Old Arkovia. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
+The Legion requests assistance with a priority target.{^n}{^n}An undead being known as 基尔利安 dwells within 古安克维亚地下城. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
 
-Slay Kilrian
+杀死基尔利安
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

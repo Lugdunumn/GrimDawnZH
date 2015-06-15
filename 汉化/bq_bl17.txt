@@ -1,11 +1,11 @@
-Bounties
-Bounty: Harrath, Returned
+赏金任务
+赏金：复生者 哈拉斯
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the Rotting Croplands. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the 腐坏田地. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay 复生者 哈拉斯
+杀了复生者 哈拉斯
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

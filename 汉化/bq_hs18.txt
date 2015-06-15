@@ -1,14 +1,14 @@
-Bounties
-Bounty: The Grand Viziers
+赏金任务
+赏金：虫群领袖
 Bounty
 The Dermapteran Grand Viziers are their queen's most loyal protectors. They will protect the hive with their lives, if needed.{^n}{^n}Let us stir the hive a bit, shall we? Destroying the queen's guardians will surely throw the hive into turmoil.{^n}{^n}To sweeten the deal, we've set aside some iron bits.
 
-Slay Grand Vizier Lozakal
-Slay Grand Vizier Inixil
+杀了虫群领袖 洛扎克
+杀了虫群领袖 伊尼克希尔
 
 回报任务
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

@@ -1,11 +1,11 @@
-Bounties
-Bounty: 卢萨斯·巴洛克
+赏金任务
+赏金：卢萨斯·巴洛克
 Bounty
-The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from 黑曜石王座, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
-Slay 卢萨斯·巴洛克
+杀了卢萨斯·巴洛克
 
 回报任务
 你完成了黑色军团的赏金任务，你应该回到赏金桌领取奖赏。

@@ -1,13 +1,13 @@
-Bounties
-Bounty: Briarthorns
+赏金任务
+赏金：荆棘恐兽
 Bounty
-Briarthorns have essentially taken over the lands to the southeast. If we are to ever reclaim the roads leading down to Devil's Crossing, then we must start thinning their numbers.{^n}{^n}The Briarthorn Monstrosities are the breeders in their packs and should be singled out.{^n}{^n}A pouch of iron bits has been set aside for anyone that sees this task through.
+荆棘恐兽 have essentially taken over the lands to the southeast. If we are to ever reclaim the roads leading down to 恶魔十字, then we must start thinning their numbers.{^n}{^n}The 荆棘恐兽 are the breeders in their packs and should be singled out.{^n}{^n}A pouch of iron bits has been set aside for anyone that sees this task through.
 
-Slay Briarthorn Monstrosities
+杀了荆棘恐兽
 
 回报任务
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+返回霍姆斯特德赏金桌
 
 
 

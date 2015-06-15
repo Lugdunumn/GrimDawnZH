@@ -1,14 +1,14 @@
-Bounties
-Bounty: Halion, The Rat
+赏金任务
+赏金：Halion, The Rat
 Bounty
-Halion "The Rat" and his oversized pet are a menace and a threat to Devil's Crossing. He used to run a powerful gang that operated outside Burrwitch and rumor is that he is once again gathering followers.{^n}{^n}His operation must be stopped.{^n}{^n}Halion was last sighted in Hanneffy Mine, below the Four Hills in Old Arkovia. Compensation will be offered in the form of iron bits.
+Halion "The Rat" and his oversized pet are a menace and a threat to 恶魔十字. He used to run a powerful gang that operated outside 伯尔维治 and rumor is that he is once again gathering followers.{^n}{^n}His operation must be stopped.{^n}{^n}Halion was last sighted in Hanneffy Mine, below the Four Hills in 古安克维亚. Compensation will be offered in the form of iron bits.
 
-Slay Halion, The Rat
-Slay Halion's Pet Rat
+杀了Halion, The Rat
+杀了Halion's Pet Rat
 
 回报任务
-You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
-Return to the Devil's Crossing Bounty Table
+你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。
+返回恶魔十字赏金桌
 
 
 

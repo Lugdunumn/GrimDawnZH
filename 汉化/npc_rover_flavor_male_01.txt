@@ -1,0 +1,10 @@
+Vig
+Lay a finger on Benevald and you're a dead [[ms]man[fs]woman].
+Can you tell me anything about the area?
+Nothing you probably haven't seen for yourself.{^n}{^n}Darkvale's teeming with the Cult of Ch'thon and their void terrors.{^n}{^n}Fort Haron is under constant assault by either the necromancers or Kymon's zealots. Neither side holds it for long.{^n}{^n}The Asterkarn Mountains beyond Darkvale have become too dangerous for travel. If the wildlife won't get you, then the Bloodsworn will.
+Thanks for the warning.
+Are you guarding this man?
+Benevald's earned himself a reputation for collecting rare and precious goods, so he's had his fair share of thieves and cutthroats.{^n}{^n}Nowadays, I suppose thieves are the least of our worries.
+I see.
+I don't want to start any trouble.
+Alright.

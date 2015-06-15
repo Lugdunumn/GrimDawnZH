@@ -1,0 +1,7 @@
+Treasure Trove
+This chest is locked with heavy chains.{^n}{^n}It will take 1 Dynamite to destroy all the items inside.
+Not enough Dynamite.
+Destroy the chest.
+Leave it.
+You have opened this chest.
+Ok.

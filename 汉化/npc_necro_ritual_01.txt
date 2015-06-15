@@ -1,0 +1,19 @@
+Soulkeeper Kaandris
+Lead us to greatness, [[ms]brother[fs]sister].
+Farewell.
+You have done the Order a great service.
+What of Malkadarr?
+He shall resume his duties under the Keeper of Tomes, his knowledge preserved for future generations.
+Farewell.
+You're welcome.
+You should not be here.
+Alright, I'm leaving.
+Everything is in place.{^n}{^n}The ritual will require my complete attention, so it falls on you to keep the dead contained while I search for Malkadarr. I will be shielded from their presence, but should any of the spirits remain when the ritual is finished, the results could be disastrous.{^n}{^n}Are you ready to begin? 
+What do I have to do?
+The ritual will draw spirits to itself like a beacon in the darkness. Make sure that whatever comes through the veil is not around for long.{^n}{^n}You must keep the room clear so that it is Malkadarr we bring back, and not some wayward soul.
+I am ready. (Begin Ritual)
+I'm not ready to begin yet.
+I am ready. (Begin Ritual)
+I'm not ready to begin yet.
+You should not be here.
+Alright, I'm leaving.

@@ -5,14 +5,14 @@ tagMapLowerCrossing01=下游渡口
 tagMapBurialHill=殓葬山脉
 tagMapOldDump=旧垃圾场
 tagMapFoggyBank=迷雾河畔
-tagMap伯尔维治Road01=迷雾河畔
+tagMapBurrwitchRoad01=迷雾河畔
 tagMapWightmire01=尸妖泥沼
 tagMapSoddenHollow=湿润山谷
 tagMapFloodedPassage01=浸没通道
-tagMap伯尔维治Outskirts01=伯尔维治郊外
+tagMapBurrwitchOutskirts01=伯尔维治郊外
 tagMapMolderingFields=腐坏田地
 tagMapMudRow=泥泞街道
-tagMap伯尔维治Village01=伯尔维治村
+tagMapBurrwitchVillage01=伯尔维治村
 tagMapWardensCellar01=典狱长的地下室
 tagMapWardensLabratory01=地下通道
 tagMapWardensLabratory02=隐秘实验室
@@ -23,12 +23,12 @@ tagMapLaboratoryInner=实验室内部
 tagMapOminousLair=险恶巢穴
 tagMapLowerCrossing=下游渡口
 tagMapHallowedHill=神圣丘陵
-tagMap伯尔维治Slums=伯尔维治贫民区
+tagMapBurrwitchSlums=伯尔维治贫民区
 tagMapDumpingGrounds=垃圾场
 tagMapAbandonedWaterfront=废弃码头
 tagMapMerchantsRow=商业街
-tagMap伯尔维治Center=伯尔维治中心
-tagMap伯尔维治Estates=伯尔维治庄园
+tagMapBurrwitchCenter=伯尔维治中心
+tagMapBurrwitchEstates=伯尔维治庄园
 tagMapBrokenTeeth=破碎之牙
 tagMapDevilsSpur=恶魔山脊
 tagMapNecropolis=古代墓地
@@ -88,11 +88,11 @@ tagMapAlpineRoad=Ledgewood Road
 
 tagRiftDevilsCrossing=恶魔十字传送门
 tagRiftLowerCrossing=下游渡口传送门
-tagRift伯尔维治Road=迷雾河畔传送门
+tagRiftBurrwitchRoad=迷雾河畔传送门
 tagRiftWightmire=尸妖泥沼传送门
 tagRiftFloodedPassage=浸没通道传送门
-tagRift伯尔维治Outskirts=伯尔维治郊外传送门
-tagRift伯尔维治Village=伯尔维治村传送门
+tagRiftBurrwitchOutskirts=伯尔维治郊外传送门
+tagRiftBurrwitchVillage=伯尔维治村传送门
 tagRiftWardensCellar=典狱长的地下室传送门
 tagRiftWardensLabratory01=地下通道传送门
 tagRiftWardensLabratory02=典狱长的实验室传送门
@@ -121,14 +121,14 @@ tagRiftRandom01=冥灵传送门
 
 #World Map Labels
 
-tagWorldMap伯尔维治Estates={^w}伯尔维治{^n}{^w}庄园
+tagWorldMapBurrwitchEstates={^w}伯尔维治{^n}{^w}庄园
 tagWorldMapAbandonedWaterFront={^w}废弃码头
-tagWorldMap伯尔维治Village=伯尔维治村
+tagWorldMapBurrwitchVillage=伯尔维治村
 tagWorldMapHallowedHill={^w}神圣丘陵
 tagWorldMapMudRow={^w}泥泞街道
 tagWorldMapMolderingFields={^w}腐坏田地
-tagWorldMap伯尔维治Graveyard={^w}伯尔维治{^n}{^w}墓园
-tagWorldMap伯尔维治Outskirts=伯尔维治{^n}郊外
+tagWorldMapBurrwitchGraveyard={^w}伯尔维治{^n}{^w}墓园
+tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
 tagWorldMapTheFoggyBank=迷雾河畔
 tagWorldMapSoddenHollow={^w}湿润山谷
 tagWorldMapWightmire=尸妖泥沼
@@ -174,21 +174,21 @@ tagWorldMapBloodGroveMine={^w}莫顿的{^n}{^w}领地
 #Underground Names
 
 tagUGLowerCrossingRatDen01=腐败兽穴
-tagUG伯尔维治VillageRatDen01=溃烂巢穴
+tagUGBurrwitchVillageRatDen01=溃烂巢穴
 tagUGCellar01=被遗忘的地下室
 tagUGCellar02=堕落圣殿
-tag伯尔维治Cellar01=感染地窖
-tag伯尔维治Cellar02=阴湿地窖
-tag伯尔维治Cellar03=发霉地窖
+tagBurrwitchCellar01=感染地窖
+tagBurrwitchCellar02=阴湿地窖
+tagBurrwitchCellar03=发霉地窖
 tagWightmireCellar01=邪教徒藏身处
-tag伯尔维治RiverCave=河流通道
+tagBurrwitchRiverCave=河流通道
 tagUGBurialCave=殓葬洞穴
 tagUGWightmireCave01=洞窟
 tagUGDevilsCrossingAquifer=恶魔含水层
 tagUGDevilsCrossingDungeon01=监牢地下城
 tagUGDevilsCrossingHiddenPassage01=罪犯隧道
-tagUG伯尔维治FloodedCellars=浸没的地窖
-tagUG伯尔维治OutskirtsBasin=走私者的盆地
+tagUGBurrwitchFloodedCellars=浸没的地窖
+tagUGBurrwitchOutskirtsBasin=走私者的盆地
 tagUGFloodedPassageRuin=沉没圣所
 
 tagUGSlithLab01=哈格特的小岛
@@ -247,7 +247,7 @@ tagUGVoidlands01AE=绝望之地
 tagSign_BurialHill=殓葬山
 tagSign_DevilsCrossing=恶魔十字
 tagSign_Wightmire=尸妖泥沼
-tagSign_伯尔维治=伯尔维治村
+tagSign_Burrwitch=伯尔维治村
 tagSign_Malmouth=马尔茅斯
 tagSign_BrokenHills=破碎丘陵
 tagSign_CoastRoad=安克维亚山麓
@@ -334,7 +334,7 @@ tagPOIStepsOfTorment4B=苦痛阶梯(第四层)出口
 tagPOIStepsOfTorment5A=苦痛阶梯(第五层)入口
 tagPOIStepsOfTorment5B=苦痛阶梯(第五层)出口
 
-tagPOIQuest_伯尔维治=清理伯尔维治传送门
+tagPOIQuest_Burrwitch=清理伯尔维治传送门
 tagPOIQuest_WardenLab=找到典狱长的实验室
 tagPOIQuest_ArkovianFoothills=进入安克维亚山麓
 tagPOIQuest_Elsa=寻找艾尔莎
@@ -353,8 +353,8 @@ tagNotification_WightmireReanimatorFound=一只生物正在复生尸体！
 tagNotification_WightmireCaravanFound=这场屠杀刚发生过不久……
 tagNotification_WightmireCaravanDriverFound=一位俘虏正在呼救！
 tagNotification_InventoryBagAcquired=得到储物袋！
-tagNotification_伯尔维治RiftgateEvent=裂缝传送门正在产生敌人！
-tagNotification_伯尔维治RiftgateSecured=伯尔维治的传送门已经被清理干净了！
+tagNotification_BurrwitchRiftgateEvent=裂缝传送门正在产生敌人！
+tagNotification_BurrwitchRiftgateSecured=伯尔维治的传送门已经被清理干净了！
 tagNotification_WardenCellarFound=这一定就是典狱长的地下室了……
 tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
 tagNotification_LostApprenticeCellar=有人最近来过这儿……
@@ -484,7 +484,7 @@ tagNPC_BrokenHillsBridge=安克维亚山麓桥梁修理处
 tagNPC_OldGroveBridge=古老林地桥梁修理处
 tagNPC_HomesteadBridge=双子瀑布桥梁修理处
 tagNPC_WightmireBridge=尸妖泥沼桥梁修理处
-tagNPC_伯尔维治Bridge=伯尔维治桥梁修理处
+tagNPC_BurrwitchBridge=伯尔维治桥梁修理处
 
 
 tagNPC_JosephClaxton=约瑟夫·克莱斯顿
@@ -699,9 +699,9 @@ tagLoreObj_LowerCrossingA01Name=港务长的日志-下游渡口
 tagLoreObj_LowerCrossingA01codexTitle=港务长的日志
 tagLoreObj_LowerCrossingA01Text=今年的秋雾出现得很早，但是交通仍然异乎寻常地拥堵。有着源源不断的小艇从玛尔茅斯下来以及从其他小镇驶向东北。有些小艇仅仅是漂浮在海上，船上装着的货物看起来是他们的全部家当。这些旅行者，有时候是整个家庭，带来了许多关于战争和非自然死亡的奇怪的故事。成串的废话惹恼了温和的市民，同样也使得码头嘈杂不堪，虽然我不能抱怨出来。大多数旅行者是向西行的，试图尽可能地远离这里。{^n}{^n}码头里的年轻人也开始失去勇气了。有些年轻人之间开始谈论关于启程向西的事宜，但是我相信这些都是很快就揭过的胡言乱语。年轻人总是容易心血来潮。
 
-tagLoreObj_伯尔维治B01Name=港务长的日志-伯尔维治
-tagLoreObj_伯尔维治B01codexTitle=港务长的日志
-tagLoreObj_伯尔维治B01Text=又一艘小艇到站了，里面装满了套着头罩的囚犯，约莫有几十个。和往常一样，一辆四轮马车在等待着他们，但是据我所知，马车不会把他们带出很远。码头上装货的一个男孩刚刚拜访完伯尔维治的新医生回来，他说看到这辆马车停在典狱长的宅邸外面。小伙子询问了这些囚犯的信息，其中一个操作者告诉他这是“康复”。我并不清楚这意味着什么。{^n}{^n}这些礼拜以来已经超过一打的这样的运送囚犯的船到站了。我实在无法想象他们如何能在那个宅邸塞下那么多人。我并不关心那个宅邸有多大，克里格肯定不会将一群没有价值的小偷囚犯保管在他的屋檐下。一些怪异的事情正在那座宅邸里发生着，而我的疑惑没有得到正确的解答。也许我应该写信到玛尔茅斯，邀请其中一位审判官来调查这里的怪事。这并不是说我希望有一位审判官在这里闲逛。他们总是让人感到不安。
+tagLoreObj_BurrwitchB01Name=港务长的日志-伯尔维治
+tagLoreObj_BurrwitchB01codexTitle=港务长的日志
+tagLoreObj_BurrwitchB01Text=又一艘小艇到站了，里面装满了套着头罩的囚犯，约莫有几十个。和往常一样，一辆四轮马车在等待着他们，但是据我所知，马车不会把他们带出很远。码头上装货的一个男孩刚刚拜访完伯尔维治的新医生回来，他说看到这辆马车停在典狱长的宅邸外面。小伙子询问了这些囚犯的信息，其中一个操作者告诉他这是“康复”。我并不清楚这意味着什么。{^n}{^n}这些礼拜以来已经超过一打的这样的运送囚犯的船到站了。我实在无法想象他们如何能在那个宅邸塞下那么多人。我并不关心那个宅邸有多大，克里格肯定不会将一群没有价值的小偷囚犯保管在他的屋檐下。一些怪异的事情正在那座宅邸里发生着，而我的疑惑没有得到正确的解答。也许我应该写信到玛尔茅斯，邀请其中一位审判官来调查这里的怪事。这并不是说我希望有一位审判官在这里闲逛。他们总是让人感到不安。
 
 
 tagLoreObj_LowerCrossingA02Name=弗朗西斯的笔记
@@ -769,7 +769,7 @@ tagLoreObj_BozemanFollyName=波兹曼的疯言疯语
 tagLoreObject_BozemanFollyText=They all say I'm insane for taking the caravan through the deep road. The only thing that's insane is paying bribes to those smug bastards in control of 走私者的通道. May as well pay the imperial tariffs!{^n}{^n}I've heard on good account that the dangers in the 山脉深渊 are well overblown, and that the exit will spit us out far closer to Homestead than that bandit-ridden pass.{^n}{^n}When I'm swimming in gold up to my neck down in 伯尔维治, then they'll all see. They'll all see that Bozeman was right.
 
 
-#Random 伯尔维治 Notes
+#Random Burrwitch Notes
 tagLoreObj_BookA01Name=冥灵异教-第一页
 tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
 

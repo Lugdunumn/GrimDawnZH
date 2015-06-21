@@ -1,11 +1,11 @@
 赏金任务
-赏金：The Blooddrinker
-Bounty
-It was no secret that Caspis was a blood-drinker and devout of Ch'thon. What is unfortunate is that he survived 恐怖黎明.{^n}{^n}Reports have come in of Caspis capturing travelers out in the 伯尔维治 Outskirts. It's unlikely that he's working alone, so there has to be a gathering of cultists somewhere in the area.{^n}{^n}Anyone that tracks down Caspis to his hideout and puts him down will be justly rewarded with some of our scavenged materials.
+赏金：饮血者
+赏金
+毫无疑问贾斯匹斯是嗜血的而且对冥神十分虔诚的家伙。不幸的是他活过了恐怖黎明。{^n}{^n}根据报告，他在伯尔维治郊外抓捕旅行者。他不像是在单独行动，所以那里的某个地方一定聚集着一群邪教徒。{^n}{^n}任何追踪到贾斯匹斯藏身处并且杀掉他的人都将得到一些材料作为奖励。
 
 
 
-杀了Caspis "The Blooddrinker"
+杀了“饮血者”贾斯匹斯
 
 回报任务
 你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。

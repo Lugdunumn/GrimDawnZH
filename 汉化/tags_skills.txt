@@ -513,7 +513,7 @@ tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果，转�
 tagClass05SkillName06A=阿尔布雷特的虚化射线 Albrecht's Aether Ray
 tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。^o需要装备副手法器。
 tagClass05SkillName06B=崩解 Disintegration
-tagClass05SkillDescription06B=倾斜你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。^o每次伤害间隔魔法消耗都会提高。
+tagClass05SkillDescription06B=倾斜你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。^o每次造成伤害的时间间隔之后魔法消耗都会提高。
 tagClass05SkillName06C=堕落之力 Tainted Power
 tagClass05SkillDescription06C=与崩解相反，用狂暴的混沌之力腐化虚化射线。
  
@@ -521,7 +521,7 @@ tagClass05SkillName07A=无效 Nullification
 tagClass05SkillDescription07A=在目标区域集中大量负面能量，清除敌人所有的有益的光环和法术，同时清除友军的有害增益。
 
 tagClass05SkillName08A=毁灭 Devastation
-tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险，而有极为耗能的法术不该被轻易使用。^o需要副手法器。如果你在第一次施法时静止不动，那么你将能在目标区域额外施放两波法术。
+tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险，而又极为耗能的法术不该被轻易使用。^o需要副手法器。如果你在第一次施法时静止不动，那么你将能在目标区域额外施放两波法术。
 
 tagClass05SkillName09A=心灵专注 Inner Focus
 tagClass05SkillDescription09A=以专注的身心作为奥术能量的洪炉，有志于成为奥术师的人都会首先学习这种冥想术。
@@ -1086,7 +1086,7 @@ tagItemSkillC067Name=海啸 Tidal Wave
 tagItemSkillC067Desc=向敌人施放出一道激流，邪恶的蛇人掌握着这种法术。
 
 tagItemSkillC068Name=地震 Earthquake
-tagItemSkillC068Desc=撕裂目标区域的大地，造成眩晕和加速效果。
+tagItemSkillC068Desc=撕裂目标区域的大地，造成眩晕或减速效果。
 
 tagItemSkillC069Name=狂热 Fanaticism
 tagItemSkillC069Desc=进入一种狂热无度的状态，无情地撕裂你的敌人。
@@ -1136,8 +1136,8 @@ tagItemSkillC083Desc=当双持手枪时，有时你会释放一阵装满弹药�
 tagItemSkillC084Name=瘴气 Miasma
 tagItemSkillC084Desc=释放一片毒气之云窒息并使敌人混乱。
 
-tagItemSkillC085Name=召唤裂隙之灾 Summon Blighted Rift Scourge
-tagItemSkillC085Desc=从深渊中召唤裂隙魔犬，它将听命于你。^o同时只能召唤一只裂隙魔犬。
+tagItemSkillC085Name=召唤枯萎者 裂隙之灾 Summon Blighted Rift Scourge
+tagItemSkillC085Desc=从深渊中召唤裂隙之灾，它将听命于你。^o同时只能召唤一只裂隙之灾。
 tagItemSkillC085PetSkillName01=酸液喷吐 Acid Spit
 tagItemSkillC085PetSkillName02=剧毒新星 Poison Nova
 
@@ -1417,7 +1417,7 @@ tagRelicSkillC007Name=噬魂 Haunt
 tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰寒他们的血液。
 
 tagRelicSkillC008Name=爆炎 Conflagration
-tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰。^o这是一项引导技能，需要按住以维持。
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰。^o这是一项引导技能，需要持续施法。
 
 tagRelicSkillC009Name=召唤风暴魔犬 Summon Stormhound
 tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬-源于天堂的可怕野兽。^o同一时间只能召唤一只风暴魔犬。
@@ -1432,7 +1432,7 @@ tagRelicSkillC012Name=热忱 Zeal
 tagRelicSkillC012Desc=乘胜追击，当造成暴击时额外释放一阵攻击。^o需要一把近战武器。
 
 tagRelicSkillC013Name=荒芜 Desolation
-tagRelicSkillC013Desc=腐化你脚下的大地，使它成为死亡的有毒领域。
+tagRelicSkillC013Desc=腐化你脚下的大地，使它成为致死的有毒区域。
 tagRelicSkillC013Desc2=用破坏性的静态力破坏你脚下的大地。
 
 tagRelicSkillC014Name=枯萎 Blight

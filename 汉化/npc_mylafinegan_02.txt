@@ -1,13 +1,13 @@
-Myla Finegan
-You are not the one I seek.
-Alright then.
+迈拉·法恩根
+你不是我要找的人。
+好吧。
 I must apologize for the ruse, but alas, I cannot travel very far from my tomb.{^n}{^n}You may die knowing that I will savor you as I drain the life from your breathe.
 You tricked me!
 Deception was a necessity. Would you have sacrificed yourself willingly knowing my true intentions?{^n}{^n}I merely do what I must to survive. Now hush and die peacefully. This will all be over soon.
-I'm not just going to lie down and die!
-Not if I kill you first! (Attack)
-Deceitful wretch! You've picked the wrong prey this time!
-I have haunted this forest for centuries, sapping unsuspecting fools such as yourself of their precious vitality. My cave has been sealed off time and again but, somehow, it is always uncovered again thanks to naive dupes like yourself or the greedy prospectors who visited me last.{^n}{^n}What hope do you have against me?
-Only one way to find out. (Attack)
-You are not the one I seek.
-Alright then.
+我可不会引颈就戮！
+不如我先杀了你！(攻击)
+狡诈的混蛋！你这次可选错了猎物！
+我在这片森林狩猎了几个世纪，吸取像你这样的蠢货的宝贵生命力。我的洞穴一次又一次被封闭，但不知为何我总是能打开它，多亏了你这样的笨蛋或者是上次那些贪婪的挖矿者。{^n}{^n}反抗我，你有什么机会呢？
+只有一种法子才能知道啊。(攻击)
+你不是我要找的人。
+好吧。

@@ -6,8 +6,8 @@ Deep within the 安克维亚地下城, there dwells a manifestation of darkness 
 杀了基尔利安
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

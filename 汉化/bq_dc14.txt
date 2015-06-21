@@ -1,10 +1,10 @@
 赏金任务
-赏金：Calamity
-Bounty
-Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object for him will be rewarded with a 冥神之血 from Kasparov's stores.
+赏金：灾虐
+赏金
+卡斯帕罗夫对于研究一些恐怖黎明之前的遗物很有兴趣。{^n}{^n}他要一个灾虐来研究它的魔法属性。{^n}{^n}任何带来这种罕有物品的人都将得到一罐冥神之血作为奖赏。
 
-Craft a Calamity Relic
-Deliver Calamity to the 恶魔十字 Bounty Table
+锻造一个遗物灾虐
+把灾虐送至恶魔十字赏金桌
 
 
 

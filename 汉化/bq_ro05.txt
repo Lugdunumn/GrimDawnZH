@@ -1,13 +1,13 @@
 赏金任务
-赏金：Lord of Lost Souls
+赏金：堕落之魂领主
 Bounty
-In 安克维亚山麓, there is a cavern known as the Spined Cove. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
+In 安克维亚山麓, there is a cavern known as 脊状峡谷. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
 
-杀了Baron Wradlith
+杀了瓦德里斯男爵
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

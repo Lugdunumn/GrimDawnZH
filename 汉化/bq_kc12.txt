@@ -1,9 +1,9 @@
 赏金任务
-赏金：The Amalgamation
+赏金：混元体
 Bounty
-Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in the Gruesome Harvest. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
+Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in 阴森的谷仓. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
 
-杀了The Amalgamation
+杀了混元体
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

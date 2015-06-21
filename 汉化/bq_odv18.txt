@@ -1,7 +1,7 @@
 赏金任务
-赏金：The Warden's Slaves
+赏金：典狱长的奴隶
 Bounty
-We have identified two of the men involved in the experiments conducted within Warden Krieg's laboratory. Unfortunately, they are both already dead.{^n}{^n}Fortunately, however, they have both been raised as 复生者. The Order wishes to study the process by which normal humans are turned into these necrotic vessels.{^n}{^n}Travel to Krieg's facility and 杀了盖思兰 and 赞布兰特.{^n}{^n}The elimination of the 复生者 will be rewarded with iron bits.
+We have identified two of the men involved in the experiments conducted within 典狱长格里格的实验室. Unfortunately, they are both already dead.{^n}{^n}Fortunately, however, they have both been raised as 复生者. The Order wishes to study the process by which normal humans are turned into these necrotic vessels.{^n}{^n}Travel to Krieg's facility and 杀了盖思兰 and 赞布兰特.{^n}{^n}The elimination of the 复生者 will be rewarded with iron bits.
 
 杀了盖思兰
 杀了赞布兰特

@@ -1,9 +1,9 @@
 赏金任务
-赏金：Malkadarr
+赏金：马卡达
 Bounty
 The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
 
-杀了Malkadarr
+杀了马卡达
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

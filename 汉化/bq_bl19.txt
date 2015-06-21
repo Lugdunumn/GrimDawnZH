@@ -1,7 +1,7 @@
 赏金任务
 赏金：尸化者
-Bounty
-The Legion requests assistance with a priority target.{^n}{^n}尸化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金
+军团要你帮助解决一个高优先级的目标。{^n}{^n}尸化者，是一头居住在古代墓地的贪吃的食尸鬼。如果我们要阻止邪教徒的话，必须马上解决掉这头怪物。{^n}{^n}任何的帮助都会得到材料作为奖赏。
 
 
 

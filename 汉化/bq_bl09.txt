@@ -1,7 +1,7 @@
 赏金任务
 赏金：掠行的西克里斯
-Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脉深渊. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金
+军团要你帮助完成一项怪物的狩猎任务。{^n}{^n}一只叫做西克里斯的穴居爬行者从军团的猎手手里逃脱了，不过猎手们追踪到它进入了高度危险的山脉深渊中。我们需要额外的人手来除掉这只怪物。{^n}{^n}任何的协助都将获得材料作为奖励。
 
 
 

@@ -388,7 +388,7 @@ tagHumanHeroH10=“蛇皮” 埃尔登 ~ 回复者
 tagHumanBoss01=“守财奴” 马丁
 tagHumanBoss02=“耗子” 海里昂
 tagHumanBoss03=尼古拉斯·巴尔萨泽
-tagHumanBoss04=矿主 鲍里斯
+tagHumanBoss04=竞技场主 鲍里斯
 
 tagHumanRoverA_A01=流浪者
 tagHumanRoverA_B01=流浪者 侦察兵
@@ -496,7 +496,7 @@ tagManticoreBoss01=女王 莫伽拉
 #CreatureObsidianDefiler 黑曜石蝎子
 
 tagEnemyObsidianDefilerA01=黑曜岩降生者
-tagEnemyObsidianDefilerB01=黑曜石蝎子
+tagEnemyObsidianDefilerB01=黑曜石亵渎者
 tagEnemyObsidianDefilerC01=黑曜石掠夺者
 tagEnemyObsidianDefilerC02=黑曜石歼灭者
 
@@ -763,7 +763,7 @@ tagTrollSwampHeroH03=马加洛克 ~ 虚空之触
 tagTrollSwampHeroH04=阿瓦加尔 ~ 腐化
 
 tagBossTrollB01=狂暴的苟格思
-tagBossTrollB02=破坏者 沃德瑞克
+tagBossTrollB02=破坏者 沃德拉克
 tagBossTrollB03=沼泽之王 贝尔戈
 
 tagEnemyTrollCorruptedA01=奇型巨魔

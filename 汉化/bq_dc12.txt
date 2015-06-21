@@ -1,10 +1,10 @@
 赏金任务
-赏金：Scrap
-Bounty
-Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
+赏金：废铁
+赏金
+巴纳巴斯需要更多的废铁来修理东西和日常维护。{^n}{^n}任何收集到足够废铁的人他都会奖赏给一些铁币。
 
-收集Scrap
-Deliver the Scrap to the 恶魔十字 Bounty Table
+收集废铁
+把废铁送至恶魔十字赏金桌
 
 
 

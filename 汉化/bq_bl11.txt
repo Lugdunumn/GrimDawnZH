@@ -1,10 +1,10 @@
 赏金任务
 赏金：冥灵魔印
-Bounty
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a 冥灵魔印 will be compensated with iron bits.
+赏金
+军团要你帮助收集敌人的情报。{^n}{^n}冥神的邪教徒们在召唤仪式中使用了奇特的魔印。要想实施反制，我们必须了解这些东西的作用。{^n}{^n}送来一块冥灵魔印将得到铁币作为奖赏。
 
 收集冥灵魔印
-Deliver the Chthonic Seal to the Black Legion Bounty Table
+把冥灵魔印送回黑色军团的赏金桌。
 
 
 

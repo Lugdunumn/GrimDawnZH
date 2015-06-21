@@ -1,7 +1,7 @@
 赏金任务
 赏金：灰烬之爪
-Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金
+军团要你协助一项猎杀怪物的任务。{^n}{^n}一头叫做灰烬之爪的荆棘兽对火焰有着极强的抵抗能力。它最后一次是在松林荒地，所到之处到处燃烧着火焰。{^n}{^n}任何的协助都会得到材料作为奖赏。
 
 
 

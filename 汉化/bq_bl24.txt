@@ -1,7 +1,7 @@
 赏金任务
 赏金：不朽者 伊尔戈
-Bounty
-The Legion requests assistance with a priority target.{^n}{^n}Far to the south, within the Broken Hills, there is a forgotten ruin known as 苦痛阶梯. It appears to be the epicenter of all undead activity within Arkovia. At the bottom of this accursed place, beyond the Gates of Anguish, there dwells a corruption known as 伊尔戈. If this guardian were somehow destroyed and the tower cleansed, then the Legion could study the ruins and excavate them for artifacts. Such a valuable resource cannot be underestimated.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
+赏金
+军团要你协助解决一个高优先级的目标。{^n}{^n}在遥远的南方的破碎丘陵，有一处被遗忘的遗迹叫做苦痛阶梯。那里似乎是安克维亚所有不死亡灵的行动中心。在这个被诅咒的地方的底层，痛苦之门的后面，居住着一头腐化的叫做伊尔戈的怪物。如果那里的守护者被消灭了，然后得以净化的话，军团就可以研究那个废墟然后发掘遗物。那里绝对拥有着不可低估的资源。{^n}{^n}军团愿意用罕见的材料来奖励完成这项不可能完成的任务的勇士。{^n}{^n}这项任务需要一把骸骨之钥。
 
 杀了伊尔戈
 

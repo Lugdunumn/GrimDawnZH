@@ -1,9 +1,9 @@
 赏金任务
-赏金：Ruination
+赏金：毁灭
 Bounty
 Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
 
-Craft a Ruination Relic
+锻造一个毁灭遗物
 Deliver Ruination to the Kymon's Chosen Bounty Table
 
 

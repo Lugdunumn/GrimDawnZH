@@ -1,13 +1,13 @@
 赏金任务
-赏金：Revenants
+赏金：亡魂
 Bounty
 Arkovian Revenants were once knights of the priesthood, relentless defenders of Arkovian faith and their gods. They now roam the ruins as embodiments of the elements themselves.{^n}{^n}Their once noble cause has been twisted as they endlessly protect temples that have not existed for centuries. It is time for these loyal knights to be put to their final rest.{^n}{^n}We have set aside some iron bits as a reward to anyone brave enough to enter the ruins and perform this task.
 
-杀了Skeletal Revenants
+杀死骷髅亡魂
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

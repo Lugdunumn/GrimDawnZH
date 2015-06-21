@@ -1,7 +1,7 @@
 赏金任务
 赏金：卢萨斯·巴洛克
-Bounty
-The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from 黑曜石王座, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金
+军团要你帮助解决一个高优先级的目标。{^n}{^n}卢萨斯·巴洛克是一头强大的冥灵，它会通过它黑曜石做成的身体施放雷电。它曾出现在黑曜石王座，所到之处会产生雷电风暴。必须结束这头混沌生物的生命。{^n}{^n}任何的帮助都将得到材料作为奖赏。
 
 
 

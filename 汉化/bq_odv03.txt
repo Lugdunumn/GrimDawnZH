@@ -1,9 +1,9 @@
 赏金任务
-赏金：Blade Maidens
+赏金：剑姬
 Bounty
 Kymon's Chosen cannot be reasoned with. They send their flame-wielding Blade Maidens after our people to butcher them like animals.{^n}{^n}We will not stand for this. Slaughter any Blade Maidens you come across. Perhaps that will send a message to the Chosen and their false prophet. And besides, they will serve as excellent minions.{^n}{^n}Iron bits for every slain Blade Maiden.
 
-杀了Kymon's Blade Maidens
+杀死凯蒙的剑姬
 
 回报任务
 You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.

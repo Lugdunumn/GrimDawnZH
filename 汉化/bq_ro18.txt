@@ -1,13 +1,13 @@
 赏金任务
-赏金：Voldrak
+赏金：沃德拉克
 Bounty
 走私者的通道 was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If 走私者的通道 is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
 
-杀了Voldrak
+杀了沃德拉克
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

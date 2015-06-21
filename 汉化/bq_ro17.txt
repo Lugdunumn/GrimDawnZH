@@ -1,13 +1,13 @@
 赏金任务
-赏金：Zarthuzellan
+赏金：扎尔泽兰
 Bounty
 The Arkovian Grand Priest, Zarthuzellan, came up often in the Rover text as a charismatic and manipulative spiritual leader of Arkovia.{^n}{^n}His tortured soul now roams within 苦痛阶梯, forever bound to the land he helped condemn to damnation. But even in death, he gathers followers at his cursed altar.{^n}{^n}This twisted practice must be stopped. We have set aside iron bits for anyone brave enough to enter 苦痛阶梯.
 
-杀了Grand Priest Zarthuzellan
+杀了大祭司扎尔泽兰
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

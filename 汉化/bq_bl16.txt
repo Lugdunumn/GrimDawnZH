@@ -1,7 +1,7 @@
 赏金任务
 赏金：碎裂之魂
-Bounty
-The Legion requests assistance with a priority target.{^n}{^n}An undead being known as 基尔利安 dwells within 古安克维亚地下城. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
+赏金
+军团要你帮助解决一个高优先级的目标。{^n}{^n}一个叫做基尔利安的不死生物盘踞在古安克维亚地下城。他聚集死者，制造严重威胁着人类的亡者大军。必须不惜一切代价干掉他。{^n}{^n}任何的帮助都会得到一大笔赏金作为奖赏。
 
 杀死基尔利安
 

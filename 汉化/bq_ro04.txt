@@ -1,13 +1,13 @@
 赏金任务
-赏金：Rolderathis
+赏金：罗德拉西斯
 Bounty
 Rover texts speak of a temple dedicated to the Arkovian god, Ishtak, hidden away within a flooded cavern system out in Wightmire.{^n}{^n}If the Arkovian curse had taken them too, then the souls trapped within could one day escape out into the surrounding region.{^n}{^n}We will gladly reward anyone willing to investigate the ruins with some of their scavenged materials.
 
-杀了High Priest Rolderathis
+杀了大祭司罗德拉西斯
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

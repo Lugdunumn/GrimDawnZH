@@ -1,11 +1,11 @@
 赏金任务
-赏金：Slathra
-Bounty
-The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted around a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
+赏金：斯拉丝
+赏金
+蛇人因为用它们女族长分泌的毒液往饮水中下毒而闻名于世。{^n}{^n}有一头叫做病疫的斯拉丝的女族长出现在了迷雾河畔的一个山洞中。{^n}{^n}在她有机会污染我们所剩无几的水源之前必须杀掉她。{^n}{^n}虽然监狱缺少补给，但是我们会给完成任务的人预留好一些材料。
 
 
 
-杀了Slathra
+杀了斯拉丝
 
 回报任务
 你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。

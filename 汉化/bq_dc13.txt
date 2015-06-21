@@ -1,10 +1,10 @@
 赏金任务
 赏金：虚化水晶
-Bounty
-Kasparov is up to yet another of his experiments.{^n}{^n}This time, he requires some 虚化水晶 in order to study their effects on the riftgate after managing to disintegrate his existing collection.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that supplies Kasparov with what he needs.
+赏金
+卡斯帕罗夫要进行他的另一项实验。{^n}{^n}这一次，他需要一些虚化水晶以便研究水晶对于传送门的功效，但是他已有的收藏已经碎裂掉了。{^n}{^n}监狱虽然缺少补给，但是我们会给完成任务的人预留一些材料。
 
 收集虚化水晶
-Deliver the 虚化水晶 to the 恶魔十字 Bounty Table
+把虚化水晶送至恶魔十字的赏金桌
 
 
 

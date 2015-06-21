@@ -1,13 +1,13 @@
 赏金任务
-赏金：Cronley's Forges
+赏金：克隆利的熔炉
 Bounty
 Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
 
-Destroy bandit Forges around Four Hills
+摧毁四山上匪徒的熔炉
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

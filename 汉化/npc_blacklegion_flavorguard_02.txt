@@ -1,13 +1,13 @@
-Footman
-As you were.
-Farewell.
-Ulgrim has requested your presence. Please see him immediately.
-Can you open the gates?
-Ulgrim has made it clear that nobody is to leave until he's been debriefed on recent events.
-I'll speak to him.
-I'll speak to him.
-Stay on your guard. The enemies of humanity are all around us.
-Can you open the gates?
-I'm sorry. We are under strict orders to not open the gates as long as the Aetherial threat to the west still looms over us.
-I see.
-I'll be careful.
+步兵
+我将坚守原地。
+再见。
+艾格瑞姆要见你，请马上去找他。
+你能打开大门么？
+艾格瑞姆说的很清楚，在他听取完关于最近事件的报告之前任何人都不能离开这里。
+我会跟他谈谈的。
+我会跟他谈谈的。
+保持警戒。人类的敌人包围着我们。
+你能打开大门么？
+抱歉。上面下了严令，只要西边的虚灵还威胁着我们，就不能开门。
+我知道了。
+我会小心的。

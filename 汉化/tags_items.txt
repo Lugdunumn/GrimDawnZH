@@ -73,7 +73,7 @@ tagWeaponSwordD007Desc="只要看到这把武器，你的内心就会充满希�
 
 tagWeaponSwordF001=军团切刀
 tagWeaponSwordF002=神选之剑
-tagWeaponSwordF003=魔鬼契约
+tagWeaponSwordF003=恶魔的契约
 tagWeaponSwordF004=军团切刀 Legion Slicer
 
 tagWeaponBluntA000=木棒
@@ -159,7 +159,7 @@ tagWeaponAxeC002=死神之触 Reaper's Touch
 tagWeaponAxeC002Desc="一件古老的献祭仪式用具，由一位早已死去之人铸造而成。"
 tagWeaponAxeC003=血块盛宴 Gorefeast
 tagWeaponAxeC004=鲜血收割者之斧 Bloodreaper's Cleaver
-tagWeaponAxeC005=风暴边缘 Storm's Edge
+tagWeaponAxeC005=风暴之斧 Storm's Edge
 tagWeaponAxeC006=克里格的切肉斧 Krieg's Cleaver
 tagWeaponAxeC006Desc="一把凶残者拥有的凶残武器。"
 tagWeaponAxeC007=邪恶 Maleficus
@@ -184,8 +184,8 @@ tagWeaponAxeD005=天谴 Damnation
 
 
 tagWeaponAxeF001=罗瓦里的正义 Rhowari Justice
-tagWeaponAxeF002=日阳边缘 Solar Edge
-tagWeaponAxeF003=死亡新月 Death's Crescent
+tagWeaponAxeF002=日阳之斧 Solar Edge
+tagWeaponAxeF003=亡者新月 Death's Crescent
 
 tagWeaponGun1hA001=手持短枪
 tagWeaponGun1hA002=狩猎手枪
@@ -241,7 +241,7 @@ tagWeaponGun1hD009=枪械师的交叉火力 Barrelsmith's Crossfire
 
 tagWeaponGun1hF001=恶魔的惩戒 Devil's Retribution
 tagWeaponGun1hF002=日阳左轮枪 Solar Revolver
-tagWeaponGun1hF003=亡者左轮枪 Death's Revolver
+tagWeaponGun1hF003=亡者的左轮枪 Death's Revolver
 tagWeaponGun1hF004=军团手持火炮 Legion Hand Cannon
 tagWeaponGun1hF005=亡者的六发左轮 Death's Sixgun
 
@@ -287,7 +287,7 @@ tagWeaponGun2hD004=灵魂旋风 Vortex of Souls
 tagWeaponGun2hD004Desc="用它发射出去的每一枪都会产生虚化之力的波动。"
 tagWeaponGun2hD005=裂肠者 Gutripper
 
-tagWeaponGun2hF001=恶魔火枪 Devil's Musket
+tagWeaponGun2hF001=恶魔的火枪 Devil's Musket
 tagWeaponGun2hF002=收割者的双管枪 Harvest's Double-Barrel
 
 tagWeaponCrossbow2hA001=十字弩
@@ -395,7 +395,7 @@ tagWeaponMelee2hD009=野性之血粉碎者 Wildblood Crusher
 
 tagWeaponMelee2hF001=军团战剑 Legion Warblade
 tagWeaponMelee2hF002=日阳巨锤 Solar Sledge
-tagWeaponMelee2hF003=死亡之镰 Death's Scythe
+tagWeaponMelee2hF003=亡者之镰 Death's Scythe
 tagWeaponMelee2hF004=神选战锤 Chosen Warmaul
 tagWeaponMelee2hF005=月光巨锤 Lunar Sledge
 tagWeaponMelee2hF006=神选粉碎者 Chosen Crusher
@@ -859,8 +859,8 @@ tagHeadF005=军团兜盔 Legion Casque
 tagHeadF006=军团头盔 Legion Headguard
 tagHeadF007=收割者的头盔 Harvest's Helm
 tagHeadF008=日阳防御者 Solar Defender
-tagHeadF009=死亡面容 Death's Visage
-tagHeadF010=死亡头盔 Death's Headguard
+tagHeadF009=亡者的面容 Death's Visage
+tagHeadF010=亡者的头盔 Death's Headguard
 tagHeadF011=神选风帽 Chosen Cowl
 tagHeadF012=神选头盔 Chosen Headguard
 
@@ -939,8 +939,8 @@ tagShoulderF014=罗瓦里护肩
 tagShoulderF015=军团披肩
 tagShoulderF016=军团肩甲
 tagShoulderF017=军团肩铠
-tagShoulderF018=死亡披肩
-tagShoulderF019=死亡肩铠
+tagShoulderF018=亡者披肩
+tagShoulderF019=亡者肩铠
 tagShoulderF020=神选披肩
 tagShoulderF021=神选肩铠
 
@@ -1039,8 +1039,8 @@ tagTorsoF012=恶魔的护胸
 tagTorsoF013=军团战衣
 tagTorsoF014=军团胸铠
 tagTorsoF015=军团护胸
-tagTorsoF016=死亡战衣
-tagTorsoF017=死亡胸铠
+tagTorsoF016=亡者战衣
+tagTorsoF017=亡者胸铠
 tagTorsoF018=神选战衣
 tagTorsoF019=神选护胸
 tagTorsoF020=罗瓦里战衣
@@ -3033,7 +3033,7 @@ tagItemSetC021Name=东方誓言
 tagItemSetC021Desc="一位来自海对岸异国的受人尊敬的祭祀所穿的衣服。"
 
 tagItemSetC022Name=自然召唤者
-+tagItemSetC022Desc="自然召唤者们的装饰品，萨满们聆听着自然之音。"
+tagItemSetC022Desc="自然召唤者们的装饰品，萨满们聆听着自然之音。"
 
 tagItemSetD001Name=审判者盔甲
 tagItemSetD001Desc="曼海尔的卫士中的大审判官，沉默的霍瓦德的盔甲。"

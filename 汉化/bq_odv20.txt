@@ -1,9 +1,9 @@
 赏金任务
-赏金：Ruination
+赏金：毁灭
 Bounty
 Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But power also lies in ruin and destruction. The Order wishes to harness this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Do this for the Order, and you shall be rewarded with the vial of the 冥神之血, to use as you see fit in your rituals.
 
-Craft a Ruination Relic
+锻造一个毁灭遗物
 Deliver Ruination to the Order of Death's Vigil Bounty Table
 
 

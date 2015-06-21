@@ -1,15 +1,15 @@
 赏金任务
 赏金：格鲁姆
 Bounty
-A skeletal monstrosity known as 格鲁姆 has been spotted out at the Crumbling Watch in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
+A skeletal monstrosity known as 格鲁姆 has been spotted out at 瞭望塔遗迹 in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
 
 
 
 杀了格鲁姆
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

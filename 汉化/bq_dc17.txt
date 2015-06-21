@@ -1,11 +1,11 @@
 赏金任务
-赏金：Nalloth
-Bounty
-A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular 复生者 roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
+赏金：寒霜之裔 纳罗斯
+赏金
+一个强大的复生者在克隆利的地下室进进出出，它可能是克里格最后一个残忍的实验品。{^n}{^n}已有的四处游荡的复生者已经让事情变得很糟糕了，納罗斯必须被消灭。{^n}{^n}任何完成任务的人都将得到一些材料作为奖赏。
 
 
 
-杀了Nalloth
+杀了纳罗斯
 
 回报任务
 你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。

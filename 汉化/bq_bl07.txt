@@ -1,7 +1,7 @@
 赏金任务
 赏金: 蝎尾狮女王
 赏金
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
+军团要你帮助完成一项猎杀怪物的任务。{^n}{^n}一头叫做莫伽拉的蝎尾狮女王是个难对付的家伙，经常会猎杀掉想要干掉她的猎人。她的狩猎领地似乎是在锯齿荒地的南部。{^n}{^n}任何的帮助都会得到赏金作为回报。
 
 杀死莫伽拉
 

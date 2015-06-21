@@ -1,9 +1,9 @@
 赏金任务
-赏金：Blade of Ch'thon
-Bounty
-The Cult of Ch'thon has many leaders, but we have finally discovered the identity of the one in charge of activities around 恶魔十字.{^n}{^n}He goes by the name Salazar, Blade of Ch'thon and he is rumored to be hiding out somewhere near the 伯尔维治 Outskirts.{^n}{^n}Anyone that tracks down and eliminates Salazar will be justly rewarded with some of our rare scavenged materials.
+赏金：冥神之刃
+赏金
+冥神的邪教徒有很多头领，我们最终发现了负责在恶魔十字行动的头领的身份。{^n}{^n}他的名字是萨拉查，冥神之刃。据说他藏身于伯尔维治郊外某处。{^n}{^n}任何找到他并且消灭他的人都将得到一些材料作为奖赏。
 
-杀了Salazar
+杀了萨拉查
 
 回报任务
 你完成了恶魔十字的任务，应该回到赏金桌领取奖赏。

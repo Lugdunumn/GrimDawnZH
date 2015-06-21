@@ -1,9 +1,9 @@
 赏金任务
-赏金：Corpse-eaters
+赏金：食尸者
 Bounty
 Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, too far gone to be reasoned with. 古代墓地 is teeming with these Corpse-eaters. There is little choice in the matter. They must be exterminated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 
-杀了Ghoul Corpse-eaters
+杀死食尸鬼 食尸者
 
 回报任务
 You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.

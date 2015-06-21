@@ -1,7 +1,7 @@
 赏金任务
 赏金：复生者 哈拉斯
-Bounty
-The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the 腐坏田地. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+赏金
+军团要你帮助解决一个高优先级的目标。{^n}{^n}哈拉斯，是一头被认为已经被杀死在霍姆斯特德传送门的奇形巨魔。由于无法解释的原因，它复活了，又出现在了腐坏田地。必须再次消灭掉这种威胁我们的生物。{^n}{^n}任何的帮助都将得到材料作为奖赏。
 
 
 

@@ -164,7 +164,7 @@ tagWorldMapGruesomeHarvest={^w}阴森的{^n}{^w}谷仓
 tagWorldMapSorrowsBastionRoad={^w}休耕田地
 tagWorldMapSorrowsBastion=悲伤城堡
 tagWorldMapBloodGrove={^w}血森林
-tagWorldMapDarkvaleMill={^w}格里弗{^n}{^w}的磨坊
+tagWorldMapDarkvaleMill={^w}格里弗{^n}{^w}的伐木场
 tagWorldMapDarkvale={^w}黑谷村
 tagWorldMapDarkvaleGate=黑谷门
 tagWorldMapFactionFort={^w}哈伦堡
@@ -263,7 +263,7 @@ tagSign_Deeps=注意:矿洞已封闭
 tagSign_Darkvale=黑谷村
 tagSign_BloodGroveFort=哈伦堡
 tagSign_BloodGroveMine=裂石矿场
-tagSign_BloodGroveMill=格里弗的磨坊
+tagSign_BloodGroveMill=格里弗的伐木场
 tagSign_FortIkon=圣像堡
 
 tagSign_OldGrove=古老林地
@@ -394,7 +394,7 @@ tagNPC_Ulgrim=艾格瑞姆
 tagNPC_Direni=狄瑞尼
 tagNPC_CaptiveInventor=达莱特
 
-tagNPC_GuardA04=守卫-麦考尔 
+tagNPC_GuardA04=守卫 - 麦考尔 
 tagNPC_Guard_DCRanged01=守卫 - 梅纳德
 tagNPC_Guard_DCRanged02=守卫 - 罗斯
 tagNPC_Guard_DCMelee01=守卫 - 布瑞格斯
@@ -411,7 +411,7 @@ tagNPC_DevilsCrossing_03=艾萨克
 tagNPC_DevilsCrossing_04=托尔文
 tagNPC_DevilsCrossing_05=库尔多
 tagNPC_DevilsCrossing_06=爱德温
-tagNPC_DevilsCrossing_07=守卫-罗斯
+tagNPC_DevilsCrossing_07=守卫 - 罗斯
 tagNPC_DevilsCrossing_08=切斯特
 
 tagNPC_Homestead_01=米诺娃
@@ -530,7 +530,7 @@ tagNPC_Flavor_AreaC_06=碧翠斯·萨莫斯
 tagNPC_Flavor_AreaC_07=特里西娅·温德伯勒
 tagNPC_Flavor_AreaC_08=塔里斯·温德伯勒
 tagNPC_Flavor_AreaC_09=艾米丽·拉克森
-tagNPC_Flavor_AreaC_10=玻利维亚
+tagNPC_Flavor_AreaC_10=鲍维娅
 tagNPC_Flavor_AreaC_11=瓦姆
 tagNPC_Flavor_AreaC_12=伊劳拉
 tagNPC_Flavor_AreaC_13=卡尔达拉
@@ -612,7 +612,7 @@ tagQuestItemNecromancerRemains=马卡达的尸骨
 tagQuestItemNecromancerRemains_Desc="这位曾经强大的死灵法师的遗骸还在腐烂着。"
 
 tagQuestItemUroboruukInfo=尤若布鲁克的笔记
-tagQuestItemUroboruukInfo_Desc="Notes seemingly abandoned by Master Necromancer Uroboruuk."
+tagQuestItemUroboruukInfo_Desc="这似乎是死灵法师尤若布鲁克遗失的笔记。"
 
 tagQuestItemKymonRelic=寇瓦克之眼
 tagQuestItemKymonRelic_Desc="A shriveled eye brimming with arcane energies. You can't help but feel as if it's staring back at you."
@@ -627,7 +627,7 @@ tagQuestItemBlackLegionInsignia=黑色军团徽章
 tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的奖赏。"
 
 tagQuestItemCultistNecropolisNote=卡若兹的秘典
-tagQuestItemCultistNecropolisNote_Desc="A tome filled with dark rituals that depict the return of a great darkness from within 古代墓地."
+tagQuestItemCultistNecropolisNote_Desc="一本写满了黑暗仪式的秘典，记述着古代墓地中一股强大的黑暗力量即将归来。"
 
 tagQuestItemAnnalsOfArkovia=安克维亚编年史
 tagQuestItemAnnalsOfArkovia_Desc="记录着安克维亚罗文王最后的日子。"
@@ -638,13 +638,13 @@ tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
 tagQuestItemThornsburyDiary=黛拉的日记
 tagQuestItemThornsburyDiary_Desc="它属于黛拉·索恩斯巴利。"
 
-tagQuestItemSlithLab=Hargate's Formula
-tagQuestItemSlithLab_Desc="The impossible to decipher scribblings of the mad Arcanist Oswald Hargate."
+tagQuestItemSlithLab=哈格特的配方
+tagQuestItemSlithLab_Desc="疯狂的奥术师奥斯瓦德·哈格特写下的草稿，潦草的完全无法辨识。"
 
 tagQuestItemAetherialEssence=虚灵精华
 tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
 
-tagQuestMogdrogenShrine=Shrine of Mogdrogen
+tagQuestMogdrogenShrine=莫格卓根的圣坛
 tagQuestItemMogdrogenShrine01=莫格卓根的灵魂
 tagQuestItemMogdrogenShrine02=莫格卓根的符文石
 tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
@@ -806,16 +806,16 @@ tagLoreObj_BookD02Text=Oswald Hargate firmly believed that the Aether could be u
 tagLoreObj_BookD03Name=蛇人的起源-第三页
 tagLoreObj_BookD03Text=When the first slith began to appear in the area known as Wightmire, it became clear that Oswald did not create just one slith. As his laboratory was never uncovered, officials could only guess as to the origin of the new species. The slith were incredibly invasive, easily dominating the local food chain and reproducing at an alarming rate.{^n}{^n}As their numbers multiplied, the slith adapted a primitive tribal hierarchy, with certain members of their packs exhibiting clear authority over the rest. And, perhaps most alarmingly of all, shamanistic behavior was reported among the slith population, indicating a strong connection to the Aether and perhaps their unnatural origins.{^n}{^n}All efforts to exterminate the slith proved fruitless, with the species simply returning at a new location from hidden nests and caverns. It is without a doubt that the actions of one arrogant individual will continue to reverberate across countless generations to come.
 
-tagLoreObj_BookD04Name=Hargate's Journal - Page 1
+tagLoreObj_BookD04Name=哈格特的日志 - 第一页
 tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires, and 伯尔维治 is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
 
-tagLoreObj_BookD05Name=Hargate's Journal - Page 2
+tagLoreObj_BookD05Name=哈格特的日志 - 第二页
 tagLoreObj_BookD05Text=At Helen's recommendation, I have chosen the lowly green swamp adder as the basis of my experiment. Its short lifespan and rapidly shedding skin made for a malleable test subject. The initial results seemed promising at first. Using high concentrations of Aether energy, we were able to instill various mutations within the specimens, creating new limbs or inducing gigantism. Unfortunately, none of the samples survived beyond a couple weeks, their higher brain functions being seemingly incapable of handling the introduction of additional bodily elements.{^n}{^n}For our second batch of experiments, we molded the adders with a few grobles captured by local trappers. The results were...curious to say the least. While this was not the breakthrough I was looking for, we seem to be heading in the right direction. The dull mind of a groble was capable of adapting to its new body, but its primitive and disgustingly malformed physique would see me become the laughing stock of my colleagues. No, I must see this through to its logical conclusion. Helen may frown upon it, but the next step seems clear as day to me...
 
-tagLoreObj_BookD06Name=Hargate's Journal - Page 3
+tagLoreObj_BookD06Name=哈格特的日志 - 第三页
 tagLoreObj_BookD06Text=I have sent Helen and Ellena away for the summer to visit family in the capital while I continue my work alone. I tasked a few unsavory individuals to gather "volunteers" for the next stage of my research, mere vagrants and Rovers, people nobody would miss. The fees they charged were considerable, but I will pay any price when I am so close to my breakthrough.{^n}{^n}The samples arrived in the middle of the night, delivered to their cells as promised. My collaborators took their pay and left promptly without asking any questions. Frankly, they looked a bit disturbed. But I was unfazed. They are but simpletons, unable to fathom the importance of my work.{^n}{^n}The specimens began stirring by morning, their frightened cries echoing throughout the lab. I explained to them that they were selected for an important duty, that their lives would finally have meaning and purpose. The scum should have been thanking me, but instead they cursed me as a madman and criminal. I dismissed their accusations and got to work. There was much to be done.
 
-tagLoreObj_BookD07Name=Hargate's Journal - Page 4
+tagLoreObj_BookD07Name=哈格特的日志 - 第四页
 tagLoreObj_BookD07Text=Helen and Ellena returned early from their trip. While Ellena was otherwise occupied with her toys in the living quarters, Helen came down into the lab to find me in the midst of my latest study. The horrified look on her face is something I shall never forget. I tried to be reasonable. I explained that what she witnessed was merely a stepping stone, that those men and women died so that our work would not be squandered on snakes and grobles. But she would not budge.{^n}{^n}My wife, my partner, had betrayed me at this most critical junction. My work is too important to let emotional attachments get in the way. I did the only sensible thing. Let history judge my actions...{^n}{^n} With the unfortunate distraction dealt with, I returned to my results. The human-snake hybrids had proven unstable and violent. I was assaulted on several occasions while attempting to study their physical functions, but those attacks proved to be little more than outbursts on the verge of death. All of the specimens died shortly after the procedure. Dissection revealed an incomplete hybridization of internal organs. With a dysfunctional digestive system, death was inevitable. But I wonder if perhaps the subjects were too old for the procedure to succeed. If I started over, with a younger candidate, then perhaps I would finally have the results I seek...
 
 tagLoreObj_VillagerNoteE01Name=警告:格罗布的进攻日益猖獗
@@ -823,7 +823,7 @@ tagLoreObj_VillagerNoteE01codexTitle=警告:格罗布的进攻
 tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of 伯尔维治 has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
 
 
-#Random 古安克维亚 Notes
+#Random Arkovia Notes
 tagLoreObj_OldArkovia_NoteA01Name=马若思·卡斯的日志
 tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
 
@@ -887,47 +887,47 @@ tagLoreObj_AreaCAetherial_NoteA01Text=Consensus is achieved. The sanctum of Home
 tagLoreObj_BlackLegion_NoteA01Name=黑色军团侦查报告
 tagLoreObj_BlackLegion_NoteA01Text=I write this letter to report of extreme and disturbing Aetherial activity to the North of Homestead. I set off to the foothills and made my way through the warren of low stone walls, fences, and occasional farmhouses. I was careful to move in secret and remain undetected from the horrors that still roam the fields unchecked. I made it to the valley of two hills near the river when I witnessed something I can barely comprehend. {^n}{^n}An unearthly black pillar that was neither stone nor flesh drifting slowly across the land as would a low cloud.  A sickly green glow burned at its core and great writhing tendrils hung from somewhere underneath the shifting back shell. I watched in mounting dread as the unholy obelisk slowed and then, without warning, burrowed the hooks of the dangling tentacles into the ground. The ground began to wither and glow with the same unwholesome green. It was then that the obelisk pulled itself into the ground. With a sound that made me feel as if the earth was dying, it began glowing so bright I could hardly look. Its power seeped into the ground, twisting and corrupting as it spread. {^n}{^n}I lingered for nearly an hour in that place and in that time a great distance around the obelisk had been changed. I was about to leave when the obelisk erupted from the ground and drifted to an untouched patch of land to begin the cycle again. We must act soon or there will be nothing left to save. {^n}{^n}--6th Regimental Scouts of the Black Legion, Renall Oberach
 
-tagLoreObj_AreaCCultist_NoteA01Name=Avalline's Note - Page 1
+tagLoreObj_AreaCCultist_NoteA01Name=阿瓦林的笔记 - 第一页
 tagLoreObj_AreaCCultist_NoteA01Text=We've been on the run for what feels like weeks now. The Aetherials are always on our heels, spreading like wildfire across the countryside. The children are starving; the few bites of food we manage to scavenge on the go aren't enough for all four of us. I'm not sure how much more of this we can take.{^n}{^n}Word on the road is that the Cult of Ch'thon is accepting members, that they have food and shelter for all. I've always pictured them as heretical lunatics, howling at the moon as they bathe in blood, but the promises of safety may be too much to pass on. Thallon cringes at the thought of being seen among the Bloodsworn, but we agree that it may be a necessary evil in order to survive. Our children deserve to eat.
 
-tagLoreObj_AreaCCultist_NoteA02Name=Avalline's Note - Page 2
+tagLoreObj_AreaCCultist_NoteA02Name=阿瓦林的笔记 - 第二页
 tagLoreObj_AreaCCultist_NoteA02Text=Life among the Bloodsworn has required some changes to our little family, mainly that we can only see the children after the day's rituals and chores are finished, which usually last late into the evening. Some days I don't see them at all until they are already asleep. My husband is having a difficult time with the prayers, he calls them blasphemous filth, but I remind him that we are doing this for our family's survival.{^n}{^n}Myself, I cannot help but question the gods who have given us nothing except poverty. But here, under the protection of Ch'thon, we are safe and fed. The Bloodsworn have given us everything they had promised, and more. All they ask in return is our devotion and a little bit of blood.{^n}{^n}So I can't help myself when I chant a little louder each morning as I sing my praises to Ch'thon. The cuts from the ritual knife serve as a gentle reminder that we are still alive and not rotting out in the wilderness. It feels...good. By Ch'thon, it feels good...
 
-tagLoreObj_AreaCCultist_NoteA03Name=Avalline's Note - Page 3
+tagLoreObj_AreaCCultist_NoteA03Name=阿瓦林的笔记 - 第三页
 tagLoreObj_AreaCCultist_NoteA03Text=All begins and ends with Ch'thon. I can see that now. My family's suffering, the poverty we've endured? These are all symptoms of our separation from Ch'thon. The Bloodsworn have shown me the way to salvation.{^n}{^n}I have prayed long and hard at the altar, poured my lifeblood out onto the stones until the answers came to me. The only way my family can truly be safe is to be reunited with Ch'thon.{^n}{^n}I have made the necessary arrangements. The sacrifice will proceed at dawn.
 
-tagLoreObj_AreaCCultist_NoteA04Name=Blood for Ch'thon
+tagLoreObj_AreaCCultist_NoteA04Name=献给冥神的鲜血
 tagLoreObj_AreaCCultist_NoteA04Text=I try to console them. I tell them everything will be alright. Their eyes go wide with fear as I find the spot between the ribs and push the blade in. They always cry and it makes me a little sad. They do not yet understand. I watch the blood as it flows down their naked legs and into the large basin I have placed below their suspended form. Ch'thon calls for every drop.{^n}{^n}To ensure I get it all, I begin by making shallow cuts. First the legs. Then the torso. And lastly the arms. Slowly their struggle rescinds and they accept their fate. At last they find understanding.{^n}{^n}The blood is not theirs. They are only holding it for another. And now it must be returned. To Ch'thon, whom it rightly belongs. At last their fear is peeled away and they are happy to give the blood freely.{^n}{^n}Devoted Servant of Ch'Thon, Bellor Heind
 
-tagLoreObj_AreaCCultist_NoteA05Name=The Call of Blood
+tagLoreObj_AreaCCultist_NoteA05Name=血之召唤
 tagLoreObj_AreaCCultist_NoteA05Text=My whole life I have reveled in the spilling of blood. For years I have been driven to hunt in the shadows. Lurking and hunting alone. But I am alone no longer. At long last I have found what has called to me.{^n}{^n}Ch'thon has whispered to me and 恐怖黎明 has released my shackles. Now I take my pleasure and 收集the blood for my Lord. It fills my heart and warms my soul to watch the last drops of blood flow.{^n}{^n}The old world was not understanding of my need. But now a new power has risen and Ch'thon has called on me. And those who do answer the Call will be my prey.
 
-tagLoreObj_AreaCCultistSummoner_NoteName=Final Sermon: The End of Times
-tagLoreObj_AreaCCultistSummoner_CodexTitle=The End of Times
+tagLoreObj_AreaCCultistSummoner_NoteName=最后的布道: 末日
+tagLoreObj_AreaCCultistSummoner_CodexTitle=末日
 tagLoreObj_AreaCCultistSummoner_NoteText=Bloodsworn supplicants of Ch'thon, it is with great purpose that we gather here today for what will be my final sermon to you. You have devoted yourselves completely, forsaking all past relations, earthly possessions and free will. You have proven that you are finally ready to become part of a greater whole, to receive the glorious gift of reunification.{^n}{^n}I must remain behind with the others to finish our great work, yet, even as you depart your lives, you will advance this broken world one step closer to the end time. The time when the dismal, suffering world will become reunited with Ch'thon, making the oldest of the old whole again and righting the great wrong perpetrated millennia ago by the false gods! These upstart gods who manipulated the course of our existence, set themselves up to be the objects of worship and who have lived off our blood and toil for ages.{^n}{^n}The end time will also bring doom to the wayward Aetherials, past agents of the false gods who were betrayed and then cast into the formless aether once their purpose had been served. They have hindered us, slaughtered our brethren and tried to claim dominance over this world. Yet, we must also thank them, for it is the Aetherials who have unwittingly made possible our ascension by destroying the empire and its inquisition. No longer does the inquisition hunt us, suppress our truths nor deny us access to our sacred places. Unshackled from the strictures of the empire, people have awakened from the false dream of civilization and our ranks have swelled.{^n}{^n}Not knowing the history of our world, the Aetherials are ignorant of the doom that we will awaken. They cannot surmise our end game and once they realize what they have set in motion, it will be too late for them to stop us! Our most devoted brethren march with legions of the void for Necropolis. They need only prevent our enemies from breaching our final line for even as they attack our forces, the blood they spill will feed our resurrection ritual. Where once we suffered our greatest defeat, our ultimate triumph shall be reborn and the Loghorrean, forerunner of the end time, will carry the thousand screaming voices of Ch'thon into world and usher in a new age!
 
-tagLoreObj_AreaCNecro_Note01Name=Laruka's Journal
+tagLoreObj_AreaCNecro_Note01Name=拉鲁卡的日志
 tagLoreObj_AreaCNecro_Note01Text=Today marks a critical moment in my life as one of Uroboruuk's pupils. Having passed the trials, the only thing that stands between me and the coveted title of necromancer is performing a reanimation.{^n}{^n}I've had the pleasure of seeing our master at work countless times. He is truly a master of the craft, requiring neither reagent nor word to bring the dead back into the living. Uroboruuk claims that this is a matter of practice and form, but I am convinced otherwise. His grasp over death supersedes us all, even his oldest students who, at a whim, may call upon spirits to do their bidding; but even they require binding runes and focusing stones of which our master makes no use of. The dead Uroboruuk brings back don't just serve him; they seem eager to please their master, as if to earn his favor.{^n}{^n}But now it is my turn to join the elite ranks of the Order. I've studied the scrolls, learned the rites and burned the words into my memory through exhaustive repetition. I've gathered the grave moss and the dust from buried bones. I am ready. Tomorrow, I will drag a soul back from beyond the veil of death and force it into skeletal remains. Tomorrow I emerge from the sepulcher as a full-fledged necromancer.
 
-tagLoreObj_AreaCNecro_Note02Name=Order Doctrine
+tagLoreObj_AreaCNecro_Note02Name=教团的教义
 tagLoreObj_AreaCNecro_Note02Text=The Order of Death's Vigil was founded upon the principles of Uroboruuk, our immortal grandmaster. Uroboruuk taught us to never be fulfilled by life's countless mysteries, to reach ever deeper into the fount of knowledge.{^n}{^n}As members of the Order, it is our sacred duty to preserve and maintain knowledge, regardless of its origins or unsettling nature; as it is not for man to discern its value. Knowledge is a wealth easily squandered by those who fear it, as evidenced by the near eradication of our Order's founding doctrine, the art of necromancy.{^n}{^n}Mastery of the ultimate fate which awaits all men represents an unparalleled frontier of learning. So it falls upon our neophytes to conquer their fear of death, to accept its harsh lessons. For not even in death does duty end. 
 
-tagLoreObj_AreaCNecro_Note03Name=Uroboruuk's Journal - Page 1
+tagLoreObj_AreaCNecro_Note03Name=尤若布鲁克的日志 - 第一页
 tagLoreObj_AreaCNecro_Note03Text=Something powerful is coming from beyond. I have sensed its approach for some time now. But like a dream or some distant memory, the details were lost to me... until now.{^n}{^n}I can feel it clawing its way through the veil somewhere to the east of 伯尔维治, no doubt drawn here by the maelstrom of otherworldly corruption. I dare say, its nature eludes even me; but it is neither flesh nor spirit. I must discover what it is we are facing and, should the need arise, seal it away again behind the barrier between worlds.{^n}{^n}The Order need not concern itself with these matters quite yet. I must do this alone...{^n}{^n}Uroboruuk
 
-tagLoreObj_AreaCNecro_Note04Name=Uroboruuk's Journal - Page 2
+tagLoreObj_AreaCNecro_Note04Name=尤若布鲁克的日志 - 第二页
 tagLoreObj_AreaCNecro_Note04Text=I will rip the bones from a thousand for this treachery. At a great cost I have survived a deadly attack.{^n}{^n}I had discovered a large contingent of Chthonic fiends. At first, I thought they were the source of power that I sought and so I followed them. As they travelled East, I soon realized that they too were after the same thing as I. They made their way to the cliffs by way of the swamp. In following them, I had walked right into an ambush as I was suddenly attacked from behind.{^n}{^n}The fight was devastating and I destroyed dozens in the ensuing conflict. However, in the midst of battle, several of the Harbingers cornered my Guardian. I first believed they intended to destroy it; but when they exploded, a rush of Chthonic energy surged into my creation and severed our link. The animated mass of bone turned on me, and I knew then that the Harbingers had found a way to corrupt my necromantic creation. I do not understand how they were capable of doing this but it was unlike anything I have ever seen Chthonic beings do.{^n}{^n}If the fiends of the Void are able to harness this power on a larger scale, then the Order of Death's Vigil will find itself outmatched. I must maintain hope that what I seek will be an answer to fighting this darkness. With each step the power grows and others will be drawn to it. I must hurry.{^n}{^n}Uroboruuk
 
-tagLoreObj_AreaCZealot_Note01Name=Acolyte's Pledge
+tagLoreObj_AreaCZealot_Note01Name=侍僧的誓言
 tagLoreObj_AreaCZealot_Note01Text=When the world ended, I did not know how I would survive. It was only by the grace of Kymon that they found me. Burried in the mud and rubble of my house, it was Father Kymon who knew where to find me. It was his hands that pulled me free of certain death.{^n}{^n}Now that I am here, I pledge to do everything I can to fight this evil and to serve the cause that gave me a second chance. It is by the will of Kymon that I now carry his light to the world and save who I can. Praise be to the Blessed Father.{^n}{^n}Acolyte of the Chosen, Carth Lavine
 
-tagLoreObj_AreaCZealot_Note02Name=Beacon of Hope
+tagLoreObj_AreaCZealot_Note02Name=希望的信标
 tagLoreObj_AreaCZealot_Note02Text=I have seen first-hand the cleansing power of the flame of Kymon and will never falter in my belief. Our forces outnumbered by horrors beyond comprehension, it was then that I first laid eyes upon him.{^n}{^n}Like a shining beacon in the chaos, Father Kymon charged into battle. He was as a flaming wind scorching a forest left to grow wild for too long, cutting down the twisted and reviled roots that seek to strangle this world of light. I knew that day that he will be the one to lead us from this horror. It is his righteousness that burns through the darkness of this world and banishes the evil. I will not fail him.{^n}{^n}Blade Maiden Sendra Ambri
 
-tagLoreObj_AreaCZealot_Note03Name=Kymon's Journal - Page 1
+tagLoreObj_AreaCZealot_Note03Name=凯蒙的日志 - 第一页
 tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each exchange I feel drained as though my life were being drawn into a deep well. Everything appears darker and father away as if seen though a long tunnel. A lesser man without the years of Inquisitor mental training would be consumed.{^n}{^n}Even as I write this, I can sense its energy rippling through the room. I can feel it like worms twitching below my skin. It burrows and pulls, urging me to get closer. I dread to think of what would become of any of my Chosen should they get too close to this entity. What would remain, I cannot say, but I suspect the Messenger would shuck the mind and claim the body for its own.{^n}{^n}I fear there are none who would understand or survive this secret. I alone must shoulder this burden and so I will steel myself and endure. I have taken on a great risk, but the fate of the world hinges on the success of The Chosen and the pact that I have made.{^n}{^n}Father Kymon
 
-tagLoreObj_AreaCZealot_Note04Name=Kymon's Journal - Page 2
+tagLoreObj_AreaCZealot_Note04Name=凯蒙的日志 - 第二页
 tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
 
 

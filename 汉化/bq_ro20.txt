@@ -1,14 +1,14 @@
 赏金任务
-赏金：Hive Royalty
+赏金：蜂后巢穴
 Bounty
 The Venomwing hives are each under the control of a queen. These queens once produced ample quantities of Royal Jelly, but they are well past their prime.{^n}{^n}If the supply of Royal Jelly is to continue, then the queens must be slain so that new younger queens will rise to take their place.{^n}{^n}We have set aside iron bits for anyone willing to see this through.
 
-杀了Ulraprax
-杀了Ronaprax
+杀了蜂巢女王 尤拉普莱克斯
+杀了至高女皇 罗纳普莱克斯
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

@@ -1,10 +1,10 @@
 赏金任务
 赏金：冥神之血
-Bounty
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the 冥神之血. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a 冥神之血 will be compensated with materials from the Legion stores.
+赏金
+军团要你帮助收集敌人的情报。{^n}{^n}冥神的邪教徒对于一种叫做冥神之血的东西十分着迷。军团想要更深入的研究这种液体。{^n}{^n}送来一罐冥神之血将会得到材料作为奖赏。
 
 收集冥神之血
-Deliver the 冥神之血 to the Black Legion Bounty Table
+将冥神之血送回黑色军团的赏金桌
 
 
 

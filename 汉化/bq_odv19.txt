@@ -1,9 +1,9 @@
 赏金任务
-赏金：Archon Barthollem
+赏金：执政官 巴托雷姆
 Bounty
 The Chosen of Kymon have taken over a crypt beneath Fort Ikon known as the Tomb of Archon Barthollem. This is a valuable resource to the Order and must not be squandered by the Chosen.{^n}{^n}They have already summoned a manifestation of the Archon. We dare not think what else they can do with such an ancient site. Travel to the tomb and exterminate the Chosen and their champion.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
 
-杀了Archon Barthollem
+杀了执政官巴托雷姆
 
 回报任务
 You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.

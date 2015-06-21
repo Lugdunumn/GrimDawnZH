@@ -1,15 +1,15 @@
 赏金任务
 赏金：灾疫之羽 雷克希纳
 Bounty
-A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies over the Broken Hills. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
+A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies over 破碎丘陵. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
 
 
 
 杀了灾疫之羽 雷克希纳
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

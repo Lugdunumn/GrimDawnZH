@@ -1,13 +1,13 @@
 赏金任务
-赏金：Pest Control
+赏金：控制害虫
 Bounty
 The Wasps provide the Rovers with valuable Royal Jelly but, when found in great numbers, they can pose a serious threat.{^n}{^n}The poison carried by the Venomwing Stingers is so potent, not even Rover medicine can treat it. Victims must withstand hours of agonizing pain. Many do not even last that long.{^n}{^n}The Venomwing Stinger population must be brought down immediately. A pouch of iron bits to anyone that carries out the task.
 
-杀了Venomwing Stingers
+杀死毒翼刺蜂
 
 回报任务
-You have completed the task for the Rovers and should return to the Bounty Table for your reward.
-Return to the Rover Bounty Table
+你已经完成了任务，你该返回赏金桌领取奖赏。
+返回流浪者赏金桌
 
 
 

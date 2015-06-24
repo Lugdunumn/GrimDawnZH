@@ -1516,7 +1516,7 @@ tagMedalF005=军团的虚空徽记 Legion Mark of the Void
 tagMedalF006=军团的刀锋徽记 Legion Mark of Blades
 tagMedalF007=神选战争星章 Chosen Star of War
 tagMedalF008=神选雷霆星章 Chosen Star of Thunder
-tagMedalF009=腐化的神选星章 Corrupted Chosen Star
+tagMedalF009=渎神的神选星章 Defiled Chosen Star
 tagMedalF009Desc="尽管受到了敌人力量的污染，这枚勋章仍可用作正途。"
 
 
@@ -1707,8 +1707,10 @@ tagBlueprint_ArmorC001=设计图：帝国卫兵的防御者
 tagBlueprint_ArmorC002=设计图：帝国卫兵的胸甲
 tagBlueprint_ArmorC003=设计图：探险家的外套
 tagBlueprint_ArmorC004=设计图：探险家长裤
+tagBlueprint_ArmorC005=设计图: 盛饰肩铠
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
+tagBlueprint_AccessoryC002=设计图: 漩涡之石
 
 
 tagBlueprint_MiscA01=设计图：骸骨之钥
@@ -3141,7 +3143,7 @@ tagPrefixAO009=吮咒
 tagPrefixAO010=吸蚀
 tagPrefixAO011=侵蚀
 tagPrefixAO012=弯曲
-tagPrefixAO013=腐化
+tagPrefixAO013=虚空之触的
 
 tagPrefixB001_WpnMelee1h_A=暴君的
 tagPrefixB002_WpnMelee1h_A=野蛮

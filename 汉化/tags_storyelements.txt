@@ -238,9 +238,8 @@ tagUGCryptZealot01=寇瓦克之墓
 tagUGVoidlands01=混沌要塞
 tagUGVoidlands01A=不谐
 tagUGVoidlands01B=无序
-tagUGVoidlands01C=熵
-tagUGVoidlands01D=混乱
-tagUGVoidlands01AE=绝望之地
+tagUGVoidlands01C=狱火
+tagUGVoidlands01D=绝望之地
 
 #Signs
 

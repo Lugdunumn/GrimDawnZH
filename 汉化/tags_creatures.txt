@@ -122,8 +122,30 @@ tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
+tagEnemyChthonianDreadguardA01=Chthonian Vanguard
+tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+
+tagChthonianDreadguardHeroH01=Shar'Oruuth
+tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
+
+tagEnemyChthonianLeechA01=Void Parasite
+tagEnemyChthonianLeechB01=Void Leech
+tagEnemyChthonianLeechB02=Void Souldrinker
+
+tagChthonianLeechHeroH01=Vom'Anatu
+tagChthonianLeechHeroH02=Gawtok'Anatu
+tagChthonianLeechHeroH03=Ekket'Anatu
+tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
+
 tagChthonianBoss01=鲜血使者 拉苟扎克
 tagChthonianBoss02=混沌使者 沙祖尔
+tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss04=Balok'Anatu, Bloodfiend
 
 #CreatureChthonianFiend
 
@@ -139,6 +161,7 @@ tagVoidFiendHeroH05=古尔哥特·西恩 ~ 燃烧
 
 tagVoidFiendBoss01=地狱之火 巴洛格·纳斯
 
+
 #CreatureChthonianDevourer
 
 tagEnemyChthonianDevourerA00=冥灵游荡者
@@ -153,6 +176,7 @@ tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖尔
 tagChthonianDevourerHeroH04=火花巨口 沃班纳
 
 tagChthonianDevourerBossB01=巨胃 拉格·纳达
+
 
 #CreatureDranghoul 咆哮巨兽
 
@@ -221,12 +245,15 @@ tagEnemyGhoulB01=食尸鬼 食尸者
 tagEnemyGhoulB02=食尸鬼 饮血者
 tagEnemyGhoulC01=食尸鬼 死灵法师
 
-tagEnemyGhoulH01=
-tagEnemyGhoulH02=
-tagEnemyGhoulH03=
-tagEnemyGhoulH04=
+tagEnemyGhoulH01=Necrolask
+tagEnemyGhoulH02=Rot-Eye
+tagEnemyGhoulH03=Corpselick
+tagEnemyGhoulH04=Corpran ~ Corrupted
+tagEnemyGhoulH05=Vilnius ~ Voidtouched
 
 tagGhoulBoss01=永恒的那卡森
+tagGhoulBoss02=Plagius, the Decrepit
+
 
 #CreatureGolem 傀儡
 
@@ -576,6 +603,8 @@ tagRiftHoundHeroH04=炼狱 沃尔文
 tagRiftHoundHeroH05=沼地之怒 贾拉克斯 ~ 冲锋
 tagRiftHoundHeroH06=犬群猎手 加恩 ~ 防御者
 
+tagBossRifthoundB01=Kalis Ka, the Bonehunter
+
 #CreatureScavenger 食腐动物
 
 tagEnemyScavengerA01=食腐者
@@ -733,6 +762,13 @@ tagEnemyTrollHalfB02=雾裔战士
 tagEnemyTrollHalfB03=雾裔萨满
 tagEnemyTrollHalfC01=雾裔长者
 
+tagEnemyTrollHalfSwampA01=Eastmire Brute
+tagEnemyTrollHalfSwampA02=Eastmire Herder
+tagEnemyTrollHalfSwampB01=Eastmire Hunter
+tagEnemyTrollHalfSwampB02=Eastmire Warrior
+tagEnemyTrollHalfSwampB03=Eastmire Shaman
+tagEnemyTrollHalfSwampC01=Eastmire Elder
+
 tagTrollHalfHeroH01=吞岩者 巴拉尔
 tagTrollHalfHeroH02=战争狂 帕德瑞克
 tagTrollHalfHeroH03=石牙 ~ 防御者
@@ -837,12 +873,12 @@ tagEnemyYetiB01=寒鬃狂暴者
 tagEnemyYetiB02=寒鬃寒冰分断者
 tagEnemyYetiC01=寒鬃头领
 
-tagYetiHeroH01=
-tagYetiHeroH02=
-tagYetiHeroH03=
-tagYetiHeroH04=
+tagYetiHeroH01=Bonechill
+tagYetiHeroH02=Icesnap
+tagYetiHeroH03=Chillblood ~ Regenerator
+tagYetiHeroH04=Mallus ~ Corrupted
 
-tagYetiBoss01=
+tagYetiBoss01=Ragrathar Rageblood
 
 
 #CreatureZombie

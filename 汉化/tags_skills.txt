@@ -225,14 +225,16 @@ tagClass02SkillName07A=防爆护盾 Blast Shield
 tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量的穿刺与火焰伤害的护盾，直至毁坏。^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
 
 tagClass02SkillName07B=奥祖因的选召 Ulzuin's Chosen
-tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐，获得他的祝福以对世界造成炽烈破坏。^o[需要并作用于手榴弹和碳罐炸弹]
+tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐，获得他的祝福以对世界造成炽烈破坏。^o[影响眩晕投掷，手榴弹和碳罐炸弹并需要其中的技能之一才能生效]
 
 tagClass02SkillName08A=黑水鸡尾酒 Blackwater Cocktail
-tagClass02SkillDescription08A=黑水鸡尾酒将在传统弹药将耗尽时调制。这些简易的火焰炸弹将在碰撞后留下自燃火焰，对付密集的敌人特别有效。
+tagClass02SkillDescription08A=在传统弹药将要耗尽的时候调制黑水鸡尾酒。这些简易的火焰炸弹将在碰撞后留下自燃火焰，对付密集的敌人特别有效。
 tagClass02SkillName08B=恶魔之火 Demon Fire
 tagClass02SkillDescription08B=被施以巫术的火焰拥有混沌之力，能融化敌人的肉体和损坏护甲。
 tagClass02SkillName08C=痛苦烈焰 Agonizing Flames
 tagClass02SkillDescription08C=黑水火焰造成的痛苦会削弱敌人对即将到来的法术攻击的抵抗能力。
+tagClass02SkillName08D=高能配方 High Potency
+tagClass02SkillDescription08D=这种更为强效的配方将使得燃烧时间延长并且削弱敌人的战斗力。
 
 tagClass02SkillName09A=眩晕投掷 Stun Jacks
 tagClass02SkillDescription09A=扔出一排小型的带电金属弹暂时阻止敌人前进。
@@ -371,8 +373,10 @@ tagClass04SkillName01B=寻心击 Heart Seeker
 tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
 tagClass04SkillName01C=幽冥之刃 Nether Edge
 tagClass04SkillDescription01C=以黑魔法强化幻影刀锋，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
-tagClass04SkillName01D=狂热投掷 Frenetic Throw
-tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
+tagClass04SkillName01D=专注投掷 Focused Throw
+tagClass04SkillDescription01D=更加精准而且强力地投掷幻影刀锋，将杀伤力汇集于一次凶猛的攻击。
+tagClass04SkillName01X=狂热投掷 Frenetic Throw
+tagClass04SkillDescription01X=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
 
 tagClass04SkillName02A=暗影突袭 Shadow Strike
 tagClass04SkillDescription02A=幻术与精神扭曲的巧妙结合使你几近消失并像梦魇中的幽灵一样显身在你的目标上方。^o需要一把近战武器。
@@ -1162,6 +1166,9 @@ tagItemSkillC091Desc=一项复制技能，当打击敌人时复制释放。
 tagItemSkillC092Name=风暴潮 Storm Surge
 tagItemSkillC092Desc=在危急关头，你将从天堂召唤出毁灭性的雷电之力加诸于身。
 
+tagItemSkillC093Name=蛛网 Spider's Web
+tagItemSkillC093Desc=将敌人困在带有粘性的网中，使得他们更加容易被猎杀。^o这项技能将会在持续时间之内使敌人无法移动。对陷阱具有抗性的敌人将减少作用时间。
+
 tagItemSkillM001Name=生命精华 Life's Essence
 tagItemSkillM001Desc=修复创伤使疲惫的英雄恢复生气。
 
@@ -1580,13 +1587,8 @@ tagConsumableSkill_F10Desc=一阵刺骨寒风围绕着你。
 tagConsumableSkill_F11=凯蒙的圣油
 tagConsumableSkill_F11Desc=在你的武器上涂抹凯蒙祝福的圣油。
 tagConsumableSkill_F12=凯蒙的愤怒药剂
-tagConsumableSkill_F12Desc=你发出爆发的火焰。
+tagConsumableSkill_F12Desc=你发出爆裂的火焰。
 
-
-#SkillsEnemy 敌人技能
-
-tagEnemySkill01=虚弱诅咒
-tagEnemySkill01Desc=削弱灵魂对虚无的自然抵抗力
 
 #SkillsQuest
 
@@ -1661,7 +1663,43 @@ tagTemplateDescription=DescribeMe
 
 
 
-#EnemySkills敌人技能
+#EnemySkills 敌人技能
 
-tagEnemySkillA01=绝望光环
-tagEnemySkillA01_Desc=虚灵先锋的存在使你感到惧怕，因此你的行动减缓并受到虚化伤害。
+tagEnemySkillA01=虚弱诅咒 Curse of Debilitation
+tagEnemySkillA01_Desc=削弱灵魂对虚无的抵抗力。
+
+tagEnemySkill01=绝望光环 Despair Aura
+tagEnemySkill01Desc=虚灵先锋的存在使你感到惧怕，因此你的行动减缓并受到虚化伤害。
+
+tagEnemySkillA02=吸魂者的存在 Souldrinker's Presence
+tagEnemySkillA02_Desc=吸魂者的存在会吸取你的力量并使你受到活力伤害。
+
+tagEnemySkillA03=幽魂瘴气 Spectral Miasma
+tagEnemySkillA03_Desc=冥灵的诅咒会侵蚀你所有的防御力。
+
+tagEnemySkillA04=痛苦标记 Mark of Pain
+tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量。
+
+tagEnemySkillA05=自然之怒 Nature's Fury
+tagEnemySkillA05_Desc=巨魔的诅咒减慢你的精神和肉体，削弱你对元素的抵抗能力。
+
+tagEnemySkillA06=血之虹吸 Blood Siphon
+tagEnemySkillA06_Desc=穴居人的诅咒吸取你的生命力将其传递给施法者。
+
+tagEnemySkillA07=血之瘟疫 Blood Plague
+tagEnemySkillA07_Desc=食尸鬼的诅咒使你的血液沸腾，损伤你的防御能力。
+
+tagEnemySkillA08=苦痛 Torment
+tagEnemySkillA08_Desc=亡灵的诅咒使你的骨骼产生强烈的疼痛，减慢你的速度并且削弱你的物理攻击。
+
+tagEnemySkillA09=暴怒之魂 Enraged Spirit
+tagEnemySkillA09_Desc=一个暴怒的幽魂纠缠着你，在它扩散到邻近的受害者身上之前对你造成活力伤害。
+
+tagEnemySkillA10=骨牢 Bone Trap
+tagEnemySkillA10_Desc=骷髅傀儡用骨牢困住了你，吸取你的生命力。
+
+tagEnemySkillA11=黑曜石陷阱 Obsidian Trap
+tagEnemySkillA11_Desc=黑曜石亵渎者用黑曜石牢笼困住了你，吸取你的生命力。
+
+tagEnemySkillA12=黑曜石陷阱 Obsidian Trap
+tagEnemySkillA12_Desc=本·雅尔用黑曜石牢笼困住了你，并用混沌的力量摧毁着你的身体。

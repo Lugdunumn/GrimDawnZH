@@ -82,7 +82,7 @@ For the first time since evading capture back before 恐怖黎明, 乌鸦 波拉
 离开赏金桌。
 下一个赏金任务。
 
-The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted around a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
+The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted coming in and out of a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

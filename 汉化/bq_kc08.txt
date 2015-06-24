@@ -1,11 +1,11 @@
 赏金任务
-赏金：剧毒之舌 依格尼亚
+赏金：剧毒之舌依格尼亚
 Bounty
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 悲伤城堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 
 
 
-杀了剧毒之舌 依格尼亚
+杀了剧毒之舌依格尼亚
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

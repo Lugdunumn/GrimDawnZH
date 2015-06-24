@@ -41,7 +41,7 @@ You have fulfilled all of Father Kymon's decrees for this session.
 
 
 离开赏金桌。
-In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard were the void's stone behemoths, the Obsidian Defilers.{^n}{^n}This vision must not come to pass. The Obsidian Defilers are to be destroyed.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as 巨胃拉格·纳达.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter 灰烬废土 through a rift in 血森林 and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -71,12 +71,12 @@ The Cult of Ch'thon has twisted many individuals under their bloodstained banner
 离开赏金桌。
 下一个赏金任务。
 
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 悲伤城堡. His name is 骸骨之语 霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. His name is 骸骨之语 霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
 
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 悲伤城堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

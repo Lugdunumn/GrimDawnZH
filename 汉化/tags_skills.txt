@@ -185,15 +185,15 @@ tagClass02SkillDescription02A=一道致盲闪光暂时使敌人陷入混乱并�
 tagClass02SkillName02B=灼热之光 Searing Light
 tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成伤害的能力。
 
-tagClass02SkillName03A=火焰冲击 Fire Strike
-tagClass02SkillDescription03A=一项致死的炼金技术，引发燃烧敌人周围空气的攻击。当作为你的默认武器攻击时，火焰冲击造成额外的物理和火焰伤害。
-tagClass02SkillName03B=爆炸冲击 Explosive Strike
+tagClass02SkillName03A=火焰打击 Fire Strike
+tagClass02SkillDescription03A=一项致死的炼金技术，引发燃烧敌人周围空气的攻击。当作为你的默认武器攻击时，火焰打击造成额外的物理和火焰伤害。
+tagClass02SkillName03B=爆炸打击 Explosive Strike
 tagClass02SkillDescription03B=提高火焰冲击的效力，有几率提高火焰伤害。^o如作为远程攻击，还能够爆炸，对附近敌人造成伤害。
-tagClass02SkillName03C=静电冲击 Static Strike
+tagClass02SkillName03C=静电打击 Static Strike
 tagClass02SkillDescription03C=进一步的炼金改动使火焰冲击对目标造成电击并有几率击退他们。
 tagClass02SkillName03D=炽烈硫磺 Brimstone
 tagClass02SkillDescription03D=使用火焰法术为火焰冲击附加硫磺的混沌之力。^o远程攻击也会分裂成融化的碎片。
-tagClass02SkillName03E=灼热冲击 Searing Strike
+tagClass02SkillName03E=灼热打击 Searing Strike
 tagClass02SkillDescription03E=在较近的范围内集中火焰冲击破坏性的力量，使技能威力增强同时减少能量消耗。^o需要一把近战武器。
 
 tagClass02SkillName04A=罐式炸弹 Canister Bomb

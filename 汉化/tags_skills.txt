@@ -1099,7 +1099,7 @@ tagItemSkillC070Name=混沌召唤 Invocation to Chaos
 tagItemSkillC070Desc=吟唱黑暗的法术，召唤一只冥神的仆役到你的麾下。
 
 tagItemSkillC071Name=外交策略 Diplomacy
-tagItemSkillC071Desc=你的话语包含的帝王的意志，几乎没有人能抵抗住这种力量。
+tagItemSkillC071Desc=你的话语包含着帝王的意志，几乎没有人能抵抗住这种力量。
 
 tagItemSkillC072Name=曼海尔之触 Menhir's Touch
 tagItemSkillC072Desc=曼海尔的信徒们发现，在最危难的时刻，他们的信仰才是最为坚强的护盾。
@@ -1123,7 +1123,7 @@ tagItemSkillC078Name=呼啸之风 Howling Wind
 tagItemSkillC078Desc=以能让敌人冷到骨头里的呼啸之风环绕于你。
 
 tagItemSkillC079Name=神射手 Gunslinger
-tagItemSkillC079Desc=手中有一把枪就是致命的，那么可以说有两把枪的话就更加致命了。^o这是一项远程双持技能，也会激活双持远程武器的能力。
+tagItemSkillC079Desc=一枪在手足以取人性命，双枪在手则杀意更浓。^o这是一项远程双持技能，也会激活双持远程武器的能力。
 
 tagItemSkillC080Name=噬命新星 Lifestealer Nova
 tagItemSkillC080Desc=激增的坏死能量撕扯附近敌人的生命并转移给你。

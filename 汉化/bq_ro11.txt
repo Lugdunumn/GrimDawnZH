@@ -1,6 +1,6 @@
 赏金任务
 赏金：灾疫之羽 雷克希纳
-Bounty
+赏金
 A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies over 破碎丘陵. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
 
 

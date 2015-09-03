@@ -1,7 +1,7 @@
 赏金任务
 赏金：碎裂之魂
-Bounty
-Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.{^n}{^n}The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
+赏金
+Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen. The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
 
 杀了基尔利安
 

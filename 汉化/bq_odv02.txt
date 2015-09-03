@@ -1,13 +1,13 @@
 赏金任务
 赏金：主宰者
-Bounty
+赏金
 主宰虚灵者 are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
 
 杀了主宰虚灵者
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

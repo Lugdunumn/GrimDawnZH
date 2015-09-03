@@ -1,7 +1,6 @@
 赏金任务
 赏金：骸骨之语霍威尔
-Bounty
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. His name is 骸骨之语霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+赏金The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. His name is 骸骨之语霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 
 
 

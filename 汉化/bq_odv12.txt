@@ -1,6 +1,6 @@
 赏金任务
 赏金：卡若兹的宠物
-Bounty
+赏金
 The Aetherials have proven to be a curious enemy, their powers contending with our own, but we must never let our guard down around the Cult of Ch'thon.{^n}{^n}Their summoners are capable of bringing horrific creatures into this world, but their leader, one Karroz the Sigil of Ch'thon, brings forth the worst. One of his personal pets, 纳尔·萨若斯, has an insatiable appetite for human flesh. Horror stories are told of it single-handedly devouring every inhabitant of Darkvale prior to the cult taking the village and the gates beyond.{^n}{^n}Anyone willing to take on this monstrosity will be amply rewarded with materials from our stores.
 
 
@@ -8,8 +8,8 @@ The Aetherials have proven to be a curious enemy, their powers contending with o
 杀了纳尔·萨若斯
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

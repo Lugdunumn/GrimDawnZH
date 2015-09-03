@@ -1,6 +1,6 @@
 赏金任务
 赏金：怒火
-Bounty
+赏金
 Underneath 伯尔维治, in 监狱长的实验室, were conducted some of the Aetherials' early experiments into resurrecting our dead.{^n}{^n}The research was spearheaded by several Aetherials, including a Taken known as 怒火 哈尔瓦斯塔. Though it is too late to prevent what was discovered in those labs, we can still lay vengeance upon one of the masterminds behind the operation.{^n}{^n}A reward of iron bits awaits the one who slays the Aetherial witch.
 
 
@@ -8,8 +8,8 @@ Underneath 伯尔维治, in 监狱长的实验室, were conducted some of the Ae
 杀了怒火 哈尔瓦斯塔
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

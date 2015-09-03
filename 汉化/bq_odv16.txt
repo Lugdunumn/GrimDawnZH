@@ -1,14 +1,14 @@
 赏金任务
 赏金：削弱邪教徒
-Bounty
+赏金
 The Cult's activites in 黑谷 are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near 黑谷村.{^n}{^n}The Keeper has demanded their lives. End them and you shall be rewarded with materials from our stores. The Order shall provide enchantments to assist in the mission.
 
 杀了血之羁绊伯瓦尔
 杀了屠刀扎里亚
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

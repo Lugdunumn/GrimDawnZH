@@ -1,6 +1,6 @@
 赏金任务
 赏金：亡魂
-Bounty
+赏金
 Arkovian Revenants were once knights of the priesthood, relentless defenders of Arkovian faith and their gods. They now roam the ruins as embodiments of the elements themselves.{^n}{^n}Their once noble cause has been twisted as they endlessly protect temples that have not existed for centuries. It is time for these loyal knights to be put to their final rest.{^n}{^n}We have set aside some iron bits as a reward to anyone brave enough to enter the ruins and perform this task.
 
 杀死骷髅亡魂

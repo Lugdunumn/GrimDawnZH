@@ -1,6 +1,6 @@
 赏金任务
 赏金：纽科斯·达尔
-Bounty
+赏金
 I have sensed the presence of an old nemesis, a harbinger known as 纽科斯·达尔. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within 古代墓地, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate 纽科斯·达尔 for me and I shall reward you with something from my collection.
 
 

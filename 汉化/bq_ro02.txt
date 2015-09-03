@@ -1,6 +1,6 @@
 赏金任务
 赏金：安克维亚之子
-Bounty
+赏金
 The harpies are a cruel punishment upon the legacy of a long-dead people. Their Oracles have somehow learned to channel sky magic.{^n}{^n}For now, this is limited to storm clouds and gusts of wind but, if their studies are allowed to continue, we dread to think of what they could do next.{^n}{^n}Anyone that slays Harpy Oracles will be rewarded with a pouch of iron bits.
 
 杀死鹰身女妖 厄运神使

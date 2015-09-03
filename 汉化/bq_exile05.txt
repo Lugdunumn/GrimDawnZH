@@ -1,6 +1,6 @@
 赏金任务
 赏金：Bountiful Blood
-Bounty
+赏金
 I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
 
 收集冥神之血

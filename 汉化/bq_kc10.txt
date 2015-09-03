@@ -1,11 +1,11 @@
 赏金任务
 赏金：冥神选诏的战士
-Bounty
+赏金
 The accursed Ch'thon has many loyal followers, but none as reviled as his Chosen. The Chosen of Ch'thon willingly give their bodies to the void, allowing its most powerful fiends to cross over into Cairn without the use of a riftgate.{^n}{^n}One such Chosen, by the name Thullon, has been spotted making the rounds at 邪教徒的营地. This is an opportunity, brothers and sisters. One that we cannot miss.{^n}{^n}Thullon's elimination will be amply rewarded with materials from our stores.
 
 
 
-杀了冥神选诏的战士 土伦
+杀了冥神选诏的战士：土伦
 
 回报任务
 You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.

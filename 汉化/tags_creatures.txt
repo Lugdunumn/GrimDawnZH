@@ -122,9 +122,9 @@ tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
-tagEnemyChthonianDreadguardA01=Chthonian Vanguard
-tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
-tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+tagEnemyChthonianDreadguardA01=冥灵先锋
+tagEnemyChthonianDreadguardB01=冥灵恐惧守卫
+tagEnemyChthonianDreadguardC01=冥灵暴君
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
@@ -157,7 +157,7 @@ tagVoidFiendHeroH01=虚空恐惧 因努盖如
 tagVoidFiendHeroH02=黑暗预兆 海尔恩·拉兹
 tagVoidFiendHeroH03=虚空使者 森·特尔
 tagVoidFiendHeroH04=尼·特尔 ~ 压碎者
-tagVoidFiendHeroH05=古尔哥特·西恩 ~ 燃烧
+tagVoidFiendHeroH05=戈苟斯·西恩 ~ 燃烧
 
 tagVoidFiendBoss01=地狱之火 巴洛格·纳斯
 
@@ -204,6 +204,8 @@ tagFleshHulkHeroH01=碎骨者
 tagFleshHulkHeroH02=虚化之裔 法尔多尼
 tagFleshHulkHeroH03=马诺崔斯 ~ 免疫控制
 tagFleshHulkHeroH04=菲斯特利斯 ~ 压碎者
+
+tagEnemyFleshHulkBoss01=背部粉碎者，维纳瑞斯
 
 #CreatureGazer 
 
@@ -262,12 +264,21 @@ tagEnemyGolemRockB01=苔藓蹒跚者
 tagEnemyGolemRockC01=巨石蹒跚者
 tagEnemyGolemRockMiniBoss01=远古蹒跚者
 
+tagEnemyGolemIceA01=冰冷蹒跚者
+tagEnemyGolemIceB01=白霜蹒跚者
+tagEnemyGolemIceC01=坚冰蹒跚者
+
 tagGolemRockHeroH01=哈默顿
 tagGolemRockHeroH02=喷火者 哈德拉斯
 tagGolemRockHeroH03=石心 ~ 伤害反弹
 tagGolemRockHeroH04=石磨 ~ 冲锋
 tagGolemRockHeroH05=霜石 ~ 冰冻
 tagGolemRockHeroH06=虚空之石 ~ 虚空之触
+
+tagGolemIceHeroH01=
+tagGolemIceHeroH02=
+tagGolemIceHeroH03=
+tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -360,7 +371,7 @@ tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
 tagHumanCultistHeroH02=血沸 卢修斯
 tagHumanCultistHeroH03=猎犬召唤者 奈达利安
 tagHumanCultistHeroH04=依格纳修斯 ~ 燃烧
-tagHumanCultistHeroH05=嗜血者 玻利瓦 ~ 回复者
+tagHumanCultistHeroH05=嗜血者 巴尔瓦达 ~ 回复者
 tagEnemyBloodswornMiniBoss01=冥神之刃 萨拉查
 tagEnemyBloodswornMiniBoss02=血之羁绊 伯瓦尔
 tagEnemyBloodswornMiniBoss03=屠刀 扎里亚
@@ -724,10 +735,10 @@ tagSpiderHeroH04=编织者 特尼克丝
 tagSpiderHeroH05=命运编织者 拉娜 ~ 护盾
 tagSpiderHeroH06=育母蜘蛛 奥蒂娜 ~ 防御者
 
-#CreatureThornedHorror 荆棘恐魔
+#CreatureThornedHorror 荆棘恐兽
 
-tagEnemyThornedHorrorA01=荆棘恐兽
-tagEnemyThornedHorrorB01=荆棘惧兽
+tagEnemyThornedHorrorA01=荆棘兽
+tagEnemyThornedHorrorB01=荆棘恐兽
 tagEnemyThornedHorrorC01=荆棘巨兽
 
 
@@ -944,6 +955,8 @@ tagPetThornedHorrorA01=荆棘
 tagPetManticoreA01=原始灵魂
 tagPetWindDevilA01=风魔
 
+agPetTotemA01=雪怪图腾
+tagPetTotemA02=风暴图腾
 tagPetIceWallA01=寒冰屏障
 
 tagPetBladeSwarmA01=刀锋之灵

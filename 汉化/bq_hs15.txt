@@ -1,6 +1,6 @@
 赏金任务
 赏金：废铁
-Bounty
+赏金
 Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require 废铁 and we need it immediately. A share of our scavenged materials to anyone that gathers some.
 
 收集废铁

@@ -58,7 +58,7 @@ Arkovian Revenants were once knights of the priesthood, relentless defenders of 
 离开赏金桌。
 下一个赏金任务。
 
-Rover texts speak of a temple dedicated to the Arkovian god, Ishtak, hidden away within a flooded cavern system out in Wightmire.{^n}{^n}If the Arkovian curse had taken them too, then the souls trapped within could one day escape out into the surrounding region.{^n}{^n}We will gladly reward anyone willing to investigate the ruins with some of their scavenged materials.
+Rover texts speak of a temple dedicated to the Arkovian god, Ishtak, hidden away within a flooded cavern system out in the Foggy Bank.{^n}{^n}If the Arkovian curse had taken them too, then the souls trapped within could one day escape out into the surrounding region.{^n}{^n}We will gladly reward anyone willing to investigate the ruins with some of their scavenged materials.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -78,7 +78,7 @@ Cronley's gang up in the Four Hills represents a serious threat to the entire re
 离开赏金桌。
 下一个赏金任务。
 
-Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.{^n}{^n}The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
+Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -98,7 +98,7 @@ A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies
 离开赏金桌。
 下一个赏金任务。
 
-Deep within 苦痛阶梯, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was 莫塔里斯, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from 苦痛阶梯, 莫塔里斯 would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
+Deep within 苦痛阶梯, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was 莫塔里斯, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from 苦痛阶梯, 莫塔里斯 would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed. We have set aside some of their scavenged materials as reward for this task.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

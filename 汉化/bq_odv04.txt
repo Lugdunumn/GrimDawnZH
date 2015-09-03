@@ -1,13 +1,13 @@
 赏金任务
 赏金：食尸者
-Bounty
+赏金
 Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, too far gone to be reasoned with. 古代墓地 is teeming with these Corpse-eaters. There is little choice in the matter. They must be exterminated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 
 杀死食尸鬼 食尸者
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

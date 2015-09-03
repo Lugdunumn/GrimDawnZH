@@ -1,6 +1,6 @@
 赏金任务
 赏金：虫群领袖
-Bounty
+赏金
 The Dermapteran Grand Viziers are their queen's most loyal protectors. They will protect the hive with their lives, if needed.{^n}{^n}Let us stir the hive a bit, shall we? Destroying the queen's guardians will surely throw the hive into turmoil.{^n}{^n}To sweeten the deal, we've set aside some iron bits.
 
 杀了虫群领袖 洛扎克

@@ -1,6 +1,6 @@
 赏金任务
 赏金：冥灵魔印
-Bounty
+赏金
 The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 
 收集冥灵魔印

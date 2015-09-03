@@ -49,7 +49,7 @@ tagSkillDevotion=Devotion
 
 tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。士兵最不擅长的是假装英勇无畏和领导别人。
 
-tagSkillClassDescription02=帝国军队的火药大师；爆破者既是工程师，也是巫师。他们习惯于使用他们一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人不过他们也能熟练地使用近战武器。
+tagSkillClassDescription02=身为帝国军队使用火药的大师，爆破者既是工程师，也是巫师。他们习惯于使用他们一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人不过他们也能熟练地使用近战武器。
 
 tagSkillClassDescription03=曾被企图掌控其可怕力量的帝国军队追捕，神秘学者的技艺着重于召唤与借用三巫神拜斯迈、索拉尔和德里格赐予的力量。他们的多重技艺包括诅咒和能造成毒药、酸性和腐蚀伤害的技能。即使不擅长用剑与枪械，他们仍然可以使用其中任意一种来增强攻击。
 
@@ -67,7 +67,7 @@ tagSkillClassDescription09=
 
 #Default默认
 
-tagSkillDefaultAttackName01=基础武器攻击
+tagSkillDefaultAttackName01=武器攻击
 tagSkillDefaultAttackDescription01=使用现有的武器攻击。
 
 tagSkillDefaultMoveTo=移动
@@ -87,7 +87,7 @@ tagClass01SkillName00A=战士
 tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对凯恩世界严酷的现实。
 
 tagClass01SkillName01A=节奏打击 Cadence
-tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感，施展抑扬顿挫的打击，每次第三击造成大量伤害。虽然可以被预判，但却强效有力，难以实施反击。
+tagClass01SkillDescription01A=战斗时，自然地跟随周期性的节奏感，施展抑扬顿挫的打击，虽然可以被预判，但却强效有力，难以实施反击。^o当作为默认武器攻击时，节奏打击每次会放大第三击的伤害。
 tagClass01SkillName01B=格斗姿态 Fighting Form
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血。^o如使用近战武器，共振效果会使节奏打击击中附近的额外目标。
 tagClass01SkillName01C=致死旋律 Deadly Momentum
@@ -186,7 +186,7 @@ tagClass02SkillName02B=灼热之光 Searing Light
 tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成伤害的能力。
 
 tagClass02SkillName03A=火焰打击 Fire Strike
-tagClass02SkillDescription03A=一项致死的炼金技术，引发燃烧敌人周围空气的攻击。当作为你的默认武器攻击时，火焰打击造成额外的物理和火焰伤害。
+tagClass02SkillDescription03A=一项致死的炼金技术，引发燃烧敌人周围空气的攻击。^o当作为你的默认武器攻击时，火焰打击造成额外的物理和火焰伤害。
 tagClass02SkillName03B=爆炸打击 Explosive Strike
 tagClass02SkillDescription03B=提高火焰冲击的效力，有几率提高火焰伤害。^o如作为远程攻击，还能够爆炸，对附近敌人造成伤害。
 tagClass02SkillName03C=静电打击 Static Strike
@@ -194,7 +194,7 @@ tagClass02SkillDescription03C=进一步的炼金改动使火焰冲击对目标�
 tagClass02SkillName03D=炽烈硫磺 Brimstone
 tagClass02SkillDescription03D=使用火焰法术为火焰冲击附加硫磺的混沌之力。^o远程攻击也会分裂成融化的碎片。
 tagClass02SkillName03E=灼热打击 Searing Strike
-tagClass02SkillDescription03E=在较近的范围内集中火焰冲击破坏性的力量，使技能威力增强同时减少能量消耗。^o需要一把近战武器。
+tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of a melee weapon or two-handed rifle or crossbow.  ^oRequires a melee or two-handed ranged weapon.
 
 tagClass02SkillName04A=罐式炸弹 Canister Bomb
 tagClass02SkillDescription04A=填装了更多爆炸物的炸药，这项恐怖的发明能够击垮一整片敌人。
@@ -204,7 +204,7 @@ tagClass02SkillName04C=震荡炸弹 Concussive Bomb
 tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力，减少造成的伤害但能使敌人患上炮弹休克症。
 
 tagClass02SkillName05A=迫击抛射 Mortar Trap
-tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮，直至耗尽。^o迫击炮被视为战宠，会受到相应的加成。
+tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮，直至耗尽。^o迫击炮会受到玩家伤害加成的影响。
 tagClass02SkillName05B=重型武器 Heavy Ordnance
 tagClass02SkillDescription05B=强力法术提升迫击炮弹的输出伤害并加入电能伤害。
 tagClass02SkillName05C=“秘密武器”The Big One
@@ -215,11 +215,12 @@ tagClass02SkillName05E=电击迫击炮 Electrical Mortar
 tagClass02SkillDescription05E=向敌人发射带电的迫击炮弹。
 
 tagClass02SkillName06A=铝热地雷 Thermite Mine
-tagClass02SkillDescription06A=投掷一组小而致命的火焰炸药，用强烈的火焰喷射烧焦敌人。^o地雷被视为战宠，会受到相应的加成。
+tagClass02SkillDescription06A=投掷一组小而致命的火焰炸药，用强烈的火焰喷射烧焦敌人。^o地雷会受到玩家伤害加成的影响。
 tagClass02SkillName06B=电弧 Lightning Arc
 tagClass02SkillDescription06B=同时应用烟火制造术和炼金术，对铝热地雷的致命改进让它可以用灼热火焰与电流烧焦敌人。
 tagClass02SkillName06C=烈焰喷射 Flame Jet
 tagClass02SkillDescription06C=喷射一束致死的白热火焰将经过的敌人烧成灰烬。
+tagClass02SkillName06D=引爆 Detonation
 
 tagClass02SkillName07A=防爆护盾 Blast Shield
 tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量的穿刺与火焰伤害的护盾，直至毁坏。^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
@@ -281,7 +282,7 @@ tagClass03SkillName01E=闪电打击 Lightning Strike
 tagClass03SkillDescription01E=风暴乌鸦召唤强力的闪电来电击附近的敌人。
 
 tagClass03SkillName02A=召唤地狱犬 Summon Hellhound
-tagClass03SkillDescription02A=从虚幻领域召唤出一只地狱犬撕咬神秘学者的敌人。这种邪恶的野兽将跟随在你身旁战斗直至生命在火焰地狱里终结。^o同一时间只能召唤一只地狱犬。
+tagClass03SkillDescription02A=从邪术国度召唤出一只地狱犬撕咬神秘学者的敌人。这种邪恶的野兽将跟随在你身旁战斗直至生命在火焰地狱里终结。^o同一时间只能召唤一只地狱犬。
 tagClass03SkillName02B=灰烬之爪 Ember Claw
 tagClass03SkillDescription02B=在地狱犬可触及的范围内使用硫磺之爪在敌人身上撕扯出一道道烈焰之弧。
 tagClass03SkillName02C=地狱之火 Hellfire
@@ -306,11 +307,11 @@ tagClass03SkillName04C=守护者之翎 Quills of the Guardian
 tagClass03SkillDescription04C=牺牲掉所有的回复力，增强德里格之血的毒性。
 
 tagClass03SkillName05A=索拉尔的巫火 Solael's Witchfire
-tagClass03SkillDescription05A=驾驭索拉尔的邪术力量，使用熵能在每一次攻击中灼烧敌人。^o此技能需开启以保持生效。
+tagClass03SkillDescription05A=驾驭索拉尔的邪术力量，使用熵能在每一次武器攻击中灼烧敌人。^o此技能需开启以保持生效。
 tagClass03SkillName05B=二次仪式 Second Rite
 tagClass03SkillDescription05B=加深神秘学者与隐秘国度之间的联系，使巫火的力量变得更为强大，哪怕是最为轻微的接触也足以让敌人的魔法能量燃烧殆尽。
 tagClass03SkillName05C=祭祀之剑 Consecrated Blade
-tagClass03SkillDescription05C=巫火吞噬你的武器，以混沌能量凝聚其身。^o需要一把近战武器。
+tagClass03SkillDescription05C=巫火吞噬你的武器，以混沌能量凝聚其身。^o需要一把近战武器或者远程双手武器。
 
 tagClass03SkillName06A=虚弱诅咒 Curse of Frailty
 tagClass03SkillDescription06A=强大且无情的咒文将剥夺敌人的勇气，使他们变得缓慢而脆弱。
@@ -423,7 +424,7 @@ tagClass04SkillName07B=夜之寒气 Night's Chill
 tagClass04SkillDescription07B=使暗影面纱影响到的敌人感到黑夜般的深寒降临于身，降低他们的生命并削弱防御。
 
 tagClass04SkillName08A=刀灵 Blade Spirit
-tagClass04SkillDescription08A=召唤一片旋转云状的致命刀刃徘徊于战场，将敌人切成碎片后最终化为锯齿状的碎片。^o刀灵被视作宠物并从宠物加成中获益。
+tagClass04SkillDescription08A=召唤一片旋转云状的致命刀刃徘徊于战场，将敌人切成碎片后最终化为锯齿状的碎片。^o刀灵从玩家的伤害加成中获益。
 tagClass04SkillName08PetA=回旋之刃 Whirling Blades
 tagClass04SkillName08PetB=刀刃突击 Blade Burst
 tagClass04SkillDescription08PetB=刀灵向四面八方发射开膛刀刃。
@@ -567,39 +568,42 @@ tagClass06SkillName00=萨满
 tagClass06SkillDescription00=与自然的原始力量和谐共处。
 
 tagClass06SkillName01A=野性 Savagery
-tagClass06SkillDescription01A=The heat of battle rouses savage animal impulses within you that heighten your aggression and empower you with nature's fury. When used as your default weapon attack, Savagery increases the intensity of your attacks with every strike. ^oHigher ranks of this skill increase the maximum charge level. The displayed values represent the skill when fully charged.
+tagClass06SkillDescription01A=The heat of battle rouses savage animal impulses within you that heighten your aggression and empower you with nature's fury. When used as your default weapon attack, Savagery increases the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses.
 tagClass06SkillName01B=雄猪之韧 Tenacity of the Boar
 tagClass06SkillDescription01B=Embrace the aspect of the boar, becoming a ferocious and unstoppable foe in the wake of battle.
 tagClass06SkillName01C=风暴之触 Storm Touched
 tagClass06SkillDescription01C=Calling out to the heavens, you infuse your attacks with the fury of a thunderstorm.
 tagClass06SkillName01D=熊罴之力 Might of the Bear
-tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee weapon.
+tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee or ranged weapon.
 
 tagClass06SkillName02A=原始打击 Primal Strike
 tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee weapon.
 tagClass06SkillName02B=风暴潮 Storm Surge
-tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels and leaving them helpless against further onslaught.
+tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels.
 tagClass06SkillName02C=激流 Torrent
 tagClass06SkillDescription02C=Torrential force cascades from your weapon, electrocuting your target and leaping to nearby foes.
 tagClass06SkillName02D=雷电打击 Thunderous Strike
-tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries.
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency.
 
-tagClass06SkillName03A=野性饥渴 Feral Hunger
-tagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
-tagClass06SkillName03B=血之气息 Taste for Blood
-tagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
+tagClass06SkillName03A=Wendigo Totem
+tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
+tagClass06SkillName03B=Blood Pact
+tagClass06SkillDescription03B=Seal a pact with the wendigo spirit inhabiting the totem. So long as you stand within its aura, your taste for blood will be insatiable.
+tagClass06SkillName03C=Life Tap
+tagClass06SkillName03D=Mend Wounds
 
-tagClass06SkillName04A=暴风 Squall
-tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a lightning storm.
+tagClass06SkillName04A=风魔 Wind Devil
+tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a swirling wind devil that lifts rocks and debris into the air, battering foes and ravaging them with the harsh power of the elements. ^oWind Devils scale with player damage bonuses.
 tagClass06SkillName04B=狂风暴雨 Raging Tempest
-tagClass06SkillDescription04B=The Squall rages with tumultuous power, electrocuting foes even after they leave its vicinity.
+tagClass06SkillDescription04B=The swirling vortex grows with tumultuous power. Freezing winds buffet enemies with a numbing cold that increases their vulnerability to further elemental exposure.
 tagClass06SkillName04C=风暴漩涡 Maelstrom
-tagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
+tagClass06SkillDescription04C=Unleash the ultimate wrath of the sky, instilling the Wind Devil with static energy that strikes down nearby foes with bolts of lightning.
+tagClass06SkillName04_Pet=Howling Wind
 
-tagClass06SkillName05A=自然的恩赐 Nature's Boon
+tagClass06SkillName05A=莫格卓根的契约 Mogdrogen's Pact
 tagClass06SkillDescription05A=Call upon the beast god, Mogdrogen, to bestow nature's blessing upon you and your nearby allies. ^oThis ability must be toggled to maintain its effect.
-tagClass06SkillName05B=坚韧树皮 Bark Skin
-tagClass06SkillDescription05B=Empower Nature's Boon with the aspect of ancient trees, solemn ageless titans that have outlived civilizations, bestowing additional protection upon those under Mogdrogen's blessing.
+tagClass06SkillName05B=橡树皮 Oak Skin
+tagClass06SkillDescription05B=Take on the aspect of ancient trees, solemn ageless titans that have outlived civilizations, bestowing additional protection upon those under Mogdrogen's blessing.
 tagClass06SkillName05C=野性之心 Heart of the Wild
 tagClass06SkillDescription05C=The wild spirit of nature flows through your veins, rapidly sealing wounds and cleansing poisons.
 tagClass06SkillName05D=岩石之心 Heart of Stone
@@ -616,11 +620,11 @@ tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldenin
 tagClass06SkillName06E=荆棘之爪 Thorned Claws
 tagClass06SkillDescription06E=基础攻击。
 
-tagClass06SkillName07A=风暴图腾 Storm Totem
-tagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+tagClass06SkillName07A=野性饥渴 Feral Hunger
+tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon.
 
-tagClass06SkillName08A=风暴契约 Storm Pact
-tagClass06SkillDescription08A=Unleash the ultimate wrath of nature as the air around you ripples with static energy and nearby foes are randomly struck down by the heavens themselves.
+tagClass06SkillName08A=风暴召唤者的契约 Stormcaller's Pact
+tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms.
 
 tagClass06SkillName09A=召唤原始之魂 Conjure Primal Spirit
 tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle.
@@ -636,18 +640,30 @@ tagClass06SkillDescription11A=Rigorous training within the untamed wilds has hon
 tagClass06SkillName12A=自然之怒 Nature's Wrath
 tagClass06SkillDescription12A=Become as one with the primal forces of nature, tearing your foes apart with tooth, claw and lightning.
 tagClass06SkillName13A=原始羁绊 Primal Bond
-tagClass06SkillDescription13A=Strengthen your bond to the beasts that dwell within the wilds.
+tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call.
 
 tagClass06SkillName14A=震荡大地 Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
 
 tagClass06SkillName15A=吞噬虫群 Devouring Swarm
-tagClass06SkillDescription15A=Conjure a swarm of bloodthirsty insects that tear apart anything they come in contact with, transferring precious lifeblood to you.
+tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grevious wounds and exposing vulnerabilities.
 tagClass06SkillName15B=致残虫群 Crippling Swarm
 tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
 tagClass06SkillName15C=贪食虫群 Voracious Swarm
-tagClass06SkillDescription15C=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a more voracious swarm which hungrily tears apart anything it comes in contact with.
+tagClass06SkillDescription15C=The swarm becomes voracious, inflicting even greater harm as it exposes new vulnerabilities.
+tagClass06SkillName15D=Devouring Swarm
+tagClass06SkillDescription15D=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with and transfers precious lifeblood to you.
 
+tagClass06SkillName16A=Storm Totem
+tagClass06SkillDescription16A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes. ^oStorm Totems scale with player damage bonuses.
+tagClass06SkillName16B=Corrupted Storm
+tagClass06SkillDescription16B=Twisted shamans obsessed with the power of Wendigos can corrupt a Storm Totem to unleash hungering bolts that sap vitality from foes.
+tagClass06SkillName16_Pet=Storm Strike
+
+tagClass06SkillName17A=Grasping Vines
+tagClass06SkillDescription17A=At your whim, thorned vines erupt from the earth underneath your foes, inhibiting their movement.
+tagClass06SkillName17B=Entangling Vines
+tagClass06SkillDescription17B=The vines grow virulently, entrapping helpless foes in a tangle of thorns.
 
 xtagClass06SkillName13A=莫格卓根之怒 Wrath of Mogdrogen
 xtagClass06SkillDescription13A=Mogdrogen is often depicted as a benevolent deity who bestows protective boons upon his followers, but the wrath of the beast god can be terrifying to behold when his sanctum is threatened.
@@ -656,7 +672,16 @@ xtagClass06SkillName08A=召唤风魔 Conjure Wind Devil
 xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
 xtagClass06SkillName08B_Pet=呼啸狂风 Howling Wind
 xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
-
+xtagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+xtagClass06SkillName03A=Feral Hunger
+xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
+xtagClass06SkillName03B=Taste for Blood
+xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
+xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
+xtagClass06SkillName04D=Maelstrom
+xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
+xtagClass06SkillName03B=Storm Totem
+xtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
 
 #Class07
 
@@ -769,7 +794,7 @@ tagItemSkillB006Desc=使目标受到创伤，引起出血并加成受到的流�
 tagItemSkillB007Name=冰碎 Shatter
 tagItemSkillB007Desc=向目标释放锥形的寒冰裂片。
 
-tagItemSkillB008Name=战吼 Warcry
+tagItemSkillB008Name=战吼 Battle Cry
 tagItemSkillB008Desc=以威猛的咆哮激励队友。
 
 tagItemSkillB009Name=寒冰尖刺 Ice Spike
@@ -887,10 +912,8 @@ tagItemSkillC003Desc=另目标如狂战士般陷入狂怒，使其造成更高�
 
 tagItemSkillC004Name=坚定守卫 Stalwart Guardian
 tagItemSkillC004Desc=召唤具有强力防御与高威胁的守护神。
-
 tagItemSkillC004PetSkill01=嘲讽之吼 Taunting Roar
 tagItemSkillC004PetSkill01Desc=守护神发起挑战怒吼，嘲讽附近的敌人。
-
 tagItemSkillC004PetSkill02=基本属性 Innate Attributes
 
 tagItemSkillC005Name=鲁莽守卫 Reckless Guardian
@@ -921,7 +944,7 @@ tagItemSkillC012Name=腐坏瘟疫 Plague of Rot
 tagItemSkillC012Desc=在你的敌人之间发动一场强力的感染毒素并迅速传播的传染病。
 
 tagItemSkillC013Name=腐化瘟疫 Plague of Corruption
-tagItemSkillC013Desc=在你的敌人之间发动一场强力的动摇信仰并迅速传播的传染病。
+tagItemSkillC013Desc=在你的敌人之间发动一场强力的造成迷惑并迅速传播的传染病。
 
 tagItemSkillC014Name=支配 Dominate
 tagItemSkillC014Desc=击溃目标的心理防线，迫使其在一段时间内为你战斗。
@@ -1037,7 +1060,7 @@ tagItemSkillC050Name=巫妖守卫 Lichguard
 tagItemSkillC050Desc=在危难之时，巫妖守卫会保护它的持有者免遭致命的伤害。
 
 tagItemSkillC051Name=召唤奥格纳佩什的亡魂 Summon Revenant of Og'Napesh
-tagItemSkillC051Desc=施放奥格纳佩什的魔法书中记载的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。
+tagItemSkillC051Desc=施放奥格纳佩什的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。
 tagItemSkillC051Pet01=盾牌守护 Shield Defense
 tagItemSkillC051Pet01Desc=亡魂帮助周围的友军抵抗群体控制效果，并且强化他们的护甲与反击。
 
@@ -1169,6 +1192,57 @@ tagItemSkillC092Desc=在危急关头，你将从天堂召唤出毁灭性的雷�
 tagItemSkillC093Name=蛛网 Spider's Web
 tagItemSkillC093Desc=将敌人困在带有粘性的网中，使得他们更加容易被猎杀。^o这项技能将会在持续时间之内使敌人无法移动。对陷阱具有抗性的敌人将减少作用时间。
 
+tagItemSkillC094Name=Flash Freeze
+tagItemSkillC094Desc=A flash of pure cold freezes nearby enemies. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will suffer a reduced duration.
+
+tagItemSkillC095Name=Hellfire
+tagItemSkillC095Desc=Unleash a wave of flame upon your foes, leaving nothing but ashes.
+
+tagItemSkillC096Name=Solar Flare
+tagItemSkillC096Desc=Blinding light erupts from you, confounding your foes.
+
+tagItemSkillC097Name=Aetherbolt
+tagItemSkillC097Desc=Shocks the target with lightning infused by the Aether. The wild magic cascades to nearby foes.
+
+tagItemSkillC098Name=Elemental Balance
+tagItemSkillC098Desc=Strike a balance between the opposing forces of fire and ice, empowering your attacks.
+
+tagItemSkillC099Name=Rain of Fire
+tagItemSkillC099Desc=At your command, fire rains from the sky.
+
+tagItemSkillC100Name=Devastation
+tagItemSkillC100Desc=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy.
+
+tagItemSkillC101Name=Chillmane Breath
+tagItemSkillC101Desc=Chill your enemies to the core with the breath of a Chillmane Yeti.
+
+tagItemSkillC102Name=Fire Claw
+tagItemSkillC102Desc=Cleave your enemies in two with claws of hellfire.
+
+tagItemSkillC103Name=Conjure Devourer
+tagItemSkillC103Desc=Pull a Chthonian Devourer from the depths of the void to protect you.
+
+tagItemSkillC104Name=Spirit Ward
+tagItemSkillC104Desc=Partially enter the spirit realm, warding yourself against life-sapping spells and physical assault.
+
+tagItemSkillC105Name=Ring of Ice
+tagItemSkillC105Desc=A swirling wind of icy shards surrounds you and chills nearby enemies.
+
+tagItemSkillC106Name=Manticore's Bite
+tagItemSkillC106Desc=Lash out at your foes, inflicting grievous wounds.
+
+tagItemSkillC107Name=Black Star
+tagItemSkillC107Desc=A dark omen falls upon your enemies.
+
+tagItemSkillC108Name=Nymph's Touch
+tagItemSkillC108Desc=Soothe the wounds of nearby allies with a blessing from the forest nymphs.
+
+tagItemSkillC109Name=Freezing Nova
+tagItemSkillC109Desc=A burst of chilling air around you freezes enemies solid.
+
+tagItemSkillC110Name=Elemental Blast
+tagItemSkillC110Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
+
 tagItemSkillM001Name=生命精华 Life's Essence
 tagItemSkillM001Desc=修复创伤使疲惫的英雄恢复生气。
 
@@ -1179,7 +1253,7 @@ tagItemSkillM003Name=天启 Apocalypse
 tagItemSkillM003Desc=向敌人释放净化一切的地狱之火。
 
 tagItemSkillM004Name=奥术专注 Arcane Focus
-tagItemSkillM004Desc=每一击都能进入恍惚状态，获得奥术能力加成。
+tagItemSkillM004Desc=每一击都能进入恍惚状态，放大你的奥术能量。^oBuilding up charges increases the potency of the bonuses.
 
 tagItemSkillM005Name=狂暴 Berserk
 tagItemSkillM005Desc=精神进入狂暴状态，以牺牲耐久性为代价凶猛地攻击敌人。
@@ -1247,64 +1321,64 @@ tagCompSkillA002Desc=向敌人施放一道纯粹的虚化能量。
 tagCompSkillA003Name=放逐 Banish
 tagCompSkillA003Desc=用武器击打，毁灭虚灵生物。
 
-tagCompSkillA004Name=破甲光环I Piercing Aura I
+tagCompSkillA004Name=破甲光环 Piercing Aura
 tagCompSkillA004Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
-tagCompSkillA005Name=剑刃守卫I Blade Ward I
+tagCompSkillA005Name=剑刃守卫 Blade Ward
 tagCompSkillA005Desc=增强护甲对穿刺攻击的防御，同样反击穿刺攻击。
 
-tagCompSkillA006Name=剑刃守卫II Blade Ward II
+tagCompSkillA006Name=剑刃屏障 Blade Barrier
 tagCompSkillA006Desc=灌注给护甲对穿刺攻击的防御力，同样反击穿刺攻击。
 
-tagCompSkillA007Name=饮血者I Blooddrinker I
+tagCompSkillA007Name=饮血者 Blooddrinker
 tagCompSkillA007Desc=以吸血鬼的能量增强你的攻击。
 
-tagCompSkillA008Name=饮血者II Blooddrinker II
+tagCompSkillA008Name=嗜血者 Bloodthirster
 tagCompSkillA008Desc=以吸血鬼的能量增强你的攻击。
 
 tagCompSkillA009Name=混沌之箭 Chaos Bolt
 tagCompSkillA009Desc=对目标施放混沌闪电。
 
-tagCompSkillA010Name=死寒光环I Chill Aura I
+tagCompSkillA010Name=死寒光环 Chill Aura
 tagCompSkillA010Desc=以死寒增强你和盟友的攻击。^o此技能需开启以保持生效。
 
-tagCompSkillA011Name=斩杀 I Decapitate I
+tagCompSkillA011Name=断头 Behead
 tagCompSkillA011Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
-tagCompSkillA012Name=斩杀 II Decapitate II
+tagCompSkillA012Name=斩杀 Decapitate
 tagCompSkillA012Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA013Name=火焰光环 Fire Aura
 tagCompSkillA013Desc=用燃烧烈焰强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
-tagCompSkillA014Name=烈焰冲击 I Fireblast I
+tagCompSkillA014Name=烈焰冲击 Fireblast
 tagCompSkillA014Desc=向你的目标发射一枚燃烧火球。
 
-tagCompSkillA015Name=烈焰冲击 II Fireblast II
+tagCompSkillA015Name=强力烈焰冲击 Greater Fireblast
 tagCompSkillA015Desc=向你的目标发射一枚燃烧火球。
 
-tagCompSkillA016Name=寒冰尖刺 I Ice Spike I
+tagCompSkillA016Name=寒冰尖刺 Ice Spike
 tagCompSkillA016Desc=发射一簇岩石般的坚冰来穿刺敌人。
 
-tagCompSkillA017Name=寒冰尖刺 II Ice Spike II
+tagCompSkillA017Name=强力寒冰尖刺 Greater Ice Spike
 tagCompSkillA017Desc=发射一簇岩石般的坚冰来穿刺敌人。
 
 tagCompSkillA018Name=闪电光环 Lightning Aura
 tagCompSkillA018Desc=用闪电能量强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
-tagCompSkillA019Name=雷击 I Lightning Strike I
+tagCompSkillA019Name=雷击 Lightning Strike
 tagCompSkillA019Desc=用雷霆闪电之力击中你的敌人。
 
-tagCompSkillA020Name=雷击 II Lightning Strike II
+tagCompSkillA020Name=强化雷击 Empowered Lightning Strike
 tagCompSkillA020Desc=用雷霆闪电之力击中你的敌人。
 
 tagCompSkillA021Name=剧毒光环 Poison Aura
 tagCompSkillA021Desc=用腐烂剧毒强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
-tagCompSkillA022Name=剧毒炸弹 I Poison Bomb I
+tagCompSkillA022Name=剧毒炸弹 Poison Bomb
 tagCompSkillA022Desc=发射一枚在目标点爆炸的剧毒炸弹，使你的敌人被毒素包裹。
 
-tagCompSkillA023Name=剧毒炸弹 II Poison Bomb II
+tagCompSkillA023Name=恶性剧毒炸弹 Noxious Poison Bomb
 tagCompSkillA023Desc=发射一枚在目标点爆炸的剧毒炸弹，使你的敌人被毒素包裹。
 
 tagCompSkillA024Name=辐光之盾 Radiant Shield
@@ -1313,7 +1387,7 @@ tagCompSkillA024Desc=使你的盾牌附加元素抵抗。
 tagCompSkillA025Name=神圣打击 Sacred Strike
 tagCompSkillA025Desc=对你的敌人造成能够减弱元素抵抗的毁灭性打击。
 
-tagCompSkillA026Name=盾牌猛击 I Shield Slam I
+tagCompSkillA026Name=盾牌猛击 Shield Slam
 tagCompSkillA026Desc=用你的盾牌猛击敌人，可使小型敌人完全失去能力。^o需要一把近战武器。
 
 tagCompSkillA027Name=刺盾 Shield Spike
@@ -1322,29 +1396,41 @@ tagCompSkillA027Desc=用你的盾牌猛击敌人，用锋利的边缘穿刺他�
 tagCompSkillA028Name=银之刀锋 Silver Edge
 tagCompSkillA028Desc=用武器击打，毁灭冥灵生物。
 
-tagCompSkillA029Name=猛击I Slam I
+tagCompSkillA029Name=猛击 Slam
 tagCompSkillA029Desc=以压倒性的一击猛击你的敌人。
 
-tagCompSkillA030Name=猛击II Slam II
+tagCompSkillA030Name=强力猛击 Brutal Slam
 tagCompSkillA030Desc=以压倒性的一击猛击你的敌人。
 
-tagCompSkillA031Name=破甲光环II Piercing Aura II
+tagCompSkillA031Name=强化破甲光环 Empowered Piercing Aura
 tagCompSkillA031Desc=增强你和盟友的攻击，使其能够穿透护甲。^o此技能需开启以保持生效。
 
 tagCompSkillA032Name=虚化光环 Aether Aura
 tagCompSkillA032Desc=用虚灵能力强化你和你附近队友的攻击。^o此技能需开启以保持生效。
 
 tagCompSkillA033Name=混沌打击 Chaos Strike
-tagCompSkillA033Desc=用混沌的毁灭之力击打敌人。
+tagCompSkillA033Desc=穿越虚空，用混沌的毁灭之力击打敌人。^o需要一把近战武器。
 
-tagCompSkillA034Name=盾牌猛击 II Shield Slam II
-tagCompSkillA034Desc=用你的盾牌猛击敌人，可使小型敌人完全失去能力。^o需要一把近战武器。
+tagCompSkillA034Name=强力盾牌猛击 Brutal Shield Slam
+tagCompSkillA034Desc=用你的盾牌猛击敌人，可使小型敌人完全失去反抗能力。^o需要一把近战武器。
+
+tagCompSkillA035Name=Aether-Ward Aura
+tagCompSkillA035Desc=Shield yourself and your allies from the corrupting power of the Aether. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA036Name=Void-Ward Aura
+tagCompSkillA036Desc=Shield yourself and your allies from the chaotic Void. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA037Name=Lightning Nova
+tagCompSkillA037Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+
+tagCompSkillA038Name=Empowered Lightning Nova
+tagCompSkillA038Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
 
 tagCompSkillB001Name=恶魔吐息 Demon's Breath
 tagCompSkillB001Desc=向敌人发射一波异世烈焰的冲击。
 
 tagCompSkillB002Name=贝若纳斯之怒 Beronath's Fury
-tagCompSkillB002Desc=向敌人发出巨兽贝若纳斯的狂怒。当作为默认武器攻击时，贝若纳斯之怒提升你每一次攻击的强度。
+tagCompSkillB002Desc=向敌人发出巨兽贝若纳斯的狂怒。当作为默认武器攻击时，贝若纳斯之怒提升你每一次攻击的强度。^oBuilding up charges increases the potency of the bonuses.
 
 tagCompSkillB003Name=银弹飞散 Silver Spread
 tagCompSkillB003Desc=发射一片用来杀死鬼灵生物的镀银爆弹。
@@ -1373,7 +1459,7 @@ tagRelicSkillB003Name=宁静 Tranquility
 tagRelicSkillB003Desc=用你的思想压制敌人。
 
 tagRelicSkillB004Name=寒冰巨浪 Ice Surge
-tagRelicSkillB004Desc=通过你的内心输送寒冷之能，使攻击你的敌人有几率触发寒冰巨浪。
+tagRelicSkillB004Desc=通过你的内心输送寒冷能量，使攻击你的敌人有几率触发寒冰巨浪。^o这项需要开启才能保持生效。
 
 tagRelicSkillB005Name=闪电风暴 Lightning Storm
 tagRelicSkillB005Desc=在目标区域召唤暴风云，周期性的电击被笼罩的敌人。
@@ -1394,7 +1480,7 @@ tagRelicSkillB010Name=狂暴 Rampage
 tagRelicSkillB010Desc=当造成暴击伤害时进入狂怒状态，确保造成更多的暴击。
 
 tagRelicSkillB011Name=巨魔之怒 Troll Rage
-tagRelicSkillB011Desc=像残忍的巨魔一样发动战斗。当作为默认武器攻击时，巨魔之怒能使你每一击都进入更深层的愤怒，而代价是专注力。^o需要一把近战武器。
+tagRelicSkillB011Desc=像残忍的巨魔一样发动战斗。当作为默认武器攻击时，巨魔之怒能使你每一击都进入更深层的愤怒，而代价是专注力。^o需要一把近战武器。Building up charges increases the potency of the bonuses.
 
 tagRelicSkillB012Name=毁伤 Mutilate
 tagRelicSkillB012Desc=以三次快速攻击肢解你的目标，造成严重出血。^o这是一项近战双持技能，也会激活双持近战武器的能力。

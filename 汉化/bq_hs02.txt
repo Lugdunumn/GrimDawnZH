@@ -1,9 +1,9 @@
 赏金任务
 赏金：象甲虫
-Bounty
-革翅目象甲虫 are the immature larval stage of the larger specimens.{^n}{^n}Eliminating them should help thin the adult Dermapteran population. They are not all that dangerous individually but take great care. When swarming, they can prove to be just as deadly as the adults.{^n}{^n}Iron bits have been set aside as compensation for this extermination.
+赏金
+革翅目象甲虫是那些巨大甲虫的幼虫形态。{^n}{^n}消灭它们应该对于减少革翅目成虫的数量有所帮助。它们落单时没什么威胁，但是要小心，因为一旦它们成群出现，那么久会像成虫一样危险。{^n}{^n}完成这项灭杀害虫的任务将会获得铁币作为奖赏。
 
-杀了革翅目象甲虫
+杀死革翅目象甲虫
 
 回报任务
 你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。

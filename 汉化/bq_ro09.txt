@@ -1,6 +1,6 @@
 赏金任务
 赏金：控制害虫
-Bounty
+赏金
 The Wasps provide the Rovers with valuable Royal Jelly but, when found in great numbers, they can pose a serious threat.{^n}{^n}The poison carried by the Venomwing Stingers is so potent, not even Rover medicine can treat it. Victims must withstand hours of agonizing pain. Many do not even last that long.{^n}{^n}The Venomwing Stinger population must be brought down immediately. A pouch of iron bits to anyone that carries out the task.
 
 杀死毒翼刺蜂

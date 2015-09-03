@@ -1,6 +1,6 @@
 赏金任务
 赏金：恐惧领主
-Bounty
+赏金
 The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
 
 杀死死亡守夜人恐惧领主

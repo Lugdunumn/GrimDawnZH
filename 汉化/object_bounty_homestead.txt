@@ -3,10 +3,6 @@
 回报任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
-
-离开赏金桌。
 你成功地归来，完成了一项赏金任务。
 回报任务。
 
@@ -54,7 +50,7 @@ Trolls have always been a problem from down south, but we have never encountered
 离开赏金桌。
 下一个赏金任务。
 
-Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
+Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and Blood Grove and you will be rewarded with iron bits.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -104,7 +100,7 @@ We have heard complaints about feverish nightmares of blood and darkness. The la
 离开赏金桌。
 下一个赏金任务。
 
-This may sound selfish, but I don't much care. Manticores tore my sister apart when I was a child.{^n}{^n}I swore when I was old enough to carry a gun that I'd go out there and gun down as many as I can, but now you can't step five feet outside Homestead without running into something far worse than a manticore.{^n}{^n}Please, to anyone that is braver than I, go out there and 杀了the manticores. Bring me one of their eyes as proof and I will gladly share some of my scavenged materials.
+Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of cavern crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Albino Cavern Crawlers will be compensated with scavenged materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

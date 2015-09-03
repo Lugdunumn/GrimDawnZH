@@ -1,6 +1,6 @@
 赏金任务
 赏金：格鲁姆
-Bounty
+赏金
 A skeletal monstrosity known as 格鲁姆 has been spotted out at 瞭望塔遗迹 in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
 
 

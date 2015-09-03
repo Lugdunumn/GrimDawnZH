@@ -1,6 +1,6 @@
 赏金任务
 赏金：死亡暗语者
-Bounty
+赏金
 Reports have come in from the frontlines that a necromancer scum by the name Ravok has been desecrating our dead and using them to bolster her reinforcements.{^n}{^n}This is a despicable display of indecency in war and a complete lack of respect to the fallen. The Chosen will not stand idly by as our dead are desecrated before our eyes. This Master Ravok is to be made an example of.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 
 杀了拉沃克大师

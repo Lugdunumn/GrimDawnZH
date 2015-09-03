@@ -1,6 +1,6 @@
 赏金任务
 赏金：食尸者
-Bounty
+赏金
 Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 
 杀死食尸鬼食尸者

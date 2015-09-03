@@ -1,6 +1,6 @@
 赏金任务
 赏金：蜂王浆
-Bounty
+赏金
 The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
 
 收集蜂王浆

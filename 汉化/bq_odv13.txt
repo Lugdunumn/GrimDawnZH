@@ -1,15 +1,15 @@
 赏金任务
 赏金：死之亡魂
-Bounty
-The Arkovian curse of a horrific display of our master's power, but it also serves as a source of countless curiosities for the Order.{^n}{^n}Deep within 苦痛阶梯, there are 亡魂 that have learned to manipulate death as we have. It is a twisted mockery of Uroboruuk's spell and must be put to an end.{^n}{^n}Anyone who braves 苦痛阶梯 in order to see this through will be justly rewarded with materials from our stores. The Order shall provide enchantments to assist in the journey.
+赏金
+The Arkovian curse is a horrific display of our master's power, but it also serves as a source of countless curiosities for the Order.{^n}{^n}Deep within 苦痛阶梯, there are 亡魂 that have learned to manipulate death as we have. It is a twisted mockery of Uroboruuk's spell and must be put to an end.{^n}{^n}Anyone who braves 苦痛阶梯 in order to see this through will be justly rewarded with materials from our stores. The Order shall provide enchantments to assist in the journey.
 
 
 
 杀死亡魂
 
 回报任务
-You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
-Return to the Order of Death's Vigil Bounty Table
+你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
+返回死亡守夜人教团的赏金桌
 
 
 

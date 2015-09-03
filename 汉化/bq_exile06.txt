@@ -1,6 +1,6 @@
 赏金任务
 赏金：Beating Hearts
-Bounty
+赏金
 I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
 
 收集Ancient Heart

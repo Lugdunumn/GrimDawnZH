@@ -1,6 +1,6 @@
 赏金任务
 赏金：克隆利的熔炉
-Bounty
+赏金
 Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
 
 摧毁四山上匪徒的熔炉

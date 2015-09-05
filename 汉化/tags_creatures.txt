@@ -331,6 +331,7 @@ tagGrobleHeroH02=小腿 阿尔巴戈
 tagGrobleHeroH03=食火者 乌达古
 tagGrobleHeroH04=风暴召唤者 摩尔巴格达
 tagGrobleHeroH05=霍尔伯拉克 ~ 防御者
+tagGrobleHeroH06=不洁的 匹克斯诺特
 
 #Harpy 鹰身女妖
 
@@ -954,9 +955,9 @@ tagPetWhirlwindA01=旋风
 tagPetThornedHorrorA01=荆棘
 tagPetManticoreA01=原始灵魂
 tagPetWindDevilA01=风魔
-
-agPetTotemA01=雪怪图腾
+tagPetTotemA01=雪怪图腾
 tagPetTotemA02=风暴图腾
+
 tagPetIceWallA01=寒冰屏障
 
 tagPetBladeSwarmA01=刀锋之灵

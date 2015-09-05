@@ -585,12 +585,12 @@ tagClass06SkillDescription02C=Torrential force cascades from your weapon, electr
 tagClass06SkillName02D=雷电打击 Thunderous Strike
 tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency.
 
-tagClass06SkillName03A=Wendigo Totem
+tagClass06SkillName03A=雪怪图腾 Wendigo Totem
 tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
-tagClass06SkillName03B=Blood Pact
+tagClass06SkillName03B=血之契约 Blood Pact
 tagClass06SkillDescription03B=Seal a pact with the wendigo spirit inhabiting the totem. So long as you stand within its aura, your taste for blood will be insatiable.
-tagClass06SkillName03C=Life Tap
-tagClass06SkillName03D=Mend Wounds
+tagClass06SkillName03C=生命源泉 Life Tap
+tagClass06SkillName03D=治疗伤痛 Mend Wounds
 
 tagClass06SkillName04A=风魔 Wind Devil
 tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a swirling wind devil that lifts rocks and debris into the air, battering foes and ravaging them with the harsh power of the elements. ^oWind Devils scale with player damage bonuses.
@@ -598,7 +598,7 @@ tagClass06SkillName04B=狂风暴雨 Raging Tempest
 tagClass06SkillDescription04B=The swirling vortex grows with tumultuous power. Freezing winds buffet enemies with a numbing cold that increases their vulnerability to further elemental exposure.
 tagClass06SkillName04C=风暴漩涡 Maelstrom
 tagClass06SkillDescription04C=Unleash the ultimate wrath of the sky, instilling the Wind Devil with static energy that strikes down nearby foes with bolts of lightning.
-tagClass06SkillName04_Pet=Howling Wind
+tagClass06SkillName04_Pet=呼啸之风 Howling Wind
 
 tagClass06SkillName05A=莫格卓根的契约 Mogdrogen's Pact
 tagClass06SkillDescription05A=Call upon the beast god, Mogdrogen, to bestow nature's blessing upon you and your nearby allies. ^oThis ability must be toggled to maintain its effect.
@@ -620,7 +620,7 @@ tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldenin
 tagClass06SkillName06E=荆棘之爪 Thorned Claws
 tagClass06SkillDescription06E=基础攻击。
 
-tagClass06SkillName07A=野性饥渴 Feral Hunger
+tagClass06SkillName07A=狂野饥渴 Feral Hunger
 tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon.
 
 tagClass06SkillName08A=风暴召唤者的契约 Stormcaller's Pact
@@ -651,18 +651,18 @@ tagClass06SkillName15B=致残虫群 Crippling Swarm
 tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
 tagClass06SkillName15C=贪食虫群 Voracious Swarm
 tagClass06SkillDescription15C=The swarm becomes voracious, inflicting even greater harm as it exposes new vulnerabilities.
-tagClass06SkillName15D=Devouring Swarm
+tagClass06SkillName15D=吸血虫群 Devouring Swarm
 tagClass06SkillDescription15D=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with and transfers precious lifeblood to you.
 
-tagClass06SkillName16A=Storm Totem
+tagClass06SkillName16A=风暴图腾 Storm Totem
 tagClass06SkillDescription16A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes. ^oStorm Totems scale with player damage bonuses.
-tagClass06SkillName16B=Corrupted Storm
+tagClass06SkillName16B=腐化风暴 Corrupted Storm
 tagClass06SkillDescription16B=Twisted shamans obsessed with the power of Wendigos can corrupt a Storm Totem to unleash hungering bolts that sap vitality from foes.
-tagClass06SkillName16_Pet=Storm Strike
+tagClass06SkillName16_Pet=风暴打击 Storm Strike
 
-tagClass06SkillName17A=Grasping Vines
+tagClass06SkillName17A=缠绕藤蔓 Grasping Vines
 tagClass06SkillDescription17A=At your whim, thorned vines erupt from the earth underneath your foes, inhibiting their movement.
-tagClass06SkillName17B=Entangling Vines
+tagClass06SkillName17B=纠结藤蔓 Entangling Vines
 tagClass06SkillDescription17B=The vines grow virulently, entrapping helpless foes in a tangle of thorns.
 
 xtagClass06SkillName13A=莫格卓根之怒 Wrath of Mogdrogen
@@ -673,14 +673,14 @@ xtagClass06SkillDescription08A=A tornado is one of the most destructive forces o
 xtagClass06SkillName08B_Pet=呼啸狂风 Howling Wind
 xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
 xtagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
-xtagClass06SkillName03A=Feral Hunger
+xtagClass06SkillName03A=狂野饥渴 Feral Hunger
 xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
-xtagClass06SkillName03B=Taste for Blood
+xtagClass06SkillName03B=血腥气息 Taste for Blood
 xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
 xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
-xtagClass06SkillName04D=Maelstrom
+xtagClass06SkillName04D=大漩涡Maelstrom
 xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
-xtagClass06SkillName03B=Storm Totem
+xtagClass06SkillName03B=风暴图腾 Storm Totem
 xtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
 
 #Class07
@@ -1192,55 +1192,55 @@ tagItemSkillC092Desc=在危急关头，你将从天堂召唤出毁灭性的雷�
 tagItemSkillC093Name=蛛网 Spider's Web
 tagItemSkillC093Desc=将敌人困在带有粘性的网中，使得他们更加容易被猎杀。^o这项技能将会在持续时间之内使敌人无法移动。对陷阱具有抗性的敌人将减少作用时间。
 
-tagItemSkillC094Name=Flash Freeze
+tagItemSkillC094Name=急冻 Flash Freeze
 tagItemSkillC094Desc=A flash of pure cold freezes nearby enemies. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will suffer a reduced duration.
 
-tagItemSkillC095Name=Hellfire
+tagItemSkillC095Name=地狱之火 Hellfire
 tagItemSkillC095Desc=Unleash a wave of flame upon your foes, leaving nothing but ashes.
 
-tagItemSkillC096Name=Solar Flare
+tagItemSkillC096Name=日阳闪耀 Solar Flare
 tagItemSkillC096Desc=Blinding light erupts from you, confounding your foes.
 
-tagItemSkillC097Name=Aetherbolt
+tagItemSkillC097Name=虚化闪电 Aetherbolt
 tagItemSkillC097Desc=Shocks the target with lightning infused by the Aether. The wild magic cascades to nearby foes.
 
-tagItemSkillC098Name=Elemental Balance
+tagItemSkillC098Name=元素平衡 Elemental Balance
 tagItemSkillC098Desc=Strike a balance between the opposing forces of fire and ice, empowering your attacks.
 
-tagItemSkillC099Name=Rain of Fire
+tagItemSkillC099Name=火雨 Rain of Fire
 tagItemSkillC099Desc=At your command, fire rains from the sky.
 
-tagItemSkillC100Name=Devastation
+tagItemSkillC100Name=荒芜 Devastation
 tagItemSkillC100Desc=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy.
 
-tagItemSkillC101Name=Chillmane Breath
+tagItemSkillC101Name=寒鬃之息 Chillmane Breath
 tagItemSkillC101Desc=Chill your enemies to the core with the breath of a Chillmane Yeti.
 
-tagItemSkillC102Name=Fire Claw
+tagItemSkillC102Name=火焰之爪 Fire Claw
 tagItemSkillC102Desc=Cleave your enemies in two with claws of hellfire.
 
-tagItemSkillC103Name=Conjure Devourer
+tagItemSkillC103Name=召唤吞噬者 Conjure Devourer
 tagItemSkillC103Desc=Pull a Chthonian Devourer from the depths of the void to protect you.
 
-tagItemSkillC104Name=Spirit Ward
+tagItemSkillC104Name=灵魂守卫 Spirit Ward
 tagItemSkillC104Desc=Partially enter the spirit realm, warding yourself against life-sapping spells and physical assault.
 
-tagItemSkillC105Name=Ring of Ice
+tagItemSkillC105Name=寒冰之环 Ring of Ice
 tagItemSkillC105Desc=A swirling wind of icy shards surrounds you and chills nearby enemies.
 
-tagItemSkillC106Name=Manticore's Bite
+tagItemSkillC106Name=蝎尾狮之咬 Manticore's Bite
 tagItemSkillC106Desc=Lash out at your foes, inflicting grievous wounds.
 
-tagItemSkillC107Name=Black Star
+tagItemSkillC107Name=黑星 Black Star
 tagItemSkillC107Desc=A dark omen falls upon your enemies.
 
-tagItemSkillC108Name=Nymph's Touch
+tagItemSkillC108Name=女神之触 Nymph's Touch
 tagItemSkillC108Desc=Soothe the wounds of nearby allies with a blessing from the forest nymphs.
 
-tagItemSkillC109Name=Freezing Nova
+tagItemSkillC109Name=冻结新星 Freezing Nova
 tagItemSkillC109Desc=A burst of chilling air around you freezes enemies solid.
 
-tagItemSkillC110Name=Elemental Blast
+tagItemSkillC110Name=元素爆轰 Elemental Blast
 tagItemSkillC110Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
 
 tagItemSkillM001Name=生命精华 Life's Essence
@@ -1414,16 +1414,16 @@ tagCompSkillA033Desc=穿越虚空，用混沌的毁灭之力击打敌人。^o需
 tagCompSkillA034Name=强力盾牌猛击 Brutal Shield Slam
 tagCompSkillA034Desc=用你的盾牌猛击敌人，可使小型敌人完全失去反抗能力。^o需要一把近战武器。
 
-tagCompSkillA035Name=Aether-Ward Aura
+tagCompSkillA035Name=虚化守卫光环 Aether-Ward Aura
 tagCompSkillA035Desc=Shield yourself and your allies from the corrupting power of the Aether. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA036Name=Void-Ward Aura
+tagCompSkillA036Name=虚空守卫光环 Void-Ward Aura
 tagCompSkillA036Desc=Shield yourself and your allies from the chaotic Void. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA037Name=Lightning Nova
+tagCompSkillA037Name=闪电新星 Lightning Nova
 tagCompSkillA037Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
 
-tagCompSkillA038Name=Empowered Lightning Nova
+tagCompSkillA038Name=强化闪电新星 Empowered Lightning Nova
 tagCompSkillA038Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
 
 tagCompSkillB001Name=恶魔吐息 Demon's Breath

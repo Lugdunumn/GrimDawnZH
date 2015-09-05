@@ -571,10 +571,10 @@ tagCharHeaderRetaliation=反击
 tagCharHeaderStats=属性
 tagCharHeaderMisc=杂项
 
-tagCharStatsDPS=每秒伤害 {^b}(?)
-tagCharStatsDPSDescription=Average damage per second for your Left-Mouse Button and Right-Mouse Button Abilities against a single target, modified by cooldown and all bonuses from equipment and skills. Does not factor in enemy defenses.
-tagCharStatsDPSRightDescription=Damage breakdown for your Right-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
-tagCharStatsDPSLeftDescription=Damage breakdown for your Left-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
+tagCharStatsDPS=每秒伤害{^b}(?)
+tagCharStatsDPSDescription=你的左键技能和右键技能每秒对单一目标的平均伤害，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSRightDescription=右键技能的对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSLeftDescription=左键技能的对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
 
 tagCharStatsArmorTotalAlert=护甲等级{^b}(?)
 tagCharStatsArmorTotal=护甲等级
@@ -1074,13 +1074,13 @@ tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
 
 #Shrine
 
-tagShrineDesecrated=Desecrated Shrine
-tagShrineRuined=Ruined Shrine
-tagShrineRestored=Restored Shrine
-tagShrineButton=Offer
-tagShrineButtonInfo=Place this offering near the shrine
-tagShrineWarning=Are you sure you want to place this offering?
-tagShrineConfirmProxy=This shrine is corrupted and needs to be cleansed. Summon what is trapped within?
+tagShrineDesecrated=被亵渎的圣坛
+tagShrineRuined=圣坛遗迹
+tagShrineRestored=已修复的圣坛
+tagShrineButton=献祭
+tagShrineButtonInfo=将祭品放置在圣坛周围
+tagShrineWarning=你确定要放置该祭品吗？
+tagShrineConfirmProxy=这个圣坛已经被腐化了，需要被净化。是否召唤出困于其中的魔物？
 
 #Smuggler
 
@@ -1469,8 +1469,8 @@ MaxSkillLevelReached=已达到技能最高等级
 ActiveMasteriesAllowedReached=已达到允许激活的专精个数
 LifeMonitorPercent={^E}当生命低于 {^H}{%.1f0}% 时{^E}激活
 FailedSkillDependancy=需要{%s0}技能
-FailedSkillDependancyAll=Requires The Following Skills:
-FailedSkillDependancyOne=Requires One Of The Following Skills:
+FailedSkillDependancyAll=需要如下技能:
+FailedSkillDependancyOne=需要下列技能中的其中之一:
 FailedSkillDependancyName={%s0}
 ManaCost={^E}点能量消耗
 ManaCostPerSecond={^E}每秒能量消耗
@@ -1528,10 +1528,10 @@ DamageInfluenceSingleFormat={%.1f0}
 DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
 DamageReflexSingleFormat={%.1f0}
 DamageReflexRangeFormat={%.1f0}-{%.1f1}
-DamageSingleFormatSecond= {^E}over {^H}{%.1f0} {^E}Second
+DamageSingleFormatSecond= {^E}于 {^H}{%.1f0} {^E}秒内
 DamageSingleFormatTime= {^E}于 {^H}{%.1f0} {^E}秒内
 DamageRangeFormatTime= {^E}于 {^H}{%.1f0}-{%.1f1} {^E}秒内
-DamageFixedSingleFormatSecond= {^E}for {^H}{%.1f0} {^E}Second
+DamageFixedSingleFormatSecond= {^E}持续 {^H}{%.1f0} {^E}秒
 DamageFixedSingleFormatTime= {^E}持续 {^H}{%.1f0} {^E}秒
 DamageFixedRangeFormatTime= {^E}持续 {^H}{%.1f0}-{%.1f1} {^E}秒
 RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}Second

@@ -930,7 +930,7 @@ tagLoreObj_AreaCZealot_Note03Name=凯蒙的日志 - 第一页
 tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each exchange I feel drained as though my life were being drawn into a deep well. Everything appears darker and father away as if seen though a long tunnel. A lesser man without the years of Inquisitor mental training would be consumed.{^n}{^n}Even as I write this, I can sense its energy rippling through the room. I can feel it like worms twitching below my skin. It burrows and pulls, urging me to get closer. I dread to think of what would become of any of my Chosen should they get too close to this entity. What would remain, I cannot say, but I suspect the Messenger would shuck the mind and claim the body for its own.{^n}{^n}I fear there are none who would understand or survive this secret. I alone must shoulder this burden and so I will steel myself and endure. I have taken on a great risk, but the fate of the world hinges on the success of The Chosen and the pact that I have made.{^n}{^n}Father Kymon
 
 tagLoreObj_AreaCZealot_Note04Name=凯蒙的日志 - 第二页
-tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
+tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}圣父凯蒙
 
 
 
@@ -981,7 +981,7 @@ tagNPC_SmugglerA02=哈里
 tagStoreTitle_SmugglerA02=走私者
 
 tagNPC_ReallocatorA01=马隆
-tagStoreTitle_ReallocatorA01=灵魂导师
+tagStoreTitle_ReallocatorA01=灵魂向导
 
 tagNPC_InventorA01=达莱特
 tagStoreTitle_InventorA01=发明家

@@ -634,6 +634,8 @@ tagCharStatsNightbladeSkillsBonus=夜刃技能加成
 tagCharStatsNightbladeSkillsBonusInfo=所有夜刃专精中已习得技能的额外加成。
 tagCharStatsArcanistSkillsBonus=奥术师技能加成
 tagCharStatsArcanistSkillsBonusInfo=所有奥术师专精中已习得技能的额外加成。
+tagCharStatsShamanSkillsBonus=萨满技能加成
+tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外加成。
 
 #Physical物理
 tagCharStatsAttackSpeed=攻击速度

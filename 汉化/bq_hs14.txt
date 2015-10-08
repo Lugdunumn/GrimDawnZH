@@ -4,7 +4,7 @@
 Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of Cavern Crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Cavern Crawlers will be compensated with scavenged materials from our stores.
 
 Slay Cavern Crawlers
-Deliver the 蝎尾狮眼球 to the Homestead Bounty Table
+
 Turn In
 You have completed the task for Homestead and should return to the Bounty Table for your reward.{^n}{^n}This may sound selfish, but I don't much care. Manticores tore my sister apart when I was a child.{^n}{^n}I swore when I was old enough to carry a gun that I'd go out there and gun down as many as I can, but now you can't step five feet outside Homestead without running into something far worse than a manticore.{^n}{^n}Please, to anyone that is braver than I, go out there and slay the manticores. Bring me one of their eyes as proof and I will gladly share some of my scavenged materials.
 Return to the Homestead Bounty Table

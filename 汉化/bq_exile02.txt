@@ -1,10 +1,10 @@
 赏金任务
 赏金：冥神之血
 赏金
-Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a 冥神之血 and I shall reward you with iron bits.
+冥神之血啊，冥灵们在收集它，邪教徒们在崇拜它，但这究竟是为什么呢？{^n}{^n}我必须弄明白！替我收集一个冥神之血，我会给你一些铁币作为回报。
 
 收集冥神之血
-Deliver the 冥神之血 to the Outcast
+将冥神之血交给放逐者
 
 
 

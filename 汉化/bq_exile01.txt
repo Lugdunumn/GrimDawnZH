@@ -1,10 +1,10 @@
 赏金任务
 赏金：感染大脑
 赏金
-Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a 感染大脑 Matter and I shall reward you with iron bits.
+被虚灵附身的人出现了一些有趣的副作用，主要都是身体上的明显变异，但至于那些大脑里的变化嘛...那可是值得深入研究一下。{^n}{^n}替我收集一个感染大脑，我会给你一些铁币作为回报。
 
-收集感染大脑 Matter
-Deliver the 感染大脑 Matter to the Outcast
+收集感染大脑
+将感染大脑交给被驱逐者
 
 
 

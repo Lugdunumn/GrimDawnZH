@@ -1,10 +1,10 @@
 赏金任务
-赏金：感染大脑s
+赏金：更多感染大脑
 赏金
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three 感染大脑 Matters and I shall reward you with some of my valuables.
+我需要更多的研究材料。别多嘴问问题，只管带来就行。{^n}{^n}替我收集三个感染大脑，我会给你一些我的值钱货作为回报。
 
-收集感染大脑 Matter
-Deliver the 感染大脑 Matter to the Outcast
+收集三个感染大脑
+将感染大脑交给放逐者
 
 
 

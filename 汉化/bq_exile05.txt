@@ -1,10 +1,10 @@
 赏金任务
-赏金：Bountiful Blood
+赏金：更多冥神之血
 赏金
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
+我需要更多的研究材料。别多嘴问问题，只管带来就行。{^n}{^n}替我收集三瓶冥神之血，我会给你一些我的值钱货作为回报。
 
-收集冥神之血
-Deliver the 冥神之血 to the Outcast
+收集三瓶冥神之血
+将冥神之血交给放逐者
 
 
 

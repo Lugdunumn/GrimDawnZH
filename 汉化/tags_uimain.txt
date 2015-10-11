@@ -288,7 +288,7 @@ tagDownloadCloud=下载云存档
 
 tagUPnPCheckFail=UPnP服务无法设置你的路由器以搭建一个恐怖黎明服务器。请检查你的路由器设置并开启UPnP，或者如果不行的话，手动设置你的路由器，为UDP协议和TCP协议打开27016端口。
 
-tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动                                                                                  设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
+tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
 
 tagUPnPEnabledHelp=已开启UPnP，不需要手动设置。
 tagUPnPDisabledHelp=已开启UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。

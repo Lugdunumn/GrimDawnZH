@@ -1,10 +1,10 @@
 赏金任务
-赏金：Beating Hearts
+赏金：跳动的心
 赏金
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
+我需要更多的研究材料。别多嘴问问题，只管带来就行。{^n}{^n}替我收集三个远古之心，我会给你一些我的值钱货作为回报。
 
-收集Ancient Heart
-Deliver the Ancient Heart to the Outcast
+收集三个远古之心
+将远古之心交给放逐者
 
 
 

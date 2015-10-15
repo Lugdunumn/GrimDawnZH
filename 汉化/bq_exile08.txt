@@ -1,10 +1,10 @@
 赏金任务
-赏金：Squall
+赏金：尖啸
 赏金
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+上古的人们曾经创造了有神奇力量的遗物。可惜，许多关于遗物的知识都失传了。我需要一个尖啸遗物来继续我的研究。你需要自己找到制作的配方，并将他交给可靠的铁匠。{^n}{^n}等铁匠制作出遗物之后，再带给我。它嘈杂的核心将成为我试验的催化剂。{^n}{^n}事成之后，我会给你一些我的值钱货作为回报。
 
-Craft a Squall Relic
-Deliver Squall to the Outcast
+制作一个尖啸遗物
+将尖啸遗物交给放逐者
 
 
 

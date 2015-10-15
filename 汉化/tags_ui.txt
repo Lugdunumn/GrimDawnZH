@@ -911,7 +911,7 @@ tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果的�
 tagCharStatsItemLevel=平均物品等级
 tagCharStatsItemLevelInfo=你所有装备的平均物品等级。
 
-tagRecordTime=已用时间
+tagRecordTime=游戏时间
 tagRecordTimeNumber={%d0}:{%d1}:{%d2}
 tagRecordTimeInfo=总游戏时间的天数，小时和分钟数。
 

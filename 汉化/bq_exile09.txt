@@ -1,10 +1,10 @@
 赏金任务
-赏金：Inferno
+赏金：炼狱
 赏金
-To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+为了让我的研究更进一步，我需要一个炼狱遗物，它能让使用者充满着火山般的怒火。可惜，关于它的知识早已失传了。{^n}{^n}你需要自己找到制作的配方，并将他交给可靠的铁匠。{^n}{^n}等铁匠制作出遗物之后，再带给我。它火焰般的核心刚好可以当做我实验的热源。{^n}{^n}事成之后，我会给你一些我的值钱货作为回报。
 
-Craft an Inferno Relic
-Deliver Inferno to the Outcast
+制作一个炼狱遗物
+将炼狱遗物交给放逐者
 
 
 

@@ -20,8 +20,20 @@ tagHeroKilled=击杀敌方英雄
 tagBossKilled=击杀敌方首领
 tagXPAwarded=经验奖励 {%d0}
 tagRepAwarded={%s1}的声望 +{%d0}
+
+#Devotion
+
 tagDevotionAwarded=奖励 {%d0} 点虔诚点数
 tagDevotionShrine=已净化的祭坛
+tagDevotionShrineGuardian=Shrine Guardian
+tagDevotionSkillLevelUp={%s0} has reached rank {%d1}
+tagDevotionSkillMaxLevel={%s0} has reached maximum rank
+tagDevotionAffinityBonus=Complete Constellation Bonus:
+tagDevotionAffinity=Affinities:
+tagDevotionSelected= (Selected)
+tagDevotionInUse= (In Use)
+tagDevotionConfirm=Replace Celestial Power?
+tagDevotionExperienceFormat=Experience: {^y}{%d0}{^w} / {^y}{%d1}
 
 tagUndo=撤销
 Chat=聊天:
@@ -53,6 +65,8 @@ tagCodexJournalSubHeadingEnemy=敌人情报
 tagCodexJournalSubHeadingFaction=势力
 tagCodexJournalSubHeadingCreed=审判官克里德
 tagCodexJournalSubHeadingArkovia=历史 - 安克维亚
+tagCodexJournalSubHeadingNecropolis=History - Necropolis
+tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
 tagCodexJournalSubHeadingSurvivorBurrwitch=幸存者 - 伯尔维治
 tagCodexJournalSubHeadingSurvivorsHomestead=幸存者 - 霍姆斯特德
 tagCodexJournalSubHeadingDefault=杂项
@@ -105,7 +119,7 @@ tagFactionSurvivorsRewards3=N/A
 tagFactionSurvivorsRewards4=空
 tagFactionSurvivorsRewards5=新任务 {^n}获得势力特有商店
 tagFactionSurvivorsRewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有设计图
-tagFactionSurvivorsRewards7=新的地下城/新任务 {^n}势力特有增幅物 {^n}势力特有饰品
+tagFactionSurvivorsRewards7=新的地下城/新任务 {^n}势力特有增幅物 {^n}势力特有饰品  {^n}Faction Writs {^n}Faction Blueprints
 tagFactionSurvivorsRewards8=稀有增幅物 {^n}该势力的敕令和委任状
 tagFactionAetherials=虚灵
 tagFactionAetherialsInfo=凯恩世界的奥术师们愚蠢而又贪婪地追寻着被称为虚化力量的魔法，却从不在意有些东西已经在背后盯上了他们。{^n}{^n}虚灵在被称作恐怖黎明的事件发生之时来到了凯恩世界，它们占据了无数的人类，然后将剩余的屠戮殆尽。最为卑劣的是，它们开始复活死去的人，将他们变成变异的不死怪物，成为它们麾下没有任何个人意志的侵略大军。它们的存在也将凯恩世界原有的野生生物改变了，原本温顺的动物纷纷变成了邪恶的怪物。{^n}{^n}可最奇怪的还是它们对冥灵的憎恨，只要有机会它们就一定会和那些来自虚空之中的恐惧之物战个不死不休。
@@ -147,8 +161,8 @@ tagFactionUser0Rewards3=N/A
 tagFactionUser0Rewards4=空
 tagFactionUser0Rewards5=新任务 {^n}获得势力特有商店
 tagFactionUser0Rewards6=可接受赏金任务 {^n}势力特有武器 {^n}势力特有护甲  {^n}势力特有设计图
-tagFactionUser0Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品
-tagFactionUser0Rewards8=稀有增幅物 {^n}该势力的敕令和委任状
+tagFactionUser0Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser0Rewards8=稀有增幅物 {^n}该势力的委任状
 tagFactionUser1=中立
 tagFactionUser1Info=N/A
 tagFactionUser2=霍姆斯特德
@@ -159,8 +173,8 @@ tagFactionUser2Rewards3=N/A
 tagFactionUser2Rewards4=空
 tagFactionUser2Rewards5=获得势力特有商店
 tagFactionUser2Rewards6=领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有设计图
-tagFactionUser2Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品
-tagFactionUser2Rewards8=稀有增幅物 {^n}该势力的敕令和委任状
+tagFactionUser2Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser2Rewards8=稀有增幅物 {^n}该势力的委任状
 tagFactionUser3=科里根矿的自由民
 tagFactionUser3Info=营地:科里根矿{^n}{^n} WORDS
 tagFactionUser3Rewards1=N/A
@@ -178,9 +192,9 @@ tagFactionUser4Rewards2=放逐者的愤怒
 tagFactionUser4Rewards3=放逐者大军
 tagFactionUser4Rewards4=空
 tagFactionUser4Rewards5=新任务
-tagFactionUser4Rewards6=新任务
-tagFactionUser4Rewards7=新任务 {^n}获得势力特有商店
-tagFactionUser4Rewards8=稀有增幅物
+tagFactionUser4Rewards6=新任务 {^n}Access to Bounty Table
+tagFactionUser4Rewards7=新任务 (coming soon)  {^n}获得势力特有商店
+tagFactionUser4Rewards8=稀有增幅物 {^n}Faction Mandates
 tagFactionUser5=死亡守夜人教团
 tagFactionUser5Info=营地:悲伤城堡{^n}{^n} The Order of Death's Vigil represents the last connection to the nearly lost art of necromancy, precious knowledge passed down to its members from their grandmaster, Uroboruuk. {^n}{^n} Members of the Order do not fear death. Instead they embrace all of its harsh lessons, believing that through mastery of death they can become more in tune with the world itself. {^n}{^n} Having faced persecution at the hands of the empire for centuries, the Order is no stranger to prejudice and controversy, but they had never met a foe as relentless as the Kymon's Chosen. The Chosen, concerned only with cleansing Cairn of corruption, view the Order as a travesty that must be purged.
 tagFactionUser5Rewards1=刷新复仇级单位
@@ -189,8 +203,8 @@ tagFactionUser5Rewards3=刷新额外敌人
 tagFactionUser5Rewards4=空
 tagFactionUser5Rewards5=获得势力特有商店
 tagFactionUser5Rewards6=新任务 {^n}可领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲  {^n}势力特有设计图
-tagFactionUser5Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品
-tagFactionUser5Rewards8=稀有增幅物 {^n}该势力的敕令和委任状
+tagFactionUser5Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser5Rewards8=稀有增幅物 {^n}该势力的委任状
 tagFactionUser6=不死族
 tagFactionUser6Info=Many tragic tales are told about the undead endlessly roaming the ruins of Arkovia. Some believe them to be spirits trapped within the mortal realm, unable to cross over into their promised afterlife. Others will claim it to be the work of vile necromancy, a legion of undead cursed to serve a cruel master. Perhaps the truth lies somewhere in-between. {^n}{^n}One thing everyone can agree upon is that the undead are extremely dangerous to the living. As such, looting their forgotten ruins is considered to be an ill-advised pursuit.
 tagFactionUser6Rewards1=刷新复仇级单位
@@ -209,8 +223,8 @@ tagFactionUser7Rewards3=N/A
 tagFactionUser7Rewards4=空
 tagFactionUser7Rewards5=可接受赏金任务 {^n}获得势力特有商店
 tagFactionUser7Rewards6=新的赏金任务 {^n}势力特有武器 {^n}势力特有护甲  {^n}势力特有设计图
-tagFactionUser7Rewards7=新的地下城/新任务 {^n}势力特有增幅物 {^n}势力特有饰品
-tagFactionUser7Rewards8=稀有增幅物 {^n}该势力的敕令和委任状
+tagFactionUser7Rewards7=新的地下城/新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser7Rewards8=稀有增幅物 {^n}该势力的委任状
 tagFactionUser8=凯蒙的神选战士
 tagFactionUser8Info=营地:悲伤城堡{^n}{^n}Kymon's Chosen are the zealous followers of Empyrion, the Light-Bringer, whom they believe will return to Cairn in blazing glory and guide his Chosen into a new dawn of order and prosperity.{^n}{^n}Led by a charismatic preacher known as Father Kymon and guarded by their faith, the Chosen are eager to stamp out all corruption from Cairn, whether it is vile Chthonic horrors or death-manipulating necromancers. To this end, they consider ridding the world of the Order of Death's Vigil to be one of their utmost priorities.
 tagFactionUser8Rewards1=刷新复仇级单位
@@ -219,8 +233,8 @@ tagFactionUser8Rewards3=刷新额外敌人
 tagFactionUser8Rewards4=空
 tagFactionUser8Rewards5=获得势力特有商店
 tagFactionUser8Rewards6=新任务 {^n}可领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲  {^n}势力特有设计图
-tagFactionUser8Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品
-tagFactionUser8Rewards8=稀有增幅物 {^n}该势力的敕令和委任状
+tagFactionUser8Rewards7=新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser8Rewards8=稀有增幅物 {^n}该势力的委任状
 tagFactionUser9=User9
 tagFactionUser9Info=
 tagFactionUser9Rewards1=刷新复仇单位
@@ -380,6 +394,14 @@ tagHUD_RightMouse_R=右键分配
 tagHUD_RightMouse_R1=这是你的次要攻击方式。点击右键来分配一个技能。
 tagHUD_CompassToggleName=指南针地图开关
 tagHUD_CompassToggleDescription=点击更改尺寸或最小化指南针地图。
+tagHUD_LootModeToggleOff=Auto Show Loot ^D(Off)
+tagHUD_LootModeToggleCommon=Auto Show Loot (Common+)
+tagHUD_LootModeToggleMagic=Auto Show Loot ^Y(Magic+)
+tagHUD_LootModeToggleRare=Auto Show Loot ^G(Rare+)
+tagHUD_LootModeToggleEpic=Auto Show Loot ^B(Epic+)
+tagHUD_LootModeToggleLegendary=Auto Show Loot ^P(Legendary+)
+
+tagHUD_LootModeToggleDescription=Click to change the type of loot which is automatically shown.
 
 tagHUD_LeftMouse=左键
 tagHUD_RightMouse=右键
@@ -578,6 +600,7 @@ tagCharStatsDPSLeftDescription=左键技能的对单体目标的伤害明细，�
 
 tagCharStatsArmorTotalAlert=护甲等级{^b}(?)
 tagCharStatsArmorTotal=护甲等级
+tagCharStatsAbsorption=护甲吸收
 tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}从技能和非护甲部位获得的加成将增加至所有护甲栏位。
 tagCharStatsHitArmor=击中几率
 tagCharStatsArmorUnprotected=无护甲
@@ -1079,10 +1102,17 @@ tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
 tagShrineDesecrated=被亵渎的圣坛
 tagShrineRuined=圣坛遗迹
 tagShrineRestored=已修复的圣坛
-tagShrineButton=献祭
+tagShrineButton01=Offer
+tagShrineButton02=Start
+tagShrineButton03=Cancel
 tagShrineButtonInfo=将祭品放置在圣坛周围
-tagShrineWarning=你确定要放置该祭品吗？
+tagShrineWarning=这座圣坛被毁坏了需要被修复，你确定要放置该祭品吗？
 tagShrineConfirmProxy=这个圣坛已经被腐化了，需要被净化。是否召唤出困于其中的魔物？
+tagShrineActivated=That shrine has already been restored.
+tagShrineHostActivated=That shrine has already been restored by the host.
+tagShrineHostNotActivated=You have already restored this shrine in another session.
+tagShrineBusy=That shrine is being used by another player.
+tagShrineLocked=The shrine lies dormant.
 
 #Smuggler
 
@@ -1121,11 +1151,6 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 #NPC Conversation
 tagNpcConversationBusy=那个NPC正在和另一名玩家交谈。
 
-tagShrineActivated=这座圣坛已经被修复了。
-tagShrineHostActivated=这座圣坛已经被主机修复了。
-tagShrineBusy=这座圣坛正在被另一名玩家使用。
-tagShrineLocked=这座圣坛处于休眠状态。
-
 #Treasure Trove宝藏
 tagTroveBusy=那个目标正在和另一名玩家进行互动。
 
@@ -1161,7 +1186,7 @@ tagMapSymbolVendorDesc=一个贩卖货物的商人。
 tagMapSymbolWitch=灵魂向导
 tagMapSymbolWitchDesc=一位能够帮助你忘却技能的人物。
 tagMapSymbolShrine=祭坛
-tagMapSymbolShrineDesc=祭坛会提供有用的增益。
+tagMapSymbolShrineDesc=An ancient shrine devoted to the stars and the gods of old.
 tagMapSymbolSmith=铁匠
 tagMapSymbolSmithDesc=一位技艺精湛能够打造新物品的工匠。
 
@@ -1460,10 +1485,11 @@ PressToAddUnusedSkillPoints=左键点击来投入未使用的技能点数
 PressToAddUnusedDevotionPoints=左键点击来投入未使用的虔诚点数
 PressToActivateDevotion=左键点击以激活
 PressToAssignDevotion=左键点击以分配
+AssignDevotionForExp=Must be Assigned to Earn Experience
 SkillEnhancement=所有技能等级 +{%d0}
 NoSkillPointsToAdd=无可用技能点数
 NoDevotionPointsToAdd=没有可用的虔诚点数
-LockedDevotion=锁定
+LockedDevotion=Locked - Requires Star Earlier in Constellation
 ActiveDevotion=激活
 YouMustIncreaseMasteryLevel=你必须提升专精等级才能投入点数
 EnableOneBaseSkill=至少需要一点基础技能等级
@@ -1474,6 +1500,9 @@ FailedSkillDependancy=需要{%s0}技能
 FailedSkillDependancyAll=需要如下技能:
 FailedSkillDependancyOne=需要下列技能中的其中之一:
 FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Affinity Requirement:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Constellation Dependencies:
 ManaCost={^E}点能量消耗
 ManaCostPerSecond={^E}每秒能量消耗
 ActiveLifeCost={^E}每秒激活生命消耗
@@ -1523,6 +1552,8 @@ tagQualifyingDamagePoison=毒素或酸性
 tagQualifyingDamageLife=活力伤害
 tagQualifyingDamageBleeding=流血
 tagQualifyingDamageElemental=元素
+tagQualifyingDamageAether=Aether
+tagQualifyingDamageChaos=Chaos
 
 DamageSingleFormat={%.0f0}
 DamageRangeFormat={%.0f0}-{%.0f1}
@@ -1628,8 +1659,8 @@ DamageDurationProjectileFumble=% {^E}的几率目标瞄准障碍
 
 DamageModifierPhysical={%+.0f0}% {^E}物理伤害
 DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}物理伤害
-DamageModifierPierceRatio={%+.0f0}% {^E}护甲穿透
-DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}护甲穿透
+DamageModifierPierceRatio={^E}Increases Armor Piercing by {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}Increases Armor Piercing by {^H}{%.0f0}-{%.0f1}%
 DamageModifierPierce={%+.0f0}% {^E}穿刺伤害
 DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}穿刺伤害
 DamageModifierCold={%+.0f0}% {^E}冰冷伤害
@@ -1805,7 +1836,7 @@ DefenseLifeModifier={^E}现有活力抗性提高 {^H}{%.0f0}%
 DefenseChaosModifier={^E}现有混乱抗性提高 {^H}{%.0f0}%
 DefenseAetherModifier={^E}现有虚化抗性提高 {^H}{%.0f0}%
 DefenseStunModifier={^E}现有眩晕抗性提高 {^H}{%.0f0}%
-DefenseBlockModifier={^E}盾牌格挡几率提高 {^H}{%.0f0}%
+DefenseBlockModifier={%+.0f0}% {^E}Shield Block Chance
 DefenseBlockAmountModifier={%+.0f0}% {^E}盾牌格挡值
 DefenseLifeLeachModifier={^E}现有生命吸取抗性提高 {^H}{%.0f0}%
 DefenseManaLeachModifier={^E}现有能量吸取抗性提高 {^H}{%.0f0}%
@@ -1859,6 +1890,8 @@ DefenseSleepMaxResist={%+.0f0}% {^E}最大昏睡抗性
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大昏睡抗性
 DefenseAllMaxResist={%+.0f0}% {^E}最大全抗性
 DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全抗性
+DefenseReflectResist={%+.0f0}% {^E}Reflected Damage Reduction
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}Reflected Damage Reduction
 
 RacialBonusPercentDamage={%+.0f0}% {^E}对{%s1}的伤害
 RacialBonusAbsoluteDamage={%+.0f0} {^E}点对{%s1}伤害
@@ -1884,7 +1917,7 @@ tagItemGrantSkill=授予技能:
 tagItemSkill=(从物品中获得)
 tagItemSkillShort=(物品)
 tagEffect=效果:
-tagSkillGrantEffect=次级效果:
+tagSkillGrantEffect=Celestial Power:
 tagDevotionAttached=Bound To:
 
 tagItemUseDirections=[右键点击来使用]
@@ -1961,6 +1994,10 @@ tagEmptyHotSlot=清空此快捷键栏按钮。
 
 tagDevotionUnassigned=无技能
 
+#Stack Window
+tagStackOk=Ok
+tagStackCancel=Cancel
+
 #Multiplayer
 
 tagMPTrade=交易
@@ -1996,6 +2033,7 @@ tagMPInviteDeny=拒绝
 tagMPStats=游戏状态
 tagMPMapName=地图名:
 tagMPServerName=服务器名:
+tagMPServerAddress=服务器地址:
 tagMPPing=延迟:
 tagMPTime=持续时间:
 tagMPServer=服务器名:{%t0}

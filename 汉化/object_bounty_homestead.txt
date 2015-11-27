@@ -100,7 +100,7 @@ We have heard complaints about feverish nightmares of blood and darkness. The la
 离开赏金桌。
 下一个赏金任务。
 
-Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of cavern crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Albino Cavern Crawlers will be compensated with scavenged materials from our stores.
+Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should never see the light of day.{^n}{^n}However, as the population of Cavern Crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Cavern Crawlers will be compensated with scavenged materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

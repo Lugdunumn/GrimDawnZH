@@ -1,7 +1,7 @@
 赏金任务
 赏金：腐朽的 格拉维斯
 赏金
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering 古代墓地. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
+Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering 古代墓地的黑墓穴中. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
 
 
 

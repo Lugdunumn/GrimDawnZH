@@ -1,12 +1,12 @@
 古安克维亚
 Rhowari Legacy
 Repair Shrine
-Far to the north, in the Asterkarn Mountains, the Cult of Ch'thon has desecrated the Shrine of Mogdrogen, a place sacred to the Rovers. Amkala has asked you to recover the parts of the shrine that had been stolen by the cultists and to restore the shrine by returning the pieces, along with an Ancient Heart, to the Shrine. The pieces may be found in any of the cult's camps, far to the north of 古安克维亚.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
+Far to the north, in the Asterkarn Mountains, the Cult of Ch'thon has desecrated the Shrine of Mogdrogen, a place sacred to the Rovers. Amkala has asked you to recover the parts of the shrine that had been stolen by the cultists and to restore the shrine by returning the pieces, along with an Ancient Heart, to the Shrine. The pieces are lost to the void, through rifts open in the Blood Grove, to the north of Homestead, and the Plains of Strife, north of Fort Ikon.
 
 
-Find Spirit of Mogdrogen
 Find Runed Stone of Mogdrogen
-收集Ancient Heart
+Find Spirit of Mogdrogen
+收集远古之心
 Restore the Shrine of Mogdrogen
 
 

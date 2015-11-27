@@ -1,0 +1,157 @@
+Inquisitor Creed
+I'm not ready to perform the ritual just yet.{^n}{^n}Take some time to finalize your affairs. We will set out as soon as I am able.
+I have some questions.
+Yes?
+How do you intend on locating Ulgrim?
+There are arcane ways to track down anyone, so long as you have something that was once theirs.{^n}{^n}Once I've gathered the materials for the ritual, we will need to acquire an object that was important to Ulgrim.
+I have another question.
+I see.
+What about the Aetherials?
+They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
+I have another question.
+Farewell.
+The Cult is still out there. Shouldn't we stop them for good?
+Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
+I have another question.
+I see.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+I have another question.
+Makes sense.
+Nevermind.
+Farewell.
+Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
+We'll deal with it, one challenge at a time.
+You've returned. Is it finished then?
+The beast has been banished, but Ulgrim was pulled into the Void along with it.
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+What can we do?
+Entering the Void is simple enough, what with the many rifts now open across Cairn, but you could spend an eternity wandering the ashen wastes in search of Ulgrim and come up dry.{^n}{^n}No, we will need some way to locate him; and I have just the ritual in mind.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.{^n}{^n}I need time to gather the necessary materials.
+You can count on me.
+Don't take too long.
+You're just going to end up killed.
+Sounds like a fool's errand.
+Entering the Void is simple enough, what with the many rifts now open across Cairn, but you could spend an eternity wandering the ashen wastes in search of Ulgrim and come up dry.{^n}{^n}No, we will need some way to locate him; and I have just the ritual in mind.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.{^n}{^n}I need time to gather the necessary materials.
+You can count on me.
+Don't take too long.
+You're just going to end up killed.
+I've heard about what you've done to Anasteria.{^n}{^n}You brash actions have cost us a valuable resource.
+She was an Aetherial witch!
+Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}Anasteria saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
+I had no idea.
+Perhaps you should have considered that before acting.
+I'm sorry.
+I stand by what I did.
+She was still a risk.
+I did what you refused to.
+Is there something you need?
+We could use you out there.
+Perhaps so, but someone has to coordinate our forces, and Fort Ikon is still exposed.
+Fair enough.
+
+Farewell.
+What are you still doing here? Ulgrim needs you at the Necropolis!
+
+I'll head there now.
+Have you secured the riftgate?
+Where is the Necropolis?
+Take the front gates out of Fort Ikon and make your way across the Plains of Strife. The gates to the Necropolis are not far beyond.{^n}{^n}Once there, find a riftgate and secure it so that our troops can advance on the cult.
+Thank you.
+I have some questions.
+Yes?
+Who is Anasteria?
+Anasteria? Why do you ask...
+Captain Reave mentioned her.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}In spite of whatever Reave has told you to do, Anasteria is not to be harmed.
+I have another question.
+Very well.
+I heard her name come up.
+Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+I have another question.
+I see.
+I have another question.
+Forget it.
+What do we know about the Loghorrean?
+Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
+I have another question.
+I need to get back out there.
+What can you tell me about the Necropolis?
+The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
+I have another question.
+I need to get back out there.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+I have another question.
+Nevermind.
+I will take care of it.
+Good work handling Lucius, but the Necropolis still awaits.
+Where do you need me?
+We cannot simply march our forces straight into the Necropolis. The cult's minions will descend upon us in force and we will be crushed before we even get near the Tomb of the Watchers.{^n}{^n}Instead, we will put your unique skills to use. Make your way into the Necropolis, past the Plains of Strife, and secure the nearest riftgate.{^n}{^n}Once you've done so, Ulgrim will come through with a contingent of our men. With the element of surprise on our side, we will strike at the enemy from within.
+I will head to the Necropolis at once.
+I need some time to prepare.
+I've already secured the riftgate.
+Quick thinking. I will have a contingent of troops sent there immediately.{^n}{^n}Head back out there and speak with Ulgrim. He will debrief you on what needs to be done next.
+I will meet them there.
+I have some questions.
+Make it quick.
+Who is Anasteria?
+Anasteria? Why do you ask...
+Captain Reave mentioned her.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}Ignore whatever Reave has told you to do, Anasteria is not to be harmed.
+Alright. What did you need me to do?
+
+I have another question.
+Very well.
+I heard her name come up.
+Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+Alright. What did you need me to do?
+
+I have another question.
+I see.
+Forget it. What did you need me to do?
+
+I have another question.
+I see.
+What do we know about the Loghorrean?
+Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+What can you tell me about the Necropolis?
+The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+Good work down there.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
+Where do you need me?
+
+Have you recovered the explosives?
+Where is the armory?
+The armory is on the north side of Fort Ikon. Do not tarry!
+I will head there now.
+Not yet.
+Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials, it seems, have gotten a hold of the commander.
+He's been possessed?
+Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; Use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
+It will be done.
+It will have to wait.
+I've already dealt with Lucius and cleared the gates.
+Good work.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
+Where do you need me?
+
+I've already dealt with Lucius.
+Then there is no time to waste. Bring the explosives to the front gates and clear the rubble so that the Legion may advance upon the Necropolis.
+I will do so.
+Good, you've arrived.{^n}{^n}Things here are in worse shape than I thought.
+What happened?
+
+Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
+We'll deal with it, one challenge at a time.

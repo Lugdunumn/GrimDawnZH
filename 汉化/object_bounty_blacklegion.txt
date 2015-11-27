@@ -108,7 +108,7 @@ The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the
 离开赏金桌。
 下一个赏金任务。
 
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near 悲伤城堡. There, an obsidian monster known as 梦魇 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
+The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up in 纷争平原, north of Fort Ikon. There, an obsidian monster known as 梦魇 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -128,7 +128,7 @@ The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler know
 离开赏金桌。
 下一个赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 幽暗盆地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -173,7 +173,7 @@ The Legion requests assistance with a priority target.{^n}{^n}派得曼斯蒂亚
 离开赏金桌。
 下一个赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}尸化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}任何协助都会给予材料作为奖赏。
+The Legion requests assistance with a priority target.{^n}{^n}尸化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately. Hunt this ghoul down at its lair; the Black Sepulcher crypt.{^n}{^n}任何协助都会给予材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -253,7 +253,7 @@ The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler know
 离开赏金桌。
 下一个赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 幽暗盆地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

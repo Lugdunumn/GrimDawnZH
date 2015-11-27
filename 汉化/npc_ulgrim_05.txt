@@ -1,0 +1,18 @@
+Ulgrim
+Prepare yourself. The nightmare buried underneath the Necropolis is all too real.
+I have some questions.
+Go ahead.
+You seem unusually shaken by the Loghorrean's return.
+It's nothing. Just saddened to discover that such evil can never truly be contained.{^n}{^n}*Ulgrim smirks*{^n}{^n}If I get too emotional during the fighting, just hand me a handkerchief.
+I have another question.
+I'll keep that in mind.
+You say this thing has been summoned before?
+Yes, many centuries ago, at the Battle of Ikon. Nobody knows for sure whether it was the Carineans performing a last desperate maneuver, or perhaps the Loghorrean was drawn to all the spilled blood, but the results were catastrophic.{^n}{^n}And now we know what the real purpose behind the Necropolis was.
+I have another question.
+Mistakes of the past coming back.
+What's our plan of action?
+I'm preparing an elite team to infiltrate the Necropolis and take the enemy by surprise from the inside.{^n}{^n}Speak to Creed for more details when you're ready.
+I have another question.
+Will do.
+Nevermind.
+Farewell.

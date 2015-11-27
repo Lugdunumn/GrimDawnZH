@@ -1,6 +1,7 @@
 #装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
+tagItemNameAndStack={%s0} ({%d1})
 
 #武器
 
@@ -129,6 +130,7 @@ tagWeaponBluntC014=起源 Progenitor
 tagWeaponBluntC015=战争之斥责 War's Rebuke
 tagWeaponBluntC016=巴托雷姆之槌 Gavel of Barthollem
 tagWeaponBluntC016Desc="执政官巴托雷姆的圣槌，曾用来向恶徒身上施加神罚。"
+tagWeaponBluntC017=霜铁救世主
 
 tagWeaponBluntD001=死亡之兆 Death Omen
 tagWeaponBluntD001Desc="死亡到来的预兆。"
@@ -234,7 +236,7 @@ tagWeaponGun1hC013=调停人 The Mediator
 tagWeaponGun1hC014=北地极寒 Frigid Barrel of the Relentless North
 tagWeaponGun1hC015=伯尔维治的和平卫士 Burrwitch Peacekeeper
 tagWeaponGun1hC015Desc="警长哈蒙·格里菲斯可靠的配枪。"
-tagWeaponGun1hC016=曼海尔的忏悔 Menhir's Pennance
+tagWeaponGun1hC016=药剂师的注射器 Menhir's Pennance
 tagWeaponGun1hC017=毁誓枪 Oathbreaker
 tagWeaponGun1hC018=尸身剥裂者 Corpseflayer
 tagWeaponGun1hC019=地炎 Earthscorcher
@@ -296,7 +298,7 @@ tagWeaponGun2hC013=持火者的连发枪 Flame Keeper's Repeater
 
 tagWeaponGun2hD001=撒旦 The Adversary
 tagWeaponGun2hD002=巫异時刻 Witching Hour
-tagWeaponGun2hD002Desc="巫神的追随者用来保卫其圣殿不被教廷的愤怒所摧毁的武器。"
+tagWeaponGun2hD002Desc="三巫神祝福过的武器，他们将其赐予他的信徒用来保卫他们圣殿不被教廷的愤怒所摧毁。"
 tagWeaponGun2hD003=地狱降生 Hellborne
 tagWeaponGun2hD003Desc="枪管向前喷涌着来自七大地狱的愤怒。"
 tagWeaponGun2hD004=灵魂旋风 Vortex of Souls
@@ -338,8 +340,8 @@ tagWeaponCrossbow2hD001=银箭 Silverbolt
 tagWeaponCrossbow2hD001Desc="恶魔猎人嗜血的伊迪斯选用了这把武器，昔日冥神的狂热信徒变成了屠魔者。"
 tagWeaponCrossbow2hD002=德里格的尖刺弩 Quillthrower of Dreeg
 tagWeaponCrossbow2hD002Desc="被灌注以巫神德里格真正的本体之力的武器。"
-tagWeaponCrossbow2hD003=北地巨龙 Dragon of the North
-tagWeaponCrossbow2hD003Desc="源自北地刺骨寒风中的霜血巨龙。"
+tagWeaponCrossbow2hD003=北地巨龙 The Northern Wyrm
+tagWeaponCrossbow2hD003Desc="The great wyrm freezes all that it touches before devouring it whole"
 tagWeaponCrossbow2hD004=拉卡·贾克斯 Raka'Jax
 tagWeaponCrossbow2hD005=永恒苦难之先兆 Harbinger of Eternal Suffering
 
@@ -702,6 +704,7 @@ tagFocusD009Desc="The skull of Gul'amash, a once powerful occultist, condemned f
 tagFocusD010=纳尔·阿丁的邪术宝典 Wretched Tome of Nar'Adin
 tagFocusD011=永恒风暴秘典 Codex of Eternal Storms
 tagFocusD012=阿格维克斯的法器 Consumption of Agrivix
+tagFocusD012Desc="The Grand Arcanist Agrivix was famous for pouring inordinate quantities of energy into his spellwork, but this hunger for power took him down a path of destruction that had him convinced he was the rightful ruler of the world. Agrivix ultimately met his end at the hands of inquisitors, but not before taking several of them down with him."
 tagFocusD013=祈求者的闪耀 Invoker's Blaze
 tagFocusD014=伊斯坎德拉的文本 Iskandra's Texts
 
@@ -1280,7 +1283,7 @@ tagHandsC010=黑铁手甲 Blacksteel Gauntlets
 tagHandsC011=丝触裹手 Silktouch Handwraps
 tagHandsC011Desc="潜入暗影，暗黑中的你将所向披靡。"
 tagHandsC012=使者的手套 Herald's Gloves
-tagHandsC013=曼海尔之触 Menhir's Touch
+tagHandsC013=药剂师之触 Apothecary's Touch
 tagHandsC014=救赎护手 Handguards of Redemption
 tagHandsC015=黎明守卫手甲 Dawnguard Gauntlets
 tagHandsC016=余烬之握 Embergrip Handguards
@@ -1357,16 +1360,7 @@ tagLegsD011Desc="Barbaros was a legendary fighter in the ranks of the Black Legi
 tagLegsD012=Stormcage Legguards
 tagLegsD013=Pretty Great Pants
 tagLegsD013Desc="Actually, they're just ok."
-
-tagLegsD002=骨织长裤 Boneweave Leggings
-tagLegsD003=死亡轻语长裤 Deathwhisper Leggings
-tagLegsD004=地狱熔锻长裤 Hellforged Legplates
-tagLegsD004Desc="它在地狱犬的烈焰吐息中被锻造而成。"
-tagLegsD005=织法者裹腿 Spellweave Legwraps
-tagLegsD005Desc="大量的咒语与颇具威力的真言如丝线般织成了这件护腿。"
-tagLegsD006=正义护腿 Legguards of Justice
-tagLegsD007=野兽召唤师的长裤 Beastcaller's Leggings
-tagLegsD008=大法师的长裤 Archmage's Leggings
+tagLegsD014=Wildshorn Legguards
 
 
 #ArmorFeet鞋子
@@ -1403,7 +1397,7 @@ tagFeetC014=Magelord's Greaves
 
 tagFeetD001=傀儡护胫 Golemborn Greaves
 tagFeetD002=龙鳞护足 Wyrmscale Footguards
-tagFeetD002Desc="这些鳞片来自于一种灭绝已久的生物。"
+tagFeetD002Desc="Acquiring Wyrmscale is so dangerous few can manage to even afford a scrap, nevermind an actual piece of armor. These boots were likely a status symbol for a wealthy noble."
 tagFeetD003=毒刺护胫 Venomspine Greaves
 tagFeetD003Desc="这些毒刺滴落着来自于几种不同的蜘蛛和毒蛇的毒液。"
 tagFeetD004=虚空行走 Voidwalker Footpads
@@ -1466,7 +1460,7 @@ tagRingC008Desc="通常被虚灵占居的贵族会戴着这种戒指。"
 tagRingC009=永恒之戒 Eternal Band
 tagRingC010=抹杀 Oblitorix
 tagRingC011=游荡之魂指环 Band of Wandering Souls
-tagRingC012=曼海尔的智慧 Menhir's Wisdom
+tagRingC012=药剂师的智慧 Apothecary's Wisdom
 tagRingC013=皇冠印戒 Seal of the Royal Crown
 tagRingC014=皇冠宝戒 Jewel of the Royal Crown
 tagRingC015=无畏之戒 Ring of Valiance
@@ -1518,7 +1512,7 @@ tagRingD010Desc=Master Albrecht, creator of the aether ray, was reknown not only
 tagRingD011=仁慈之手 The Hand of Mercy
 tagRingD012=复仇之拳 The Fist of Vengeance
 tagRingD013=祈求者的燃烧之手 Invoker's Burning Hand
-tagRingD014=祈求者的冰冻之触 Invoker's Freezing Touch
+tagRingD014=祈求者的震颤之触 Invoker's Shocking Touch
 
 tagRingF001=恶魔的战争印戒 Devil's War Seal
 tagRingF002=恶魔的愤怒印戒 Devil's Wrath Seal
@@ -1535,6 +1529,9 @@ tagRingF012=神选风暴印戒 Chosen Storm Seal
 
 
 #Necklaces项链
+
+tagNecklaceA00=盐袋 Salt Bag
+tagNecklaceA00Desc="满满一袋子的盐，看起来能够抵御邪灵。"
 
 tagNecklaceA001=利爪神像
 tagNecklaceA002=银制护符
@@ -1634,6 +1631,8 @@ tagNecklaceD017=祈求者的碎片 Invoker's Shard
 tagNecklaceD018=德里格的黑宝石 Black Gem of Dreeg
 tagNecklaceD019=伊斯坎德拉的聚能钻石 Iskandra's Focusing Prism
 tagNecklaceD020=艾托斯的宝石 Ultos' Gem
+tagNecklaceD021=马尔可夫的勋章 Markovian's Distinction
++tagNecklaceD022=奥祖因之心 Heart of Ulzuin
 
 tagNecklaceF001=罗瓦里守护石 Rhowari Guardstone
 tagNecklaceF002=罗瓦里的怨恨 Rhowari Rancor
@@ -1674,7 +1673,7 @@ tagMedalC008=奥术魔印 Arcanum Sigil
 tagMedalC009=前锋星章 Vanguard Star
 tagMedalC010=猩红连队徽章 Badge of the Crimson Company
 tagMedalC010Desc="一支冷血无情的雇佣军团猩红连队的徽记。"
-tagMedalC011=曼海尔的符号 Menhir's Sign
+tagMedalC011=药剂师的徽记 Apothecary's Sign
 tagMedalC012=圣约的不洁魔印 Unholy Sigil of the Covenant
 tagMedalC013=无畏绶带 Ribbon of Valiance
 tagMedalC014=巫师的勋章 Enchanter's Insignia
@@ -1708,8 +1707,6 @@ tagMedalD009=Mark of Dark Dreams
 tagMedalD010=Mark of Anathema
 tagMedalD011=Mark of Divinity
 tagMedalD012=Beastcaller's Talisman
-tagMedalD013=Mark of Markovian
-tagMedalD014=Heart of Ulzuin
 
 tagMedalF001=恶魔的火焰徽章 Devil's Badge of Flame
 tagMedalF002=恶魔的寒霜徽章 Devil's Badge of Frost
@@ -1855,23 +1852,40 @@ tagBlueprint_WeaponC004=设计图：预兆之剑
 tagBlueprint_WeaponC005=设计图：震颤
 tagBlueprint_WeaponC006=设计图：咒火魔杖
 tagBlueprint_WeaponC007=设计图：火焰风暴权杖
+tagBlueprint_WeaponC008=设计图：尤达·贾克斯
+tagBlueprint_WeaponC009=Blueprint: Empowered Spellfire Wand
+tagBlueprint_WeaponC010=Blueprint: Empowered Skyshard Spellblade
+tagBlueprint_WeaponC011=Blueprint: Empowered Malformed Effigy
+tagBlueprint_WeaponC012=Blueprint: Empowered Black Grimoire of Og'Napesh
+
+tagBlueprint_WeaponD001=Blueprint: Arcanum Sigillis
+tagBlueprint_WeaponD002=Blueprint: Raka'Jax
+tagBlueprint_WeaponD003=Blueprint: Damnation
+tagBlueprint_WeaponD004=Blueprint: Herald of Blazing Ends
+tagBlueprint_WeaponD005=Blueprint: Beronath, Reforged
+tagBlueprint_WeaponD006=设计图：利维坦
+tagBlueprint_WeaponD007=Blueprint: Olexra's Chill
+tagBlueprint_WeaponD008=Blueprint: Basilisk Claw
+tagBlueprint_WeaponD009=Blueprint: Siegebreaker
+tagBlueprint_WeaponD010=Blueprint: Eye of Dominion
+tagBlueprint_WeaponD011=Blueprint: Codex of Eternal Storms
 
 tagBlueprint_WeaponF001=设计图：恶魔的棍棒
-tagBlueprint_WeaponF002=设计图：恶魔十字防御者
+tagBlueprint_WeaponF002=设计图：强化的恶魔十字防御者
 tagBlueprint_WeaponF003=设计图：罗瓦里织法者秘典
 tagBlueprint_WeaponF004=设计图：罗瓦里劲弩
-tagBlueprint_WeaponF005=设计图：预兆之剑
+tagBlueprint_WeaponF005=设计图：强化的预兆之剑
 tagBlueprint_WeaponF006=设计图：月光巨锤
 tagBlueprint_WeaponF007=设计图：收割者的防御
-tagBlueprint_WeaponF008=设计图：雷霆十字枪
+tagBlueprint_WeaponF008=设计图：强化的雷霆十字枪
 tagBlueprint_WeaponF009=设计图：军团切刀
-tagBlueprint_WeaponF010=设计图：黑色军团盾徽
+tagBlueprint_WeaponF010=设计图：强化的黑色军团盾徽
 tagBlueprint_WeaponF011=设计图：亡者的六发左轮
 tagBlueprint_WeaponF012=设计图：亡者的凝视
-tagBlueprint_WeaponF013=设计图：死神之触
+tagBlueprint_WeaponF013=设计图：强化的死神之触
 tagBlueprint_WeaponF014=设计图：神选猩红守护
 tagBlueprint_WeaponF015=设计图：神选压碎者
-tagBlueprint_WeaponF016=设计图：奥威尔的左轮手枪
+tagBlueprint_WeaponF016=设计图：强化的奥威尔的左轮手枪
 
 
 tagBlueprint_ArmorB001=设计图：专家级靴子
@@ -1911,10 +1925,56 @@ tagBlueprint_ArmorC002=设计图：帝国卫兵的胸甲
 tagBlueprint_ArmorC003=设计图：探险家的外套
 tagBlueprint_ArmorC004=设计图：探险家长裤
 tagBlueprint_ArmorC005=设计图: 盛饰肩铠
+tagBlueprint_ArmorC006=Blueprint: Cowl of the Blind Assassin
+tagBlueprint_ArmorC007=Blueprint: Unholy Visage of the Covenant
+tagBlueprint_ArmorC008=Blueprint: Flame Keeper's Jacket
+tagBlueprint_ArmorC009=Blueprint: Callidor's Vestments
+tagBlueprint_ArmorC010=Blueprint: Myrmidon Visor
+tagBlueprint_ArmorC011=Blueprint: Cowl of Mogdrogen
+
+tagBlueprint_ArmorD001=Blueprint: Maw of Despair
+tagBlueprint_ArmorD002=Blueprint: Dread-Mask of Gurgoth
+tagBlueprint_ArmorD003=Blueprint: Whisperer of Secrets
+tagBlueprint_ArmorD004=Blueprint: Abyssal Mask
+tagBlueprint_ArmorD005=Blueprint: Circlet of the Great Serpent
+tagBlueprint_ArmorD006=Blueprint: Mask of Infernal Truth
+tagBlueprint_ArmorD007=Blueprint: Faceguard of Justice
+tagBlueprint_ArmorD008=Blueprint: Beastcaller's Cowl
+tagBlueprint_ArmorD009=Blueprint: Mask of the Harbinger
+tagBlueprint_ArmorD010=Blueprint: Demonslayer's Hat
+tagBlueprint_ArmorD011=Blueprint: Clairvoyant's Hat
+tagBlueprint_ArmorD012=Blueprint: Markovian's Visor
+tagBlueprint_ArmorD013=Blueprint: Ulzuin's Headguard
+tagBlueprint_ArmorD014=Blueprint: Hood of Dreeg
+tagBlueprint_ArmorD015=Blueprint: Deathmarked Hood
+tagBlueprint_ArmorD016=Blueprint: Iskandra's Circlet
+tagBlueprint_ArmorD017=Blueprint: Ultos' Hood
+
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
 tagBlueprint_AccessoryC002=设计图: 漩涡之石
+tagBlueprint_AccessoryC003=Blueprint: Lapis Manticora
+tagBlueprint_AccessoryC004=Blueprint: Mark of Fierce Resolve
+tagBlueprint_AccessoryC005=Blueprint: Ruby of Elemental Balance
+tagBlueprint_AccessoryC006=Blueprint: Sapphire of Elemental Balance
+tagBlueprint_AccessoryC007=Blueprint: Empowered Plaguemancer's Amulet
+tagBlueprint_AccessoryC008=Blueprint: Empowered Essence of Beronath
+tagBlueprint_AccessoryC009=Blueprint: Empowered Tempest Sigil
+tagBlueprint_AccessoryC010=Blueprint: Blazethread Sash
+tagBlueprint_AccessoryC011=Blueprint: Equilibrium Sash
+tagBlueprint_AccessoryC012=Blueprint: Empowered Chthonian Thread Sash
 
+tagBlueprint_AccessoryD001=Blueprint: Starfury Emerald
+tagBlueprint_AccessoryD002=Blueprint: Essence of the Grim Dawn
+tagBlueprint_AccessoryD003=Blueprint: Herald of the Apocalypse
+tagBlueprint_AccessoryD004=Blueprint: Pestilence of Dreeg
+tagBlueprint_AccessoryD005=Blueprint: Voidmancer's Cord
+tagBlueprint_AccessoryD006=Blueprint: Tinker's Ingenuity
+tagBlueprint_AccessoryD007=Blueprint: Reforged Chains of Oleron
+tagBlueprint_AccessoryD008=Blueprint: Ulzuin's Torment
+tagBlueprint_AccessoryD009=Blueprint: Spellbreaker Waistguard
+tagBlueprint_AccessoryD010=Blueprint: Badge of Mastery
+tagBlueprint_AccessoryD011=Blueprint: Mark of Divinity
 
 tagBlueprint_MiscA01=设计图：骸骨之钥
 tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
@@ -2234,6 +2294,9 @@ tagConsumableF11Desc="Sacred oils blessed by Kymon himself to ignite your foes."
 tagConsumableF12=凯蒙的愤怒药剂
 tagConsumableF12Desc="Shatter the vial, releasing Kymon's divine wrath around you."
 
+tagConsumable_DevotionReset=醒神药剂
+tagConsumable_DevotionReset_Desc="Clears the mind and primes it for a new spiritual journey."
+
 #DLC
 tagDLCA01=幻象:假发 Illusion: Powdered Wig
 tagDLCA01Desc="高雅和风尚的定义。"
@@ -2270,7 +2333,7 @@ tagEnchantTestDesc="A test description."^w^n(Used in rings)
 tagEnchantA001A=蝎尾狮毒液
 tagEnchantA001B=蝎尾狮毒液 II
 tagEnchantA001C=蝎尾狮毒液 III
-tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。" ^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。" ^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA002A=烈性蝎尾狮毒液
 tagEnchantA002B=烈性蝎尾狮毒液 II
@@ -2280,7 +2343,7 @@ tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤
 tagEnchantA003A=虚空野兽粉末
 tagEnchantA003B=虚空野兽粉末 II
 tagEnchantA003C=虚空野兽粉末 III
-tagEnchantA003Desc="Fine powder derived from the dried remains of Chthonic beasts." ^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA003Desc="Fine powder derived from the dried remains of Chthonic beasts." ^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA004A=强效虚空野兽粉末
 tagEnchantA004B=强效虚空野兽粉末 II
@@ -2290,7 +2353,7 @@ tagEnchantA004Desc="Fine powder derived from the dried remains of Chthonic beast
 tagEnchantA005A=黑铁粉末
 tagEnchantA005B=黑铁粉末 II
 tagEnchantA005C=黑铁粉末 III
-tagEnchantA005Desc="Secret mix of iron and various minerals known only to the Black Legion."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA005Desc="Secret mix of iron and various minerals known only to the Black Legion."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA006A=强效黑铁粉末
 tagEnchantA006B=强效黑铁粉末 II
@@ -2300,7 +2363,7 @@ tagEnchantA006Desc="Secret mix of iron and various minerals known only to the Bl
 tagEnchantA007A=虚化尘埃
 tagEnchantA007B=虚化尘埃 II
 tagEnchantA007C=虚化尘埃 III
-tagEnchantA007Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA007Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA008A=强效虚化尘埃
 tagEnchantA008B=强效虚化尘埃 II
@@ -2330,7 +2393,7 @@ tagEnchantA012Desc="Powder that sparks with energy, carefully extracted from the
 tagEnchantA013A=安克维亚骨粉
 tagEnchantA013B=安克维亚骨粉 II
 tagEnchantA013C=安克维亚骨粉 III
-tagEnchantA013Desc="Crushed bones from the cursed Arkovians, made safe to handle by Roverelders."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA013Desc="Crushed bones from the cursed Arkovians, made safe to handle by Roverelders."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA014A=强效安克维亚骨粉
 tagEnchantA014B=强效安克维亚骨粉 II
@@ -2370,7 +2433,7 @@ tagEnchantA020Desc="The powder continues to shift within the pouch, as if it wer
 tagEnchantA021A=虚空藤曼粉末
 tagEnchantA021B=虚空藤曼粉末 II
 tagEnchantA021C=虚空藤曼粉末 III
-tagEnchantA021Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA021Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA022A=强效虚空藤曼粉末
 tagEnchantA022B=强效虚空藤曼粉末 II
@@ -2380,7 +2443,7 @@ tagEnchantA022Desc="Powder derived from a vine found spreading aggressively thro
 tagEnchantA023A=石牙野猪蹄
 tagEnchantA023B=石牙野猪蹄 II
 tagEnchantA023C=石牙野猪蹄 III
-tagEnchantA023Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA023Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA024A=强效石牙野猪蹄
 tagEnchantA024B=强效石牙野猪蹄 II
@@ -2390,7 +2453,7 @@ tagEnchantA024Desc="Powder derived from the crushed hoof of a Stonetusk boar, a 
 tagEnchantA025A=革翅目甲壳
 tagEnchantA025B=革翅目甲壳 II
 tagEnchantA025C=革翅目甲壳 III
-tagEnchantA025Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA025Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA026A=强效革翅目甲壳
 tagEnchantA026B=强效革翅目甲壳 II
@@ -2400,7 +2463,7 @@ tagEnchantA026Desc="Powder derived from Dermapteran armor plates, after they go 
 tagEnchantA027A=唤雨者粉末
 tagEnchantA027B=唤雨者粉末 II
 tagEnchantA027C=唤雨者粉末 III
-tagEnchantA027Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA027Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA028A=强效唤雨者粉末
 tagEnchantA028B=强效唤雨者粉末 II
@@ -2440,7 +2503,7 @@ tagEnchantA034Desc="Essence of restless spirits, condensed into physical form by
 tagEnchantA035A=寒冬之花粉末
 tagEnchantA035B=寒冬之花粉末 II
 tagEnchantA035C=寒冬之花粉末 III
-tagEnchantA035Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantA035Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantA036A=强效寒冬之花粉末
 tagEnchantA036B=强效寒冬之花粉末 II
@@ -2450,7 +2513,7 @@ tagEnchantA036Desc="Powder from a pale blue flower strangely found blooming only
 tagEnchantA037A=Witch's Powder
 tagEnchantA037B=Witch's Powder II
 tagEnchantA037C=Witch's Powder III
-tagEnchantA037Desc="Though technically illegal, the powder has found its use among the Legion's conjurers."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA037Desc="Though technically illegal, the powder has found its use among the Legion's conjurers."^w^n(Applied to all one-handed weapons, shields and 施法者off-hands)
 
 tagEnchantA038A=Potent Witch's Powder
 tagEnchantA038B=Potent Witch's Powder II
@@ -2470,7 +2533,7 @@ tagEnchantA040Desc="Powder derived from the glowing skin of a rifthound matriarc
 tagEnchantA041A=Beast Tamer's Powder
 tagEnchantA041B=Beast Tamer's Powder II
 tagEnchantA041C=Beast Tamer's Powder III
-tagEnchantA041Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA041Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Applied to all one-handed weapons, shields and 施法者off-hands)
 
 tagEnchantA042A=Potent Beast Tamer's Powder
 tagEnchantA042B=Potent Beast Tamer's Powder II
@@ -2500,7 +2563,7 @@ tagEnchantA046Desc="Powder derived from the dead. It appears to readily sap heat
 tagEnchantB001A=艾格瑞姆的诡诈 I
 tagEnchantB001B=艾格瑞姆的诡诈 II
 tagEnchantB001BC=艾格瑞姆的诡诈 III
-tagEnchantB001Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB001Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB002A=强效艾格瑞姆的诡诈
 tagEnchantB002B=强效艾格瑞姆的诡诈 II
@@ -2510,7 +2573,7 @@ tagEnchantB002Desc="Nobody knows for sure what the First Blade of the Emperor co
 tagEnchantB003A=克里德的机敏
 tagEnchantB003B=克里德的机敏 II
 tagEnchantB003BC=克里德的机敏 III
-tagEnchantB003Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB003Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB004A=强效克里德的机敏
 tagEnchantB004B=强效克里德的机敏 II
@@ -2520,7 +2583,7 @@ tagEnchantB004Desc="The inquisitor's powder, given only to his most trusted alli
 tagEnchantB005A=奥莱隆的热情
 tagEnchantB005B=奥莱隆的热情 II
 tagEnchantB005BC=奥莱隆的热情 III
-tagEnchantB005Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB005Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB006A=强效奥莱隆的热情
 tagEnchantB006B=强效奥莱隆的热情 II
@@ -2530,7 +2593,7 @@ tagEnchantB006Desc="Some Black Legion troops shout the war god's name as they ch
 tagEnchantB007A=虚化风暴粉末
 tagEnchantB007B=虚化风暴粉末 II
 tagEnchantB007BC=虚化风暴粉末 III
-tagEnchantB007Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB007Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB008A=强效虚化风暴粉末
 tagEnchantB008B=强效虚化风暴粉末 II
@@ -2540,7 +2603,7 @@ tagEnchantB008Desc="Black Legion mages believe that the best way to combat the e
 tagEnchantB009A=冥神精华
 tagEnchantB009B=冥神精华 II
 tagEnchantB009BC=冥神精华 III
-tagEnchantB009Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB009Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB010A=强效冥神精华
 tagEnchantB010B=强效冥神精华 II
@@ -2615,7 +2678,7 @@ tagEnchantB023Desc="Kasparov, his attention ever consumed by his experiments, ac
 tagEnchantB024A=Nature's Harvest
 tagEnchantB024B=Nature's Harvest II
 tagEnchantB024BC=Nature's Harvest III
-tagEnchantB024Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB024Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB025A=强效Nature's Harvest
 tagEnchantB025B=强效Nature's Harvest II
@@ -2625,7 +2688,7 @@ tagEnchantB025Desc="Some farmers pray for a healthy harvest. Those more magicall
 tagEnchantB026A=日阳之辉
 tagEnchantB026B=日阳之辉 II
 tagEnchantB026BC=日阳之辉 III
-tagEnchantB026Desc="魔法粉末之中困着太阳的力量。"^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB026Desc="魔法粉末之中困着太阳的力量。"^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB027A=强效日阳之辉
 tagEnchantB027B=强效日阳之辉 II
@@ -2635,7 +2698,7 @@ tagEnchantB027Desc="魔法粉末之中困着太阳的力量。"^w^n(用于所有
 tagEnchantB028A=曼海尔的祝福
 tagEnchantB028B=曼海尔的祝福 II
 tagEnchantB028BC=曼海尔的祝福 III
-tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB029A=强效曼海尔的祝福
 tagEnchantB029B=强效曼海尔的祝福 II
@@ -2675,7 +2738,7 @@ tagEnchantB035Desc="To follow Uroboruuk's path is to seek the path of knowledge,
 tagEnchantB036A=Outcast's Might
 tagEnchantB036B=Outcast's Might II
 tagEnchantB036BC=Outcast's Might III
-tagEnchantB036Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB036Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB037A=强效Outcast's Might
 tagEnchantB037B=强效Outcast's Might II
@@ -2685,7 +2748,7 @@ tagEnchantB037Desc="Supreme enchantment devised by the Outcast to bestow the str
 tagEnchantB038A=Outcast's Frostbite
 tagEnchantB038B=Outcast's Frostbite II
 tagEnchantB038BC=Outcast's Frostbite III
-tagEnchantB038Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB038Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB039A=强效Outcast's Frostbite
 tagEnchantB039B=强效Outcast's Frostbite II
@@ -2695,7 +2758,7 @@ tagEnchantB039Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB040A=Outcast's Inferno
 tagEnchantB040B=Outcast's Inferno II
 tagEnchantB040BC=Outcast's Inferno III
-tagEnchantB040Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB040Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB041A=强效Outcast's Inferno
 tagEnchantB041B=强效Outcast's Inferno II
@@ -2715,7 +2778,7 @@ tagEnchantB043Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB044A=Outcast's Venom
 tagEnchantB044B=Outcast's Venom II
 tagEnchantB044BC=Outcast's Venom III
-tagEnchantB044Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB044Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB045A=强效Outcast's Venom
 tagEnchantB045B=强效Outcast's Venom II
@@ -2725,7 +2788,7 @@ tagEnchantB045Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB046A=Outcast's Deathtouch
 tagEnchantB046B=Outcast's Deathtouch II
 tagEnchantB046BC=Outcast's Deathtouch III
-tagEnchantB046Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB046Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB047A=强效Outcast's Deathtouch
 tagEnchantB047B=强效Outcast's Deathtouch II
@@ -2735,7 +2798,7 @@ tagEnchantB047Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB048A=Outcast's Wrath
 tagEnchantB048B=Outcast's Wrath II
 tagEnchantB048BC=Outcast's Wrath III
-tagEnchantB048Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB048Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB049A=强效Outcast's Wrath
 tagEnchantB049B=强效Outcast's Wrath II
@@ -2745,7 +2808,7 @@ tagEnchantB049Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB050A=Outcast's Riftstorm
 tagEnchantB050B=Outcast's Riftstorm II
 tagEnchantB050BC=Outcast's Riftstorm III
-tagEnchantB050Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB050Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB051A=强效Outcast's Riftstorm
 tagEnchantB051B=强效Outcast's Riftstorm II
@@ -2755,7 +2818,7 @@ tagEnchantB051Desc="Supreme enchantment devised by the Outcast to bestow mastery
 tagEnchantB052A=Outcast's Bastion
 tagEnchantB052B=Outcast's Bastion II
 tagEnchantB052BC=Outcast's Bastion III
-tagEnchantB052Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(用于所有单手武器，盾牌和副手)
+tagEnchantB052Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(用于所有单手武器，盾牌和施法者副手)
 
 tagEnchantB053A=强效Outcast's Bastion
 tagEnchantB053B=强效Outcast's Bastion II
@@ -2780,7 +2843,7 @@ tagEnchantB056Desc="When allies are few, an animal companion can prove to be the
 tagEnchantB057A=Beastlord's Calling
 tagEnchantB057B=Beastlord's Calling II
 tagEnchantB057BC=Beastlord's Calling III
-tagEnchantB057Desc="A concoction used by the people of Homestead to bless their herds."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB057Desc="A concoction used by the people of Homestead to bless their herds."^w^n(Applied to all one-handed weapons, shields and 施法者off-hands)
 
 tagEnchantB058A=Potent Beastlord's Calling
 tagEnchantB058B=Potent Beastlord's Calling II
@@ -2884,7 +2947,7 @@ tagCompA005Name=符文之石
 tagCompA005Desc="一种神秘的符文灌注在这块石头之中。" ^w^n(用于头盔)
 
 tagCompA006Name=突变脓水
-tagCompA006Desc="从感染了异世界能量的生物身上取得。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA006Desc="从感染了异世界能量的生物身上取得。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA007Name=腐坏之心
 tagCompA007Desc="受死灵法术影响而不再勃动的枯萎心脏。" ^w^n(用于胸甲)
@@ -2893,43 +2956,43 @@ tagCompA008Name=突变鳞片
 tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。" ^w^n(用于胸甲和护肩)
 
 tagCompA009Name=尸尘
-tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于释放魔法和妖术。" ^w^n(用于戒指和项链)
+tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于释放魔法和妖术。" ^w^n(用于戒指，项链和勋章)
 
 tagCompA010Name=灵魂碎片
-tagCompA010Desc="传闻说这是一种猎魔人用来困住邪魔的魔法宝石。" ^w^n(用于项链和勋章)
+tagCompA010Desc="传闻说这是一种猎魔人用来困住邪魔的魔法宝石。" ^w^n(用于项链，项链和勋章)
 
 tagCompA011Name=灵质
 tagCompA011Desc="有时从无形之物身上留下的胶装残留物。" ^w^n(用于头盔、戒指和项链)
 
 tagCompA012Name=赐福钢铁
-tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA013Name=毒牙
 tagCompA013Desc="一枚滴着毒液的尖牙。" ^w^n(用于近战武器)
 
 tagCompA014Name=纯净之盐
-tagCompA014Desc="被提炼用来驱除和威慑异世界恶魔的石盐。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA014Desc="被提炼用来驱除和威慑异世界恶魔的石盐。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA015Name=中空之牙
-tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA015Desc="一枚弯曲的牙齿，用来汲取生命力。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA016Name=断裂之爪
-tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA016Desc="从一种猛兽的肢体上扯下来的利爪。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA017Name=灌魔银粉
-tagCompA017Desc="被灌注了强大魔力的银粉。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA017Desc="被灌注了强大魔力的银粉。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA018Name=恶毒尖刺
-tagCompA018Desc="从一只非自然生物身上得来的尖刺。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA018Desc="从一只非自然生物身上得来的尖刺。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA019Name=辐光宝石
-tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。" ^w^n(用于盾牌和副手)
+tagCompA019Desc="一块发光的宝石，随着不同的元素而闪烁着。" ^w^n(用于盾牌和施法者副手)
 
 tagCompA020Name=妖邪克星弹药
-tagCompA020Desc="神力加持的子弹，给敢于渎神者以极大的痛苦。" ^w^n(用于枪械，十字弓和副手)
+tagCompA020Desc="神力加持的子弹，给敢于渎神者以极大的痛苦。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA021Name=死寒箭矢
-tagCompA021Desc="给敌人带去死亡般的寒冷。" ^w^n(用于枪械，十字弓和副手)
+tagCompA021Desc="给敌人带去死亡般的寒冷。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA022Name=虚化之魂
 tagCompA022Desc="一块含有能量，震颤着的石头。在物质位面被杀死虚灵经常会留下这种石头。" ^w^n(用于项链和勋章)
@@ -2941,16 +3004,16 @@ tagCompA024Name=熔岩皮肤
 tagCompA024Desc="一块厚厚的皮层，来自于一种浑身冒火的生物。" ^w^n(用于所有护甲)
 
 tagCompA025Name=魔法火石
-tagCompA025Desc="通过和武器摩擦，这种被施了魔法的火石能够将火之精魂附在武器身上。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA025Desc="通过和武器摩擦，这种被施了魔法的火石能够将火之精魂附在武器身上。" ^w^n(用于近战武器，盾牌和施法者副手)
 
 tagCompA026Name=寒石
-tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。" ^w^n(用于近战武器，盾牌和施法者副手)
 
 tagCompA027Name=琥珀
-tagCompA027Desc="据说有时候，当树木遭到雷击，风暴之灵会被困在树木结晶的汁液之中。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA027Desc="据说有时候，当树木遭到雷击，风暴之灵会被困在树木结晶的汁液之中。" ^w^n(用于近战武器，盾牌和施法者副手)
 
 tagCompA028Name=强酸结石
-tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。" ^w^n(用于近战武器，盾牌和施法者副手)
 
 tagCompA029Name=赐福磨石
 tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。" ^w^n(用于斧和剑)
@@ -2962,10 +3025,10 @@ tagCompA031Name=鳞状兽皮
 tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。" ^w^n(用于护肩，胸甲和护腿)
 
 tagCompA032Name=燧石弹药
-tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。" ^w^n(用于枪械，十字弓和副手)
+tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA033Name=浸毒弹药
-tagCompA033Desc="子弹的尖端涂抹着来自于一种动物毒囊的毒液。" ^w^n(用于枪械，十字弓和副手)
+tagCompA033Desc="子弹的尖端涂抹着来自于一种动物毒囊的毒液。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA034Name=旅者标记
 tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被兽神莫格卓根错认成猎人。" ^w^n(用于足具)
@@ -2980,19 +3043,19 @@ tagCompA037Name=茂密毛皮
 tagCompA037Desc="一块厚实的毛皮，用来应对冬季的严寒再合适不过了。" ^w^n(用于所有护甲)
 
 tagCompA038Name=锯齿尖刺
-tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"  ^w^n(用于所有武器，盾牌和副手)
+tagCompA038Desc="一种野兽身上的尖刺，脆弱却异常的锋利。"  ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA039Name=灼热余烬
-tagCompA039Desc="不灭的余烬，来自于被烧毁殆尽的家园。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA039Desc="不灭的余烬，来自于被烧毁殆尽的家园。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA040Name=淬火钢铁
-tagCompA040Desc="这块钢铁被灌注了寒冬之风。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA040Desc="这块钢铁被灌注了寒冬之风。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA041Name=破裂磁石
-tagCompA041Desc="表面闪烁着能量的火花。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA041Desc="表面闪烁着能量的火花。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA042Name=破碎之爪
-tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。" ^w^n(用于所有武器，盾牌和副手)
+tagCompA042Desc="一种残忍的掠食者身上的爪子。当然这次，它终于遇上了旗鼓相当的对手。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompA043Name=回收铠甲片
 tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。" ^w^n(用于所有护甲)
@@ -3001,19 +3064,19 @@ tagCompA044Name=粗硬毛皮
 tagCompA044Desc="一片来自一种非自然魔兽的厚厚的毛皮" ^w^n(用于所有护甲)
 
 tagCompA045Name=弹性铠甲片
-tagCompA045Desc="从一件经历了无数战斗的盔甲上面取下的甲片，看起来让它退役还早得很。" ^w^n(用于盾牌，副手，胸甲和护甲)
+tagCompA045Desc="从一件经历了无数战斗的盔甲上面取下的甲片，看起来让它退役还早得很。" ^w^n(用于盾牌，施法者副手，胸甲和护甲)
 
 tagCompA046Name=抛光翡翠
-tagCompA046Desc="纯净的宝石，抛光后已臻完美。" ^w^n(用于盾牌，副手，戒指，头盔和胸甲)
+tagCompA046Desc="纯净的宝石，抛光后已臻完美。" ^w^n(用于盾牌，施法者副手，戒指，头盔和胸甲)
 
 tagCompA047Name=冰封之心
 tagCompA047Desc="永远地被包裹在黑冰之中。" ^w^n(用于戒指)
 
 tagCompA048Name=翻腾鲜血
-tagCompA048Desc="沸腾着曾经激发它的怒火。" ^w^n(用于戒指和项链)
+tagCompA048Desc="沸腾着曾经激发它的怒火。" ^w^n(用于戒指，项链和勋章)
 
 tagCompA049Name=守护石
-tagCompA049Desc="一块蚀刻有古老的守护符号的石头。" ^w^n(用于项链)
+tagCompA049Desc="一块蚀刻有古老的守护符号的石头。" ^w^n(用于项链和勋章)
 
 tagCompA050Name=聚焦棱镜
 tagCompA050Desc="奥术师在特殊的紧要仪式中使用它来引导能量。" ^w^n(用于项链)
@@ -3031,16 +3094,16 @@ tagCompA054Name=恶毒下颚
 tagCompA054Desc="这种野兽的下颌长着整齐的颚骨，如同刺一般。" ^w^n(用于项链和勋章)
 
 tagCompA055Name=愤怒之石
-tagCompA055Desc="震动不止，不近活物。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA055Desc="震动不止，不近活物。" ^w^n(用于近战武器，盾牌和施法者施法者副手)
 
 tagCompA056Name=裂缝之石
-tagCompA056Desc="充满了虚空中的原始能量。" ^w^n(用于近战武器，盾牌和副手)
+tagCompA056Desc="充满了虚空中的原始能量。" ^w^n(用于近战武器，盾牌和施法者副手)
 
 tagCompA057Name=虚化钢铁弹药
-tagCompA057Desc="用虚化的怪物身上的精华增强过的子弹。" ^w^n(用于枪械，十字弓和副手)
+tagCompA057Desc="用虚化的怪物身上的精华增强过的子弹。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA058Name=虚空之触弹药
-tagCompA058Desc="浸染了冥灵的鲜血。" ^w^n(用于枪械，十字弓和副手)
+tagCompA058Desc="浸染了冥灵的鲜血。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompA059Name=强固外壳
 tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。" ^w^n(用于盾牌)
@@ -3080,19 +3143,19 @@ tagCompB008Name=^k奥术透镜
 tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。" ^w^n(用于项链)
 
 tagCompB009Name=^k魔鬼之触弹药
-tagCompB009Desc="灌注以天谴之火。" ^w^n(用于枪械，十字弓和副手)
+tagCompB009Desc="灌注以天谴之火。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompB010Name=^k银核弹药
-tagCompB010Desc="涤荡邪恶，毫发无损。" ^w^n(用于枪械，十字弓和副手)
+tagCompB010Desc="涤荡邪恶，毫发无损。" ^w^n(用于枪械，十字弓和施法者副手)
 
 tagCompB011Name=^k索拉尔的符号
-tagCompB011Desc="索拉尔的信徒使用的绝密的符号，用来识别是否是自己人。" ^w^n(用于所有武器，盾牌和副手)
+tagCompB011Desc="索拉尔的信徒使用的绝密的符号，用来识别是否是自己人。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompB012Name=^k德里格的印记
-tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血之泪。" ^w^n(用于所有武器，盾牌和副手)
+tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血之泪。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompB013Name=^k魂铁
-tagCompB013Desc="禁锢其中的魂灵让你满脑子都是疯狂的私语。" ^w^n(用于所有武器，盾牌和副手)
+tagCompB013Desc="禁锢其中的魂灵让你满脑子都是疯狂的私语。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompB014Name=^k贝若纳斯的碎片
 tagCompB014Desc="虽然只是传说中的神剑贝若纳斯的一片碎片，但仍残留着强大的力量。" ^w^n(用于近战武器)
@@ -3107,7 +3170,7 @@ tagCompB017Name=^k莫格卓根的印记
 tagCompB017Desc="兽神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽记。" ^w^n(用于足具)
 
 tagCompB018Name=^k恐惧头骨
-tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后授予给他的徽记。" ^w^n(用于项链)
+tagCompB018Desc="一位刺客完成了一项极为危险的赏金任务之后授予给他的徽记。" ^w^n(用于项链和勋章)
 
 tagCompB019Name=^k奥术之耀
 tagCompB019Desc="闪耀着最纯粹的奥术能量。" ^w^n(用于项链和勋章)
@@ -3226,7 +3289,7 @@ tagPotionConstitutionB01=生命精华
 tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以回复体力。"
 
 tagPotionDirections=[右键点击以使用]
-tagCombineStacks=[当选取时，右键点击以合并堆叠]
+tagCombineStacks=[使用Ctrl-点击来分离堆叠的物品]
 
 #Bonuses奖励
 tagBonusLifePercentPercent={^H}+{%.0f1}%{^E}秒内{^E}回复{^H}{%.0f0}%{^E}生命
@@ -3242,31 +3305,44 @@ tagBonusSkillPoint={%+d0}技能点数
 tagBonusAttribPoint={%+d0}属性点数
 
 
+#Devotion
+tagDevotionReset=Use to Reset your Devotion Points
+tagDevotionNoPointsUsed={^r}[No Devotion Points to Reset]
+tagDevotionResetConfirmation=Reset all your Devotion Points?
+
 #ItemSets套装
 
 
-tagItemSetC001Name=帝国卫兵的戎装
+tagItemSetC001Name=帝国卫兵的戎装 Guardsman's Raiment
+tagItemSetC001NameB=和平卫士的戎装 Peacekeeper's Raiment
 tagItemSetC001Desc="曾经是这些和平卫士兼皇家护卫的标准装备，这种套装在恐怖黎明发生之后留存无几。"
 
 tagItemSetC002Name=探险家的服饰
+tagItemSetC002NameB=Explorer's Vestments
 tagItemSetC002Desc="轻便且耐用的护甲，为渴望探险的人而准备。"
 
-tagItemSetC003Name=麦文的圣装
+tagItemSetC003Name=麦文的庇佑 Maiven's Sanctuary
+tagItemSetC003NameB=麦文的圣装Maiven's Sanctum
 tagItemSetC003Desc="向传奇般的奥术师麦文致敬的盛装。"
 
-tagItemSetC004Name=鲜血收割者的荣耀
+tagItemSetC004Name=鲜血收割者的荣耀 Bloodreaper's Glory
+tagItemSetC004NameB=鲜血收割者的屠杀 Bloodreaper's Carnage
 tagItemSetC004Desc="仅被凯恩最嗜血的刺客们使用过的盔甲和武器。"
 
-tagItemSetC005Name=掠夺者的正义
+tagItemSetC005Name=掠夺者的正义 Marauder's Justice
+tagItemSetC005NameB=掠夺者的审判 Marauder's Judgement
 tagItemSetC005Desc="我身兼判官，陪审，和刽子手。"
 
-tagItemSetC006Name=使者的华服
+tagItemSetC006Name=使者的华服 Herald's Regalia
+tagItemSetC006NameB=使者的象征 Herald's Markings
 tagItemSetC006Desc="执行外交使命的帝王使节所穿的服饰。"
 
-tagItemSetC007Name=曼海尔之触
-tagItemSetC007Desc="曼海尔的祭司们所穿过的服饰。他们治疗着这个世界，不分种族与国界。"
++tagItemSetC007Name=药剂师 The Apothecary
+tagItemSetC007NameB=占卜者 The Soothsayer
+tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding those in need, designating them as healers with no diplomatic affiliation."
 
-tagItemSetC008Name=救赎
+tagItemSetC008Name=救赎 Redemption
+tagItemSetC008NameB=赦免 Absolution
 tagItemSetC008Desc="圣殿骑士兰德尔·格瑞维斯在其毕生的东征中穿着它，以赦免他打破神圣誓约而娶妻的堕落行为。"
 
 tagItemSetC009Name=盲眼
@@ -3281,7 +3357,8 @@ tagItemSetC011Desc="教团在隐秘的仪式中穿着的华服。"
 tagItemSetC012Name=皇家的奢华
 tagItemSetC012Desc="被认为遗失在恐怖黎明劫掠中的皇家珠宝收藏品。"
 
-tagItemSetC013Name=毁誓者
+tagItemSetC013Name=毁誓者 Oathbreaker
+tagItemSetC013NameB=毁誓者的烈焰 Oathbreaker's Flame
 tagItemSetC013Desc="毁誓者曾经携带的装备，他是一位为敌人打开城门背叛了他的国王的骑士。"
 
 tagItemSetC014Name=无畏之饰
@@ -3299,16 +3376,19 @@ tagItemSetC017Desc="只有对曼海尔的神圣信仰最为狂热的信徒们才
 tagItemSetC018Name=阿卡莫斯之怒
 tagItemSetC018Desc="安克维亚的行刑者领主阿卡莫斯的魔印。"
 
-tagItemSetC019Name=瘴气
+tagItemSetC019Name=瘴气 Miasma
+tagItemSetC019NameB=致命瘴气 Deathly Miasma
 tagItemSetC019Desc="受到德里格选召之辈所穿戴的服饰。"
 
-tagItemSetC020Name=硫磺
+tagItemSetC020Name=硫磺 Brimstone
+tagItemSetC020NameB=不灭硫磺 Everburning Brimstone
 tagItemSetC020Desc="奥祖因虔诚的信徒所使用的武器和甲胄。"
 
 tagItemSetC021Name=东方誓言
 tagItemSetC021Desc="一位来自海对岸异国的受人尊敬的祭祀所穿的衣服。"
 
-tagItemSetC022Name=自然召唤者
+tagItemSetC022Name=自然召唤者 Wildcaller
+tagItemSetC022NameB=自然召唤者的召唤 Wildcaller's Call
 tagItemSetC022Desc="自然召唤者们的装饰品，萨满们聆听着自然之音。"
 
 tagItemSetC023Name=The Praetorian
@@ -3635,6 +3715,8 @@ tagSuffixA062=寒冷之
 tagSuffixA063=电殛之
 tagSuffixA064=创伤之
 
+tagSuffixA065=屏障之
+
 tagSuffixB001_Wpn_A=爆炎之
 tagSuffixB002_Wpn_A=疯狂之
 tagSuffixB003_Wpn_A=圣灵之
@@ -3683,7 +3765,7 @@ tagSuffixB006_Ar_A=奥莱隆的愤怒之
 tagSuffixB007_Ar_A=自然的馈赠之
 tagSuffixB008_Ar_A=阿尔布雷特的法器之
 tagSuffixB009_Ar_A=吉尔达姆秘学社之
-tagSuffixB010_Ar_A=虚无之
+tagSuffixB010_Ar_A=夺命裂隙之
 tagSuffixB011_Ar_A=林地之
 tagSuffixB012_Ar_A=刀锋之
 tagSuffixB013_Ar_A=英雄之
@@ -3787,7 +3869,7 @@ tagAutoSkillCondition08=(装备时即生效)
 tagAutoSkillCondition09=(受到暴击伤害时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition10=(造成暴击时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition11=(格挡时有 {%d0}% 的几率施放该技能)
-
+tagAutoSkillCondition12= ({%d0}% Chance on Enemy Death)
 
 #LootChests宝箱
 
@@ -3882,6 +3964,9 @@ tagBarnDoor=谷仓门
 tagCageDoor=监牢之门
 tagTrollDoor=巨魔之门
 
+tagBreakableStoneWall=Crumbling Wall
+tagBreakableNaturalWall=Loose Earth
+
 #DungeonDoors地下城大门
 
 tagUGDoorCave01=洞穴入口
@@ -3902,6 +3987,7 @@ tagDoorLocked= {^R} ~ 锁着的
 
 tagDoorOneWay01=通往地表的出口
 tagDoorLever01=吊门控制器
+tagTorchLever01=Loose Torch
 
 #Doors门
 
@@ -3913,14 +3999,17 @@ tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着
 tagLocked= {^R} ~ 锁着的
 tagBlocked= {^R} ~ 塌方阻挡了道路
 tagLocked_BlackLegion= {^R} ~ 由黑色军团封印着
+tagLocked_Cult= {^R} ~ Sealed by the Cult of Ch'thon
 tagUGDoorDermapteranQueen=通往女皇巢穴的通道
 tagUGDoorDermapteranQueenLocked= {^R} ~ 由虫群领袖封印着
 tagDoorRampart=被阻挡的门
 tagDoorWarden=铁门
 tagDoorFarmland=木门
 tagDoorLab=强固大门
+tagDoorStone=石门
 tagLocked_Kymon= {^R} ~ 由圣父凯蒙封印着
 tagLocked_Necro= {^R} ~ 由死亡守夜人教团封印着
+tagLocked_Outcast= {^R} ~ Sealed by Anasteria
 
 #QuestRewards任务奖励
 

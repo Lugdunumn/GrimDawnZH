@@ -1,14 +1,25 @@
 冥灵的威胁
 凯恩世界的噩梦
-Kill First Boss
+Destroy Wagons
+It appears that the ritual is being powered by blood harvested at the cult's camps, delivered to the Necropolis in Blood Wagons. You will not be able to enter the Loghorrean's tomb without destroying the source of the precious fluid. There are three Blood Wagons you will have to deal with before the cultist sigil will weaken enough for you to pass through.
 
-
+Destroy the northern Blood Wagon
+Destroy the eastern Blood Wagon
+Destroy the western Blood Wagon
 
 Kill Final Boss
+You have destroyed the Blood Wagons and the way to the Tomb of the Watchers is clear. Enter the tomb and seek out the Ulgrim at the bottom level, at the Seal of the Loghorrean. Together, you must stop the cult's ritual for good.
 
 
+
+
+
+
+Stop the summoning of the Loghorrean
 
 Return to Creed
+You have banished the mythical beast known as the Loghorrean back into the void pit from which it spawned, but at a high price.{^n}{^n}Return to Inquisitor Creed at Fort Ikon with the news.
+Speak to Inquisitor Creed at Fort Ikon
 
 
 

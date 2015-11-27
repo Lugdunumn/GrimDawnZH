@@ -3,9 +3,9 @@
 好的，我这就行动。
 我们的情况有多糟糕？
 传送门周边已经安全了。
-啊，又要用那个怪玩意儿？上次你传送我的时候我差点把早餐都吐出来。{^n}{^n}好了，吐槽无益。这些人撑不了多久了。
+Good work. I can't say I enjoyed my first travel by rift but it's certainly better than the alternative.
 霍姆斯特德再见。(打开传送门)
-传送门？我只见过虚灵用它。{^n}{^n}我真希望你明白自己在干啥。
+Now that we come to it, I can't say I'm eager to experience travel by rift.我真希望你明白自己在干啥。
 霍姆斯特德再见。(打开传送门)
 我希望你去霍姆斯特德的旅途还算顺利。
 我应该往怎么走？
@@ -33,7 +33,7 @@
 
 
 我能帮些什么忙？
-在经过走私者的通道的路上我偶遇了这些难民。巨魔正要把他们当成晚餐给吃了。现在我们都被困在这里了，身处巨魔和虚灵战场的中央。{^n}{^n}糟糕的是唯一通往霍姆斯特德的安全的路坍塌了。只有那一条路可以走但是除了我这些人是不可能活着走出去的。我知道你肩上的担子很重，但是我需要你进入山脉深渊。那里面有一条人迹罕至的路通向采矿者的小径。沿着那条小径走到农田那里，霍姆斯特德就在不远处。{^n}{^n}你必须找到一条安全的路线，只有这样这些人才能活下来。我不知道在巨魔打进来之前我还能压制住它们多久。
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 我会找到一条去霍姆斯特德的路。
 抱歉，我做不到。
 我已经去过了，我能把你们传送过去。
@@ -47,7 +47,7 @@
 
 
 这里情况如何？
-在经过走私者的通道的路上我偶遇了这些难民。巨魔正要把他们当成晚餐给吃了。现在我们都被困在这里了，身处巨魔和虚灵战场的中央。{^n}{^n}糟糕的是唯一通往霍姆斯特德的安全的路坍塌了。只有那一条路可以走但是除了我这些人是不可能活着走出去的。我知道你肩上的担子很重，但是我需要你进入山脉深渊。那里面有一条人迹罕至的路通向采矿者的小径。沿着那条小径走到农田那里，霍姆斯特德就在不远处。{^n}{^n}你必须找到一条安全的路线，只有这样这些人才能活下来。我不知道在巨魔打进来之前我还能压制住它们多久。
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 我会找到一条去霍姆斯特德的路。
 抱歉，我做不到。
 我已经去过了，我能把你们传送过去。
@@ -56,7 +56,7 @@
 “被占据者”回来了，你是准备帮我一把还是仍然不相信我呢？
 
 这里情况如何？
-在经过走私者的通道的路上我偶遇了这些难民。巨魔正要把他们当成晚餐给吃了。现在我们都被困在这里了，身处巨魔和虚灵战场的中央。{^n}{^n}糟糕的是唯一通往霍姆斯特德的安全的路坍塌了。只有那一条路可以走但是除了我这些人是不可能活着走出去的。我知道你肩上的担子很重，但是我需要你进入山脉深渊。那里面有一条人迹罕至的路通向采矿者的小径。沿着那条小径走到农田那里，霍姆斯特德就在不远处。{^n}{^n}你必须找到一条安全的路线，只有这样这些人才能活下来。我不知道在巨魔打进来之前我还能压制住它们多久。
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 我会找到一条去霍姆斯特德的路。
 抱歉，我做不到。
 我已经去过了，我能把你们传送过去。
@@ -79,7 +79,7 @@
 
 
 我能帮上什么忙么？
-在经过走私者的通道的路上我偶遇了这些难民。巨魔正要把他们当成晚餐给吃了。现在我们都被困在这里了，身处巨魔和虚灵战场的中央。{^n}{^n}糟糕的是唯一通往霍姆斯特德的安全的路坍塌了。只有那一条路可以走但是除了我这些人是不可能活着走出去的。我知道你肩上的担子很重，但是我需要你进入山脉深渊。那里面有一条人迹罕至的路通向采矿者的小径。沿着那条小径走到农田那里，霍姆斯特德就在不远处。{^n}{^n}你必须找到一条安全的路线，只有这样这些人才能活下来。我不知道在巨魔打进来之前我还能压制住它们多久。
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 我会找到一条去霍姆斯特德的路。
 抱歉，我做不到。
 我已经去过了，我能把你们传送过去。
@@ -87,7 +87,7 @@
 你怎么知道我会来这里？
 你看起来是要为恶魔十字的那些人做些事情的。他们的食物即将耗尽。{^n}{^n}如果要是我来寻找新的食物来源的话，我也会来这里的。
 你在这里做什么？
-人生何处不相逢，疑心重的陌生人。我一直在想着你什么时候会来这里。你有个绝招，总是能找到杀气很重的地方。
+人生何处不相逢。If you recall, we crossed paths outside of Burrwitch.{^n}{^n}I figured someone would have to come through here eventually. It's no secret the people in Devil's Crossing need food and Homestead is the logical choice.
 你怎么会沦落到这里的？
 我没有把实情全部告诉你。我不是一位大厨，至少那不是我的专业，即便选择大厨这条路可能更好一些……{^n}{^n}我是一位刺客，曾是伊露兰帝国的前任第一刃。这个名头对我来讲不是什么值得骄傲的东西，因为我做的可不都是光明正大的事。我负责解决威胁到帝国的东西。现在全人类受到了前所未有的威胁，是时候把我的天赋用来实现高尚事业了。{^n}{^n}你也没有对我推心置腹，“被占据者”。不过别担心，我是个能保守秘密的人。
 你叫我什么？

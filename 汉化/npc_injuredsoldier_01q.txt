@@ -1,0 +1,10 @@
+Footman
+Don't go in there.{^n}{^n}The Aetherials have torn open a rift. More are pouring through...
+I've secured the courtyard.
+Thank the gods. I thought the Fort was lost.
+
+Farewell.
+Will you be alright?
+Once things calm down, I'm sure someone will come for me.{^n}{^n}Don't worry, the Legion takes care of its own.
+Alright.
+I will handle it.

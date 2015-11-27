@@ -1,0 +1,7 @@
+Detonation Site
+This gate has been collapsed, but it looks deliberate. With enough explosives, the way through could be re-opened.{^n}{^n}It will take some Heavy Explosives to clear out.
+You do not have the Heavy Explosives.
+Destroy the Barricade.
+Leave it.
+You have cleared this barricade.
+Ok.

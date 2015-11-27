@@ -1,0 +1,62 @@
+Ulgrim
+Don't just stand there staring at my pretty face, there is work to do!
+Farewell.
+Your allies seem to have things under control.
+Farewell.
+Don't just stand there staring at my pretty face, there is work to do!
+Farewell.
+I'll meet you within the Tomb of the Watchers, just beyond the Seal of the Loghorrean.{^n}{^n}Now go!
+Where is the Tomb of the Watchers?
+The Tomb of the Watchers is on the northeastern end of the Necropolis. It will be heavily guarded by both the Cult of Ch'thon and the fiends of the Void, so be careful.{^n}{^n}I will meet you just beyond the Seal of the Loghorrean.
+I'll see you inside.
+Alright.
+The Cult of Ch'thon is too numerous for us to take them head on, but we can sabotage their efforts with a few precise attacks while our Black Legion friends keep them distracted elsewhere.
+What did you have in mind?
+It appears that the ritual is being powered by blood harvested at the cult's camps, delivered here in despicable Blood Wagons.{^n}{^n}To complicate matters, the constant flow of blood is maintaining a chthonic seal over the entrance to the Tomb of the Watchers. I may be able to breach it with some effort, but there is no way you would be able to follow me through. You will have to disrupt the blood deliveries first.The tomb itself is split into three levels, with the bottom floor sealed off behind ancient wards; but if the cult is delivering blood in those quantities, then they must have already broken through them.{^n}{^n}I'm going to enter the tomb and see if I can disrupt the ritual from inside. In the meantime, you should deal with the Blood Wagons. When you're finished, join me on the bottom level, just beyond the Seal of the Loghorrean. With luck, we will stop the Cult of Ch'thon before the Loghorrean even moves a tentacled limb.
+We will stop the cult.
+Can't someone else handle this?
+I've already destroyed the wagons.
+Good.{^n}{^n}Now all that's left is the simple task of wading into the heart of the enemy's forces, breaking into the Tomb of the Watchers and securing the ritual site before the cult can cause any more harm.{^n}{^n}I'll meet you inside the tomb.
+Let's finish this.
+I have some questions.
+Not sure now's the time.
+You seem unusually shaken by the Loghorrean's return.
+It's nothing. Just saddened to discover that such evil can never truly be contained.{^n}{^n}*Ulgrim smirks*{^n}{^n}If I get too emotional during the fighting, just hand me a handkerchief.
+What's our next step?
+
+I have another question.
+I'll be right back.
+You say this thing has been summoned before?
+Yes, many centuries ago, at the Battle of Ikon. Nobody knows for sure whether it was the Carineans performing a last desperate maneuver, or perhaps the Loghorrean was drawn to all the spilled blood, but the results were catastrophic.{^n}{^n}And now we know what the real purpose behind the Necropolis was.
+What's our next step?
+
+I have another question.
+I'll be right back.
+What happens if we fail?
+Then I hope you have a god that favors you, because we are all doomed.{^n}{^n}I prefer not to think about eventualities I won't be alive for, so let's focus on succeeding.
+What's our plan then?
+
+I have another question.
+I'll be right back.
+We will need to discuss this later.
+Took you long enough.{^n}{^n}There I thought I'd have to save the world all by myself.
+What's the plan?
+
+Prepare yourself. The nightmare buried underneath the Necropolis is all too real.
+I have some questions.
+Not sure now's the time.
+You seem unusually shaken by the Loghorrean's return.
+It's nothing. Just saddened to discover that such evil can never truly be contained.{^n}{^n}*Ulgrim smirks*{^n}{^n}If I get too emotional during the fighting, just hand me a handkerchief.
+I have another question.
+I'll keep that in mind.
+You say this thing has been summoned before?
+Yes, many centuries ago, at the Battle of Ikon. Nobody knows for sure whether it was the Carineans performing a last desperate maneuver, or perhaps the Loghorrean was drawn to all the spilled blood, but the results were catastrophic.{^n}{^n}And now we know what the real purpose behind the Necropolis was.
+I have another question.
+Mistakes of the past coming back.
+What's our plan of action?
+The Black Legion will create a distraction while you and I handle the gritty details.{^n}{^n}We will have to disrupt the flow of blood into the ritual chamber and then the ritual itself down below, in the Tomb of the Watchers.{^n}{^n}Nothing to get your heart pumping like a good old suicide mission.
+I have another question.
+Yeah, um...sure...
+Works for me.
+Nevermind.
+Farewell.

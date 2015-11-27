@@ -67,7 +67,7 @@ Where should I look for the remains?
 The cult has several camps scattered around the 血森林. {^n}{^n}Any one of them could be the place where Malkadarr was taken.
 I will search for it.
 Not yet.
-If you are to fight alongisde the Order of Death's Vigil, then first you must prove yourself to us.{^n}{^n}Show us that you do not fear death, and we will show you its secrets.
+If you are to fight alongside the Order of Death's Vigil, then first you must prove yourself to us.{^n}{^n}Show us that you do not fear death, and we will show you its secrets.
 What must I do?
 One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains are now in the possession of the cultists, somewhere out in the 血森林.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the 血森林 and recover Malkadarr's remains. 
 I will recover the remains.

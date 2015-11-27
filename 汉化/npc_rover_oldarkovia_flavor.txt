@@ -13,6 +13,11 @@ You're welcome.
 It had to be done.
 Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
 Where is the shrine?
+
+Thank you.
+Where are the parts to the Shrine of Mogdrogen?
+The shrine was damaged by the Cult of Ch'thon and its parts lost to the void. You must enter the void rifts in the Blood Grove, to the north of Homestead, and in the Plains of Strife, to the north of Fort Ikon.{^n}{^n}Please do not let our shrine be lost to history.
+
 The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
 Thank you.
 I have found some texts you may find interesting.
@@ -25,7 +30,7 @@ Hello, friend of the Rhowari. I apologize for interrupting you in your important
 What is it?
 Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
 What can be done?
-The Shrine lies in ruins, its Runed Stone and Spirit scattered among the Cult's camps. We cannot allow for this symbol of our people to be lost to history. Please, search the cultist grounds to the north and recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
+The Shrine lies in ruins, its Runed Stone and Spirit taken by the cult into the void. We cannot allow this symbol of our people to be lost to history. Please, seek out the void rifts torn open within the Blood Grove and the Plains of Strife. Recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.
 I will restore the shrine of Mogdrogen.
 Find someone else.
 I have already restored the shrine.

@@ -73,12 +73,18 @@ tagEnemyBoarA01=石牙野猪
 tagEnemyBoarA02=巨型石牙野猪
 tagEnemyBoarB01=硬皮石牙野猪
 
+tagEnemyBoarFrost_A01=寒风野猪
+tagEnemyBoarFrost_A02=巨型寒风野猪
+tagEnemyBoarFrost_B01=霜皮寒风野猪
+
 tagBoarHeroH01=猎人梦魇 恐怖獠牙
 tagBoarHeroH02=怒目 ~ 迅捷
 tagBoarHeroH03=地狱鬃毛 ~ 燃烧
 tagBoarHeroH04=腐坏鬃毛 ~ 疾病
 tagBoarHeroH05=虚化之裔 ~ 腐化
 tagBoarHeroH06=裂隙之面 ~ 虚空之触
+tagBoarFrostHeroH01=Mutallor ~ Regenerator
+tagBoarFrostHeroH02=Stonemane ~ Defender
 
 
 #CreatureBoneRat 骨背鼠
@@ -100,11 +106,6 @@ tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 
 tagBoneRatMiniBoss01=贮藏者 格兰德佩里斯
 tagBoneRatMiniBoss02=贮藏者 普斯贵尔
-
-#CreatureCelestial 天神
-
-tagEnemyCelestial_QuestA01=Celestial Thing
-
 
 #CreatureChthonian 冥灵
 
@@ -128,7 +129,7 @@ tagEnemyChthonianDreadguardC01=冥灵暴君
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
-tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~ Electrified
 tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
 tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
 
@@ -144,8 +145,9 @@ tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
 
 tagChthonianBoss01=鲜血使者 拉苟扎克
 tagChthonianBoss02=混沌使者 沙祖尔
-tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
+tagChthonianBoss05=Galar'Bargok, the Black Fiend
 
 #CreatureChthonianFiend
 
@@ -212,6 +214,7 @@ tagEnemyFleshHulkBoss01=背部粉碎者，维纳瑞斯
 tagEnemyGazerA01=腐化者
 tagEnemyGazerB01=监察者
 tagEnemyGazerC01=主宰者
+tagEnemyGazerD01=Mindrager
 
 tagGazerHeroH01=麦斯默
 tagGazerHeroH02=地狱降生 贝恩扎尔
@@ -252,9 +255,12 @@ tagEnemyGhoulH02=Rot-Eye
 tagEnemyGhoulH03=Corpselick
 tagEnemyGhoulH04=Corpran ~ Corrupted
 tagEnemyGhoulH05=Vilnius ~ Voidtouched
+tagEnemyGhoulH06=Hungral ~ Electrified
+tagEnemyGhoulH07=Leperus ~ Burning
 
 tagGhoulBoss01=永恒的那卡森
 tagGhoulBoss02=Plagius, the Decrepit
+tagGhoulBoss03=Harvoul, the Earthshaker
 
 
 #CreatureGolem 傀儡
@@ -264,21 +270,12 @@ tagEnemyGolemRockB01=苔藓蹒跚者
 tagEnemyGolemRockC01=巨石蹒跚者
 tagEnemyGolemRockMiniBoss01=远古蹒跚者
 
-tagEnemyGolemIceA01=冰冷蹒跚者
-tagEnemyGolemIceB01=白霜蹒跚者
-tagEnemyGolemIceC01=坚冰蹒跚者
-
 tagGolemRockHeroH01=哈默顿
 tagGolemRockHeroH02=喷火者 哈德拉斯
 tagGolemRockHeroH03=石心 ~ 伤害反弹
 tagGolemRockHeroH04=石磨 ~ 冲锋
 tagGolemRockHeroH05=霜石 ~ 冰冻
 tagGolemRockHeroH06=虚空之石 ~ 虚空之触
-
-tagGolemIceHeroH01=
-tagGolemIceHeroH02=
-tagGolemIceHeroH03=
-tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -447,6 +444,8 @@ tagHumanPossessedHeroH04=科普西亚 ~ 伤害反弹
 tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 
 tagHumanPossessedBoss01=风暴之火 诺维利亚
+tagHumanPossessedBoss02=Archivist Thelon
+tagHumanPossessedBoss03=Usterius Avelone
 
 #CreatureInsectDermapteran 革翅目
 
@@ -819,6 +818,8 @@ tagEnemyTrollCorruptedB01=奇型先锋
 tagEnemyTrollCorruptedB02=奇型枪手
 tagEnemyTrollCorruptedC01=奇型指挥
 
+tagTrollCorruptedD01=Hoarfrost Dreadguard
+
 tagTrollCorruptedHeroH01=风暴之触 苏卡尔
 tagTrollCorruptedHeroH02=恐惧 霍克瑞斯
 tagTrollCorruptedHeroH03=腐化
@@ -904,6 +905,7 @@ tagEnemyZombieF01=燃尸
 tagEnemyZombieG01=毒尸
 tagEnemyZombieSoldierA01=腐朽士兵
 tagEnemyZombieSoldierB01=腐朽灰烬守卫
+tagEnemyZombieSoldierC01=Fury Soldier
 tagEnemyZombieBerserkerA01=尸魔
 
 tagEnemyZombieVoidA01=冥灵无魂者
@@ -957,6 +959,20 @@ tagPetManticoreA01=原始灵魂
 tagPetWindDevilA01=风魔
 tagPetTotemA01=雪怪图腾
 tagPetTotemA02=风暴图腾
+tagPetBlackScourge=Black Scourge
+tagPetGazeOfDreeg=Gaze of Dreeg
+tagPetEyeOfGuardian=Eye of the Guardian
+tagPetHeraldOfDoom=Banner of Doom
+tagPetSpirit=Bound Spirit
+
+
+tagDevotionPet_Skeleton=Skeleton
+tagDevotionPet_ArcaneBomb=Arcane Bomb
+tagDevotionPet_Hound=Eldritch Hound
+tagDevotionPet_Hungerling=Hungerling
+tagDevotionPet_ElementalSeeker=Elemental Seeker
+tagDevotionPet_LivingShadow=Living Shadow
+tagDevotionPet_Volcano=Eruption
 
 tagPetIceWallA01=寒冰屏障
 
@@ -995,11 +1011,13 @@ tagQuestEnemyReanimator=死尸复生者 凯奥格
 tagQuestEnemyMiltonHart=弥尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
+tagQuestBloodWagon=Blood Wagon
 
-tagBossTheWarden01=典狱长
+tagBossTheWarden01=典狱长克里格
 tagBossOutcast01=虚化盗贼 阿纳斯塔里娅
 tagBossOutcast02=虚灵复仇者 阿纳斯塔里娅
 tagBossOutcast03=虚灵之怒 阿纳斯塔里娅
+tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
 
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾 沃达兰
@@ -1019,6 +1037,98 @@ tagNemesis_Undead01=技师 奥米诺克西斯
 tagNemesis_Undead02=寒风 莫斯劳克
 tagNemesis_Undead03=血毒
 
+#Devotion
+tagDevotion_AetherialH01=Athraz, the Watcher
+tagDevotion_AetherialH02=Naladrak, Essence of the Flame
+tagDevotion_AetherialH03=Idalazius, the Corruptor
+
+tagDevotion_ChthonianDevourerH01=Gal'Barok
+tagDevotion_ChthonianDevourerH02=Har'Nadiin
+tagDevotion_ChthonianDevourerH03=Ellon'Siin
+tagDevotion_ChthonianDevourerH04=Udal'Nadal
+tagDevotion_ChthonianDevourerH05=Balok'Grot
+tagDevotion_ChthonianDevourerH06=Orudin'Ak
+
+tagDevotion_ChthonianDreadguardH01=Serethal'Siin
+tagDevotion_ChthonianDreadguardH02=Wallan'Siin
+tagDevotion_ChthonianDreadguardH03=Zagal'Udal ~ Electrified
+tagDevotion_ChthonianDreadguardH04=Rigak'Doth ~ Reflective
+tagDevotion_ChthonianDreadguardH05=Palloth'Dar ~ Frozen
+
+tagDevotion_VoidFiendH01=Innal'Gargoth
+tagDevotion_VoidFiendH02=Udal'Thel
+tagDevotion_VoidFiendH03=Walloth'Dar
+tagDevotion_VoidFiendH04=Eldon'Siin ~ Electrified
+tagDevotion_VoidFiendH05=Sen'Udal ~ Burning
+tagDevotion_VoidFiendH06=Halloth'Siin
+
+tagDevotion_ChthonianMinionH01=Carath'Lud
+tagDevotion_ChthonianMinionH02=Elegor'Dar
+tagDevotion_ChthonianMinionH03=Fallim'Gargoth
+tagDevotion_ChthonianMinionH04=Ossius'Dar
+tagDevotion_ChthonianMinionH05=Blagal'Doth
+tagDevotion_ChthonianMinionH06=Mal'Thallon ~ Frozen
+tagDevotion_ChthonianMinionH07=Shogal'Gargoth ~ Shielded
+
+tagDevotion_ChthonianMonstrosityH01=Chthonian Unraveler
+
+tagDevotion_FleshHulkH01=Brognathar
+tagDevotion_FleshHulkH02=Aethollin
+tagDevotion_FleshHulkH03=Kollus ~ Burning
+tagDevotion_FleshHulkH04=Feseron ~ Electrified
+
+tagDevotion_GhostH01=Lady Odellia
+tagDevotion_GhostH02=Lord Mardenthal ~ Burning
+tagDevotion_GhostH03=Lady Agathon ~ Regenerator
+tagDevotion_GhostH04=Lord Stormbane ~ Electrified
+tagDevotion_GhostH05=Lord Blackwood ~ Voidtouched
+tagDevotion_GhostH06=Lord Senethal ~ Corrupted
+tagDevotion_GhostH07=Lord Develon
+tagDevotion_GhostH08=Lady Barroth
+tagDevotion_GhostH09=Lady Senethal
+
+tagDevotion_CavePrawnH01=Direcrix
+tagDevotion_CavePrawnH02=Malocrix ~ Voidtouched
+tagDevotion_CavePrawnH03=Idricrix ~ Electrified
+tagDevotion_CaveSpiderH01=Shalloth
+tagDevotion_CaveSpiderH02=Troaxna ~ Regenerator
+tagDevotion_CaveSpiderH03=Waviix ~ Swift
+
+tagDevotion_SkeletalGolemH01=Grubwrath ~ Diseased
+tagDevotion_SkeletalGolemH02=Icesharn ~ Frozen
+tagDevotion_SkeletalGolemH03=Flamegore ~ Burning
+tagDevotion_SkeletalGolemH04=Aethergore ~ Corrupted
+tagDevotion_SkeletalGolemH05=Voidreach ~ Voidtouched
+
+tagDevotion_SkeletonH01=Elledar Bloodthirster
+tagDevotion_SkeletonH02=Priest Dagoll
+tagDevotion_SkeletonH03=Damnoth
+tagDevotion_SkeletonH04=Everon ~ Burning
+tagDevotion_SkeletonH05=Vengar the Vengeful ~ Reflective
+tagDevotion_SkeletonH06=Rimelord ~ Frozen
+tagDevotion_SkeletonH07=Lord Tenethon
+tagDevotion_SkeletonH08=Alladon the Flamewatcher
+tagDevotion_SkeletonH09=Elagorian Darkmarrow
+tagDevotion_SkeletonH10=Ollegon the Icewatcher
+
+tagDevotion_SlithH01=Rexna
+tagDevotion_SlithH02=Balladra Stormscion
+tagDevotion_SlithH03=Sharath
+tagDevotion_SlithH04=Traglodan ~ Voidtouched
+tagDevotion_SlithH05=Wrallan ~ Electrified
+tagDevotion_SlithH06=Calladra ~ Corrupted
+tagDevotion_SlithH07=Bliegna
+tagDevotion_SlithH08=Lunorius
+
+tagDevotion_ZombieH01=Grubnar
+tagDevotion_ZombieH02=Follistad
+tagDevotion_ZombieH03=Flamewretch ~ Burning
+tagDevotion_ZombieH04=Palleod ~ Electrified
+tagDevotion_ZombieH05=Occullon
+tagDevotion_ZombieH06=Bloodwretch ~ Swift
+tagDevotion_ZombieH07=Icerot
+tagDevotion_ZombieH08=Vampireon
+tagDevotion_ZombieH09=Swiftrot ~ Swift
 
 #Bounties 赏金
 tagBountyBL08=饱食之胃

@@ -83,8 +83,16 @@ tagMapInfestedField02=埃姆斯沃斯农场
 tagMapConflagration01=战火平原
 tagMapConflagration02=献祭之地
 
+tagMapAlpineGate=Asterkarn Mountains
 tagMapLedgewood01=利奇伍德
-tagMapAlpineRoad=Ledgewood Road
+tagMapAlpineRoad=Asterkarn Road
+tagMapAlpineValley=Asterkarn Valley
+tagMapAlpineFort=圣像堡
+
+tagMapFortIkon=圣像堡
+tagMapPlainsofStrife=纷争平原
+tagMapNecropolisGate=古代墓地之门
+tagMapNecropolisInterior=古代墓地内部
 
 #Riftgate Names
 
@@ -117,7 +125,13 @@ tagRiftRottedHarvest=腐烂谷仓
 tagRiftSorrowsBastion=悲伤城堡传送门
 tagRiftBloodGrove=血森林传送门
 tagRiftDarkvale=黑谷传送门
-tagRiftAlpineRoad=高山道路传送门
+tagRiftAlpineGate=Asterkarn Mountains Rift
+tagRiftAlpineRoad=Asterkarn Road Rift
+tagRiftAlpineValley=Asterkarn Valley Rift
+tagRiftAlpineFort=圣像堡传送门
+tagRiftPlaintsofStrife=纷争平原传送门
+tagRiftNecropolisGate=古代墓地之门传送门
+tagRiftNecropolisInterior=古代墓地内部传送门
 
 tagRiftRandom01=冥灵传送门
 
@@ -171,7 +185,15 @@ tagWorldMapDarkvale={^w}黑谷村
 tagWorldMapDarkvaleGate=黑谷门
 tagWorldMapFactionFort={^w}哈伦堡
 tagWorldMapBloodGroveMine={^w}莫顿的{^n}{^w}领地
-
+tagWorldMapFortIkon=圣像堡
+tagWorldMapBattlefield=纷争平原
+tagWorldMapNecropolis=古代墓地
+tagWorldMapAsterkarnRoad=Asterkarn{^n}Road
+tagWorldMapAsterkarnValley=Asterkarn{^n}Valley
+tagWorldMapBastionOfChaos=混沌要塞
+tagWorldMapTombofWatchers=守望者之墓
+tagWorldMapTombofArchon=执政官之墓
+tagWorldMapNecropolisGates=古代墓地{^n}之门
 
 #Underground Names
 
@@ -229,6 +251,8 @@ tagUGFortZealot01=凯蒙的庇护所
 tagUGFortZealot02=凯蒙的书房
 tagUGCryptNecro01=教团的要塞
 tagUGCryptNecro02=灵魂居所
+tagUGFortIkon_Prison=圣像堡监狱
+tagUGFortIkon_Armory=圣像堡武器库
 
 tagUGFortCultist01=黑谷门
 tagUGFortFaction01=哈伦堡
@@ -241,8 +265,13 @@ tagUGCryptZealot01=寇瓦克之墓
 tagUGVoidlands01=混沌要塞
 tagUGVoidlands01A=不谐
 tagUGVoidlands01B=无序
-tagUGVoidlands01C=狱火
+tagUGVoidlands01C=Entropy
 tagUGVoidlands01D=绝望之地
+
+tagUGPassageNecropolis=Hall of Spirits
+tagUGCryptFinal01=Tomb of the Watchers
+tagUGCryptFinal02=Seal of the Loghorrean
+tagUGCryptFinal03=Edge of Madness
 
 #Signs
 
@@ -296,6 +325,8 @@ tagPOI010A=死亡守夜人教团领地入口
 tagPOI011A=凯蒙的神选战士领地入口
 tagPOI012A=黑谷门
 tagPOI013A=哈伦堡
+tagPOI014A=地穴入口
+tagPOI014B=地穴出口
 
 tagPOIFloodedPassageA=浸没通道入口
 tagPOIFloodedPassageB=浸没通道出口
@@ -324,6 +355,13 @@ tagPOIManInNeedCaveA=迈拉的藏身处入口
 tagPOIManInNeedCaveB=废弃兽穴出口
 tagPOIMountainDeepsA=山脉深渊入口
 tagPOIMountainDeepsB=山脉深渊出口
+tagPOIFortIkon_Armory=Fort Ikon Armory
+tagPOIFortIkon_Prison=Fort Ikon Prison
+tagPOIFactionBattleA=Tomb of Archon Barthollem
+tagPOIKymonSecretA=Tomb of Korvaak
+tagPOILoghorrean01A=Tomb of the Watchers
+tagPOILoghorrean02A=Seal of the Loghorrean
+tagPOILoghorrean03A=Edge of Madness
 
 tagPOIStepsOfTorment1A=苦痛阶梯入口
 tagPOIStepsOfTorment1B=苦痛阶梯出口
@@ -336,6 +374,15 @@ tagPOIStepsOfTorment4B=苦痛阶梯(第四层)出口
 tagPOIStepsOfTorment5A=苦痛阶梯(第五层)入口
 tagPOIStepsOfTorment5B=苦痛阶梯(第五层)出口
 
+tagPOI_BastionOfChaos01A=Bastion of Chaos Entrance
+tagPOI_BastionOfChaos01B=Bastion of Chaos Exit
+tagPOI_BastionOfChaos02A=Discord Entrance
+tagPOI_BastionOfChaos02B=Discord Exit
+tagPOI_BastionOfChaos03A=Anarchy Entrance
+tagPOI_BastionOfChaos03B=Anarchy Exit
+tagPOI_BastionOfChaos04A=Entropy Entrance
+tagPOI_BastionOfChaos04B=Entropy Exit
+
 tagPOIQuest_Burrwitch=清理伯尔维治传送门
 tagPOIQuest_WardenLab=找到典狱长的实验室
 tagPOIQuest_ArkovianFoothills=进入安克维亚山麓
@@ -346,6 +393,8 @@ tagPOIQuestHomesteadTown=霍姆斯特德镇
 tagPOIQuest_Sacrifice=艾萨克的宝藏
 tagPOIQuest_StrangeKey=堕落圣殿
 tagPOIQuest_Homestead=开辟出一条到霍姆斯特德的道路
+tagPOIQuest_NecropolisGate=Entrance to the Necropolis
+tagPOIQuest_NecropolisRift=Secure the Necropolis Riftgate
 
 
 #Notifications
@@ -376,7 +425,9 @@ tagNotification_AreaC_RefugeeRemainsFound=看起来达利娅·塔夫恩没能在
 tagNotification_AreaC_BloodHarvestFound=有些囚徒在呼救。
 tagNotification_AreaC_TrappedAndAloneReturn=一个冥灵正在屠杀流浪者营地！
 
-tagNotification_AreaD_KymonSecret=You hear the faint sound of a stone door opening nearby.
+tagNotification_AreaD_KymonSecret=You hear the sound of a stone door opening nearby.
+tagNotification_AreaD_NecropolisRiftgate=Fiends of the void spill out of the riftgate!
+tagNotification_AreaD_FortIkonRiftgate=The riftgate is swarming with Aetherials.
 
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门之间的连接……
@@ -477,6 +528,8 @@ tagNPC_AreaD_01=战法师莫伊拉
 tagNPC_AreaD_02=里夫队长
 tagNPC_AreaD_03=武器专家艾德里克
 tagNPC_AreaD_04=阿纳斯塔里娅
+tagNPC_AreaD_04B=Anasteria, Harbinger of the North
+tagNPC_AreaD_04C=Anasteria,  Wrath of the Aether
 
 tagNPC_DetonationSite=爆破点
 tagNPC_AetherCluster=虚化集簇
@@ -557,6 +610,7 @@ tagNPC_Flavor_AreaC_31=丽莎·索恩斯巴利
 tagNPC_Flavor_AreaC_32=达拉
 tagNPC_Flavor_AreaC_33=维格
 tagNPC_Flavor_AreaC_34=雷纳·奥博拉什
+tagNPC_Flavor_AreaC_35=禁卫军 Zedlee
 tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
 tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
 tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
@@ -625,6 +679,12 @@ tagQuestItemExileBossDrop_01Desc="这本书似乎被奥术力量封印着，无�
 tagQuestItemExileBossDrop_02=档案管理员塞隆的头颅
 tagQuestItemExileBossDrop_02Desc="闪耀着虚化光芒的双眼仍在面无表情地凝视着你。"
 
+tagQuestItemExileBossDrop_03=Pulsating Obsidian Shard
+tagQuestItemExileBossDrop_03Desc="The shard of obsidian pulses with dark power."
+
+tagQuestItemExileBossDrop_04=Fang of the Bonehunter
+tagQuestItemExileBossDrop_04Desc="Fang from Kalis Ka, the fallen spawn of Beronath. Could fetch a fair price at a merchant, or perhaps from a devious witch."
+
 tagQuestItemBlackLegionInsignia=黑色军团徽章
 tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作为他们忠诚服役的奖赏。"
 
@@ -633,9 +693,6 @@ tagQuestItemCultistNecropolisNote_Desc="一本写满了黑暗仪式的秘典，�
 
 tagQuestItemAnnalsOfArkovia=安克维亚编年史
 tagQuestItemAnnalsOfArkovia_Desc="记录着安克维亚罗文王最后的日子。"
-
-tagQuestItemExileBeastFang=Fang of the Beast
-tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
 
 tagQuestItemThornsburyDiary=黛拉的日记
 tagQuestItemThornsburyDiary_Desc="它属于黛拉·索恩斯巴利。"
@@ -647,8 +704,8 @@ tagQuestItemAetherialEssence=虚灵精华
 tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
 
 tagQuestMogdrogenShrine=莫格卓根的圣坛
-tagQuestItemMogdrogenShrine01=莫格卓根的灵魂
-tagQuestItemMogdrogenShrine02=莫格卓根的符文石
+tagQuestItemMogdrogenShrine01=莫格卓根的符文石
+tagQuestItemMogdrogenShrine02=莫格卓根的灵魂
 tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
 
 tagQuestItemSacredAshes=至高神的神圣尘埃
@@ -656,6 +713,13 @@ tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of
 
 tagQuestItemDesecratedAshes=Desecrated Ashes of Empyrion
 tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
+
+tagQuestItemHeavyExplosives=Legion Heavy Explosives
+tagQuestItemHeavyExplosives_Desc="Infused by military sorcerers to guarantee a giant payload."
+
+tagQuestItemLegionSupplies=Legion Supplies
+tagQuestItemLegionSupplies_Desc="A stash of Black Legion raw materials. A veritable fortune given the situation in the empire."
+
 
 #Journals 日志
 
@@ -918,10 +982,10 @@ tagLoreObj_AreaCNecro_Note03Name=尤若布鲁克的日志 - 第一页
 tagLoreObj_AreaCNecro_Note03Text=Something powerful is coming from beyond. I have sensed its approach for some time now. But like a dream or some distant memory, the details were lost to me... until now.{^n}{^n}I can feel it clawing its way through the veil somewhere to the east of 伯尔维治, no doubt drawn here by the maelstrom of otherworldly corruption. I dare say, its nature eludes even me; but it is neither flesh nor spirit. I must discover what it is we are facing and, should the need arise, seal it away again behind the barrier between worlds.{^n}{^n}The Order need not concern itself with these matters quite yet. I must do this alone...{^n}{^n}Uroboruuk
 
 tagLoreObj_AreaCNecro_Note04Name=尤若布鲁克的日志 - 第二页
-tagLoreObj_AreaCNecro_Note04Text=I will rip the bones from a thousand for this treachery. At a great cost I have survived a deadly attack.{^n}{^n}I had discovered a large contingent of Chthonic fiends. At first, I thought they were the source of power that I sought and so I followed them. As they travelled East, I soon realized that they too were after the same thing as I. They made their way to the cliffs by way of the swamp. In following them, I had walked right into an ambush as I was suddenly attacked from behind.{^n}{^n}The fight was devastating and I destroyed dozens in the ensuing conflict. However, in the midst of battle, several of the Harbingers cornered my Guardian. I first believed they intended to destroy it; but when they exploded, a rush of Chthonic energy surged into my creation and severed our link. The animated mass of bone turned on me, and I knew then that the Harbingers had found a way to corrupt my necromantic creation. I do not understand how they were capable of doing this but it was unlike anything I have ever seen Chthonic beings do.{^n}{^n}If the fiends of the Void are able to harness this power on a larger scale, then the Order of Death's Vigil will find itself outmatched. I must maintain hope that what I seek will be an answer to fighting this darkness. With each step the power grows and others will be drawn to it. I must hurry.{^n}{^n}Uroboruuk
+tagLoreObj_AreaCNecro_Note04Text=I will rip the bones from a thousand for this treachery. At a great cost I have survived a deadly attack.{^n}{^n}I had discovered a large contingent of Chthonic fiends. At first, I thought they were the source of power that I sought and so I trailed them. As they travelled East, I soon realized that they too were after the same thing as I. They made their way to the cliffs by way of the swamp. In following them, I had walked right into an ambush as I was suddenly attacked from behind.{^n}{^n}The fight was devastating and I destroyed dozens in the ensuing conflict. However, in the midst of battle, several of the Harbingers cornered my Guardian. I first believed they intended to destroy it; but when they exploded, a rush of Chthonic energy surged into my creation and severed our link. The animated mass of bone turned on me, and I knew then that the Harbingers had found a way to corrupt my necromantic creation. I do not yet understand how they were capable of such an act, but it was unlike anything I have ever seen Chthonic beings do.{^n}{^n}If the fiends of the Void are able to harness this power on a larger scale, then even the Order of Death's Vigil will find itself outmatched. I must maintain hope that what I seek will be an answer to fighting this darkness. With each step the power grows and others will be drawn to it. I must hurry.{^n}{^n}Uroboruuk
 
 tagLoreObj_AreaCZealot_Note01Name=侍僧的誓言
-tagLoreObj_AreaCZealot_Note01Text=When the world ended, I did not know how I would survive. It was only by the grace of Kymon that they found me. Burried in the mud and rubble of my house, it was Father Kymon who knew where to find me. It was his hands that pulled me free of certain death.{^n}{^n}Now that I am here, I pledge to do everything I can to fight this evil and to serve the cause that gave me a second chance. It is by the will of Kymon that I now carry his light to the world and save who I can. Praise be to the Blessed Father.{^n}{^n}Acolyte of the Chosen, Carth Lavine
+tagLoreObj_AreaCZealot_Note01Text=When the world ended, I did not know how I would survive. It was only by the grace of Kymon that they found me. Buried in the mud and rubble of my house, it was Father Kymon who knew where to find me. It was his hands that pulled me free of certain death.{^n}{^n}Now that I am here, I pledge to do everything I can to fight this evil and to serve the cause that gave me a second chance. It is by the will of Kymon that I now carry his light to the world and save who I can. Praise be to the Blessed Father.{^n}{^n}Acolyte of the Chosen, Carth Lavine
 
 tagLoreObj_AreaCZealot_Note02Name=希望的信标
 tagLoreObj_AreaCZealot_Note02Text=I have seen first-hand the cleansing power of the flame of Kymon and will never falter in my belief. Our forces outnumbered by horrors beyond comprehension, it was then that I first laid eyes upon him.{^n}{^n}Like a shining beacon in the chaos, Father Kymon charged into battle. He was as a flaming wind scorching a forest left to grow wild for too long, cutting down the twisted and reviled roots that seek to strangle this world of light. I knew that day that he will be the one to lead us from this horror. It is his righteousness that burns through the darkness of this world and banishes the evil. I will not fail him.{^n}{^n}Blade Maiden Sendra Ambri
@@ -931,6 +995,81 @@ tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each
 
 tagLoreObj_AreaCZealot_Note04Name=凯蒙的日志 - 第二页
 tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}圣父凯蒙
+
+tagLoreObj_AreaCTyrant_NoteA01Name=Imperial Proclamation
+tagLoreObj_AreaCTyrant_NoteA01Text=By Imperial Proclamation, Duke Beyon Cavanil is hereby ordered to disband the 31st Division of the garrison currently stationed at Tyrant's Hold. All soldiers are immediately released from active service without pay. Soldiers may take their weapons and armor as compensation.{^n}{^n}Immediately following the disbandment of forces at Tyrant's Hold, Duke Cavanil is relieved of his command and ordered to present himself before the High Marshal Nikolas Mainvile. Failure to report on the first of the month will constitute forfeiture of all land and titles to the Imperium.{^n}{^n}Imperial Justicar, Rynor Finch
+
+tagLoreObj_AreaCTyrant_NoteA02Name=The Journal of Duke Cavanil
+tagLoreObj_AreaCTyrant_NoteA02codexTitle=Cavanil's Journal
+tagLoreObj_AreaCTryant_NoteA02Text=This makes no sense. I have been ordered to dismiss my army without pay. Furthermore they have given the men their weapons and armor as final payment. What are they thinking?{^n}{^n}This order can only result in anarchy. Half these men will become bandits or worse. If dismissed without pay, they won't have a second thought about turning their blade against the Empire. Without this garrison, the grobles will reclaim this area unchallenged. The road from Darkvale to Devil's Crossing will become impassable.{^n}{^n}We have been holding this fort since the fall of the Dranghoul savages, but they keep pressing to take it back. I have requested more men and weapons from Erulan and this is the response I get in return? Madness! I have half a mind to ignore this decree, and if my wife and son were here with me, I would.{^n}{^n}Upon further reflection, these men might also turn against me. Not that I feel I have mistreated them, but they could easily view me as part of the aristocracy that has put them in this predicament. I must leave before they receive this news or I fear I will never see my family again.{^n}{^n}Duke Cavanil, Commander of Fort Tyrant
+
+tagLoreObj_AreaCTyrant_NoteA03Name=Dangerous Roads
+tagLoreObj_AreaCTyrant_NoteA03Text=The fools. Curse the Empire soldiers for abandoning their post at Tyrant's Hold. What devilry has compelled them to such a thing? Do they want to see travelers killed and devoured by savages and beasts? I pay the Empire very high taxes to keep the roads safe. If they are not going to do their part, then I will simply stop doing mine.{^n}{^n}When I return to the Merchants Guild, I will be filing a formal complaint against the Empire and the Army. If I can generate enough support, then we can boycott the major cities and put some real pressure on the diplomats in Erulan. Maybe even force them to pay restitution to the Guild. They may be royalty, but even they will bend to the power of coin. It would make me very happy indeed to see the all mighty Empire bowing to the Guild for a change.{^n}{^n}And now more wonderful news. A traveler heading North said they were robbed by bandits to the south. What's worse is many of these criminals were dressed in soldier uniforms. Is it possible the regiment from Tyrant's Hold has gone rogue? I think it's high time we did away with this decrepit system of rule. It's treason to even think such thoughts, much less write them down, but if we survive this it will be long past time for dramatic change.{^n}{^n}Pavel Ludnum
+
+
+#AreaD Notes
+
+tagLoreObj_AreaDSecret_NoteA01Name=A Terrible Discovery
+tagLoreObj_AreaDSecret_NoteA01Text=The Earthquake has inflicted some damage on the upper levels of the catacombs. Bones scatted, tombs crumbled, piles of rubble everywhere and one of the bridges was completely destroyed. This is terrible news as it forces us to take long forgotten alternate paths to reach the furthest end of the catacombs. My true dread is in exploring the deepest foundations. I am no stranger to death. I have combed over battlefields and waded through blood and gore to recover the brave heroes lost in combat. However, this secret place where the bones of cursed and nameless damned are banished makes my skin crawl and my soul scream. With every step I wish to turn and flee from this unholy place.{^n}{^n}I have long proposed that keeping the remains of so many wicked men in one location is unwise, but thus far my voiced concerns have been dismissed. Criminals, witches, heretics, cursed, murderers and the insane have been secreted away down here. I can feel their malignant souls heavy upon the air drowning us in their combined guilt; pushing the crumbling walls until they buckle; calling to the dark hollows of the earth; imploring vile things to seek this prison and release the centuries of evil that is trapped within.{^n}{^n}I have discovered a great tear that has opened up beneath the catacombs. Several support walls have collapsed and fallen into the darkness below. There are scratches on the floor and walls as if something scored the very stone. I have also found bones with strange markings on them, as if gnawed by an animal. And lately I've been hearing sounds coming from the walls, as if something was skulking in the darkness nearby. Some wretched thing gliding along the shadows staying just outside the light. My worst fears have come to pass. I must flee and warn the others.{^n}{^n}Caretaker of the Dead, Aleister Pencroft
+
+tagLoreObj_AreaDCatacomb_NoteA01Name=Loose Ends
+tagLoreObj_AreaDCatacomb_NoteA01Text=Deceived. Stuck down here in the dark like a rat in a trap. I write these words so I might have vengeance. It's unlikely that this will be found but, if someone reads this, know that Malvek Brevele is a traitorous cur.{^n}{^n}I am Nazahn Untraze. I am a foreigner to these lands, and unashamed to say that I am both a thief and assassin. I tell you this now so you know that I am truthful in my later words. I have been in the secret employ of a wealthy noble, one Malvek Brevele. Most of my work for him was stealing key pieces of information and material for leverage. I have slit the throats of no less than three of his rivals or their agents. I broke into in the chambers of the man above Malvek and placed certain evidence. This resulted in the man's arrest allowing Malvek to move into his position of power. None of this is new. Same things happen with wealthy men and scheming nobility the world over.{^n}{^n}More recently, he bade me to recover an ancestral artifact from his father's tomb. The family Signet Ring. A thing that should not have been buried he says. But the argument between father and son led to rash decisions. I care not for the reason, his coin was always good, but I say nothing and let him speak. He went on to say "The tomb is lavished in my family's vast wealth of the ages. Touch nothing. I am not paying you to plunder my ancestor's tomb. You are only to recover my father's signet ring and return. And make sure you carry a torch. Seldom a light escapes those depths. Do not dare return without the Signet".{^n}{^n}I found the entrance easy enough but it just revealed stairs into blackness. After lighting a torch, I descended into the tomb and wandered these halls for hours, searching for a single name amongst these countless thousands of dead. At last I gave up. But I would not leave empty handed. I was driven to find the wealth Malvek spoke of. I went farther and farther into the darkness. There were some treasures, but nothing of what he hinted at. I pressed on, ignorant of the risk of losing my way back.{^n}{^n}Once the torch started flickering I knew, as if I had planned the betrayal myself. Malvek had played me like a fool. His careful choice of words stung at my pride and ensured that I would be driven to find the Signet despite any risks. And the subtle suggestion to bring a single torch, I was a fool to bring just the one.{^n}{^n}Here I am to stay as I write these final words. Now I see the deception for what it was. Only the elimination of a loose end. My light is done, and so am I.{^n}{^n}Nazahn
+
+tagLoreObj_AreaDSecretPrison_NoteA01Name=Secret Work
+tagLoreObj_AreaDSecretPrison_NoteA01Text=Gentlemen,{^n}{^n}I write this report to inform you that after ten years of waiting, the Necropolis project has reached its final depth and we are at last ready to begin the second stage. I have requisitioned slaves, building materials and the rune sealed crates to be shipped to the excavation site. I personally oversaw the transport of each of the deliveries and must inform you of one unfortunate incident.{^n}{^n}A wagon lost a wheel and one of the crates was damaged causing a seal to be broken. This resulted in a leak. The driver insisted on helping and, despite my best attempts to dissuade him from touching the contents, he got some of the leaking ichor on him. I dispatched the poor fool on the spot, a merciful end compared to what that vile fluid would have done to him. I have contained the damage and seen restitutions paid to the man's family. Besides this unfortunate incident, there were no further delays. The remains are safely stored at the bottom of the Necropolis awaiting the completion of the prison.{^n}{^n}I have presented your documentation to the old Architect in charge of the construction and, while he protested, he did not stand in the way of the Imperial writ. However, in the few months since I have been here, he has insisted upon reviewing what it is that we are doing to “his great work” as he keeps calling it. I have expressed the lack of wisdom and safety of this course, but he persists. Hemal Listari has a family, which might be a source of leverage to force him to leave well enough alone. Unfortunately, I fear his curiosity may force us to take drastic measures before this project is finished.{^n}{^n}Vestiaris, Imperial Arcanist
+
+tagLoreObj_AreaDSecretPrison_NoteA02Name=Sealed In
+tagLoreObj_AreaDSecretPrison_NoteA02Text=They promised us freedom. Freedom in exchange for ten long years of back-breaking labor. But I now know that we are all going to die in this place. Last night, while we slept, they took all the tools and the food. The entrance to the chamber is now solid rock and buzzes with an unearthly hum as if a swarm of wasps were inside.{^n}{^n}We have been sealed in this horrible place with nothing but these rune-covered crates. There is a putrid moisture to them that bites at the back of your nostrils. I can't stare at the writing on them for too long. They burn the eyes and blur the vision. I don't think we should open them, but the others are starting to get hungry and hoping there is food inside. I know there isn't any. Every muscle in my body is telling me to get as far from those crates as possible. The runes marking them are the same as those we were ordered to carve into the walls of this chamber.{^n}{^n}I believe this is a prison of some kind, built to hold whatever is slowly oozing out of those containers; and now we are trapped in here with it. I may have been on the losing side of the war, had to watch many of my comrades die on the battlefield. But this? This is no way for a man to die.
+
+tagLoreObj_AreaDAlpine_NoteA01Name=Trip South - Part 1
+tagLoreObj_AreaDAlpine_NoteA01Text=*The notebook is caked in dried blood and mud and many pages appear to have been deliberately torn out.*{^n}{^n}Day 3: John holds our Silvie with one arm as he drives the wagon. He is smiling and happy as he tells us that we should reach the mountain in a few days. It's sad to leave our home but I am hopeful for a better life far away from the dangers that seem to be ever increasing here in the north.{^n}{^n}Day 4: Silvie is so happy, running along the side of the wagon picking flowers. I was really worried about her being unhappy as we left behind the only home she has ever known. The wonder and splendor that is youth. It warms my heart.{^n}{^n}Day 6: The mountains are looming ahead of us and the cold is getting sharp. I can see the worry in John's face as he tries to keep up his spirits. I know he only wants to protect us from the dangers and I can only pray that we make it past the mountain before the snow.{^n}{^n}Day 8: We are in the shadow of the mountain now and the days are shorter. Snow has started to fall and the cold came on so suddenly it surprised us. We have warm clothes but the wind cuts right through them.{^n}{^n}Day 11: We have reached a flat at the base of a fort. There are a few other travelers here who have told us the way though to Darkvale is blocked. With our food running low, we were hoping to resupply at the Darkvale Gate Merchant District. Now I don't know what we will do. Turning back is not an option with the snow coming down so fast. John says he is going to talk to the others soon.{^n}{^n}Day 16: The horse died today. John is saddened by this but at least it will feed us until help arrives. I hate that we had to make this trip with Silvie. She is only nine and I don't like the way the other men at the camp look at her.{^n}{^n}Day 22: All of our horse meat is gone. It would have lasted longer if we didn't have to share it with the others. But John said things could have gone badly if we did not. I don't like thinking about what he meant by that.
+
+tagLoreObj_AreaDAlpine_NoteA02Name=Trip South - Part 2
+tagLoreObj_AreaDAlpine_NoteA02Text=Day 28: Gods protect us. We have been starving. I spent the morning searching the woods for nuts and bugs to eat. I can't believe that it doesn't shame me to say I have been eating bugs when I can find them. When I got back to the camp I found that John had killed a man that attacked our daughter.{^n}{^n}Day 29: John has brought Silvie and I a small portion of meat. I don't ask where he got it.{^n}{^n}Day 30: The other men asked what happened to their friend. John told them that he tried to hurt our little girl and offered them some freshly cut meat. They took it without another word and left us alone. Does friendship mean so little in these times?{^n}{^n}Day 36: John offered Silvie to one of the men in the camp. When the man came into the tent to make his advance, John killed him in front of Silvie and I. I am so hungry I don't even care.{^n}{^n}Day ??: It's so hard to write. Numb fingers and the cold dulls my thoughts. The dark of the mountain makes it easy to lose track of the days.{^n}{^n}Day ??: Another man has been lured to our tent. An exchange of food for the promise of warmth. They must know that it's a trap. Maybe they are ready to die. They lie to themselves even as they walk into the butcher's blade.{^n}{^n}Day ??: Our next visitor was wise to the attack. John killed him but not without suffering a terrible wound. He is not sure he will survive the night. I find that I don't care as much as I should. All I see is a potential meal.  Gods, what is happening to me?{^n}{^n}Day?? John lasted longer than we've expected, draining our dwindling food supplies. I took care of it. Now have food for a long while.
+
+tagLoreObj_AreaDAlpine_NoteA03Name=Trip South - Part 3
+tagLoreObj_AreaDAlpine_NoteA03Text=Day ??: Silvie has become angry. Spiteful. Malevolent. Where did all the tenderness and innocence of my little girl go? Why is it that I don't care anymore? Should care. But feel nothing.{^n}{^n}Day ??: There is no one left here in camp. All gone. We must move. Hard to hide blood, frozen snow. Easy for prey to know.{^n}{^n}Day ??: Harder to write. Hard to think about anything but the hunger.{^n}{^n}Day ??: New place off road. Easy to lure new travelers going south. Looking for safe place. Never find it.{^n}{^n}Day ??: No food again. I encourage Silvie to find people to bring here for food. She is gleeful at suggestion. John gone, so I do the killing now.{^n}{^n}Day ??: So hungry. Don't even bother to cook food anymore.{^n}{^n}Day ??: Talk to woman today. Still alive as we eat. Blood in mouth. She ask why? Only word I say: "hungry". Silvie laugh that she talk while we eat her.{^n}{^n}Day ??: Hair falling out. Don't care.{^n}{^n}Day ??: The men won't be lured no more. They know what awaits them. No matter. We chase.{^n}{^n}Day ??: Silvie good hunter now. She likes kill. Me too. Should feel bad. Know it's wrong. But it feels so good to feed.{^n}{^n}Day ??: Don't feel cold no more. Shards of frozen blood cut lips. Split gums. Don't care.{^n}{^n}Day ?? Chase men. Terror makes flesh taste sweeter. Good.{^n}{^n}Day ??: So hungry. Must find more.{^n}{^n}*The rest of the text is impossible to make out.* 
+
+tagLoreObj_AreaDNecropolis_NoteA01Name=Commission of the Necropolis - Page 1
+tagLoreObj_AreaDNecropolis_NoteA01codexTitle=The Necropolis - Page 1
+tagLoreObj_AreaDNecropolis_NoteA01Text=I have been commissioned to construct a grand mausoleum that will house the thousands of dead from the great battle with the west. This will be my Magnum Opus. The project will take many decades and at my age it is unlikely that I will live to see its completion.{^n}{^n}I have begun drafting the plans in my head. The main tomb will be centered around a vast well, which will house most of the fallen. The quantity of earth we will need to move is staggering, but it will serve as a foundation for the rest of the city of the dead. While this is being done, a small army of civil servants will be carefully collecting the bodies, crafting notices of identification, and preparing them for temporary burial. It will be many years before the fallen receive their proper burial.{^n}{^n}We have started construction of temporary mass grave structures to hold them. Some of the families have insisted that they take the remains to which I have no objection but I cannot imagine why they would not want their loved ones to be honored here, at the site of their glorious victory. I should note that the bodies of the enemy will be shipped back to their border and left for them to do with as they please. I mean no disrespect to their fallen but, quite frankly, they are not our problem.{^n}{^n}There are thousands of workers being commissioned for the digging, hauling and carving of the stone. Where Erulan found so many able-bodied and willing workers so quickly is obvious. Slaves. Brought from the imperial prison mines, or enemy soldiers from the war.  Distasteful, but there is too much work to get done to be timid about this.{^n}{^n}So many things to consider and prepare. I am eager to get started. I can only hope that my wife and son will be happy here. It won't be much more than a mining town for a few years, but the work is too important to leave to any other.{^n}{^n}The Grand Architect, Hemal Listari
+
+tagLoreObj_AreaDNecropolis_NoteA02Name=Commission of the Necropolis - Page 2
+tagLoreObj_AreaDNecropolis_NoteA02codexTitle=The Necropolis - Page 2
+tagLoreObj_AreaDNecropolis_NoteA02Text=After ten years, the Necropolis, as it has come to be known, is more than halfway finished. Far ahead of my early projections. Though I can't say it has been without complications.{^n}{^n}I was shocked when an agent of the Erulan Imperium appeared and began reassigning workers and equipment without my approval. Apparently the Imperium is having an additional chamber constructed beneath my original designs. These imbeciles have no sense of grandeur and design. This is my life's work we are talking about! I don't care how much the Imperium is paying me. I will not stand for it.{^n}{^n}Over the last seven months, I have written several distasteful letters to the Erulan council stating my displeasure with these arrangements. Not a single response. Every time I see that wretched man, Vestiaris, I confront him on the subject; and every time he gives me the same tired response: “I have been appointed by the Erulan Imperium. If you take issue with my duties here, please take it up with them”. Well they can ignore me all they want. This is my vision and I will not be pushed aside as it is befouled. I don't care how long it takes. I will find out what they are doing down there and I will put an end to it.{^n}{^n}The Grand Architect, Hemal Listari
+
+tagLoreObj_AreaDNecropolis_NoteA03Name=Commission of the Necropolis - Page 3
+tagLoreObj_AreaDNecropolis_NoteA03codexTitle=The Necropolis - Page 3
+tagLoreObj_AreaDNecropolis_NoteA03Text=My father, Hemal Listari, is dead. After nearly twenty years of his finest work, the Necropolis is complete. It is of great misfortune that he did not live to see his final work completed, having suddenly passed away mere days ago. It haunts me how strong and healthy he was to die as suddenly as he did. I am deeply saddened, and yet filled with pride and happiness that I was handed the honor of finishing his grand designs. The Imperium has agreed to have him entombed here, a great honor to our family name to be at rest with so many valiant defenders of our great nation.{^n}{^n}As for myself, I am designing my father's mausoleum and then I must leave for my next commission. I have been tasked with the construction of a massive tunnel that will be serve as passage between the conquered northlands and the Arkovian south; perhaps not as noble a project as the great Necropolis, but it will be mine and I have many years to fill my father's shoes.{^n}{^n}I wanted to stay and oversee the construction of my father's mausoleum, but the orders were clear that I get started on the passage immediately. I don't understand the rush or insistence. I almost feel like they are forcing me to leave.{^n}{^n}Assistant Architect, Modin Listari
+
+tagLoreObj_AreaDIkon_NoteA01Name=Black Legion Scouting Report: Necropolis
+tagLoreObj_AreaDIkon_NoteA01codexTitle=Necropolis Scout
+tagLoreObj_AreaDIkon_NoteA01Text=Commander Lucius ordered a scouting mission to the North. When I asked what we should be looking for, he almost lost his temper and said "Anything that might cause a disturbance". His reaction seemed rather out of place and strange. The commander is not known for such outbursts. It also struck me odd the way he used the word "disturbance".{^n}{^n}I took my scouting squad through the north gate and almost immediately started seeing some Aetherial activity.  We changed our course and headed for the hills rather than traveling the main road. It took longer but we avoided large numbers of the Aetherial dead. They appear to be gathering in the north in preparation for an attack. Their numbers have swelled tremendously since my last mission outside the walls. The return trip is going to prove difficult. I sent one of my scouts back to report this information immediately.{^n}{^n}Heading north we passed by the Necropolis. From the mountain top we did not see anything unusual. Searching as far as we could on our resources we discovered nothing but the accursed blood cultists everywhere.  Avoiding them made our progress slow. We did see one strange thing of note: the cultists appear to be collecting blood in vast quantities and hauling them in wagons filled with large glass cisterns. We followed for a bit to see where they were being taken, but were spotted and forced to retreat.{^n}{^n}1st Regimental Scouts of Black Legion, Sergeant Matius Castalan
+
+tagLoreObj_AreaDIkon_NoteA02Name=Compilation of Fort Ikon Reports
+tagLoreObj_AreaDIkon_NoteA02codexTitle=Ikon Reports
+tagLoreObj_AreaDIkon_NoteA02Text=After the explosion that destroyed the armory I went back over this past week's reports and compiled this collection of excerpts which I found to be relevant. They are pulled together and arranged in order the events took place. I do this in hopes that it will illuminate how this has happened and raise the questions of what might be done to avoid future attacks like this. That is assuming we survive.{^n}{^n}-Captain Frederick Bachknell{^n}{^n}Report 1: Report from the North Wall Night-Watch: While patrolling the upper wall I witnessed a soldier enter the armory. I would not make note of it except that he appeared to have been looking around the courtyard to make sure none could see him as he entered the gated door. The torches were out in that area of the courtyard so it's impossible for me to say who it was.{^n}{^n}Report 2: Report from the Officer of the Watch: Several men have gone missing and we suspect that they have deserted. A complete search of the Fort and surrounding areas has ended with no sign of them however. The scouts have found no sign of tracks and have concluded the men never left the Fort.{^n}{^n}Report 3: Report from the Master of Arms: I have discovered ten small casks and five large casks of blackpowder missing. It is difficult to account for the missing supplies since only five people in the entire fort have access to the keys that would open the blackpowder storage. Commander Lucius headed the search himself after receiving the worrying report, starting from the bottom levels all the way to the top of the towers. Nothing was found.
+
+tagLoreObj_AreaDIkon_NoteA03Name=Armory Explosion Investigation
+tagLoreObj_AreaDIkon_NoteA03codexTitle=Armory Explosion
+tagLoreObj_AreaDIkon_NoteA03Text=This is my final report on the massive explosion that has destroyed the north courtyard. It is intended to be read with the compiled notes pulled together from the past week.{^n}{^n}With the intent of establishing a damage report and the death toll, I assembled a squad of soldiers and led them into the shattered depths below Fort Ikon. The explosion appears to have blown down into the sewers making the smell in the armory ungodly. That, in and of itself, has made it almost impossible to go down there. The plumes of smoke reduced our vision and choked the air. Crumbling walls, supports and floors were in constant danger of additional collapse. The explosion appears to have been centered on a single large support below the armory. At the bottom of the devastation we found several dead men, charred almost beyond recognition. They appear to be the men who went missing earlier this week.{^n}{^n}My investigation indicates that the missing men were using the stolen blackpowder to make an opening into the sewers to make their escape. In closing of this report, I'd like to raise two concerns. The first is: one of the men was an explosives expert and should have been aware of the destructive potential of so much powder. By itself, I wouldn't give this detail a second thought, if not for my second concern: another of the men has been with the Black Legion for nearly eight years with no signs of descent or disagreement with command. In fact, he was due for promotion to a commanding position soon. Something doesn't fit here. The tale that is painted indicates sabotage from within, but who would go to such lengths to frame these men? Without more information, I cannot say with certainty what is going on, but my gut tells me that there is more at play here than at first appears.{^n}{^n}Captain Frederick Bachknell
+
+tagLoreObj_AreaDIkon_NoteA04Name=Untitled Letter
+tagLoreObj_AreaDIkon_NoteA04Text=I have successfully infiltrated the fort, as you commanded. It is ironic that the commander of this garrison is one of the weakest minds I have ever encountered. There is so much turmoil and fear that resides within him, he was easy to manipulate and overwhelm. While I do have full control of his body, there is something in the region that tampers with direct communication, something tainted and ancient. Anything capable of such an act demands further investigation. I write this correspondence in the meantime, so that another may look into this matter.{^n}{^n}Fort Ikon has proven to be a challenge for us, and now I understand why. The vast stores of weapons and warmachines the humans have amassed is staggering. It is a wonder that they have not exterminated themselves in their endless pursuit of warfare and self-destruction. Nevertheless, everything moves according to our grand plans. I have already taken steps to sabotage their armory and planted evidence leading to several deserters. Nobody suspects my involvement.{^n}{^n}But the main reason I have deemed it necessary to report to you comes from a most unexpected discovery. The anomaly, the revealer of secrets, walks among these humans and even now shares with them our plans. We have since adjusted our projections in this region, ensuring that anything the anomaly reveals is of no use to the humans, but its knowledge of our ways could still prove detrimental to our success on this world. For now, I have begun sowing the seeds of distrust about the anomaly to the humans, their fear is so great that they had it moved to the prison, where it remains. Once my sabotage is complete and the gates are open, Fort Ikon will fall. Then we can deal with the traitor as is fitting of such unprecedented betrayal.
+
+tagLoreObj_AreaDCultist_NoteA01Name=The Blood Flows
+tagLoreObj_AreaDCultist_NoteA01Text=The blood I am hauling is pulled like water from an upturned cup. It presses and climbs up the side of the glass, trying to return to its source. If the lids were not on so tight would they burst off? Would the blood fall sidelong though the air to He who calls it back to Him?{^n}{^n}I confess the urge to release one of the lids is strong. But my conviction is stronger. This is a test and I will pass through fire and into the realm of the gods and legend. Soon the centuries of long sleep will be over. And when the Loghorrean wakes the unbelievers will suffer for their lack of faith.{^n}{^n}Cabalist Zakul
+
+tagLoreObj_AreaDCultist_NoteA02Name=The Door has Opened
+tagLoreObj_AreaDCultist_NoteA02Text=Something has changed. Something in the air feels different. It feels like being inside of a bottle when the cork has popped, all the pressure released and my soul pulled from my body to the opening in an explosive release. My mind reels and I find it hard to stay on my feet.{^n}{^n}I can feel it. Deep beneath the ground, they have finally completed the final rites and the door has opened. The blood surges inside me. Pushing. Pulling. Drawing me closer. I must go. I must see the great awakening. If I am chosen, I am ready to be whole once more, to be one with Ch'thon.{^n}{^n}Cabalist Zakul
+
+tagLoreObj_AreaDCultist_NoteA03Name=Clarity of Valor
+tagLoreObj_AreaDCultist_NoteA03Text=With all the evil unleashed in this world, joining with the Bloodsworn made so much sense at the time. At first it was to escape the horrors unleashed by the Aetherials, the death of my family, my wife, my son. But then later I started to understand and believe the words the cult leaders were telling me. The sense of belonging made me feel important. That I was a part of something greater than myself.{^n}{^n}Now that I stand in the halls of this mighty place, I feel the eyes of all those that gave up their lives: the Leaders, the great heroes and the countless thousands who followed them. They fought so that we could live without fear of the nameless fiends which I now serve. I can feel the honor and sacrifice of my ancestors and I am ashamed. Ashamed because of the terrors I have left in my path.{^n}{^n}For months I have done the most vile and unspeakable things. The deaths of husbands, wives and children are on my bloody hands for no other reason than to serve my own selfishness, to wash me clean of my own fears and the devastating loss that drove me to this madness. Death and murder, all in the name of some long dead god who has no more right to the blood in my veins than I do. Blood that belongs to those who I have killed in its name.{^n}{^n}The blood soaked foundation of this forgotten battleground have peeled away the fear and awoken me. There is no forgiving what I have done, no punishment that will ever make it right. But I can give my last breath, my last drop of blood and at last my life to do as much damage to stop them as I can. I do not stand alone. The great heroes stand with me and I do not fear.
+
+tagLoreObj_AreaDCultist_NoteA04Name=The Final Seal
+tagLoreObj_AreaDCultist_NoteA04Text=At last we stand before the blood soaked gates of victory. The Loghorrean will soon be awakened and with it we shall usher in a new age. It is you, my loyal supplicants, that have paved the road to our final victory. Your dedication and sacrifice has carried us to the threshold, and I shall see us through.{^n}{^n}The ancients were determined in their construction of this final chamber. One hundred of the imperium's finest arcanists dropped dead to empower the runes which now bind the Loghorrean's tomb. They believed their sacrifice worthy, their seals impenetrable. But we have an army of thousands surging with the power of the Dead God; power that will not be contained.{^n}{^n}I have gladly put a blade to the throats of my most faithful and felt the rush of their life blood escaping; blood they have given willingly in this final hour. With the power of their blood, I have shattered the final seal and begun the ritual. Soon, the Loghorrean shall stir from its eternal slumber. The world will shudder once more under the gaze of the Mouth of Ch'thon.{^n}{^n}Let the blood flow!{^n}{^n}Thalonis, Bloodlord of Ch'thon
+
+
 
 
 
@@ -956,6 +1095,9 @@ tagNPC_MerchantA04=以赛亚·瑞丹
 tagStoreTitle_MerchantA04A=特殊货物商人
 tagStoreTitle_MerchantA04B=收集品商人
 
+tagNPC_MerchantA05=Pavill
+tagStoreTitle_MerchantA05=Black Legion Wares
+
 tagNPC_MerchantB01=本内瓦德
 tagStoreTitle_MerchantB01=奇货商人
 
@@ -980,8 +1122,12 @@ tagStoreTitle_SmugglerA01=走私者
 tagNPC_SmugglerA02=哈里
 tagStoreTitle_SmugglerA02=走私者
 
-tagNPC_ReallocatorA01=马隆
-tagStoreTitle_ReallocatorA01=灵魂向导
+tagNPC_SmugglerA03=澳格瓦德
+tagStoreTitle_SmugglerA03=走私者
+
+
+tagNPC_ReallocatorA01=Sahdina
+tagStoreTitle_ReallocatorA01=Spirit Guide
 
 tagNPC_InventorA01=达莱特
 tagStoreTitle_InventorA01=发明家

@@ -15,7 +15,7 @@ The Order does not wish to entrust its tasks to someone who has allies among the
 离开赏金桌。
 你已经在执行一项死亡守夜人教团的赏金任务了。
 离开赏金桌。
-The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
+The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
 看一眼赏金任务。
 你已经完成了所有可以领取的死亡守夜人教团的赏金任务。
 离开赏金桌。
@@ -61,7 +61,7 @@ Legends say that ghouls were once humans. Humans twisted by madness and obsessed
 离开赏金桌。
 下一个赏金任务。
 
-The Chosen of Kymon have deployed one of their most powerful agents to face us in battle. Her name is Sister Bravna, the Skybreaker.{^n}{^n}Show the Chosen that even their most powerful champions cannot stand against the masters of death. To set an example, we shall raise her corpse to serve as a pathetic skeletal minion.{^n}{^n}Our material stores are at the disposal of the champion that ends her.
+The Chosen of Kymon have deployed one of their most powerful agents to face us in battle在哈伦堡. Her name is Sister Bravna, the Skybreaker.{^n}{^n}Show the Chosen that even their most powerful champions cannot stand against the masters of death. To set an example, we shall raise her corpse to serve as a pathetic skeletal minion.{^n}{^n}Our material stores are at the disposal of the champion that ends her.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -91,12 +91,12 @@ A Reanimator walks the halls of 典狱长的实验室 with an uncanny connection
 离开赏金桌。
 下一个赏金任务。
 
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering 古代墓地. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
+Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering the Black Sepulcher in the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
 
-The Aetherials have proven to be a curious enemy, their powers contending with our own, but we must never let our guard down around the Cult of Ch'thon.{^n}{^n}Their summoners are capable of bringing horrific creatures into this world, but their leader, one Karroz the Sigil of Ch'thon, brings forth the worst. One of his personal pets, 纳尔·萨若斯, has an insatiable appetite for human flesh. Horror stories are told of it single-handedly devouring every inhabitant of Darkvale prior to the cult taking the village and the gates beyond.{^n}{^n}Anyone willing to take on this monstrosity will be amply rewarded with materials from our stores.
+The Aetherials have proven to be a curious enemy, their powers contending with our own, but we must never let our guard down around the Cult of Ch'thon.{^n}{^n}Their summoners are capable of bringing horrific creatures into this world, but their leader, one Karroz the Sigil of Ch'thon, brings forth the worst. One of his personal pets, 纳尔·萨若斯, has an insatiable appetite for human flesh. Horror stories are told of it single-handedly devouring every inhabitant of Darkvale prior to the cult taking the village and the gates beyond.{^n}{^n}Anyone willing to take on this monstrosity at the Darkvale Gate will be amply rewarded with materials from our stores.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。
@@ -141,7 +141,7 @@ Dark times are ahead. The world is in ruins and it is up to us to restore the br
 离开赏金桌。
 下一个赏金任务。
 
-The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
+The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
 
 离开赏金桌。
 The Keeper of Tomes does not yet trust you to handle important Order duties.{^n}{^n}A Respected reputation is required to access the Bounty Table.

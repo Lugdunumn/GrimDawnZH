@@ -1,8 +1,10 @@
 The Exile
 The Aetherial Witch
 Speak to Exile
+Captain Reave of the Black Legion has determined that all of the Legion's recent troubles stem from the arrival of an aetherial witch in their midst. He is under strict orders not to harm Anasteria, but you are under no such obligation. Head into the Fort Ikon prison and deal with this traitorous wretch.
 
 
+Speak to Anasteria at the Fort Ikon Prison
 
 
 
@@ -11,16 +13,16 @@ Speak to Exile
 
 
 Kill Exile
+You have spoken with Anasteria and agreed with Reave's assessment. Anasteria needs to die.
 
 
-
-
+Slay Anasteria
 
 
 
 Speak to Captain
-
-
+You have slain the Aetherial witch Anasteria. Report back to Captain Reave at Fort Ikon of your success.
+Report to Captain Reave at Fort Ikon
 
 
 

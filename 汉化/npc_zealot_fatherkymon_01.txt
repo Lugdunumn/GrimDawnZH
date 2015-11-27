@@ -1,4 +1,11 @@
 Father Kymon
+And now you understand that I did what I had to.{^n}{^n}The Loghorrean is just one of countless terrors under the command of Ch'thon.
+Perhaps, but was the price you paid too high?
+Maybe so, but we must all live with the decisions we make.{^n}{^n}I will die knowing that I battled one terror with the aid of another, but so long as Cairn survives, the sacrifice will be worth it.
+We shall see.
+
+Perhaps, but are still a traior.
+I will have no part in your delusions.
 I am sorry to have burdened you with my secret, but you deserved to know the truth.
 Kymon, what have you done!
 What I had to in order to help save our species. The Primordial gods are fickle, but they despise Ch'thon and his manifestations.{^n}{^n}Though my fate may be sealed, at least I will use this power to redeem humanity.{^n}{^n}Do not speak of this to anyone. My Chosen cannot learn that their only light is tainted with secrets.{^n}{^n}Humanity must have hope.
@@ -14,7 +21,7 @@ You are a fool. I'm leaving.
 You cannot possibly know what this thing wants.
 Perhaps not, but I do know that it craves the destruction of Ch'thon, just as we do; and I do know that it has the power to help us.
 What was the Eye really for?
-It may be difficult to fathom, but Korvaak once walked among us, countless centuries ago. The Eye is but a piece of his last manifestation.{^n}{^n}Korvaak wishes to gather the pieces of himself that were lost to him, to consolidate his power, I presume.
+It may be difficult to fathom, but Korvaak once walked among us, countless centuries ago. The Eye is but a piece of his last manifestation.{^n}{^n}Korvaak wishes to gather the partsof himself that were lost to him, to consolidate his power, I presume.
 
 
 We will regret this.
@@ -66,40 +73,40 @@ I thank you. Empyrion thanks you.{^n}{^n}You have been a devout servant, and you
 Very well.
 Have you recovered the relic?
 Where should I go?
-The tomb is in the Asterkarn Mountains, to the north of Darkvale.{^n}{^n}It is Empyrion's will that you do this. Recover the Eye and return it to me.
+The tomb is in the Asterkarn Mountains, to the north of Darkvale. The Eye is hidden from mortal hands behind a false wall. Look for a torch that has lost its flame.{^n}{^n}It is Empyrion's will that you do this. Recover the Eye and return it to me.
 Alright.
 Not yet.
 You have been a loyal follower and your zealous dedication to our cause is admirable, even beyond my first Chosen.{^n}{^n}It is Empyrion's will that you handle this task personally.
 I would be honored.
-I must be frank with you, the burden I am about to place upon you is a difficult one and I can only entrust it to you.{^n}{^n}Far to the north, in the Asterkarn Mountains beyond Darkvale, there is a tomb which houses a powerful relic known as the Eye of Korvaak.{^n}{^n}Empyrion has revealed its location to me after a lengthy meditation. The Eye is said to act as a lens into a man's soul. Using it, I can peer into the hearts of my Chosen and separate the truly devout from the false.Acquire the Eye for me, and I shall allow you to enter my study and learn all that I have learned.
+I must be frank with you, the burden I am about to place upon you is a difficult one and I can only entrust it to you.{^n}{^n}Far to the north, in the Asterkarn Mountains beyond Darkvale, there is a tomb which houses a powerful relic known as the Eye of Korvaak.{^n}{^n}Empyrion has revealed its location to me after a lengthy meditation. The Eye is said to act as a lens into a man's soul. Using it, I can peer into the hearts of my Chosen and separate the truly devout from the false.The Eye is hidden from mortal hands behind a false wall. Look for a torch that has lost its flame. Acquire the Eye for me, and I shall allow you to enter my study and learn all that I have learned.
 I will recover the relic.
 Sounds too dangerous.
 I already have this relic.
 
 I would rather not.
-You are a valued ally of the Chosen, but the matters ahead are of critical importance and you have not yet proven your complete dedication to our cause.{^n}{^n}Come back to me when you've proven your loyalty.
+You are a valued ally of the Chosen, but the matters ahead are of critical importance and you have not yet proven your complete dedication to our cause.{^n}{^n}Come back to me when you've proven your loyalty to the rest of the Chosen, for without their approval, I cannot send you to do what must be done next.
 What can I do to prove myself?
 Crush our foes, the Order of Death's Vigil or the Chthonians that defile our world, in the name of Empyrion.{^n}{^n}You could check the Bounty Table in case any of my Chosen have matters in which they could use your assistance.
 Ok, I will.
 Very well.
-Turn in
-Words
-Words
+Have you braved the Obsidian Throne?
+Yes, Bane'Gargoth lies dead.
+You are a brave soul, and your loyalty to me knows no limits.{^n}{^n}When the time is right, you shall become my agent of righteousness. With your help, I will banish the darkness from this world and restore Cairn to greatness once more!
 What is your will?
 
 
 I will return later.
-In Progress
-Directions?
-Words
+Have you braved the Obsidian Throne?
+Where is it located?
+The entrance to that forsaken place is through a rift that has torn open at the Plains of Strife, to the north of Fort Ikon.{^n}{^n}I wish you luck, brave Chosen.
 I will go there now.
 Not yet.
-WORDS at 5000 rep
+Before I entrust you with a mission of utmost importance, your mettle must first be tested through a veritable trial by fire.{^n}{^n}Are you prepared for what's to come?
 What is Empyrion's will?
-Words
-Words
-Words
-WORDS
+There are many layers to the forsaken void, filled with ashes and misery, but one such place houses a fiend known as Bane'Gargoth.{^n}{^n}From within its Obsidian Throne, this void spawn sends forth his armies to spread havoc and suffering upon Cairn. This will not stand.{^n}{^n}Prove your worth to me, Chosen. Enter the void through a rift at the Plains of Strife to the north of Fort Ikon. Brave the Forsaken Wastes and enter the Obsidian Throne. Destroy Bane'Gargoth and return to me.
+I shall slay Bane'Gargoth in your name.
+I am not entering the void.
+I have already slain this creature.
 
 I will return as soon as I can.
 Please leave me, my Chosen, for I must meditate on Empyrion's will.

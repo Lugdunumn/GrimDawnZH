@@ -1,0 +1,28 @@
+Weapons Master Edric
+I don't know what you think you are doing, but what good do you think those supplies will do when the Legion falls and those people at Homestead are left to fend for themselves?{^n}{^n}We are humanity's last line of defense and you crippled us.
+The Legion will get by.
+Those people needed the supplies more.
+Thank you for recovering those supplies. They will be useful in patching up our damaged defenses.
+
+I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
+Goodbye.
+Have you recovered the supplies?
+Yes, here they are.
+Ah, excellent. I was afraid they had been destroyed after the recent explosions down in the armory.{^n}{^n}Thank you for recovering the supplies. Here, take some of this scrap. I'm sure you could use it too.
+Thank you. Make good use of those supplies.
+Have you recovered the supplies?
+Where are they again?
+The supplies were stored in the armory, on the north end of the fort. With the possessed commander trapped down there I can't just send anybody, so I'm relying on you.
+I will head there now.
+I'm still working on it.
+As you can probably guess, the fort's seen better days.{^n}{^n}It's going to take every able-bodied man and woman to bring Fort Ikon back to its former glory. Care to lend a hand?
+Sure, what do you need?
+I need someone capable to enter the armory and recover what's left of our scrap and building materials. The supplies were originally designated for Homestead, but with the recent attacks, we can't afford to spare any resources.{^n}{^n}After Lucius opened the gates and Aetherials started pouring through, I had no choice but to collapse our own gates with explosives. The repairs will take weeks, but we can't get started without those supplies.Unfortunately, the possessed commander has fled into the armory, perhaps to finish sabotaging what's left of our arsenal. I hear you are experienced with dealing with Aetherials, so I was hoping you could look into this matter.
+I will recover the supplies.
+Send someone else. I'm busy.
+I have the supplies. Here you go.
+
+
+I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
+Goodbye.
+Goodbye.

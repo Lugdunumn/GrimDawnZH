@@ -1,0 +1,34 @@
+Spellbreaker Moira
+The Legion is indebted to you. It would be an honor to fight by your side.
+Farewell.
+Few would brave the Immolation as you have.{^n}{^n}The Legion thanks you.
+Farewell.
+Moira of the Spellbreaker Division, at your service.
+
+Farewell.
+Have you braved the Immolation?
+The Herald of Destruction lies dead.
+You've done us all a great service. With the Herald gone, the Aetherials will not be able to spread their aetherfire in the south.{^n}{^n}I'd also like to personally thank you for avenging my fellow soldiers. I'll sleep easier knowing the thing that slaughtered them is gone.
+Farewell.
+Have you braved the Immolation?
+Where is it located?
+The Aetherials have infested an area of Deadman's Gulch we have begun calling the Immolation. It is a terrible place of aetherfire and corruption. One of their obelisks, the Herald of Destruction, is there.
+I will take care of it.
+I'm still on it.
+Sir, Moira of the Spellbreaker Division reporting.{^n}{^n}I was wondering if I could have a moment of your time.
+What do you need?
+Before I arrived at Fort Ikon, I was assigned to a division marching south towards Old Arkovia. With the bridge collapsed, we had no choice but to take Deadman's Gulch.{^n}{^n}We never would have suspected the enemy to be there in such numbers. The Aetherials were heavily entrenched in the crags, busily spreading their aetherfire using a massive obelisk known as the Herald of Destruction. The place was turned into a literal hell. We now call it the Immolation.Few of us made it out of there alive, but we managed to seal the mine shaft. I've heard word of your exploits. If you could enter the Immolation and destroy the Herald, then you will severely cripple the enemy's ability to terraform our world, and I will have revenge for all the lives lost in my battalion.{^n}{^n}Will you do the Legion this service?
+I will deal with this threat.
+I'm sorry, I cannot help you.
+I have already slain the Herald of Destruction.
+
+What's a Spellbreaker?
+We are Legion-sanctioned arcanists specialized in disrupting enemy spellcasters. Our primary duty is the nullification and elimination of enemy arcane capabilities.{^n}{^n}With the Aetherial threat growing, our ranks are stretched all too thin.
+What did you need from me?
+Intriguing.
+Not at this time.
+Moira of the Spellbreaker Division, at your service.
+What's a Spellbreaker?
+We are Legion-sanctioned arcanists specialized in disrupting enemy spellcasters. Our primary duty is the nullification and elimination of enemy arcane capabilities.{^n}{^n}With the Aetherial threat growing, our ranks are stretched all too thin.
+Intriguing.
+Farewell.

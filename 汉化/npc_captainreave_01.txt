@@ -1,0 +1,57 @@
+Captain Reave
+I can't believe you are siding with Creed on this.{^n}{^n}Anasteria is a traitor. Keeping her around will only lead to our doom.
+Anasteria has helped save countless lives.
+A ruse to lure us into a false sense of comfort. She reeks of Aetherial corruption, not to mention she is a witch.{^n}{^n}Alas, I am honor-bound not to act upon this risk. I pray I am wrong.
+I am convinced that you are.
+Time will tell.
+We shall see.
+Glad to have you here. You do what must be done.
+Farewell.
+This isn't a good time. We have an incursion to deal with.
+Farewell.
+Have you cleared the Tomb of Korvaak?
+Yes, the cultists are dead.
+Excellent work. We don't need them sniffing around our back yard.{^n}{^n}Who knows what they could have found down there.
+It's probably best we never find out.
+Have you cleared the Tomb of Korvaak?
+Where is it again?
+The Tomb of Korvaak is out in the wilderness, somewhere in the Asterkarn Mountains to the south of Fort Ikon.{^n}{^n}Hardly anyone pays attention to the old ruins out there, but the cult is sniffing around for a reason and we cannot stand idly by and let them dig up something horrid.
+I will head there now.
+Not yet.
+With that wretch dead, we can turn our attention to other concerns.{^n}{^n}Are you up for some field work?
+What requires my attention?
+There are reports of cultist activity around an old tomb out in the Asterkarn Mountains. We always figured those tombs were nothing but ruins, but anything that attracts this much attention from the Cult of Ch'thon demands that we act.{^n}{^n}Head south out of Fort Ikon and enter the Tomb of Korvaak. Deal with any Bloodsworn Priests and Doomsayers that you find in there. The tomb is out in the wilderness, away from the main road.
+I will deal with the cultists.
+I can't right now.
+I have already cleared out the tomb of the cultists.
+
+Perhaps later.
+Have you dealt with the witch yet?
+Yes, Anasteria is dead.
+I say good riddance. I knew I could count on you.{^n}{^n}With that wretch dead, we can turn our attention to other concerns. Are you up for some field work?
+What do you need?
+
+Perhaps later.
+Have you dealt with the witch yet?
+Where is she?
+Anasteria is in the prison, right here at the fort.{^n}{^n}I would have preferred her to be in one of the cells, but she was given the warden's office.
+I will speak to her.
+Not yet.
+You're not from the Legion.{^n}{^n}Perhaps there is something you could help me with, something that can't involve the troops.
+What is it?
+With the recent Aetherial attack, I cannot allow this deception to carry on any longer. Anasteria, the witch who was allowed to enter our fold, must be put down.{^n}{^n}The Inquisitor insists that she not be harmed, but the trust he has in her is misplaced. Commander Lucius was an honorable man and a dedicated soldier, up until he was possessed by the Aetherials. I refuse to believe that Anasteria's witchcraft was not involved in his corruption.As we are all under strict orders not to harm her, I need someone outside the Legion, such as yourself, to handle this for me. Will you enter the fort prison and deal with the wretched witch?
+I will deal with the witch.
+This isn't my problem.
+Why does Creed want her kept safe if she is dangerous?
+The Inquisitor is convinced that Anasteria has valuable information, but I've found her to be nothing but a web of lies.{^n}{^n}She is a witch tainted by the Aetherials and needs to be exterminated.
+Alright, I will deal with her.
+This isn't my problem.
+
+You let a witch into the fort?
+I always believed it was a mistake, but Creed and Commander Lucius wished to hear her out when she arrived at our gates with her hands above her head in surrender.{^n}{^n}She somehow earned their trust and was allowed to roam freely, spreading her Aetherial taint throughout the fort and weakening our resolve.{^n}{^n}It is thanks to her actions that Lucius became possessed, I'm sure of it.
+Alright, I will deal with her.
+This isn't my problem.
+
+I don't want to get involved.
+This isn't a good time. We have an incursion to deal with.
+Farewell.

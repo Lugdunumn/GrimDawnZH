@@ -1,0 +1,312 @@
+Anasteria
+And so here we are, a mortal and an Aetherial. Unlikely allies, yes?
+I have some questions.
+I am certain that you do.
+Why would you betray your own kind?
+Before all this, I was tasked with conquering the north lands, starting with Homestead. But inhabiting a human has opened my eyes to an existence I had thought futile and temporary. Human lives, despite being so brief and ultimately pointless, are so rich and full of wonder.{^n}{^n}I have come to develop feelings for your species, a concept most Aetherials cannot even fathom. Ultimately, I see our domination of humanity as cruel and unjust. I could no longer contribute to your assimilation.
+I have another question.
+How...thoughtful.
+Why are you helping us?
+I have come to develop feelings for your species, a concept most Aetherials cannot even fathom.{^n}{^n}It would be a shame to turn you into breeding stock when instead you could become valuable allies in the war against the void.{^n}{^n}I may not be able to sway the others, but I can help you survive the coming conflict. Believe me, the worst is yet to come.
+I have another question.
+That's not very comforting.
+What is an Aetherial really?
+We were the servants of the primordial gods, tossed aside like some proverbial trash when they were through with us.{^n}{^n}They banished us into the Aether, lost to wander across the vast emptiness of the stars.{^n}{^n}Eventually, we discovered a way to break through the veil and manifest in the physical realm. It was then that we learned to control the creations of the gods and take on physical form.{^n}{^n}But our actions had attracted the attention of others, the corrupted manifestations of the dead god's blood. And so began a conflict that has spanned a thousand worlds.
+There are other worlds?
+Yes, many have burned in our path.{^n}{^n}Yours is just the latest in an endless stream of destruction as we battle against the spawn of the void.{^n}{^n}Sometimes we win, and the world becomes a breeding ground for our hosts. But the ones we lose...they become barren pits of ash and suffering, a sacrifice to the dead god.
+
+I have another question.
+Neither sounds very comforting.
+You've done this on other worlds?
+A tragic necessity.{^n}{^n}Ch'thon claws from the eternal void, desperate to manifest itself once more. Should the dead god ever return, existence shall be unmade in its wake.{^n}{^n}The Aetherials wish to ensure that never happens. In a twisted way our goals align, though that may be difficult to see past the slaughter and possession.
+
+I have another question.
+Yeah, we're not big on slaughter and possession here.
+That's not very comforting.
+I have another question.
+I...see.
+Do you know anything about the Aetherial that possessed me?
+I'm afraid not. Based on your history, it is clear that it survived the hanging. It is quite rare for an Aetherial to die when the host perishes.{^n}{^n}The one that claimed you is still out there, of that you can be certain.
+I have another question.
+Then I will find it.
+A shame that it survived.
+Nevermind.
+It is strange to even consider.
+Farewell.
+Your insistence on violence is wearing out my patience.{^n}{^n}Leave now. Perhaps some day you may return here with a more open mind.
+Don't count on it.
+Perhaps.
+What is this, a human, and yet...{^n}{^n}Speak with me another time, perhaps?
+Um, goodbye.
+Have you brought me that fool's head?
+Yes, take it.
+Ah, Thelon. It has been some time since we last spoke.{^n}{^n}You've spent too long in one body, grown comfortable. I'm sure you never even suspected...
+Um, do you know this Aetherial?
+Yes, for countless eons. He and I were in the first wave to arrive upon Cairn.{^n}{^n}But once we took on bodies, our interests had...diverged.{^n}{^n}Spend long enough in a human, and you're bound to start thinking like one.
+So you lied to us.
+Creed has suspected for some time. I imagine he always knew, but the information I've presented put his morals at odds with necessity.{^n}{^n}In the end, are the lives saved not worth a few lies? Would you have listened if I had told you the truth? Or would you have killed my host, as Reave wanted?
+Perhaps you're right. We would have assumed the worst.
+And you would have been right to. My kind has caused humanity nothing but grief and suffering.{^n}{^n}I...wish to undo that harm, but I cannot do so alone.
+
+I hope I'm not wrong to trust you.
+I need to process all this.
+
+I would have preferred the truth.
+I need to process all this.
+
+I want nothing more to do with you.
+I need to process all this.
+Have you brought me that fool's head?
+Where is the Archivist again?
+Archivist Thelon is in charge of enslaving the populace in AREA, to the north of Burrwitch. It is beyond the large gates. You will require a Skeleton Key.{^n}{^n}He will not be hard to find, but that does not mean you should underestimate him.
+I will be off then.
+Not yet.
+The obsidian shard you brought me was quite useful in my studies. I thank you for bringing it to me.{^n}{^n}But now another matters has come to my attention.
+And that is?
+I have uncovered the location of one of our enemies: Archivist Thelon. He is a powerful Aetherial that was instrumental in the initial attacks on Erulan.{^n}{^n}He is in AREA to the north of Burrwitch, just beyond the sealed gates, overseeing the assimilation of every free soul in the region. Enter the fallen city and track down Thelon. Bring me his head so that I may...study it.
+I will get you Thelon's head.
+I am not wading into Aetherial territory for you.
+I have slain Thelon. here is his head.
+
+And what have you learned from the shard?
+Extended exposure to the void? Not recommended. It toys with the mind and corrupts the flesh. But I suppose it is a bit late to say that now.{^n}{^n}You have a tendency to survive things that would kill lesser mortals. I suppose you should feel fortunate.
+So what is this other matter?
+I see. We'll talk later.
+Maybe later.
+This is a fine sample from the void. It will take me some time to uncover all of its properties.{^n}{^n}Come back later and we shall speak of another matter.
+
+Very well.
+This is a fine sample from the void. It will take me some time to uncover all of its properties.{^n}{^n}Come back later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
+
+Very well.
+You have brought me obsidian, I can sense it.
+Yes, here it is.
+Thank you. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.{^n}{^n}But while you were gone, another matter of some import has come to my attention.
+And that is?
+quest 5
+We will talk of this later.
+Thank you. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.
+Good luck with that.
+Thank you. What a fine sample. It absolutely reeks of the corrupting powers of the void!{^n}{^n}I will have to handle this one carefully.
+Good luck with that.
+You've returned, but without the obsidian.{^n}{^n}Do you need something?
+Where should I be looking?
+I must have the most vile, concentrated obsidian you can find. That can only be acquired within the Bastion of Chaos, which you can enter through a rift at the Necropolis to the north. Seek out a creature called Galar'Bargok. It dwells beyond the chthonian seal, which will require a Skeleton Key to break.
+I'll be off then.
+Not yet.
+The tome you have brought me was quite informative, but now I must have something that even you may not be able to procure.
+What is it this time?
+In order to learn about our chthonic enemies, I must acquire something from the void itself. Obsidian is frequently found in the depths of the chthonic plane, but it can't just be any old chunk of it.{^n}{^n}No, I must have the most vile, concentrated obsidian you can find. That can only be acquired within the Bastion of Chaos, which you can enter through a rift the cult has opened at the Necropolis. Seek out a monstrous creature called Galar'Bargok and bring me the obsidian it possesses.
+I will acquire the Obsidian.
+Find someone else to do your dirty work.
+I have the sample you require.
+
+
+
+What did you do with the tome?
+I'm afraid not much. The Arkovians had some degree of divination, but nothing that foresaw the events we are living through today.{^n}{^n}They were far too focused on furthering their own wealth to stare into the wild strands of fate that have shaped the Grim Dawn.
+What did you need?
+That is a shame.
+We'll talk later.
+The tome you have brought me will take some time to study.{^n}{^n}Come back later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
+
+Alright.
+Have you the tome I require?
+Yes, here it is.
+Wonderful. This archive is a wondrous fount of knowledge that dates back all the way to the golden age of Arkovia.{^n}{^n}It will take me some time to study thoroughly.{^n}{^n}In the meantime, there is another thing I require, but I am afraid that even you may not be able to procure it.
+What is it this time?
+
+We'll talk later.
+Wonderful. This archive is a wondrous fount of knowledge that dates back all the way to the golden age of Arkovia.{^n}{^n}It will take me some time to study thoroughly.{^n}{^n}Speak to me later, perhaps once you've dealt with more of the Aetherials and Chthonians ravaging the world.
+Alright.
+Have you the tome I require?
+Where is the tome?
+The Archive of Fates Untold is in the possession of a long dead Arkovian called the Shade of Elnadrin. You must enter the Steps of Torment in the Broken Hills, cross the ancient gates and destroy the Shade. Acquire its tome and bring it back to me.
+I will look for it.
+
+I'm still working on it.
+Ah, my only friend in this accursed fort has returned.{^n}{^n}Perhaps you will aid an old crone in her search for answers?
+What do you need?
+It is believed that the Arkovians had access to powerful divination magic, but the technique became lost when their civilization succumbed to the necromancer's curse.{^n}{^n}I believe that we could recover this practice with the right information. A tome known as the Archive of Fates Untold is in the possession of an Arkovian named the Shade of Elnadrin.{^n}{^n}You must enter the Steps of Torment in the Broken Hills, cross the ancient gates and banish Elnadrin. Acquire its tome and bring it back to me.
+I will acquire the tome.
+I'm not interested in going there.
+Is this the tome you seek?
+
+
+Not right now.
+quest 2 done, not enough rep
+
+
+Have you slain the spawn of Beronath?
+Yes, here is its fang.
+The creature you felled must have been quite formidable to be armed with such a fang.{^n}{^n}I thank you for this, but perhaps you would be willing to help this old crone once more?
+What do you need?
+
+Not right now.
+The creature you felled must have been quite formidable to be armed with such a fang.{^n}{^n}I thank you for this. Come back and speak with me again some time.
+Farewell.
+Have you slain the spawn of Beronath?
+Where is the Bonehunter again?
+Kalis Ka the Bonehunter dwells in a den deep within the East Marsh, east of Burrwitch.{^n}{^n}Slay the creature and bring me its fang.
+I will hunt it down.
+
+I'm still on the hunt.
+Say, have you ever heard the tale of the great beast, Beronath?
+No, but I'd like to hear it.
+It is a legend as old as time, it seems, with countless retellings of different heroes and sometimes even different creatures. In each of them, a great hero tracks down a monster that's been tormenting local villages.{^n}{^n}The hunt takes the hero ten long years through forgotten lands and to far-off shores, but it always ends atop a mountain where Beronath is impaled upon a spear of bone. The beast plummets from the peak and from its spilled blood were born the fiends and monsters we dread to this day.{^n}{^n}The details are muddled in folklore, but one fact remains constant: Beronath once lived. To have a piece of such ancient lineage could prove useful to my spellwork, and I believe I know where one such spawn of Beronath dwells.{^n}{^n}The people of Burrwitch call it Kalis Ka the Bonehunter. It hunts within the area called East Marsh, but makes its dwelling up in the crags. Track down this creature for me and slay it. Then harvest one of its fangs and bring it to me.
+I will acquire the fang for you.
+Sounds like too much trouble.
+I already have such a fang.
+
+
+No. How is it relevant to our situation?
+We are truly in dark times when one cannot share stories with another.{^n}{^n}Since all you seem to care for is carnage, I believe I know where the mythical beast's spawn lives.{^n}{^n}Does that peak your interest?
+Alright, let's hear it.
+Perhaps another time.
+Perhaps another time.
+Do you have the materials?
+Yes, here they are.
+Wonderful. These should last me for some time.{^n}{^n}Say, have you ever heard the tale of the great beast, Beronath?
+No, but I'd like to hear it.
+
+No. How is it relevant to our situation?
+
+Perhaps another time.
+Do you have the materials?
+Where should I be looking?
+Ancient Hearts beat within many of Cairn's most dangerous wildlife. Even the voracious dermapterans carry within them strong hearts.{^n}{^n}The Blood of Ch'thon is a vile substance that you will find amongst the Cult of Ch'thon's elite, or from the most powerful fiends of the void.{^n}{^n}Tainted Brain Matter, well...you have to slay a being possessed by a powerful Aetherial. I'd settle for your brain, but I have a feeling that you like where it is right now just fine.
+Alright. I will gather these.
+I have some questions.
+What would you like to know?
+Why do the soldiers in the Legion despise you so much?
+They consider my abilities to be...unnatural. The power to divine the future is a skill attributed to witches, a term that carries with it much stigma in Erulan.{^n}{^n}The soldiers would much rather see me burnt at the stake than to see me standing at the war table.
+Then why are you helping them?
+Is it so strange to think that I wish to do my part? The Black Legion might well be humanity's last hope for survival.{^n}{^n}I wish to ensure that this hope remains alive, even if they may hate me for it.
+I have another question.
+A noble goal.
+I have another question.
+That is harsh.
+So, you're a witch?
+Not a term I prefer, but yes, that is what they call me.{^n}{^n}I am a sorceress, skilled in manipulating the Aether to my will, but I have also studied the art of divination, which I suppose is where the superstitious soldiers draw their ire.{^n}{^n}Everybody claims they want to know the future, until they actually hear it. It is difficult to separate the bad from the good when so much pain awaits a mortal in their lifetime.
+I have another question.
+Interesting.
+What do you do here?
+Much of what I used to do before I came to the Legion. I try to divulge the future from the rituals taught to me by my predecessors.{^n}{^n}I admit, I am not always right in my divinations, but none in the Legion can deny the information I've provided, at least not without denying the lives that were saved.
+Your predecessors?
+What, do you think I just sprouted from the earth and knew all that there is to sorcery?{^n}{^n}I was taught the art through years of arduous training and practice.
+I have another question.
+Fair point.
+I have another question.
+I see.
+Nevermind.
+Not yet.
+Now that we've put that unpleasantness behind us, I was hoping you could hear me out.{^n}{^n}Nobody in the Legion will help me, but perhaps you will be more understanding?
+What's wrong?
+With all the commotion during the Aetherial attack, I'm afraid that most of my personal stores were damaged, or even destroyed.{^n}{^n}If I am to continue my work here, I must have another Ancient Heart, Blood of Ch'thon and Tainted Brain Matter. They are pivotal to my research, but acquiring them on my own is simply out of the question for this old crone.{^n}{^n}Will you be so kind as to gather these materials for me?
+I will gather these for you.
+I'm not your running your errands for you.
+I have the objects you require.
+
+Alright, but where would I find them?
+Ancient Hearts beat within many of Cairn's most dangerous wildlife. Even the voracious dermapterans carry within them strong hearts.{^n}{^n}The Blood of Ch'thon is a vile substance that you will find amongst the Cult of Ch'thon's elite, or from the most powerful fiends of the void.{^n}{^n}Tainted Brain Matter, well...you have to slay a being possessed by a powerful Aetherial. I'd settle for your brain, but I have a feeling that you like where it is right now just fine.
+I will gather these for you.
+I'm not your running your errands for you.
+I have the objects you require.
+
+I have some questions first.
+What would you like to know?
+Why do the soldiers in the Legion despise you so much?
+They consider my abilities to be...unnatural. The power to divine the future is a skill attributed to witches, a term that carries with it much stigma in Erulan.{^n}{^n}The soldiers would much rather see me burnt at the stake than to see me standing at the war table.
+Then why are you helping them?
+Is it so strange to think that I wish to do my part? The Black Legion might well be humanity's last hope for survival.{^n}{^n}I wish to ensure that this hope remains alive, even if they may hate me for it.
+So what did you need?
+I have another question.
+A noble goal.
+So what did you need?
+I have another question.
+That is harsh.
+So, you're a witch?
+Not a term I prefer, but yes, that is what they call me.{^n}{^n}I am a sorceress, skilled in manipulating the Aether to my will, but I have also studied the art of divination, which I suppose is where the superstitious soldiers draw their ire.{^n}{^n}Everybody claims they want to know the future, until they actually hear it. It is difficult to separate the bad from the good when so much pain awaits a mortal in their lifetime.
+So what did you need?
+I have another question.
+Interesting.
+What do you do in here?
+Much of what I used to do before I came to the Legion. I try to divulge the future from the rituals taught to me by my predecessors.{^n}{^n}I admit, I am not always right in my divinations, but none in the Legion can deny the information I've provided, at least not without denying the lives that were saved.
+Your predecessors?
+What, do you think I just sprouted from the earth and knew all that there is to sorcery?{^n}{^n}I was taught the art through years of arduous training and practice.
+So what did you need?
+I have another question.
+Fair point.
+So what did you need?
+I have another question.
+I see.
+Nevermind. What did you need?
+Nevermind.
+I can't help you right now.
+Strange, I cannot help but feel as if we've met before, perhaps on another strand of fate?{^n}{^n}I wonder, what will fate hold for us this time?
+We were friends, but I'm not so sure anymore.
+Do not be swayed by the wishes of the paranoid and the afraid.{^n}{^n}Make you choices with confidence.
+I don't trust you anymore. (Reset Faction)
+
+Perhaps we shall remain friends.
+I need time to think about this.
+We were friends, and friends we shall remain.
+Splendid. Then I hope you can help me out, as no one in the Legion will.{^n}{^n}Perhaps you will be more understanding?
+What's wrong?
+
+I can't help you right now.
+I need time to think about this.
+Strange, I cannot help but feel as if we've met before, perhaps on another strand of fate?{^n}{^n}I wonder, what will fate hold for us this time?
+I thought you a traitor, but now I'm not so sure.
+Then perhaps this is your chance to make things right?
+I wish to make things right. (Reset Faction)
+
+No. Time to die, traitor. (Attack)
+I need time to think about this.
+Time to die, traitor. (Attack)
+I need time to think about this.
+What is this? A human, and yet not. There is an aura about you, stranger, but I cannot sense the spirit.{^n}{^n}Tell me, what fate has befallen you?
+I was possessed by an Aetherial, but it left me at the hangman's noose.
+What a marvel you are. They say that to become one with an Aetherial you must lose all that defines you, but it seems there is more to the mystery than rumor lets on?{^n}{^n}The Aether holds many secrets, but few are held from me. There are those who fear such power, but...that is why you're here. No?
+Why should I trust you?
+
+
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+Captain Reave wants you dead.
+I would act surprised, but that man's made it no secret that he despises me.{^n}{^n}He branded me a witch and called for my execution from the outset.
+Why does he hate you so?
+I have great talent for manipulating the Aether, and I have dabbled in divination, which I suppose is where the superstitious soldiers draw their ire.{^n}{^n}Everybody claims they want to know the future, until they actually hear it. It is difficult to separate the bad from the good when so much pain awaits a mortal in their lifetime.
+And why should I trust you?
+I assure you, I came to the Legion with the full intent of helping them battle against the Aetherial invasion.{^n}{^n}My information has already saved many lives, but Captain Reave and the others refuse to see it.{^n}{^n}Will you join them in condemning me for what I do as well?
+Very well. I will defy Reave.
+Wonderful. Now that we've put this unpleasantness behind us, I was hoping you could hear me out.{^n}{^n}Nobody in the Legion will help me, but perhaps you will be more understanding?
+What's wrong?
+
+I can't help you right now.
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+
+
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+He says that you led to Lucius' possession, is that true?
+I am afraid that the blame lies solely in the one who did the possessing, though a weak mind greatly facilitates the process, to be sure.{^n}{^n}I have had nothing to do with the unfortunate Commander's fall from grace.
+Why should I trust you?
+Why does Reave hate you so?
+
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+Why are you under Creed's protection?
+The good Inquisitor considers my knowledge of the Aether and the ability to foresee the Aetherial's attacks to be of great value, something many in the Legion have trouble grasping.{^n}{^n}Creed has personally requested that I be kept safe, so that what I know is not lost to some soldier's wild accusations.
+Why should I trust you?
+
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+Enough talk, traitor. Time to die. (Attack)
+I need to think about this.
+What is this, a human, and yet...{^n}{^n}Speak with me another time, perhaps?
+Um, goodbye.

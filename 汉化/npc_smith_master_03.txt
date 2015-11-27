@@ -1,0 +1,18 @@
+Angrim
+If you need something, speak Captain Reave.
+Alright.
+You took my smithing hammer and left me for dead.{^n}{^n}We have nothing to say to each other.
+I...alright.
+You again. You already forced me to give up my hammer, is there something else left which you want to take?{^n}{^n}We have nothing to say to each other.
+Alright.
+Ah, it's you again.{^n}{^n}I trust that my apprentice is making good use of the Malleum Menhir?
+How did you make it out here?
+Well, I traveled north through the wilderness, careful to avoid any settlements that might attract Aetherial attention.{^n}{^n}Eventually stumbled upon a Legion camp, enlisted on the spot. We were recalled back to Fort Ikon several days later.{^n}{^n}Had a few close calls along the way, but here we are.
+Glad you made it.
+How are you faring without the hammer?
+It is a shame that my finest work is behind me, but I can still procure fine armor and weapons for these brave men and women.{^n}{^n}I do the best I can with what I've got.
+Take care.
+Yes, his work is helping out the people of Devil's Crossing.
+I have to go.
+If you need something, speak Captain Reave.
+Alright.

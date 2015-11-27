@@ -59,6 +59,35 @@
 <h5>Jon "Jaknet" Kent
 <h5>Powbam
 
+<h1>特别鸣谢：官网社区的翻译者们
+
+<h2>Czech Translation
+<h5>Lukáš "Lumeriol" Rajchl
+<h5>Miroslav "Iks" Kopecký
+
+<h2>German Translation
+<h5>FOE
+
+<h2>Portuguese Translation
+<h5>MagoIlusionista
+<h5>Tyzual
+<h5>Tigre
+
+<h2>Russian Translation
+<h5>Andrey "@lk0z@uru$" Chertkov
+<h5>Denis "mad_enis" Maslov
+<h5>Usov Aleksey
+<h5>Aleksey "raven" Kuk
+<h5>"Slayer Moon"
+<h5>Sergey "kapxapot" Atroshchenko
+
+<h2>Spanish Translation
+<h5>chewrafa
+<h5>cloudsefi
+<h5>Oscar "darkpadawan" Rodríguez
+<h5>Jose “kajoona” López
+<h5>Marcos “Ldtime” Ares
+
 <h3>Kickstarter "Boss" 级支持者：
 
 <h5>Douglas "Money Bags" Martin Jr.

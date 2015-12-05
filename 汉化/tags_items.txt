@@ -51,7 +51,7 @@ tagWeaponSwordC008Desc="当仅仅贿赂政敌已不足以解决问题的时候�
 tagWeaponSwordC009=火焰烙印 Flamebrand
 tagWeaponSwordC010=窃魂者 Soulthief
 tagWeaponSwordC011=燃冰 Chillblaze
-tagWeaponSwordC012=Spinecarver
+tagWeaponSwordC012=脊骨刃 Spinecarver
 tagWeaponSwordC013=暗杀者的召唤 Assassin's Calling
 tagWeaponSwordC013Desc="这把剑嵌入了一小瓶能引起麻痹并最终致死的毒液。"
 tagWeaponSwordC014=眼盲刺客的剃刀 Razor of the Blind Assassin
@@ -133,8 +133,8 @@ tagWeaponBluntC016Desc="执政官巴托雷姆的圣槌，曾用来向恶徒身�
 tagWeaponBluntC017=霜铁救世主
 
 tagWeaponBluntD001=死亡之兆 Death Omen
-tagWeaponBluntD001Desc="死亡到来的预兆。"
-tagWeaponBluntD002=冬幕节的烟火 Beacon of the Winter's Veil
+tagWeaponBluntD001Desc="死亡降临的预兆。"
+tagWeaponBluntD002=冬幕节的信标 Beacon of the Winter's Veil
 tagWeaponBluntD003=痛苦 Agony
 tagWeaponBluntD004=Herald of Blazing Ends
 tagWeaponBluntD005=德里格的瘟疫使者 Plaguebearer of Dreeg
@@ -1022,6 +1022,8 @@ tagShoulderD016=德里格的披肩 Mantle of Dreeg
 tagShoulderD017=死亡标记护肩 Deathmarked Shoulderguard
 tagShoulderD018=伊斯坎德拉的肩铠 Iskandra's Pauldrons
 tagShoulderD019=艾托斯的肩甲 Ultos' Spaulders
+tagShoulderD020=莫格卓根的披肩 Mantle of Mogdrogen
+tagShoulderD020Desc="莫格卓根在凡间的化身所穿的披肩。"
 
 tagShoulderF001=放逐者的燃烧披肩
 tagShoulderF002=放逐者的寒霜披肩
@@ -1208,14 +1210,14 @@ tagWaistC013=神射手的弹药腰带 Sharpshooter's Pouch
 tagWaistC014=天及腰带 Skyreach Sash
 tagWaistC015=暗影行者腰带 Shadowstalker's Belt
 tagWaistC016=火焰之灾束腰 Flamescourge Girdle
-tagWaistC017=军团士兵的凯旋 Legionnaire's Triumpg
+tagWaistC017=军团士兵的凯旋 Legionnaire's Triumph
 tagWaistC018=风暴之触腰链 Stormtouched Chains
 tagWaistC019=石肤束腰 Stoneskin Girdle
 tagWaistC020=缚灵者腰链 Soulbinder's Chains
 tagWaistC021=光耀丝线腰带 Blazethread Sash
 tagWaistC022=恐惧编织束腰 Dreadweave Girdle
 tagWaistC023=均衡腰带 Equilibrium Sash
-tagWaistC024=持火者的腰带 Flamekeeper's Girdle
+tagWaistC024=持火者的腰带 Flame Keeper's Girdle
 
 tagWaistD001=雾裔沼泽的荆棘腰带 Thorn Girdle of the Mystborn Glade
 tagWaistD002=断刃腰带 Blade Breaker Sash
@@ -3292,6 +3294,7 @@ tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[使用Ctrl-点击来分离堆叠的物品]
 
 #Bonuses奖励
+tagBonusLifePercentAbsPercent={^E}Restores {^H}{%.0f0}%+{%.0f1} {^E}Health {^H}+{%.0f2}% {^E}Over Time
 tagBonusLifePercentPercent={^H}+{%.0f1}%{^E}秒内{^E}回复{^H}{%.0f0}%{^E}生命
 tagBonusLifePercentAbs={^E}回复{^H}{%.0f0}%+{%.0f1}{^E}生命
 tagBonusLifePercent={^E}回复{^H}{%.0f0}%{^E}的生命
@@ -3858,8 +3861,8 @@ tagSuffixB044_Sh_A=冰河之
 
 #ItemSkills物品技能
 
-tagAutoSkillCondition01=(生命过低时有 {%d0}% 的几率施放该技能)
-tagAutoSkillCondition02=(能量过低时有 {%d0}% 的几率施放该技能)
+tagAutoSkillCondition01=(生命值达到 {%.0f1}% 时有 {%d0}% 的几率施放该技能)
+tagAutoSkillCondition02=(能量值达到 {%.0f1}% 时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition03=(受到攻击时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition04=(受到近战攻击时有 {%d0}% 的几率施放该技能)
 tagAutoSkillCondition05=(受到远程攻击时有 {%d0}% 的几率施放该技能)

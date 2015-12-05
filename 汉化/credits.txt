@@ -61,19 +61,32 @@
 
 <h1>特别鸣谢：官网社区的翻译者们
 
-<h2>Czech Translation
+<h2>捷克语
 <h5>Lukáš "Lumeriol" Rajchl
 <h5>Miroslav "Iks" Kopecký
 
-<h2>German Translation
-<h5>FOE
+<h2>荷兰语
+<h5>Sjoerd "fishbone" Groen
 
-<h2>Portuguese Translation
+<h2>法语
+<h5>Alexandre "all_zebest" Mangin
+<h5>Philippe "pendragon64" Reybaud
+<h5>Yann "Rougecorne" Verryken
+
+<h2>德语
+<h5>FOE
+<h5>Firewind
+<h5>Skyhaster
+
+<h2>希腊语
+<h5>randomspawn
+
+<h2>葡萄牙语
 <h5>MagoIlusionista
 <h5>Tyzual
 <h5>Tigre
 
-<h2>Russian Translation
+<h2>俄语
 <h5>Andrey "@lk0z@uru$" Chertkov
 <h5>Denis "mad_enis" Maslov
 <h5>Usov Aleksey
@@ -81,7 +94,7 @@
 <h5>"Slayer Moon"
 <h5>Sergey "kapxapot" Atroshchenko
 
-<h2>Spanish Translation
+<h2>西班牙语
 <h5>chewrafa
 <h5>cloudsefi
 <h5>Oscar "darkpadawan" Rodríguez

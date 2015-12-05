@@ -2149,7 +2149,7 @@ tagRelicSkillD007Name=天灾打击 Scourge Strike
 tagRelicSkillD007Desc=对你的敌人造成令人胆寒的打击，以死亡之寒削弱他们的信念，将为你返回部分生命力。^o需要一把近战武器。
 
 tagRelicSkillD008Name=火焰冲撞 Pyroclasm
-tagRelicSkillD008Desc=发动一波撕裂天空的地狱之火袭击你的敌人。
+tagRelicSkillD008Desc=从你所处的位置发出一道狂野的螺旋状烈焰，将任何敢于靠近奥祖因愤怒火焰之辈烧成灰烬。
 
 tagRelicSkillD009Name=坏死 Necrosis
 tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒，使他们肉体腐坏意识缓慢。

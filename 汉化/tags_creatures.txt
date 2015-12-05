@@ -905,7 +905,7 @@ tagEnemyZombieF01=燃尸
 tagEnemyZombieG01=毒尸
 tagEnemyZombieSoldierA01=腐朽士兵
 tagEnemyZombieSoldierB01=腐朽灰烬守卫
-tagEnemyZombieSoldierC01=Fury Soldier
+tagEnemyZombieSoldierC01=愤怒士兵
 tagEnemyZombieBerserkerA01=尸魔
 
 tagEnemyZombieVoidA01=冥灵无魂者

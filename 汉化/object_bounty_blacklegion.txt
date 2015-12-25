@@ -2,71 +2,44 @@
 你带回来了所需的材料，完成了一项赏金任务。
 回报任务。
 
+离开赏金桌。
+你带回来了所需的材料，完成了一项赏金任务。
+回报任务。
 
 离开赏金桌。
 你带回来了所需的材料，完成了一项赏金任务。
 回报任务。
 
-
 离开赏金桌。
 你带回来了所需的材料，完成了一项赏金任务。
 回报任务。
 
-
 离开赏金桌。
 你带回来了所需的材料，完成了一项赏金任务。
 回报任务。
-
-
-离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
-
 
 离开赏金桌。
 你成功地归来，完成了一项赏金任务。
 回报任务。
 
-
 离开赏金桌。
 你已经在执行一项黑色军团的赏金任务了。
-离开赏金桌。
-黑色军团一直在寻找有本事的男人或者女人来帮助他们执行困难的任务。{^n}{^n}根据你的名望，一些最危险的任务现在可以交给你来完成了。
-看一眼赏金任务。
-你已经完成了本次游戏中黑色军团交给你所有的赏金任务。
-离开赏金桌。
-看一眼赏金任务。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 离开赏金桌。
 黑色军团一直在寻找有本事的男人或者女人来帮助他们执行困难的任务。
 看一眼赏金任务。
 你已经完成了本次游戏中黑色军团交给你所有的赏金任务。
 离开赏金桌。
 看一眼赏金任务。
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -208,86 +181,8 @@ The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's 
 离开赏金桌。
 下一个赏金任务。
 
-The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}任何协助都会以铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the 血森林. They are to be considered primary targets by all Legion agents.{^n}{^n}任何协助都会以铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the 血森林, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}任何协助都会给予材料作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}任何协助都会以铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the 腐坏田地 has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}任何协助都会以铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near 悲伤城堡. There, an obsidian monster known as 梦魇 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}任何协助都会以铁币作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the 血森林. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}任何协助都会给予材料作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脉深渊. Additional reinforcements are requested to taken down the critter.{^n}{^n}任何协助都会给予材料作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 幽暗盆地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a 冥灵魔印 will be compensated with iron bits.
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the 冥神之血. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a 冥神之血 will be compensated with materials from the Legion stores.
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an 虚化碎片 will be compensated with materials from the Legion stores.
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest 虚化水晶 and 虚灵方尖碑, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an 虚化集簇 will be compensated with materials from the Legion stores.
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a 感染大脑 Matter will be compensated with materials from the Legion stores.
-接受这项赏金任务。
-离开赏金桌。
-下一个赏金任务。
-
-黑色军团一直在寻找有本事的男人或者女人来帮助他们执行困难的任务。{^n}{^n}根据你的名望，一些最危险的任务现在可以交给你来完成了。
-
-离开赏金桌。
 The Black Legion is always looking for capable men and women to assist them on difficult missions.
-离开赏金桌。
 
+离开赏金桌。
 The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
 离开赏金桌。

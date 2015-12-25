@@ -1,5 +1,5 @@
 The Outcast's Tasks
-Anasteria does not offer her bounties to those who would see her dead.
+阿纳斯塔里娅 does not offer her bounties to those who would see her dead.
 Step away from the Table.
 You return with the materials in hand, a Task fulfilled.
 Report in.
@@ -61,9 +61,9 @@ You return triumphantly, a Task fulfilled.
 Report in.
 
 Step away from the Table.
-You are already on a Task for Anasteria.
+You are already on a Task for 阿纳斯塔里娅.
 Step away from the Table.
-Anasteria sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive tasks.
 Take a look at the task.
 No Tasks available at this time.
 Step away from the Table.
@@ -189,8 +189,8 @@ Accept the Task.
 Step away from the Bounty Table.
 Next Bounty.
 
-Anasteria sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
 
 Step away from the Table.
-Anasteria does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+阿纳斯塔里娅 does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 Step away from the Table.

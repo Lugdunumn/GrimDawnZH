@@ -8,7 +8,7 @@ Destroy the eastern Blood Wagon
 Destroy the western Blood Wagon
 
 Kill Final Boss
-You have destroyed the Blood Wagons and the way to the Tomb of the Watchers is clear. Enter the tomb and seek out the Ulgrim at the bottom level, at the Seal of the Loghorrean. Together, you must stop the cult's ritual for good.
+You have destroyed the Blood Wagons and the way to the Tomb of the Watchers is clear. Enter the tomb and seek out the Ulgrim at the bottom level, at the Seal of the Loghorrean. Together, you must stop the cult's ritual for good.{^n}{^n}The cult may try to rebuild the Blood Wagons in your absence, you will need to destroy them again as the seal will be renewed.
 
 
 

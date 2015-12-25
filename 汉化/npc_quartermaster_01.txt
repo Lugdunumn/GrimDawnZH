@@ -3,7 +3,7 @@ I don't know what you think you are doing, but what good do you think those supp
 The Legion will get by.
 Those people needed the supplies more.
 Thank you for recovering those supplies. They will be useful in patching up our damaged defenses.
-
+Happy to help.
 I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
 Goodbye.
 Have you recovered the supplies?
@@ -22,7 +22,7 @@ I will recover the supplies.
 Send someone else. I'm busy.
 I have the supplies. Here you go.
 
-
+Sorry, can't right now.
 I'm sorry, I have to take inventory of what we have left following the attack.{^n}{^n}Perhaps another time.
 Goodbye.
 Goodbye.

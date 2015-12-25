@@ -1,4 +1,6 @@
 The Keeper of Tomes
+The Order welcomes you.
+Farewell.
 You battle ceaselessly in the name of Cairn.{^n}{^n}We are honored to have you among us.
 
 

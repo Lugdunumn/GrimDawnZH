@@ -5,8 +5,8 @@ The Black Legion cannot advance on the Necropolis directly, there are too many e
 Enter the Necropolis
 
 Secure Rift
-The Black Legion cannot advance on the Necropolis directly, there are too many enemies and the losses would be too great. Instead, Creed has tasked you with sneaking in and securing a riftgate. Once you've done so, Ulgrim and a contingent of troops will join you for the final assault, where the enemy will least expect it.
-Secure the Necropolis Riftgate
+The Black Legion cannot advance on the Necropolis directly, there are too many enemies and the losses would be too great. Instead, Creed has tasked you with sneaking in and securing a riftgate deep inside the Necropolis. Once you've done so, Ulgrim and a contingent of troops will join you for the final assault, where the enemy will least expect it.
+Secure the Inner Necropolis Riftgate
 
 Speak to Ulgrim
 Ulgrim is waiting for you at the Necropolis. Report to him immediately to proceed with the attack on the Cult.

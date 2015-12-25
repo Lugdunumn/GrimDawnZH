@@ -126,6 +126,7 @@ tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 tagEnemyChthonianDreadguardA01=冥灵先锋
 tagEnemyChthonianDreadguardB01=冥灵恐惧守卫
 tagEnemyChthonianDreadguardC01=冥灵暴君
+tagEnemyChthonianDreadguardD01=Loghorrean's Vanguard
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
@@ -148,7 +149,9 @@ tagChthonianBoss02=混沌使者 沙祖尔
 tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
 tagChthonianBoss05=Galar'Bargok, the Black Fiend
-
+tagChthonianBoss06=Harak'Bargoth, Guardian of the Bastion
+tagChthonianBoss07=Zal'Naroth, Guardian of the Bastion
+ 
 #CreatureChthonianFiend
 
 tagEnemyVoidFiendA01=虚空恶魔
@@ -443,6 +446,7 @@ tagHumanPossessedHeroH03=霜心 卡姆拉德瑞斯
 tagHumanPossessedHeroH04=科普西亚 ~ 伤害反弹
 tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 
+tagHumanPossessedHeroH06=Loxmere Nightmage
 tagHumanPossessedBoss01=风暴之火 诺维利亚
 tagHumanPossessedBoss02=Archivist Thelon
 tagHumanPossessedBoss03=Usterius Avelone
@@ -959,6 +963,7 @@ tagPetManticoreA01=原始灵魂
 tagPetWindDevilA01=风魔
 tagPetTotemA01=雪怪图腾
 tagPetTotemA02=风暴图腾
+tagPetTotemA02B=Corrupted Totem
 tagPetBlackScourge=Black Scourge
 tagPetGazeOfDreeg=Gaze of Dreeg
 tagPetEyeOfGuardian=Eye of the Guardian
@@ -987,9 +992,11 @@ tagItemGuardianA02=鲁莽守卫
 tagItemAncestorA01=先祖之魂
 tagItemRevenantA01=奥格纳佩什的亡魂
 tagItemPrawnA01=枯萎者 裂隙之灾
+tagItemYetiA01=Chillmane Rocksplitter
 tagRelicStormhound=风暴猎犬
 tagRelicNemesis=复仇女神
 tagRelicSwarm=虫群
+
 
 tagDLCWisp=Will'O'Wisp
 
@@ -1004,6 +1011,11 @@ tagEnemySummonRaven=风暴巨鸦
 tagEnemySummonAetherTrap=虚化陷阱
 tagEnemySummonIceCrystal=冰晶
 tagEnemySummonTentacle=缠绕触手
+tagEnemySummonVoid=Entropic Void
+
+tagEnemyMogdrogenBoar=Mogdrogen's Chilltusk
+tagEnemyMogdrogenRat=Mogdrogen's Boneback
+tagEnemyMogdrogenHorror=Mogdrogen's Briarthorn
 
 #Boss&Quest boss和任务怪
 
@@ -1018,6 +1030,9 @@ tagBossOutcast01=虚化盗贼 阿纳斯塔里娅
 tagBossOutcast02=虚灵复仇者 阿纳斯塔里娅
 tagBossOutcast03=虚灵之怒 阿纳斯塔里娅
 tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
+tagBossLoghorreanTentacle01=Loghorrean's Tentacle
+tagBossLoghorreanTentacle02=Loghorrean's Tentacle
+tagBossLoghorreanTentacleCluster=Tentacle Cluster
 
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾 沃达兰

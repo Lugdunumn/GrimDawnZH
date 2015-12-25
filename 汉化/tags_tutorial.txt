@@ -153,7 +153,7 @@ tagTutorialTip42TextA=铁匠有制作强大威力物品的能力。他是一位�
 tagTutorialTip42SubtitleA=设计图
 tagTutorialTip42TextB=当你发现新的设计图时铁匠将学会制作新物品。设计图可以从任务获得，或者在世界范围内掉落。
 tagTutorialTip42SubtitleB=制作
-tagTutorialTip42TextC=要制作一个物品，在制作界面选择配方。在界面的指定空间放入需要的物品或者在背包中右击他们。{^N}{^N}当所有需要的材料都在界面中时，按下合成按钮来制作物品。{^N}{^N}
+tagTutorialTip42TextC=要制作一个物品，在制作界面选择配方。材料将会自动被放置在锻造界面之中，合成材料的读取顺序为：该人物的仓库，共享仓库，物品栏和已装备的物品。{^N}{^N}当你拥有了所有需的材料时，你就可以按下合成按钮来制作物品。{^N}{^N}
 
 tagTutorialTip43Title=设计图
 tagTutorialTip43TextA=设计图是用来创造强力物品失传的模板，铁匠可以学习。
@@ -215,7 +215,7 @@ tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you w
 tagTutorialTip58Title=Claiming a Shrine
 tagTutorialTip58TextA=Devotion Shrines are ancient remnants of a long-lost empire, monuments dedicated to various gods and celestial symbols.{^N}{^N}Shrines must either be cleansed by defeating a corrupting presence trapped within or restored by placing an offering of rare crafting materials. The requirements vary from shrine to shrine.
 tagTutorialTip58SubtitleA=Restoring a Shrine
-tagTutorialTip58TextB=To Restore a ruined shrine, place the required materials into the Shrine UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Offer button to restore the Shrine.
+tagTutorialTip58TextB=To Restore a ruined shrine, you must have the required materials in your Personal Stash, Shared Stash, Inventory and Equipped items, taken automatically in that order{^N}{^N}If you have all the required materials, you can press the Offer button to restore the Shrine.
 
 tagTutorialTip59Title=虔诚点数
 tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion Point. Devotion Points can be allocated in the {^y}Devotion Window{^w}, which can be accessed through the {^y}Skill Window{^w}.
@@ -232,6 +232,6 @@ tagTutorialTip60TextD=Bright blue stars indicate where you can put a Devotion Po
 tagTutorialTip60TextE=The Halo Stars mark the locations of Celestial Powers, which you can unlock to enhance your primary skills with new effects.{^N}{^N}
 
 tagTutorialTip61Title=Celestial Powers
-tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength.
+tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength. When assigned to pet skills, they will scale with the pet's damage.
 tagTutorialTip61SubtitleA=分配一项主要技能
 tagTutorialTip61TextB=To assign a Celestial Power, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. You can re-assign a Celestial Power at any time without penalty. If you unassign a Celestial Power, it will retain any experience or ranks it has earned.

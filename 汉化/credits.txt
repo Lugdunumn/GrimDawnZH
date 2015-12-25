@@ -16,6 +16,7 @@
 <h2>游戏设计
 <h5>Arthur Bruno - 首席设计师
 <h5>Kamil Marczewski - 设计师
+<h5>Eric Sexton - 设计师
 
 <h1>SkewSound
 
@@ -58,9 +59,13 @@
 <h5>Matthew Farmery
 <h5>Jon "Jaknet" Kent
 <h5>Powbam
+<h5>Nine
 
 <h1>特别鸣谢：官网社区的翻译者们
 
+<h2>保加利亚语
+<h2>Адмирал АнимЕ
+ 
 <h2>捷克语
 <h5>Lukáš "Lumeriol" Rajchl
 <h5>Miroslav "Iks" Kopecký
@@ -80,6 +85,9 @@
 
 <h2>希腊语
 <h5>randomspawn
+
+<h2>日语
+<h5>"Matougi The BlueBamboo"
 
 <h2>葡萄牙语
 <h5>MagoIlusionista

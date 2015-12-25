@@ -458,7 +458,7 @@ tagClass04SkillName13D=无情终章 Merciless Repertoire
 tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂会是一种终极武器。
 
 tagClass04SkillName14A=致命策略 Lethal Gambit
-tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器。
+tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器或双手远程武器。
 tagClass04SkillName14B=阿玛拉斯塔的爆裂之刃 Amarasta's Blade Burst
 tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀锋，用来伤害到所有邻近的敌人。
 
@@ -574,13 +574,13 @@ tagClass06SkillName01D=熊罴之力 Might of the Bear
 tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee weapon.
 
 tagClass06SkillName02A=原始打击 Primal Strike
-tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee or two-handed ranged weapon.
 tagClass06SkillName02B=风暴潮 Storm Surge
 tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels.
 tagClass06SkillName02C=激流 Torrent
-tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking your target and leaping to nearby foes.
+tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking a nearby target and leaping to further foes.
 tagClass06SkillName02D=雷电打击 Thunderous Strike
-tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger.
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger. ^oRequires a two-handed melee weapon.
 
 tagClass06SkillName03A=雪怪图腾 Wendigo Totem
 tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
@@ -611,7 +611,7 @@ tagClass06SkillDescription06A=Briarthorns are tenacious beasts, born of brambly 
 tagClass06SkillName06B=岩石皮肤 Stonebark
 tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
 tagClass06SkillName06C=撕裂大地 Ground Slam
-tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, crushing any foe unlucky enough to be within reach.
+tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, releasing a cascade of spines to impale nearby foes.
 tagClass06SkillName06D=激励咆哮 Emboldening Roar
 tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldening them when fighting is at its thickest.
 tagClass06SkillName06E=荆棘之爪 Thorned Claws
@@ -766,6 +766,15 @@ tagItemSkillDescA010=从身上施放汹涌的电流，伤害附近的敌人。
 
 tagItemSkillA011=基尔利安之火 Kilrian's Flame
 tagItemSkillDescA011=黑火吞食你的血肉，焚化所有敢于靠近的敌人并吸取他们的活力。
+
+tagItemSkillA012=Freeze
+tagItemSkillDescA012=Freeze your foe solid.
+
+tagItemSkillA013=Stun
+tagItemSkillDescA013=Interrupt your foe.
+
+tagItemSkillA014=Petrify
+tagItemSkillDescA014=Turn your foe to stone.
 
 tagItemSkillB001Name=冲击波 Blastwave
 tagItemSkillB001Desc=你的攻击中爆发出一道火焰冲击波。
@@ -981,6 +990,7 @@ tagItemSkillC025Desc=以具有魔力的鞋子底部践踏大地，施放的能�
 
 tagItemSkillC026Name=复仇 Revenge
 tagItemSkillC026Desc=使用你的武器造成迅雷一击。^o需要一把近战武器。
+tagItemSkillC026DescBtagItemSkillC026DescB=A swift jab with your sword.
 
 tagItemSkillC027Name=能量护盾 Energy Shield
 tagItemSkillC027Desc=施放一面护盾来吸收受到的物理伤害。
@@ -1121,8 +1131,8 @@ tagItemSkillC070Desc=吟唱黑暗的法术，召唤一只冥神的仆役到你�
 tagItemSkillC071Name=外交策略 Diplomacy
 tagItemSkillC071Desc=你的话语包含着帝王的意志，几乎没有人能抵抗住这种力量。
 
-tagItemSkillC072Name=曼海尔之触 Menhir's Touch
-tagItemSkillC072Desc=曼海尔的信徒们发现，在最危难的时刻，他们的信仰才是最为坚强的护盾。
+tagItemSkillC072Name=至高神之触 Empyrion's Touch
+tagItemSkillC072Desc=The light of Empyrion soothes the wounds of nearby allies.
 
 tagItemSkillC073Name=心灵控制 Mind Control
 tagItemSkillC073Desc=催眠目标，使他们不分敌我。
@@ -1192,8 +1202,8 @@ tagItemSkillC093Desc=将敌人困在带有粘性的网中，使得他们更加�
 tagItemSkillC094Name=急冻 Flash Freeze
 tagItemSkillC094Desc=A flash of pure cold freezes nearby enemies. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will suffer a reduced duration.
 
-tagItemSkillC095Name=地狱之火 Hellfire
-tagItemSkillC095Desc=Unleash a wave of flame upon your foes, leaving nothing but ashes.
+tagItemSkillC095Name=地狱之路 Hell Path
+tagItemSkillC095Desc=Flames erupt from the earth all around you, leaving nothing but ashes.
 
 tagItemSkillC096Name=日阳闪耀 Solar Flare
 tagItemSkillC096Desc=Blinding light erupts from you, confounding your foes.
@@ -1239,6 +1249,56 @@ tagItemSkillC109Desc=A burst of chilling air around you freezes enemies solid.
 
 tagItemSkillC110Name=元素爆轰 Elemental Blast
 tagItemSkillC110Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
+
+tagItemSkillC111Name=Curse of Burrwitch
+tagItemSkillC111Desc=Your foes become marked with a debilitating curse that embodies the suffering of Burrwitch.
+
+tagItemSkillC112Name=Ignite
+tagItemSkillC112Desc=Ignite your foe with intense flame that melts through armor.
+
+tagItemSkillC114Name=Aether Smash
+tagItemSkillC114Desc=A wave of aether energies erupts from you.
+
+tagItemSkillC115Name=Malice
+tagItemSkillC115Desc=A malicious force erupts from you that shakes the earth and shatters armor.
+
+tagItemSkillC116Name=Bleedout
+tagItemSkillC116Desc=Clips a major artery, causing intense bleeding.
+
+tagItemSkillC117Name=Flamebrand
+tagItemSkillC117Desc=Mark your foe with flame, exposing them to your burning wrath.
+
+tagItemSkillC118Name=Beastslayer
+tagItemSkillC118Desc=Cleave through nearby foes with the intent of exterminating foul beasts.
+
+tagItemSkillC119Name=Virulent Pox
+tagItemSkillC119Desc=A wildly spreading disease infects your foe.
+
+tagItemSkillC120Name=Scorched Earth
+tagItemSkillC120Desc=Scorching heat erupts from you, burning the ground ahead.
+
+tagItemSkillC121Name=Bloodbath
+tagItemSkillC121Desc=Lacerate nearby foes and shower the area with their blood.
+
+tagItemSkillC122Name=Glass Eye
+tagItemSkillC122Desc=A trained eye, a lethal shot. ^oThis is a ranged two-handed weapon bonus.
+tagItemSkillC122NameB=Sharpshooter
+tagItemSkillC122DescB=Expertise in the use of rifles and scopes. ^oThis is a ranged two-handed weapon bonus.
+
+tagItemSkillC123Name=Flame Patch
+tagItemSkillC123Desc=You ignite the very ground you step on.
+
+tagItemSkillC124Name=Spine Nova
+tagItemSkillC124Desc=A burst of spines erupts from you, impaling nearby foes.
+
+tagItemSkillC125Name=Chaos Wave
+tagItemSkillC125Desc=A wave of entropic energies erupts from you.
+
+tagItemSkillC126Name=Apothecary's Touch
+tagItemSkillC126Desc=Training in the art of field medicine enables you to soothe the wounds of nearby allies.
+
+tagItemSkillC127Name=Aether Lightning
+tagItemSkillC127Desc=Lightning infused with pure aether emanates from you and cascades through your foes.
 
 tagItemSkillM005Name=狂暴 Berserk
 tagItemSkillM005Desc=精神进入狂暴状态，以牺牲耐久性为代价凶猛地攻击敌人。
@@ -1295,7 +1355,7 @@ tagItemSkillD025Name=Agony
 tagItemSkillD025Desc=Curse your foe with agony, inflicting unspeakable pain and exposing them to further harm.
 
 tagItemSkillD026Name=Aldanar's Vanity
-tagItemSkillD026Desc=Aldanar was not know for standing in harms way. He preferred to leave it behind him, far behind him.
+tagItemSkillD026Desc=Aldanar was not one to let such trivial matters as conservation of energy and laws of reality stop him from continuing his spellcraft.
 
 tagItemSkillD027Name=Apocalypse
 tagItemSkillD027Desc=Unleash the wrath of the gods themselves as you tear open reality and release a cataclysm of apocalyptic proportions.
@@ -1307,7 +1367,7 @@ tagItemSkillD029Name=Ascendant's Wrath
 tagItemSkillD029Desc=The wrath of the Ascendant is a terrible thing to behold. Few can withstand its crippling might.
 
 tagItemSkillD030Name=Avatar of Ulzuin
-tagItemSkillD030Desc=The flames of Ulzuin surround you, turning nearby foes into cinders.
+tagItemSkillD030Desc=You leave the wild flames of Ulzuin wherever you step.
 
 tagItemSkillD031Name=Azragorian Tactics
 tagItemSkillD031Desc=Embrace the tactics of Azragor, underhanded and questionable techniques, but one cannot argue with results. This effect is extended to nearby allies.  ^oThis ability must be toggled to maintain its effect.
@@ -1581,10 +1641,10 @@ tagItemSkillD118Name=Invoker's Secret
 tagItemSkillD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near.
 
 tagItemSkillD119Name=Iskandra's Defense
-tagItemSkillD119Desc=Iskandra was a master of conversion, turning martial weapons into conduits for the arcane. This skill has turned her into an unusual combatant capable of both magic and close-quarters combat. But to survive in a thick melee, one needs defensive spells as well, and for that Iskandra created an arcane barrier.
+tagItemSkillD119Desc=Iskandra was a master of conversion, turning martial weapons into conduits for the arcane. Her unusual attunement to martial combat required that proper defenses be raised.
 
 tagItemSkillD120Name=Iskandra's Unity
-tagItemSkillD120Desc=Iskandra's preferred to master all forms of magic rather than focusing on a single element. Her expertise helped train an entire generation of arcanists who would go on to master all of the elements. The power of Iskandra's mastery is extended to nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD120Desc=Iskandra's preferred to master all forms of magic. This mastery is extended to nearby allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD121Name=Iskandra's Prism
 tagItemSkillD121Desc=Upon entering combat, Iskandra would turn her weapon into a conduit. ^oRequires a melee weapon.
@@ -1898,9 +1958,20 @@ tagItemSkillD223Desc=Tear a warp in time itself at the location of your attacker
 tagItemSkillD224Name=Wrath of the Grim Dawn
 tagItemSkillD224Desc=Unleash the suffering and destruction ushered unto the world at the time of the Grim Dawn.
 
+tagItemSkillD225Name=Winter King's Might
+tagItemSkillD225Desc=^oRequires a two-handed melee weapon.
 
-tagItemSkillFailName=Failchantment
-tagItemSkillFailDesc=Failalittleharder.
+tagItemSkillD226Name=Summon Chillmane
+tagItemSkillD226Desc=Calls forth a mighty Chillmane Yeti to fight beside you. ^oOnly one Chillmane can be summoned at any one time. The yeti scales with Pet Bonuses.
+
+tagItemSkillD227Name=Frostdread Presence
+tagItemSkillD227Desc=Unleash the chill that dwells within your frozen heart, infusing your weapons with life-sapping chill. This effect is extended to nearby allies.  ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD228Name=Shattering Force
+tagItemSkillD228Desc=Shatter nearby foes' defenses with a rush of physical force.
+
+ tagItemSkillFailName=Failchantment
+tagItemSkillFailDesc=Fail a little harder.
 
 
 #ComponentSkills
@@ -2037,7 +2108,10 @@ tagCompSkillB005Desc=用索拉尔的黑暗之焰覆盖你的敌人。
 tagCompSkillB006Name=奥莱隆之力 Oleron's Might
 tagCompSkillB006Desc=用你的武器猛击，造成重伤并致残目标。
 
+tagCompSkillB007Name=Bysmiel's Binding
+tagCompSkillB007Desc=Bind your minions to your will. ^o(Passive bonus)
 
+ 
 
 
 #Relic Skills
@@ -2073,7 +2147,7 @@ tagRelicSkillB010Name=狂暴 Rampage
 tagRelicSkillB010Desc=当造成暴击伤害时进入狂怒状态，确保造成更多的暴击。
 
 tagRelicSkillB011Name=巨魔之怒 Troll Rage
-tagRelicSkillB011Desc=像残忍的巨魔一样发动战斗。当作为默认武器攻击时，巨魔之怒能使你每一击都进入更深层的愤怒，而代价是专注力。^o需要一把近战武器。Building up charges increases the potency of the bonuses.
+tagRelicSkillB011Desc=像残忍的巨魔一样发动战斗。当作为默认武器攻击时，巨魔之怒能使你每一击都进入更深层的愤怒，而代价是专注力。^o积累充能次数将会提升加成效果。
 
 tagRelicSkillB012Name=毁伤 Mutilate
 tagRelicSkillB012Desc=以三次快速攻击肢解你的目标，造成严重出血。^o这是一项通过默认武器攻击触发的近战双持技能，也会激活双持近战武器的能力。
@@ -2082,7 +2156,7 @@ tagRelicSkillB013Name=齐射 Volley
 tagRelicSkillB013Desc=向目标发动一定数量的子弹。^o这是一项通过默认武器攻击触发的远程双持技能。同时开启双持远程武器的能力。
 
 tagRelicSkillC001Name=制裁之锤 Gavel of Justice
-tagRelicSkillC001Desc=向邪恶生物发动公义的审判。^o需要一把双手近战武器。
+tagRelicSkillC001Desc=向邪恶生物发动公义的审判。^o需要一把双手近战武器或远程武器。
 
 tagRelicSkillC002Name=移动城堡 Living Fortress
 tagRelicSkillC002Desc=坚如磐石，利刃与锐爪几乎无法伤你分毫。^o需要一面盾牌。
@@ -2149,7 +2223,7 @@ tagRelicSkillD007Name=天灾打击 Scourge Strike
 tagRelicSkillD007Desc=对你的敌人造成令人胆寒的打击，以死亡之寒削弱他们的信念，将为你返回部分生命力。^o需要一把近战武器。
 
 tagRelicSkillD008Name=火焰冲撞 Pyroclasm
-tagRelicSkillD008Desc=从你所处的位置发出一道狂野的螺旋状烈焰，将任何敢于靠近奥祖因愤怒火焰之辈烧成灰烬。
+tagRelicSkillD008Desc=Wild flames erupt from you in a trail of devastation.
 
 tagRelicSkillD009Name=坏死 Necrosis
 tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒，使他们肉体腐坏意识缓慢。
@@ -2293,306 +2367,306 @@ tagConfirmSkillChanges=确认变更？
 #SkillDevotion
 tagDevotionInfo=在这最为黑暗的时刻，人性将会成为耀眼的星辰。将自己奉献给天神和古老的神明，来获得他们古老的力量。
 
-tagDevotionAffinity01=Ascendant
-tagDevotionAffinity01Info=The quantity of Ascendant Affinity you have harnessed.^n^nAscendant beings have risen to godlike status through immense feats or reverence from their lessers.
-tagDevotionAffinity02=Chaos
-tagDevotionAffinity02Info=The quantity of Chaos Affinity you have harnessed.^n^nChaotic beings crave entropy and destruction above all else.
-tagDevotionAffinity03=Eldritch
-tagDevotionAffinity03Info=The quantity of Eldritch Affinity you have harnessed.^n^nEldritch beings represent the wild forces of magic and the metaphysical realms beyond the veil.
-tagDevotionAffinity04=Order
-tagDevotionAffinity04Info=The quantity of Order Affinity you have harnessed.^n^nBeings of Order cherish harmony and balance in all things.
-tagDevotionAffinity05=Primordial
-tagDevotionAffinity05Info=The quantity of Primordial Affinity you have harnessed.^n^nPrimordial beings embody the powers of creation, life, death, and reality itself.
+tagDevotionAffinity01=升灵
+tagDevotionAffinity01Info=你能够驾驭的升灵点数。^n^nAscendant beings have risen to godlike status through immense feats or reverence from their lessers.
+tagDevotionAffinity02=混沌
+tagDevotionAffinity02Info=你能够驾驭的混沌点数。^n^nChaotic beings crave entropy and destruction above all else.
+tagDevotionAffinity03=魔力
+tagDevotionAffinity03Info=你能够驾驭魔力点数。^n^nEldritch beings represent the wild forces of magic and the metaphysical realms beyond the veil.
+tagDevotionAffinity04=秩序
+tagDevotionAffinity04Info=你能够驾驭的秩序点数。^n^n秩序孕育出万物的和谐与平衡。
+tagDevotionAffinity05=原始
+tagDevotionAffinity05Info=你能够驾驭的原始点数。^n^nPrimordial beings embody the powers of creation, life, death, and reality itself.
 
-tagDevotion_RequiresSword=^oRequires a sword.
-tagDevotion_RequiresAxe=^oRequires an axe.
-tagDevotion_RequiresMace=^oRequires a mace.
-tagDevotion_RequiresCaster=^oRequires a scepter or dagger.
-tagDevotion_RequiresFocus=^oRequires a caster off-hand.
-tagDevotion_Requires1hRange=^oRequires a one-handed ranged weapon.
-tagDevotion_Requires2hRange=^oRequires a two-handed ranged weapon.
-tagDevotion_RequiresShield=^oRequires a shield.
+tagDevotion_RequiresSword=^o需要一把剑。
+tagDevotion_RequiresAxe=^o需要一把斧子。
+tagDevotion_RequiresMace=^o需要一把钉锤。
+tagDevotion_RequiresCaster=^o需要一把法杖或匕首。
+tagDevotion_RequiresFocus=^o需要一件施法者副手。
+tagDevotion_Requires1hRange=^o需要一把单手远程武器。
+tagDevotion_Requires2hRange=^o需要一把双手远程武器。
+tagDevotion_RequiresShield=^o需要一面盾牌。
 
-tagDevotion_A01=Bat
+tagDevotion_A01=吸血蝙蝠 Bat
 tagDevotion_A01Desc=The vampiric bat easily finds its way across the night sky, hunting for flickers of lost stars to sap of their light.
 tagDevotion_A02=阿克隆的蝎尾 Akeron's Scorpion
 tagDevotion_A02Desc=Akeron was doomed to walk the desert until dead, but fate intervened in the form of a scorpion which led the sun-dazed mortal to water. Akeron survived his sentence and returned to take revenge upon those who had left him to die with the use of scorpion venom.
 tagDevotion_A03=风暴乌鸦 Raven
-tagDevotion_A03Desc=The raven represents guile. It is for this reason that the witch gods have taken favor in ravens as their familiars and messengers.
+tagDevotion_A03Desc=乌鸦象征着诡诈。因此三巫神喜爱将它们作为伙伴与信使。
 tagDevotion_A04=铁锤 Hammer
 tagDevotion_A04Desc=The hammer strikes down upon the anvil with divine force, forging arms for the gods at Targo's firm grip.
 tagDevotion_A05=铁砧 Anvil
 tagDevotion_A05Desc=The anvil absorbs the hammer's blows, an indispensible tool in Targo's celestial forge.
-tagDevotion_A06=Shepherd's Crook
-tagDevotion_A06Desc=The shepherd guides his celestial flock across the night sky.
-tagDevotion_A07=Sailor's Guide
+tagDevotion_A06=牧羊人的牧羊棍 Shepherd's Crook
+tagDevotion_A06Desc=牧羊人引导着天上的羊群穿过夜空。
+tagDevotion_A07=水手的指南 Sailor's Guide
 tagDevotion_A07Desc=The sailor's guide serves as a celestial marker for those lost at sea. Its guiding light has saved many a sailor braving the tumultuous waters.
-tagDevotion_A08=Assassin's Blade
+tagDevotion_A08=刺客之刃 Assassin's Blade
 tagDevotion_A08Desc=The assassin's dagger, the favored tool of the sanctioned killer.
-tagDevotion_A09=Eye of the Guardian
+tagDevotion_A09=守护者之眼 Eye of the Guardian
 tagDevotion_A09Desc=Dreeg, the witch god, is said to have peered beyond the veil and witnessed the truth of all things. For that, the gods have cursed his mortal form into a spined abomination with a thousand lidless eyes. He now stands immortal guard over the veil, his peerless gaze ever watchful for those who would dare follow in his stead.
-tagDevotion_A10=Falcon
+tagDevotion_A10=猎隼 Falcon
 tagDevotion_A10Desc=The falcon's sharp gaze scans the skies for easy prey.
-tagDevotion_A11=Eel
+tagDevotion_A11=鳗鱼 Eel
 tagDevotion_A11Desc=The eel glides gently across the night sky, its slick form impossible to grasp.
-tagDevotion_A12=Owl
+tagDevotion_A12=猫头鹰 Owl
 tagDevotion_A12Desc=The owl represents wisdom and scholarly pursuits. Spellwork is believed to be more potent under the gaze of the owl.
-tagDevotion_A13=Viper
+tagDevotion_A13=蝮蛇 Viper
 tagDevotion_A13Desc=The viper represents the flow of energy between the living world and the aether, which powers all forms of magic.
-tagDevotion_A14=Gallows
+tagDevotion_A14=绞刑架 Gallows
 tagDevotion_A14Desc=The gallows is a solemn sign of passed judgement and deadly portents.
-tagDevotion_A15=Crossroads
+tagDevotion_A15=十字路口 Crossroads
 tagDevotion_A15Desc=The crossroads mark the changing of ways, the opening of endless possibilities.
-tagDevotion_A16=Empty Throne
+tagDevotion_A16=空王座 Empty Throne
 tagDevotion_A16Desc=When Rhowan of Arkovia abdicated his throne, the seat of power remained vacant until the fall of the once great nation as its oligarchs bickered amongst themselves for power.
-tagDevotion_A17=Rat
+tagDevotion_A17=瘟疫鼠 Rat
 tagDevotion_A17Desc=The plague rat skitters across the night sky, careful to avoid the gaze of the falcon and hawk.
-tagDevotion_A18=Tsunami
+tagDevotion_A18=海啸 Tsunami
 tagDevotion_A18Desc=The tsunami marks the most dangerous time of the year to take to the great seas, with frequent storms and devastating waves ruining many an expedition. Wise captains plan their journeys to avoid the storm season.
 tagDevotion_A19=Imp
 tagDevotion_A19Desc=The imp is a trickster, its constellation flickering in and out of view throughout the year.
-tagDevotion_A20=Fiend
+tagDevotion_A20=魔鬼 Fiend
 tagDevotion_A20Desc=The fiend hides in the darkness of the void, hungry for wayward stars to extinguish.
-tagDevotion_A21=Bull
+tagDevotion_A21=公牛 Bull
 tagDevotion_A21Desc=The bull charges across the night sky with determination and strength.
-tagDevotion_A22=Wraith
+tagDevotion_A22=幽魂 Wraith
 tagDevotion_A22Desc=The wraith roams the skies for all eternity, its final judgement by Ulcama never passed.
-tagDevotion_A23=Harpy
+tagDevotion_A23=影身女妖 Harpy
 tagDevotion_A23Desc=The harpy represents dark omens. To be born under her light is seen as a sign of shame, driving some families to abandon such children altogether.
-tagDevotion_A24=Fox
+tagDevotion_A24=灵狐 Fox
 tagDevotion_A24Desc=The wily fox leaps playfully across the night sky.
-tagDevotion_A25=Ghoul
+tagDevotion_A25=食尸鬼 Ghoul
 tagDevotion_A25Desc=The ghoul embodies corruption and decay, its counterpart is the dryad.
-tagDevotion_A26=Dryad
+tagDevotion_A26=树神 Dryad
 tagDevotion_A26Desc=The dryad embodies nature's spirit and purity, her counterpart is the ghoul.
-tagDevotion_A27=Hawk
+tagDevotion_A27=夜鹰 Hawk
 tagDevotion_A27Desc=The hawk soars through the heavens, seeking its next meal.
-tagDevotion_A28=Wolverine
+tagDevotion_A28=狼獾 Wolverine
 tagDevotion_A28Desc=The wolverine represents untamed ferocity.
-tagDevotion_A29=Tortoise
+tagDevotion_A29=乌龟 Tortoise
 tagDevotion_A29Desc=The tortoise represents fortitude and unyielding dedication.
-tagDevotion_A30=Panther
+tagDevotion_A30=黑豹 Panther
 tagDevotion_A30Desc=The panther represents spiritual strength and dexterity.
-tagDevotion_A31=Crane
+tagDevotion_A31=仙鹤 Crane
 tagDevotion_A31Desc=The crane represents harmony and peace, its counterpart is the vulture.
-tagDevotion_A32=Vulture
+tagDevotion_A32=秃鹫 Vulture
 tagDevotion_A32Desc=The vulture represents disorder and chaos, its counterpart is the crane.
-tagDevotion_A33=Hound
+tagDevotion_A33=猎犬 Hound
 tagDevotion_A33Desc=The loyal hound awaits the call of its celestial masters, ever eager to follow the huntress onto another hunt.
-tagDevotion_A34=Spider
+tagDevotion_A34=蜘蛛 Spider
 tagDevotion_A34Desc=The spider weaves its web in the night sky, trapping rogue stars for the gods to weave into their celestial tapestry.
-tagDevotion_A35=Lizard
+tagDevotion_A35=蜥蜴 Lizard
 tagDevotion_A35Desc=The lizard was one of the first spawn of the celestial Tree of Life, the forefather of all reptiles.
-tagDevotion_A36=Scholar's Light
+tagDevotion_A36=学者之光 Scholar's Light
 tagDevotion_A36Desc=The scholar's light glows brightly when sleep-deprived scholars are still working under the dim glow of their candles.
-tagDevotion_A37=Lion
+tagDevotion_A37=雄狮 Lion
 tagDevotion_A37Desc=The lion represent bravery, valor, the birth of kings.
-tagDevotion_A38=Jackal
+tagDevotion_A38=豺狼 Jackal
 tagDevotion_A38Desc=The jackal skulks through the sky, searching for easy pickings.
 
-tagDevotion_B01=Rhowan's Crown
+tagDevotion_B01=罗文的王冠 Rhowan's Crown
 tagDevotion_B01Desc=It is said that when Rhowan of Arkovia abdicated his throne, his crown and scepter were quickly lost, only to be found in the night sky the following day.
-tagDevotion_B02=Scales of Ulcama
+tagDevotion_B02=奥卡玛 Scales of Ulcama
 tagDevotion_B02Desc=Ulcama, the judge, presides over the heavens and judges the lives of all mortals. It is said that all of a person's deeds are placed upon his golden scales, and should the evils of their life outweigh the good, their spirit is forever banished into the void.
-tagDevotion_B03=Wendigo
+tagDevotion_B03=雪怪 Wendigo
 tagDevotion_B03Desc=The wendigo is a primal hunger spirit. Many shamans go against their very teachings and try to make a pact with wendigos in the hope of invoking the vile spirits upon their enemies; but wendigos are ultimately very perilous to control and have driven many  shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism.
-tagDevotion_B04=Huntress
+tagDevotion_B04=女猎人 Huntress
 tagDevotion_B04Desc=The huntress roams the night sky, stalking her celestial prey. It is said that her eternal hunt will end when at last she slays the immortal hydra.
-tagDevotion_B05=Dire Bear
+tagDevotion_B05=恶熊 Dire Bear
 tagDevotion_B05Desc=The dire bear is a symbol of pride and physical might. Those born under its light are said to descend from the kings of old.
-tagDevotion_B06=Assassin
+tagDevotion_B06=暗杀者 Assassin
 tagDevotion_B06Desc=The assassin, the celestial executioner is rarely seen in the night sky. Its arrival is often cloaked in thick clouds, from which it emerges for brief moments before disappearing once more into the veil.
-tagDevotion_B07=Magi
+tagDevotion_B07=法师 Magi
 tagDevotion_B07Desc=The magi is the patron of all practitioners of magic. Those born under his gaze are said to be blessed, or cursed depending on the point of view, with unparalleled control over arcane forces.
-tagDevotion_B08=Autumn Boar
+tagDevotion_B08=球之雄猪 Autumn Boar
 tagDevotion_B08Desc=The autumn boar's arrival in the sky marks the beginning of a celebration of the fall season and the changing of the leaves. The event begins with a great hunt and ends with a feast that lasts until the meat and beer run dry.
-tagDevotion_B09=Widow
+tagDevotion_B09=寡妇 Widow
 tagDevotion_B09Desc=The widow mourns for the lost and the dead. When streaks of light mark the night sky, they are said to be the widow's tears.
-tagDevotion_B10=Revenant
+tagDevotion_B10=亡魂 Revenant
 tagDevotion_B10Desc=The revenant represents death and misery. It is said that none can escape its deathly gaze, not even the gods themselves.
-tagDevotion_B11=Solael's Witchblade
+tagDevotion_B11=索拉尔的巫刃 Solael's Witchblade
 tagDevotion_B11Desc=Solael is said to be the most cruel of the three witch gods, having carved open countless victims with his curved sacrificial blade in his mad pursuit of immortality.
-tagDevotion_B12=Bysmiel's Bonds
+tagDevotion_B12=拜斯迈的羁绊 Bysmiel's Bonds
 tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when he abandoned his mortal form and ascended into the heavens, his broken chains the only sign of his escape.
-tagDevotion_B13=Tempest
+tagDevotion_B13=风暴 Tempest
 tagDevotion_B13Desc=The tempest is said to shine brightest when a dangerous storm looms on the horizon. Children born during a thunderstorm are believed marked for great things.
-tagDevotion_B14=Targo the Builder
+tagDevotion_B14=建造者塔格 Targo the Builder
 tagDevotion_B14Desc=Targo is the patron of craftsmen and architects, the god believed to have created the celestial tapestry upon which all stars now rest.
-tagDevotion_B15=Amatok the Spirit of Winter
+tagDevotion_B15=寒冬之灵阿玛托克 Amatok the Spirit of Winter
 tagDevotion_B15Desc=In the winter months this constellation appears on the northern horizon. It is said that travelers in desperation who follow the guiding star of Amatok may come upon his lodge. Those who enter will be allowed to sit at his blazing hearth and share in a bountiful feast but those who are foolish, Amatok will flay and prepare as his feast on the following night. 
-tagDevotion_B16=Affliction
+tagDevotion_B16=苦难 Affliction
 tagDevotion_B16Desc=The appearance of the affliction in the sky, following the great feast of the Autumn Boar, marks the beginning of the cold months, when disease and decay turn Cairn into a bleak contrast to the prosperous months of harvest.
-tagDevotion_B17=Crab
+tagDevotion_B17=巨蟹 Crab
 tagDevotion_B17Desc=The crab marks the beginning of the most prosperous fishing season of the year, but also one of the most dangerous as the larger spawns of the sea come closer to shore following the migration patterns of the smaller fish and crabs.
-tagDevotion_B18=Manticore
+tagDevotion_B18=蝎尾狮 Manticore
 tagDevotion_B18Desc=The manticore is a vicious predator that roams the night sky in search of its next meal. Its bite and tail are filled with venom.
-tagDevotion_B19=Solemn Watcher
+tagDevotion_B19=神圣的守望者 Solemn Watcher
 tagDevotion_B19Desc=Symon, the watcher, stood guard at Symon's Ward til his dying day, protecting the empire from supernatural threats. Symon's eternal vigil continues in the celestial sky, watching over Cairn as he did in life.
-tagDevotion_B20=Messenger of War
+tagDevotion_B20=战争信使 Messenger of War
 tagDevotion_B20Desc=The messenger of war is a symbol of fear and tyranny. The messenger rides across the starry void, heralding in a new age of conflict and strife.
-tagDevotion_B21=Kraken
+tagDevotion_B21=海怪克拉肯 Kraken
 tagDevotion_B21Desc=Sea captains are known to refuse voyage if the Kraken is bright in the sky without the light of the Sailor's Guide to protect them.
-tagDevotion_B22=Hydra
+tagDevotion_B22=九头蛇 Hydra
 tagDevotion_B22Desc=The mythical beast roams the night sky, immortal and imposing. Its many heads are said to regrow within moments.
-tagDevotion_B23=Blades of Nadaan
+tagDevotion_B23=纳丹的双刃 Blades of Nadaan
 tagDevotion_B23Desc=Nadaan is the guardian of thieves and assassins. The appearance of his blades in the sky is often interpreted as a sign of ill omen; that an evil, but necessary, act is about to be carried out.
-tagDevotion_B24=Rhowan's Scepter
+tagDevotion_B24=罗文的节杖 Rhowan's Scepter
 tagDevotion_B24Desc=It is said that when Rhowan of Arkovia abdicated his throne, his crown and scepter mysteriously disappeared, only to be found in the night sky the following day.
-tagDevotion_B25=Berserker
+tagDevotion_B25=狂战士 Berserker
 tagDevotion_B25Desc=The berserker is the wild and untamed matron of war. She represents strength and ferocity.
-tagDevotion_B26=Oklaine's Lantern
+tagDevotion_B26=奥克兰之灯 Oklaine's Lantern
 tagDevotion_B26Desc=Oklaine, is the guardian of mages and sorcerers. It is said that his guiding light serves as a beacon when traversing the veil between reality and the aether.
-tagDevotion_B27=Shieldmaiden
+tagDevotion_B27=持盾侍女 Shieldmaiden
 tagDevotion_B27Desc=The shieldmaiden stands guard over the stars, so that none leave their celestial positions without the behest of the gods.
-tagDevotion_B28=Behemoth
+tagDevotion_B28=巨兽 Behemoth
 tagDevotion_B28Desc=The behemoth serves the gods, endlessly moving and shifting the countless stars in the sky at their command.
 tagDevotion_B29=Chariot of the Dead
 tagDevotion_B29Desc=The chariot of the dead gathers wayward souls and delivers them to their final judgement across the veil.
 tagDevotion_B30=Ulo the Keeper of the Waters
 tagDevotion_B30Desc=Ulo represents the endless cycle and unstoppable flow of water, renewing all the rivers of the world and in turn the lakes and the seas.
-tagDevotion_B31=Harvestman's Scythe
+tagDevotion_B31=丰收者之镰 Harvestman's Scythe
 tagDevotion_B31Desc=The scythe represents bounty and the time of harvests. It shines brightest in the hottest months, before giving way to the Autumn Boar.
 
 tagDevotion_C01=Aeon's Hourglass
 tagDevotion_C01Desc=Aeon is known as the keeper of time, the master of fate's thread. It is by his judgement that mortals are born and die. His symbol is the hourglass.
-tagDevotion_C02=Abomination
+tagDevotion_C02=混元体 Abomination
 tagDevotion_C02Desc=Golgoran, the abomination, represents humanity's basest instincts, fear of death and shadows, the desire to have what you have not. The abomination embodies all that turns man wicked.
-tagDevotion_C03=Light of Empyrion
+tagDevotion_C03=至高神之光 Light of Empyrion
 tagDevotion_C03Desc=Empyrion, the greatest among the gods, is the light of the world and protector of all of Cairn. It is by his mercy and example that the sun greets mankind each day.
-tagDevotion_C04=Oleron
+tagDevotion_C04=奥莱隆 Oleron
 tagDevotion_C04Desc=Tragic is the tale of Oleron, who would come to be known as the war god. When faced with the destruction of his nation, Oleron made the difficult choice to rise to the defense of his people, but the victory cost him his wife and only child. The loss weighed heavily upon the war hero, and legends say that he would charge recklessly into battle since that day, seeking death upon a foe's blade so that he could be reunited with his family. But the bittersweet release had never come. To this day, when soldiers charge into battle, they call upon Oleron's name to grant them strength and courage.
-tagDevotion_C05=Obelisk of Menhir
+tagDevotion_C05=曼海尔的方尖碑 Obelisk of Menhir
 tagDevotion_C05Desc=Menhir, god of the earth, is a steadfast protector of Cairn. He is prayed to equally both by men eager to defend their home and farmers hoping for a bountiful crop. Ancient stone monoliths mark sacred grounds of Menhir to this day.
-tagDevotion_C06=Spear of the Heavens
+tagDevotion_C06=天堂之戟 Spear of the Heavens
 tagDevotion_C06Desc=The Spear of the Heavens is the celestial symbol of power. It is said that the Spear was wielded by Empyrion himself when he smote down the Dying God and shattered the deity into a thousand-thousand pieces.
-tagDevotion_C07=Ulzuin's Torch
+tagDevotion_C07=奥祖因的火炬 Ulzuin's Torch
 tagDevotion_C07Desc=Ulzuin the Betrayed was once a god of healing and ceremonies, but millennia of torment following a most grisly betrayal from his lover has twisted the once benevolent entity into a bitter deity interested only in vengeance and destruction.
-tagDevotion_C08=Dying God
+tagDevotion_C08=垂死之神 Dying God
 tagDevotion_C08Desc=In an age preceding the creation of the mortal planes, an elder god was betrayed by his children; his body torn apart and drained of blood so that they could use it's power to breathe life into their own creations. His remains were cast out of creation into a void but, incapable of death, the god lingered on in the darkness, doomed to an eternity of pain and madness; feeling the suffering and death of all mortal things that were given life from his blood. His name forgotten by time, the dying god is known only as Ch'thon; he who dwells below creation.
-tagDevotion_C09=Tree of Life
+tagDevotion_C09=生命之树 Tree of Life
 tagDevotion_C09Desc=Legends say that when the world was first born from the darkness of the void, a single tree was planted which would come to bear all the fruit and animals of the world.
-tagDevotion_C10=Mogdrogen the Wolf
+tagDevotion_C10=巨狼莫格卓根 Mogdrogen the Wolf
 tagDevotion_C10Desc=A titan created during the war of the gods, Mogdrogen has become the god of beasts and is said to roam the wild reaches of Cairn. Legends claim Mogdrogen is a shapeshifter, usually seen as a giant wolf but occasionally taking other forms, even that of a human. Mogdrogen roams the far reaches of Cairn, guarding the wilds against the encroachment of civilization.
-tagDevotion_C11=Blind Sage
-tagDevotion_C11Desc=Many would travel thousands of miles to seek out the wisdom of the great blind sage, but most would leave unsatisfied, their souls underserving of her ageless wisdom.
-tagDevotion_C12=Leviathan
+tagDevotion_C11=失明智者 Blind Sage
+tagDevotion_C11Desc=Many would travel thousands of miles to seek out the wisdom of the great blind sage, but most would leave unsatisfied, their souls undeserving of her ageless wisdom.
+tagDevotion_C12=利维坦 Leviathan
 tagDevotion_C12Desc=The great serpent in the sky, devourer of stars and deliverer of the cold chill of night.
-tagDevotion_C13=Unknown Soldier
+tagDevotion_C13=无名战士 Unknown Soldier
 tagDevotion_C13Desc=Many a legend are told about the nameless men and women who were felled in battle, their valor and deeds never acknowledged. In honor of their sacrifice, the stars themselves were rearranged to form the Unknown Soldier.
 
-tagDevotionEffectA01=Twin Fangs
+tagDevotionEffectA01=双牙 Twin Fangs
 tagDevotionEffectA01Desc=Vampric fangs assault your foes and sap them of vitality.
-tagDevotionEffectA02=Scorpion Sting
+tagDevotionEffectA02=蝎刺 Scorpion Sting
 tagDevotionEffectA02Desc=Spines coated with deadly toxin erupt around you.
-tagDevotionEffectA05=Targo's Hammer
+tagDevotionEffectA05=塔格之锤 Targo's Hammer
 tagDevotionEffectA05Desc=Targo's celestial hammer orbits around you, striking down nearby foes.
-tagDevotionEffectA06=Shepherd's Call
+tagDevotionEffectA06=牧羊人的呼唤 Shepherd's Call
 tagDevotionEffectA06Desc=Call upon your minions to join you in battle.
-tagDevotionEffectA08=Assassin's Mark
+tagDevotionEffectA08=暗杀者的标记 Assassin's Mark
 tagDevotionEffectA08Desc=Mark your target for a swift and painful death.
-tagDevotionEffectA09=Guardian's Gaze
+tagDevotionEffectA09=守护者的凝视 Guardian's Gaze
 tagDevotionEffectA09Desc=A peerless eye of the Great Guardian circles around you.
 tagDevotionEffectA10=Falcon Swoop
 tagDevotionEffectA10Desc=A cast of celestial falcons swoops down upon your foes.
-tagDevotionEffectA18=Tsunami
+tagDevotionEffectA18=海啸 Tsunami
 tagDevotionEffectA18Desc=A torrent of water crashes down upon any foes unfortunate enough to be standing in front of you.
-tagDevotionEffectA19=Aetherfire
+tagDevotionEffectA19=虚化之火 Aetherfire
 tagDevotionEffectA19Desc=A small burst of aetherfire erupts at your target's feet.
 tagDevotionEffectA20=Flame Torrent
 tagDevotionEffectA20Desc=Devilish flames swirl around you, incinerating all they touch.
-tagDevotionEffectA21=Bull Rush
-tagDevotionEffectA21Desc=Strike nearby foes in a rush of physical force, like a charging bull. ^oRequires a melee weapon.
-tagDevotionEffectA25=Ghoulish Hunger
+tagDevotionEffectA21=蛮牛冲撞 Bull Rush
+tagDevotionEffectA21Desc=Strike nearby foes in a rush of physical force, like a charging bull.
+tagDevotionEffectA25=尸鬼饥渴 Ghoulish Hunger
 tagDevotionEffectA25Desc=When cornered, you are thrown into a ghoulish fervor, desperate for a morsel of flesh.
-tagDevotionEffectA26=Dryad's Blessing
+tagDevotionEffectA26=树神的祝福 Dryad's Blessing
 tagDevotionEffectA26Desc=The dryad's blessing cleanses your wounds and wards you against poison.
-tagDevotionEffectA29=Turtle Shell
+tagDevotionEffectA29=龟壳 Turtle Shell
 tagDevotionEffectA29Desc=When threatened, a protective barrier forms around you, negating further harm.
 
-tagDevotionEffectB01=Elemental Storm
+tagDevotionEffectB01=元素风暴 Elemental Storm
 tagDevotionEffectB01Desc=A crackling whirlwind of flame and ice manifests itself at your command.
-tagDevotionEffectB02=Tip the Scales
+tagDevotionEffectB02=倾斜天平 Tip the Scales
 tagDevotionEffectB02Desc=Tip the scales in your favor, sapping your attackers of vitality and transferring it to you.
-tagDevotionEffectB03=Wendigo's Mark
+tagDevotionEffectB03=雪怪的标记 Wendigo's Mark
 tagDevotionEffectB03Desc=You mark your foes with the sign of the wendigo, sapping them of what little there is left of their vitality and transferring it to you.
-tagDevotionEffectB04=Rend
+tagDevotionEffectB04=撕裂 Rend
 tagDevotionEffectB04Desc=Shred your foes, exposing delicate arteries and inducing intense bleeding.
 tagDevotionEffectB05=Maul
-tagDevotionEffectB05Desc=Maul your foes with the might of a dire bear. ^oRequires a melee weapon.
-tagDevotionEffectB06=Blades of Wrath
+tagDevotionEffectB05Desc=Maul nearby foes with the might of a dire bear. ^oRequires a melee weapon.
+tagDevotionEffectB06=愤怒之刃 Blades of Wrath
 tagDevotionEffectB06Desc=Push the advantage by unleashing a burst of phantasmal blades that pass through enemies with ease.
-tagDevotionEffectB07=Fissure
+tagDevotionEffectB07=沟壑 Fissure
 tagDevotionEffectB07Desc=A fissure opens in the earth, spewing lava and brimstone upon nearby foes.
-tagDevotionEffectB07_Pet01=Magma
-tagDevotionEffectB08=Trample
+tagDevotionEffectB07_Pet01=岩浆 Magma
+tagDevotionEffectB08=践踏 Trample
 tagDevotionEffectB08Desc=Unleash a wave of force from your shield that shatters the very earth and scatters your foes.
-tagDevotionEffectB09=Arcane Bomb
-tagDevotionEffectB09Desc=Mark the ground with an arcane sigil that erupts upon coming in contact with an enemy. ^oArcane Bombs take 1 second to arm.
-tagDevotionEffectB09_Pet01=Detonate
-tagDevotionEffectB10=Raise the Dead
-tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time.
-tagDevotionEffectB10_Pet01=Melee Attack
+tagDevotionEffectB09=奥术炸弹 Arcane Bomb
+tagDevotionEffectB09Desc=Mark the ground with an arcane sigil that erupts upon coming in contact with an enemy. ^o需要 1 秒的时间来安放奥术炸弹。
+tagDevotionEffectB09_Pet01=引爆 Detonate
+tagDevotionEffectB10=死尸复生 Raise the Dead
+tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time. ^oThe dead scale with Pet Bonuses.
+tagDevotionEffectB10_Pet01=近战攻击 Melee Attack
 tagDevotionEffectB11=Eldritch Fire
 tagDevotionEffectB11Desc=Eldritch flames erupt from your blows and spread wildly among your foes.
-tagDevotionEffectB12=Bysmiel's Command
+tagDevotionEffectB12=拜斯迈的号令 Bysmiel's Command
 tagDevotionEffectB12Desc=Call forth an eldritch hound to snap and tear at your foes. The hound's presence in the physical realm is unstable and it will only remain at your side for a limited time. ^oThe hound scales with Pet Bonuses.
-tagDevotionEffectB12_Pet01=Tooth and Claw
-tagDevotionEffectB12_Pet02=Plague Breath
+tagDevotionEffectB12_Pet01=尖牙与利爪 Tooth and Claw
+tagDevotionEffectB12_Pet02=瘟疫吐息 Plague Breath
 tagDevotionEffectB13=Reckless Tempest
 tagDevotionEffectB13Desc=Static energy swells within you, unleashed upon nearby foes in the form of destructive bolts of lightning.
-tagDevotionEffectB14=Shield Wall
+tagDevotionEffectB14=盾墙 Shield Wall
 tagDevotionEffectB14Desc=Your shield turns into a barrier that extends beyond its physical limitations. ^oRequires a shield.
-tagDevotionEffectB15=Blizzard
+tagDevotionEffectB15=暴风雪 Blizzard
 tagDevotionEffectB15Desc=Shards of razor-sharp ice rain down from the sky upon your foes.
-tagDevotionEffectB16=Fetid Pool
+tagDevotionEffectB16=腐臭之池 Fetid Pool
 tagDevotionEffectB16Desc=A festering pool erupts beneath your enemies, corrupting the ground.
-tagDevotionEffectB17=Elemental Barrier
+tagDevotionEffectB17=元素屏障 Elemental Barrier
 tagDevotionEffectB17Desc=Your shield becomes a barrier against the forces of magic.
-tagDevotionEffectB18=Acid Spray
+tagDevotionEffectB18=酸液喷射 Acid Spray
 tagDevotionEffectB18Desc=The manticore's sting pierces through your target, creating a spray of caustic acid behind them.
-tagDevotionEffectB20=Messenger of War
+tagDevotionEffectB20=战争信使 Messenger of War
 tagDevotionEffectB20Desc=Carry on your message of conquest, unimpeded by any foe.
-tagDevotionEffectB28=Giant's Blood
+tagDevotionEffectB28=巨人之血 Giant's Blood
 tagDevotionEffectB28Desc=Giant's blood flows through your veins, incurring improved regeneration and healing.
 tagDevotionEffectB29=Wayward Soul
 tagDevotionEffectB29Desc=Sacrifice a wayward soul to ward yourself against the specter of death.
-tagDevotionEffectB30=Cleansing Waters
+tagDevotionEffectB30=净化之水 Cleansing Waters
 tagDevotionEffectB30Desc=Ulo's cleansing waters purge all foul magic from the area, removing beneficial auras and spells from foes while allies are cleansed of negative ailments.
 
-tagDevotionEffectC01=Time Stop
-tagDevotionEffectC01Desc=The sands of the hourglass halt their ceasless motion, stopping time for foes that dare strike you.
-tagDevotionEffectC02=Vile Eruption
+tagDevotionEffectC01=时间静止 Time Stop
+tagDevotionEffectC01Desc=The sands of the hourglass halt their ceaseless motion, stopping time for foes that dare strike you.
+tagDevotionEffectC02=邪爆 Tainted Eruption
 tagDevotionEffectC02Desc=The corruption trapped within you is unleashed in a massive explosion of vile toxins.
-tagDevotionEffectC03=Abominable Might
+tagDevotionEffectC03=混元之力 Abominable Might
 tagDevotionEffectC03Desc=The chaotic powers of the Void flow through you, turning your weapons into conduits for your fiendish might.
-tagDevotionEffectC04=Light of Empyrion
+tagDevotionEffectC04=至高神的圣光 Light of Empyrion
 tagDevotionEffectC04Desc=The divine light of Empyrion banishes the darkness and sears your foes.
-tagDevotionEffectC05=Blind Fury
+tagDevotionEffectC05=狂怒 Blind Fury
 tagDevotionEffectC05Desc=Exhilarated by the blood and gore you spill, you violently assault all nearby foes in a flurry of vicious blows. ^oRequires a melee weapon.
-tagDevotionEffectC06=Stone Form
+tagDevotionEffectC06=石之形态 Stone Form
 tagDevotionEffectC06Desc=Your flesh becomes as stone, nearly impervious to all but the toughest blows.
-tagDevotionEffectC07=Spear of the Heavens
+tagDevotionEffectC07=天堂之戟 Spear of the Heavens
 tagDevotionEffectC07Desc=A celestial spear smites foes who dare strike you.
-tagDevotionEffectC08=Meteor Shower
+tagDevotionEffectC08=陨石雨 Meteor Shower
 tagDevotionEffectC08Desc=At your behest, the sky splits open to unleash a barrage of molten rock.
-tagDevotionEffectC09=Hungering Void
+tagDevotionEffectC09=饥渴虚空 Hungering Void
 tagDevotionEffectC09Desc=The hungering void empowers you, your allies and your minions, but the power gained comes at a heavy toll to the body.
-tagDevotionEffectC09_Pet01=Devour
-tagDevotionEffectC09_Pet02=Tooth and Claw
-tagDevotionEffectC10=Healing Rain
+tagDevotionEffectC09_Pet01=吞噬 Devour
+tagDevotionEffectC09_Pet02=尖牙与利爪 Tooth and Claw
+tagDevotionEffectC10=治疗之雨 Healing Rain
 tagDevotionEffectC10Desc=A soothing mist emanates from you, mending wounds and curing ailments.
-tagDevotionEffectC11=Howl of Mogdrogen
+tagDevotionEffectC11=莫格卓根的嚎叫 Howl of Mogdrogen
 tagDevotionEffectC11Desc=Driven by the thrill of a fresh kill, you throw your minions into a fervent rage.
-tagDevotionEffectC12=Elemental Seeker
+tagDevotionEffectC12=元素探寻者 Elemental Seeker
 tagDevotionEffectC12Desc=Conjure an eldritch creature of pure energy that seeks out and burns nearby foes with its very presence before returning to the Aether in an explosion of energy. ^oElemental Seekers scale with player damage bonuses.
-tagDevotionEffectC12_Pet01=Burning Presence
-tagDevotionEffectC12_Pet02=Detonate
-tagDevotionEffectC13=Whirlpool
+tagDevotionEffectC12_Pet01=燃烧之躯 Burning Presence
+tagDevotionEffectC12_Pet02=自爆 Detonate
+tagDevotionEffectC13=漩涡 Whirlpool
 tagDevotionEffectC13Desc=The stirring depths are unleashed as a hungering whirlpool appears to devastate your foes.
 tagDevotionEffectC14=Living Shadow
 tagDevotionEffectC14Desc=A manifestation of a nameless hero rises to fight alongside you. ^oLiving Shadows scale with player damage bonuses.
-tagDevotionEffectC14_Pet01=Shadow Strike
-tagDevotionEffectC14_Pet02=Shadow Blades
+tagDevotionEffectC14_Pet01=暗影打击 Shadow Strike
+tagDevotionEffectC14_Pet02=暗影之刃 Shadow Blades
 
 #SkillsReallocator
 
@@ -2601,10 +2675,10 @@ tagReallocateError02=铁币不足。
 tagReallocateError03=不能从专精中撤销点数。
 tagDecreaseMasteryError=不能从专精中撤销点数。
 tagReclaimPoint=点击以撤销加点(费用{^y}{%t0}{^-}铁币)
-tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether Crystal)
+tagReclaimDevotionPoint=点击以撤销虔诚点数(花费 {^s}{%t0}{^-} 枚铁币， {^g}{%t1}{^-} 块虚化水晶)
 tagRemovePoint=左键点击来移除专精点数
 tagReclaimBase=先移除其延伸技能才能移除该技能
-tagReclaimDevotion=Remove Attached Devotion Effect
+tagReclaimDevotion=移除关联的虔诚技能效果
 tagRemoveBase=无法移除专精点数
 tagReclaimNoPoints=没有技能点数可以撤销
 tagRemoveNoPoints=没有点数可以移除
@@ -2661,3 +2735,9 @@ tagEnemySkillA11_Desc=黑曜石亵渎者用黑曜石牢笼困住了你，吸取�
 
 tagEnemySkillA12=黑曜石陷阱 Obsidian Trap
 tagEnemySkillA12_Desc=本·雅尔用黑曜石牢笼困住了你，并用混沌的力量摧毁着你的身体。
+
+tagEnemySkillD01=Entropic Void
+tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
+
+tagEnemySkillD02=Fire Devil
+tagEnemySkillD02_Desc=The spinning flames singe you.

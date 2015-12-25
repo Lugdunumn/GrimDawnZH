@@ -124,7 +124,7 @@ tagRiftRottedCroplands=腐坏田地传送门
 tagRiftRottedHarvest=腐烂谷仓
 tagRiftSorrowsBastion=悲伤城堡传送门
 tagRiftBloodGrove=血森林传送门
-tagRiftDarkvale=黑谷传送门
+tagRiftDarkvale=黑谷门传送门
 tagRiftAlpineGate=Asterkarn Mountains Rift
 tagRiftAlpineRoad=Asterkarn Road Rift
 tagRiftAlpineValley=Asterkarn Valley Rift
@@ -410,6 +410,7 @@ tagNotification_WardenCellarFound=这一定就是典狱长的地下室了……
 tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
 tagNotification_LostApprenticeCellar=有人最近来过这儿……
 tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
+tagNotification_WightmireRiftgate=传送门被蛇人包围着！
 
 tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
 tagNotification_HS_SpoilsOfTheGrimDawn=你找到了古老的遗迹。
@@ -428,11 +429,15 @@ tagNotification_AreaC_TrappedAndAloneReturn=一个冥灵正在屠杀流浪者营
 tagNotification_AreaD_KymonSecret=You hear the sound of a stone door opening nearby.
 tagNotification_AreaD_NecropolisRiftgate=Fiends of the void spill out of the riftgate!
 tagNotification_AreaD_FortIkonRiftgate=The riftgate is swarming with Aetherials.
+tagNotification_AreaD_FinalCryptLocked=The crypt is sealed by a cultist sigil empowered by nearby Blood Wagons.
+tagNotification_AreaD_FinalBossUlgrim=Void rifts open up around the chamber, consuming Ulgrim!
 
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门之间的连接……
 tagNotification_WarningGatesOfAnguish=痛苦之门已经打开了。动作要快，这扇门不会开着很久的……
 tagNotification_WarningGatesOfAnguishLocked=痛苦之门已被封印，这场游戏它不会再打开了。
+tagNotification_WarningBastionGates=The Bastion Gates have been opened. Make haste, as they will not remain open for long...
+tagNotification_WarningBastionGatesLocked=The Bastion Gates are sealed and will not reopen again in this session.
 
 #NPCNames
 
@@ -524,12 +529,12 @@ tagNPC_AreaC_23=灵魂守卫堪德里斯
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=战法师莫伊拉
+tagNPC_AreaD_01=破法者莫伊拉
 tagNPC_AreaD_02=里夫队长
 tagNPC_AreaD_03=武器专家艾德里克
 tagNPC_AreaD_04=阿纳斯塔里娅
-tagNPC_AreaD_04B=Anasteria, Harbinger of the North
-tagNPC_AreaD_04C=Anasteria,  Wrath of the Aether
+tagNPC_AreaD_04B=阿纳斯塔里娅, Harbinger of the North
+tagNPC_AreaD_04C=阿纳斯塔里娅,  Wrath of the Aether
 
 tagNPC_DetonationSite=爆破点
 tagNPC_AetherCluster=虚化集簇
@@ -540,7 +545,7 @@ tagNPC_OldGroveBridge=古老林地桥梁修理处
 tagNPC_HomesteadBridge=双子瀑布桥梁修理处
 tagNPC_WightmireBridge=尸妖泥沼桥梁修理处
 tagNPC_BurrwitchBridge=伯尔维治桥梁修理处
-
+tagNPC_NecropolisBridge=Necropolis Bridge Repair Site
 
 tagNPC_JosephClaxton=约瑟夫·克莱斯顿
 tagNPC_MariaFletcher=玛利亚·弗莱彻
@@ -645,9 +650,6 @@ tagQuestItemSlithNecklace=蛇人项链
 tagQuestItemSlithNecklaceDesc=“蛇人萨满佩戴的项链，只有它们才懂得此物的用途。”
 tagQuestItemFabric=织物
 tagQuestItemFabricDesc=“有点旧有点脏，但是其他方面都挺好。”
-
-tagQuestItemSaltMineKey_Name=通往被遗忘的深渊的钥匙
-tagQuestItemSaltMineKey_Text="用来打开封印科里根矿井中遗忘深渊的铁门的钥匙。"
 
 tagQuestItemForgottenPassage=被遗忘的文本
 tagQuestItemForgottenPassage_Desc="一段记录古安克维亚历史的支离破碎的文本。没有剩下部分的文本是无法解密的。"
@@ -936,7 +938,7 @@ tagLoreObj_TrappedAndAloneName=伊劳拉的日记
 tagLoreObj_TrappedAndAloneText=Had the nightmare again. I am in an old tomb, barely a candle to light the way. Off in the corner I see a pair of red glowing eyes. They come closer...closer...then just before I can make out what it is through the shadows, the creature is gone.{^n}{^n}I try to run, but every way I go ends in rubble and stone. There is no escape. I turn around to see the eyes once more, staring back at me. I hear laughter, a child's laughter. Then everything is fire. I try to scream, but nothing comes out. The eyes just stare ahead as I writhe in the flames.{^n}{^n}That is when I awaken, drenched in sweat. It has been like this for five nights in a row. The nightmares are becoming more frequent and I am not sure how much more of this I can stand. It may not be wise, but perhaps it is time we moved on from this wretched place.
 
 tagLoreObj_AreaCThornsburyDiary_Name=黛拉日记的节选
-tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of 悲伤城堡. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
+tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Darkvale. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
 
 tagLoreObj_AreaCFarmer_NoteA01Name=沃尔特的笔记
 tagLoreObj_AreaCFarmer_NoteA01Text=I can see smoke rising from the Everbrook estate. They're nearly here, whatever they are. I've barricaded the doors and windows as best I could. All that remains now is to wait for them to come to us.{^n}{^n}The wife insisted that we abandon the farm and head for Homestead, but I'll be damned if I let some green-eyed freaks kick us off our land. Our family has not toiled on this farm for generations just to leave it at the first sign of trouble. Those cowards in Homestead can leave their crops to rot. When all this blows over, I'll still be here tending to the harvest, and they will look the fools.
@@ -1095,7 +1097,7 @@ tagNPC_MerchantA04=以赛亚·瑞丹
 tagStoreTitle_MerchantA04A=特殊货物商人
 tagStoreTitle_MerchantA04B=收集品商人
 
-tagNPC_MerchantA05=Pavill
+tagNPC_MerchantA05=Pavla
 tagStoreTitle_MerchantA05=Black Legion Wares
 
 tagNPC_MerchantB01=本内瓦德
@@ -1113,13 +1115,16 @@ tagStoreTitle_MerchantB04=教团的供应商
 tagNPC_MerchantC01=马里斯·卡斯
 tagStoreTitle_MerchantC01=失落宝物商人
 
+tagNPC_MerchantC02=Karros Adal
+tagStoreTitle_MerchantC02=Wares of the Damned
+
 tagNPC_MerchantT01=流动商人
 tagStoreTitle_MerchantT01=流动商人
 
 tagNPC_SmugglerA01=卡莱尔
 tagStoreTitle_SmugglerA01=走私者
 
-tagNPC_SmugglerA02=哈里
+tagNPC_SmugglerA02=Hannah
 tagStoreTitle_SmugglerA02=走私者
 
 tagNPC_SmugglerA03=澳格瓦德
@@ -1154,7 +1159,7 @@ tagStoreDesc_SmithA03_3=
 tagStoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA04=霍鲁斯
-tagStoreTitle_SmithA04=亡灵铁匠
+tagStoreTitle_SmithA04=被诅咒的铁匠
 tagStoreDesc_SmithA04_1={}亡灵天赋
 tagStoreDesc_SmithA04_2=霍鲁斯在尘世那特殊的存在方式，承载了数个世纪的锻造知识。
 tagStoreDesc_SmithA04_3= 
@@ -1188,11 +1193,11 @@ tagStoreTitle_FactionQuartermaster_06=手工艺品保管者
 tagNPC_FactionQuartermaster_07=保管者波卢克
 tagStoreTitle_FactionQuartermaster_07=手工艺品保管者
 
-tagNPC_FactionQuartermaster_08=索恩
+tagNPC_FactionQuartermaster_08=Thalia
 tagStoreTitle_FactionQuartermaster_08=军需官
 tagNPC_FactionQuartermaster_09=柯林斯
 
-tagNPC_FactionQuartermaster_10=Anasteria's Drudge
+tagNPC_FactionQuartermaster_10=阿纳斯塔里娅's Drudge
 tagStoreTitle_FactionQuartermaster_10=放逐者的秘密
 
 #Faction Bounty Tables
@@ -1203,3 +1208,34 @@ tagNPC_FactionTable_04=黑色军团赏金桌
 tagNPC_FactionTable_05=凯蒙的神选战士赏金桌
 tagNPC_FactionTable_06=死亡守夜人教团赏金桌
 tagNPC_FactionTable_07=放逐者赏金桌
+
+#Devotion Shrines
+tagDevotionShrineA01=Burial Hill
+tagDevotionShrineA02=Foggy Bank
+tagDevotionShrineA03=Burrwitch Outskirts
+tagDevotionShrineA04=Flooded Passage
+tagDevotionShrineA05=Burrwitch
+tagDevotionShrineA06=Devil's Aquifer
+tagDevotionShrineA07=Warden's Lab
+tagDevotionShrineA08=East Marsh
+tagDevotionShrineB01=Arkovian Foothills
+tagDevotionShrineB02=Old Arkovia
+tagDevotionShrineB03=Undercity
+tagDevotionShrineB04=Cronley's Lair
+tagDevotionShrineB05=Broken Hills
+tagDevotionShrineB06=Old Arkovia
+tagDevotionShrineB07=Steps Of Torment
+tagDevotionShrineC01=Mountain Deeps
+tagDevotionShrineC02=Jagged Waste
+tagDevotionShrineC03=Tyrant's Hold
+tagDevotionShrineC04=Forgotten Depths
+tagDevotionShrineC05=Infested Farms
+tagDevotionShrineC06=Darkvale Village
+tagDevotionShrineC07=Bastion of Chaos
+tagDevotionShrineC08=Blood Grove
+tagDevotionShrineD01=Alpine Valley
+tagDevotionShrineD02=Tomb of the Damned
+tagDevotionShrineD03=Necropolis
+tagDevotionShrineD04=The Black Sepulcher
+tagDevotionShrineD05=???
+tagDevotionShrineMogdrogen=Mogdrogen's Shrine

@@ -14,7 +14,7 @@ The Cult is still out there. Shouldn't we stop them for good?
 Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
 I have another question.
 I see.
-Did you know that Anasteria is an Aetherial?
+Did you know that 阿纳斯塔里娅 is an Aetherial?
 I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
 I have another question.
 Makes sense.
@@ -35,9 +35,9 @@ Entering the Void is simple enough, what with the many rifts now open across Cai
 You can count on me.
 Don't take too long.
 You're just going to end up killed.
-I've heard about what you've done to Anasteria.{^n}{^n}You brash actions have cost us a valuable resource.
+I've heard about what you've done to 阿纳斯塔里娅.{^n}{^n}You brash actions have cost us a valuable resource.
 She was an Aetherial witch!
-Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}Anasteria saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
+Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}阿纳斯塔里娅 saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
 I had no idea.
 Perhaps you should have considered that before acting.
 I'm sorry.
@@ -59,14 +59,14 @@ Take the front gates out of Fort Ikon and make your way across the Plains of Str
 Thank you.
 I have some questions.
 Yes?
-Who is Anasteria?
-Anasteria? Why do you ask...
+Who is 阿纳斯塔里娅?
+阿纳斯塔里娅? Why do you ask...
 Captain Reave mentioned her.
-Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}In spite of whatever Reave has told you to do, Anasteria is not to be harmed.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, 阿纳斯塔里娅 has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}In spite of whatever Reave has told you to do, 阿纳斯塔里娅 is not to be harmed.
 I have another question.
 Very well.
 I heard her name come up.
-Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+阿纳斯塔里娅 has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
 I have another question.
 I see.
 I have another question.
@@ -79,7 +79,7 @@ What can you tell me about the Necropolis?
 The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
 I have another question.
 I need to get back out there.
-Did you know that Anasteria is an Aetherial?
+Did you know that 阿纳斯塔里娅 is an Aetherial?
 I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
 I have another question.
 Nevermind.
@@ -94,16 +94,16 @@ Quick thinking. I will have a contingent of troops sent there immediately.{^n}{^
 I will meet them there.
 I have some questions.
 Make it quick.
-Who is Anasteria?
-Anasteria? Why do you ask...
+Who is 阿纳斯塔里娅?
+阿纳斯塔里娅? Why do you ask...
 Captain Reave mentioned her.
-Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}Ignore whatever Reave has told you to do, Anasteria is not to be harmed.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, 阿纳斯塔里娅 has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}Ignore whatever Reave has told you to do, 阿纳斯塔里娅 is not to be harmed.
 Alright. What did you need me to do?
 
 I have another question.
 Very well.
 I heard her name come up.
-Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+阿纳斯塔里娅 has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
 Alright. What did you need me to do?
 
 I have another question.
@@ -124,7 +124,7 @@ What did you need me to do?
 
 I have another question.
 I'll be back soon.
-Did you know that Anasteria is an Aetherial?
+Did you know that 阿纳斯塔里娅 is an Aetherial?
 I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
 What did you need me to do?
 
@@ -140,7 +140,7 @@ I will head there now.
 Not yet.
 Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials, it seems, have gotten a hold of the commander.
 He's been possessed?
-Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; Use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
+Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
 It will be done.
 It will have to wait.
 I've already dealt with Lucius and cleared the gates.

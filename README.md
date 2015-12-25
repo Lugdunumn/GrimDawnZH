@@ -1,12 +1,6 @@
 恐怖黎明中文本地化
 ===
 
-beta27版汉化正在进行中
-
-所有文本均已升级至beta27，先同步或反向拉取后再进行修改。
-
-查看beta27文本变动：https://github.com/solael/GrimDawn/compare/b27
-
 发现与最新版英文原文不一致请及时通知
 
 ```html

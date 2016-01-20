@@ -1,9 +1,9 @@
 Inquisitor Creed
-I'm not ready to perform the ritual just yet.{^n}{^n}Take some time to finalize your affairs. We will set out as soon as I am able.
+Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
 I have some questions.
 Yes?
-How do you intend on locating Ulgrim?
-There are arcane ways to track down anyone, so long as you have something that was once theirs.{^n}{^n}Once I've gathered the materials for the ritual, we will need to acquire an object that was important to Ulgrim.
+What about Ulgrim?
+There are arcane ways to track down almost anyone. I'll think of something. Trust me.
 I have another question.
 I see.
 What about the Aetherials?
@@ -24,9 +24,9 @@ Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}
 We'll deal with it, one challenge at a time.
 You've returned. Is it finished then?
 The beast has been banished, but Ulgrim was pulled into the Void along with it.
-And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
-What can we do?
-Entering the Void is simple enough, what with the many rifts now open across Cairn, but you could spend an eternity wandering the ashen wastes in search of Ulgrim and come up dry.{^n}{^n}No, we will need some way to locate him; and I have just the ritual in mind.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.{^n}{^n}I need time to gather the necessary materials.
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
+We can't give up on Ulgrim.
+At last...a reprieve.
 You can count on me.
 Don't take too long.
 You're just going to end up killed.

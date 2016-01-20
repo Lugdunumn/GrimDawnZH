@@ -5,6 +5,9 @@
 你能打开大门么？
 艾格瑞姆说的很清楚，在他听取完关于最近事件的报告之前任何人都不能离开这里。
 我会跟他谈谈的。
+Where is Ulgrim?
+Ulgrim is currently speaking with Inquisitor Creed, on the balcony overlooking the fields.{^n}{^n}You will find the stairs up near the planning room where the Captain is situated.
+Thank you.
 我会跟他谈谈的。
 保持警戒。人类的敌人包围着我们。
 你能打开大门么？

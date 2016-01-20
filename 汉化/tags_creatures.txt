@@ -5,7 +5,7 @@ tagSurvivorGuardGenericRangedB01=幸存者 ~ 游击兵
 tagSurvivorGuardGenericMeleeA01=幸存者 ~ 防御者
 tagSurvivorGuardGenericMeleeB01=幸存者 ~ 守卫
 
-tagHumanRover_GuardGeneric_MeleeA01=流浪强制者
+tagHumanRover_GuardGeneric_MeleeA01=流浪者 防御者
 
 tagBlackLegion_GuardMeleeA01=黑色军团 ~ 步兵
 tagBlackLegion_GuardRangedA01=黑色军团 ~ 射手
@@ -125,7 +125,9 @@ tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
 tagEnemyChthonianDreadguardA01=冥灵先锋
 tagEnemyChthonianDreadguardB01=冥灵恐惧守卫
+tagEnemyChthonianDreadguardB01Logghorrean=Loghorrean's Dreadguard
 tagEnemyChthonianDreadguardC01=冥灵暴君
+tagEnemyChthonianDreadguardC01Logghorrean=Loghorrean's Tyrant
 tagEnemyChthonianDreadguardD01=Loghorrean's Vanguard
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
@@ -431,7 +433,7 @@ tagHumanBoss04=竞技场主 鲍里斯
 
 tagHumanRoverA_A01=流浪者
 tagHumanRoverA_B01=流浪者 侦察兵
-tagHumanRoverA_C01=流浪者 强制者
+tagHumanRoverA_C01=流浪者 防御者
 
 #CreatureHumanPossessed 被占据人类
 
@@ -856,7 +858,7 @@ tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 
 tagCaveSpiderBoss01=幽冥编织者 安苟利亚克斯
-tagCaveTrollHalfBoss01=穴居者 高鲁斯
+tagCaveTrollHalfBoss01=穴居者 咕噜斯
 
 #creatureVultures 秃鹫
 

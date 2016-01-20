@@ -60,7 +60,7 @@ tagTutorialTip20Title=使用镶嵌物
 tagTutorialTip20SubtitleA=镶嵌
 tagTutorialTip20TextA=右击部件选择它，然后左键单击你想要附加的装备。注意每个镶嵌物只能用于镶嵌特定的物品种类。
 tagTutorialTip20SubtitleB=合成镶嵌物
-tagTutorialTip20TextB=你可以合成相同名字的镶嵌物碎片来获得更强力的奖励。完整的镶嵌物将生成额外的奖励。{^n}{^n}相同名字的镶嵌物碎片可以在第一块碎片附加过的物品上继续附加。
+tagTutorialTip20TextB=你可以合成相同名字的镶嵌物碎片来获得更强力的奖励。{^n}{^n}相同名字的镶嵌物碎片可以在第一块碎片附加过的物品上继续附加。
 
 tagTutorialTip21Title=第二技能专精
 tagTutorialTip21TextA=在10级时，你将获得选择第二个专精的选择权。要选择你的第二专精，打开{^y}技能窗口{^w}。第二专精不是必须的，但是在到达10级后你将总会有权选择它。

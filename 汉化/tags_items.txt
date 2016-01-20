@@ -76,6 +76,7 @@ tagWeaponSwordD008Desc="只要看到这把武器，你的内心就会充满希�
 tagWeaponSwordD009=死亡印记之爪 Deathmarked Claw
 tagWeaponSwordD010=风暴之心 Stormheart
 tagWeaponSwordD010Desc="There are letters etched into the hilt: D.T."
+ tagWeaponSwordD011=Reaver's Claw
  
 tagWeaponSwordF001=军团切刀
 tagWeaponSwordF002=神选之剑
@@ -307,6 +308,7 @@ tagWeaponGun2hD004=灵魂旋风 Vortex of Souls
 tagWeaponGun2hD004Desc="用它发射出去的每一枪都会产生虚化之力的波动。"
 tagWeaponGun2hD005=裂肠者 Gutripper
 tagWeaponGun2hD006=奥祖因的火焰散播者 Ulzuin's Flamespreader
+tagWeaponGun2hD007=Valdun's Rifle
 
 tagWeaponGun2hF001=恶魔的火枪 Devil's Musket
 tagWeaponGun2hF002=收割者的双管枪 Harvest's Double-Barrel
@@ -510,6 +512,7 @@ tagWeaponCaster1hD013=冥神之牙 Fang of Ch'thon
 tagWeaponCaster1hD014=蛇怪之爪 Basilisk Claw
 tagWeaponCaster1hD015=千里眼法杖 Clairvoyant's Wand
 tagWeaponCaster1hD016=德里格的符文匕首 Runed Dagger of Dreeg
+tagWeaponCaster1hD017=Trozan's Starkeeper
 
 tagWeaponCaster1hF001=军团唤火者 Legion Firestarter
 tagWeaponCaster1hF002=军团虚化火花 Legion Aetherspark
@@ -937,10 +940,12 @@ tagHeadD012=马尔可夫的面甲 Markovian's Visor
 tagHeadD013=奥祖因的头盔 Ulzuin's Headguard
 tagHeadD014=德里格的兜帽 Hood of Dreeg
 tagHeadD015=死亡印记兜帽 Deathmarked Hood
-tagHeadD016=伊斯坎德拉的头环 Iskandra's Circlet
+tagHeadD016=伊斯坎德拉的兜帽 Iskandra's Hood
 tagHeadD017=艾托斯的兜帽 Ultos' Hood
 tagHeadD018=寒冬之王的王冠 Crown of the Winter King
 tagheadD018Desc="Crown of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
+tagHeadD019=Trozan's Hat
+tagHeadD020=Valdun's Hat
 
 tagHeadF001=放逐者的兜帽 Outcast's Hood
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
@@ -1005,6 +1010,7 @@ tagShoulderC018=寒鬃披肩 Chillmane Mantle
 tagShoulderC019=阿玛拉斯塔的肩铠 Amarastan Pauldrons
 tagShoulderC020=持火者的肩铠 Flame Keeper's Pauldrons
 tagShoulderC021=卡里多的披肩 Callidor's Mantle
+tagShoulderC030=Spaulders of Mogdrogen
 
 tagShoulderD001=命运编织者披肩 Fateweaver's Mantle
 tagShoulderD001Desc="命运的股绳，就像无尽的编织，缠绕和磨损着人类流逝的岁月。"
@@ -1030,6 +1036,7 @@ tagShoulderD018=伊斯坎德拉的肩铠 Iskandra's Pauldrons
 tagShoulderD019=艾托斯的肩甲 Ultos' Spaulders
 tagShoulderD020=莫格卓根的披肩 Mantle of Mogdrogen
 tagShoulderD020Desc="莫格卓根在凡间的化身所穿的披肩。"
+tagShoulderD021=Trozan's Mantle
 
 tagShoulderF001=放逐者的燃烧披肩
 tagShoulderF002=放逐者的寒霜披肩
@@ -1128,9 +1135,9 @@ tagTorsoC032=莫格卓根的外衣 Surcoat of Mogdrogen
 
 tagTorsoD001=恶魔之鳞夹克 Fiendscale Jacket
 tagTorsoD002=魔鬼囚笼锁子甲 Devil's Cage Hauberk
-tagTorsoD003=幻影裹尸布 Shroud of Illusion
-tagTorsoD003Desc="这件奇怪的衣服随着光线的明灭在穿戴者周围制造出迷人心智的幻象。"
-tagTorsoD004=伟大守护者战衣 Vestments of the Great Guardian
+tagTorsoD003=幻影尸衣 Shroud of Illusion
+tagTorsoD003Desc="这件奇特的衣服随着光线的明灭在穿戴者周围制造出迷人心智的幻象。"
+tagTorsoD004=伟大守护者的战衣 Vestments of the Great Guardian
 tagTorsoD004Desc="德里格的高阶祭司穿着的衣物，充满了巫神在人世间残存的守护之力。"
 tagTorsoD005=阿兹拉格的恐惧之甲 Dread Armor of Azragor
 tagTorsoD005Desc="阿兹拉格曾是位凶暴之人，他麾下的骑士因他卑劣却毫无疑问有效的战术对他感到恐惧不已。"
@@ -1150,6 +1157,8 @@ tagTorsoD016=死亡印记夹克 Deathmarked Jacket
 tagTorsoD017=伊斯坎德拉的战衣 Iskandra's Vestments
 tagTorsoD018=艾托斯的胸铠 Ultos' Cuirass
 tagTorsoD019=寒恐胸铠 Frostdread Cuirass
+tagTorsoD020=Trozan's Vestments
+tagTorsoD021=Valdun's Jacket
 
 tagTorsoF001=放逐者的燃烧战衣
 tagTorsoF002=放逐者的严寒战衣
@@ -1451,8 +1460,8 @@ tagRingB002=克隆利的印玺 Cronley's Signet
 tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
 tagRingB003=斯金纳的家传印戒 Skinner Family Seal
 tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
-tagRingB004=高鲁斯的戒指 Gollus' Ring
-tagRingB004Desc="他真的是很喜欢这枚戒指。"
+tagRingB004=咕噜斯的戒指 Gollus' Ring
+tagRingB004Desc="宝贝，我的宝贝！——咕噜斯"
 tagRingB005=血誓玺戒
 tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
 
@@ -1643,6 +1652,7 @@ tagNecklaceD020=艾托斯的宝石 Ultos' Gem
 tagNecklaceD021=马尔可夫的勋章 Markovian's Distinction
 +tagNecklaceD022=奥祖因之心 Heart of Ulzuin
 tagNecklaceD023=山脉之心 Heart of the Mountain
+tagNecklaceD024=Valdun's Bounty
 
 tagNecklaceF001=罗瓦里守护石 Rhowari Guardstone
 tagNecklaceF002=罗瓦里的怨恨 Rhowari Rancor
@@ -1773,7 +1783,7 @@ tagBlueprint_RelicD006=设计图：遗物-清算
 tagBlueprint_RelicD007=设计图：遗物-天灾
 tagBlueprint_RelicD008=设计图：遗物-奥祖因的烈火
 tagBlueprint_RelicD009=设计图：遗物-坏死
-tagBlueprint_RelicD010=设计图：遗物-阿格拉维斯的恶怨
+tagBlueprint_RelicD010=设计图：遗物-阿格维克斯的恶怨
 tagBlueprint_RelicD011=设计图：遗物-遗忘
 tagBlueprint_RelicD012=设计图：遗物-贝尔戈蒂安的屠戮
 tagBlueprint_RelicD013=设计图：遗物-湮灭
@@ -1960,6 +1970,8 @@ tagBlueprint_ArmorD015=设计图：Deathmarked Hood
 tagBlueprint_ArmorD016=设计图：Iskandra's Circlet
 tagBlueprint_ArmorD017=设计图：Ultos' Hood
 tagBlueprint_ArmorD018=设计图 : Crown of the Winter King
+tagBlueprint_ArmorD019=设计图 : Trozan's Hat
+tagBlueprint_ArmorD020=设计图 : Valdun's Hat
 
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
@@ -3216,7 +3228,7 @@ tagFactionMandateConfirmation=Are you sure you want to apply this Faction Mandat
 tagFactionWarrantConfirmation=Are you sure you want to apply this Faction Warrant? This will overwrite the current Faction Mandate.
 
 tagBoosterADesc=势力颁发的文书，将你视作该势力的盟友。
-tagBoosterBDesc=势力颁发的文书，委任某个个体作为他们的代表。^o可以放置在共享储物箱中以便供其它角色使用。
+tagBoosterBDesc=势力颁发的文书，委任某个个体作为他们的代表。^o可以放置在共享储物箱中以便供其它角色使用。 Does not stack with Writs.
 tagBoosterCDesc=A wanted poster condemning you as a sworn enemy.
 tagBoosterBL_A01=黑色军团敕令
 tagBoosterBL_A02=黑色军团高级敕令
@@ -3354,7 +3366,7 @@ tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding t
 
 tagItemSetC008Name=沉沦 Perdition
 tagItemSetC008NameB=赦免 Absolution
-tagItemSetC008Desc="Armor of Inquisitor Grayweather, infamous for splashing foes with acid, as he believed merely slaying the wicked was insuficient and that punishment should be exacted in the process."	
+tagItemSetC008Desc="Armor of Inquisitor Grayweather, infamous for splashing foes with acid, as he believed merely slaying the wicked was insufficient  and that punishment should be exacted in the process."
 
 tagItemSetC009Name=盲眼 The Unseeing Eye
 tagItemSetC009Desc="盲刺客，萨迪厄斯·布兰纳甘在光天化日之下暗杀了一位圣殿骑士团团长。之后他便声名远扬。"
@@ -3372,7 +3384,7 @@ tagItemSetC013Name=毁誓者 Oathbreaker
 tagItemSetC013NameB=毁誓者的烈焰 Oathbreaker's Flame
 tagItemSetC013Desc="毁誓者曾经携带的装备，他是一位为敌人打开城门背叛了他的国王的骑士。"
 
-tagItemSetC014Name=无畏之饰 Adorments of Valiance
+tagItemSetC014Name=无畏之饰 Adornments of Valiance
 tagItemSetC014Desc="在战争年代为奖励士兵们英勇行为所授予的奖章。"
 
 tagItemSetC015Name=屠杀 Carnage
@@ -3473,6 +3485,13 @@ tagItemSetD016Desc="Carefully preserved regalia of Master Iskandra, worn on the 
 
 tagItemSetD017Name=艾托斯的风暴 Ultos' Storm
 tagItemSetD017Desc="天空之神艾托斯的化身身穿的铠甲，他能够召唤出灾难性的风暴。"
+
+tagItemSetD018Name=Trozan's Ascension
+tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to harness their unbelievable power, despite all risks involved in taming such raw energies."
+
+tagItemSetD019Name=Valdun's Treachery
+tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but it was not until he turned his sights upon the nobility of Erulan that he became truly infamous."
+
 
 #Prefixes前缀
 
@@ -3944,6 +3963,7 @@ tagChestHeroD06=卓越宝箱
 tagChestHeroD07=黑曜石集簇
 tagChestHeroD08=黑曜石宝藏
 tagChestHeroD09=黑曜石财宝
+tagChestHeroD10=Loghorrean's Trove
 tagChestNemesis01=复仇者的珍宝
 tagBreakableA01=桶
 tagBreakableA02=板条箱

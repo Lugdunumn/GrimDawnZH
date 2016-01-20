@@ -56,7 +56,7 @@ The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. 
 离开赏金桌。
 下一个赏金任务。
 
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Black Sepulcher in the 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 接受这项赏金任务。
 离开赏金桌。
 下一个赏金任务。

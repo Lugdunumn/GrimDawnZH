@@ -8,25 +8,25 @@ achGroupWorld=世界
 # Achievements
 
 ach001Title=怪物屠杀者 Monster Slayer
-ach001Desc=消灭 15 只精英怪物 (带有星形标记)。
+ach001Desc=消灭 25 只精英怪物 (带有星形标记)。
 
 ach002Title=史诗屠杀者 Heroic Slayer
-ach002Desc=消灭 30 只精英怪物 (带有星形标记)。
+ach002Desc=消灭 100 只精英怪物 (带有星形标记)。
 
 ach003Title=传奇屠杀者 Legendary Slayer
-ach003Desc=消灭 100 只精英怪物 (带有星形标记)。
+ach003Desc=消灭 1000 只精英怪物 (带有星形标记)。
 
-ach004Title=万里挑一 One in a Million
-ach004Desc=在精英或者极限难度击杀一个极度稀有级的史诗怪物(名称为红色)。
+ach004Title=Nemesis
+ach004Desc=Slay a Nemesis monster on Elite or Ultimate Difficulty.
 
-ach005Title=万里挑八 Eight in a Million
-ach005Desc=在精英或者极限难度击杀所有极度稀有级的史诗怪物(名称为红色)。
+ach005Title=Unstoppable
+ach005Desc=Slay Six Nemesis monsters on Elite or Ultimate Difficulty.
 
 ach006Title=净化世界 Cleansing the World
-ach006Desc=清除凯恩世界的100000只怪物。
+ach006Desc=清除凯恩世界的25000只怪物。
 
 ach007Title=屠戮过境 A Wake of Carnage
-ach007Desc=清除凯恩世界的500000只怪物。
+ach007Desc=清除凯恩世界的100000只怪物。
 
 ach008Title=尸山血海 An Ocean of Blood
 ach008Desc=清除凯恩世界的1000000只怪物。
@@ -47,13 +47,13 @@ ach013Title=堕落终结 The End to Depravity
 ach013Desc=击杀在堕落圣殿的冥神之刃萨拉查。
 
 ach014Title=粉碎冥神之刃 Shattering the Blade of Ch'thon
-ach014Desc=老兵难度下击杀在堕落圣殿的冥神之刃萨拉查。
+ach014Desc=终极难度下击杀在堕落圣殿的冥神之刃萨拉查。
 
 ach015Title=刽子手行刑 The Executioner Executed
 ach015Desc=杀了Alkamos, Lord Executioner in 苦痛阶梯.
 
 ach016Title=苦痛终结 The End of Torment
-ach016Desc=在老兵模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
+ach016Desc=终极难度下击杀在苦痛阶梯的行刑者领主阿卡莫斯。
 
 ach017Title=永恒行刑者 Immortal Executioner
 ach017Desc=在硬核模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
@@ -68,19 +68,19 @@ ach020Title=以血还血
 ach020Desc=击杀冥神魔像卡洛斯。
 
 ach021Title=凯恩的梦魇 The Bane of Cairn
-ach021Desc=击杀 ???
+ach021Desc=Slay the Loghorrean, Voice of Ch'thon.
 
 ach022Title=净化战火平原 Cleansing 战火平原
-ach022Desc=击杀战火平原的烈焰使者。
+ach022Desc=终极难度下击杀战火平原的烈焰使者。
 
 ach023Title=不惧火焰 Not Afraid of a Little Fire
-ach023Desc=在老兵难度击杀战火平原的烈焰使者。
+ach023Desc=终极难度下击杀战火平原的烈焰使者。
 
 ach024Title=屠杀格特沃姆
 ach024Desc=击杀在走私者盆地的格特沃姆。
 
 ach025Title=你很有种 You've Got Guts
-ach025Desc=在老兵模式击杀在走私者盆地的格特沃姆。
+ach025Desc=终极难度下击杀在走私者盆地的格特沃姆。
 
 ach026Title=修补是她的专长 Tinkering is Her Speciality
 ach026Desc=在伯尔维治解救达莱特。
@@ -109,44 +109,44 @@ ach033Desc=合成一个卓越遗物。
 ach034Title=神话之能 Mythic Power
 ach034Desc=合成一个神话遗物。
 
-ach035Title=战利品属于探索者 To the Explorer Go the Spoils
+ach035Title=Junior Explorer
 ach035Desc=打开10个一次性箱子。
 
-ach036Title=真正奉献
-ach036Desc=修复10个奉献圣坛。
+ach036Title=To the Explorer Go the Spoils
+ach036Desc=Open 20 One-Shot Chests.
 
-ach037Title=幸存者 Survivor
-ach037Desc=达到等级 10。
+ach037Title=Seeking the Stars
+ach037Desc=Restore 10 Devotion Shrines.
 
-ach038Title=斗士 Champion
-ach038Desc=达到等级 35。
+ach038Title=True Devotion
+ach038Desc=Restore 50 Devotion Shrines.
 
-ach039Title=英雄 Hero
-ach039Desc=达到等级 50。
+ach039Title=Survivor
+ach039Desc=升至10级。
 
-ach040Title=传奇 Legend
-ach040Desc=达到等级 75。
+ach040Title=Champion
+ach040Desc=升至35级。
 
-ach041Title=不朽传奇 Immortal Legend
-ach041Desc=在硬核模式达到等级 75。
+ach041Title=Hero
+ach041Desc=升至50级。
 
-ach042Title=世界保卫者
-ach042Desc=通关游戏。
+ach042Title=Legend
+ach042Desc=升至85级。
 
-ach043Title=凯恩世界的捍卫者 Champion of Cairn
-ach043Desc=精英难度通关游戏。
+ach043Title=不朽传奇 Immortal Legend
+ach043Desc=专家模式升至85级。
 
 ach044Title=救世主
 ach044Desc=极限难度通关游戏。
 
-ach045Title=不朽的幸存者 Immportal Savior
+ach045Title=不朽幸存者 Immortal Savior
 ach045Desc=极限难度硬核模式通关游戏。
 
 ach046Title=艰难决断 Difficult Decisions
-ach046Desc=???
+ach046Desc=Resolve the situation in New Harbor without resorting to violence.
 
 ach047Title=一视同仁 No Exceptions
-ach047Desc=击杀 ???
+ach047Desc=击杀Anasteria.
 
 ach048Title=我没有想到会是你，人类 I Was Not Expecting You, Human
 ach048Desc=在老兵模式用低于11级的角色击杀典狱长克里格。
@@ -164,7 +164,49 @@ ach052Title=隐藏的宝藏 Hidden Wealth
 ach052Desc=在霍姆斯特德附近的农田里找到埋藏的宝藏。
 
 ach053Title=在深处，他被遗忘般的活着 In the Depths, He Lived Forgotten
-ach053Desc=击杀 ???
+ach053Desc=击杀穴居者，咕噜斯。
 
 ach054Title=死亡空间 The Death Room
-ach054Desc=???
+ach054Desc=Survive the Chamber of Souls.
+
+ach055Title=Let Me Gather My Notes
+ach055Desc=Collect 5 Lore Notes
+
+ach056Title=Note Collector
+ach056Desc=Collect 20 Lore Notes
+
+ach057Title=Lorekeeper
+ach057Desc=Collect 50 Lore Notes
+
+ach058Title=The Fields of Despair
+ach058Desc=Survive the Fields of Despair.
+
+ach059Title=Celestial Bane
+ach059Desc=Defeat the Avatar of Mogdrogen.
+
+ach060Title=Shar'Zul Extinguished
+ach060Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos.
+
+ach061Title=The Bastion Conquered
+ach061Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos on Ultimate Difficulty.
+
+ach062Title=Immortal Conqueror of Chaos
+ach062Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos in Hardcore Mode.
+
+ach063Title=The Order's Champion
+ach063Desc=Slay Archon Barthollem in the name of the Order of Death's Vigil on Ultimate Difficulty.
+
+ach064Title=The Chosen of Kymon
+ach064Desc=Slay Malkadarr in the name of Kymon's Chosen on Ultimate Difficulty.
+
+ach065Title=Cleansing the Immolation
+ach065Desc=Slay the Herald of Destruction in the Immolation.
+
+ach066Title=Grounding the Herald
+ach066Desc=Slay the Herald of Destruction in the Immolation on Ultimate Difficulty.
+
+ach067Title=Defender of Cairn
+ach067Desc=Complete the Game.
+
+ach068Title=Champion of Cairn
+ach068Desc=Complete the Game on Elite Difficulty.

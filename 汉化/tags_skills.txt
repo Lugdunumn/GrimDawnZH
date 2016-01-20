@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，�
 tagClass01SkillName01C=致死旋律 Deadly Momentum
 tagClass01SkillDescription01C=在进行一次节奏打击之后，利用技能的优势，短暂地使你的所有攻击附加额外的致命的力量。^o致死旋律激活时会影响到所有的攻击。
 tagClass01SkillName01D=不谐和弦 Discord
-tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中将夹杂着元素和混乱的能量。
+tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中将夹杂着元素能量。
 
 tagClass01SkillName02A=力场波 Forcewave
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气，投射出能量波眩晕敌人并造成伤害。^o该技能发动需要装备盾牌或双手近战武器。
@@ -196,7 +196,7 @@ tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allo
 tagClass02SkillName04A=罐式炸弹 Canister Bomb
 tagClass02SkillDescription04A=填装了更多爆炸物的炸药，这项恐怖的发明能够击垮一整片敌人。
 tagClass02SkillName04B=改良外壳 Improved Casing
-tagClass02SkillDescription04B=对碳罐炸弹外壳的调整增强了其震荡威力，对敌人造成持续创伤并使其减速；还拥有更大的爆炸范围。
+tagClass02SkillDescription04B=对碳罐炸弹外壳的调整增强了其震荡威力，对敌人造成大量伤害并拥有更大的爆炸半径。
 tagClass02SkillName04C=震荡炸弹 Concussive Bomb
 tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力，减少造成的伤害但能使敌人患上炮弹休克症。
 
@@ -220,8 +220,7 @@ tagClass02SkillDescription06C=喷射一束致死的白热火焰将经过的敌�
 tagClass02SkillName06D=引爆 Detonation
 
 tagClass02SkillName07A=防爆护盾 Blast Shield
-tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量的穿刺与火焰伤害的护盾，直至毁坏。^o受到火焰或穿刺伤害时有几率激活护盾，直到吸收至伤害吸收上限为止。
-
+tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of deflecting a fixed amount of all incoming damage while reducing pierce and fire damage. Attacking enemies will suffer the fiery blowback from the shield.
 tagClass02SkillName07B=奥祖因的选召 Ulzuin's Chosen
 tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐，获得他的祝福以对世界造成炽烈破坏。^o[影响眩晕投掷，手榴弹和碳罐炸弹并需要其中的技能之一才能生效]
 
@@ -332,7 +331,7 @@ tagClass03SkillName11E=聚能凝视 Focused Gaze
 tagClass03SkillDescription11E=将德里格的邪恶力量引导至每只邪眼之中，使邪眼发生更为猛烈的爆炸，造成更多的伤害，但同时会延长施放邪眼的间歇时间。
 
 tagClass03SkillName12A=附身 Possession
-tagClass03SkillDescription12A=以身体为容器侍奉巫神索拉尔，伟大的巫神将暂时栖息在你的血肉之躯之中，从而赐予你无可匹敌的力量。
+tagClass03SkillDescription12A=以身体为容器侍奉巫神索拉尔， The spirit of Solael radiates through your body, fortifying you against attacks as it magnifies your occult power. ^oThis ability must be toggled to maintain its effect.
 
 tagClass03SkillName13A=血瘟疫 Bloody Pox
 tagClass03SkillDescription13A=这种恶毒的，连许许多多神秘学者都畏之三分的诅咒会在敌人中间传播致命的瘟疫，进而不可逆转地掏空他们的生命力，他们的每个毛孔都将血流不止。
@@ -371,10 +370,10 @@ tagClass04SkillName01B=寻心击 Heart Seeker
 tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
 tagClass04SkillName01C=幽冥之刃 Nether Edge
 tagClass04SkillDescription01C=以黑魔法强化幻影刀锋，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
-tagClass04SkillName01D=专注投掷 Focused Throw
-tagClass04SkillDescription01D=更加精准而且强力地投掷幻影刀锋，将杀伤力汇集于一次凶猛的攻击。
-tagClass04SkillName01X=狂热投掷 Frenetic Throw
-tagClass04SkillDescription01X=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
+tagClass04SkillName01X=专注投掷 Focused Throw
+tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀锋，将杀伤力汇集于一次凶猛的攻击。
+tagClass04SkillName01D=狂热投掷 Frenetic Throw
+tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
 
 tagClass04SkillName02A=暗影突袭 Shadow Strike
 tagClass04SkillDescription02A=幻术与精神扭曲的巧妙结合使你几近消失并像梦魇中的幽灵一样显身在你的目标上方。^o需要一把近战武器。
@@ -458,7 +457,7 @@ tagClass04SkillName13D=无情终章 Merciless Repertoire
 tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂会是一种终极武器。
 
 tagClass04SkillName14A=致命策略 Lethal Gambit
-tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器或双手远程武器。
+tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器或双手远程武器。 When used with a melee weapon, will strike additional nearby targets.
 tagClass04SkillName14B=阿玛拉斯塔的爆裂之刃 Amarasta's Blade Burst
 tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀锋，用来伤害到所有邻近的敌人。
 
@@ -480,12 +479,12 @@ tagClass05SkillDescription01B=复制飞弹会扰动敌人的实体，使飞弹�
 tagClass05SkillName01C=超负荷 Supercharged
 tagClass05SkillDescription01C=复制飞弹周围的空气因静电能量产生过载，电击任何靠近飞弹的敌人。
 tagClass05SkillName01D=增殖 Proliferation
-tagClass05SkillDescription01D=由帕内蒂的一位学生完善的一项复制飞弹的高级技巧，利用施法目标本身的能量复制出更多的奥术飞弹。
+tagClass05SkillDescription01D=由帕内蒂的一位学生完善的一项复制飞弹的高级技巧，利用施法目标本身的能量创造出更多的纯净奥术能量的碎片。
 tagClass05SkillName01E=震荡飞弹 Concussive Missile
 tagClass05SkillDescription01E=在实体国度中展现复制飞弹的能量，同时造成物理和精神伤害。
 
 tagClass05SkillName02A=伊斯坎德拉的元素交换 Iskandra's Elemental Exchange
-tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说化用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素交换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o此技能需开启以保持生效。
+tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说化用敌人自身的能量来对抗敌人是最有效的致胜之道。运用这种思想，元素交换会让盟友的武器饥渴地从敌人那里汲取奥术能量，然后转换成元素伤害。^o此技能需开启以保持生效。The damage conversion only applies to the caster.
 tagClass05SkillName02B=过载 Overload
 tagClass05SkillDescription02B=向元素交换魔法中注入过量的奥术力量，元素的原力在你的武器上爆裂作响。
 tagClass05SkillName02C=元素平衡 Elemental Balance
@@ -520,10 +519,10 @@ tagClass05SkillName06C=堕落之力 Tainted Power
 tagClass05SkillDescription06C=与崩解相反，用狂暴的混沌之力腐化虚化射线。
  
 tagClass05SkillName07A=无效 Nullification
-tagClass05SkillDescription07A=在目标区域集中大量负面能量，清除敌人所有的有益的光环和法术，同时清除友军的有害增益。
+tagClass05SkillDescription07A=在目标区域集中大量负面能量，清除敌人所有的有益的光环和法术，同时清除友军的有害增益。including damage over time effects.
 
 tagClass05SkillName08A=毁灭 Devastation
-tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险，而又极为耗能的法术不该被轻易使用。^o需要副手法器。如果你在第一次施法时静止不动，那么你将能在目标区域额外施放两波法术。
+tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量，它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙。这项危险，而又极为耗能的法术不该被轻易使用。^o需要副手法器。Embers continue to fall over the duration of the spell. Only one Devastation can be cast at any one time.
 
 tagClass05SkillName09A=心灵专注 Inner Focus
 tagClass05SkillDescription09A=以专注的身心作为奥术能量的洪炉，有志于成为奥术师的人都会首先学习这种冥想术。
@@ -548,11 +547,12 @@ tagClass05SkillName14A=艾瑞奥特之镜 Mirror of Ereoctes
 tagClass05SkillDescription14A=霎时，你周围的空气变得坚硬如石，吸收掉所有形式的伤害并返还给攻击者。艾瑞奥特大师偏爱此项技艺。
 
 tagClass05SkillName15A=狂野之力 Reckless Power
-tagClass05SkillDescription15A=以躯体引导虚化力量，牺牲些许人性和生命力来展现出恐怖的奥术能量。
-tagClass05SkillName15B=超越 Ascendance
-tagClass05SkillDescription15B=超越你的物理形态的边界，将一部分奥术能量延伸到队友身上。^o狂野之力作用期间在你的周围制造出光环效果
-tagClass05SkillName15C=无尽之力 Unlimited Power
-tagClass05SkillDescription15C=许多奥术师都在对无尽能量的追寻中做出了很多牺牲。其中有一些人无视古老的告诫，将他们自己完全浸淫在虚化力量之中。正是这些奥术师在渺小的人类心中留下了难以磨灭的恐惧。
+tagClass05SkillDescription15A=以躯体引导虚化力量，manifesting terrifying arcane energies through your mortal form that ignite the air and send ripples through reality. ^oThis ability must be toggled to maintain its effect.
+tagClass05SkillName15B=Star Pact
+tagClass05SkillDescription15B=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and tap into sources of power that others would consider unsafe, or even unnatural. It is these Arcanists that strike fear into the hearts of lesser mortals. ^oThis ability must be toggled to maintain its effect.
+tagClass05SkillName15C=UNLEARN ME
+tagClass05SkillDescription15C=THIS SKILL NO LONGER DOES ANYTHING. UNLEARN IT BEFORE BUILD 31 IN FEBRUARY OR LOSE THESE SKILL POINTS.
+
 
 tagClass05SkillName16A=奥莱克西拉的急速冻结 Olexra's Flash Freeze
 tagClass05SkillDescription16A=一位政治斗争的受害者，奥莱克西拉被判处进入黑色军团中服役。于是她之前研究奥术的学院生涯变成了在战场上艰难的求生之路。奥莱克西拉很快把她的学识付诸实际，创造出了一种能将显著范围内的敌人急速冻结的法术。^o这项技能将在持续时间内冻结敌人，具有冻结抵抗属性的敌人将会减少冻结的持续时间。
@@ -580,7 +580,7 @@ tagClass06SkillDescription02B=Primal Strike's raw power surges through the targe
 tagClass06SkillName02C=激流 Torrent
 tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking a nearby target and leaping to further foes.
 tagClass06SkillName02D=雷电打击 Thunderous Strike
-tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger.
 
 tagClass06SkillName03A=雪怪图腾 Wendigo Totem
 tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
@@ -886,7 +886,7 @@ tagItemSkillB034Desc=向你周围的大地发出一阵能量波，伤害附近�
 tagItemSkillB035Name=仆从狂暴 Minion Frenzy
 tagItemSkillB035Desc=看到它们的主人受伤，你的仆从将变得狂野。
 
-tagItemSkillB036Name=火焰冲击 Fire Blast
+tagItemSkillB036Name=火焰汹涌 Fire Surge
 tagItemSkillB036Desc=从你的身上爆发出一团火焰，伤害周围所有的敌人。
 
 tagItemSkillB037Name=次元爆裂 Warp Blast
@@ -990,7 +990,7 @@ tagItemSkillC025Desc=以具有魔力的鞋子底部践踏大地，施放的能�
 
 tagItemSkillC026Name=复仇 Revenge
 tagItemSkillC026Desc=使用你的武器造成迅雷一击。^o需要一把近战武器。
-tagItemSkillC026DescBtagItemSkillC026DescB=A swift jab with your sword.
+tagItemSkillC026DescB=A swift jab with your sword.
 
 tagItemSkillC027Name=能量护盾 Energy Shield
 tagItemSkillC027Desc=施放一面护盾来吸收受到的物理伤害。
@@ -1072,7 +1072,7 @@ tagItemSkillC051Pet01=盾牌守护 Shield Defense
 tagItemSkillC051Pet01Desc=亡魂帮助周围的友军抵抗群体控制效果，并且强化他们的护甲与反击。
 
 tagItemSkillC052Name=曼海尔的祝福 Menhir's Blessing
-tagItemSkillC052Desc=以曼海尔那强大的神圣咒语祝福附近所有的友军。^o此技能需要开启以保持生效。
+tagItemSkillC052Desc=以曼海尔那强大的神圣咒语祝福附近所有的友军。
 
 tagItemSkillC053Name=抵死 Defy Death
 tagItemSkillC053Desc=在死意最为强烈的时候，抵抗住它的到来。
@@ -1138,7 +1138,7 @@ tagItemSkillC073Name=心灵控制 Mind Control
 tagItemSkillC073Desc=催眠目标，使他们不分敌我。
 
 tagItemSkillC074Name=守护者的意志 Guardian's Will
-tagItemSkillC074Desc=即使是在死神的爪下，你那顽强的求生意志仍能拯救你的生命。^o需要一面盾牌。
+tagItemSkillC074Desc=即使是在最为猛烈的攻击之下，你那顽强的求生意志仍能拯救你的生命。^o需要一面盾牌。
 
 tagItemSkillC075Name=掠夺者的怒火 Marauder's Fury
 tagItemSkillC075Desc=释放一阵注火弹药的齐射。 ^o激活双持远程武器的能力。
@@ -1153,7 +1153,7 @@ tagItemSkillC078Name=呼啸之风 Howling Wind
 tagItemSkillC078Desc=以能让敌人冷到骨头里的呼啸之风环绕于你。
 
 tagItemSkillC079Name=神射手 Gunslinger
-tagItemSkillC079Desc=一枪在手足以取人性命，双枪在手则杀意更浓。^o这是一项远程双持技能，也会激活双持远程武器的能力。
+tagItemSkillC079Desc=一枪在手足以取人性命，双枪在手则杀意更浓。^o这是一项远程双持被动加成，也会激活双持远程武器的能力。
 
 tagItemSkillC080Name=噬命新星 Lifestealer Nova
 tagItemSkillC080Desc=激增的坏死能量撕扯附近敌人的生命并转移给你。
@@ -1281,9 +1281,9 @@ tagItemSkillC121Name=Bloodbath
 tagItemSkillC121Desc=Lacerate nearby foes and shower the area with their blood.
 
 tagItemSkillC122Name=Glass Eye
-tagItemSkillC122Desc=A trained eye, a lethal shot. ^oThis is a ranged two-handed weapon bonus.
+tagItemSkillC122Desc=A trained eye, a lethal shot. ^oThis is a ranged two-handed weapon passive bonus.
 tagItemSkillC122NameB=Sharpshooter
-tagItemSkillC122DescB=Expertise in the use of rifles and scopes. ^oThis is a ranged two-handed weapon bonus.
+tagItemSkillC122DescB=Expertise in the use of rifles and scopes. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillC123Name=Flame Patch
 tagItemSkillC123Desc=You ignite the very ground you step on.
@@ -1358,7 +1358,7 @@ tagItemSkillD026Name=Aldanar's Vanity
 tagItemSkillD026Desc=Aldanar was not one to let such trivial matters as conservation of energy and laws of reality stop him from continuing his spellcraft.
 
 tagItemSkillD027Name=Apocalypse
-tagItemSkillD027Desc=Unleash the wrath of the gods themselves as you tear open reality and release a cataclysm of apocalyptic proportions.
+tagItemSkillD027Desc=Unleash the wrath of the gods themselves as you tear open reality and release a cataclysm of apocalyptic proportions. ^oOnly one Apocalypse can be cast at any one time.
 
 tagItemSkillD028Name=Arcane Focus
 tagItemSkillD028Desc=Enter a trance-like state. When used for your default weapon attack, Arcane Focus magnifies your arcane power with every strike. ^oBuilding up charges increases the potency of the bonuses.
@@ -1433,7 +1433,7 @@ tagItemSkillD051Name=Clairvoyance
 tagItemSkillD051Desc=Clear your mind in preparation for taxing spellwork.
 
 tagItemSkillD052Name=Colossal Might
-tagItemSkillD052Desc=Mastery of shield combat has honed you into a lethal and unstoppable weapon. ^oRequires a shield.
+tagItemSkillD052Desc=Mastery of shield combat has honed you into a lethal and unstoppable weapon. ^oThis is a shield passive bonus.
 
 tagItemSkillD053Name=Conjure Black Scourge
 tagItemSkillD053Desc=Your wanton slaughter calls to the void.
@@ -1454,7 +1454,7 @@ tagItemSkillD056_Pet01Desc=Fighting near the banner inspires you.
 
 tagItemSkillD057Name=Invocation to Chaos
 tagItemSkillD057Desc=Call out to the void and summon vile fiends to fight for you until such a time as the void calls for them to return. ^oThe fiends scale with Pet Bonuses.
-tagItemSkillD057_Pet01=Claws and Fangs
+tagItemSkillD057_Pet01=Chaos Flame
 
 tagItemSkillD058Name=Raise Spirit
 tagItemSkillD058Desc=Use the energy of a recent kill to call forth a tormented spirit to aid you. ^oThe spirit scales with Pet Bonuses.
@@ -1478,8 +1478,8 @@ tagItemSkillD063Desc=Blind your foes with your righteous presence.
 tagItemSkillD064Name=Deathbound Might
 tagItemSkillD064Desc=Become empowered by the lives you claim.
 
-tagItemSkillD065Name=Bloody Axe
-tagItemSkillD065Desc=Strike with the bloody axe, cleaving nearby foes.
+tagItemSkillD065Name=Cleaving Axe
+tagItemSkillD065Desc=Strike with the jagged axe, cleaving through armor and flesh alike.
 
 tagItemSkillD066Name=Chilling Claw
 tagItemSkillD066Desc=Strike with the chilling claw, cleaving nearby foes.
@@ -1539,7 +1539,7 @@ tagItemSkillD084Name=Exterminate
 tagItemSkillD084Desc=End your foe with a well-aimed shot.
 
 tagItemSkillD085Name=Fade from Reality
-tagItemSkillD085Desc=When a foe lands a particularly crippling blow, the protective nature of this mantle will fade you out of reality so that you can recover.
+tagItemSkillD085Desc=When a foe lands a particularly crippling blow, the protective nature of this mantle will fade you out of the physical realm so that you can recover. ^oRequires a Caster Off-Hand.
 
 tagItemSkillD086Name=Falling Skies
 tagItemSkillD086Desc=The sky ripples with destructive power as a shower of falling stars crashes down upon your foes.
@@ -1560,7 +1560,7 @@ tagItemSkillD091Name=Final Stop
 tagItemSkillD091Desc=Impale your foe upon the shield's spikes.
 
 tagItemSkillD092Name=Fire and Brimstone
-tagItemSkillD092Desc=Become empowered with the cataclysmic power of fire and brimstone. ^oRequires a two-handed ranged weapon.
+tagItemSkillD092Desc=Become empowered with the cataclysmic power of fire and brimstone.
 
 tagItemSkillD093Name=Rain of Fire
 tagItemSkillD093Desc=Fire rains down from the heavens, incinerating your foes.
@@ -1571,8 +1571,8 @@ tagItemSkillD094Desc=A wave of scorching flame emanates from you in a destructiv
 tagItemSkillD095Name=Flame Breath
 tagItemSkillD095Desc=The mask allows you to breathe fire.
 
-tagItemSkillD096Name=Forked Lightning
-tagItemSkillD096Desc=Lightning forks from you, electrocuting several nearby foes.
+tagItemSkillD096Name=Celestial Judgement
+tagItemSkillD096Desc=Lightning rapidly strikes nearby foes, electrocuting them.
 
 tagItemSkillD097Name=Toxic Gas Cloud
 tagItemSkillD097Desc=A toxic cloud erupts from you, choking all enemies caught within it.
@@ -1605,10 +1605,10 @@ tagItemSkillD106Name=Harbinger's Mark
 tagItemSkillD106Desc=Tag your foe with the Mark of the Harbinger, a devious spell that will spread to nearby enemies.
 
 tagItemSkillD107Name=Harbinger's Aim
-tagItemSkillD107Desc=The Harbinger was an expert in ranged combat, preferring the use of a rifle to take out his foes at range. ^oRequires a two-handed ranged weapon.
+tagItemSkillD107Desc=The Harbinger was an expert in ranged combat, preferring the use of a rifle to take out his foes at range. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillD108Name=Harbinger's Grasp
-tagItemSkillD108Desc=The Harbinger earned his reputation by combining the lethal power of guns with occult magic. ^oRequires a two-handed ranged weapon.
+tagItemSkillD108Desc=The Harbinger earned his reputation by combining the lethal power of guns with occult magic. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillD109Name=Havoc
 tagItemSkillD109Desc=Unleash havoc upon your foes with a wild spray of shots.
@@ -1617,7 +1617,7 @@ tagItemSkillD110Name=Healing Winds
 tagItemSkillD110Desc=Summon the winds of the eternal spring to mend your wounds.
 
 tagItemSkillD111Name=Heart of the Winter King
-tagItemSkillD111Desc=The winter king was a savage, yet just ruler, who fiercely defended his homeland besides his loyal white wolf, whom he called father. The spirit of the great king still dwells within his mighty blade.
+tagItemSkillD111Desc=The winter king was a savage, yet just ruler, who fiercely defended his homeland besides his loyal white wolf, whom he called father. The spirit of the great king still dwells within his mighty blade. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD112Name=Hellspawn
 tagItemSkillD112Desc=Inspired by a fresh kill, your minions are empowered with dark magic.
@@ -1638,7 +1638,7 @@ tagItemSkillD117Name=Invoker's Fury
 tagItemSkillD117Desc=Mark your foe with an arcane sigil that leaves them vulnerable to your elemental assault.
 
 tagItemSkillD118Name=Invoker's Secret
-tagItemSkillD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near.
+tagItemSkillD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near. ^oRequires a Caster Off-Hand.
 
 tagItemSkillD119Name=Iskandra's Defense
 tagItemSkillD119Desc=Iskandra was a master of conversion, turning martial weapons into conduits for the arcane. Her unusual attunement to martial combat required that proper defenses be raised.
@@ -1848,7 +1848,7 @@ tagItemSkillD187Name=Tinker's Ingenuity
 tagItemSkillD187Desc=Your ingenuity allows you to thrive in the toughest moments.
 
 tagItemSkillD188Name=Titan's Might
-tagItemSkillD188Desc=You wield massive weapons with ease, a testament to your titanic strength. ^oRequires a two-handed melee weapon.
+tagItemSkillD188Desc=You wield massive weapons with ease, a testament to your titanic strength. ^oThis is a two-handed melee weapon passive bonus.
 
 tagItemSkillD189Name=Touch of Purity
 tagItemSkillD189Desc=Cleanse nearby allies of their ailments and curse minor wounds.
@@ -1875,7 +1875,7 @@ tagItemSkillD196Name=Untouchable
 tagItemSkillD196Desc=Your shield becomes an impregnable barrier.
 
 tagItemSkillD197Name=Vampirism
-tagItemSkillD197Desc=Your thirst for blood becomes insatiable, but this newfound lust for sapping your enemies of their vitality comes at a heavy price. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD197Desc=Your thirst for blood becomes insatiable, but this newfound lust for sapping your enemies of their vitality comes at a heavy price.
 
 tagItemSkillD198Name=Vengeance of Cairn
 tagItemSkillD198Desc=You embody the vengeance of humanity, inspiring your allies to fight back at any cost. ^oThis ability must be toggled to maintain its effect.
@@ -1887,7 +1887,7 @@ tagItemSkillD200Name=Venom of the Black Matriarch
 tagItemSkillD200Desc=Inject your target with the deadly venom of the Black Matriarch.
 
 tagItemSkillD201Name=Venomspines
-tagItemSkillD201Desc=Venomous spines erupt around you, impaling your foes.
+tagItemSkillD201Desc=Venomous spines erupt from you, impaling your foes.
 
 tagItemSkillD202Name=Vile Blood
 tagItemSkillD202Desc=Corrupt the blood of your enemy, causing open sores that bleed profusely. The sudden loss of blood can prove devastating.
@@ -1896,10 +1896,10 @@ tagItemSkillD203Name=Leeching Nova
 tagItemSkillD203Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
 
 tagItemSkillD204Name=Voidwalker
-tagItemSkillD204Desc=You are resistant to the corrupting effects of the void, putting up a barrier whenever threatened by vile fiends.
+tagItemSkillD204Desc=You are resistant to the corrupting effects of the void, putting up a barrier whenever struck by vile fiends that use such magic.
 
 tagItemSkillD205Name=Ward of Gul'Amash
-tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm.
+tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm when struck by physical blows.
 
 tagItemSkillD206Name=Ward of Illusion
 tagItemSkillD206Desc=Create shimmering illusions and yourself and your allies that distract your foes. ^oThis ability must be toggled to maintain its effect.
@@ -1941,7 +1941,7 @@ tagItemSkillD218Name=Volcanic Wyrm's Breath
 tagItemSkillD218Desc=Release the breath of the great volcanic wyrm upon your foes.
 
 tagItemSkillD219Name=Wyrmscale
-tagItemSkillD219Desc=The wyrmscale shields you from fire and electrocution.
+tagItemSkillD219Desc=The wyrmscale shields you from fire and electrocution when struck by those forces.
 
 tagItemSkillD220Name=Zolhan's Revenge
 tagItemSkillD220Desc=Zolhan was an expert in keeping his enemies off balance. Just when they would think they had the advantage, he would strike back with a devastating blow from his shield.
@@ -1969,6 +1969,23 @@ tagItemSkillD227Desc=Unleash the chill that dwells within your frozen heart, inf
 
 tagItemSkillD228Name=Shattering Force
 tagItemSkillD228Desc=Shatter nearby foes' defenses with a rush of physical force.
+
+tagItemSkillD229Name=Fallen Comet
+tagItemSkillD229Desc=Trozan's powers continued to evolve beyond calling down shards of the sky, until the day he brought down the very heavens.
+
+tagItemSkillD230Name=Perforator Round
+tagItemSkillD230Desc=Load a custom round of Valdun's making which pierces through your target to strike those behind.
+
+tagItemSkillD231Name=Valdun's Lethality
+tagItemSkillD231Desc=Valdun was infamous for his talent with rifles. ^oThis is a ranged two-handed weapon passive bonus.
+
+tagItemSkillD232Name=Valdun's Cunning
+tagItemSkillD232Desc=Valdun was equally known for his skills with a rifle as with evading the authorities. He was never captured. ^oThis is a ranged two-handed weapon passive bonus.
+
+tagItemSkillD233Name=Valdun's Clip
+tagItemSkillD233Desc=In a ruthless assault, Valdun's Rifle fires a custom round that splinters upon coming in contact with an enemy. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
+
+
 
  tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2241,7 +2258,7 @@ tagRelicSkillD013Name=陨石 Meteor
 tagRelicSkillD013Desc=穿透幽冥与人间的脆弱屏障，召唤大规模的燃烧陨石砸向你的敌人。
 
 tagRelicSkillD014Name=复仇 Vengeance
-tagRelicSkillD014Desc=释放你的盾牌吸收的所有能量形成毁灭性的冲击波。
+tagRelicSkillD014Desc=Unleash the combined energy of the blows you have sustained into a devastating shockwave.
 
 tagRelicSkillD015Name=虫群之心 Swarm Mind
 tagRelicSkillD015Desc=你的无尽抗争中有节奏的步调将召唤虫群协助你。
@@ -2631,7 +2648,7 @@ tagDevotionEffectB28Desc=Giant's blood flows through your veins, incurring impro
 tagDevotionEffectB29=Wayward Soul
 tagDevotionEffectB29Desc=Sacrifice a wayward soul to ward yourself against the specter of death.
 tagDevotionEffectB30=净化之水 Cleansing Waters
-tagDevotionEffectB30Desc=Ulo's cleansing waters purge all foul magic from the area, removing beneficial auras and spells from foes while allies are cleansed of negative ailments.
+tagDevotionEffectB30Desc=Ulo's cleansing waters purge all foul magic from the area, removing beneficial auras and spells from foes while allies are cleansed of negative ailments, including damage over time effects.
 
 tagDevotionEffectC01=时间静止 Time Stop
 tagDevotionEffectC01Desc=The sands of the hourglass halt their ceaseless motion, stopping time for foes that dare strike you.
@@ -2648,7 +2665,7 @@ tagDevotionEffectC06Desc=Your flesh becomes as stone, nearly impervious to all b
 tagDevotionEffectC07=天堂之戟 Spear of the Heavens
 tagDevotionEffectC07Desc=A celestial spear smites foes who dare strike you.
 tagDevotionEffectC08=陨石雨 Meteor Shower
-tagDevotionEffectC08Desc=At your behest, the sky splits open to unleash a barrage of molten rock.
+tagDevotionEffectC08Desc=At your behest, the sky splits open to unleash several barrages of molten rock. ^oOnly one Meteor Shower can be cast at any one time.
 tagDevotionEffectC09=饥渴虚空 Hungering Void
 tagDevotionEffectC09Desc=The hungering void empowers you, your allies and your minions, but the power gained comes at a heavy toll to the body.
 tagDevotionEffectC09_Pet01=吞噬 Devour

@@ -364,11 +364,11 @@ tagClass03SkillDescription15A=将目标封印于一块保护性的愈伤结界�
 tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
 
-tagClass04SkillName01A=幻影刀锋 Phantasmal Blades
+tagClass04SkillName01A=幻影刀 Phantasmal Blades
 tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤的刀刃，如切割纸片一般撕裂肉体。
-tagClass04SkillName01B=寻心击 Heart Seeker
+tagClass04SkillName01B=寻心刃 Heart Seeker
 tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
-tagClass04SkillName01C=幽冥之刃 Nether Edge
+tagClass04SkillName01C=幽冥刃 Nether Edge
 tagClass04SkillDescription01C=以黑魔法强化幻影刀锋，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
 tagClass04SkillName01X=专注投掷 Focused Throw
 tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀锋，将杀伤力汇集于一次凶猛的攻击。

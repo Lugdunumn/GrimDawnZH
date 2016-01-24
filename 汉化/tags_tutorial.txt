@@ -171,7 +171,7 @@ tagTutorialTip46Title=体力不足
 tagTutorialTip46TextA=你的体力消耗完了，脱离战斗后生命值不会再快速回复。你可以通过收集食物给养和生命精华来补充体力。
 
 tagTutorialTip47Title=分解
-tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废铁，在此过程中有几率额外产生一个镶嵌物。越是强力的物品，越有机会分解出镶嵌物。
+tagTutorialTip47TextA=你解锁了发明家的一样新能力，让你能将物品分解成废料，在此过程中有几率额外产生一个镶嵌物。越是强力的物品，越有机会分解出镶嵌物。
 tagTutorialTip47SubtitleA=分解一件物品
 tagTutorialTip47TextB=要分解一件物品，你需要炸药和一些铁币。被分解的物品会被永久摧毁，在发明家的界面放上一件魔法品质以上的装备来开始分解吧。{^N}{^N}按下分解按钮，炸药和一些铁币会被消耗，然后该物品就会被分解。{^N}{^N}
 

@@ -38,12 +38,12 @@ tagMapVoidlands02=灰烬废土
 tagMapVoidlands03=被遗忘的废土
 tagMapEastMarsh01=东方沼泽
 tagMapEastMarsh02=剧毒林地
-tagMapEastMarsh03=Craig's Crags
+tagMapEastMarsh03=克雷格峭壁
 
 tagMapBrokenHills=破碎丘陵
 tagMapOldArkovia=古安克维亚
 tagMapArkovianFoothills=安克维亚山麓
-tagMapKymons=凯蒙的隐居处
+tagMapKymons=凯蒙隐居处
 tagMapCoastRoad=海岸之路
 tagMapTwinFalls=双子瀑布
 tagMapFourHills=四山
@@ -53,7 +53,7 @@ tagMapBarrenHighlands=贫瘠高地
 tagMapCrumblingWatch=瞭望塔遗迹
 tagMapCronleysHideout=克隆利的藏身处
 
-tagMapSmugglersPass=走私者的通道
+tagMapSmugglersPass=走私者通道
 tagMapDeadmansGulch=亡者峡谷
 tagMapMountainDeeps=山脉深渊
 
@@ -61,7 +61,7 @@ tagMapDustyRoad=采矿者小径
 tagMapShadedBasin=幽暗盆地
 tagMapPineBarrens=松林荒地
 tagMapJaggedWaste=锯齿荒地
-tagMapJaggedWasteFort=暴君的要塞
+tagMapJaggedWasteFort=暴君要塞
 
 tagMapWitheringFields=干枯田地
 tagMapHomestead=霍姆斯特德
@@ -71,10 +71,10 @@ tagMapSorrowsBastionRoad=休耕田地
 tagMapCorruptedPasture=阴森的谷仓
 tagMapSorrowsBastion=悲伤城堡
 tagMapBloodGrove=血森林
-tagMapDarkvaleMill=格里弗的伐木场
+tagMapDarkvaleMill=格里弗伐木场
 tagMapBloodGroveMine=莫顿的领地
 tagMapBloodGroveAetherMine=裂石矿场
-tagMapBloodGroveShrine=被遗忘神祇的圣坛
+tagMapBloodGroveShrine=被遗忘神祇的祭坛
 tagMapDarkvale=黑谷村
 tagMapDarkvaleGate=黑谷门
 tagMapFactionFort=哈伦堡
@@ -83,10 +83,10 @@ tagMapInfestedField02=埃姆斯沃斯农场
 tagMapConflagration01=战火平原
 tagMapConflagration02=献祭之地
 
-tagMapAlpineGate=Asterkarn Mountains
-tagMapLedgewood01=利奇伍德
-tagMapAlpineRoad=Asterkarn Road
-tagMapAlpineValley=Asterkarn Valley
+tagMapAlpineGate=星石山
+tagMapLedgewood01=突岩森林
+tagMapAlpineRoad=星石山路
+tagMapAlpineValley=星石山谷
 tagMapAlpineFort=圣像堡
 
 tagMapFortIkon=圣像堡
@@ -125,9 +125,9 @@ tagRiftRottedHarvest=腐烂谷仓
 tagRiftSorrowsBastion=悲伤城堡传送门
 tagRiftBloodGrove=血森林传送门
 tagRiftDarkvale=黑谷门传送门
-tagRiftAlpineGate=Asterkarn Mountains Rift
-tagRiftAlpineRoad=Asterkarn Road Rift
-tagRiftAlpineValley=Asterkarn Valley Rift
+tagRiftAlpineGate=星石山传送门
+tagRiftAlpineRoad=星石山路传送门
+tagRiftAlpineValley=星石山谷传送门
 tagRiftAlpineFort=圣像堡传送门
 tagRiftPlaintsofStrife=纷争平原传送门
 tagRiftNecropolisGate=古代墓地之门传送门
@@ -137,66 +137,66 @@ tagRiftRandom01=冥灵传送门
 
 #World Map Labels
 
-tagWorldMapBurrwitchEstates={^w}伯尔维治{^n}{^w}庄园
-tagWorldMapAbandonedWaterFront={^w}废弃码头
+tagWorldMapBurrwitchEstates=伯尔维治{^n}庄园
+tagWorldMapAbandonedWaterFront=废弃码头
 tagWorldMapBurrwitchVillage=伯尔维治村
-tagWorldMapHallowedHill={^w}神圣丘陵
+tagWorldMapHallowedHill=神圣丘陵
 tagWorldMapEastMarsh01=东方沼泽
-tagWorldMapEastMarsh02=Craig's Crags
-tagWorldMapMudRow={^w}泥泞街道
-tagWorldMapMolderingFields={^w}腐坏田地
-tagWorldMapBurrwitchGraveyard={^w}伯尔维治{^n}{^w}墓园
+tagWorldMapEastMarsh02=克雷格峭壁
+tagWorldMapMudRow=泥泞街道
+tagWorldMapMolderingFields=腐坏田地
+tagWorldMapBurrwitchGraveyard=伯尔维治{^n}墓园
 tagWorldMapBurrwitchOutskirts=伯尔维治{^n}郊外
 tagWorldMapTheFoggyBank=迷雾河畔
-tagWorldMapSoddenHollow={^w}湿润山谷
+tagWorldMapSoddenHollow=湿润山谷
 tagWorldMapWightmire=尸妖泥沼
-tagWorldMapTheOldDump={^w}旧{^n}{^w}垃圾场
-tagWorldMapBurialHill={^w}殓葬山
+tagWorldMapTheOldDump=旧{^n}垃圾场
+tagWorldMapBurialHill=殓葬山
 tagWorldMapLowerCrossing=下游渡口
 tagWorldMapDevilsCrossing=恶魔十字
-tagWorldMapKymonsRetreat={^w}凯蒙的{^n}{^w}隐居处
+tagWorldMapKymonsRetreat=凯蒙的{^n}隐居处
 tagWorldMapArkovianFoothills=安克维亚{^n}山麓
-tagWorldMapCrumblingWatch={^w}瞭望塔遗迹
-tagWorldMapTheRockyCoast={^w}岩石海岸
-tagWorldMapStauntonMine={^w}斯汤顿矿洞
-tagWorldMapNewHarbor={^w}新港
-tagWorldMapTheFourHills={^w}四山
+tagWorldMapCrumblingWatch=瞭望塔遗迹
+tagWorldMapTheRockyCoast=岩石海岸
+tagWorldMapStauntonMine=斯汤顿矿洞
+tagWorldMapNewHarbor=新港
+tagWorldMapTheFourHills=四山
 tagWorldMapOldArkovia=古安克{^n}维亚
-tagWorldMapTheStepsOfTorment={^w}苦痛阶梯
+tagWorldMapTheStepsOfTorment=苦痛阶梯
 tagWorldMapBrokenHills=破碎丘陵
-tagWorldMapTwinFalls={^w}双子瀑布
-tagWorldMapBarrenHighlands={^w}贫瘠高地
-tagWorldMapSmugglersPass={^w}走私者{^n}{^w}的通道
-tagWorldMapProspectorsTrail={^w}采矿者{^n}{^w}小径
-tagWorldMapDeadmansGulch={^w}亡者峡谷
+tagWorldMapTwinFalls=双子瀑布
+tagWorldMapBarrenHighlands=贫瘠高地
+tagWorldMapSmugglersPass=走私者{^n}通道
+tagWorldMapProspectorsTrail=采矿者{^n}小径
+tagWorldMapDeadmansGulch=亡者峡谷
 tagWorldMapImmolation=祭品
-tagWorldMapMountainDeeps=山脉{^n}深渊
-tagWorldMapPineBarrens={^w}松林{^w}荒地
-tagWorldMapJaggedWaste=锯齿{^n}荒地
-tagWorldMapShadedBasin={^w}幽暗盆地
-tagWorldMapTyrantsHold={^w}暴君的{^n}{^w}要塞
-tagWorldMapAureateValley={^w}金色{^n}山谷
-tagWorldMapWitheringFields={^w}干枯田地
+tagWorldMapMountainDeeps=山脉深渊
+tagWorldMapPineBarrens=松林荒地
+tagWorldMapJaggedWaste=锯齿荒地
+tagWorldMapShadedBasin=幽暗盆地
+tagWorldMapTyrantsHold=暴君的{^n}要塞
+tagWorldMapAureateValley=金色山谷
+tagWorldMapWitheringFields=干枯田地
 tagWorldMapHomestead=霍姆斯特德
 tagWorldMapConflagration=战火平原
-tagWorldMapInfestedFarms={^w}感染农田
-tagWorldMapRottingCroplands={^w}腐坏田地
-tagWorldMapGruesomeHarvest={^w}阴森的{^n}{^w}谷仓
-tagWorldMapSorrowsBastionRoad={^w}休耕田地
+tagWorldMapInfestedFarms=感染农田
+tagWorldMapRottingCroplands=腐坏田地
+tagWorldMapGruesomeHarvest=阴森{^n}谷仓
+tagWorldMapSorrowsBastionRoad=休耕田地
 tagWorldMapSorrowsBastion=悲伤城堡
-tagWorldMapBloodGrove={^w}血森林
-tagWorldMapDarkvaleMill={^w}格里弗{^n}{^w}的伐木场
-tagWorldMapDarkvale={^w}黑谷村
+tagWorldMapBloodGrove=血森林
+tagWorldMapDarkvaleMill=格里弗{^n}伐木场
+tagWorldMapDarkvale=黑谷村
 tagWorldMapDarkvaleGate=黑谷门
-tagWorldMapFactionFort={^w}哈伦堡
-tagWorldMapBloodGroveMine={^w}莫顿的{^n}{^w}领地
+tagWorldMapFactionFort=哈伦堡
+tagWorldMapBloodGroveMine=莫顿的{^n}领地
 tagWorldMapFortIkon=圣像堡
 tagWorldMapBattlefield=纷争平原
 tagWorldMapNecropolis=古代墓地
-tagWorldMapAsterkarnRoad=Asterkarn{^n}Road
-tagWorldMapAsterkarnValley=Asterkarn{^n}Valley
+tagWorldMapAsterkarnRoad=星石山路
+tagWorldMapAsterkarnValley=星石山谷
 tagWorldMapBastionOfChaos=混沌要塞
-tagWorldMapTombofWatchers=守望者之墓
+tagWorldMapTombofWatchers=看守者之墓
 tagWorldMapTombofArchon=执政官之墓
 tagWorldMapNecropolisGates=古代墓地{^n}之门
 
@@ -218,7 +218,7 @@ tagUGDevilsCrossingAquifer=恶魔含水层
 tagUGDevilsCrossingDungeon01=监牢地下城
 tagUGDevilsCrossingHiddenPassage01=罪犯隧道
 tagUGBurrwitchFloodedCellars=浸没的地窖
-tagUGBurrwitchOutskirtsBasin=走私者的盆地
+tagUGBurrwitchOutskirtsBasin=走私者盆地
 tagUGFloodedPassageRuin=沉没圣所
 
 tagUGSlithLab01=哈格特的小岛
@@ -241,7 +241,7 @@ tagUGBrokenHills02D=悲恸
 tagUGBrokenHills02E=尤若布鲁克的折磨
 tagUGBrokenHills02F=灵魂居所
 tagUGBrokenHills03=废弃兽穴
-tagUGBrokenHills04=走私者的通道
+tagUGBrokenHills04=走私者通道
 tagUGBrokenHills05=尖啸山谷
 
 tagUGJaggedWasteCave01=血荆棘的巢穴
@@ -271,13 +271,13 @@ tagUGCryptZealot01=寇瓦克之墓
 tagUGVoidlands01=混沌要塞
 tagUGVoidlands01A=不谐
 tagUGVoidlands01B=无序
-tagUGVoidlands01C=Entropy
+tagUGVoidlands01C=熵
 tagUGVoidlands01D=绝望之地
 
-tagUGPassageNecropolis=Hall of Spirits
-tagUGCryptFinal01=Tomb of the Watchers
-tagUGCryptFinal02=Seal of the Loghorrean
-tagUGCryptFinal03=Edge of Madness
+tagUGPassageNecropolis=灵魂大厅
+tagUGCryptFinal01=看守者之墓
+tagUGCryptFinal02=洛格瑞安的封印
+tagUGCryptFinal03=疯狂边缘
 
 #Signs
 
@@ -288,19 +288,19 @@ tagSign_Burrwitch=伯尔维治村
 tagSign_Malmouth=马尔茅斯
 tagSign_BrokenHills=破碎丘陵
 tagSign_CoastRoad=安克维亚山麓
-tagSign_EastMarsh=东部沼泽
+tagSign_EastMarsh=东方沼泽
 tagSign_Homestead=霍姆斯特德
 tagSign_MistyVale=雾色河谷
 tagSign_RockyCoast=古安克维亚
-tagSign_FoothillsVillage=凯蒙的隐居处
-tagSign_TyrantsHold=暴君的要塞
+tagSign_FoothillsVillage=凯蒙隐居处
+tagSign_TyrantsHold=暴君要塞
 tagSign_SorrowsBastion=悲伤城堡
 tagSign_Farm=阿韦尔鲁克的耕地
 tagSign_Deeps=注意:矿洞已封闭
 tagSign_Darkvale=黑谷村
 tagSign_BloodGroveFort=哈伦堡
 tagSign_BloodGroveMine=裂石矿场
-tagSign_BloodGroveMill=格里弗的伐木场
+tagSign_BloodGroveMill=格里弗伐木场
 tagSign_FortIkon=圣像堡
 
 tagSign_OldGrove=古老林地
@@ -334,7 +334,7 @@ tagPOI013A=哈伦堡
 tagPOI014A=地穴入口
 tagPOI014B=地穴出口
 tagPOI015A=深入虚空
-tagPOI015B=Ascend from the Void
+tagPOI015B=虚空返世
 
 tagPOIFloodedPassageA=浸没通道入口
 tagPOIFloodedPassageB=浸没通道出口
@@ -363,13 +363,13 @@ tagPOIManInNeedCaveA=迈拉的藏身处入口
 tagPOIManInNeedCaveB=废弃兽穴出口
 tagPOIMountainDeepsA=山脉深渊入口
 tagPOIMountainDeepsB=山脉深渊出口
-tagPOIFortIkon_Armory=Fort Ikon Armory
-tagPOIFortIkon_Prison=Fort Ikon Prison
-tagPOIFactionBattleA=Tomb of Archon Barthollem
-tagPOIKymonSecretA=Tomb of Korvaak
-tagPOILoghorrean01A=Tomb of the Watchers
-tagPOILoghorrean02A=Seal of the Loghorrean
-tagPOILoghorrean03A=Edge of Madness
+tagPOIFortIkon_Armory=圣像堡武器库
+tagPOIFortIkon_Prison=圣像堡监狱
+tagPOIFactionBattleA=执政官巴托雷姆之墓
+tagPOIKymonSecretA=寇瓦克之墓
+tagPOILoghorrean01A=看守者之墓
+tagPOILoghorrean02A=洛格瑞安的封印
+tagPOILoghorrean03A=疯狂边缘
 
 tagPOIStepsOfTorment1A=苦痛阶梯入口
 tagPOIStepsOfTorment1B=苦痛阶梯出口
@@ -382,14 +382,14 @@ tagPOIStepsOfTorment4B=苦痛阶梯(第四层)出口
 tagPOIStepsOfTorment5A=苦痛阶梯(第五层)入口
 tagPOIStepsOfTorment5B=苦痛阶梯(第五层)出口
 
-tagPOI_BastionOfChaos01A=Bastion of Chaos Entrance
-tagPOI_BastionOfChaos01B=Bastion of Chaos Exit
-tagPOI_BastionOfChaos02A=Discord Entrance
-tagPOI_BastionOfChaos02B=Discord Exit
-tagPOI_BastionOfChaos03A=Anarchy Entrance
-tagPOI_BastionOfChaos03B=Anarchy Exit
-tagPOI_BastionOfChaos04A=Entropy Entrance
-tagPOI_BastionOfChaos04B=Entropy Exit
+tagPOI_BastionOfChaos01A=混沌要塞入口
+tagPOI_BastionOfChaos01B=混沌要塞出口
+tagPOI_BastionOfChaos02A=不谐入口
+tagPOI_BastionOfChaos02B=不谐出口
+tagPOI_BastionOfChaos03A=无序入口
+tagPOI_BastionOfChaos03B=无序出口
+tagPOI_BastionOfChaos04A=熵入口
+tagPOI_BastionOfChaos04B=熵出口
 
 tagPOIQuest_Burrwitch=清理伯尔维治传送门
 tagPOIQuest_WardenLab=找到典狱长的实验室
@@ -401,8 +401,8 @@ tagPOIQuestHomesteadTown=霍姆斯特德镇
 tagPOIQuest_Sacrifice=艾萨克的宝藏
 tagPOIQuest_StrangeKey=堕落圣殿
 tagPOIQuest_Homestead=开辟出一条到霍姆斯特德的道路
-tagPOIQuest_NecropolisGate=Entrance to the Necropolis
-tagPOIQuest_NecropolisRift=Secure the Necropolis Riftgate
+tagPOIQuest_NecropolisGate=找到古代墓地的入口
+tagPOIQuest_NecropolisRift=清理古代墓地传送门S
 
 
 #Notifications
@@ -411,14 +411,14 @@ tagNotification_WightmireBurialCaveFound=距离死尸的源头已经不远了…
 tagNotification_WightmireReanimatorFound=一只生物正在复生尸体！
 tagNotification_WightmireCaravanFound=这场屠杀刚发生过不久……
 tagNotification_WightmireCaravanDriverFound=一位俘虏正在呼救！
-tagNotification_InventoryBagAcquired=得到储物袋！
+tagNotification_InventoryBagAcquired=得到一个背包！
 tagNotification_BurrwitchRiftgateEvent=裂缝传送门正在产生敌人！
 tagNotification_BurrwitchRiftgateSecured=伯尔维治的传送门已经被清理干净了！
 tagNotification_WardenCellarFound=这一定就是典狱长的地下室了……
 tagNotification_WardenLabFound=一个实验室，典狱长一定就在附近……
 tagNotification_LostApprenticeCellar=有人最近来过这儿……
 tagNotification_LostApprenticeFound=卡斯帕罗夫的学徒在这儿！
-tagNotification_WightmireRiftgate=传送门被蛇人包围着！
+tagNotification_WightmireRiftgate=传送门被一群蛇人包围着！
 
 tagNotification_HS_RemoveTheHead_ElsaFound=看起来克隆利没有抓艾尔莎……
 tagNotification_HS_SpoilsOfTheGrimDawn=你找到了古老的遗迹。
@@ -426,8 +426,8 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海边的旧桥被毁掉了�
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你已经穿越了走私者的通道，寻找通往霍姆斯特德的道路吧。
 tagNotification_HS_OldArkoviaPassagesCompleted=你已经找齐了讲述安克维亚文章的所有章节并考察了其中的内容。
 tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的灵魂碎片！
-tagNotification_HS_RoverLegacy_Chthonians=The Shrine of Mogdrogen is overrun with Chthonians!
-tagNotification_HS_RoverLegacy_Cleansed=冥灵已经被清除！
+tagNotification_HS_RoverLegacy_Chthonians=莫格卓根的祭坛周围充斥着冥灵！
+tagNotification_HS_RoverLegacy_Cleansed=冥灵已被消灭！
 
 tagNotification_AreaC_EnclaveRiftgateEvent=进入霍姆斯特德的通道充斥着虚灵！
 tagNotification_AreaC_RefugeeRemainsFound=看起来达利娅·塔夫恩没能在山脉深渊的危险中幸免。
@@ -442,10 +442,10 @@ tagNotification_AreaD_FinalBossUlgrim=Void rifts open up around the chamber, con
 
 tagNotification_WarningToughArea=有个远比你强大的怪物栖息在这里……
 tagNotification_WarningRiftgateDisabled=在这里你失去了与裂缝传送门之间的连接……
-tagNotification_WarningGatesOfAnguish=痛苦之门已经打开了。动作要快，这扇门不会开着很久的……
-tagNotification_WarningGatesOfAnguishLocked=痛苦之门已被封印，这场游戏它不会再打开了。
-tagNotification_WarningBastionGates=The Bastion Gates have been opened. Make haste, as they will not remain open for long...
-tagNotification_WarningBastionGatesLocked=The Bastion Gates are sealed and will not reopen again in this session.
+tagNotification_WarningGatesOfAnguish=苦痛之门已经打开了。动作要快，这扇门不会开着很久的……
+tagNotification_WarningGatesOfAnguishLocked=苦痛之门已被封印，这场游戏它不会再打开了。
+tagNotification_WarningBastionGates=要塞之门已被打开，动作要快，这扇门不会开着很久的……
+tagNotification_WarningBastionGatesLocked=要塞之门已被封印，这场游戏它不会再打开了。
 
 #NPCNames
 
@@ -541,8 +541,8 @@ tagNPC_AreaD_01=破法者莫伊拉
 tagNPC_AreaD_02=里夫队长
 tagNPC_AreaD_03=武器专家艾德里克
 tagNPC_AreaD_04=阿纳斯塔里娅
-tagNPC_AreaD_04B=阿纳斯塔里娅, Harbinger of the North
-tagNPC_AreaD_04C=阿纳斯塔里娅,  Wrath of the Aether
+tagNPC_AreaD_04B=北地使者 阿纳斯塔里娅
+tagNPC_AreaD_04C=虚化之怒 阿纳斯塔里娅
 
 tagNPC_DetonationSite=爆破点
 tagNPC_AetherCluster=虚化集簇
@@ -553,7 +553,7 @@ tagNPC_OldGroveBridge=古老林地桥梁修理处
 tagNPC_HomesteadBridge=双子瀑布桥梁修理处
 tagNPC_WightmireBridge=尸妖泥沼桥梁修理处
 tagNPC_BurrwitchBridge=伯尔维治桥梁修理处
-tagNPC_NecropolisBridge=Necropolis Bridge Repair Site
+tagNPC_NecropolisBridge=古代墓地桥梁修理处
 
 tagNPC_JosephClaxton=约瑟夫·克莱斯顿
 tagNPC_MariaFletcher=玛利亚·弗莱彻
@@ -623,10 +623,10 @@ tagNPC_Flavor_AreaC_31=丽莎·索恩斯巴利
 tagNPC_Flavor_AreaC_32=达拉
 tagNPC_Flavor_AreaC_33=维格
 tagNPC_Flavor_AreaC_34=雷纳·奥博拉什
-tagNPC_Flavor_AreaC_35=禁卫军 Zedlee
-tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
+tagNPC_Flavor_AreaC_35=禁卫军 泽德李
+tagNPC_Flavor_AreaC_31UNUSED=伊莱恩 科布尔Elaine Cobble
 tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
-tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
+tagNPC_Flavor_AreaC_33UNUSED=谢恩 科布尔Shane Cobble
 tagNPC_Flavor_AreaC_34UNUSED=Davis Morden
 
 tagNPC_Flavor_AreaD_01=
@@ -713,10 +713,10 @@ tagQuestItemSlithLab_Desc="疯狂的奥术师奥斯瓦德·哈格特写下的草
 tagQuestItemAetherialEssence=虚灵精华
 tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
 
-tagQuestMogdrogenShrine=莫格卓根的圣坛
+tagQuestMogdrogenShrine=莫格卓根的祭坛
 tagQuestItemMogdrogenShrine01=莫格卓根的符文石
 tagQuestItemMogdrogenShrine02=莫格卓根的灵魂
-tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
+tagQuestItemMogdrogenShrine_Desc="莫格卓根祭坛的一部分。"
 
 tagQuestItemSacredAshes=至高神的神圣尘埃
 tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of the Lightbringer."
@@ -724,10 +724,10 @@ tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of
 tagQuestItemDesecratedAshes=Desecrated Ashes of Empyrion
 tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
 
-tagQuestItemHeavyExplosives=Legion Heavy Explosives
+tagQuestItemHeavyExplosives=军团的烈性炸药
 tagQuestItemHeavyExplosives_Desc="Infused by military sorcerers to guarantee a giant payload."
 
-tagQuestItemLegionSupplies=Legion Supplies
+tagQuestItemLegionSupplies=军团的补给品
 tagQuestItemLegionSupplies_Desc="A stash of Black Legion raw materials. A veritable fortune given the situation in the empire."
 
 
@@ -1123,7 +1123,7 @@ tagStoreTitle_MerchantB04=教团的供应商
 tagNPC_MerchantC01=马里斯·卡斯
 tagStoreTitle_MerchantC01=失落宝物商人
 
-tagNPC_MerchantC02=Karros Adal
+tagNPC_MerchantC02=卡若斯·阿达尔
 tagStoreTitle_MerchantC02=Wares of the Damned
 
 tagNPC_MerchantT01=流动商人
@@ -1132,15 +1132,15 @@ tagStoreTitle_MerchantT01=流动商人
 tagNPC_SmugglerA01=卡莱尔
 tagStoreTitle_SmugglerA01=走私者
 
-tagNPC_SmugglerA02=Hannah
+tagNPC_SmugglerA02=汉娜
 tagStoreTitle_SmugglerA02=走私者
 
 tagNPC_SmugglerA03=澳格瓦德
 tagStoreTitle_SmugglerA03=走私者
 
 
-tagNPC_ReallocatorA01=Sahdina
-tagStoreTitle_ReallocatorA01=Spirit Guide
+tagNPC_ReallocatorA01=萨蒂娜
+tagStoreTitle_ReallocatorA01=灵魂
 
 tagNPC_InventorA01=达莱特
 tagStoreTitle_InventorA01=发明家
@@ -1205,8 +1205,8 @@ tagNPC_FactionQuartermaster_08=Thalia
 tagStoreTitle_FactionQuartermaster_08=军需官
 tagNPC_FactionQuartermaster_09=柯林斯
 
-tagNPC_FactionQuartermaster_10=阿纳斯塔里娅's Drudge
-tagStoreTitle_FactionQuartermaster_10=放逐者的秘密
+tagNPC_FactionQuartermaster_10=阿纳斯塔里娅的苦力
+tagStoreTitle_FactionQuartermaster_10=放逐者的密宝
 
 #Faction Bounty Tables
 tagNPC_FactionTable_01=恶魔十字赏金桌
@@ -1218,32 +1218,32 @@ tagNPC_FactionTable_06=死亡守夜人教团赏金桌
 tagNPC_FactionTable_07=放逐者赏金桌
 
 #Devotion Shrines
-tagDevotionShrineA01=Burial Hill
-tagDevotionShrineA02=Foggy Bank
-tagDevotionShrineA03=Burrwitch Outskirts
-tagDevotionShrineA04=Flooded Passage
-tagDevotionShrineA05=Burrwitch Estates
-tagDevotionShrineA06=Devil's Aquifer
-tagDevotionShrineA07=Warden's Lab
-tagDevotionShrineA08=East Marsh
-tagDevotionShrineB01=Arkovian Foothills
-tagDevotionShrineB02=Old Arkovia
-tagDevotionShrineB03=Arkovian Undercity
-tagDevotionShrineB04=Cronley's Hideout
-tagDevotionShrineB05=Broken Hills
-tagDevotionShrineB06=Rocky Coast
-tagDevotionShrineB07=Steps Of Torment
-tagDevotionShrineC01=Mountain Deeps
-tagDevotionShrineC02=Forgotten Depths
-tagDevotionShrineC03=Tyrant's Hold
-tagDevotionShrineC04=Den of the Lost
-tagDevotionShrineC05=Infested Farms
-tagDevotionShrineC06=Darkvale Village
-tagDevotionShrineC07=Bastion of Chaos
-tagDevotionShrineC08=Blood Grove
-tagDevotionShrineD01=Asterkarn Valley
+tagDevotionShrineA01=殓葬山
+tagDevotionShrineA02=迷雾河畔
+tagDevotionShrineA03=伯尔维治郊外
+tagDevotionShrineA04=浸没通道
+tagDevotionShrineA05=伯尔维治庄园
+tagDevotionShrineA06=恶魔含水层
+tagDevotionShrineA07=典狱长的实验室
+tagDevotionShrineA08=东方沼泽
+tagDevotionShrineB01=安克维亚山麓·
+tagDevotionShrineB02=古安克维亚
+tagDevotionShrineB03=安克维亚地下城
+tagDevotionShrineB04=克隆利的藏身处
+tagDevotionShrineB05=破碎丘陵
+tagDevotionShrineB06=岩石海岸
+tagDevotionShrineB07=苦痛阶梯
+tagDevotionShrineC01=山脉深渊
+tagDevotionShrineC02=遗忘深渊
+tagDevotionShrineC03=暴君要塞
+tagDevotionShrineC04=迷失洞穴
+tagDevotionShrineC05=感染农田
+tagDevotionShrineC06=黑谷村
+tagDevotionShrineC07=混沌要塞
+tagDevotionShrineC08=血森林
+tagDevotionShrineD01=星石山谷
 tagDevotionShrineD02=Tomb of the Damned
-tagDevotionShrineD03=Necropolis
+tagDevotionShrineD03=古代墓地
 tagDevotionShrineD04=The Black Sepulcher
 tagDevotionShrineD05=???
-tagDevotionShrineMogdrogen=Mogdrogen's Shrine
+tagDevotionShrineMogdrogen=莫格卓根的祭坛

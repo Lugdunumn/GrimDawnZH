@@ -1,7 +1,7 @@
 赏金任务
 赏金：冥灵饱食者
 赏金
-Chthonian Gorgers have been seen rampaging through the 血森林, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Tavel with Kymon's blessing, brave Chosen.
+Chthonian Gorgers have been seen rampaging through the 血森林, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Travel with Kymon's blessing, brave Chosen.
 
 杀死冥灵饱食者
 

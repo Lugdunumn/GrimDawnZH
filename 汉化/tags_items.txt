@@ -67,7 +67,7 @@ tagWeaponSwordD002Desc="一把充满着未开发能量的索拉丁水晶剑。"
 tagWeaponSwordD003=残酷命运 Grim Fate
 tagWeaponSwordD004=心灵扭曲 Mindwarp
 tagWeaponSwordD005=贝若纳斯，重铸之剑 Beronath, Reforged
-tagWeaponSwordD005Desc="这把屠杀了贝若纳斯的神剑曾经损坏，最终得以重铸。"
+tagWeaponSwordD005Desc="这把屠杀了贝若纳斯的利刃曾经损毁，最终得以重铸。"
 tagWeaponSwordD006=血歌 Bloodsong
 tagWeaponSwordD007=死亡 Nex
 tagWeaponSwordD007Desc="看着这把剑，你能感受到自己的死期。"
@@ -165,6 +165,7 @@ tagWeaponAxeB002=幽光战斧
 tagWeaponAxeB003=竞技场主之斧
 tagWeaponAxeB004=断骨斧
 tagWeaponAxeB005=骨镰
+tagWeaponAxeB006=Olman's Axe
 
 tagWeaponAxeC001=残忍之锋 Cruel Edge
 tagWeaponAxeC002=死神触碰 Reaper's Touch
@@ -185,7 +186,7 @@ tagWeaponAxeC012=尸体亵渎者 Corpse Desecrator
 tagWeaponAxeC013=乔纳格·理 Chonag'Ri
 tagWeaponAxeC013Desc="一把由各种人类和动物的骨头组成的萨满斧。"
 tagWeaponAxeC014=星石之斧 Asterkarn Cleaver
-tagWeaponAxeC015=地狱降生 Hellborn Slicer
+tagWeaponAxeC015=地狱之爪 Hellborn Slicer
 
 tagWeaponAxeD001=伯尔维治屠夫 Butcher of Burrwitch
 tagWeaponAxeD001Desc="恐怖黎明之后，凯恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
@@ -217,6 +218,7 @@ tagWeaponGun1hB002=手持迫击炮
 tagWeaponGun1hB003=霰弹手枪
 tagWeaponGun1hB004=血誓手枪
 tagWeaponGun1hB005=血誓连发枪
+tagWeaponGun1hB006=弗朗西斯之枪
 
 tagWeaponGun1hC001=利安德·格林的手持火炮 Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc="从黑水强盗冰冷的死尸手中夺来的武器。"
@@ -227,6 +229,7 @@ tagWeaponGun1hC003Desc="这位老牧师最出名的可不是跟人和平谈判�
 tagWeaponGun1hC004=掠夺者的怒火 Marauder's Fury
 tagWeaponGun1hC005=掠夺者的正义 Marauder's Justice
 tagWeaponGun1hC006=重炮手 The Slugger
+tagWeaponGun1hC006B=重炮手 Slugger
 tagWeaponGun1hC007=第三连队的左轮枪 3rd Company's Revolver
 tagWeaponGun1hC007Desc="这把枪的枪管上只写着一个词：忠诚。"
 tagWeaponGun1hC008=反叛 Mutiny
@@ -283,13 +286,16 @@ tagWeaponGun2hB004=奇型步枪
 tagWeaponGun2hB005=奇型卡宾枪
 
 tagWeaponGun2hC001=猎人 The Huntsman
+tagWeaponGun2hC001B=猎人 Huntsman
 tagWeaponGun2hC002=鹰眼 The Eye
+tagWeaponGun2hC002B=鹰眼 Eye
 tagWeaponGun2hC002Desc="一击必杀。"
 tagWeaponGun2hC003=深渊猎枪 Hellmaw Shotgun
 tagWeaponGun2hC004=恶魔印记 Devil's Mark
 tagWeaponGun2hC005=命运的意志 Will of Fate
 tagWeaponGun2hC005Desc="每一发子弹都注定会找上它真正的目标，不论是谁挡住了它的去路。"
 tagWeaponGun2hC006=绯红神射手 The Scarlet Marksman
+tagWeaponGun2hC006B=绯红神射手 Scarlet Marksman
 tagWeaponGun2hC007=盐核之枪 Salt-core Bolter
 tagWeaponGun2hC007Desc="一支为了消灭虚灵而组装起来的枪。"
 tagWeaponGun2hC008=愤怒使者 Wrathbringer
@@ -331,6 +337,7 @@ tagWeaponCrossbow2hC004Desc="它由来自黒木庄园之外森林的木材所打
 tagWeaponCrossbow2hC005=严寒之息 Frigid Quillbreath
 tagWeaponCrossbow2hC006=掷桩弩 Stake-Thrower
 tagWeaponCrossbow2hC007=蜘蛛之拥 The Arachnid's Embrace
+tagWeaponCrossbow2hC007B=蜘蛛之拥 Arachnid's Embrace
 tagWeaponCrossbow2hC008=拜斯迈的不幸乌鸦之弩 Wretched Crow of Bysmiel
 tagWeaponCrossbow2hC008Desc="拜斯迈的虔诚追随者所使用的标志性武器。"
 tagWeaponCrossbow2hC009=艾达·贾克斯 Ulda'Jax
@@ -377,6 +384,7 @@ tagWeaponMelee2hB009=幽光战锤
 tagWeaponMelee2hB010=执政官的战锤
 tagWeaponMelee2hB011=黑曜石断头斧
 tagWeaponMelee2hB012=黑曜石战刀
+tagWeaponMelee2hB013=Hevill's Greatsword
 
 tagWeaponMelee2hC001=残暴开膛者 Gutwrench Eviscerator
 tagWeaponMelee2hC002=屠杀 Massacre
@@ -385,11 +393,13 @@ tagWeaponMelee2hC003Desc="这把武器的名号是靠砍掉了无数颗令人憎
 tagWeaponMelee2hC004=鹰隼之爪 Falcon's Claw
 tagWeaponMelee2hC005=震颤 Tremor
 tagWeaponMelee2hC006=灵魂之引 The Conduit
+tagWeaponMelee2hC006B=灵魂之引 Conduit
 tagWeaponMelee2hC006Desc="一件稀有的成品，诞生于玄秘锻造工艺的实验中。"
 tagWeaponMelee2hC007=骨片撕裂者 Boneshard Lacerator
 tagWeaponMelee2hC008=石魔之拳 Golemfist Gavel
 tagWeaponMelee2hC009=愤怒之锋 Wrathblade
 tagWeaponMelee2hC010=法姆斯特德解放者 The Farmstead Liberator
+tagWeaponMelee2hC010B=法姆斯特德解放者 Farmstead Liberator
 tagWeaponMelee2hC010Desc="一把历史上法姆斯特德反抗军使用过的著名武器。反抗军最终被帝国的武装力量残忍地镇压。"
 tagWeaponMelee2hC011=阿瓦瑞克的斥责 Alvarick's Rebuke
 tagWeaponMelee2hC012=棱光开膛者 Prismatic Eviscerator
@@ -461,6 +471,7 @@ tagWeaponCaster1hB010=裂隙之灾利爪
 tagWeaponCaster1hB011=裂隙之灾切刀
 tagWeaponCaster1hB012=血誓魔杖
 tagWeaponCaster1hB013=血誓权杖
+tagWeaponCaster1hB014=Loxmere's Frostblade
 
 tagWeaponCaster1hC001=怒火焚身 Burning Hatred
 tagWeaponCaster1hC002=咒火魔杖 Spellfire Wand
@@ -565,6 +576,8 @@ tagShieldB008=穴居人骨墙
 tagShieldB009=吸血鬼骨墙
 tagShieldB010=黑曜石守护者
 tagShieldB011=黑曜石壁垒
+tagShieldB012=奇型盾牌
+tagShieldB013=奇型壁垒
 
 tagShieldC001=恶魔十字防御者 Defender of Devil's Crossing
 tagShieldC002=噬魂者壁垒 Spiriteater Bulwark
@@ -596,7 +609,7 @@ tagShieldD002=终点站 The Final Stop
 tagShieldD002Desc="在一场对抗冥灵势力的绝望战斗中，由筑路工人所打造的盾牌。"
 tagShieldD003=不可触碰 The Untouchable
 tagShieldD004=生存意志 Will of the Living
-tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在冥灵的烈火中重铸为一面盾牌。"
+tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在虚化之火中重铸为一面盾牌。"
 tagShieldD005=裂天壁垒 Skybreach Bulwark
 tagShieldD006=破城者 Siegebreaker
 tagShieldD007=佐尔汉的复仇 Zolhan's Revenge
@@ -904,7 +917,7 @@ tagHeadC013=白银骑士的荣耀 Glory of the Silver Knight
 tagHeadC014=林地之恐惧 Terror of the Grove
 tagHeadC014Desc="从一只满身荆棘的古老怪物身上切下来的一部分。"
 tagHeadC015=灵魂编织者头环 Spiritweaver Circlet
-tagHeadC016=流浪者的兜帽 Outcast's Hood
+tagHeadC016=暗影之耀兜帽 Outcast's Hood
 tagHeadC017=使者的面具 Herald's Mask
 tagHeadC018=沉沦面甲 Faceguard of Perdition
 tagHeadC019=盲眼刺客的风帽 Cowl of the Blind Assassin
@@ -946,6 +959,7 @@ tagHeadD018=凛冬之王的王冠 Crown of the Winter King
 tagheadD018Desc="北地的统治者，白狼之子，霍思纳尔王的王冠。"
 tagHeadD019=特洛赞的宽檐帽 Trozan's Hat
 tagHeadD020=瓦尔顿的宽檐帽 Valdun's Hat
+tagHeadD021=流放者的秘密 Outcast's Secret
 
 tagHeadF001=放逐者的兜帽 Outcast's Hood
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
@@ -1402,6 +1416,7 @@ tagFeetC004=巨石裂地者 Stonewrought Groundbreakers
 tagFeetC005=探险家的裹足 Explorer's Footpads
 tagFeetC006=寻血猎犬护胫 Bloodhound Greaves
 tagFeetC007=死亡行军 The Final March
+tagFeetC007B=死亡行军 Final March
 tagFeetC007Desc="每迈出一步，都有数千士兵死于冥灵之手，这压在脚上如有千钧之重。"
 tagFeetC008=裂隙魔犬皮靴 Rifthound Leather Boots
 tagFeetC008Desc="野兽有百害而无一利，但用来做靴子却很不错。"
@@ -1464,6 +1479,8 @@ tagRingB004=咕噜斯的戒指 Gollus' Ring
 tagRingB004Desc="宝贝，我的宝贝！——咕噜斯"
 tagRingB005=血誓玺戒
 tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
+tagRingB006=维洛斯的戒指 Viloth's Ring
+tagRingB006Desc="A crudely fashioned piece of jewelry. Strange that a slith would use such a thing."
 
 tagRingC001=骨髓戒指 Marrow Band
 tagRingC002=黑曜石印戒 Obsidian Seal
@@ -2320,15 +2337,23 @@ tagConsumable_DevotionReset=醒神药剂
 tagConsumable_DevotionReset_Desc="Clears the mind and primes it for a new spiritual journey."
 
 #DLC
-tagDLCA01=幻象:假发 Illusion: Powdered Wig
+tagDLCA01=幻象:假发
 tagDLCA01Desc="高雅和风尚的定义。"
-tagDLCA02=幻象: 侠盗的外套 Illusion: Swashbuckler's Coat
+tagDLCA02=幻象: 侠盗的外套
 tagDLCA02Desc="环游世界的首选穿着。"
-tagDLCConsumableA01=罐中精灵 Will'O'Wisp in a Jar
+tagDLCA03=赞助人的荣誉
+tagDLCA03Desc="Recognition for the most dedicated of backers."
+tagDLCA04=Kickstarter服役勋章
+tagDLCA04Desc="A military insignia from the great Kickstarter Wars of 2012."
+tagDLCA05=Kickstarter老兵勋章
+tagDLCA05Desc="A veteran's insignia from the great Kickstarter Wars of 2012."
+tagDLCA06=Kickstarter士官勋章
+tagDLCA06Desc="An officer's insignia from the great Kickstarter Wars of 2012."
+tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，被困在了一个罐子里。"
-tagDLCConsumableA01PetSkill01=精灵光环 Wisp Aura
+tagDLCConsumableA01PetSkill01=精灵光环
 tagDLCConsumableA01PetSkill01Desc=精灵以温暖的光芒围绕在你的周围，足以穿透黑暗。
-tagDLCConsumableA02=伯尔维治啤酒 Burrwitch Brew
+tagDLCConsumableA02=伯尔维治啤酒
 tagDLCConsumableA02Desc="这酒可不是给软蛋喝的，它可能产生的副作用有：恶心，呕吐，还有忘了你昨晚在哪儿。"
 
 #ItemNote阅读记录
@@ -3180,7 +3205,7 @@ tagCompB013Name=^k魂铁
 tagCompB013Desc="禁锢其中的魂灵让你满脑子都是疯狂的私语。" ^w^n(用于所有武器，盾牌和施法者副手)
 
 tagCompB014Name=^k贝若纳斯的碎片
-tagCompB014Desc="虽然只是传说中的神剑贝若纳斯的一片碎片，但仍残留着强大的力量。" ^w^n(用于近战武器)
+tagCompB014Desc="虽然只是击落贝若纳斯的圣矛一片碎片，但仍残留着强大的力量。" ^w^n(用于近战武器)
 
 tagCompB015Name=^k血腥磨石
 tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发兵刃对鲜血无比的饥渴。" ^w^n(用于斧和剑)
@@ -3341,7 +3366,6 @@ tagItemSetC001NameB=和平卫士的戎装 Peacekeeper's Raiment
 tagItemSetC001Desc="曾经是这些和平卫士兼皇家护卫的标准装备，这种套装在恐怖黎明发生之后留存无几。"
 
 tagItemSetC002Name=探险家的服饰 Explorer's Garments
-tagItemSetC002NameB=探险家的战衣 Explorer's Vestments
 tagItemSetC002Desc="轻便且耐用的护甲，为渴望探险的人而准备。"
 
 tagItemSetC003Name=麦文的庇佑 Maiven's Sanctuary
@@ -3490,8 +3514,7 @@ tagItemSetD018Name=Trozan's Ascension
 tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to harness their unbelievable power, despite all risks involved in taming such raw energies."
 
 tagItemSetD019Name=瓦尔顿的背叛 Valdun's Treachery
-tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but it was not until he turned his sights upon the nobility of Erulan that he became truly infamous."
-
+tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but he only became truly infamous after turning his sights upon the nobility of Erulan."
 
 #Prefixes前缀
 
@@ -3852,6 +3875,9 @@ tagSuffixB064_Ar_A=of the Honor Guard
 tagSuffixB065_Ar_A=of Arcane Minds
 tagSuffixB066_Ar_A=虚化风暴之
 tagSuffixB067_Ar_A=of Dark Intent
+tagSuffixB068_Ar_A=战狂之
+tagSuffixB069_Ar_A=of Arcane Might
+tagSuffixB070_Ar_A=石拳之
 
 tagSuffixB001_Sh_A=壁垒之
 tagSuffixB002_Sh_A=勇气之
@@ -3963,7 +3989,13 @@ tagChestHeroD06=卓越宝箱
 tagChestHeroD07=黑曜石集簇
 tagChestHeroD08=黑曜石宝藏
 tagChestHeroD09=黑曜石财宝
+tagChestHeroD11=Edmund's Stash
 tagChestHeroD10=洛格瑞安的宝藏
+tagChestNemesis02=克隆体的珍宝
+
+tagChestSecret01=Hidden Spoils
+tagChestSecret02=Hidden Remains
+tagChestSecret03=Hidden Trove
 tagChestNemesis01=复仇者的珍宝
 tagBreakableA01=桶
 tagBreakableA02=板条箱
@@ -4001,6 +4033,8 @@ tagChestOneShot_HiddenWealth=隐藏宝藏
 
 #InteractiveObjects
 tagShrineConstitutionA01=未动过的食物
+tagShrineBossLocked= {^R} ~ Sealed by a Powerful Presence
+tagShrineMogdrogenLocked= {^R} ~ Sealed by Chthonic Energies
 
 #Breakables可破坏
 
@@ -4066,6 +4100,9 @@ tagQuestItemBrothersAmuletDesc="致亲爱的哥哥: 愿这枚护身符护佑你�
 tagQuestItemSlithRing=蛇人原始戒指
 tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
 
+tagItemTest=Gazer Man
+tagItemTestDesc="A crowning achievement in Gazer wear."
+
 #Equipment Locations
 
 tagSlotLeftHand= (左手)
@@ -4082,4 +4119,4 @@ tagSlotFeet= (足部)
 tagSlotWaist= (腰部)
 tagSlotRelic= (遗物)
 tagSlotMedal= (勋章)
-tagSlotUnknown= (未知)
+tagSlotUnknown= (未装备)

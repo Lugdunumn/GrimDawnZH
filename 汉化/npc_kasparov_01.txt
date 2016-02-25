@@ -100,23 +100,23 @@ I...don't even want to know what that entailed.
 
 我的盟友送来了那些炸药么？
 是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
-
+额，好吧。
 哦不，别又是一次实验……
-Ah, there you are! Come, come, we have an errand you must perform immediately.
-Excuse me?
-Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around 安克维亚山麓 and 古安克维亚 immediately!
-Very well. I'll gather the explosives.
-Oh no, I'm not getting involved in another of your experiments.
-Will this Dynamite suffice?
+啊，你来了！过来，过来，我们有个必须马上执行的任务要交给你。
+什么？
+是的，立刻就得执行。可别耽搁！我们需要进行实验，我和达莱特马上需要爆炸物。没时间问问题了。这些具有魔力的手工艺制品可不会自己就分解了，是不是？{^n}{^n}你还在这儿呢？马上去安克维亚山麓和古安克维亚的矿洞里！
+好的，我会收集炸药的。
+哦不，我不会再参与到你的实验里去了。
+这些炸药足够吗？
 
-Did my allies deliver the Dynamite?
-Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
-
-Oh no, not another experiment...
+我的盟友送来了那些炸药么？
+是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
+额，好吧。
+哦不，别又是一次实验……
 You're back! Is there anything I can help you with?
-Can you provide me with Inventor services?
-Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
-Hmm, alright.
+你能给我提供储物箱服务么？
+哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
+嗯，好的。
 你回来了！有什么我能帮你做的吗？
 你能给我提供储物箱服务么？
 哦，那种琐碎的活儿？我可忙着呢，跟我的学徒说吧，她管这种粗活。
@@ -127,7 +127,9 @@ Hmm, alright.
 我会的。
 我看到我的懒徒弟终于从她的小旅行回来了。好，很好。我会打发她去工作的。{^n}{^n}她提到了你，你应该去和她谈谈。
 我会的。
-你找到了我的学徒没？我肯定她一定是在伯尔维治庄园的什么地窖里呆着。你可以开传送门把她给送回这里。事实上，如果还有其他人困在那儿，你也可以送他们过来。
+你找到了我的学徒没？我肯定她一定是在伯尔维治庄园的什么地窖里呆着。你可以开传送门把她给送回这里。要是还有其他人困在那儿，你也可以把他们送过来。
+我会继续寻找的。
+你找到了我的学徒没？我肯定她一定是在伯尔维治庄园的什么地窖里呆着。你可以开传送门把她给送回这里。要是还有其他人困在那儿，你也可以把他们送过来。
 我会继续寻找的。
 啊，我们光忙着传送门这茬儿，完全忘了我的徒弟达莱特！{^n}{^n}我让她去伯尔维治庄园为研究拿回来一些零件，但她一去不回。看来她笨得可以啊。
 你的学徒失踪了？

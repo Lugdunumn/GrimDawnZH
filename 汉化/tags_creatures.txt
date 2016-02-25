@@ -148,7 +148,7 @@ tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
 
 tagChthonianBoss01=鲜血使者 拉苟扎克
 tagChthonianBoss02=混沌使者 沙祖尔
-tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
+tagChthonianBoss03=Bane'Galgalor, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
 tagChthonianBoss05=Galar'Bargok, the Black Fiend
 tagChthonianBoss06=Harak'Bargoth, Guardian of the Bastion
@@ -234,14 +234,14 @@ tagEnemyGhostA01=幽灵
 tagEnemyGhostB01=幽灵贵族
 tagEnemyGhostB02=幽灵勇士
 
-tagHeroGhostH01=游魂 瓦拉凡女士
-tagHeroGhostH02=黑尾领主 ~ 伤害反弹
-tagHeroGhostH03=罗森塔尔女士 ~ 回复者
+tagHeroGhostH01=游魂，瓦拉凡女士
+tagHeroGhostH02=Ballan Voros ~ 伤害反弹
+tagHeroGhostH03=Rosena Malgos ~ 回复者
 tagHeroGhostH04=风暴尖啸 ~ 带电
-tagHeroGhostH05=奥尔德拉康领主 ~ 迅捷
+tagHeroGhostH05=欧德拉堪·派德 ~ 迅捷
 tagHeroGhostH06=虚化之魂 ~ 腐化
 
-tagGhostBoss01=堕落之魂领主 瓦德里斯男爵
+tagGhostBoss01=堕落之魂领主，巴洛斯·瓦德里斯
 tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔
@@ -328,12 +328,14 @@ tagEnemyDeathClanShamanB01=格罗布 ~ 死之部落 白骨法师
 tagGrobleShamanHeroH01=冰冷刺骨 德士古
 tagGrobleShamanHeroH02=纳比诺克
 tagGrobleShamanHeroH03=尼尔拉姆纳克 ~ 伤害反弹
-tagGrobleHeroH01=烈火之触 托尔格鲁
-tagGrobleHeroH02=小腿 阿尔巴戈
-tagGrobleHeroH03=食火者 乌达古
-tagGrobleHeroH04=风暴召唤者 摩尔巴格达
+tagGrobleHeroH01=烈火之触，托尔格鲁
+tagGrobleHeroH02=小腿，阿尔巴戈
+tagGrobleHeroH03=食火者，乌达古
+tagGrobleHeroH04=风暴召唤者，摩尔巴格达
 tagGrobleHeroH05=霍尔伯拉克 ~ 防御者
-tagGrobleHeroH06=不洁的 匹克斯诺特
+tagGrobleHeroH06=不洁的匹克斯诺特
+
+tagGrobleBoss01=风暴追寻者，Narbalgal
 
 #Harpy 鹰身女妖
 
@@ -472,7 +474,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
-tagDermapteranBoss04=领袖 污染者 阿诺克斯 
+tagDermapteranBoss04=虫巢守卫 污染者，阿诺克斯 
 
 #CreatureInsectMosquito 蚊子
 tagEnemyInsectMosquitoA01=泥沼食血者
@@ -669,14 +671,14 @@ tagEnemySkeletonC02=霜冻亡魂
 tagEnemySkeletonC03=风暴亡魂
 tagEnemySkeletonC04=死亡亡魂
 
-tagSkeletonHeroH01=饮血者 泰布里斯
-tagSkeletonHeroH02=德里格的永世仆役 巴拉扎尔
-tagSkeletonHeroH03=受诅咒者 领主哈里斯
+tagSkeletonHeroH01=饮血者，泰内布里斯
+tagSkeletonHeroH02=德里格的永世仆役，巴拉扎尔
+tagSkeletonHeroH03=受诅咒者，Harros Dred
 tagSkeletonHeroH04=地狱幽魂 ~ 燃烧
-tagSkeletonHeroH05=领主阿里斯塔·赫斯沃斯 ~ 伤害反弹
+tagSkeletonHeroH05=Allos Sadarin ~ 伤害反弹
 tagSkeletonHeroH06=寒冰之心 ~ 冰冻
 
-tagSkeletonBoss01=污染之魂 基尔安
+tagSkeletonBoss01=污染之魂 基尔利安
 tagSkeletonBoss02=大祭司 扎尔泽兰
 tagSkeletonBoss03=埃尔纳德林的鬼魂
 tagSkeletonBoss04=大祭司 罗德拉西斯
@@ -919,6 +921,8 @@ tagEnemyZombieVoidA01=冥灵无魂者
 tagEnemyZombieMutatedA01=奇型屠夫
 tagEnemyZombieMutatedB01=奇型鞭笞者
 
+tagZombieMutatedBoss01=Barrog, the Bloodied
+
 tagZombieHeroH01=被遗忘者 艾伯纳
 tagZombieHeroH02=猩红梦魇
 tagZombieHeroH03=污秽者 加斯崔斯
@@ -1036,6 +1040,8 @@ tagBossLoghorreanTentacle01=Loghorrean's Tentacle
 tagBossLoghorreanTentacle02=Loghorrean's Tentacle
 tagBossLoghorreanTentacleCluster=Tentacle Cluster
 
+tagMiscTargetDummy=训练假人
+
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾 沃达兰
 tagNemesis_Aetherial02=被遗忘的邪灵
@@ -1053,6 +1059,17 @@ tagNemesis_Outlaw03=死眼
 tagNemesis_Undead01=技师 奥米诺克西斯
 tagNemesis_Undead02=寒风 莫斯劳克
 tagNemesis_Undead03=血毒
+
+tagNemesis_Clone01=Clone of John Bourbon
+tagNemesis_Clone02=Burning Clone of John Bourbon
+tagNemesis_Clone03=Frozen Clone of John Bourbon
+tagNemesis_Clone04=Electrified Clone of John Bourbon
+tagNemesis_Clone05=Tainted Clone of John Bourbon
+tagNemesis_Clone06=Deathly Clone of John Bourbon
+tagNemesis_Clone07=Corrupted Clone of John Bourbon
+tagNemesis_Clone08=The Final Form of the Clone of John Bourbon
+tagNemesis_Clone09=The Actually Final Form of the Clone of John Bourbon
+
 
 #Devotion
 tagDevotion_AetherialH01=Athraz, the Watcher
@@ -1094,15 +1111,15 @@ tagDevotion_FleshHulkH02=Aethollin
 tagDevotion_FleshHulkH03=Kollus ~ Burning
 tagDevotion_FleshHulkH04=Feseron ~ Electrified
 
-tagDevotion_GhostH01=Lady Odellia
-tagDevotion_GhostH02=Lord Mardenthal ~ Burning
-tagDevotion_GhostH03=Lady Agathon ~ Regenerator
-tagDevotion_GhostH04=Lord Stormbane ~ Electrified
-tagDevotion_GhostH05=Lord Blackwood ~ Voidtouched
-tagDevotion_GhostH06=Lord Senethal ~ Corrupted
-tagDevotion_GhostH07=Lord Develon
-tagDevotion_GhostH08=Lady Barroth
-tagDevotion_GhostH09=Lady Senethal
+tagDevotion_GhostH01=Odellia Lanos
+tagDevotion_GhostH02=Marden Thal ~ Burning
+tagDevotion_GhostH03=Agalla Varos ~ Regenerator
+tagDevotion_GhostH04=Stormbane ~ Electrified
+tagDevotion_GhostH05=Baullos Gar ~ Voidtouched
+tagDevotion_GhostH06=Senal Thandris ~ Corrupted
+tagDevotion_GhostH07=Develos Ondal
+tagDevotion_GhostH08=Barrosa Namos
+tagDevotion_GhostH09=Aneria Thandris
 
 tagDevotion_CavePrawnH01=Direcrix
 tagDevotion_CavePrawnH02=Malocrix ~ Voidtouched
@@ -1123,7 +1140,7 @@ tagDevotion_SkeletonH03=Damnoth
 tagDevotion_SkeletonH04=Everon ~ Burning
 tagDevotion_SkeletonH05=Vengar the Vengeful ~ Reflective
 tagDevotion_SkeletonH06=Rimelord ~ Frozen
-tagDevotion_SkeletonH07=Lord Tenethon
+tagDevotion_SkeletonH07=Tenethon
 tagDevotion_SkeletonH08=Alladon the Flamewatcher
 tagDevotion_SkeletonH09=Elagorian Darkmarrow
 tagDevotion_SkeletonH10=Ollegon the Icewatcher

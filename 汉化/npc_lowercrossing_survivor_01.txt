@@ -1,0 +1,19 @@
+Faldis
+We're all going to die out here.
+Help is on the way.
+We're all going to die out here.
+Calm down, where are you from?
+I was staying with a group of survivors down in Devil's Crossing, you know...the old prison, but supplies started running low. I volunteered to go scavenging around Lower Crossing. Figured it was safe enough, but I was wrong.{^n}{^n}I got chased in here by a pack of ravenous rift scourges, though I can't hear their maddening skittering anymore. I suppose I have you to thank for that?{^n}{^n}It doesn't matter though. The area is overrun with the dead. We won't make it five feet without getting surrounded.
+The way back should be clear now.
+I'm not going back out there again.{^n}{^n}The dead will find us and tear us apart.
+Well, I suppose I could open a riftgate.
+Fine, you're on your own.
+I suppose I could open a riftgate.
+A what? Isn't that what those...those things are pouring out of?
+Well, sort of, but mine will take you home.
+I'm having a hard time believing that after what I've seen up in Burrwitch.{^n}{^n}But you don't seem to have the look of a 'Taken' about you. I suppose this is my only option.
+See you back at Devil's Crossing. (Open Riftgate)
+Forget it. Find your own way home.
+Nevermind.
+You're on your own.
+You're on your own.

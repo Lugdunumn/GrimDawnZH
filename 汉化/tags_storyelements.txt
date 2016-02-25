@@ -1139,7 +1139,7 @@ tagNPC_SmugglerA03=澳格瓦德
 tagStoreTitle_SmugglerA03=走私者
 
 
-tagNPC_ReallocatorA01=萨蒂娜
+tagNPC_ReallocatorA01=萨迪娜
 tagStoreTitle_ReallocatorA01=灵魂
 
 tagNPC_InventorA01=达莱特

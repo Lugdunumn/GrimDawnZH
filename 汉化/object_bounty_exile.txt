@@ -189,7 +189,7 @@ Accept the Task.
 Step away from the Bounty Table.
 Next Bounty.
 
-阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive tasks.
 
 Step away from the Table.
 阿纳斯塔里娅 does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.

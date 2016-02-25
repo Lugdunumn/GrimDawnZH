@@ -2,13 +2,17 @@
 我将坚守原地。
 再见。
 艾格瑞姆要见你，请马上去找他。
-你能打开大门么？
-艾格瑞姆说的很清楚，在他听取完关于最近事件的报告之前任何人都不能离开这里。
-我会跟他谈谈的。
-Where is Ulgrim?
+艾格瑞姆在哪？
 Ulgrim is currently speaking with Inquisitor Creed, on the balcony overlooking the fields.{^n}{^n}You will find the stairs up near the planning room where the Captain is situated.
 Thank you.
 我会跟他谈谈的。
+艾格瑞姆要见你，请马上去找他。
+我会跟他谈谈的。
+我没时间。
+你能打开大门么？
+艾格瑞姆说的很清楚，在他听取完关于最近事件的报告之前任何人都不能离开这里。
+我会跟他谈谈的。
+我没时间。
 保持警戒。人类的敌人包围着我们。
 你能打开大门么？
 抱歉。上面下了严令，只要西边的虚灵还威胁着我们，就不能开门。

@@ -18,11 +18,29 @@
 <h5>Kamil Marczewski - 设计师
 <h5>Eric Sexton - 设计师
 
-<h1>SkewSound
+<h1>SkewSound公司团队
 
 <h5>Dan Crislip - 首席音效师
-<h5>Steve Pardo - 作曲 
-<h5>Christopher Wilson - 声效设计师
+<h5>Steve Pardo - 首席作曲 
+<h5>Christopher Wilson - 声效师
+<h5>Nicholas Kallman - 声效师
+
+<h2>配音演员
+<h5>Kent Clark
+<h5>Gary Craig
+<h5>Mark Dodson
+<h5>Josh Glavine
+<h5>David Godfrey
+<h5>Charlie Hughes
+<h5>Obehi Janice
+<h5>Mark H. Lucas
+<h5>Helen McWilliams
+<h5>Chris Rando
+<h5>Hannah Risser-Sperry
+<h5>Paul Sherrard
+<h5>Kylie Sullivan
+<h5>Michael Sutherland
+<h5>Gabriel Wolf
 
 <h1>额外团队
 
@@ -39,6 +57,9 @@
 <h5>Tom Lewis
 <h5>Kelly Aleshire
 <h5>Ian Wells
+<h5>Tim Croteau
+<h5>Tom Lennon
+<h5>Lee Smith
 <h5>Matthew Ball
 <h5>Angela Nerell
 
@@ -67,12 +88,12 @@
 <h2>Адмирал АнимЕ
 
 <h2>中文
-EsclaveDuReve(zyhmuyu)
-gpqkevin
-Otic(琉璃mk2)
-kingzy(04160131)
-tt300(GD汉化小白丁)
-USunOfBeach
+<h5>EsclaveDuReve(zyhmuyu)
+<h5>gpqkevin
+<h5>Otic(琉璃mk2)
+<h5>kingzy(04160131)
+<h5>tt300(GD汉化小白丁)
+<h5>USunOfBeach
 
 <h2>捷克语
 <h5>Lukáš "Lumeriol" Rajchl
@@ -1739,6 +1760,7 @@ USunOfBeach
 <h5>Mischa Venables
 <h5>Shane "Shedoa" Copeland
 <h5>Marty Smith
+<h5>Joseph "The Late Guy" Fuller
 
 <h1>Epic Supporters
 

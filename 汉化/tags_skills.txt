@@ -362,61 +362,61 @@ tagClass03SkillDescription15A=将目标封印于一块保护性的愈伤结界�
 #Class04
 
 tagClass04SkillName00=夜刃
-tagClass04SkillDescription00=精通幻象和回旋之刃的技巧。
+tagClass04SkillDescription00=精通幻象和回旋之刃的技艺。
 
 tagClass04SkillName01A=幻影刀 Phantasmal Blades
 tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤的刀刃，如切割纸片一般撕裂肉体。
 tagClass04SkillName01B=寻心刃 Heart Seeker
-tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀锋是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
+tagClass04SkillDescription01B=通过精巧的技术，召唤出的幻影刀是如此的锋利以至于它们可以刺穿多个目标而且隐形幻线能从受害者身上吸取生命力。
 tagClass04SkillName01C=幽冥刃 Nether Edge
-tagClass04SkillDescription01C=以黑魔法强化幻影刀锋，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
-tagClass04SkillName01X=专注投掷 Focused Throw
-tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀锋，将杀伤力汇集于一次凶猛的攻击。
-tagClass04SkillName01D=狂热投掷 Frenetic Throw
-tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀锋，但是单个刀锋的杀伤力降低。
+tagClass04SkillDescription01C=以黑魔法强化幻影刀，是一种仅在最恶劣的情况下才会使用的令人厌恶的技能。
+tagClass04SkillName01X=凝神投 Focused Throw
+tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀，将杀伤力汇集于一次凶猛的攻击。
+tagClass04SkillName01D=狂怒投 Frenetic Throw
+tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀，但是单个刀锋的杀伤力降低。
 
-tagClass04SkillName02A=暗影突袭 Shadow Strike
+tagClass04SkillName02A=暗影打 Shadow Strike
 tagClass04SkillDescription02A=幻术与精神扭曲的巧妙结合使你几近消失并像梦魇中的幽灵一样显身在你的目标上方。^o需要一把近战武器。
-tagClass04SkillName02B=尼达拉的正义裁决 Nidalla's Justifiable Ends
-tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的毒师，尼达拉主张结果证明一切。这项在传统暗影突袭上的毒性扭曲，会确保任何在初始攻击下还存活着的敌人的悲惨结局。
-tagClass04SkillName02C=暗夜降临 Nightfall
+tagClass04SkillName02B=正义裁决 Nidalla's Justifiable Ends
+tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的用毒大师，尼达拉主张结果证明一切。在传统暗影打的基础之上辅以毒药，会确保任何在初始攻击下还存活着的敌人的悲惨结局。
+tagClass04SkillName02C=暗夜临 Nightfall
 tagClass04SkillDescription02C=当你现身并与主要目标交战时，一片黑暗将如黑暗寒冷的夜晚般降临于周围的敌人，冻结他们的血液并将无法控制的疲倦侵入他们的思想。
 
-tagClass04SkillName03A=刀锋刺盾 Blade Barrier
+tagClass04SkillName03A=刀锋阵 Blade Barrier
 tagClass04SkillDescription03A=对于一个夜刃大师来说，传言贝尔戈蒂安对他的魔力缺乏有效的控制；不过他拥有不懈的意念来召唤大量的刀刃来组成一面环绕他的坚盾，给他在敌人面前片刻的喘息。^o技能作用期间你将不能移动。
 
-tagClass04SkillName04A=钢铁之环 Ring of Steel
-tagClass04SkillDescription04A=眨眼间，上百把幻影刀锋以致人死地的速度环绕着你，消灭邻近的敌人。
-tagClass04SkillName04B=屠戮之环 Circle of Slaughter
-tagClass04SkillDescription04B=锋利的幻影刀锋深深地切割圆环范围内的敌人，使他们流出大量的鲜血。
-tagClass04SkillName04C=寒霜之环 Ring of Frost
-tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量，增强冰冷伤害并冰冻敌人，不过需要以穿刺伤害为代价。
+tagClass04SkillName04A=金铁环 Ring of Steel
+tagClass04SkillDescription04A=眨眼间，上百把幻影刀以致人死地的速度环绕着你，消灭邻近的敌人。
+tagClass04SkillName04B=屠戮环 Circle of Slaughter
+tagClass04SkillDescription04B=锋利的幻影刀深深地切割圆环范围内的敌人，使他们流出大量的鲜血。
+tagClass04SkillName04C=寒霜环 Ring of Frost
+tagClass04SkillDescription04C=强力的气动技巧使金铁环从附近的空气中获取能量，增强冰冷伤害并冰冻敌人，不过需要以牺牲穿刺伤害为代价。
 
 tagClass04SkillName05A=双刃 Dual Blades
 tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃,和那些使钢铁中产生元素之寒的艺术。^o这是一项双持技能。同时开启双持近战武器的能力。
-tagClass04SkillName05B=贝尔戈蒂安的切割 Belgothian's Shears
+tagClass04SkillName05B=切割 Belgothian's Shears
 tagClass04SkillDescription05B=健壮的贝尔戈蒂安是轻盈的夜刃大师中的异数，不过他在原始的力量上超越了他们。借助于他的力量的如剪刀般直接致命的攻击，贝尔戈蒂安经常一击终结敌人。^o这是一项近战双持技能，通过默认武器攻击触发。
-tagClass04SkillName05C=阿玛拉斯塔的瞬影 Amarasta's Quick Cut
+tagClass04SkillName05C=瞬影切 Amarasta's Quick Cut
 tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀刃据说像一条空气中的鞭子，只留下一条快的肉眼难以捕捉的光。这项技艺的大师能够在普通攻击的时间内打击三次。^o这是一项近战双持技能，通过默认武器攻击触发。
-tagClass04SkillName05D=死亡旋风 Whirling Death
+tagClass04SkillName05D=回旋斩 Whirling Death
 tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺，敌人即便存活也会像遭受千刀万剐一般血流不止。^o这是一项近战双持技能，通过默认武器攻击触发。
-tagClass04SkillName05E=尼达拉的隐手 Nidalla's Hidden Hand
+tagClass04SkillName05E=隐手 Nidalla's Hidden Hand
 tagClass04SkillDescription05E=有争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合，这近乎残忍般的强大技巧使得她战胜了众多敌手。^o这项技能将改变贝尔戈蒂安的切割，阿玛拉斯塔的瞬影和死亡旋风。
 tagClass04SkillName05F=处决 Execution
 tagClass04SkillDescription05F=伺机发动出无情的一击，以迅速解决敌人。遭此一击侥幸存活者，也不会再苟延残喘太久。^o这是一项近战双持技能，通过默认武器攻击触发。
 
 tagClass04SkillName06A=气爆 Pneumatic Burst
 tagClass04SkillDescription06A=夜刃的一种绝密武艺，从周围吸取精华和“元气”以到达短时间速度与力量的爆发。由此产生的新陈代谢加速也会少量治疗夜刃的身体。^o需要一把近战武器。
-tagClass04SkillName06B=暗影之舞 Shadow Dance
+tagClass04SkillName06B=暗影舞 Shadow Dance
 tagClass04SkillDescription06B=针对战斗中冥想的习练将使你能够在酣战之中保持心中的清明，看破敌人来袭的路线巧妙地躲避敌人的攻击。
 tagClass04SkillName06C=元素觉醒 Elemental Awakening
 tagClass04SkillDescription06C=夜刃宗师们能够从空气中甚至与敌人短兵相接中汲取能量，然后施放冰冷的攻击。
-tagClass04SkillName06D=贝尔戈蒂安的呼吸 Breath of Belgothian
+tagClass04SkillName06D=集气诀 Breath of Belgothian
 tagClass04SkillDescription06D=以夜刃的标准来说过于肌肉发达和速度迟缓的贝尔戈蒂安，他的成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力。 ^o这是一项近战双持技能。同时开启双持近战武器的能力。
 
 tagClass04SkillName07A=暗影面纱 Veil of Shadow
 tagClass04SkillDescription07A=一片心灵面纱密布于附近敌人的脑中，减缓他们的移动并削弱他们的战斗力发挥。 ^o此技能需开启以保持生效。
-tagClass04SkillName07B=夜之寒气 Night's Chill
+tagClass04SkillName07B=暗夜寒 Night's Chill
 tagClass04SkillDescription07B=使暗影面纱影响到的敌人感到黑夜般的深寒降临于身，降低他们的生命并削弱防御。
 
 tagClass04SkillName08A=刀灵 Blade Spirit
@@ -435,7 +435,7 @@ tagClass04SkillDescription10A=召唤一群幻影刀刃包围你的敌人，撕�
 tagClass04SkillName10B=阿玛拉斯塔的双刃 Amarasta's Double Edge
 tagClass04SkillDescription10B=一项精通技艺，让刀阵能将你的敌人的武器背叛他们，使他们遭受自己的战争工具所造成的进一步的痛苦。
 
-tagClass04SkillName13A=幻影护甲 Phantasmal Armor
+tagClass04SkillName13A=幻影甲 Phantasmal Armor
 tagClass04SkillDescription13A=在你的周围的超自然屏障，由思想和精神的集中力量所形成。这层屏障抵御物理伤害并将魔法攻击的能量转移为自身能量。
 tagClass04SkillName13B=解剖 Anatomy of Murder
 tagClass04SkillDescription13B=这是受到一流刺客极度赞赏的知识；对解剖的广泛研究使你熟悉刀剑所过之处所有的人体易受创与致命部位。
@@ -457,9 +457,9 @@ tagClass04SkillName13D=无情终章 Merciless Repertoire
 tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂会是一种终极武器。
 
 tagClass04SkillName14A=致命策略 Lethal Gambit
-tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器或双手远程武器。 When used with a melee weapon, will strike additional nearby targets.
+tagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺。如果使用得当，致命策略会造成毁灭性的伤害。风险在于有时它会变成软弱无力的一击。^o需要一把近战武器或远程双手武器。 When used with a melee weapon, will strike additional nearby targets.
 tagClass04SkillName14B=阿玛拉斯塔的爆裂之刃 Amarasta's Blade Burst
-tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀锋，用来伤害到所有邻近的敌人。
+tagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量会致人死命的幻影刀，用来伤害到所有邻近的敌人。
 
 tagClass04SkillName15A=剔骨 Eviscerate
 tagClass04SkillDescription15A=迅猛的切割使受害者长时间地出血，同时削弱他们的移动力和攻击速度。^o需要一把剑或斧。

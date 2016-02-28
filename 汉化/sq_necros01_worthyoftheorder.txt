@@ -1,11 +1,14 @@
-Order of Death's Vigil
-Worthy of the Order
-收集Remains
-Master Varuuk of the Order of Death's Vigil has instructed you in your first task as an initiate. One of the groups most prominent members, Master Malkadarr, was recently slain by the Cult out in the 血森林. Malkadarr's duties are not yet concluded. You are to search the cult's camps in the 血森林 and retrieve the fallen necromancer's remains. Bring them back to Master Varuuk at 悲伤城堡.
+死亡守夜人教团
+教团的卓越人物
+收集遗骸
+教团的主教 瓦瑞克授予你一项任务。马卡达尔，教团的最卓越人物之一，最近在血森林内被杀了。马卡达尔的职责还未结束。你要在血森林内的邪教徒营地中找到他的遗骸。将遗骸带给悲伤城堡的主教 瓦瑞克。
 
 
-Gather Malkadarr's Remains
-Bring the Remains to Master Varuuk at 悲伤城堡
+收集马卡达尔的遗骸
+带上遗骸去见主教 瓦瑞克，他在悲伤城堡
+
+
+
 
 
 

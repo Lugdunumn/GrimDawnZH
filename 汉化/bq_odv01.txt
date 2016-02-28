@@ -1,13 +1,17 @@
 赏金任务
-赏金：虚灵先锋
+赏金: 虚灵先锋
 赏金
-The Aetherials have an uncanny ability to manipulate the dead that is worthy of investigation, but first we must contend with their creations.{^n}{^n}奇形先锋, once living trolls, are being created somewhere out near the Gruesome Harvest. They are resilient and incredibly strong. We cannot allow the Aetherials to maintain such a resource.{^n}{^n}Eliminate 奇形先锋 and cripple the Aetherial forces.{^n}{^n}Your efforts will be rewarded with iron bits.
+虚灵有不可思议的能力来操纵死者，值得调查，但首先我们必须面对他们的作品。{^n}{^n}畸形先锋，活着的时候是巨魔，在阴森谷仓附近被创造出来了。他们强壮的难以置信。我们不能允许虚灵持有这样的资源。{^n}{^n}消灭畸形先锋来削弱虚灵的力量。{^n}{^n}你的付出会得到铁币做为奖赏。
 
-杀了奇形先锋
+杀死畸形先锋
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

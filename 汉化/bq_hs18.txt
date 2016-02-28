@@ -1,14 +1,16 @@
 赏金任务
-赏金：虫群领袖
+赏金: 虫群首领
 赏金
-The Dermapteran Grand Viziers are their queen's most loyal protectors. They will protect the hive with their lives, if needed.{^n}{^n}Let us stir the hive a bit, shall we? Destroying the queen's guardians will surely throw the hive into turmoil.{^n}{^n}To sweeten the deal, we've set aside some iron bits.
+革翅目虫首领是虫后最忠诚的守护者。只要他们没死就会保护虫巢的安全，如果必须的话。{^n}{^n}让我们给虫巢捣下乱如何？消灭虫后的守护者将会给虫巢造成混乱。{^n}{^n}完成这项任务，我们会给你一些铁币。
 
-杀了虫群领袖 洛扎克
-杀了虫群领袖 伊尼克希尔
+杀死虫群首领 洛扎克
+杀死虫群首领 伊尼克希尔
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

@@ -1,15 +1,19 @@
 赏金任务
-赏金：剧毒之舌
+赏金: 依格尼亚
 赏金
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+死亡守夜人教团是一个狡猾的组织主张控制死者，但是就算如此他们也要屈服于最终的命运。{^n}{^n}我们在哈伦堡附近发现一个教团高层。她的名字是依格尼亚。圣父已经宣布了她的死亡。{^n}{^n}任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 
 
 
-杀了剧毒之舌依格尼亚
+杀死依格尼亚
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

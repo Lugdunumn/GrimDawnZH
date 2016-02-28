@@ -1,10 +1,12 @@
 赏金任务
-赏金：废料
+赏金: 废料
 赏金
-Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require 废料 and we need it immediately. A share of our scavenged materials to anyone that gathers some.
+霍姆斯特德正遭受持续的攻击。如果状况延续下去，城墙就必须得到维修，但我们的供给有些不足了。{^n}{^n}我们急需废料这种资源。任何收集到废料的人都会获得材料奖励。
 
 收集废料
-Deliver the 废料 to the Homestead Bounty Table
+将废料交至霍姆斯特德赏金桌
+
+
 
 
 

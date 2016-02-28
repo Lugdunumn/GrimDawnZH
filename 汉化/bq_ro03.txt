@@ -1,13 +1,17 @@
 赏金任务
-赏金：亡魂
+赏金: 骷髅亡魂
 赏金
-Arkovian Revenants were once knights of the priesthood, relentless defenders of Arkovian faith and their gods. They now roam the ruins as embodiments of the elements themselves.{^n}{^n}Their once noble cause has been twisted as they endlessly protect temples that have not existed for centuries. It is time for these loyal knights to be put to their final rest.{^n}{^n}We have set aside some iron bits as a reward to anyone brave enough to enter the ruins and perform this task.
+安克维亚的亡魂曾经是神职的骑士，是安克维亚和他们的神的无情捍卫者。他们现在自身成为了元素之力的化身游荡在废墟附近。{^n}{^n}他们曾经崇高的事业被扭曲，因为他们无休止地保护那些消失了几个世纪的寺庙。现在是时候让这些忠诚的骑士最后安息了。{^n}{^n}我们已经预留了一些铁币作为奖励给任何人勇敢地进入遗址并执行此任务。
 
 杀死骷髅亡魂
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
+
+
 
 
 

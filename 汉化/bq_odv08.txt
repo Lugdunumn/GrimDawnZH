@@ -1,15 +1,19 @@
 赏金任务
-赏金：持火者
+赏金: 奥尔伽
 赏金
-The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, 持火者奥尔加, has been spotted at 哈伦堡. Make an example of her.{^n}{^n}Our material stores are at the disposal of the champion that ends her life.
+凯蒙神选战士是盲目且愚蠢的人，但即使是蠢货，有了锋利的刀剑和火焰的武装，仍然会变得极具危险性。{^n}{^n}他们的杰出者之一，奥尔伽，我们发现她在哈伦堡，给她一个教训吧。
 
 
 
-杀了持火者 奥尔加
+杀死奥尔伽
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

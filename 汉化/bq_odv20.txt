@@ -1,10 +1,11 @@
 赏金任务
-赏金：毁灭
+赏金: 毁灭
 赏金
-Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But power also lies in ruin and destruction. The Order wishes to harness this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Do this for the Order, and you shall be rewarded with the vial of the 冥神之血, to use as you see fit in your rituals.
+黑暗的时代临近了。世界已经变成了废墟并将由我们来修复。{^n}{^n}但是力量往往存在于破坏与毁灭之中。教团希望利用这个力量。{^n}{^n}问一下铁匠知道什么古老的方法。让他们为我们制造一个毁灭遗物。{^n}{^n}为了教团做这些，你就会得到冥神之血作为回报，拿去做研究还是销毁都将随你所愿。
 
-锻造一个毁灭遗物
-把遗物送到死亡守夜人教团的赏金桌
+制作一个毁灭遗物
+将毁灭交到死亡守夜人教团赏金桌
+
 
 
 

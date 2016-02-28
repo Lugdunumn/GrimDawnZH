@@ -1,13 +1,17 @@
 赏金任务
-赏金：拉格·纳达
+赏金: 拉格'纳达
 赏金
-In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as 巨胃拉格·纳达.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter 灰烬废土 through a rift in 血森林 and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+在预言中，圣父凯蒙见证了我们的世界在冥神和它的使徒们践踏下毁灭。带领着先锋们的是名为拉格'纳达, 巨胃的吞噬者。{^n}{^n}这个预言绝不能成为现实。那个吞噬者必须被消灭。从血森林里的裂隙进入灰烬废墟并处决那个恶魔。{^n}{^n}圣父凯蒙会给予他忠诚的仆人一些铁币。
 
-杀死拉格·纳达
+杀死拉格'纳达
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

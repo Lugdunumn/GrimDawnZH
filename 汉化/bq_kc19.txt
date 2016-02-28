@@ -1,15 +1,19 @@
 赏金任务
-赏金：鲜血私语者卢蒂雅
+赏金: 卢蒂雅
 赏金
-The region is overrun with chthonic spawn, thanks largely to the efforts of traitors such as 鲜血私语者卢蒂雅.{^n}{^n}Ludia has been performing vile blood rituals in 黑谷, sacrificing her fellow men to the Void. She must be killed.{^n}{^n}Anyone willing to take on this heathen will be justly rewarded with iron bits.
+拜卢蒂雅这个叛徒所赐，黑谷被大量的冥灵所蹂躏。{^n}{^n}卢蒂雅已经在黑谷施展了卑鄙的血魔法，将部下献祭进入虚空。她必须死。{^n}{^n}任何愿意消灭这个异教徒的人将会得到物资作为公正的奖赏。
 
 
 
-杀了鲜血私语者卢蒂雅
+杀死卢蒂雅
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

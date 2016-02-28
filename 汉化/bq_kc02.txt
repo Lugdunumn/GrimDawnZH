@@ -1,13 +1,17 @@
 赏金任务
-赏金：冥灵饱食者
+赏金: 冥灵饱食者
 赏金
-Chthonian Gorgers have been seen rampaging through the 血森林, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Travel with Kymon's blessing, brave Chosen.
+冥灵饱食者被发现在血森林中发狂，不断吞噬无论死活的东西，然后吐出血肉模糊的恐怖残骸。{^n}{^n}他们如此的令人深恶痛绝所以必须被消灭。圣父凯蒙会乐意看到的。{^n}{^n}协助此事的人会得到铁币作为回报。愿凯蒙的祝福与你同在，英勇的神选战士。
 
 杀死冥灵饱食者
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

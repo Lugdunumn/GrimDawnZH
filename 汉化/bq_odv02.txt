@@ -1,13 +1,17 @@
 赏金任务
-赏金：主宰者
+赏金: 主宰者
 赏金
-主宰虚灵者 are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
+虚灵主宰者是行尸走肉的控制者，诡异的与我们拥有类似的能力。{^n}{^n}我们必须阻止我们的敌人获得更多的生力军。每消灭一个主宰就意味着更少的不死生物。{^n}{^n}我们将会用法术来辅助你。对于你的努力我们将会回报以铁币。
 
-杀了主宰虚灵者
+杀死虚灵主宰者(腐坏田地)
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

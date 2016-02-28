@@ -1,27 +1,27 @@
 流浪者赏金任务
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你成功地归来，完成了一项赏金任务。
-回报任务。
+你成功归来，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
 你已经在执行一项流浪者的赏金任务了。
 离开赏金桌。
-The nomadic Rovers are seeking assistance.{^n}{^n}You have proven your loyalty and are entrusted with their most critical affairs.
-看一眼赏金任务。
-你已经完成了本次游戏中流浪者所有的任务。
+流浪者们正在寻求帮助。{^n}{^n}你已经证明了你的忠诚，并且被他们委托以重要的任务。
+查看当前未接的赏金任务。
+你已经查看或完成了此次流浪者给你布置的所有赏金任务。
 离开赏金桌。
-看一眼赏金任务。
+查看当前未接的赏金任务。
 
 
 
@@ -43,108 +43,108 @@ The nomadic Rovers are seeking assistance.{^n}{^n}You have proven your loyalty a
 
 
 离开赏金桌。
-The vile undead roaming the Arkovian ruins are a danger to all that travel the lone road.{^n}{^n}Skeletal Knights, the undying guardians of a fallen empire, continue to perform their loyal duties far beyond death. That includes violently attacking anyone that comes near the ruins. These attacks must end.{^n}{^n}We have set aside iron bits for anyone willing to deal with this threat.
+这些游荡在安克维亚废墟的邪恶的亡灵生物对于路过的人来说是十分危险的。{^n}{^n}骷髅骑士，乃是陨落帝国的不死守卫，继续执行着他们那超越死亡的忠诚使命。这使命包括了猛烈攻击任何靠近废墟的人。必须阻止这种行为。{^n}{^n}我们愿意拿出一部分铁币给任何愿意处理这个威胁的人。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The harpies are a cruel punishment upon the legacy of a long-dead people. Their Oracles have somehow learned to channel sky magic.{^n}{^n}For now, this is limited to storm clouds and gusts of wind but, if their studies are allowed to continue, we dread to think of what they could do next.{^n}{^n}Anyone that slays Harpy Oracles will be rewarded with a pouch of iron bits.
+鹰身女妖是很久以前遗留下来的深受残酷惩罚的人所变的生物。它们的神使通过某种方法学会了使用天空的魔力。{^n}{^n}现在这种能力仅限于雷云与暴风，但是如果放任它们继续研究，我们不敢想象它们的能力会成长到什么地步。{^n}{^n}任何杀死鹰身女妖·厄运神使将会得到一袋铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Arkovian Revenants were once knights of the priesthood, relentless defenders of Arkovian faith and their gods. They now roam the ruins as embodiments of the elements themselves.{^n}{^n}Their once noble cause has been twisted as they endlessly protect temples that have not existed for centuries. It is time for these loyal knights to be put to their final rest.{^n}{^n}We have set aside some iron bits as a reward to anyone brave enough to enter the ruins and perform this task.
+安克维亚的亡魂曾经是神职者们的骑士，是安克维亚和他们的神的冷酷护卫。他们现在自身成为了元素之力的化身游荡在废墟附近。{^n}{^n}他们曾经的崇高功绩已经扭曲成为永久保卫早已不存在的神庙了。是时候让这些衷心的骑士结束其最后的任务了。{^n}{^n}我们为进入废墟执行这项任务的人提供了铁币奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Rover texts speak of a temple dedicated to the Arkovian god, Ishtak, hidden away within a flooded cavern system out in the Foggy Bank.{^n}{^n}If the Arkovian curse had taken them too, then the souls trapped within could one day escape out into the surrounding region.{^n}{^n}We will gladly reward anyone willing to investigate the ruins with some of their scavenged materials.
+流浪者的文献记载了一个献给安克维亚神明——伊什塔克的庙宇，藏在迷雾河畔边上的浸没通道内。{^n}{^n}如果安克维亚的诅咒也发生在他们身上，那么他们的被囚禁的灵魂总有一天会逃脱到周围的区域里。{^n}{^n}我们会很高兴奖赏那些愿意调查那个废墟的人一些它们剩下的物资。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-In 安克维亚山麓, there is a cavern known as the Spined Cove. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
+在安克维亚山麓里有个叫脊状峡谷的山洞。那里有一个叫男爵瓦德里斯的古安克维亚灵魂主宰着其它灵魂，那些被他所召集的灵魂。{^n}{^n}现在灵魂们留在那个洞穴里，但是亡灵是不可预测的。这个亡灵领主必须在他开始考虑离开他的地下王国前被驱逐。{^n}{^n}我们很高兴与敢于前往脊状山谷的人分享他们留下的物资。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam 古安克维亚地下城, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
+安克维亚社会的领导人曾是个独裁者，在国王罗文退位之后。甚至在死后他们也要求他们的不死仆从保持忠诚。{^n}{^n}三个这样的灵魂正游荡在古安克维亚地下城中，他们对活物的憎恨刺激着亡灵进入狂怒。为了所有的旅行者着想，独裁者必须被消灭。{^n}{^n}为此我们准备了一大笔铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
+克隆利的团伙对整个四山区域都是一个严重的威胁，但我们不能仅仅杀死他们。{^n}{^n}如果他们的武器制造厂被破坏，那我们会有更大的机会战胜他们。{^n}{^n}任何破坏他们熔炉的人将会收到一些物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
+在安克维亚地下城的深处，那里盘踞着一个名叫基利安的黑暗存在。古安克维亚开始因为诅咒变得疯狂起来，他的灵魂破碎且损坏。{^n}{^n}现在基利安开始聚集其他受难的灵魂，创造出一个亡灵军团一旦出来就会横扫整个大陆。他必须在这件事发生前被消灭。流浪者们知道在基利安的地盘消灭他的风险，我们愿意补偿任何敢于进入地下城并完成任务的人一大笔铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Wasps provide the Rovers with valuable Royal Jelly but, when found in great numbers, they can pose a serious threat.{^n}{^n}The poison carried by the Venomwing Stingers is so potent, not even Rover medicine can treat it. Victims must withstand hours of agonizing pain. Many do not even last that long.{^n}{^n}The Venomwing Stinger population must be brought down immediately. A pouch of iron bits to anyone that carries out the task.
+蜂群为流浪者提供了非常值钱的蜂王浆，但是当我们发现他们巨大的数量时，它们就成为了严重的威胁。{^n}{^n}毒翼刺蜂带有剧毒，甚至流浪者们无法治疗。受害者必须承受数小时之久的剧烈疼痛。{^n}{^n}毒翼刺蜂的数量必须立刻被削减。任何完成任务的人将会得到一袋铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-We have always believed there to be three Oligarchs from the ancient Arkovia, but recent sightings in the Undercity have proven our texts wrong. 奥里根·达尔 appears to be a fourth Oligarch that has recently been reunited with the rest of the Arkovian leaders.{^n}{^n}Three Oligarchs is threat enough, we cannot allow a fourth to roam freely. She must be banished back to whatever hell she crawled from.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
+我们之前总是相信古安克维亚只有三位独裁者，但最近在地下城内的发现证明文献是错误的。奥里根·达尔似乎是第四位独裁者，她最近被剩余的安克维亚人首领召集在了一起。{^n}{^n}三位独裁者已经够多了，我们不能再让第四个自由游荡。她必须被驱逐回她该去的地方。{^n}{^n}我们为完成任务的勇士准备了一些材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies over the Broken Hills. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
+一个名为雷克希纳的邪恶鹰身女妖被发现于破碎丘陵的天空。数位流浪者们已经在触碰到它的羽毛后生病了。{^n}{^n}雷克希纳看上去像是携带了某种对鹰身女妖免疫的疾病，但是对人类具有极高的至死率。它必须被消灭。{^n}{^n}我们将会给予完成任务的人物资作为奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Deep within 苦痛阶梯, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was 莫塔里斯, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from 苦痛阶梯, 莫塔里斯 would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed. We have set aside some of their scavenged materials as reward for this task.
+在苦痛阶梯——安克维亚的折磨牢狱里盘踞着一些残忍的亡灵生物，他们的最高领导者是阿卡莫斯。但是阿卡莫斯有许多手下去执行他的指令。{^n}{^n}他们中有一位叫莫塔里斯，如同屠夫一样的人在阶梯的可怕工作中感到愉悦。当他从苦痛阶梯中出来后，他会将他对死亡的渴望撒在盘踞在这个区域中的无辜人民。他必须被消灭。我们会给完成这个任务的人一些物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
+毒翼蜂群巢被触动时会变得十分危险，但是女王蜂产出珍贵的蜂王浆，我们常用来制作我们的治疗药膏。{^n}{^n}我们的补给在减少但是和克隆利帮的战斗却使伤亡增加。获得蜂王浆乃是十分重要之事。{^n}{^n}我们会十分乐意给予交给我们蜂王浆的人铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-One of our scouts has been poisoned by one of Cronley's men while out on patrol. It appears to be a deadly concoction that causes necrosis and paralysis of the flesh.{^n}{^n}Eva believes she may have a cure, but she will require an Ancient Heart to craft the tonic. She will gladly offer up a 冥神之血 for trade.
+我们的侦查兵之一在外出巡逻时被克隆利帮的人下了毒。那是一种导致肌肉麻痹然后坏死的至死毒药。{^n}{^n}伊娃认为她们可能可以调配出解药，但是她需要一个远古心脏去制作。她乐意用冥神之血去交换。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Rover way requires us that we abandon worldly desires and abstain from violence. We have now broken that oath in order to defend ourselves from Cronley's men.{^n}{^n}So that not all of our ways are lost, we seek to craft an old relic known as Equilibrium, so that we can restore some balance to our lives.{^n}{^n}We will gladly exchange some of our rare scavenged materials in exchange for this valuable object.
+流浪者的道需要我们放弃世俗利益和暴力。我们为了抵御克隆利帮的攻击已经打破了我们誓言。{^n}{^n}所幸不是所有的道都被打破，我们急需制作一个名为平衡的遗物，借此我们可以恢复我们生活的平衡。{^n}{^n}我们很乐意用物资与你交换这个珍贵的东西。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Skeletal golems are an abomination, a joining of tortured souls no longer stable enough to exist as individuals. This joining also makes them incredibly powerful and unstable.{^n}{^n}Should one ever escape from the ruins below Arkovia, it would wreck havoc across the land. We would rather this never be allowed to happen.{^n}{^n}Anyone that eliminates these tortured beings will be justly rewarded with some of our scavenged materials.
+骸骨巨兽是一个令人憎恶的怪物，一个由不能再单独存在的备受折磨的灵魂们所组成的集合体。{^n}{^n}任何一个逃出安克维亚地下的骸骨巨兽都会对大陆造成破坏。我们不愿这种事情发生哪怕一次。{^n}{^n}任何消灭这种受尽折磨之威胁的人都会得到物资作为回报。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Arkovian Grand Priest, Zarthuzellan, came up often in the Rover text as a charismatic and manipulative spiritual leader of Arkovia.{^n}{^n}His tortured soul now roams within 苦痛阶梯, forever bound to the land he helped condemn to damnation. But even in death, he gathers followers at his cursed altar.{^n}{^n}This twisted practice must be stopped. We have set aside iron bits for anyone brave enough to enter 苦痛阶梯.
+安克维亚大祭司扎尔泽兰，经常以一个神赐能力和操控精神的安克维亚首领出现在流浪者的文献中。{^n}{^n}他那受到折磨的灵魂正留在苦痛阶梯中，永久的禁锢在他所诅咒的土地上。但就在死后他也招集一批追随者在他的诅咒祭坛周围。{^n}{^n}这个扭曲的祭祀必须被制止。我们准备了一些铁币作为敢于进入苦痛阶梯并完成任务的人的奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-走私者的通道 was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If 走私者的通道 is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
+走私者通道曾经是我们向北走时普遍使用的道路。哪里现在则充满了雾裔巨魔，但是真正的危险是一个名为沃德拉克的超大号野兽被他们关在洞里。{^n}{^n}就算是以巨魔的标准来说沃德拉克也是一个庞然大物，而且他还守在洞口。如果要让走私者通道保持安全，沃德拉克就必须死。{^n}{^n}我们很乐意分享些物资让这件事成功。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-A skeletal monstrosity known as 格鲁姆 has been spotted out at the Crumbling Watch in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
+一个名为格鲁姆的骷髅怪物被发现于安克维亚山麓的瞭望塔遗迹中。这是个善于恐怖破坏的恶毒怪物。{^n}{^n}如果这个怪物自由活动于那里道路就不会安全。流浪者要求它死。{^n}{^n}任何完成这个任务的人将会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Venomwing hives are each under the control of a queen. These queens once produced ample quantities of Royal Jelly, but they are well past their prime.{^n}{^n}If the supply of Royal Jelly is to continue, then the queens must be slain so that new younger queens will rise to take their place.{^n}{^n}We have set aside iron bits for anyone willing to see this through.
+毒翼巢都是在女王蜂的控制之下。这些女王蜂制作了充足的蜂王浆，但它们都是曾经的管理者。{^n}{^n}如果蜂王浆的补给不能中断，那么女王蜂就必须被杀死这样新的女王蜂就能接替它的位置。{^n}{^n}我们准备了些铁币给任何完成任务的人。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The nomadic Rovers are seeking assistance.{^n}{^n}You have proven your loyalty and are entrusted with their most critical affairs.
+流浪者们正在寻求帮助。{^n}{^n}你已经证明了你的忠诚，并且被他们委托以重要的任务。
 
 离开赏金桌。
-The Rovers do not yet trust you with their internal affairs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+流浪者们还不信任你们能完成他们的重要任务。{^n}{^n}需要声望达到尊重来领取赏金任务。
 离开赏金桌。

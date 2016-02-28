@@ -1,10 +1,12 @@
 赏金任务
-赏金：屠杀
+赏金: 狂暴
 赏金
-To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+为了让我的研究更进一步，我需要一个来自远古的遗物：狂暴，它可以使持有者无法控制自己的愤怒，横冲直撞。可惜，关于它的知识早已失传了。{^n}{^n}你需要自己找到制作的配方，并将他交给可靠的铁匠。{^n}{^n}等铁匠制作出遗物之后，再带给我。它的特性会保护我的实验不受外界污染。{^n}{^n}事成之后，我会给你一些我的值钱货作为回报。
 
-锻造一个屠杀遗物
-Deliver Rampage to the Outcast
+制作一个狂暴遗物
+将狂暴交到放逐者赏金桌
+
+
 
 
 

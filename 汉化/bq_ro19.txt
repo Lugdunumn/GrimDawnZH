@@ -1,15 +1,20 @@
 赏金任务
-赏金：格鲁姆
+赏金: 格鲁姆
 赏金
-A skeletal monstrosity known as 格鲁姆 has been spotted out at 瞭望塔遗迹 in 安克维亚山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
+一个名为格鲁姆的骷髅怪物被发现于安克维亚山麓的瞭望塔遗迹中。这是个善于恐怖破坏的恶毒怪物。{^n}{^n}如果这个怪物自由活动于那里道路就不会安全。流浪者要求它死。{^n}{^n}任何完成这个任务的人将会得到物资作为奖赏。
 
 
 
-杀了格鲁姆
+杀死格鲁姆
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
+
+
+
 
 
 

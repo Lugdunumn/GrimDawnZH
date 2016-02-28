@@ -1,13 +1,17 @@
 赏金任务
-赏金：Harbinger of Chaos
+赏金: 混乱的先兆
 赏金
-The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near 古代墓地, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
+混沌预言者沙'祖尔在这，在凯恩世界。我能感受到他被玷污的灵魂。混沌堡垒，在墓地附近巨大的裂隙之门打开了，那里是他的领域。{^n}{^n}如果我认为你无能为力，现在是不会这样要求你的，但是我必须强调前方考验的严峻。预言者的存在对我们所有人来说都是个威胁。消灭他拯救凯恩世界，或者失去一切。{^n}{^n}进入混乱堡垒并且结束他的残暴专制。在战斗中活下来，之后我会给你一些我最珍爱的收藏。{^n}{^n}这项任务需要一把骸骨钥匙。
 
-杀了Shar'Zul
+杀死沙'祖尔
 
-回报任务
-You have completed the task for the Outcast and should return to the Bounty Table for your reward.
-Return to the Outcast's Bounty Table
+完成任务
+您已经完成了任务，应该返回赏金桌领取报酬。
+返回放逐者赏金桌
+
+
+
+
 
 
 

@@ -1,15 +1,17 @@
 赏金任务
-赏金：吸髓者
+赏金: 吸髓者
 赏金
-Terror tales have been told of trolls breaking into homes in the night and stealing young virgins, but no tales were as horrid as that of 吸髓者 鲍格罗斯.{^n}{^n}鲍格罗斯 would not bother with just virgins, he would leave entire households in shambles, the inhabitants slain and their bones ripped from their bodies.{^n}{^n}There have been recent sightings of 鲍格罗斯 near 走私者的通道, likely his hideout. Put that monster down and we will see that you are rewarded with some of our scavenged supplies.
+恐怖故事里说巨魔会在深夜闯入你的家中夺走你处子之身，但是不会有故事比吸髓者鲍格罗斯的更可怕。{^n}{^n}鲍格罗斯才不会在意这些，他会把整个房子变成屠宰场，杀光里面的居民并且将所有的骨头从身体里剔出来。{^n}{^n}最近有消息称目击到鲍格罗斯出现在走私者通道附近，像是他的藏身处。消灭那个怪物，你就会得到我们所搜寻到的补给。
 
 
 
-杀了鲍格罗斯
+杀死鲍格罗斯
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

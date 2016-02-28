@@ -1,35 +1,35 @@
 黑色军团赏金任务
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你成功地归来，完成了一项赏金任务。
-回报任务。
+你成功归来，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
 你已经在执行一项黑色军团的赏金任务了。
 离开赏金桌。
-黑色军团一直在寻找有本事的男人或者女人来帮助他们执行困难的任务。
-看一眼赏金任务。
-你已经完成了本次游戏中黑色军团交给你所有的赏金任务。
+黑色军团一直在寻找有本事的男人或者女人来帮助他们执行困难的任务。{^n}{^n}根据你的名望，一些最危险的任务现在可以交给你来完成了。
+查看当前未接的赏金任务。
+你已经查看或完成了此次黑色军团给你布置的所有赏金任务。
 离开赏金桌。
-看一眼赏金任务。
+查看当前未接的赏金任务。
 
 
 
@@ -56,133 +56,133 @@
 
 
 离开赏金桌。
-The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}任何协助都会以铁币作为奖赏。
+军团请求你解决畸形巨魔的威胁。{^n}{^n}为了在这个地区取得胜利，除掉畸形指挥官是势在必行的。{^n}{^n}任何的协助都将回报以铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the 血森林. They are to be considered primary targets by all Legion agents.{^n}{^n}任何协助都会以铁币作为奖赏。
+军团请求援助以对抗阴险的冥神教。{^n}{^n}血誓末日预言者正在血森林跨过我们的防线在肆虐破坏。他们被所有的军团特使都认定为是主要的目标。{^n}{^n}任何的协助都将回报以铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the 血森林, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请求援助以对抗虚空生物。{^n}{^n}有人见到冥灵吞噬者在血森林中横冲直撞，用它们凶猛的钳子将我们的人撕碎。 它们的存在正在动摇军心所以需要被消灭。{^n}{^n}任何的协助都将回报以军团商店的物资。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}任何协助都会以铁币作为奖赏。
+军团请你帮助完成一项猎杀怪物的任务。{^n}{^n}一只被称为血荆棘的荆棘怪物从我们的猎人手中逃走了。它的巢穴被认为藏在幽暗盆地的某处。{^n}{^n}任何的协助都将回报以铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the 腐坏田地 has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}任何协助都会以铁币作为奖赏。
+军团请你帮助解决一个革翅目虫的威胁。{^n}{^n}一只在腐坏田地的虫王巢穴中的虫群首领受到了虚化力量的感染。 如果虚灵利用了这一点的话，它们很快就会有整个巢穴的虫子听命于它们的麾下。这只被感染的虫群首领必须马上被消灭。{^n}{^n}任何给予帮助的人都会得到铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up in 纷争平原, north of Fort Ikon. There, an obsidian monster known as 梦魇 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
+军团请你帮助消灭从虚空中召唤出的生物。{^n}{^n}在圣像堡北面的纷争平原有一道连接虚空的裂隙被打开了。在那里有一只叫做梦魇'加戈斯的黑曜石怪物领导着冥灵要进攻我们的世界。必须要有勇士敢于进入虚空然后消灭它来保护整个人类。{^n}{^n}任何给予帮助的人都会得到一大笔赏金。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}任何协助都会以铁币作为奖赏。
+军团请你帮助完成一项猎杀怪物的任务。{^n}{^n}一只叫做莫伽拉的蝎尾狮女王是个难对付的家伙，经常会猎杀掉想要干掉她的猎人。她的狩猎领地似乎是在锯齿荒地的南部。{^n}{^n}任何给予帮助的人都会得到赏金作为回报。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 饱食之胃 is terrorizing our forces in the 血森林. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你帮助消灭那些阴险的冥神邪教徒。{^n}{^n}一只叫做饱食之胃的冥灵正在威胁着我们在血森林里的部队。这只怪物神出鬼没，而且十分危险。消灭它已经成为了我们的首要目标。{^n}{^n}任何的协助都会得到军团的仓储里的材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脉深渊. Additional reinforcements are requested to taken down the critter.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你帮助完成一项猎杀怪物的任务。{^n}{^n}一只叫做西克里斯的穴居爬行者从军团的猎手手里逃脱了，不过猎手们追踪到它进入了高度危险的山脉深渊中。我们需要额外的人手来除掉这只怪物。{^n}{^n}任何的协助都将获得材料作为奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰烬之爪 has proven surprisingly resistent to flame. It was last spotted in the 幽暗盆地, spreading wildfires wherever it goes.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你帮助完成一项猎杀怪物的任务。{^n}{^n}一只叫做灰烬之爪的荆棘兽对火焰有着极强的抵抗能力。它最后一次出现是在幽暗盆地，所到之处到处燃烧着火焰。{^n}{^n}任何的协助都会得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a 冥灵魔印 will be compensated with iron bits.
+军团请你协助收集敌人的情报。{^n}{^n}冥神的邪教徒们在召唤仪式中使用了奇特的魔印。要想实施反制，我们必须了解这些东西的作用。{^n}{^n}送来一块冥灵魔印将得到铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the 冥神之血. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a 冥神之血 will be compensated with materials from the Legion stores.
+军团请你协助收集敌人的情报。{^n}{^n}冥神的邪教徒对于一种叫做冥神之血的东西十分着迷。军团想要更深入的研究这种液体。{^n}{^n}送来一罐冥神之血将会得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an 虚化碎片 will be compensated with materials from the Legion stores.
+军团请你协助收集敌人的情报。{^n}{^n}虚灵从多种结晶中汲取能量。军团需要这种结晶标本才能想办法实施反制。{^n}{^n}送来一块虚化碎片将会得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest 虚化水晶 and 虚灵方尖碑, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an 虚化集簇 will be compensated with materials from the Legion stores.
+军团请你协助收集敌人的情报。{^n}{^n}最为强大的虚化结晶集簇来自于大型的虚化结晶和虚灵方尖碑，这种结晶似乎蕴含着大量的原始能量。军团希望了解这种结晶的功效。{^n}{^n}送来一块虚化集簇将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a 感染大脑 Matter will be compensated with materials from the Legion stores.
+军团请你协助收集敌人的情报。{^n}{^n}似乎虚灵的占据行为会改变大脑原有的化学结构。军团想要更深入地研究这些改变，这需要一个样本。{^n}{^n}送来一个感染大脑将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}An undead being known as 基尔利安 dwells within 古安克维亚地下城. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}一个叫做基利安的不死生物盘踞在古安克维亚地下城。他聚集死者，制造严重威胁着人类的亡者大军。必须不惜一切代价干掉他。{^n}{^n}任何给予帮助的人都会得到一大笔赏金作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the 腐坏田地. This threat must be exterminated, again.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}哈拉斯，是一只被认为已经被杀死在霍姆斯特德传送门的畸形巨魔。由于无法解释的原因，它复活了，又出现在了腐坏田地。必须再次消灭掉这种威胁我们的生物。{^n}{^n}任何给予帮助的人都将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}派得曼斯蒂亚, a possessed human, has been spotted in 战火平原. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}派得曼斯蒂亚，一个被控制的人类出现在了战火平原。军团不能容忍人类的叛徒。她必须被消灭。{^n}{^n}任何给予帮助的人都将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}尸化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately. Hunt this ghoul down at its lair; the Black Sepulcher crypt.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}尸化者，是一只盘踞在墓地的贪吃的食尸鬼。如果我们要阻止邪教徒的话，必须马上解决掉这只怪物。尸化者的巢穴在黑冢。{^n}{^n}任何帮助军团的人都会得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}卢萨斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from 黑曜石王座, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}卢萨斯'巴洛克是一只强大的冥灵，它会通过它黑曜石做成的身体施放雷电。它曾出现在黑曜石王座，所到之处会产生雷电风暴。必须结束这只混沌生物的生命。{^n}{^n}任何给予帮助的人都将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}The 山脉深渊 offer a wealth of untapped resources, but the Legion engineers are unable to enter while a dangerous cavern crawler known as 伊克里克斯 roams the depths.{{^n}{^n}任何协助都会以大量的铁币作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}山脉深渊中充满了未开发的资源，但是军团的工程师们无法进入那里。因为有一只叫做捕食者·伊克里克斯的危险的穴居爬行者游荡在深渊之中。{^n}{^n}任何的协助都将得到一大笔赏金。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}A massive chthonic rift has opened near 古代墓地 from which pour hundreds of Chthonic spawn. We call it the Bastion of Chaos. Deep within, there dwells a powerful creature known as 拉苟扎克, Harbinger of Blood. If he were slain, we would land a crippling blow to the Chthonians.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
+军团请你协助解决一个高优先级的目标。{^n}{^n}一个巨大的冥灵裂隙出现在了墓地，数以百计的冥灵被召唤了出来。我们把那里叫做混沌堡垒。在要塞深处盘踞着一个叫做拉苟扎'克的强大的生物。如果能杀掉他，将会极大地削弱冥灵的力量。{^n}{^n}军团将会给杀死他的人回报以罕见的材料，作为完成这项几乎不可能的任务的奖赏。{^n}{^n}这项任务需要一把骸骨钥匙。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}To the north of Homestead, in an area we now call 战火平原, the Legion was forced to flee from an Aetherial creation known only as the 烈焰使者. This creature spreads aetherfire wherever it goes, and its next target appears to be Homestead. The danger the Herald poses to this region cannot be understated. It must be eliminated at all costs.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
+军团请你协助解决一个高优先级的目标。{^n}{^n}在霍姆斯特德北方的战火平原，军团在与一只叫做烈焰使者的虚灵生物作战时侥幸逃生。这只生物到处散播着虚化之火，而且它的下一个目标似乎是霍姆斯特德。它对这片区域造成的危害难以估量。必须不惜一切代价解决掉它。{^n}{^n}军团愿意用稀有的材料来奖励完成这个艰巨任务的勇士。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}Far to the south, within the Broken Hills, there is a forgotten ruin known as 苦痛阶梯. It appears to be the epicenter of all undead activity within Arkovia. At the bottom of this accursed place, beyond the Gates of Anguish, there dwells a corruption known as 伊尔戈. If this guardian were somehow destroyed and the tower cleansed, then the Legion could study the ruins and excavate them for artifacts. Such a valuable resource cannot be underestimated.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
+军团请你协助解决一个高优先级的目标。{^n}{^n}在遥远的南方的破碎丘陵，有一处被遗忘的遗迹叫做苦痛阶梯。那里似乎是安克维亚所有不死亡灵的行动中心。在这个被诅咒的地方的底层，苦痛之门的后面，盘踞着一只腐化的叫做艾勒戈尔的怪物。如果那里的守护者被消灭了，然后得以净化的话，军团就可以研究那个废墟然后发掘遗物。那里绝对拥有着不可低估的资源。{^n}{^n}军团愿意用罕见的材料来奖励完成这项不可能完成的任务的勇士。{^n}{^n}这项任务需要一把骸骨钥匙。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at 古代墓地. 血领主 泰隆尼斯 is actively trying to resurrect a demigod known as the Unraveler. We cannot allow this to happen. 血领主 泰隆尼斯 must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}任何协助都会给予材料作为奖赏。
+军团请你协助解决一个高优先级的目标。{^n}{^n}一个邪教徒的领导者终于在墓地现身了。血领主·泰隆尼斯积极地参与着复活一个冥灵半身的行动。我们绝不能让他们得逞。必须不惜一切代价阻止血领主·泰隆尼斯。军团召唤所有的盟友来协助这场行动。{^n}{^n}任何给予帮助的人都将得到材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Black Legion is always looking for capable men and women to assist them on difficult missions.
+黑色军团一直在寻找有能力的男性和女性，以帮助他们完成困难的任务。
 
 离开赏金桌。
-The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
+黑色军团现在不信任你的能力。{^n}{^n}需要声望达到友善才能领取赏金任务。
 离开赏金桌。

@@ -1,10 +1,12 @@
 赏金任务
-赏金：Guile
+赏金: 诡诈
 赏金
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+古人曾经创造出蕴含着不可思议力量的神奇遗物。不幸的是大部分这方面的知识已经遗失。{^n}{^n}我需要一个诡诈遗物以继续我的研究。你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它将在我的实验中充当催化剂。{^n}{^n}为我做这件事，我会给你一些我的宝物。
 
-Craft a Guile Relic
-Deliver Guile to the Outcast
+制作一个诡诈遗物
+将诡诈交到放逐者赏金桌
+
+
 
 
 

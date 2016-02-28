@@ -1,14 +1,18 @@
 赏金任务
-赏金：马卡达
+赏金: 马卡达尔
 赏金
-The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
+死亡守夜人教团以邪恶的法术挤满了执政官巴托雷姆的坟墓，就在圣像堡的边上。他们被一个叫马卡达尔的恶毒之人所带领。{^n}{^n}圣父凯蒙希望那个地方得到净化，就从他们的领导开始。{^n}{^n}在你成功之后我们会给你我们最宝贵的珍藏。
 
-杀了马卡达
-杀了马卡达
+杀死马卡达尔
+杀死马卡达尔
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

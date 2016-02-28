@@ -1,13 +1,17 @@
 赏金任务
-赏金：萨拉查
+赏金: 萨拉查
 赏金
-The Cult of Ch'thon has twisted many individuals under their bloodstained banner. Their promises of a Cairn restored resonate with many, from the lowest beggar to the most esteemed of nobles.{^n}{^n}Father Kymon once knew a man named Salazar from the high court in Erulan. This same man turned out to be a traitor to humanity as he now serves the Dead God in the 伯尔维治 Outskirts. Father Kymon has decreed that Salazar's depravity is to end. Anyone willing to take on this critical task will be rewarded with materials from our stores.
+崇拜冥神的邪教已经扭曲了许多人至他们血污的旗帜之下。他们承诺共同恢复凯恩世界，无论是最低等的乞丐还是最受尊敬的贵族。{^n}{^n}圣父凯蒙曾经从伊露兰高等法院知道了一个名为萨拉查的男人。这个男人变成了人类的叛徒，现在侍奉死神于伯尔维治郊区。圣父凯蒙宣布萨拉查的堕落之路到头了。任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 
-杀了萨拉查
+杀死萨拉查
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

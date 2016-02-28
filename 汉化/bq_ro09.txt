@@ -1,13 +1,15 @@
 赏金任务
-赏金：控制害虫
+赏金: 控制害虫
 赏金
-The Wasps provide the Rovers with valuable Royal Jelly but, when found in great numbers, they can pose a serious threat.{^n}{^n}The poison carried by the Venomwing Stingers is so potent, not even Rover medicine can treat it. Victims must withstand hours of agonizing pain. Many do not even last that long.{^n}{^n}The Venomwing Stinger population must be brought down immediately. A pouch of iron bits to anyone that carries out the task.
+蜂群为流浪者提供了珍贵的蜂王浆，但是当我们发现他们巨大的数量时，它们就成为了严重的威胁。{^n}{^n}毒翼刺蜂带有剧毒，甚至流浪者们无法治疗。受害者必须承受数小时之久的剧烈疼痛。{^n}{^n}毒翼刺蜂的数量必须立刻被削减。任何完成任务的人将会得到一袋铁币。
 
 杀死毒翼刺蜂
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
 
 
 

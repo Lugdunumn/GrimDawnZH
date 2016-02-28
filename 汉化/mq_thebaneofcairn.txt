@@ -1,25 +1,26 @@
 冥灵的威胁
 凯恩世界的噩梦
-Destroy Wagons
-It appears that the ritual is being powered by blood harvested at the cult's camps, delivered to the Necropolis in Blood Wagons. You will not be able to enter the Loghorrean's tomb without destroying the source of the precious fluid. There are three Blood Wagons you will have to deal with before the cultist sigil will weaken enough for you to pass through.
+摧毁运血车
+看来那些仪式的能源是由邪教徒营地的鲜血收割者提供的，用运血车运送到墓地。在摧毁那贵重液体的源头之前你是没法进入到罗霍里恩的坟墓里的。如果想进入，你就必须摧毁三辆运血车来削弱邪教徒封印的力量。
 
-Destroy the northern Blood Wagon
-Destroy the eastern Blood Wagon
-Destroy the western Blood Wagon
+摧毁北面的运血车
+摧毁东面的运血车
+摧毁西面的运血车
 
-Kill Final Boss
-You have destroyed the Blood Wagons and the way to the Tomb of the Watchers is clear. Enter the tomb and seek out the Ulgrim at the bottom level, at the Seal of the Loghorrean. Together, you must stop the cult's ritual for good.{^n}{^n}The cult may try to rebuild the Blood Wagons in your absence, you will need to destroy them again as the seal will be renewed.
-
-
+杀死最终BOSS
+你已经摧毁运血车并看清了守望者之墓的位置。进入墓穴并找到在底层的奥格瑞姆，他在罗霍里恩的封印处。总之，你必须停止邪教徒的仪式。
 
 
 
 
-Stop the summoning of the Loghorrean
 
-Return to Creed
-You have banished the mythical beast known as the Loghorrean back into the void pit from which it spawned, but at a high price.{^n}{^n}Return to Inquisitor Creed at Fort Ikon with the news.
-Speak to Inquisitor Creed at Fort Ikon
+
+终止罗霍里恩的召唤
+
+返回克里德处
+你驱逐了被称为神兽罗霍里恩通过虚空裂隙衍生出的生物，但也为此付出了高昂的代价。{^n}{^n}返回圣像堡告诉审判官克里德这个消息。
+与圣像堡的审判官克里德交谈
+
 
 
 

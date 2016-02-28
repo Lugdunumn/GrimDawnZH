@@ -1,13 +1,17 @@
 赏金任务
-赏金：行刑者领主
+赏金: 行刑者领主
 赏金
-Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as 苦痛阶梯, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into 苦痛阶梯 and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
+安克维亚是肆无忌惮的权力和傲慢人性的证明。整个种族因为完全不顾及一个人的感受被永恒的诅咒了，但是足够了。{^n}{^n}在被叫做苦痛阶梯的废墟深处，有一个叫阿卡莫斯的精魂。他对安克维亚的命运负有主要责任，而现在他在他曾经守卫的监狱中心付出了永恒的代价。{^n}{^n}几个世纪以来，他对尤若布鲁克的仇恨使他的头脑陷入疯狂。他现在变成了一个无法控制的武器，准备释放他的怒火。这永远不会发生了。{^n}{^n}进入苦痛阶梯并消灭这个行刑者领主。在战斗中活下来，之后我会给你一些我最珍爱的收藏品。{^n}{^n}这项任务需要一把骸骨钥匙。
 
-杀了阿卡莫斯
+杀死阿卡莫斯
 
-回报任务
-You have completed the task for the Outcast and should return to the Bounty Table for your reward.
-Return to the Outcast's Bounty Table
+完成任务
+您已经完成了任务，应该返回赏金桌领取报酬。
+返回放逐者赏金桌
+
+
+
+
 
 
 

@@ -1,15 +1,19 @@
 赏金任务
-赏金：寇纳斯塔利亚
+赏金: 寇纳斯塔利亚
 赏金
-An Aetherial witch known as 寇纳斯塔利亚 has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
+一个叫做寇纳斯塔利亚的虚灵女巫在阴森谷仓被发现。{^n}{^n}她曾经是朋友，而现在她有着不同的目的。我希望她被杀死、被摧毁，被烧成灰烬。{^n}{^n}这么做之后，我会从我的收藏中奖励你一些东西。
 
 
 
-杀了寇纳斯塔利亚
+杀死寇纳斯塔利亚
 
-回报任务
-You have completed the task for the Outcast and should return to the Bounty Table for your reward.
-Return to the Outcast's Bounty Table
+完成任务
+你已经完成放逐者的任务，应该返回赏金桌领取报酬。
+返回放逐者赏金桌
+
+
+
+
 
 
 

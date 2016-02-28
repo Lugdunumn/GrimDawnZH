@@ -1,13 +1,15 @@
 赏金任务
-赏金：虫后 拉夫娜
+赏金: 虫后 拉芙娜
 赏金
-The Dermapteran Queen Ravna has been allowed to thrive for far too long. Her brood has spread rampantly throughout our lands, unimpeded by even the Aetherials.{^n}{^n}Sooner or later, the Dermapterans will devour everything that's left in the fields, and then they will turn their attention upon Homestead. By that point, their numbers will wash over us like a flood of locusts.{^n}{^n}We must not allow that to happen. Queen Ravna must die. As compensation for this daring task, we have set aside some scavenged materials.
+革翅目虫后拉芙娜已经安逸成长的太久了。她哺育的幼虫在我们的土地上已经泛滥成灾了，甚至都跑到了虚灵的地盘上。{^n}{^n}革翅目虫迟早会吞噬田地上的一切，然后它们就会转向霍姆斯特德。到那时它们将会像蝗虫一样淹没我们。{^n}{^n}我们绝不能让那样的事发生。所以虫后拉芙娜必须死。我们将会以物资作为这个大胆任务的奖赏。
 
-杀了革翅目虫后
+杀死革翅目虫后
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

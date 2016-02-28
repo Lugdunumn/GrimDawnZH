@@ -1,15 +1,15 @@
-Order of Death's Vigil
-Service Beyond Death
-Perform Ritual
-You have gathered all the necessary materials for Malkadarr's resurrection. Often times, malignant spirits will gather around such a ritual, making it dangerous for the participants, so the Keeper of Tomes wishes for you to watch over the ritual at 悲伤城堡 while the necromancers perform the Rite of Resurrection.
+死亡守夜人教团
+超度亡灵的事务
+执行仪式
+你已经集齐了复活马卡达尔的所有必备材料。届时，会有恶灵经常在这种仪式周围聚集，这对参与者很危险，因此秘典守护者希望你能在巫师们进行复活仪式时在悲伤城堡进行监督。
 
 
-Assist in the resurrection of Malkadarr
+协助马卡达尔的复生仪式
 
 
-Speak to Necro
-The ritual was a success and Malkadarr walks Cairn once again. Speak to the Keeper of Tomes at 悲伤城堡 of your success.
-Speak to the Keeper of Tomes
+与死灵交谈
+仪式成功了，马卡达尔再次回到了凯恩。向悲伤城堡的秘典守护者报告你成功的消息。
+与秘典守护者交谈。
 
 
 

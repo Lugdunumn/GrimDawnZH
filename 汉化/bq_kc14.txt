@@ -1,13 +1,17 @@
 赏金任务
-赏金：扎尔泽兰
+赏金: 扎尔泽兰
 赏金
-The work of the Chosen is never finished.{^n}{^n}We have made discovery of a ruin out in the Broken Hills known as 苦痛阶梯. It is a cursed place filled with undying abominations.{^n}{^n}On one of the lower levels, there dwells a priest that calls out to false gods. Father Kymon has called upon us to exterminate this sacrilege.{^n}{^n}Anyone willing to act out the Blessed One's orders shall be rewarded with materials from our stores. Travel with Kymon's blessing.
+神选战士们的任务已经接近完成了。{^n}{^n}我们已经将破碎丘陵内的一个名为苦痛阶梯的废墟探索完毕了。那里是一个充满了令人厌恶的不死生物的诅咒之地。{^n}{^n}在阶梯深处盘踞着一个与伪神对话的牧师。圣父凯蒙招唤我们去消灭这个亵渎者。{^n}{^n}任何愿意去执行神佑圣父的命令的人会得到物资作为奖赏。愿凯蒙的祝福与你同在。
 
-杀了扎尔泽兰
+杀死扎尔泽兰
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

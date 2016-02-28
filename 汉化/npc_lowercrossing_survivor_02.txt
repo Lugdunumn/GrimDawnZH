@@ -1,24 +1,24 @@
-Faldis
-I'm never going out there again.
-What about supplies?
-Not much left to scavenge nearby anyhow.{^n}{^n}Besides, I'd be dead right now if you hadn't come for me.
+法尔迪斯
+我再也不会去那里了。
+那补给呢？
+附近已经没有多少东西留下了。{^n}{^n}此外，如果不是你来的话我现在已经死了。
 
-We'll just have to search harder.
-Fair point.
-You said you came from Burrwitch?
-Yes, had a home in Mud Row before the town fell to the Aetherials.{^n}{^n}It was terrible. Fire and the dead everywhere around us. I watched my neighbors get torn to pieces by those things.{^n}{^n}If it wasn't for Captain Bourbon...
-Captain Bourbon saved you?
-It was Captain Bourbon that found us hiding at the boarding house.{^n}{^n}He personally rounded up the remaining survivors and led us here through the wilderness.{^n}{^n}Even with his help, not all of us made it through the swamps...
-Sounds like you have a habit of needing rescue.
-The captain is a hero.
-Sounds like it was a difficult journey.
-Sounds awful.
-Good, you can't handle the risks.
-You'll be safe here.
-Well I'll be damned, you really came through for me.{^n}{^n}The rift took me back to Devil's Crossing, just as you promised.
-You're welcome.
-I...I'd like to thank you.{^n}{^n}Here, take everything I've found out there. It's not much, but maybe you can make some use of it.
-Thanks.
-The world we once knew is gone...all gone...
-We'll survive somehow.
-We'll make do with what we get.
+我们会加大力度搜索。
+说的好。
+你说你从伯尔维治来？
+是的，在小镇落入虚灵之手前有一个位于泥泞小径的家。{^n}{^n}太可怕了。到处都是死尸和火焰。我目睹了邻居们被那些东西撕成了碎片。{^n}{^n}如果不是波旁队长的话...
+波旁队长救了你？
+波旁队长发现了躲在旅馆中的我们。{^n}{^n}他亲自聚集了幸存者并领导我们穿过荒野。{^n}{^n}即便在他的帮助下，也不是所有人都穿过了沼泽...
+说的好像你有需要被救的习惯似的。
+队长是个英雄。
+听起来是个困难的旅途。
+听起来很糟糕。
+很好，你无法解决这个危险。
+你在这里很安全。
+我会被骂死的，你真的为我而来了。{^n}{^n}裂缝将我带回了恶魔十字，就像你承诺的那样。
+不用谢。
+我... 我要谢谢你。{^n}{^n}这里，拿走我所找到的全部东西吧。这不是很多，但你或许能利用它们做些事情。 
+谢谢。
+我们所熟知的那个世界已经不存在了... 全都过去了...
+我们总得生存下去。
+我们会设法应付这种情况的。

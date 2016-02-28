@@ -1,21 +1,22 @@
-The Chthonic Menace
-The Necropolis
-Go to Necropolis
-The Black Legion cannot advance on the Necropolis directly, there are too many enemies and the losses would be too great. Instead, Creed has tasked you with sneaking in and securing a riftgate. Once you've done so, Ulgrim and a contingent of troops will join you for the final assault, where the enemy will least expect it.
-Enter the Necropolis
+冥灵的威胁
+墓地
+前往墓地
+黑色军团不能直接去墓地，那里的敌人太多我们承受不起那么大的损失。为此克里德给了你另一个任务，潜入后方打开一个安全的裂隙。完成之后奥格瑞姆将会带领一支部队加入这最后的战斗。
+进入墓地
 
-Secure Rift
-The Black Legion cannot advance on the Necropolis directly, there are too many enemies and the losses would be too great. Instead, Creed has tasked you with sneaking in and securing a riftgate deep inside the Necropolis. Once you've done so, Ulgrim and a contingent of troops will join you for the final assault, where the enemy will least expect it.
-Secure the Inner Necropolis Riftgate
+肃清传送门
+黑色军团不能直接去墓地，那里的敌人太多我们承受不起那么大的损失。为此克里德给了你另一个任务，潜入后方打开一个安全的裂隙。完成之后奥格瑞姆将会带领一支部队加入这最后的战斗。
+肃清墓地内围传送门
 
-Speak to Ulgrim
-Ulgrim is waiting for you at the Necropolis. Report to him immediately to proceed with the attack on the Cult.
-
-
+与奥格瑞姆交谈
+奥格瑞姆正在墓地等着你。向奥格瑞姆报道并对冥灵邪教进行最后的打击。
 
 
 
-Speak to Ulgrim at the Necropolis
+
+
+与墓地的奥格瑞姆交谈
+
 
 
 

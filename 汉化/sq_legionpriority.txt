@@ -1,13 +1,13 @@
-Fort Ikon
-Legion Retribution
-Destroy Obelisks
-Spellbreaker Moira of the Black Legion has tasked you with a dangerous mission that should cripple the Aetherials' ability to transform Cairn into whatever hell they came from. To her, it's not just about that though. This is a mission of payback, of revenge for lives taken. Travel to Deadman's Gulch and reopen the sealed off mine-shaft leading to the area called the Immolation. There, among the Aetherfire, you will find the Herald of Destruction, a giant Aetherial obelisk that has been terraforming the landscape. Destroy it, take revenge upon the Aetherials in the name of the Black Legion.
+圣像堡
+军团的复仇
+摧毁方尖碑
+黑色军团的破法者莫伊拉交给你一项危险的任务，你需要削弱虚灵生物将凯恩转变为他们故土的能力。对她而言，这项任务并不仅仅是表面上的意图。这是一种报复，是为那些逝去的生命进行的复仇。前往亡者峡谷并重新揭开通向一处名为献祭之地的矿井通道的封印。在那无尽的虚化之火中，你会找到毁灭使者，一座巨大的能将土地重新改造的虚化方尖碑。破坏它，并以黑色军团的名义对虚灵们展开复仇。
 
-Slay the Herald of Destruction
+杀死毁灭使者
 
-Turn-in
-You have slain the Herald of Destruction, thus crippling the Aetherials' effort to terraform Cairn and taking revenge upon the Aetherials for the lives lost in Moira's battalion. You should report back to her in Fort Ikon.
-Report to Spellbreaker Moira
+完成任务
+你已经击杀了毁灭使者，虚灵们对凯恩进行的改造都前功尽弃了，同时也为莫伊拉战死的军团成员们报了仇。返回圣像堡向她汇报。
+向破法者莫伊拉汇报
 
 
 

@@ -1,15 +1,17 @@
 赏金任务
-赏金：领袖哈辛
+赏金: 哈辛
 赏金
-Dermapteran Viziers are the prime of the queen's spawn. Whenever one is selected to ascend as one of her Grand Viziers, it is called back into the hive to feast until it grows to monstrous size.{^n}{^n}One such Dermapteran, 领袖哈辛, appears to be next. If it is killed before it reaches the final stage of its metamorphosis, then the Dermapterans will lose a valuable guardian.在田间寻找这头怪物，在它变得难以对于之前。{^n}{^n}完成任务会得到一些材料作为奖赏。
+革翅目虫首领是虫后产下的最强的革翅目虫。无论什么时候其中之一被选中提升为巨型首领，它将会被召回至虫巢并被喂养成一个可怕的体型。{^n}{^n}其中一个革翅目虫，哈辛，就是下一个。如果他在变态为最后阶段前被消灭，那么革翅目虫将会损失一个强大的守护者。在田间寻找这只怪物，在它变得难以对付之前。{^n}{^n}完成任务会得到一些材料作为奖赏。
 
 
 
-杀了领袖哈辛
+杀死哈辛(感染农田)
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

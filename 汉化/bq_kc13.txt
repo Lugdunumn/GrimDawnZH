@@ -1,15 +1,18 @@
 赏金任务
-赏金：冥灵拆解者
+赏金: 冥灵拆解者
 赏金
-混沌要塞is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Chthonian Unravelers are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with materials from our stores. Travel with Kymon's blessing, brave Chosen.
+混沌堡垒是我们见过的最大的裂隙。每天数不尽数的恶魔从那里进到我们的世界。但是真正恐怖的东西正呆在要塞里。{^n}{^n}冥灵拆解者就是我们的世界陷入毁灭的预兆。这样一个生物一次就可以砍倒十几个神选战士。这个堡垒就是那些怪物的诞生之地，也将是它们的墓地。{^n}{^n}任何敢于深入堡垒的人都将获得物资作为正义的回报。愿凯蒙的祝福与你同在，英勇的神选战士。
 
 
 
 杀死冥灵拆解者
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
 
 
 

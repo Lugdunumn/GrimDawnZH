@@ -1,10 +1,10 @@
-Vig
-Lay a finger on Benevald and you're a dead [[ms]man[fs]woman].
-Can you tell me anything about the area?
-Nothing you probably haven't seen for yourself.{^n}{^n}Darkvale's teeming with the Cult of Ch'thon and their void terrors.{^n}{^n}Fort Haron is under constant assault by either the necromancers or Kymon's zealots. Neither side holds it for long.{^n}{^n}The Asterkarn Mountains beyond Darkvale have become too dangerous for travel. If the wildlife won't get you, then the Bloodsworn will.
-Thanks for the warning.
-Are you guarding this man?
-Benevald's earned himself a reputation for collecting rare and precious goods, so he's had his fair share of thieves and cutthroats.{^n}{^n}Nowadays, I suppose thieves are the least of our worries.
-I see.
-I don't want to start any trouble.
-Alright.
+维格
+敢伤害本内瓦德一根汗毛你就死定了，[[ms]先生[fs]女士]。
+你能告诉我有关该地区的情况吗？
+可能你还没亲眼见过。{^n}{^n}黑谷村到处都是冥神的邪教和他们的虚空生物。{^n}{^n}哈伦堡一直在不断被攻击，无论是死灵法师还是凯蒙的狂战士。双方都想长期占据它。{^n}{^n}黑谷另一边的阿斯特坎山麓对于旅行者来说太危险了。如果野生动物不会伤到你，那么血誓会。
+谢谢你的提醒。
+你是守护这里的人吗?
+本内瓦德收集的稀有和贵重物品让自己远近闻名，因此小偷和杀手也会经常来光顾他。{^n}{^n}现在，我想小偷是我们最担忧的。
+我知道了。
+我不想招惹任何麻烦。
+好吧。

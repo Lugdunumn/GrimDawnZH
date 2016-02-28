@@ -1,7 +1,7 @@
-Detonation Site
-This gate has been collapsed, but it looks deliberate. With enough explosives, the way through could be re-opened.{^n}{^n}It will take some Heavy Explosives to clear out.
-You do not have the Heavy Explosives.
-Destroy the Barricade.
-Leave it.
-You have cleared this barricade.
-Ok.
+爆破点
+这扇大门已经倒塌了，看起来是人为破坏的。使用足够的炸药，将可以重新疏通道路。{^n}{^n}需要一些重型炸药来清空道路。
+你没有重型炸药。
+摧毁路障。
+离开。
+你已经清除了路障。
+好的。

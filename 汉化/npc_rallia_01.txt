@@ -1,30 +1,30 @@
 拉莉亚
-Don't mind me, just waiting to be burnt to a crisp.
-Um...ok.
-Don't just stand there, kill them!
-Alright, alright.
-Since you insist, please talk some sense into Nathaniel.{^n}{^n}Fear clouds a man's judgement. He doesn't understand what he's doing.
+不用管我，等着我被烧得松松脆脆的就好了。
+嗯...好吧。
+别傻站在那了，杀了他们！
+好吧，好吧。
+既然你坚持，那就请去开导开导纳撒尼尔。{^n}{^n}恐惧扭曲着他的判断力。他完全不知道自己在做什么。
 
-Here to gloat over Nathaniel's prize? Want to look me in the eye before you light the torch?{^n}{^n}I suppose it's a waste of breath to tell you that I am not a Taken?
-Then what are you?
-These farmers wouldn't know a Taken if it walked in on them fornicating with a goat.{^n}{^n}Look...I may have dabbled in the arcane here and there, maybe cursed a few mongrels for getting too touchy, but I am not some Aetherial's puppet.
-How do I know you're telling the truth?
-*Rallia stares at you, her eyes piercing through you*{^n}{^n}Perhaps because you of all people should know better than to accuse people of being Taken?
-I will talk to them. (Speak to Nathaniel)
-I will stop them. (Attack Nathaniel)
-I can't take the chance. (Burn Her)
+在这里欣赏纳撒尼尔的战利品？你想在点燃火炬前深入我的眼睛查探吗？{^n}{^n}我想就算我告诉你我不是一名被占据者也是白费力气吧？
+那么你是什么？
+农夫们不会了解一个被他们发现在和山羊私通的人并不是个被占据者的。{^n}{^n}瞧，或许我是到处尝试秘术，也诅咒了一些混血山羊让它们变得更加暴躁，但我并不是虚灵的傀儡。
+我怎么知道你说的是不是实话？
+*拉莉亚注视着你，她的目光透过了你*{^n}{^n}或许是由于你们的人自己心里明白而不会真的去指控一个人是被占据者？
+我会和他们谈谈的。(与纳撒尼尔对话)
+我会阻止他们的。(攻击纳撒尼尔)
+我不会冒这个险的。(烧死她)
 
-Sounds to me like you're guilty. (Burn Her)
-Why do they think you are Taken?
-These peasants see Aetherfire and immediately think it must be an Aetherial's doing.{^n}{^n}Arcanists have been wielding the Aether for centuries, but nowadays you might as well tie your own noose if you're a practitioner of the arcane.
+在我看来你是有罪的。(烧死她)
+他们为什么认为你是个被占据者？
+这些农夫看见了虚化之火就直接认为肯定是虚灵干的。{^n}{^n}秘术师已经使用虚化能量很多世纪了，但现今，如果你也是个秘术的研习者，还不如自己上吊自杀好了。
 
 
-No more lies. (Burn Her)
-I don't believe you. (Burn Her)
-We're not done here.
-Talk some sense into these maniacs!
-What's going on here?
-This is all a huge misunderstanding.{^n}{^n}Just talk to Nathaniel. There's a reasonable way out of all this.
-I'll see what I can do.
-I'm not getting involved in this.
-I'm not getting involved in this.
+无需多言。(烧死她)
+我不相信你。(烧死她)
+我们还没完成任务。
+给这些狂热份子讲讲道理吧！
+这里发生了什么？
+这完全是个误会。{^n}{^n}去和纳撒尼尔谈谈。一定会有合理的方法解决事情的。
+我会试试能做些什么的。
+我不想参与这种事。
+我不想参与这种事。

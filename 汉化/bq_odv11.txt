@@ -1,15 +1,17 @@
 赏金任务
-赏金：腐朽的 格拉维斯
+赏金: 格拉维斯
 赏金
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering 古代墓地的黑墓穴中. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
+食尸鬼是一种卑鄙且可恶的家伙。躲在暗处的弱者，隐藏在墓穴里寻找着它们的下一餐食物。{^n}{^n}但这是一种可以将恐惧植入人们内心的强大食尸鬼。它们不惧阳光，不惧火焰。它们是我们必须消灭的梦魇。{^n}{^n}有一个这种食尸鬼，我们称其为格拉维斯，它正在墓地中徘徊者。为了凯恩，它必须被消灭。{^n}{^n}消灭格拉维斯的人会得到物资作为奖赏。
 
 
 
-杀了格拉维斯
+杀死格拉维斯
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
 
 
 

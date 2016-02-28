@@ -1,9 +1,9 @@
-Fort Ikon
-Precious Resources
-Distribute Resources
-Quartermaster Edric of the Black Legion has tasked you with the recover of precious raw materials from within the Fort Ikon Armory. The armory is overrun with Aetherials, including the traitorous Commander Lucius.{^n}{^n}However, the people of Homestead could benefit from these supplies as well as their fortress home is worn down by attacks. You have to decide who needs the supplies more: the people of Homestead, or the Black Legion.
-Recover the Supplies inside the Fort Ikon Armory
-Deliver the Supplies to either the Black Legion or Homestead
+圣像堡
+珍贵资源
+分发资源
+黑色军团的军需官埃德里克把从圣像堡军械库内部回收珍贵材料的任务交给了你。军械库中虚灵泛滥成灾。包括叛徒，指挥官卢修斯。{^n}{^n}霍姆斯特德的人们将受益于这批物资，然而他们的要塞也因为攻击而破损，你必须判断谁更需要这些物资：霍姆斯特德的人，或是黑色军团。
+回收圣像堡军械库中的物资。
+将物资交给黑色军团或霍姆斯特德
 
 
 

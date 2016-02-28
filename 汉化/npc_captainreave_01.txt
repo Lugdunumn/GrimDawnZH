@@ -1,59 +1,59 @@
-Captain Reave
-This isn't a good time. We have an incursion to deal with.
-Farewell.
-I can't believe you are siding with Creed on this.{^n}{^n}阿纳斯塔里娅 is a traitor. Keeping her around will only lead to our doom.
-阿纳斯塔里娅 has helped save countless lives.
-A ruse to lure us into a false sense of comfort. She reeks of Aetherial corruption, not to mention she is a witch.{^n}{^n}Alas, I am honor-bound not to act upon this risk. I pray I am wrong.
-I am convinced that you are.
-Time will tell.
-We shall see.
-Glad to have you here. You do what must be done.
-Farewell.
-This isn't a good time. We have an incursion to deal with.
-Farewell.
-Have you cleared the Tomb of Korvaak?
-Yes, the cultists are dead.
-Excellent work. We don't need them sniffing around our back yard.{^n}{^n}Who knows what they could have found down there.
-It's probably best we never find out.
-Have you cleared the Tomb of Korvaak?
-Where is it again?
-The Tomb of Korvaak is out in the wilderness, somewhere in the Asterkarn Mountains to the south of Fort Ikon.{^n}{^n}Hardly anyone pays attention to the old ruins out there, but the cult is sniffing around for a reason and we cannot stand idly by and let them dig up something horrid.
-I will head there now.
-Not yet.
-With that wretch dead, we can turn our attention to other concerns.{^n}{^n}Are you up for some field work?
-What requires my attention?
-There are reports of cultist activity around an old tomb out in the Asterkarn Mountains. We always figured those tombs were nothing but ruins, but anything that attracts this much attention from the Cult of Ch'thon demands that we act.{^n}{^n}Head south out of Fort Ikon and enter the Tomb of Korvaak. Deal with any Bloodsworn Priests and Doomsayers that you find in there. The tomb is out in the wilderness, away from the main road.
-I will deal with the cultists.
-I can't right now.
-I have already cleared out the tomb of the cultists.
+队长 瑞弗
+现在还不是时候。我们需要应对一场入侵。
+告辞。
+我不敢相信你竟然和克里德看法一致。{^n}{^n}安娜斯特莉娅是个叛徒。把她留在身边只会给我们招来厄运。
+安娜斯特莉娅已经拯救了无数生命。
+那只是一个诱惑我们放松警惕的诡计。她散发着虚灵的恶臭，更何况她还是个女巫。{^n}{^n}我的正义感不允许我冒这个险。但愿我是错的。
+我坚信你是对的。
+时间会证明一切。
+我们拭目以待。
+有你在真是太好了。你做了你必须做的事。
+告辞。
+现在还不是时候。我们需要应对一场入侵。
+告辞。
+你把寇瓦克之墓清理干净了吗？
+是的，邪教徒都被消灭了。
+做得好。我们不能让他们觊觎我们的后院。{^n}{^n}谁知道他们能在那找到什么。
+我们最好永远不会知道。
+你把寇瓦克之墓清理干净了吗？
+再告诉我一遍，它在哪里？
+寇瓦克之墓在荒野中，位于圣像堡南部阿斯特坎山谷某处。{^n}{^n}几乎没有人会留意那里古老的废墟，但是出于某种原因，邪教徒在那里附近四处搜索，我们不能袖手旁观，让他们挖出什么可怕的东西来。
+我会立刻前往那里。
+还没有。
+那个混蛋已经死了，我们可以把注意力转移到其他问题上了。{^n}{^n}你能否接受一些野外工作？
+有什么需要我注意吗？
+有报告称，在阿斯特坎山谷的一处古老墓地附近发现邪教徒活动的踪迹。我们一直认为那些古墓除了废墟之外什么都没有，但是任何能如此吸引冥神邪教的东西都值得我们行动。{^n}{^n}前往圣像堡南部并进入寇瓦克之墓。解决掉在那遇到的任何血誓邪教的牧师和末日预言者。墓地在远离大道的荒野中。
+我会处理那些邪教徒。
+我现在不能去。
+我已经把墓地的邪教徒清理干净了。
 
-Perhaps later.
-Have you dealt with the witch yet?
-Yes, 阿纳斯塔里娅 is dead.
-I say good riddance. I knew I could count on you.{^n}{^n}With that wretch dead, we can turn our attention to other concerns. Are you up for some field work?
-What do you need?
+以后再说。
+你除掉那个女巫了吗？
+是的，安娜斯特莉娅已经死了。
+谢天谢地。我就知道可以指望你。{^n}{^n}既然女巫已经死了，我们可以把注意力转向其他地方了。你打算做一些侦查任务吗？
+你需要我做什么？
 
-Perhaps later.
-Have you dealt with the witch yet?
-Where is she?
-阿纳斯塔里娅 is in the prison, right here at the fort.{^n}{^n}I would have preferred her to be in one of the cells, but she was given the warden's office.
-I will speak to her.
-Not yet.
-You're not from the Legion.{^n}{^n}Perhaps there is something you could help me with, something that can't involve the troops.
-What is it?
-With the recent Aetherial attack, I cannot allow this deception to carry on any longer. 阿纳斯塔里娅, the witch who was allowed to enter our fold, must be put down.{^n}{^n}The Inquisitor insists that she not be harmed, but the trust he has in her is misplaced. Commander Lucius was an honorable man and a dedicated soldier, up until he was possessed by the Aetherials. I refuse to believe that 阿纳斯塔里娅's witchcraft was not involved in his corruption.As we are all under strict orders not to harm her, I need someone outside the Legion, such as yourself, to handle this for me. Will you enter the fort prison and deal with the wretched witch?
-I will deal with the witch.
-This isn't my problem.
-Why does Creed want her kept safe if she is dangerous?
-The Inquisitor is convinced that 阿纳斯塔里娅 has valuable information, but I've found her to be nothing but a web of lies.{^n}{^n}She is a witch tainted by the Aetherials and needs to be exterminated.
-Alright, I will deal with her.
-This isn't my problem.
+以后再说。
+你除掉那个女巫了吗？
+她在哪？
+安娜斯特莉娅就在圣像堡内部的监狱里。{^n}{^n}我宁愿她被关在地牢里，但是她被送到了监狱长的办公室。
+我会和她谈谈。
+以后再说。
+你不隶属于军团。{^n}{^n}也许你能帮我个忙，一个不能让军队参与的事情。
+什么忙？
+随着虚灵威胁的加剧，我不能允许这个骗局持续下去了。安娜斯特莉娅，一个被允许进入我们中间的女巫，必须被制止。{^n}{^n}审判官坚持认为她对我们没有威胁，但是他对她的信任是错误的。指挥官卢修斯曾是一个高尚的人和一个勇于献身的战士，直到被虚灵附身之前。我不相信安娜斯特莉娅的巫术没有参与其中。我们接到严令，不准伤害她。我需要一个像你一样不属于军团的人帮我处理这件事。你会进入监狱并帮我解决那个卑鄙的女巫吗？
+我会解决那个女巫。
+这不是我的事。
+如果她这么危险，为什么克里德要保证她的安全？
+审判官确信安娜斯特莉娅带有极具价值的情报，但我发现她只是个由谎言编织而成的毫无价值的家伙。{^n}{^n}她是一个被虚灵感染的女巫，必须被彻底消灭。
+好的，我会解决她。
+这不是我的事。
 
-You let a witch into the fort?
-I always believed it was a mistake, but Creed and Commander Lucius wished to hear her out when she arrived at our gates with her hands above her head in surrender.{^n}{^n}She somehow earned their trust and was allowed to roam freely, spreading her Aetherial taint throughout the fort and weakening our resolve.{^n}{^n}It is thanks to her actions that Lucius became possessed, I'm sure of it.
-Alright, I will deal with her.
-This isn't my problem.
+你们让一个女巫进入堡垒？
+我始终认为那是个错误，但当她来到大门外举手投降时克里德和指挥官卢修斯希望听她把话说完。{^n}{^n}她以某种方式取得了他们的信任并获得了可以自由活动的权力，她在堡垒中处处散播虚灵的腐化，并削弱我们的决心。{^n}{^n}卢修斯被虚灵占据正式她的功劳，我敢肯定。
+好的，我会解决她。
+这不是我的事。
 
-I don't want to get involved.
-This isn't a good time. We have an incursion to deal with.
-Farewell.
+我不想参与其中。
+现在还不是时候。我们需要应对一场入侵。
+告辞。

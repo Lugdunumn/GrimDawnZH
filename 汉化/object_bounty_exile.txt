@@ -1,75 +1,73 @@
-The Outcast's Tasks
-阿纳斯塔里娅 does not offer her bounties to those who would see her dead.
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+放逐者赏金任务
+安娜斯特莉娅不提供赏金给那些见死不救的人。
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+离开赏金桌。
+你带回到手的材料，任务完成。
+完成任务。
 
-Step away from the Table.
-You return triumphantly, a Task fulfilled.
-Report in.
+离开赏金桌。
+你得胜返回，任务完成。
+完成任务。
 
-Step away from the Table.
-You are already on a Task for 阿纳斯塔里娅.
-Step away from the Table.
-阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive tasks.
-Take a look at the task.
-No Tasks available at this time.
-Step away from the Table.
-Take a look at the task.
-
-
+离开赏金桌。
+你已经在执行一项安娜斯特莉娅的赏金任务了。
+离开赏金桌。
+安娜斯特莉娅看出了你的潜力。{^n}{^n}她相信，你可以帮她处理一些更加敏感的任务。
+查看当前未接的赏金任务。
+没有可接的任务。
+离开赏金桌。
+查看当前未接的赏金任务。
 
 
 
@@ -88,109 +86,111 @@ Take a look at the task.
 
 
 
-Step away from the Table.
-Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a 感染大脑 Matter and I shall reward you with iron bits.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
 
-Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a 冥神之血 and I shall reward you with iron bits.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
 
-The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+离开赏金桌。
+那些被虚灵控制的生物受到一些有趣的副作用的折磨，主要表现为身体上的突变，但是在它们的脑中发生了什么...这是值得深入研究的问题。{^n}{^n}我希望研究一下它们。带给我一个感染大脑，我将会给你一些铁币。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three 感染大脑 Matters and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+冥神之血，冥灵收集它，邪教徒崇拜它，但是目的是什么？{^n}{^n}我必须要知道！带给我一瓶冥神之血，之后我会用铁币回报你。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+凯恩世界的生物十分迷人。他们拥有的力量不是来自于虚灵，而是来自于他们不寻常的生理构造。{^n}{^n}我想要研究一下它们。带给我一个远古之心，我会给你一些铁币。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+我需要更多的材料来进行我的研究。你要为我提供它们，并且不要问任何问题。{^n}{^n}带给我三个感染大脑，之后我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+我需要更多的材料来进行我的研究。你要为我提供它们，并且不要问任何问题。{^n}{^n}带给我三瓶冥神之血，之后我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+我需要更多的材料来进行我的研究。你要为我提供它们，并且不要问任何问题。{^n}{^n}带给我三个远古之心，之后我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+古人曾经创造出蕴含着不可思议力量的神奇遗物。不幸的是，大部分这方面的知识已经遗失。{^n}{^n}我需要一个冰川遗物以继续我的研究。你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它的寒冷核心将有助于我的研究维持稳定。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+古人曾经创造出蕴含着不可思议力量的神奇遗物。不幸的是，大部分这方面的知识已经遗失。{^n}{^n}我需要一个暴风遗物以继续我的研究。你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它狂乱的核心将在我的研究中担任催化剂。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+为了深入我的研究，我需要一个可以赋予其使用者火山般愤怒的远古遗物：炼狱。不幸的是制造它的方法早已遗失。{^n}{^n}你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它炙热的核心将是我的研究的热量来源。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-I have sensed the presence of an old nemesis, a harbinger known as 纽科斯·达尔. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within 古代墓地, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate 纽科斯·达尔 for me and I shall reward you with something from my collection.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+古人曾经创造出蕴含着不可思议力量的神奇遗物。不幸的是大部分这方面的知识已经遗失。{^n}{^n}我需要一个腐败遗物以继续我的研究。你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。其腐坏的特性将有助于我研究虚灵变异的影响。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly in 黑曜石王座 and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+为了深入我的研究，我需要一个能保护其持有者免于巨大伤害的远古遗物：庇护。不幸的是制造它的方法早已遗失。{^n}{^n}你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它不寻常的特性将保护我的实验免于外界的干扰。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-An Aetherial witch known as 寇纳斯塔利亚 has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+我察觉到一个老仇家的存在，一个叫做纽科斯'达尔的预言者。我以为他已经被消灭，但是我错了。{^n}{^n}这个预言者隐藏在墓地里，等待着它神一般的主人回归。你将终结他的等待。{^n}{^n}替我消灭纽科斯'达尔，事成之后，我会给你一些我的值钱货作为回报。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-鲁迪亚·星火 was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in 战火平原. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+虚空有史以来一直动荡不安，灾难性的力量使它可能随时崩溃，但它仍然存续下来。可是最近其内部的能量变得越来越不稳定。{^n}{^n}那只意味着一件事，一个强大的冥灵生物正在搅乱虚空。在黑曜石王座找到这个麻烦引发者并且消灭它。{^n}{^n}这么做之后，我会从我的收藏中奖励你一些东西。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+一个叫做寇纳斯塔利亚的虚灵女巫在阴森谷仓被发现。{^n}{^n}她曾经是朋友，而现在她有着不同的目的。我希望她被杀死、被摧毁，被烧成灰烬。{^n}{^n}这么做之后，我会从我的收藏中奖励你一些东西。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+鲁迪亚·星火曾经是我的同僚也是一位有天赋的奥术师。但现在不是了。{^n}{^n}她如今在战火平原散布虚灵的腐化。你将终结她被虚灵的奴役。{^n}{^n}这么做之后，我会从我的收藏中奖励你一些东西。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+古人曾经创造出蕴含着不可思议力量的神奇遗物。不幸的是大部分这方面的知识已经遗失。{^n}{^n}我需要一个狡诈遗物以继续我的研究。你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它将在我的实验中担任催化剂。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near 古代墓地, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+为了深入我的研究，我需要一个会导致其使用者无法控制地愤怒的远古遗物：狂暴。不幸的是制造它的方法早已遗失。{^n}{^n}你应该重新发掘制造它的方法，把图纸带给一个值得信赖的铁匠。{^n}{^n}让他制作出遗物之后把它带给我。它可能高度不稳定，但它是我需要的催化剂。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as 苦痛阶梯, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into 苦痛阶梯 and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
-Accept the Task.
-Step away from the Bounty Table.
-Next Bounty.
+这听起来可能有点奇怪，雾裔巨魔们不像它们表面上那么愚蠢。事实上，深厚的萨满教根源使它们与自然有着深刻的联系。{^n}{^n}作为下一项研究，我打算开发这种力量。从巨魔那获取制造雾裔护符的方法，最巨大的野兽可能知道的最多。{^n}{^n}把制作方法带给一个可信的铁匠，让他制作护符之后把它带给我。只想告诉你，伟大的力量可能来自最想不到的地方。{^n}{^n}为我做这件事，我会给你一些我的宝物。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-阿纳斯塔里娅 sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive tasks.
+混沌预言者沙'祖尔在这，在凯恩世界。我能感受到他被玷污的灵魂。混沌堡垒，在墓地附近巨大的裂隙之门打开了，那里是他的领域。{^n}{^n}如果我认为你无能为力，现在是不会这样要求你的，但是我必须强调前方考验的严峻。预言者的存在对我们所有人来说都是个威胁。消灭他拯救凯恩世界，或者失去一切。{^n}{^n}进入混乱堡垒并且结束他的残暴专制。在战斗中活下来，之后我会给你一些我最珍爱的收藏。{^n}{^n}这项任务需要一把骸骨钥匙。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
 
-Step away from the Table.
-阿纳斯塔里娅 does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Table.
+安克维亚是肆无忌惮的权力和傲慢人性的证明。整个种族因为完全不顾及一个人的感受被永恒的诅咒了，但是足够了。{^n}{^n}在被叫做苦痛阶梯的废墟深处，有一个叫阿卡莫斯的精魂。他对安克维亚的命运负有主要责任，而现在他在他曾经守卫的监狱中心付出了永恒的代价。{^n}{^n}几个世纪以来，他对尤若布鲁克的仇恨使他的头脑陷入疯狂。他现在成为了一个无法控制的武器，准备释放他的怒火。这永远不会发生了。{^n}{^n}进入苦痛阶梯并且消灭这个行刑者领主。在战斗中活下来，之后我会给你一些我最珍爱的收藏。{^n}{^n}这项任务需要一把骸骨钥匙。
+接受这项赏金任务。
+离开赏金桌。
+查看另一项赏金任务。
+
+安娜斯特莉娅看出了你的潜力。{^n}{^n}她相信，你可以帮她完成一些更加艰巨的任务。
+
+离开赏金桌。
+安娜斯特莉娅对你的信任度还不足以让你去接受更艰巨的任务。{^n}{^n}需要声望达到尊重才能领取赏金任务。
+离开赏金桌。

@@ -1,13 +1,17 @@
 赏金任务
-赏金：恐惧领主
+赏金: 恐惧领主
 赏金
-The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
+死亡守夜人教团在他们所追求的亵渎神明的魔法中走的太远了。他们的恐惧领主玩弄死亡就好像死亡只是个玩物，如同虚灵一般操纵着死者。{^n}{^n}这将是不能被容忍的。我们要杀鸡儆猴。{^n}{^n}任何愿意放倒这个可怕的敌人的人将会得到铁币作为公正的回报。
 
 杀死死亡守夜人恐惧领主
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

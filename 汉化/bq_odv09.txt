@@ -1,15 +1,19 @@
 赏金任务
-赏金：巨兽
+赏金: 巨兽
 赏金
-A fleshwarped troll of truly massive proportions has been spotted out in 阴森的谷仓. This behemoth could lay waste to the Black Legion forces stationed within Homestead and crush any chance we may have of stopping the Aetherials in this region.{^n}{^n}The Order sees this as an opportunity to prove ourselves to our new-found allies. Head into the Harvest and 杀了那若斯. The Order will bestow an enchantment upon your weapons to aid with this dangerous task.{^n}{^n}Your efforts will be compensated with materials from our stores.
+在阴森谷仓内发现了一个由大量扭曲血肉形成的巨魔。这只巨兽可能会对在霍姆斯特德附近驻扎的黑色军团造成威胁，并会在这个区域破坏我们每个针对虚灵的计划。{^n}{^n}教团把这种状况视为一个向新晋盟友展示自己的一个好机会。进入谷仓并杀死那若斯。教团会强化你的你武器作为援助。{^n}{^n}你的努力会获得一些材料作为奖励。
 
 
 
-杀了那若斯
+杀死那若斯
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

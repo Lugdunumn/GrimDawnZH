@@ -1,12 +1,12 @@
-Kymon's Chosen
-Braving the Void
-Kill Boss
-There are many layers to the forsaken void, filled with ashes and misery, but one such place houses a fiend known as Bane'Gargoth. From within its Obsidian Throne, this void spawn sends forth his armies to spread havoc and suffering upon Cairn. Prove your worth to Father Kymon. Enter the void through a rift at the Plains of Strife to the north of Fort Ikon. Brave the Forsaken Wastes and enter the Obsidian Throne. Destroy Bane'Gargoth.
-杀了梦魇 加戈斯
+凯蒙神选战士
+面对虚空
+消灭BOSS
+被遗忘的废墟有很多层，充满了灰烬和痛苦，但在这个地方住着一个叫梦魇'加戈斯的恶魔。在黑曜石王座，这个虚空产物派出它的大军在凯恩世界传播混乱和苦难。证明你对凯蒙神父的价值。通过圣像堡北部纷争平原中部的裂隙进入虚空。勇敢的面对被遗忘的废墟并进入黑曜石王座。消灭梦魇'加戈斯。
+杀死梦魇'加戈斯
 
-回报任务
-You have slain 梦魇 加戈斯 and passed Father Kymon's test. Speak to him back at 悲伤城堡 of your success.
-Return to Father Kymon
+完成任务
+你已经杀死了梦魇'加戈斯并通过了凯蒙的测试。返回悲伤城堡向他汇报你的成功。
+返回至圣父凯蒙处。
 
 
 

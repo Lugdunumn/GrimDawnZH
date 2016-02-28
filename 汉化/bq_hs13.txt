@@ -1,15 +1,19 @@
 赏金任务
-赏金：费比亚斯
+赏金: 费比亚斯
 赏金
-费比亚斯·克劳斯沃斯是一名当地人。但不幸的是他在恐怖黎明发生时和他的家人待在伯尔维治。{^n}{^n}Based on the tales I've heard about what happened in the village, I fear the worst. Please, if 费比亚斯 has been turned into one of those undead monsters, I wish that he be put to rest.{^n}{^n}I will gladly share my scavenged supplies in exchange for peace of mind.
+费比亚斯·克劳斯沃斯是一名当地人。但不幸的是他在恐怖黎明发生时和他的家人待在伯尔维治。{^n}{^n}我获知在村庄里发生的事，我害怕事情会更糟。拜托了，如果费比亚斯变成了那种不死怪物，我希望他能安息。{^n}{^n}我愿意用搜集到的补给换取一丝平静。
 
 
 
-杀了费比亚斯
+杀死费比亚斯
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
+
+
 
 
 

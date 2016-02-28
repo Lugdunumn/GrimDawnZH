@@ -1,12 +1,20 @@
 赏金任务
-赏金：Cavern Crawlers
+赏金: 穴居爬行者
 赏金
-Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should never see the light of day.{^n}{^n}However, as the population of Cavern Crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Cavern Crawlers will be compensated with scavenged materials from our stores.
+在西边山峦的地下，有个被称为山脉深渊的大型洞穴。那是个充满了恐怖生物且暗无天日的地方。{^n}{^n}然而，随着洞穴内穴居爬行者数量的增长，它们开始在洞外活动。离上一次猎杀并削减它们数量已经很久了。必须要有人深入洞穴并处理这件事。{^n}{^n}任何杀死穴居爬行者的人都可以得到我们储存的物资作为奖赏。
 
-Slay Cavern Crawlers
+杀死穴居爬行者
 
-Turn In
-You have completed the task for Homestead and should return to the Bounty Table for your reward.
-Return to the Homestead Bounty Table
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
+返回霍姆斯特德赏金桌
+
+
+
+
+
+
+
+
 
 

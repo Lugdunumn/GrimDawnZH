@@ -1,13 +1,17 @@
 赏金任务
-赏金：骷髅骑士
+赏金: 骷髅骑士
 赏金
-The vile undead roaming the Arkovian ruins are a danger to all that travel the lone road.{^n}{^n}Skeletal Knights, the undying guardians of a fallen empire, continue to perform their loyal duties far beyond death. That includes violently attacking anyone that comes near the ruins. These attacks must end.{^n}{^n}We have set aside iron bits for anyone willing to deal with this threat.
+游荡在安克维亚废墟的邪恶的亡灵生物对于路过的旅行者们来说是十分危险的。{^n}{^n}骷髅骑士，乃是陨落帝国的不死守卫，继续执行着他们那超越死亡的忠诚使命。这使命包括了猛烈攻击任何靠近废墟的人。必须阻止这种行为。{^n}{^n}我们愿意拿出一部分铁币给任何愿意处理这个威胁的人。
 
 杀死骷髅骑士
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
+
+
 
 
 

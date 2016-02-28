@@ -1,13 +1,17 @@
 赏金任务
-赏金：碎裂之魂
+赏金: 碎裂之魂
 赏金
-Deep within the 安克维亚地下城, there dwells a manifestation of darkness known as 基尔利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基尔利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen. The Rovers understand the risk in taking on 基尔利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
+在安克维亚地下城的深处，那里盘踞着一个名叫基利安的黑暗存在。古安克维亚开始因为诅咒变得疯狂起来，他的灵魂破碎且损坏。{^n}{^n}现在基利安开始聚集其他受难的灵魂，创造出一个亡灵军团一旦出来就会横扫整个大陆。他必须在这件事发生前被消灭。流浪者们知道在基利安的地盘消灭他的风险，我们愿意补偿任何敢于进入地下城并完成任务的人一大笔铁币。
 
-杀了基尔利安
+杀死基利安
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
+
+
 
 
 

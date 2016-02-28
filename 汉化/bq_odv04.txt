@@ -1,13 +1,15 @@
 赏金任务
-赏金：食尸者
+赏金: 食尸鬼
 赏金
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, too far gone to be reasoned with. The Black Sepulcher in the 古代墓地 is teeming with these Corpse-eaters. There is little choice in the matter. They must be exterminated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+据说食尸鬼曾是人类。被疯狂和痴迷所扭曲的人类吞食已死之人的血肉。{^n}{^n}现在他们和愚蠢的恶魔毫无区别，这类令人厌恶的生物不值得怜悯或同情。墓地的黑冢里充斥着这种食尸鬼。这件事没有什么选择。他们必须被消灭。{^n}{^n}何协助者将会得到铁币作为奖励。
 
-杀死食尸鬼 食尸者
+杀死食尸鬼
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
 
 
 

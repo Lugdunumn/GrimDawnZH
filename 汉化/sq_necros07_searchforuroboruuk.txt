@@ -1,11 +1,11 @@
-Order of Death's Vigil
-The Search for Uroboruuk
-Get Item and 回报任务
-The Keeper of Tomes has sent you to the East Marsh, an area east of 伯尔维治 teeming with dangerous wildlife, in the hopes that you recover some hint of Uroboruuk's location.{^n}{^n}Search the swamp and return to the Keeper of Tomes at 悲伤城堡 with anything you may find.
+死亡守夜人教团
+寻找尤若布鲁克
+获取物品并完成任务
+秘典守护者派你前往东沼泽，一个位于伯尔维治东部充满危险野兽的区域，希望你能找到一些关于尤若布鲁克所在地点的线索。{^n}{^n}搜索那片沼泽并将你的任何发现向悲伤城堡的秘典守护者报告。
 
 
-Search for clues to Uroboruuk's disappearance
-Return to the Keeper of Tomes
+寻找尤若布鲁克失踪的线索
+回去向秘典守护者报告。
 
 
 

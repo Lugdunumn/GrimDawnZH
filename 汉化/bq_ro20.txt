@@ -1,14 +1,16 @@
 赏金任务
-赏金：蜂后巢穴
+赏金: 蜂后巢穴
 赏金
-The Venomwing hives are each under the control of a queen. These queens once produced ample quantities of Royal Jelly, but they are well past their prime.{^n}{^n}If the supply of Royal Jelly is to continue, then the queens must be slain so that new younger queens will rise to take their place.{^n}{^n}We have set aside iron bits for anyone willing to see this through.
+毒翼蜂巢都是在女王蜂的控制之下。这些女王蜂制作了充足的蜂王浆，但它们都是曾经的管理者。{^n}{^n}如果蜂王浆的补给不能中断，那么女王蜂就必须被杀死这样新的女王蜂就能接替它的位置。{^n}{^n}我们准备了些铁币给任何完成任务的人。
 
-杀了蜂巢女王 尤拉普莱克斯
-杀了至高女皇 罗纳普莱克斯
+杀死尤拉普莱克斯
+杀死罗纳普莱克斯
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
 
 
 

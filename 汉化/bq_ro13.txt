@@ -1,10 +1,12 @@
 赏金任务
-赏金：蜂王浆
+赏金: 蜂王浆
 赏金
-The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
+毒翼蜂巢被触动时会变得十分危险，但是女王蜂产出珍贵的蜂王浆，我们常用来制作我们的治疗药膏。{^n}{^n}我们的补给在减少但是和克隆利帮的战斗却使伤亡增加。获得蜂王浆乃是十分重要之事。{^n}{^n}我们会十分乐意给予交给我们蜂王浆的人铁币。
 
 收集蜂王浆
-Deliver the Royal Jelly to the Rover Bounty Table
+将蜂王浆交到流浪者赏金桌
+
+
 
 
 

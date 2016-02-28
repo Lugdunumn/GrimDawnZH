@@ -1,10 +1,12 @@
 赏金任务
-赏金：毁灭
+赏金: 毁灭
 赏金
-Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
+黑暗的时代临近了。世界已经变成了废墟并将由我们来修复。{^n}{^n}潜在的新事物总会代替旧的。 圣父凯蒙希望挖掘这个潜力。{^n}{^n}问一下铁匠知道什么古老的方法。让他们为我们制造一个毁灭遗物。{^n}{^n}圣父凯蒙收集了些冥神之血作为补偿；拿去做研究还是销毁都将随你所愿。
 
-锻造一个毁灭遗物
-Deliver Ruination to the Kymon's Chosen Bounty Table
+制作一个毁灭遗物
+将毁灭遗物交至凯蒙神选战士赏金桌
+
+
 
 
 

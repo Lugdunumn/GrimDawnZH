@@ -1,13 +1,17 @@
 赏金任务
-赏金：堕落之魂领主
+赏金: 堕落之魂领主
 赏金
-In 安克维亚山麓, there is a cavern known as 脊状峡谷. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
+在安克维亚山麓有个叫脊状峡谷的山洞。那里有一个名为男爵瓦德里斯的古安克维亚灵魂主宰着其它灵魂，那些被他所召集的灵魂。{^n}{^n}现在灵魂们留在那个洞穴里，但是亡灵是不可预测的。这个亡灵领主必须在他开始考虑离开他的地下王国前被驱逐。{^n}{^n}我们很高兴与敢于前往脊状山谷的人分享他们留下的物资。
 
-杀了瓦德里斯男爵
+杀死男爵瓦德里斯
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
+
+
 
 
 

@@ -1,13 +1,17 @@
 赏金任务
-赏金：混元体
+赏金: 混元体
 赏金
-Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in 阴森的谷仓. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
+通过和教团还有冥神邪教的战斗，我们不能忘记另一敌人正渴望从人类手中夺取这个世界。{^n}{^n}虚灵向肉体中注入它们的意识，将野兽和人类转换成某种混合生命体。 其中一个这种产物被发现于阴森谷仓。这个他们创造的混元体是对神明的亵渎，必须被消灭。{^n}{^n}任何愿意消灭这个怪物的人将会的到一大笔铁币。
 
-杀了混元体
+杀死混元体
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

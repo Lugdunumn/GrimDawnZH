@@ -1,14 +1,19 @@
 赏金任务
-赏金：印纽·家宝
+赏金: 因纽'贾巴尔
 赏金
-The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly in 黑曜石王座 and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
+虚空有史以来一直动荡不安，灾难性的力量使它可能随时崩溃，但它仍然存续下来。可是最近其内部的能量变得越来越不稳定。{^n}{^n}那只意味着一件事，一个强大的冥灵生物正在搅乱虚空。在黑曜石王座找到这个麻烦引发者并且消灭它。{^n}{^n}这么做之后，我会从我的收藏中奖励你一些东西。
 
 
-杀了印纽·家宝
 
-回报任务
-You have completed the task for the Outcast and should return to the Bounty Table for your reward.
-Return to the Outcast's Bounty Table
+杀死因纽'贾巴尔
+
+完成任务
+你已经完成放逐者的任务，应该返回赏金桌领取报酬。
+返回放逐者赏金桌
+
+
+
+
 
 
 

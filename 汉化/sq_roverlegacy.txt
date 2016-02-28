@@ -1,26 +1,28 @@
 古安克维亚
-Rhowari Legacy
-Repair Shrine
-Far to the north, in the Asterkarn Mountains, the Cult of Ch'thon has desecrated the Shrine of Mogdrogen, a place sacred to the Rovers. Amkala has asked you to recover the parts of the shrine that had been stolen by the cultists and to restore the shrine by returning the pieces, along with an Ancient Heart, to the Shrine. The pieces are lost to the void, through rifts open in the Blood Grove, to the north of Homestead, and the Plains of Strife, north of Fort Ikon.
+罗瓦里遗迹
+修复祭坛
+遥远的北方，在阿斯特坎山谷，冥神的邪教亵渎了莫格卓根的祭坛，流浪者的圣地。艾姆卡拉要求你找回被邪教徒偷走的部件并返还至原处，还需一个远古之心，去找到祭坛并修复损毁的部分。这些部件可以在两处邪教组织的营地被找到，霍姆斯特德北面血森林的灰烬废墟、圣像堡以北纷争平原的被遗忘的废墟。
 
 
-Find Runed Stone of Mogdrogen
-Find Spirit of Mogdrogen
+找回莫格卓根的符石
+找回莫格卓根的魂灵
 收集远古之心
-Restore the Shrine of Mogdrogen
+修复莫格卓根的祭坛
 
 
 
 
-Defeat Chthonians
-You have restored the Shrine of Mogdrogen, but the Chthonians infesting the area are manifesting themselves. Destroy them all.
+击败冥灵们
+你已经修复了莫格卓根的祭坛，但冥灵们大批滋生的区域也都显现出来。把它们全部消灭。
 
-Defeat the spawns of Ch'thon
+击败冥神的爪牙
 
 
-回报任务
-You have cleansed the Shrine of Mogdrogen. An Avatar of Mogdrogen has appeared from the Shrine to thank you for your service. Speak to him.
-Speak to the Avatar of Mogdrogen
+完成任务
+你肃清了莫格卓根的祭坛。莫格卓根的化身从祭坛显现并对你的所为表示感谢。和他对话。
+与莫格卓根的化身交谈
+
+
 
 
 

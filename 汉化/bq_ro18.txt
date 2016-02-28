@@ -1,13 +1,15 @@
 赏金任务
-赏金：沃德拉克
+赏金: 沃德拉克
 赏金
-走私者的通道 was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If 走私者的通道 is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
+走私者通道曾经是我们去往北方的主要通道。那里现在充满了雾裔巨魔，但是真正的危险是一个名为沃德拉克的超大号野兽被他们关在洞里。{^n}{^n}就算是以巨魔的标准来说沃德拉克也是一个庞然大物，而且他还守在洞口。如果要让走私者通道保持安全，沃德拉克就必须死。{^n}{^n}我们很乐意分享些物资让这件事成功。
 
-杀了沃德拉克
+杀死沃德拉克
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
 
 
 

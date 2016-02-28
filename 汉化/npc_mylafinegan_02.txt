@@ -1,13 +1,14 @@
 迈拉·法恩根
 你不是我要找的人。
 好吧。
-I must apologize for the ruse, but alas, I cannot travel very far from my tomb.{^n}{^n}You may die knowing that I will savor you as I drain the life from your breathe.
-You tricked me!
-Deception was a necessity. Would you have sacrificed yourself willingly knowing my true intentions?{^n}{^n}I merely do what I must to survive. Now hush and die peacefully. This will all be over soon.
+我必须为我的粗鲁道歉，但不幸的是，我不能远离我的庙宇。{^n}{^n}你可能回来看到我从你的呼吸中吸取你的生命然后死亡。
+你算计我！
+欺骗是必需的。知道了我的真实意图，你满意了么？{^n}{^n}我只是为了能生存下去。现在，安静的死去吧，这会是个很快的过程。
 我可不会引颈就戮！
-不如我先杀了你！(攻击)
+不如我先杀死你！(攻击)
 狡诈的混蛋！你这次可选错了猎物！
-我在这片森林狩猎了几个世纪，吸取像你这样的蠢货的宝贵生命力。我的洞穴一次又一次被封闭，但不知为何我总是能打开它，多亏了你这样的笨蛋或者是上次那些贪婪的挖矿者。{^n}{^n}反抗我，你有什么机会呢？
+我在这片丛林狩猎了几个世纪，吸取像你这样的蠢货的宝贵生命力。我的洞穴一次又一次被封闭，但不知为何我总是能打开它，多亏了你这样的笨蛋或者是上次那些贪婪的挖矿者。{^n}{^n}反抗我，你有什么机会呢？
+我可以试试！(攻击)
 只有一种法子才能知道啊。(攻击)
 你不是我要找的人。
 好吧。

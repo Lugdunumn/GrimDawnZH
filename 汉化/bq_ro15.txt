@@ -1,10 +1,12 @@
 赏金任务
-赏金：均衡
+赏金: 均衡
 赏金
-The Rover way requires us that we abandon worldly desires and abstain from violence. We have now broken that oath in order to defend ourselves from Cronley's men.{^n}{^n}So that not all of our ways are lost, we seek to craft an old relic known as Equilibrium, so that we can restore some balance to our lives.{^n}{^n}We will gladly exchange some of our rare scavenged materials in exchange for this valuable object.
+流浪者的习性需要我们放弃世俗利益和暴力。我们为了抵御克隆利帮的攻击已经打破了我们誓言。{^n}{^n}所幸不是所有的道都被打破，我们急需制作一个名为平衡的遗物，借此我们可以恢复我们生活的平衡。{^n}{^n}我们很乐意用物资与你交换这个珍贵的东西。
 
-锻造一个均衡遗物
-把均衡送至流浪者营地的赏金桌
+制作一个均衡遗物
+把均衡送至流浪者赏金桌
+
+
 
 
 

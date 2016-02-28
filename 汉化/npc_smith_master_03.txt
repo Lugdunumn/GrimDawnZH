@@ -1,18 +1,18 @@
-Angrim
-If you need something, speak Captain Reave.
-Alright.
-You took my smithing hammer and left me for dead.{^n}{^n}We have nothing to say to each other.
-I...alright.
-You again. You already forced me to give up my hammer, is there something else left which you want to take?{^n}{^n}We have nothing to say to each other.
-Alright.
-Ah, it's you again.{^n}{^n}I trust that my apprentice is making good use of the Malleum Menhir?
-How did you make it out here?
-Well, I traveled north through the wilderness, careful to avoid any settlements that might attract Aetherial attention.{^n}{^n}Eventually stumbled upon a Legion camp, enlisted on the spot. We were recalled back to Fort Ikon several days later.{^n}{^n}Had a few close calls along the way, but here we are.
-Glad you made it.
-How are you faring without the hammer?
-It is a shame that my finest work is behind me, but I can still procure fine armor and weapons for these brave men and women.{^n}{^n}I do the best I can with what I've got.
-Take care.
-Yes, his work is helping out the people of Devil's Crossing.
-I have to go.
-If you need something, speak Captain Reave.
-Alright.
+安格瑞姆
+如果你需要什么东西，去跟队长瑞弗说。
+好的。
+你拿走了我的锻造锤子并且把我留下等死。{^n}{^n}我和你没什么可谈的。
+我...好的。
+又是你。你已经迫使我放弃我的锤骨，这里还有什么东西是你想要的吗？{^n}{^n}我和你没什么可谈的。
+好的。
+啊，这次又是你。{^n}{^n}我相信我的徒弟能充分利用好曼海尔的锤骨。
+你是怎么来到这里的？
+唉，我经过旷野北上，小心翼翼的避开任何可能引起虚灵注意的定居点。{^n}{^n}最终，偶然发现了一个军团的营地，当即入了伍。几天后我们被调派到圣像堡。{^n}{^n}沿途虽曾有一些蹉跎，但我们还是到达了这里
+很高兴你做到了。
+没有锤骨你靠什么维持生计呢？
+很遗憾，在我身后就是我最好的作品，但我仍然可以提供精美的盔甲和武器给这些勇敢的男人和女人。{^n}{^n}我可以用我的手艺做到最好。
+保重。
+是的，他的工作是帮助恶魔十字的人。
+我得走了。
+如果你需要什么东西，去跟队长瑞弗说。
+好的。

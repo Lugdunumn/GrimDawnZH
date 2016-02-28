@@ -1,36 +1,36 @@
-Archon Barthollem
-You stand before the Harbinger of the Lightbringer.
-Um, I have some questions.
-Speak, mortal.
-Who, or what, are you?
-I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
-Just as long as you're on our side.
-For as long as you stand by the righteous and the devout, you need not fear the flame.
-I have another question.
-I see.
-I have another question.
-I...see...
-Now that you are here, what will you do?
-I will bring the wrath of Empyrion upon those who would defile Cairn, beginning with the taint infecting 古代墓地.
-What is at 古代墓地?
-A gathering of darkness. The Cult of Ch'thon and its minions have come together in great numbers.{^n}{^n}For what purpose, it matters not. All shall burn.
-I have another question.
-Goodbye.
-I have another question.
-Goodbye.
-What is Empyrion's will?
-Cleanse the world of the impure. Incinerate the heretics in righteous fire!
-I have another question.
-Thank you.
-Nevermind.
-Um, goodbye.
-What is it, mortal?
-Who, or what, are you?
-I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
-Just as long as you're on our side.
-For as long as you stand by the righteous and the devout, you need not fear the flame.
-I see.
-Goodbye.
-By Empyrion's will, I have returned.
+执政官 巴托雷姆
+你面前的是光明使者的仆从。
+嗯，我有一些问题。
+问吧，凡人。
+你是谁，或者说你是什么？
+我是执政官巴托雷姆，光明使者的仆从，也是神圣之火的先驱。{^n}{^n}这个世界必将被我的火焰所净化。
+只要你是站在我们这边的。
+你坚持着正义和虔诚，就不必惧怕圣火。
+我还有另一个问题。
+我明白了。
+我还有另一个问题。
+我...明白了...
+你出现在这里是想做什么？
+我会向那些意图玷污凯恩的人释放至高神的怒火，就从受到污染的墓地开始。
+墓地里有什么？
+黑暗的聚集地。冥神邪教和它的追随者们在那里聚集成一个庞大的集体。{^n}{^n}不管他们的目的是什么，他们都必须被烧死。
+我还有另一个问题。
+再见。
+我还有另一个问题。
+再见。
+至高神的意志是什么？
+净化世界的污秽，以正义之火焚烧异教徒！
+我还有另一个问题。
+谢谢你。
+算了。
+嗯，再见。
+有什么问题，凡人？
+你是谁，或者说你是什么？
+我是执政官巴托雷姆，光明使者的仆从，也是神圣之火的先驱。{^n}{^n}这个世界必将被我的火焰所净化。
+只要你是站在我们这边的。
+你坚持着正义和虔诚，就不必惧怕圣火。
+我明白了。
+再见。
+通过至高神的意志，我回归了。
 
-Goodbye.
+再见。

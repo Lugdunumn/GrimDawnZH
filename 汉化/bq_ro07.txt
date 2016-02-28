@@ -1,13 +1,15 @@
 赏金任务
-赏金：克隆利的熔炉
+赏金: 克隆利的熔炉
 赏金
-Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
+克隆利的团伙对整个四山区域都是一个严重的威胁，但我们不能仅仅杀死他们。{^n}{^n}如果他们的武器制造厂被破坏，那我们会有更大的机会战胜他们。{^n}{^n}任何破坏他们熔炉的人将会收到一些物资作为奖赏。
 
 摧毁四山上匪徒的熔炉
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
 
 
 

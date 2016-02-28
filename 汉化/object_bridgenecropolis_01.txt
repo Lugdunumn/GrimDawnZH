@@ -1,15 +1,15 @@
-Building Site
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 25000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 15000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 10000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-You have restored this bridge.
-Ok.
+建筑工地
+这座桥倒塌了，阻碍了通往墓地另一边的道路。在你通过它之前必须修好它。{^n}{^n}维修它需要消耗40个废料和25000个铁币。
+没有足够的材料。
+修复这座桥。
+离开。
+这座桥倒塌了，阻碍了通往墓地另一边的道路。在你通过它之前必须修好它。{^n}{^n}维修它需要消耗40个废料和15000个铁币。
+没有足够的材料。
+修复这座桥。
+离开。
+这座桥倒塌了，阻碍了通往墓地另一边的道路。在你通过它之前必须修好它。{^n}{^n}维修它需要消耗40个废料和10000个铁币。
+没有足够的材料。
+修复这座桥。
+离开。
+你已经修复了这座桥。
+好的。

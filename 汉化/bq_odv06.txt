@@ -1,15 +1,19 @@
 赏金任务
-赏金：怒火
+赏金: 怒火
 赏金
-Underneath 伯尔维治, in 监狱长的实验室, were conducted some of the Aetherials' early experiments into resurrecting our dead.{^n}{^n}The research was spearheaded by several Aetherials, including a Taken known as 怒火 哈尔瓦斯塔. Though it is too late to prevent what was discovered in those labs, we can still lay vengeance upon one of the masterminds behind the operation.{^n}{^n}A reward of iron bits awaits the one who slays the Aetherial witch.
+在伯尔维治地下，典狱长的实验室内，我们调查到虚灵曾在一些早期的实验中复活了我们死去的成员。{^n}{^n}这些研究由一些虚灵带头，包括一个叫哈尔瓦斯塔的家伙。虽然已经来不及阻止这些发生在实验室里的事情，但我们仍能对实验的幕后黑手进行报复。{^n}{^n}杀了这个虚灵巫师的人会得到铁币奖励。
 
 
 
-杀了怒火 哈尔瓦斯塔
+杀死怒火·哈尔瓦斯塔
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

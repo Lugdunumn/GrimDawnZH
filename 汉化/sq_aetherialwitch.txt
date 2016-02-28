@@ -1,29 +1,28 @@
-The Outcast
-The Aetherial Witch
-Speak to Exile
-Captain Reave of the Black Legion has determined that all of the Legion's recent troubles stem from the arrival of an aetherial witch in their midst. He is under strict orders not to harm 阿纳斯塔里娅, but you are under no such obligation. Head into the Fort Ikon prison and deal with this traitorous wretch.
+放逐者
+虚灵女巫
+与放逐者交谈
+黑色军团的瑞弗队长已经确定军团最近的麻烦都源自于他们中间来了一个虚灵女巫。他在严格的命令下不能伤害安娜斯特莉娅,但是你没有这种义务。进入圣像堡的监狱并且处理掉这个叛逆的家伙。
 
 
-Speak to 阿纳斯塔里娅 at the Fort Ikon Prison
-
-
-
+与圣像堡监狱的安娜斯特莉娅对话
 
 
 
 
-Kill Exile
-You have spoken with 阿纳斯塔里娅 and agreed with Reave's assessment. 阿纳斯塔里娅 needs to die.
-
-
-Slay 阿纳斯塔里娅
 
 
 
-Speak to Captain
-You have slain the Aetherial witch 阿纳斯塔里娅. Report back to Captain Reave at Fort Ikon of your success.
-Report to Captain Reave at Fort Ikon
+杀死放逐者
+你已经和安娜斯特莉娅对话并且认为瑞弗对她的评价是对的。安娜斯特莉娅必须去死。
 
+
+杀死安娜斯特莉娅
+
+
+
+与队长交谈
+你已经杀死虚灵女巫安娜斯特莉娅。把你的成功报告给在圣像堡的瑞弗队长。
+向圣像堡的瑞弗队长报告
 
 
 

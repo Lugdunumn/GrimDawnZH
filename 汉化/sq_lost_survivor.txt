@@ -1,10 +1,11 @@
-Devil's Crossing
-Lost Survivor
-Speak to Faldis
-Faldis was out on a scavenging mission for Devil's Crossing when he became trapped by a bunch of Rift Scourge. You convinced him to take your riftgate back to Devil's Crossing. Speak to Faldis inside the prison.{^n}{^n}(You may need to earn Bourbon's trust first.)
+恶魔十字
+迷失的幸存者
+与法尔迪斯交谈
+法尔迪斯在为恶魔十字外出执行清扫任务时被一群裂隙之灾围困了。你说服了他进入你的传送门返回恶魔十字。与监狱内的法尔迪斯交谈。{^n}{^n}(你必须先取得波旁的信任。)
 
 
-Speak to Faldis inside Devil's Crossing
+与恶魔十字的法尔迪斯交谈
+
 
 
 

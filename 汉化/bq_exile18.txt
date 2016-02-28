@@ -1,10 +1,12 @@
 赏金任务
-赏金：迷雾护符
+赏金: 雾裔护符
 赏金
-As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+这听起来可能有点奇怪，雾裔巨魔们不像它们表面上那么愚蠢。事实上，深厚的萨满教根源使它们与自然有着深刻的联系。{^n}{^n}作为下一项研究，我打算开发这种力量。从巨魔那获取制造雾裔护符的方法，最巨大的野兽可能知道的最多。{^n}{^n}把制作方法带给一个可信的铁匠，让他制作护符之后把它带给我。只想告诉你，伟大的力量可能来自最想不到的地方。{^n}{^n}为我做这件事，我会给你一些我的宝物。
 
-锻造一个迷雾护符
-Deliver Mistborn Talisman to the Outcast
+制作一个雾裔护符
+将雾裔护符交到放逐者赏金桌
+
+
 
 
 

@@ -1,8 +1,8 @@
-Order of Death's Vigil
-A Pledge to Cairn
-Choose Deployment
-You have proven to be a valuable ally in the Order's mission to bring balance into the world. The Order wishes to repay this loyalty by deploying their forces alongside the Black Legion in 古代墓地. You must decide where you wish the reinforcements to go. Speak to Master Varuuk at 悲伤城堡 once you have made a decision.
-Speak to Master Varuuk to deploy the Order
+死亡守夜人教团
+对凯恩的承诺
+选择部署
+在教团达成世界平衡的目标过程中，你证明了自己是非常有价值的同盟。教团希望为此作出回报，准备在大墓地部署他们的部队来和黑色军团并肩作战。你必须决定援军的目的地。当你做好决定时，和悲伤城堡的主教 瓦瑞克交谈。
+与主教 瓦瑞克交谈来部署教团。
 
 
 

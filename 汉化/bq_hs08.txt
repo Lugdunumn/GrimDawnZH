@@ -1,13 +1,15 @@
 赏金任务
-赏金：食人者
+赏金: 食人者
 赏金
-Back when I was a younger man, I used to do a smuggling run that ran between 霍姆斯特德和伯尔维治. We ran our operations out of a place we called 走私者的水潭, out near 伯尔维治.{^n}{^n}Last I've heard, the place was massacred by a dranghoul known as 格特沃姆. The beast feasted on the flesh of my comrades and scattered their bones.{^n}{^n}I want revenge. I want 食人者 dead. I've stowed away some valuable materials in my smuggling days. I will gladly share them with anyone that butchers that beast.
+当我还是个年轻人，我经常在霍姆斯特德和伯尔维治之间走私。我们在走私者盆地经营我们的业务，在伯尔维治郊外。{^n}{^n}我最后听说，那地方被一个叫格特沃姆的危险人物给屠了。那个禽兽生吃我同伴们的肉并且把他们的骨头仍的到处都是。{^n}{^n}我要复仇。我要那个食人者死。 我在我走私的日子里，放了些值钱的东西在那里。 如果有人能弄死他，我很乐意分享我的财富。
 
-杀了格特沃姆
+杀死格特沃姆
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

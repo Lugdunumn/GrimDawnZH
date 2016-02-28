@@ -1,15 +1,19 @@
 赏金任务
-赏金：沃姆·祖尔
+赏金: 沃姆'祖尔
 赏金
-Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}In the 血森林, through a rift torn between our world and theirs, there is a plane of existence we call 灰烬废土. There dwells a cruel creature by the name 沃姆·祖尔. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+神选战士们走向未知的战场，用火焰去净化那里。这就是我们的使命与目的。{^n}{^n}在血森林中，穿过一个两世界间的裂隙，那里有个我们称为灰烬废墟的位面存在。那里盘踞着一个叫沃姆'祖尔的残忍生物。它是个火焰和硫磺组成的怪物，一个至高神圣火下的笑话。遵循凯蒙的意志它必须死。{^n}{^n}任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 
 
 
-杀了沃姆·祖尔
+杀死沃姆'祖尔
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
+
+
 
 
 

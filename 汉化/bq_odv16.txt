@@ -1,14 +1,18 @@
 赏金任务
-赏金：削弱邪教徒
+赏金: 削弱邪教
 赏金
-The Cult's activites in 黑谷 are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near 黑谷村.{^n}{^n}The Keeper has demanded their lives. End them and you shall be rewarded with materials from our stores. The Order shall provide enchantments to assist in the mission.
+邪教在黑谷的行为已经超出我们的控制了。是时候对他们的"蛇头"进行突击，准确的来说是两个。{^n}{^n}两个主要邪教成员——伯瓦尔和扎里亚，被目击在黑谷村附近的血森林内。{^n}{^n}监管人审判了他们的生命。终结他们，你就能获得材料奖励，同时也提供了魔法增幅效果来援助你。
 
-杀了血之羁绊伯瓦尔
-杀了屠刀扎里亚
+杀死伯瓦尔
+杀死扎里亚(黑谷村尽头)
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

@@ -1,18 +1,18 @@
-Ulgrim
-Prepare yourself. The nightmare buried underneath the Necropolis is all too real.
-I have some questions.
-Go ahead.
-You seem unusually shaken by the Loghorrean's return.
-It's nothing. Just saddened to discover that such evil can never truly be contained.{^n}{^n}*Ulgrim smirks*{^n}{^n}If I get too emotional during the fighting, just hand me a handkerchief.
-I have another question.
-I'll keep that in mind.
-You say this thing has been summoned before?
-Yes, many centuries ago, at the Battle of Ikon. Nobody knows for sure whether it was the Carineans performing a last desperate maneuver, or perhaps the Loghorrean was drawn to all the spilled blood, but the results were catastrophic.{^n}{^n}And now we know what the real purpose behind the Necropolis was.
-I have another question.
-Mistakes of the past coming back.
-What's our plan of action?
-I'm preparing an elite team to infiltrate the Necropolis and take the enemy by surprise from the inside.{^n}{^n}Speak to Creed for more details when you're ready.
-I have another question.
-Will do.
-Nevermind.
-Farewell.
+奥格瑞姆
+做好准备。葬在墓地中的梦魇都太真实了。
+我有一些问题。
+往下说。
+你似乎对罗霍里恩的回归异常震惊。
+没什么。只是发觉这样的邪恶永远不会被真正的克制使我感到难过。{^n}{^n}*奥格瑞姆微微一笑*{^n}{^n}如果我在战斗中过于情绪化，递给我一块手帕就好。
+我还有另一个问题。
+我记住了。
+你是说这个家伙曾经被召唤出来过？
+是的，在很多世纪以前圣像堡的战斗中。没人知道罗霍里恩的到来是因为凯恩世界的人孤注一掷的对其进行了召唤，还是它被溅出的鲜血吸引而至。不管怎么说，结局都是灾难性的。{^n}{^n}现在我们知道了隐藏在墓地背后的真正目的。
+我还有另一个问题。
+报应找上门来了。
+我们的行动计划是什么？
+我准备了一支精英部队用来潜入墓地，在敌人内部给他们一个惊喜。{^n}{^n}当你准备好的时候，和克里德谈谈更多的细节。
+我还有另一个问题。
+好的。
+算了。
+再见。

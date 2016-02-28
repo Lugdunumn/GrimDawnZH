@@ -1,13 +1,17 @@
 赏金任务
-赏金：剑姬
+赏金: 剑姬
 赏金
-Kymon's Chosen cannot be reasoned with. They send their flame-wielding Blade Maidens after our people to butcher them like animals.{^n}{^n}We will not stand for this. Slaughter any Blade Maidens you come across. Perhaps that will send a message to the Chosen and their false prophet. And besides, they will serve as excellent minions.{^n}{^n}Iron bits for every slain Blade Maiden.
+凯蒙神选战士是不可理喻的。在我们把他们的人像动物般屠杀后他们派出了他们挥舞火焰的剑姬。{^n}{^n}我们不会坐以待毙。杀死任何一个你遇到的剑姬。这可能会给神选战士们和他们的伪先知一个忠告。况且他们会作为优秀的侍从协助我们。{^n}{^n}每个被你杀死的剑姬都将让你得到相应的报酬。
 
-杀死凯蒙的剑姬
+杀死凯蒙神选战士 ~ 剑姬
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

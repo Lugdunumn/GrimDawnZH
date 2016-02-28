@@ -1,56 +1,56 @@
 艾姆卡拉
 你好，旅行者。
-What can you tell me about the area?
+关于这片地区你能告诉我些什么？
 
 
-I heard news of the shrine's restoration. The Rhowari are forever in your debt.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+我听说了关于祭坛的修复消息。罗瓦里永远欠你一份情。
+我找到了一些你可能感兴趣的文档。
+真是令人震惊的发现。我以罗瓦里的名义感谢你为我们带回了这些文档。{^n}{^n}我会弄清楚所有拜访此地的流浪者想要知道的事情。
+告辞。
+关于这片地区你能告诉我些什么？
 
-You're welcome.
-It had to be done.
-Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
-Where is the shrine?
+不用客气。
+这是我应该做的。
+你好，我的朋友。你拜访过莫格卓根的祭坛了吗？
+祭坛在哪里？
+祭坛位于遥远的北方，穿过黑谷村，在阿斯特坎山谷终年积雪的顶峰上。{^n}{^n}当心冥神的邪教，他们在那片区域有很强大的势力。
 
-Thank you.
-Where are the parts to the Shrine of Mogdrogen?
-The shrine was damaged by the Cult of Ch'thon and its parts lost to the void. You must enter the void rifts in the Blood Grove, to the north of Homestead, and in the Plains of Strife, to the north of Fort Ikon.{^n}{^n}Please do not let our shrine be lost to history.
+谢谢你。
+莫格卓根的祭坛部件在哪里？
+祭坛被冥神邪教毁坏并且部件散落在虚空之中。你必须进入霍姆斯特德北方血森林内的裂隙，以及圣像堡北方纷争平原的裂隙中去寻找。{^n}{^n}请不要让我们的祭坛被历史遗忘。
 
-The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
-Thank you.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+谢谢你。
+我找到了一些你可能感兴趣的文本。
+真是令人震惊的发现。我以罗瓦里的名义感谢你为我们带回这些文本。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
+告辞。
+关于这片地区你能告诉我些什么？
 
-Farewell.
-Hello, friend of the Rhowari. I apologize for interrupting you in your important travels, but I must ask something of you, something that requires utmost care and trust.
-What is it?
-Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
-What can be done?
-The Shrine lies in ruins, its Runed Stone and Spirit taken by the cult into the void. We cannot allow this symbol of our people to be lost to history. Please, seek out the void rifts torn open within the Blood Grove and the Plains of Strife. Recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.
-I will restore the shrine of Mogdrogen.
-Find someone else.
-I have already restored the shrine.
-That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
-I will clenase the area of Chthonians.
-Find someone else.
-I have already restored the shrine, and cleansed it of evil.
-You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?
-I will visit the shrine.
-Perhaps another time.
-I'm sorry, I cannot help you.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+告辞。
+你好，罗瓦里的朋友。我对打扰你的重要旅程感到抱歉，但我必须问你些事情，一些必须极度谨慎和信任的事情。
+是什么事？
+在遥远北方覆盖着冰雪的阿斯特坎山谷，有一座莫格卓根的祭坛，他是野兽的主宰，也是罗瓦里的守护神。我们的族人世世代代都会去拜访莫格卓根的神圣祭坛来表达敬意，以此感谢他对罗瓦里授予的智慧，并启发人们离开安克维亚。{^n}{^n}但祭坛现在被冥神的邪教玷污了。那个死去的神的仆从污染了我们的圣地并破坏了莫格卓根的祭坛。
+我们能做些什么？
+祭坛已经化为了废墟，它的符文之石和灵魂散落在了邪教徒的营地中。我们不能允许我们的信仰象征就这么湮没在历史的浪潮之中。拜托你，搜索北边的邪教徒领地并找回莫格卓根祭坛分裂开的部分吧。{^n}{^n}将这些部分连同一颗远古之心放置在祭坛之上，它那庞大的献祭能量将会催化融合那些碎片成为一个整体。一旦你完成了，就要准备好应付任何从虚空而来的冥灵生物。为此，罗瓦里将永远为你效劳。
+我这就去修复莫格卓根的祭坛。
+你去找别人吧。
+我已经修复了祭坛。
+听起来很顺利，但你净化了来自虚空的冥灵了吗？{^n}{^n}不清除冥灵的话祭坛对于罗瓦里是不安全的。
+我会去净化被冥灵占据的地区的。
+你去找别人吧。
+我已经修复了祭坛，并净化了来自虚空的威胁。
+你是莫格卓根以及罗瓦里的真正勇士。{^n}{^n}如果你完成了你所说的事情，请前去拜访祭坛。据说在如此英勇的时刻，野兽之神可能会在他的追随者面前显灵。{^n}{^n}或许你会有那样的运气？
+我会去拜访祭坛的。
+另找时间吧。
+抱歉，我帮不了你。
+我找到一些你可能会感兴趣的文本。
+谢谢你，以罗瓦里的名义把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
+告辞。
+于这片地区你能告诉我些什么？
 
-Perhaps another time.
+或许下次吧。
 你知道安克维亚就是罗瓦里的诞生地吗？你如果有时间听故事的话，我能给你讲述许多这片土地的过往。
 我找到一些你可能会感兴趣的文本。
-真是令人震惊的发现。谢谢你，以全体罗瓦里的名义，把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
+真是令人震惊的发现。我以罗瓦里的名义感谢你把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
 再见。
 请讲，我非常有兴趣了解古安克维亚的故事。
 遍布于这片土地上的废墟曾是古代繁荣文明的一部分。安克维亚曾是西方和大湖之间的贸易中心。{^n}{^n}在新港的那座根本不是港口的小渔村，还能看到安克维亚的石制信标立在水里面，木制的部分早已经腐烂掉了。
@@ -58,7 +58,7 @@ Perhaps another time.
 
 再见。
 安克维亚是如何陷落的？
-安克维亚是座值得自豪的城市，但是它的人民过于耽于战争和虚名。贵族们定期互相倾轧，有时会导致安克维亚发生内战。{^n}{^n}一些时节，没人种地。因为不同封地的人会被领主征伐起来和另外一个领主争斗。最终，整个社会分崩离析，虚弱的安克维亚变得容易被外来势力入侵。丢失了许多行省，安克维亚的疆域因此缩小。不过这座城市本身从没有被外敌征服过，它的灭亡是由于更加罪恶的原因……
+安克维亚是座值得自豪的城市，但是它的人民过于耽于战争和虚名。贵族们定期互相倾轧，有时会导致安克维亚发生内战。{^n}{^n}一些时节，没人种地。因为不同封地的人会被领主征伐起来和另外一个领主争斗。最终，整个社会分崩离析，虚弱的安克维亚变得容易被外来势力入侵。丢失了许多行省，安克维亚的疆域因此缩小。不过这座城市本身从没有被外敌征服过，它的死亡是由于更加罪恶的原因……
 
 
 再见。
@@ -68,17 +68,17 @@ Perhaps another time.
 
 再见。
 你提到的死灵法师也在安克维亚的覆灭中扮演了重要的角色？
-安克维亚的末日是由于受到了永世的诅咒，而那诅咒正是死灵法师施放的。死灵法术是一项远古的技艺，它在安克维亚早期的历史中十分兴盛。当然那是在它被定义为非法之前的事了。{^n}{^n}死灵法师们被抓捕然后投进了苦痛阶梯的监狱里。在那里他们因为对抗自然的变化而受到惩罚，但是这种黑暗的法术是永远无法被完全消灭的。据说，其中一名被关押的死灵法师从来不会变老，甚至是在他们关了他数十载之后。而且他们还发现以他们的力量怎么也无法杀死他。{^n}{^n}他的名字叫尤若布鲁克，他的不朽之躯似乎在拷问者那里帮了他不少倒忙。不过在最后，他还是报了大仇……
+安克维亚的末日是由于受到了永世的诅咒，而那诅咒正是死灵法师施放的。死灵法术是一项远古的技艺，它在安克维亚早期的历史中十分兴盛。当然那是在它被定义为非法之前的事了。{^n}{^n}死灵法师们被抓捕然后投进了苦痛阶梯的监狱里。在那里他们因为对抗自然的变化而受到惩罚，但是这种黑暗的法术是永远无法被完全消灭的。据说，其中一名被关押的死灵法师从来不会变老，甚至是在他们关了他数十载之后。而且他们还发现以他们的力量怎么也无法杀死他。{^n}{^n}他的名字叫尤若布鲁克，他的不朽似乎在拷问者那里帮了他倒忙。不过在最后，他还是报了大仇……
 
 
 再见。
 这位尤若布鲁克如何复仇的？
-随着安克维亚不断衰落，独裁者们变得越来越绝望，使他们使出了非常的手段。{^n}{^n}当他们得知尤若布鲁克和他奇特的不老能力之后，他们愚蠢地迷恋上了这种能力。那些家族们强烈渴望得知这种能让他们长生不老的秘密，他们认为可以逼迫死灵法师说出这个秘密。{^n}{^n}尤若布鲁克玩弄着他们的欲望，然后他用一种错误的仪式背叛了他们。安克维亚人的灵魂因此永远的被困在他们被诅咒的城市里，同时他们的血肉仍在慢慢地腐烂着。
+随着安克维亚不断衰落，独裁者们变得越来越绝望，使他们使出了非常的手段。{^n}{^n}当他们得知尤若布鲁克和他奇特的不老能力之后，他们愚蠢地迷恋上了这种能力。那些家族们强烈渴望得知这种能让他们长生不老的秘密，然后他们认为可以逼迫死灵法师说出这种秘密。{^n}{^n}尤若布鲁克玩弄着他们的欲望，然后用一种错误的仪式背叛了他们。安克维亚人的灵魂因此永远的被困在他们被诅咒的城市里，同时他们的血肉仍在慢慢地腐烂着。
 
 
 实在是一个令人毛骨悚然的故事。要是有法子消除这片土地受到的诅咒就好了。
 我觉得你似乎有所保留？
-是的，我隐瞒了这故事最恐怖的一部分。我本不打算讲出来的，但似乎你执意要了解全部的真相。{^n}{^n}故事的最后部分是在仪式进行之后，所有出生的孩子都变成了恐怖的，非人类的外形。他们的脚据说变成了爪子，他们的背上长着病态的翅膀，就像食腐的鸟那样。我没有怎么到过破碎丘陵，但是有人说那些饱受折磨的被诅咒的孩子们在那里捕食着过往的旅行者。{^n}{^n}由此安克维亚的末日来临，贵族们的血脉被彻底消灭了，直到今天这片土地依然还被诅咒着。
+是的，我隐瞒了这故事最恐怖的一部分。我本不打算讲出来的，但似乎你执意要了解全部的真相。{^n}{^n}故事的最后部分是仪式进行之后，出生的孩子都变成了恐怖的，非人类的外形。他们的脚据说变成了爪子，他们的背上长着病态的翅膀，就像食腐的鸟那样。我没有怎么到过破碎丘陵，但是有人说那些饱受折磨的被诅咒的孩子们在那里捕食着过往的旅行者。{^n}{^n}由此安克维亚的末日来临，贵族们的血脉被彻底消灭了，直到今天这片土地依然还被诅咒着。
 
 再见。
 我必须继续赶路了。
@@ -86,10 +86,10 @@ Perhaps another time.
 再见。
 一路平安，小心这片土地上的魂灵。他们阴险狡诈。
 我找到一些你可能会感兴趣的文本。
-真是令人震惊的发现。我以全体罗瓦里的名义感谢你把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
+真是令人震惊的发现。我以罗瓦里的名义感谢你把这些文本带给我们。{^n}{^n}我会保证所有到这里的流浪者都会学习到这上面的内容。
 再见。
 我会留心你说的话的。
-我们永远欢迎你的到来。
+我们永远欢迎你。
 
 
 

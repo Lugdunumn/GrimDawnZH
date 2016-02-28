@@ -1,10 +1,12 @@
 赏金任务
-赏金：远古之心
+赏金: 远古之心
 赏金
-One of our scouts has been poisoned by one of Cronley's men while out on patrol. It appears to be a deadly concoction that causes necrosis and paralysis of the flesh.{^n}{^n}Eva believes she may have a cure, but she will require an Ancient Heart to craft the tonic. She will gladly offer up 冥神之血 for trade.
+我们的侦察兵之一在外出巡逻时被克隆利帮的人下了毒。那是一种导致肌肉麻痹然后坏死的至死毒药。{^n}{^n}伊娃认为她们可能可以调配出解药，但是她需要一个远古心脏去制作。她乐意用冥神之血去交换。
 
 收集远古之心
-将远古之心送至流浪者营地的赏金桌
+将远古之心送至流浪者赏金桌
+
+
 
 
 

@@ -1,9 +1,12 @@
-Order of Death's Vigil
-Seals of Binding
-收集Seals
-The ritual involved in bringing back Malkadarr is a complicated one and unstable one. The cultists in the 血森林 use Seals of Binding to stabilize their rituals. Gather some of these Seals for Master Varuuk at 悲伤城堡 so that the Order can use them to bring back Malkadarr's souls from beyond the veil of death.
-Gather 冥灵魔印
-Bring the Seals of Binding to Master Varuuk at 悲伤城堡
+死亡守夜人教团
+冥灵魔印
+收集魔印
+召回马卡达尔的仪式是极其复杂而且很不稳定的。血森林里的邪教徒们使用冥灵魔印来维持他们仪式的稳定性。收集一些魔印给悲伤城堡的主教 瓦瑞克，这样教团就可以利用它们来将马卡达尔的灵魂从死亡的笼罩中拉回。
+收集冥灵魔印
+带上冥灵魔印去见主教 瓦瑞克，他在悲伤城堡
+
+
+
 
 
 

@@ -1,216 +1,216 @@
-# Achievement Groups
+# Achievement Groups 成就要素
 
-achGroupAct1=第一幕
-achGroupAct2=第二幕
-achGroupAct3=第三幕
+achGroupAct1=第一章
+achGroupAct2=第二章
+achGroupAct3=第三章
 achGroupChallenges=挑战
 achGroupCharacter=人物
 achGroupMonsters=怪物
-achGroupStory=故事
+achGroupStory=剧情
 achGroupWorld=世界
 
 # Achievements
 
-ach001Title=怪物屠杀者 Monster Slayer
+ach001Title=怪物屠杀者
 ach001Desc=消灭 25 只精英怪物 (带有星形标记)。
 
-ach002Title=史诗屠杀者 Heroic Slayer
+ach002Title=史诗屠杀者
 ach002Desc=消灭 100 只精英怪物 (带有星形标记)。
 
-ach003Title=传奇屠杀者 Legendary Slayer
+ach003Title=传奇屠杀者
 ach003Desc=消灭 1000 只精英怪物 (带有星形标记)。
 
-ach004Title=复仇 Nemesis
-ach004Desc=在精英或终极难度下击杀一只复仇级怪物。
+ach004Title=复仇者
+ach004Desc=击杀一个复仇怪物(名称为红色)于精英或终极难度。
 
-ach005Title=勇不可当 Unstoppable
-ach005Desc=在精英或终极难度下击杀六只复仇级怪物。
+ach005Title=势不可挡
+ach005Desc=击杀六个复仇怪物(名称为红色)于精英或者终极难度。
 
-ach006Title=净化世界 Cleansing the World
-ach006Desc=清除凯恩世界的25000只怪物。
+ach006Title=净化世界
+ach006Desc=清除凯恩世界的 25000 只怪物。
 
-ach007Title=屠戮过境 A Wake of Carnage
-ach007Desc=清除凯恩世界的100000只怪物。
+ach007Title=屠戮觉醒
+ach007Desc=清除凯恩世界的 100000 只怪物。
 
-ach008Title=尸山血海 An Ocean of Blood
-ach008Desc=清除凯恩世界的1000000只怪物。
+ach008Title=尸山血海
+ach008Desc=清除凯恩世界的 1000000 只怪物。
 
-ach009Title=末日友谊 Friends in the Apocalypse
-ach009Desc=与一个派系关系达到尊敬。
+ach009Title=末日友谊
+ach009Desc=与一个势力的关系达到敬畏。
 
-ach010Title=凯恩世界的典范 Paragon of Cairn
-ach010Desc=与六个派系关系达到尊敬。
+ach010Title=凯恩世界的典范
+ach010Desc=与六个势力的关系达到敬畏。
 
-ach011Title=至高之神的仆从 Servant of Empyrion
-ach011Desc=在凯蒙的神选战士的声望达到尊敬。
+ach011Title=至高神的仆从
+ach011Desc=凯蒙神选战士的声望达到敬畏。
 
-ach012Title=尤若布鲁克的信徒 Follower of Uroboruuk
-ach012Desc=在死亡守夜人兄弟会的声望达到尊敬。
+ach012Title=尤若布鲁克信徒
+ach012Desc=死亡守夜人教团的声望达到敬畏。
 
-ach013Title=堕落终结 The End to Depravity
-ach013Desc=击杀在堕落圣殿的冥神之刃萨拉查。
+ach013Title=堕落的终结
+ach013Desc=击杀萨拉查于堕落圣殿。
 
-ach014Title=粉碎冥神之刃 Shattering the Blade of Ch'thon
-ach014Desc=终极难度下击杀在堕落圣殿的冥神之刃萨拉查。
+ach014Title=粉碎冥神之刃
+ach014Desc=在终极难度击杀萨拉查于堕落圣殿。
 
-ach015Title=刽子手受刑 The Executioner Executed
-ach015Desc=杀了Alkamos, Lord Executioner in 苦痛阶梯.
+ach015Title=处决刽子手
+ach015Desc=击杀阿卡莫斯于苦痛阶梯。
 
-ach016Title=苦痛终结 The End of Torment
-ach016Desc=终极难度下击杀在苦痛阶梯的行刑者领主阿卡莫斯。
+ach016Title=苦痛的终结
+ach016Desc=在终极难度击杀阿卡莫斯于苦痛阶梯。
 
-ach017Title=不朽行刑者 Immortal Executioner
-ach017Desc=在硬核模式击杀在苦痛阶梯的行刑者领主阿卡莫斯。
+ach017Title=不朽的行刑者
+ach017Desc=在专家模式击杀阿卡莫斯于苦痛阶梯。
 
-ach018Title=伸张正义 Delivering Justice
-ach018Desc=击杀在隐藏实验室的典狱长克里格。
+ach018Title=伸张正义
+ach018Desc=击杀典狱长克里格于隐藏的实验室。
 
-ach019Title=往日危机 An Old Threat
+ach019Title=往日的威胁
 ach019Desc=击杀德莱厄斯·克隆利。
 
-ach020Title=以血还血 Blood for Blood
-ach020Desc=击杀冥神魔像卡洛斯。
+ach020Title=以血还血
+ach020Desc=击杀卡洛斯, 冥神魔像。
 
-ach021Title=凯恩的梦魇 The Bane of Cairn
-ach021Desc=Slay the Loghorrean, Voice of Ch'thon.
+ach021Title=凯恩世界的梦魇
+ach021Desc=击杀罗霍里恩, 冥神之声。
 
-ach022Title=净化战火平原 Cleansing the Conflagration
-ach022Desc=终极难度下击杀战火平原的烈焰使者。
+ach022Title=净化战火平原
+ach022Desc=击杀烈焰使者于战火平原。
 
-ach023Title=不惧火焰 Not Afraid of a Little Fire
-ach023Desc=终极难度下击杀战火平原的烈焰使者。
+ach023Title=不惧火焰
+ach023Desc=在终极难度击杀烈焰使者于战火平原。
 
-ach024Title=屠杀格特沃姆 Gutting Gutworm
-ach024Desc=击杀在走私者盆地的格特沃姆。
+ach024Title=击杀格特沃姆
+ach024Desc=击杀格特沃姆于走私者盆地。
 
-ach025Title=你很有种 You've Got Guts
-ach025Desc=终极难度下击杀在走私者盆地的格特沃姆。
+ach025Title=你很有种
+ach025Desc=在终极难度击杀格特沃姆于走私者盆地。
 
-ach026Title=修补是她的专长 Tinkering is Her Specialty
-ach026Desc=在伯尔维治解救达莱特。
+ach026Title=修补是她的专长
+ach026Desc=解救达莱特于伯尔维治庄园。
 
-ach027Title=以曼海尔的锤骨之名 By the Malleum Menhir
+ach027Title=以曼海尔的锤骨之名
 ach027Desc=争取到铁匠的帮助。
 
-ach028Title=汤没你的份儿 No Soup for You
-ach028Desc=在伯尔维治郊外解救艾格瑞姆。
+ach028Title=没汤给你
+ach028Desc=解救奥格瑞姆于伯尔维治郊外。
 
-ach029Title=学徒级工匠 Apprentice Crafter
-ach029Desc=制作 10 物品。
+ach029Title=学徒级工匠
+ach029Desc=制作 10 件物品。
 
-ach030Title=专家级工匠 Expert Crafter
-ach030Desc=制作 100 物品。
+ach030Title=专家级工匠
+ach030Desc=制作 100 件物品。
 
-ach031Title=大师级工匠 Master Crafter
-ach031Desc=制作 1000 物品。
+ach031Title=大师级工匠
+ach031Desc=制作 1000 件物品。
 
-ach032Title=古代遗物 Relics from the Past
+ach032Title=古老遗物
 ach032Desc=合成一个遗物。
 
-ach033Title=卓越之能 Transcendent Power
+ach033Title=卓越之能
 ach033Desc=合成一个卓越遗物。
 
-ach034Title=神话之能 Mythic Power
+ach034Title=神话之能
 ach034Desc=合成一个神话遗物。
 
-ach035Title=Junior Explorer
-ach035Desc=打开10个一次性箱子。
+ach035Title=新手试炼
+ach035Desc=打开 10 个一次性箱子。
 
-ach036Title=To the Explorer Go the Spoils
-ach036Desc=Open 20 One-Shot Chests.
+ach036Title=战利品管理者
+ach036Desc=打开 20 个一次性箱子。
 
-ach037Title=追寻星辰 Seeking the Stars
-ach037Desc=Restore 10 Devotion Shrines.
+ach037Title=探索之星
+ach037Desc=修复 10 个虔诚祭坛。
 
-ach038Title=True Devotion
-ach038Desc=Restore 50 Devotion Shrines.
+ach038Title=真正虔诚者
+ach038Desc=修复 50 个虔诚祭坛。
 
-ach039Title=幸存者 Survivor
-ach039Desc=升至10级。
+ach039Title=幸存者
+ach039Desc=达到等级 10 。
 
-ach040Title=勇士 Champion
-ach040Desc=升至35级。
+ach040Title=勇士
+ach040Desc=达到等级 35 。
 
-ach041Title=英雄 Hero
-ach041Desc=升至50级。
+ach041Title=英雄
+ach041Desc=达到等级 50 。
 
-ach042Title=传奇 Legend
-ach042Desc=升至85级。
+ach042Title=传奇人物
+ach042Desc=达到等级 85 。
 
-ach043Title=不朽传奇 Immortal Legend
-ach043Desc=专家模式升至85级。
+ach043Title=不朽的传奇人物
+ach043Desc=达到等级 85 于专家模式。
 
-ach044Title=救世主 Savior of Cairn
-ach044Desc=极限难度通关游戏。
+ach044Title=凯恩世界的救星
+ach044Desc=游戏的终极难度通关。
 
-ach045Title=不朽幸存者 Immortal Savior
-ach045Desc=极限难度硬核模式通关游戏。
+ach045Title=不朽的救世主
+ach045Desc=游戏的终极难度以专家模式通关。
 
-ach046Title=艰难决断 Difficult Decisions
-ach046Desc=Resolve the situation in New Harbor without resorting to violence.
+ach046Title=问题专家
+ach046Desc=解决新港的问题而不是诉诸武力。
 
-ach047Title=一视同仁 No Exceptions
-ach047Desc=击杀Anasteria.
+ach047Title=一视同仁
+ach047Desc=击杀安娜斯特莉娅。
 
-ach048Title=我没有想到会是你，人类 I Was Not Expecting You, Human
-ach048Desc=在老兵模式用低于11级的角色击杀典狱长克里格。
+ach048Title=我没想到会是你，人类
+ach048Desc=在老兵难度用低于 11 级的人物击杀典狱长克里格。
 
-ach049Title=保卫伯尔维治 Securing 伯尔维治
-ach049Desc=在老兵模式保卫伯尔维治传送门。
+ach049Title=保卫伯尔维治
+ach049Desc=保卫伯尔维治传送门于老兵难度。
 
-ach050Title=藏匿于洪水通道 Hidden in the Flooded Passage
-ach050Desc=找出洪水通道的倒塌岩石后藏匿着什么。
+ach050Title=藏匿于浸没通道
+ach050Desc=探索浸没通道的倒塌岩石后面藏匿着什么。
 
 ach051Title=克隆利的秘密
-ach051Desc=掩饰德莱厄斯·克隆利的秘密。
+ach051Desc=揭开德莱厄斯·克隆利的秘密。
 
-ach052Title=隐藏的宝藏 Hidden Wealth
+ach052Title=隐藏的财宝
 ach052Desc=在霍姆斯特德附近的农田里找到埋藏的宝藏。
 
-ach053Title=在深处，他被遗忘般的活着 In the Depths, He Lived Forgotten
-ach053Desc=击杀穴居者，咕噜斯。
+ach053Title=他盘踞在遗忘深渊
+ach053Desc=击杀高鲁斯, 穴居者。
 
-ach054Title=死亡空间 The Death Room
-ach054Desc=Survive the Chamber of Souls.
+ach054Title=死亡空间
+ach054Desc=生存于灵魂居所。
 
-ach055Title=Let Me Gather My Notes
-ach055Desc=Collect 5 Lore Notes
+ach055Title=让我收集我的笔记
+ach055Desc=收集 5 学识笔记
 
-ach056Title=笔记收集者 Note Collector
-ach056Desc=Collect 20 Lore Notes
+ach056Title=笔记收藏家
+ach056Desc=收集 20 学识笔记
 
-ach057Title=Lorekeeper
-ach057Desc=Collect 50 Lore Notes
+ach057Title=博学者
+ach057Desc=收集 50 学识笔记
 
-ach058Title=The Fields of Despair
-ach058Desc=Survive the Fields of Despair.
+ach058Title=绝望之地
+ach058Desc=生存于绝望之地。
 
-ach059Title=天神梦魇 Celestial Bane
-ach059Desc=Defeat the Avatar of Mogdrogen.
+ach059Title=天神煞星
+ach059Desc=击败莫格卓根的化身。
 
-ach060Title=Shar'Zul Extinguished
-ach060Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos.
+ach060Title=沙'祖尔消灭者
+ach060Desc=击杀沙'祖尔, 混沌使者于混沌堡垒。
 
-ach061Title=征服要塞 The Bastion Conquered
-ach061Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos on Ultimate Difficulty.
+ach061Title=攻克堡垒
+ach061Desc=在终极难度击杀沙'祖尔, 混沌使者于混沌堡垒。
 
-ach062Title=不朽的混沌征服者 Immortal Conqueror of Chaos
-ach062Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos in Hardcore Mode.
+ach062Title=不朽的堡垒征服者
+ach062Desc=在专家模式击杀沙'祖尔, 混沌使者于混沌堡垒。
 
-ach063Title=教团勇士 The Order's Champion
-ach063Desc=Slay Archon Barthollem in the name of the Order of Death's Vigil on Ultimate Difficulty.
+ach063Title=教团勇士
+ach063Desc=在终极难度以死亡守夜人教团身份击杀执政官巴托雷姆。
 
-ach064Title=凯蒙神选之人 The Chosen of Kymon
-ach064Desc=Slay Malkadarr in the name of Kymon's Chosen on Ultimate Difficulty.
+ach064Title=神选勇士
+ach064Desc=在终极难度以凯蒙神选战士身份击杀马卡达尔。
 
-ach065Title=Cleansing the Immolation
-ach065Desc=Slay the Herald of Destruction in the Immolation.
+ach065Title=净化献祭
+ach065Desc=击杀毁灭使者于献祭之地。
 
-ach066Title=Grounding the Herald
-ach066Desc=Slay the Herald of Destruction in the Immolation on Ultimate Difficulty.
+ach066Title=禁地使者
+ach066Desc=在终极难度击杀毁灭使者于献祭之地。
 
-ach067Title=Defender of Cairn
-ach067Desc=Complete the Game.
+ach067Title=凯恩世界的卫士
+ach067Desc=通关游戏。
 
-ach068Title=Champion of Cairn
-ach068Desc=Complete the Game on Elite Difficulty.
+ach068Title=凯恩世界的勇士
+ach068Desc=以精英难度通关游戏。

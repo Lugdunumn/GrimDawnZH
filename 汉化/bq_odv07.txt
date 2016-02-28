@@ -1,15 +1,19 @@
 赏金任务
-赏金：破盾者
+赏金: 霍瓦德
 赏金
-The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, 破盾者霍瓦德, has been spotted at 哈伦堡. Make an example of him.{^n}{^n}Our material stores are at the disposal of the champion that ends his life.
+凯蒙神选战士是盲目且愚蠢的人，但即使是蠢货，有了锋利的刀剑和火焰的武装，仍然会变得极具危险性。霍瓦德，我们发现她在哈伦堡，给她一个教训吧。{^n}{^n}杀了她的勇士会得到材料作为奖励。
 
 
 
-杀了破盾者 霍瓦德
+杀死霍瓦德
 
-回报任务
-你已经完成了死亡守夜人教团的任务，你应该回到赏金桌领取奖赏。
-返回死亡守夜人教团的赏金桌
+完成任务
+你已经完成死亡守夜人教团的任务，应该返回赏金桌领取报酬。
+返回死亡守夜人教团赏金桌
+
+
+
+
 
 
 

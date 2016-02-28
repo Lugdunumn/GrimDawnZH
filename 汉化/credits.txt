@@ -8,7 +8,8 @@
 
 <h2>美术
 <h5>Ben Soderstrom - 首席美术师
-<h5>Jim Dobbler - 美术师
+<h5>Scott Duquette - Senior Artist
+<h5>Jim Dobbler - Artist
 
 <h2>动画
 <h5>Christophe Marchal - 高级动画师
@@ -18,14 +19,14 @@
 <h5>Kamil Marczewski - 设计师
 <h5>Eric Sexton - 设计师
 
-<h1>SkewSound公司团队
+<h1>SkewSound
 
-<h5>Dan Crislip - 首席音效师
-<h5>Steve Pardo - 首席作曲 
-<h5>Christopher Wilson - 声效师
-<h5>Nicholas Kallman - 声效师
+<h5>Dan Crislip - Audio Lead
+<h5>Steve Pardo - Lead Composer
+<h5>Christopher Wilson - Sound Designer 
+<h5>Nicholas Kallman - Sound Designer
 
-<h2>配音演员
+<h2>Voice Talent
 <h5>Kent Clark
 <h5>Gary Craig
 <h5>Mark Dodson
@@ -57,11 +58,11 @@
 <h5>Tom Lewis
 <h5>Kelly Aleshire
 <h5>Ian Wells
+<h5>Matthew Ball
+<h5>Angela Nerell
 <h5>Tim Croteau
 <h5>Tom Lennon
 <h5>Lee Smith
-<h5>Matthew Ball
-<h5>Angela Nerell
 
 <h1>游戏测试者
 
@@ -85,9 +86,9 @@
 <h1>特别鸣谢：官网社区的翻译者们
 
 <h2>保加利亚语
-<h2>Адмирал АнимЕ
+<h5>Адмирал АнимЕ
 
-<h2>中文
+<h2>中国语
 <h5>EsclaveDuReve(zyhmuyu)
 <h5>gpqkevin
 <h5>Otic(琉璃mk2)
@@ -102,12 +103,12 @@
 <h2>荷兰语
 <h5>Sjoerd "fishbone" Groen
 
-<h2>法语
+<h2>法国语
 <h5>Alexandre "all_zebest" Mangin
 <h5>Philippe "pendragon64" Reybaud
 <h5>Yann "Rougecorne" Verryken
 
-<h2>德语
+<h2>德国语
 <h5>FOE
 <h5>Firewind
 <h5>Skyhaster
@@ -115,7 +116,7 @@
 <h2>希腊语
 <h5>randomspawn
 
-<h2>日语
+<h2>日本语
 <h5>"Matougi The BlueBamboo"
 
 <h2>葡萄牙语
@@ -123,7 +124,7 @@
 <h5>Tyzual
 <h5>Tigre
 
-<h2>俄语
+<h2>俄国语
 <h5>Andrey "@lk0z@uru$" Chertkov
 <h5>Denis "mad_enis" Maslov
 <h5>Usov Aleksey
@@ -138,7 +139,7 @@
 <h5>Jose “kajoona” López
 <h5>Marcos “Ldtime” Ares
 
-<h3>Kickstarter "Boss" 级支持者：
+<h3>Kickstarter "Boss" Tier
 
 <h5>Douglas "Money Bags" Martin Jr.
 <h5>Robert D. Fergusson

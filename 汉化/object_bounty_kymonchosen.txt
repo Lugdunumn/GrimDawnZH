@@ -1,25 +1,25 @@
-凯蒙的神选战士赏金任务
-The Chosen do not wish to entrust their tasks to someone who has allies among the Order of Death's Vigil.
+凯蒙神选战士赏金任务
+凯蒙的神选战士们不想委托任务给死亡守夜人教团的盟友。
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
 你成功地归来，完成了一项赏金任务。
-回报任务。
+完成任务。
 
 离开赏金桌。
-你已经在执行一项凯蒙的神选战士的赏金任务了。
+你已经在执行一项凯蒙神选战士的赏金任务了。
 离开赏金桌。
-Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
-看一眼赏金任务。
-You have fulfilled all of Father Kymon's decrees for this session.
+圣父凯蒙召唤他的忠诚追随者去行动。{^n}{^n}你会站出来，执行神圣的旨意吗？
+查看当前未接的赏金任务。
+你已经查看或完成了此次凯蒙神选战士给你布置的所有赏金任务。
 离开赏金桌。
-看一眼赏金任务。
+查看当前未接的赏金任务。
 
 
 
@@ -41,108 +41,108 @@ You have fulfilled all of Father Kymon's decrees for this session.
 
 
 离开赏金桌。
-In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as 巨胃拉格·纳达.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter 灰烬废土 through a rift in 血森林 and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+在预言中，圣父凯蒙见证了我们的世界在冥神和它的使徒们践踏下毁灭。带领着先锋们的是名为拉格'纳达, 巨胃的吞噬者。{^n}{^n}这个预言绝不能成为现实。那个吞噬者必须被消灭。从血森林里的裂隙进入灰烬废墟并处决那个恶魔。{^n}{^n}圣父凯蒙会给予他忠诚的仆人一些铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Chthonian Gorgers have been seen rampaging through the 血森林, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Travel with Kymon's blessing, brave Chosen.
+冥灵饱食者被发现在血森林中发狂，不断吞噬不管死活的东西然后吐出血肉块组成的恐怖残骸。{^n}{^n}他们如此的令人深恶痛绝所以必须被消灭。圣父凯蒙会乐意看到的。{^n}{^n}协助此事的人会得到铁币作为回报。愿凯蒙的祝福与你同在，英勇的神选战士。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
+死亡守夜人教团在他们所追求的亵渎魔法中走的太远了。他们的恐惧领主玩弄死亡就好像死亡只是个玩物，如同虚灵一般操纵着死者。{^n}{^n}这将是不能被容忍的。我们要杀鸡儆猴。{^n}{^n}任何愿意放倒这个可怕的敌人的人将会得到铁币作为公正的回报。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Black Sepulcher in the 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+传说食尸鬼曾是人类。被疯狂和痴迷所扭曲的人类吞食已死之人的血肉。{^n}{^n}现在他们和愚蠢的恶魔毫无区别，这类令人厌恶的生物不值得怜悯或同情。墓地的黑冢里充斥着这种食尸鬼。如果要净化凯恩，那么他们必须被消灭。{^n}{^n}任何协助者将会得到铁币作为奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Reports have come in from the frontlines that a necromancer scum by the name Ravok has been desecrating our dead and using them to bolster her reinforcements在哈伦堡.{^n}{^n}This is a despicable display of indecency in war and a complete lack of respect to the fallen. The Chosen will not stand idly by as our dead are desecrated before our eyes. This Master Ravok is to be made an example of.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+从前线传来报告，一个名叫拉沃克的亡灵败类已经亵渎了死尸，并用它们来实施她的增援哈伦堡计划。{^n}{^n}这在战争中是一种卑鄙炫耀的下流行为并且对逝者完全不尊敬。神选战士不会袖手旁观让战友们的尸体在眼前被亵渎。这次就拿大师拉沃克开刀。{^n}{^n}任何愿意接手这个关键任务的人将会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Cult of Ch'thon has twisted many individuals under their bloodstained banner. Their promises of a Cairn restored resonate with many, from the lowest beggar to the most esteemed of nobles.{^n}{^n}Father Kymon once knew a man named Salazar from the high court in Erulan. This same man turned out to be a traitor to humanity as he now serves the Dead God in the Burrwitch Outskirts. Father Kymon has decreed that Salazar's depravity is to end.Anyone willing to take on this critical task will be rewarded with materials from our stores.
+崇拜冥神的邪教已经扭曲了许多人至他们血污的旗帜之下。他们承诺共同恢复凯恩世界，无论是最低等的乞丐还是最受尊敬的贵族。{^n}{^n}圣父凯蒙曾经从伊露兰高等法院知道了一个名为萨拉查的男人。这个男人变成了人类的叛徒，现在侍奉死神于伯尔维治郊区。圣父凯蒙宣布萨拉查的堕落之路到头了。任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. His name is 骸骨之语 霍威尔. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+死亡守夜人教团是一个狡猾的组织主张控制死者，但是就算如此他们也要屈服于最终的命运。{^n}{^n}我们在哈伦堡附近发现一个教团高层。他的名字是霍威尔。圣父已经宣布了他的死亡。{^n}{^n}任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈伦堡. Her name is 剧毒之舌 依格尼亚. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+死亡守夜人教团是一个狡猾的组织主张控制死者，但是就算如此他们也要屈服于最终的命运。{^n}{^n}我们在哈伦堡附近发现一个教团高层。她的名字是依格尼亚。圣父已经宣布了她的死亡。{^n}{^n}任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}In the 血森林, through a rift torn between our world and theirs, there is a plane of existence we call the Ashen Waste. There dwells a cruel creature by the name 沃姆·祖尔. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
+神选战士们走向未知的战场，用火焰去净化那里。这就是我们的使命与目的。{^n}{^n}在血森林中，穿过阴阳两界间的裂隙，有个我们称为灰烬废墟的区域存在。那里盘踞着一个叫沃姆'祖尔的残忍生物。它是火焰和硫磺组成的野兽，一个至高神圣火下的笑话。遵循凯蒙的意志它必须死。{^n}{^n}任何愿意接受这个关键任务的人都会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The accursed Ch'thon has many loyal followers, but none as reviled as his Chosen. The Chosen of Ch'thon willingly give their bodies to the void, allowing its most powerful fiends to cross over into Cairn without the use of a riftgate.{^n}{^n}One such Chosen, by the name Thullon, has been spotted making the rounds at the Cult's camps in the Blood Grove. This is an opportunity, brothers and sisters. One that we cannot miss.{^n}{^n}Thullon's elimination will be amply rewarded with materials from our stores.
+可恶的冥神有许多忠诚的追随者，但没有人能动摇冥神选诏的战士。冥神选诏的战士愿意将自己的身体献于虚空，让强大的恶魔降临到凯恩世界而不用通过裂隙传送门。{^n}{^n}一名选诏的战士名字叫特伦，被发现在血森林的邪教徒营地中巡游。这是个机会，兄弟姐妹们。一个不能错过的机会。{^n}{^n}消灭特伦的人将会得到充足的物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Abathis, has been wandering the Black Sepulcher in the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Abathis' elimination will be amply rewarded with materials from our stores.
+食尸鬼是一种卑鄙且可恶的家伙。躲在暗处的弱者，隐藏在墓穴里寻找着它们的下一餐食物。{^n}{^n}但这是一种可以将恐惧植入人们内心的强大食尸鬼。它们不惧阳光，不惧火焰。它们是我们必须消灭的梦魇。{^n}{^n}有一个这种食尸鬼，我们称其为阿巴西斯，它一直徘徊在墓地的黑冢。为了凯恩，它必须被消灭。{^n}{^n}消灭阿巴西斯的人会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in the Gruesome Harvest. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
+通过和教团还有冥神邪教的战斗中，我们不能忘记另一敌人正渴望从人类手中夺取这个世界。{^n}{^n}虚灵向肉体中注入它们的意识，将野兽和人类转换成某种混合生命体。 其中一个这种产物被发现于阴森谷仓。这个他们创造的混元体是对神明的亵渎，必须被消灭。{^n}{^n}任何愿意消灭这个怪物的人将会的到一大笔铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Tavel with Kymon's blessing, brave Chosen.
+混沌堡垒是我们见过的最大的裂隙。每天数不尽数的恶魔从那里进到我们的世界。但是真正恐怖的东西正呆在要塞里。{^n}{^n}冥灵拆解者就是我们的世界陷入毁灭的预兆。这样一个生物一次就可以砍倒十几个神选战士。这个堡垒就是那些怪物的诞生之地，也将是它们的墓地。{^n}{^n}任何敢于深入堡垒的人都将获得物资作为正义的回报。愿凯蒙的祝福与你同在，英勇的神选战士。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The work of the Chosen is never finished.{^n}{^n}We have made discovery of a ruin out in the Broken Hills known as 苦痛阶梯. It is a cursed place filled with undying abominations.{^n}{^n}On one of the lower levels, there dwells a priest that calls out to false gods. Father Kymon has called upon us to exterminate this sacrilege.{^n}{^n}Anyone willing to act out the Blessed One's orders shall be rewarded with materials from our stores. Travel with Kymon's blessing.
+神选战士们的任务已经接近完成了。{^n}{^n}我们已经将破碎丘陵内的一个名为苦痛阶梯的废墟探索完毕了。那里是一个充满了令人厌恶的不死生物的诅咒之地。{^n}{^n}在阶梯深处盘踞着一个与伪神对话的牧师。圣父凯蒙招唤我们去消灭这个亵渎者。{^n}{^n}任何愿意去执行神佑圣父的命令的人会得到物资作为奖赏。愿凯蒙的祝福与你同在。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+冥神的邪教实用奇怪的魔印来施展召唤仪式。{^n}{^n}我们必须销毁他们的物资。从被消灭的邪教成员手中得到的魔印应被送至这里并被焚烧。{^n}{^n}作为忠诚服务的回报，圣父凯蒙将会给予一袋铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near the village of Darkvale.{^n}{^n}It is Kymon's will that they be eliminated. Their deaths will be rewarded with materials from our stores. Go forth with Kymon's Blessing, brave Chosen.
+邪教在黑谷的行为已经超出我们的控制了。是时候对他们的"蛇头"进行突击，准确的来说是两个。{^n}{^n}两个主要邪教成员——伯瓦尔和扎里亚，被目击在黑谷村附近的血森林内。{^n}{^n}将它们消灭是圣父凯蒙的意愿。消灭他们的人将会得到物资作为奖赏。愿凯蒙的祝福与你同在，英勇的神选战士。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-One of the Cult's most prominent leaders has revealed himself at 古代墓地.{^n}{^n}It is an opportunity, my brothers and sisters, to finally land a crippling blow to the Cult of Ch'thon. Travel to 古代墓地 and end the life of 血领主 泰隆尼斯. By Kymon's will!{^n}{^n}Anyone willing to take on this traitor to humanity shall be rewarded with materials from our stores.
+邪教中最顶级的领导者被透露正在墓地之中。{^n}{^n}这是一个机会，我的兄弟姐妹们，给予冥神邪教沉重的一击。去往墓地并结束血领主泰隆尼斯的生命。以凯蒙的意愿！{^n}{^n}任何消灭这个人类叛徒的人将会得到物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
+死亡守夜人教团以邪恶的法术挤满了执政官巴托雷姆的坟墓，就在圣像堡的边上。他们被一个叫马卡达尔的恶毒之人所带领。{^n}{^n}圣父凯蒙希望那个地方得到净化，就从他们的领导开始。{^n}{^n}在你成功之后我们会给你我们最宝贵的珍藏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The region is overrun with chthonic spawn, thanks largely to the efforts of traitors such as 鲜血私语者 卢蒂雅.{^n}{^n}Ludia has been performing vile blood rituals in Darkvale, sacrificing her fellow men to the Void. She must be killed.{^n}{^n}Anyone willing to take on this heathen will be justly rewarded with iron bits.
+拜卢蒂雅这个叛徒所赐，黑谷被大量的冥灵所蹂躏。{^n}{^n}卢蒂雅已经在黑谷施展了卑鄙的血魔法，将部下献祭进入虚空。她必须死。{^n}{^n}任何愿意消灭这个异教徒的人将会得到物资作为公正的奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
+黑暗的时代临近了。世界已经变成了废墟并将由我们来修复。{^n}{^n}潜在的新事物总会代替旧的。 圣父凯蒙希望挖掘这个潜力。{^n}{^n}问一下铁匠知道什么古老的方法。让他们为我们制造一个毁灭遗物。{^n}{^n}圣父凯蒙收集了些冥神之血作为补偿；拿去做研究还是销毁都将随你所愿。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
+圣父凯蒙召唤他的忠诚追随者去行动。{^n}{^n}你会站出来，执行神圣的旨意吗？
 
 离开赏金桌。
-Father Kymon does not yet trust you to carry out his will.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+圣父凯蒙还不相信你能完成他的意愿。{^n}{^n}需要声望达到尊重来领取赏金任务。
 离开赏金桌。

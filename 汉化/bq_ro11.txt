@@ -1,15 +1,17 @@
 赏金任务
-赏金：灾疫之羽 雷克希纳
+赏金: 雷克希纳
 赏金
-A vile harpy by the name 灾疫之羽 雷克希纳 has been sighted in the skies over 破碎丘陵. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
+一个名为雷克希纳的邪恶鹰身女妖被发现于破碎丘陵的天空。数位流浪者们已经在触碰到它的羽毛后生病了。{^n}{^n}雷克希纳看上去像是携带了某种对鹰身女妖免疫的疾病，但是对人类具有极高的至死率。它必须被消灭。{^n}{^n}我们将会给予完成任务的人物资作为奖励。
 
 
 
-杀了灾疫之羽 雷克希纳
+杀死雷克希纳
 
-回报任务
-你已经完成了任务，你该返回赏金桌领取奖赏。
+完成任务
+你已经完成流浪者的任务，应该返回赏金桌领取报酬。
 返回流浪者赏金桌
+
+
 
 
 

@@ -1,15 +1,17 @@
 赏金任务
-赏金：干枯的阿拔西斯
+赏金: 阿巴西斯
 赏金
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Abathis, has been wandering 古代墓地中的黑墓穴. For the sake of Cairn herself, it must be slain.{^n}{^n}Abathis' elimination will be amply rewarded with materials from our stores.
+食尸鬼是一种卑鄙且可恶的家伙。躲在暗处的弱者，隐藏在墓穴里寻找着它们的下一餐食物。{^n}{^n}但这是一种可以将恐惧打入人们内心的强大食尸鬼。它们不怕阳光，不惧火焰。它们是我们必须消灭的梦魇。{^n}{^n}有一个名叫阿巴西斯的食尸鬼，正在墓地周围游荡着。为了凯恩，它必须被消灭。{^n}{^n}消灭阿巴西斯的人会得到物资作为奖赏。
 
 
 
-杀了干枯的阿拔西斯
+杀死阿巴西斯
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
-Return to the Kymon's Chosen Bounty Table
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
+
+
 
 
 

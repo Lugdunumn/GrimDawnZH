@@ -1,15 +1,18 @@
 赏金任务
-赏金：削弱邪教徒
+赏金: 削弱邪教徒
 赏金
-The Cult's activites in 黑谷 are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near 黑谷村.{^n}{^n}It is Kymon's will that they be eliminated. Their deaths will be rewarded with materials from our stores. Go forth with Kymon's Blessing, brave Chosen.
+邪教在黑谷的行为已经超出我们的控制了。是时候对他们的"蛇头"进行突击，准确的来说是两个。{^n}{^n}两个主要邪教成员——伯瓦尔和扎里亚，被目击在黑谷村附近的血森林内。{^n}{^n}将它们消灭是圣父凯蒙的意愿。消灭他们的人将会得到物资作为奖赏。愿凯蒙的祝福与你同在，英勇的神选战士。
 
-杀了血之羁绊 伯瓦尔
-杀了屠刀 扎里亚
+杀死伯瓦尔
+杀死扎里亚
 
-回报任务
-You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
+完成任务
+你完成了凯蒙神选战士的任务，应该返回赏金桌领取报酬。
+返回凯蒙神选战士赏金桌
 
-Return to the Kymon's Chosen Bounty Table
+
+
+
 
 
 

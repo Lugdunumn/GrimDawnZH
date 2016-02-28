@@ -1,19 +1,19 @@
-Faldis
-We're all going to die out here.
-Help is on the way.
-We're all going to die out here.
-Calm down, where are you from?
-I was staying with a group of survivors down in Devil's Crossing, you know...the old prison, but supplies started running low. I volunteered to go scavenging around Lower Crossing. Figured it was safe enough, but I was wrong.{^n}{^n}I got chased in here by a pack of ravenous rift scourges, though I can't hear their maddening skittering anymore. I suppose I have you to thank for that?{^n}{^n}It doesn't matter though. The area is overrun with the dead. We won't make it five feet without getting surrounded.
-The way back should be clear now.
-I'm not going back out there again.{^n}{^n}The dead will find us and tear us apart.
-Well, I suppose I could open a riftgate.
-Fine, you're on your own.
-I suppose I could open a riftgate.
-A what? Isn't that what those...those things are pouring out of?
-Well, sort of, but mine will take you home.
-I'm having a hard time believing that after what I've seen up in Burrwitch.{^n}{^n}But you don't seem to have the look of a 'Taken' about you. I suppose this is my only option.
-See you back at Devil's Crossing. (Open Riftgate)
-Forget it. Find your own way home.
-Nevermind.
-You're on your own.
-You're on your own.
+法尔迪斯
+我们都会死在这。
+援军已在路上了。
+我们都会死在这。
+冷静，你从哪里来？
+我和一队幸存者一起待在恶魔十字，你知道的...那间古老的监狱，但补给有些不足了。我自发前来清理下游渡口。我以为足够安全了，但我错了。{^n}{^n}我在这里被一群裂隙之灾困住了，尽管我听不到它们那疯狂掠过水面的声音了。我想我必须为此感谢你？{^n}{^n}没事了。这片区域亡灵已经泛滥成灾了。 我们走不出几步就会被包围的。
+回去的道路已经清理好了。
+我再也不会回到那里去了。{^n}{^n}亡灵会找到我们并把我们撕成碎片的。
+好吧，我想我能打开一个传送门。
+好吧，随你的便。
+我想我能打开一个传送门。
+一个什么？这不正是那些... 那些东西倾泻出来的？
+好吧，有点像，但是我会将你送回家。
+在我看到伯尔维治发生的事情后，我度过了一段极其艰难的时期。{^n}{^n}但你看起来并不像个“被占据者”。我想我别无选择。
+恶魔十字见。 (打开传送门)
+别在意。自己回去吧。
+没关系。
+轮到你了。
+轮到你了。

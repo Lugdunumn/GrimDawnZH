@@ -1,15 +1,17 @@
 赏金任务
-赏金：生命吸食者
+赏金: 生命吸食者
 赏金
-We have heard complaints about feverish nightmares of blood and darkness. The last I've heard of such a phenomenon was when a Trog blood mage was performing some ritual deep within the earth.{^n}{^n}Our people have suffered enough. Somebody needs to go into the 山脉深渊 and eliminate the Trog that's causing this. Scavenged materials have been set aside as compensation.
+我们听到了些关于黑暗和血的狂热噩梦的抱怨。我最后听说这种现象一般出现在穴居人血法师在地底深处进行某种仪式之时。{^n}{^n}我们的人已经受够了。我们需要有人进入山脉深渊然后消灭那些致使这些事儿的穴居人。我们将会给你搜集到的物资作为奖赏。
 
 
 
-杀了格鲁克若格
+杀死格鲁克若格(采矿者小径往回走洞内)
 
-回报任务
-你完成了霍姆斯特德的任务，应该回到赏金桌领取奖赏。
+完成任务
+你完成了霍姆斯特德的任务，应该返回赏金桌领取报酬。
 返回霍姆斯特德赏金桌
+
+
 
 
 

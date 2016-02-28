@@ -1,10 +1,10 @@
-Footman
-Don't go in there.{^n}{^n}The Aetherials have torn open a rift. More are pouring through...
-I've secured the courtyard.
-Thank the gods. I thought the Fort was lost.
+仆从
+不要去里面。{^n}{^n}虚灵已经撕开一道裂隙。还有更多的在聚集...
+我已经占领了庭院。
+感谢上帝。我以为城堡会失守。
 
-Farewell.
-Will you be alright?
-Once things calm down, I'm sure someone will come for me.{^n}{^n}Don't worry, the Legion takes care of its own.
-Alright.
-I will handle it.
+告辞。
+你还好吧？
+当一切平静下来，我敢肯定会有人来找我。{^n}{^n}别担心，军团会照料它自己。
+好吧。
+我会处理的。

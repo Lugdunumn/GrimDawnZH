@@ -1,149 +1,149 @@
-Inquisitor Creed
-Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
-I have some questions.
-Yes?
-What about Ulgrim?
-There are arcane ways to track down almost anyone. I'll think of something. Trust me.
-I have another question.
-I see.
-What about the Aetherials?
-They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
-I have another question.
-Farewell.
-The Cult is still out there. Shouldn't we stop them for good?
-Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
-I have another question.
-I see.
-Did you know that Anasteria is an Aetherial?
-I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
-I have another question.
-Makes sense.
-Nevermind.
-Farewell.
-Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
-We'll deal with it, one challenge at a time.
-You've returned. Is it finished then?
-The beast has been banished, but Ulgrim was pulled into the Void along with it.
-And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
-We can't give up on Ulgrim.
-At last...a reprieve.
-I've heard about what you've done to Anasteria.{^n}{^n}You brash actions have cost us a valuable resource.
-She was an Aetherial witch!
-Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}Anasteria saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
-I had no idea.
-Perhaps you should have considered that before acting.
-I'm sorry.
-I stand by what I did.
-She was still a risk.
-I did what you refused to.
-Is there something you need?
-We could use you out there.
-Perhaps so, but someone has to coordinate our forces, and Fort Ikon is still exposed.
-Fair enough.
+审判官 克里德
+你可以离开并且休息一下。如果可以的话，小小的庆祝一下吧。你值得获得这些。
+我有一些问题。
+什么？
+你准备怎么找到奥格瑞姆？
+有一种神秘的方式几乎可以追踪到任何人。我会尝试用这种方式，请相信我。
+我还有另一个问题。
+我明白了。
+对于虚灵我们要如何处置？
+它们是有史以来最大的威胁，以至于帝国的大部分地方依然在它们的控制之下。{^n}{^n}我们必须为持久战做好准备。离我们攻破首都还有数年之久，更不用说是将虚灵从凯恩世界驱逐了。
+我还有另一个问题。
+告辞。
+冥神邪教还在逍遥法外。我们不应该一次性把他们全消灭么？
+你在墓地的行为已经严重的打击了他们的工作。{^n}{^n}再过些时候我们再去制裁他们。{^n}{^n}现在我们应该着手于加强我们的防御工事。
+我还有另一个问题。
+我明白了。
+你知道安娜斯特莉娅是个虚灵么？
+我怀疑过，但是……她将我们都置于一个难堪的境地。{^n}{^n}我不能说我完全相信她所说的话，但是她在对抗她的同伴的战斗中起了十分重要的作用，起码最近她的信息开始变得不太准确。{^n}{^n}我怀疑虚灵已经察觉了她的行为，并且为了不让她透露消息而调整了计划。{^n}{^n}不过，她的知识依然拯救了无数人的生命，而且她对虚灵的了解超过所有人。仅凭这一点她依然是有用的。
+我还有另一个问题。
+合情合理。
+算了。
+告辞。
+即便在这儿，我们最后的据点，我们的敌人依然找到了引发浩劫的办法。{^n}{^n}尽管如此，我们必须团结起来，面对完全的毁灭。
+我会第一时间去处理它的。
+你回来了，处理完了么？
+巨兽已经被驱逐，但奥格瑞姆与它一起坠入了虚空。
+我们伟大的胜利已经伴随着悲痛来临了。{^n}{^n}邪教在墓地的失败标志着这场战争中人类的第一次重大胜利，证明了我们不会放弃抵抗任由冥灵与虚灵毁灭我们。这场胜利的传说将会散播出去，并给与人们终将战胜这场噩梦的希望。{^n}{^n}然而我们不能忘记那些自我牺牲并带来胜利的人。曾被我们民族嘲讽为罪犯、放逐者和背叛者的男人女人拿起武器加入黑色军团保卫着伊露兰帝国。面对死亡，他们证明了自己并不是那类人。他们像英雄一般战死。{^n}{^n}但是我暂时还不想把奥格瑞姆列入死亡名单，我欠他的太多了。{^n}{^n}我需要你的帮助，你愿意吗？
+我们不能放弃寻找奥格瑞姆。
+最后...一个机会。
+我听说你杀了安娜斯特莉娅。{^n}{^n}你轻率的行动已经浪费了我们一个宝贵的资源。
+她是个虚灵女巫！
+话虽如此，但她曾一直帮助我们。{^n}{^n}她提供的信息帮助我们躲过了虚灵的致命攻击敌人花了数月才搞清楚到底哪里出了问题{^n}{^n}安娜斯特莉娅拯救了难以计数的生命，甚至亲自阻止敌人。而我们却恩将仇报。
+我不知道。
+也许你应当在出手前多想想。
+我很抱歉。
+我坚持我是对的。
+她依然是个威胁。
+我做了你不愿去做的。
+你有什么需要吗？
+我们需要你的帮助。
+也许如此，但是我们需要有人协助我们的部队，何况圣像堡依然暴露在敌人的攻击下。
+很公平。
 
-Farewell.
-What are you still doing here? Ulgrim needs you at the Necropolis!
+告辞。
+你还在这里做什么？奥格瑞姆在墓地等着你呢！
 
-I'll head there now.
-Have you secured the riftgate?
-Where is the Necropolis?
-Take the front gates out of Fort Ikon and make your way across the Plains of Strife. The gates to the Necropolis are not far beyond.{^n}{^n}Once there, find a riftgate and secure it so that our troops can advance on the cult.
-Thank you.
-I have some questions.
-Yes?
-Who is Anasteria?
-Anasteria? Why do you ask...
-Captain Reave mentioned her.
-Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}In spite of whatever Reave has told you to do, Anasteria is not to be harmed.
-I have another question.
-Very well.
-I heard her name come up.
-Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
-I have another question.
-I see.
-I have another question.
-Forget it.
-What do we know about the Loghorrean?
-Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
-I have another question.
-I need to get back out there.
-What can you tell me about the Necropolis?
-The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
-I have another question.
-I need to get back out there.
-Did you know that Anasteria is an Aetherial?
-I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
-I have another question.
-Nevermind.
-I will take care of it.
-Good work handling Lucius, but the Necropolis still awaits.
-Where do you need me?
-We cannot simply march our forces straight into the Necropolis. The cult's minions will descend upon us in force and we will be crushed before we even get near the Tomb of the Watchers.{^n}{^n}Instead, we will put your unique skills to use. Make your way into the Necropolis, past the Plains of Strife, and secure the nearest riftgate.{^n}{^n}Once you've done so, Ulgrim will come through with a contingent of our men. With the element of surprise on our side, we will strike at the enemy from within.
-I will head to the Necropolis at once.
-I need some time to prepare.
-I've already secured the riftgate.
-Quick thinking. I will have a contingent of troops sent there immediately.{^n}{^n}Head back out there and speak with Ulgrim. He will debrief you on what needs to be done next.
-I will meet them there.
-I have some questions.
-Make it quick.
-Who is Anasteria?
-Anasteria? Why do you ask...
-Captain Reave mentioned her.
-Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}Ignore whatever Reave has told you to do, Anasteria is not to be harmed.
-Alright. What did you need me to do?
+我这就去那里。
+你清理完传送门周边了吗？
+墓地在哪儿？
+从圣像堡前门出去径直穿过纷争平原。墓地大门就在前面不远处。{^n}{^n}一旦到达那里，找到一个裂隙并清理周边的敌人这样我们的部队就能突入邪教内部。
+谢谢你。
+我有一些问题。
+什么？
+安娜斯特莉娅是谁？
+安娜斯特莉娅？你在说谁…
+队长 瑞弗提到了她。
+哦，我明白了。{^n}{^n}你所要知道的就是不用理会队长瑞弗所说的，安娜斯特莉娅是一个非常有价值的盟友。她对于虚灵的知识拯救了众多生命。{^n}{^n}无需理会瑞弗要你去干的事，安娜斯特莉娅并没有恶意。
+我还有另一个问题。
+很好。
+我是听说了她的名字才来的。
+安娜斯特莉娅为我们提供了关于虚灵宝贵的见解。{^n}{^n}不管你从队长那儿听到了什么，她只是个无害的盟友。
+我还有另一个问题。
+我明白了。
+我还有另一个问题。
+算了。
+关于罗霍里恩你知道什么？
+不幸的是并不多。我们只知道罗霍里恩曾被召唤到凯恩世界，据推测是因大屠杀所导致墓地的建设。{^n}{^n}如果我能进入伊露兰帝国的档案管理室，那么我们可能就能知道更多。
+我还有另一个问题。
+我要回到外面了。
+关于墓地你能告诉我些什么？
+墓地是因伊露兰帝国和凯恩世界中的西方国家产生冲突后建立的。圣像之战——伊露兰帝国最终获胜并征服今天我们所站的这片大陆——是一件残酷的事情，花费了成千上万的生命。{^n}{^n}据说那时死去英雄被埋葬于墓地，这是建立在荣誉的胜利。{^n}{^n}虽然现在看来，墓地之中有不可告人的目的。
+我还有另一个问题。
+我要回到外面了。
+你知道安娜斯特莉娅是个虚灵么？
+我怀疑过，但是……她将我们都置于一个难堪的境地。{^n}{^n}我不能说我完全相信她所说的话，但是她在对抗她的同伴的战斗中起了十分重要的作用，起码最近她的信息开始变得不太准确。{^n}{^n}我怀疑虚灵已经察觉了她的行为，并且为了不让她透露消息而调整了计划。{^n}{^n}不过，她的知识依然拯救了无数人的生命，而且她对虚灵的了解超过所有人。仅凭这一点她依然是有用的。
+我还有另一个问题。
+算了。
+我会注意的。
+处理卢修斯的事情已办好，但墓地仍待处理。
+你需要我做什么？
+我们不能就这样将军队派往墓地。邪教爪牙会突然袭击我们的部队，而我们的部队可能连守望者之墓的门都进不去。{^n}{^n}另外，我们需要用到你独一无二的能力。穿过纷争平原并想办法进入墓地，清理裂隙附近的地方。{^n}{^n}一旦你完成这些，奥格瑞姆将会带领我们的部队降临于那里。我们将会给敌人带去一个惊喜。
+我立刻就去墓地。
+我需要些时间去准备
+我已经清理完传送门周边了。
+动作真快。我立刻派部队前往。{^n}{^n}回去告诉奥格瑞姆。他会告诉你下一步该干什么。
+我会在那里与他们汇合的。
+我有一些问题。
+行动要快！
+安娜斯特莉娅是谁？
+安娜斯特莉娅？你在说谁…
+队长 瑞弗提到了她
+哦，我明白了。{^n}{^n}你所要知道的就是不用理会队长瑞弗所说的，安娜斯特莉娅是一个非常有价值的盟友。她对于虚灵的知识拯救了众多生命。{^n}{^n}无需理会瑞弗要你去干的事，安娜斯特莉娅并没有恶意。
+好的。你需要我做什么？
 
-I have another question.
-Very well.
-I heard her name come up.
-Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
-Alright. What did you need me to do?
+我还有另一个问题。
+很好。
+我是听说了她的名字才来的。
+安娜斯特莉娅为我们提供了关于虚灵宝贵的见解{^n}{^n}不管你从队长那儿听到了什么，她只是个无害的盟友。
+好的。你需要我做什么？
 
-I have another question.
-I see.
-Forget it. What did you need me to do?
+我还有另一个问题。
+我明白了。
+算了，你需要我做什么？
 
-I have another question.
-I see.
-What do we know about the Loghorrean?
-Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
-What did you need me to do?
+我还有另一个问题。
+我明白了。
+关于罗霍里恩你知道什么？
+不幸的是并不多。我们只知道罗霍里恩曾被召唤到凯恩世界，据推测是因大屠杀所导致墓地的建设。{^n}{^n}如果我能进入伊露兰帝国的档案管理室，那么我们可能就能知道更多。
+你需要我做什么？
 
-I have another question.
-I'll be back soon.
-What can you tell me about the Necropolis?
-The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
-What did you need me to do?
+我还有另一个问题。
+我很快就回来。
+关于墓地你能告诉我些什么？
+墓地构建于伊露兰与西方国家卡瑞尼亚发生巨大冲突时期。圣像之战，伊露兰最终赢得了胜利，我们今天站在的土地曾是一个残酷的战场，夺去过数千人的生命。{^n}{^n}当时墓地被说成是埋葬阵亡的英雄，用以纪念胜利。{^n}{^n}不过现在看来，建墓地另有一个不可告人的目的。
+你需要我做什么？
 
-I have another question.
-I'll be back soon.
-Did you know that Anasteria is an Aetherial?
-I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
-What did you need me to do?
+我还有另一个问题。
+我很快就回来。
+你知道安娜斯特莉娅是个虚灵么？
+我怀疑过，但是……她将我们都置于一个难堪的境地。{^n}{^n}我不能说我完全相信她所说的话，但是她在对抗她的同伴的战斗中起了十分重要的作用，起码最近她的信息开始变得不太准确。{^n}{^n}我怀疑虚灵已经察觉了她的行为，并且为了不让她透露消息而调整了计划。{^n}{^n}不过，她的知识依然拯救了无数人的生命，而且她对虚灵的了解超过所有人。仅凭这一点她依然是有用的。
+你需要我做什么？
 
-I have another question.
-I'll be back soon.
-Good work down there.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
-Where do you need me?
+我还有另一个问题。
+我很快就回来。
+干得好。{^n}{^n}我们需要立即在墓地占据一个前沿位置。
+你有什么需要我帮忙吗？
 
-Have you recovered the explosives?
-Where is the armory?
-The armory is on the north side of Fort Ikon. Do not tarry!
-I will head there now.
-Not yet.
-Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials have gotten a hold of the commander.
-He's been possessed?
-Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
-It will be done.
-It will have to wait.
-I've already dealt with Lucius and cleared the gates.
-Good work.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
-Where do you need me?
+你找回炸药了么？
+军械库在哪里？
+军械库在圣像堡的北侧。别耽误时间！
+我立刻就去那里。
+还没。
+背叛者，破坏者，随便你怎么叫他。我们被人从内部攻击了。{^n}{^n}看来虚灵已经彻底控制了指挥官。
+他被占据了？
+非常正确。根据这些报告，指挥官卢修斯已经派遣我们的士兵在无用的任务，缩减了堡垒的防御。后来有一次监视者十分虚弱，他就打开了大门让虚灵纷至沓来。{^n}{^n}但是我们并没有他想的那么愚蠢。军需官埃德里克用炸弹炸毁了大门将敌人的部队切断。当我们前往南方增援的时候，卢修斯这个懦夫就逃进了军械库。在大门被清理干净前，我们都被困在这儿了。我需要你进入军械库并取回遗留在那儿的重型炸弹，燃耗清除瓦砾。只是要小心卢修斯。他褪去了人类外表变成了一种我难以形容的恐怖怪物。你很可能要干掉他才能拿到炸弹。
+我一定完成。
+还需再等等。
+我已经消灭了卢修斯并清理完了大门。
+干得好。{^n}{^n}我们需要立即在墓地清理出一个前线阵地的位置。
+你有什么需要我帮忙吗？
 
-I've already dealt with Lucius.
-Then there is no time to waste. Bring the explosives to the front gates and clear the rubble so that the Legion may advance upon the Necropolis.
-I will do so.
-Good, you've arrived.{^n}{^n}Things here are in worse shape than I thought.
-What happened?
+我已经消灭了卢修斯。
+已经没时间可以浪费了。立刻带炸药前往正门清除那里的瓦砾以便军团向墓地进发。
+我会去这样做的。
+很好，你来了{^n}{^n}这里的情况比我预想的还要糟糕。
+发生了什么？
 
-Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
-We'll deal with it, one challenge at a time.
+即便在这儿，我们最后的据点，我们的敌人依然找到了引发浩劫的办法。{^n}{^n}尽管如此，我们必须团结起来，面对完全的毁灭。
+我会第一时间去处理它的。

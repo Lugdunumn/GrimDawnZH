@@ -1,19 +1,19 @@
 霍姆斯特德赏金任务
-你带回来了所需的材料，完成了一项赏金任务。
-回报任务。
+你带回了所需的材料，完成了一项赏金任务。
+完成任务。
 
 离开赏金桌。
 你成功地归来，完成了一项赏金任务。
-回报任务。
+完成任务。
 
 离开赏金桌。
 你已经在执行一项霍姆斯特德的赏金任务了。
 离开赏金桌。
-Homestead is being assaulted on all fronts.{^n}{^n}Without further assistance, all that they struggled to build could fall apart.
-看一眼赏金任务。
+霍姆斯特德正在遭受各方攻击。{^n}{^n}如果不加强对他们的援助，他们努力建造的一切都会毁于一旦。
+查看当前未接的赏金任务。
 霍姆斯特德已经没有新的赏金任务了。
 离开赏金桌。
-看一眼赏金任务。
+查看当前未接的赏金任务。
 
 
 
@@ -35,108 +35,108 @@ Homestead is being assaulted on all fronts.{^n}{^n}Without further assistance, a
 
 
 离开赏金桌。
-The Aetherials twist all that is good in this world to their twisted designs. We have witnessed first-hand as they turned our scarecrows into possessed monstrosities that hunt our people.{^n}{^n}幽魂收割者 are capable of attracting ravens that are bound to their will, somewhat ironic. We wish these abominations be destroyed and have set aside iron bits to see the task through.
+虚灵扭曲了这个世界所有美好的事物。我们见证了它们把稻草人变成了虚灵附身其中的怪物，以此来猎杀我们的人民。{^n}{^n}有些讽刺的是，这些幽魂收割者可以把乌鸦吸引来并驱使它们。我们希望能摧毁这些可憎的怪物，完成这项任务可以获得铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-革翅目象甲虫 are the immature larval stage of the larger specimens.{^n}{^n}Eliminating them should help thin the adult Dermapteran population. They are not all that dangerous individually but take great care. When swarming, they can prove to be just as deadly as the adults.{^n}{^n}Iron bits have been set aside as compensation for this extermination.
+革翅目象甲虫是那些巨大甲虫的幼虫形态。{^n}{^n}消灭它们应该对于减少革翅目成虫的数量有所帮助。它们落单时没什么威胁，但是要小心，因为一旦它们成群出现，那么久会像成虫一样危险。{^n}{^n}完成这项灭杀害虫的任务将会获得铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Trolls have always been a problem from down south, but we have never encountered anything like the 奇形先锋 that are now storming Homestead.{^n}{^n}They are a serious threat to the safety of this sanctuary and must be eliminated.{^n}{^n}Iron bits to any man or woman that helps protect Homestead.
+南方的巨魔一直以来都是一个麻烦，但我们从来没见过像畸形先锋这样的东西朝着霍姆斯特德蜂拥而至。{^n}{^n}它们对于这个避难所来说是非常严重的威胁，必须要清楚它们。{^n}{^n}任何帮助保护霍姆斯特德的人都会得到铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and Blood Grove and you will be rewarded with iron bits.
+蝎尾狮是一种邪恶的掠食者，你要找到它们的头领。它们会在蝎尾狮寻常的狩猎场地内出没，领导整个族群迁徙到新的地方。{^n}{^n}我们不能让蝎尾狮在霍姆斯特德周围繁衍。去锯齿荒地和血森林除掉蝎尾狮的首领，你就能得到铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-荆棘恐兽 have essentially taken over the lands to the southeast. If we are to ever reclaim the roads leading down to 恶魔十字, then we must start thinning their numbers.{^n}{^n}The 荆棘恐兽 are the breeders in their packs and should be singled out.{^n}{^n}A pouch of iron bits has been set aside for anyone that sees this task through.
+荆棘兽主要占据着东南方的土地。如果我们想要重新开通去往恶魔十字的道路，那么我们就必须先减少它们的数量。{^n}{^n}荆棘巨兽是它们种群的繁殖者，应该很容易被识别出来。{^n}{^n}任何完成这项任务的人都会得到铁币作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Aetherials are a plague upon our world, a plague that now ravages our homes and fields. Wherever the Aetherials go, we see their 主宰者 spreading corruption with every step.{^n}{^n}If our fields are ever to be reclaimed, we must stop the source of this taint upon our land.{^n}{^n}We do not have much that is not going to the Legion, but we have some scavenged materials we can share with anyone willing to help.
+虚灵是降临在这个世界的天灾，这场天灾毁坏着我们的家园和土地。不管虚灵走到哪里，我们总能看到它们的主宰者散布着腐化。{^n}{^n}如果我们要夺回我们的土地，那么就必须阻止这些在我们土地上的污染之源。{^n}{^n}我们虽然没有那么多钱去请军团支援，但还是有些废旧的材料来请愿意帮助我们的人。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-石疣巨魔 are a stubborn race of murderous half-beasts. Twice in recent history we've tried to eliminate them and twice they have returned. Now, with the world in shambles, the trolls have been spreading.{^n}{^n}They've already overrun 走私者的通道. We have to make sure that they never try heading north. Teach them fear of humanity, eliminate the 石疣巨魔. We will gladly pay iron bits to see this done.
+石疣巨魔是一种顽固而且凶残的半兽人种族。我们曾两次想消灭它们，但都没成功。现在在这个混乱的世界里，巨魔们扩张了自己的领土。{^n}{^n}他们已经穿过了走私者通道。我们不能再让他们向北前进。教训教训它们，让他们对人类心存恐惧，消灭石疣巨魔。我们愿意付你铁币去干掉它。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Back when I was a younger man, I used to do a smuggling run that ran between 霍姆斯特德和伯尔维治. We ran our operations out of a place we called 走私者的水潭, out near 伯尔维治.{^n}{^n}Last I've heard, the place was massacred by a dranghoul known as 格特沃姆. The beast feasted on the flesh of my comrades and scattered their bones.{^n}{^n}I want revenge. I want 食人者 dead. I've stowed away some valuable materials in my smuggling days. I will gladly share them with anyone that butchers that beast.
+当我还是个年轻人，我经常在霍姆斯特德和伯尔维治之间走私。我们在走私者盆地经营我们的业务，在伯尔维治郊外。{^n}{^n}我最后听说，那地方被一个叫格特沃姆的危险人物给屠了。那个禽兽生吃我同伴们的肉并且把他们的骨头仍的到处都是。{^n}{^n}我要复仇。我要那个食人者死。 我在我走私的日子里，放了些值钱的东西在那里。 如果有人能弄死他，我很乐意分享我的财富。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Terror tales have been told of trolls breaking into homes in the night and stealing young virgins, but no tales were as horrid as that of 吸髓者 鲍格罗斯.{^n}{^n}鲍格罗斯 would not bother with just virgins, he would leave entire households in shambles, the inhabitants slain and their bones ripped from their bodies.{^n}{^n}There have been recent sightings of 鲍格罗斯 near 走私者的通道, likely his hideout. Put that monster down and we will see that you are rewarded with some of our scavenged supplies.
+恐怖故事里说巨魔会在深夜闯入你的家中夺走你处子之身，但是不会有故事比吸髓者鲍格罗斯的更可怕。{^n}{^n}鲍格罗斯才不会在意这些，他会把整个房子变成屠宰场，杀光里面的居民并且将所有的骨头从身体里剔出来。{^n}{^n}最近有消息称目击到鲍格罗斯出现在走私者通道附近，像是他的藏身处。消灭那个怪物，你就会得到我们所搜寻到的补给。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Dermapterans have overrun our fields. They feast on months of back-breaking labor. But there is one among them more ravenous than any Dermapteran we had ever seen.{^n}{^n}We call it 蚱蜢, and it is a massive weavil. Normally, Dermapterans molt well before reaching such a size. We dread to think what he will turn into.{^n}{^n}Better to kill it before it transforms. A reward of scavenged materials to anyone that braves the Dermapteran Hives.
+革翅目在我们的田地上泛滥成灾。它们吃掉了数月辛苦劳作的成果。但是有这么一只虫子比我们见过的都要更加贪婪。{^n}{^n}我们叫它蚱蜢，它是一只巨大的象甲虫。通常，革翅目在长到这么大的时候都会蜕皮。我们不敢想它会长成什么样子。{^n}{^n}在它变态之前杀掉它。对敢于进入虫王巢穴完成任务的人，将会给予一些材料作为奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Dermapteran Viziers are the prime of the queen's spawn. Whenever one is selected to ascend as one of her Grand Viziers, it is called back into the hive to feast until it grows to monstrous size.{^n}{^n}One such Dermapteran, 领袖 哈辛, appears to be next. If it is killed before it reaches the final stage of its metamorphosis, then the Dermapterans will lose a valuable guardian. Search the fields for this monstrosity, before it becomes a problem too big to handle.{^n}{^n}Scavenged materials have been set aside as a reward for accomplishing this brave deed.
+革翅目虫首领是虫后产下的最强的革翅目虫。无论什么时候其中之一被选中提升为巨型首领，它将会被召回至虫巢并被喂养成一个可怕的体型。{^n}{^n}其中一个革翅目虫，哈辛，就是下一个。如果他在变态为最后阶段前被消灭，那么革翅目虫将会损失一个强大的守护者。在田间寻找这只怪物，在它变得难以对付之前。{^n}{^n}完成任务会得到一些材料作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-We have heard complaints about feverish nightmares of blood and darkness. The last I've heard of such a phenomenon was when a Trog blood mage was performing some ritual deep within the earth.{^n}{^n}Our people have suffered enough. Somebody needs to go into the 山脉深渊 and eliminate the Trog that's causing this. Scavenged materials have been set aside as compensation.
+我们听到了些关于黑暗和血的狂热噩梦的抱怨。我最后听说这种现象一般出现在穴居人血法师在地底深处进行某种仪式之时。{^n}{^n}我们的人已经受够了。我们需要有人深入山脉深渊然后消灭那些致使这些事儿的穴居人。我们将会给你搜集到的物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-费比亚斯 Crowsworth is one of the locals, but sadly he was staying with family in 伯尔维治 when 恐怖黎明 took place.{^n}{^n}Based on the tales I've heard about what happened in the village, I fear the worst. Please, if 费比亚斯 has been turned into one of those undead monsters, I wish that he be put to rest.{^n}{^n}I will gladly share my scavenged supplies in exchange for peace of mind.
+费比亚斯·克劳斯沃斯是一名当地人。但不幸的是他在恐怖黎明发生时和他的家人待在伯尔维治。{^n}{^n}我获知在村庄里发生的事，我害怕事情会更糟。拜托了，如果费比亚斯变成了那种不死怪物，我希望他能安息。{^n}{^n}我愿意用搜集到的补给换取一丝平静。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should never see the light of day.{^n}{^n}However, as the population of Cavern Crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Cavern Crawlers will be compensated with scavenged materials from our stores.
+在西边山峦的地下，有个被称为山脉深渊的大型洞穴。那是个充满恐怖并永远见不到光的地方。{^n}{^n}然而，随着洞穴内穴居爬行者数量的增长，它们开始在洞外活动。离上一次猎杀并削减它们数量已经很久了。必须要有人深入洞穴并处理这件事。{^n}{^n}任何杀死穴居爬行者的人都可以得到我们储存的物资作为奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require Scrap and we need it immediately. A share of our scavenged materials to anyone that gathers some.
+霍姆斯特德正遭受持续的攻击。如果状况延续下去，城墙就必须得到维修，但我们的供给有些不足了。{^n}{^n}我们急需废料这种资源。任何收集到废料的人都会获得材料奖励。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-幽冥编织者 安苟利亚克斯 is a devious spider queen from which all the local arachnids spawn. She hides somewhere out in the Shaded Basin caverns.{^n}{^n}Homestead has enough problems already. Spiders don't need to be added to the list. A substantial sum of iron bits has been set aside for anyone that slays her.
+安苟利亚克斯, 幽冥编织者是一个狡猾的蜘蛛女王，产下了附近所有的蜘蛛卵。她藏在幽暗盆地的洞穴中。{^n}{^n}霍姆斯特德已经有了一大堆的麻烦事。不希望蜘蛛也在这个名单里。杀死她的人将会得到铁币作为赏金。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-My grandpa used to tell us stories about caves deep below the earth that are filled with glowing plants and moss that illuminate everything as if it were day.{^n}{^n}But he also warned us of terrifying creatures that dwell within the forgotten depths. One of them, he said, could go invisible on a whim and strike at its prey from the shadows.{^n}{^n}I'm not allowed outside the walls, but I'd love to know if the stories were true. The deepest place I can think of would be the Dermapteran hive in the 腐坏田地, but there is nothing deeper than that in the farmlands, is there?{^n}{^n}Please, if you find out the truth, I will gladly share some of my rare stuff with you.
+我的爷爷曾告诉我地下深处的洞穴中充满了发光的植物，照亮着一切，有如白昼。{^n}{^n}但他也警告我们那些被遗忘的深渊里同样栖息着恐怖的生物。他说其中一只生物，会突然消失然后从阴影中攻击它的猎物。{^n}{^n}他们不准我走出城墙，但我想知道这故事是否是真的。我能想到的最深的地方就是在腐坏田地的革翅目虫巢了。但是没有比那个更深的地方了，对吗？{^n}{^n}如果你找出了真相，那么我会很愿意跟你分享我稀有的东西。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Dermapteran Grand Viziers are their queen's most loyal protectors. They will protect the hive with their lives, if needed.{^n}{^n}Let us stir the hive a bit, shall we? Destroying the queen's guardians will surely throw the hive into turmoil.{^n}{^n}To sweeten the deal, we've set aside some iron bits.
+革翅目虫首领是虫后最忠诚的守护者。只要他们没死就会保护虫巢的安全，如果必须的话。{^n}{^n}让我们给虫巢捣下乱如何？消灭虫后的守护者将会给虫巢造成混乱。{^n}{^n}完成这项任务，我们会给你一些铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-The Dermapteran Queen Ravna has been allowed to thrive for far too long. Her brood has spread rampantly throughout our lands, unimpeded by even the Aetherials.{^n}{^n}Sooner or later, the Dermapterans will devour everything that's left in the fields, and then they will turn their attention upon Homestead. By that point, their numbers will wash over us like a flood of locusts.{^n}{^n}We must not allow that to happen. Queen Ravna must die. As compensation for this daring task, we have set aside some scavenged materials.
+革翅目虫后拉芙娜已经安逸成长的太久了。她哺育的幼虫在我们的土地上已经泛滥成灾了，甚至都跑到了虚灵的地盘上。{^n}{^n}革翅目虫迟早会吞噬田地上的一切，然后它们就会转向霍姆斯特德。到那时它们将会像蝗虫一样淹没我们。{^n}{^n}我们绝不能让那样的事发生。所以虫后拉芙娜必须死。我们将会以物资作为这个大胆任务的奖赏。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Bloodfeast is a ruthless dranghoul that's been seen rallying the local grobles at a place known as 暴君的要塞.{^n}{^n}Normally, grobles are not much of a threat. They squabble amongst themselves nearly as often as they attack human outposts. But with one such as Bloodfeast leading them, they could pose a serious threat to Homestead.{^n}{^n}Bloodfeast must be slain before that happens. A substantial sum of iron bits to anyone that brings his reign to an end.
+鲜血盛宴是一个残忍而危险得生物，正在召集本地的格罗布尔们于名为暴君要塞的地方。{^n}{^n}一般情况下格罗布尔们不能造成威胁。他们自相残杀的次数差不多和攻击我们前哨站的次数一样。但是有了鲜血盛宴的领导，他们将会变成霍姆斯特德的严重威胁。{^n}{^n}在这一切发生前鲜血盛宴必须被消灭。任何结束它统治生涯的人将会得到很大一笔的铁币。
 接受这项赏金任务。
 离开赏金桌。
-下一个赏金任务。
+查看另一项赏金任务。
 
-Homestead is being assaulted on all fronts.{^n}{^n}Without further assistance, all that they struggled to build could fall apart.
+霍姆斯特德正在遭受各方攻击{^n}{^n}如果不加强对他们的援助，他们努力建造的一切都会毁于一旦。
 
 离开赏金桌。
-The people of Homestead do not yet consider you a close ally.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+霍姆斯特德的人还不认为你是他们的盟友。{^n}{^n}需要声望达到尊重来领取赏金任务。
 离开赏金桌。

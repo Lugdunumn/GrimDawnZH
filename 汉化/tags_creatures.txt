@@ -176,7 +176,7 @@ tagEnemyChthonianDevourerA01=冥灵饥饿者
 tagEnemyChthonianDevourerB01=冥灵吞噬者
 tagEnemyChthonianDevourerB02=冥灵饱食者
 
-tagChthonianDevourerHeroH01=紐'加鲁, 湮灭之爪
+tagChthonianDevourerHeroH01=紐'加鲁, 湮灭之颚
 tagChthonianDevourerHeroH02=萨戈'丁, 饥饿之胃
 tagChthonianDevourerHeroH03=纳尔'玛什, 暴食者
 tagChthonianDevourerHeroH04=奈'卡祖尔, 烈焰魔口
@@ -824,7 +824,7 @@ tagBossTrollB03=巴尔戈尔, 沼泽之王
 tagEnemyTrollCorruptedA01=畸形巨魔
 tagEnemyTrollCorruptedB01=畸形先锋
 tagEnemyTrollCorruptedB02=畸形枪手
-tagEnemyTrollCorruptedC01=畸形指挥
+tagEnemyTrollCorruptedC01=畸形指挥官
 
 tagTrollCorruptedD01=白霜, 恐惧守卫
 
@@ -916,7 +916,7 @@ tagEnemyZombieSoldierB01=腐朽灰烬守卫
 tagEnemyZombieSoldierC01=狂暴战士
 tagEnemyZombieBerserkerA01=尸魔
 
-tagEnemyZombieVoidA01=冥灵无魂者
+tagEnemyZombieVoidA01=冥灵失魂者
 
 tagEnemyZombieMutatedA01=畸形屠夫
 tagEnemyZombieMutatedB01=畸形鞭笞者
@@ -974,7 +974,7 @@ tagPetBlackScourge=黑灾星
 tagPetGazeOfDreeg=德里格的凝视
 tagPetEyeOfGuardian=守护者之眼
 tagPetHeraldOfDoom=厄运之旗帜
-tagPetSpirit=束缚魂灵
+tagPetSpirit=被束缚的灵魂
 
 
 tagDevotionPet_Skeleton=骷髅
@@ -1216,7 +1216,7 @@ tagRace004=冥灵
 tagRace005=腐败虚灵
 tagRace006=血誓
 tagRace007=邪术生物
-tagRace008=昆虫族
+tagRace008=昆虫类
 tagRace009=人类
 tagRace010=结构体
 tagRace011=裂隙生物
@@ -1231,7 +1231,7 @@ tagRace004P=冥灵
 tagRace005P=腐败虚灵
 tagRace006P=血誓
 tagRace007P=邪术生物
-tagRace008P=昆虫族
+tagRace008P=昆虫类
 tagRace009P=人类
 tagRace010P=结构体
 tagRace011P=裂隙生物

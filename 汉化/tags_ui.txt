@@ -26,7 +26,7 @@ tagRepAwarded={^b}+{%d0} 声望 {^w}至 {^g}{%s1}
 tagLoreBonus=学识奖励
 
 tagLevelUp=等级提升
-tagLevelReached=你已升到 {^y}{%d0} 级
+tagLevelReached=你已升至 {^y}{%d0} 级
 
 #Devotion 虔诚
 
@@ -119,7 +119,7 @@ tagQuestRewardReputationNegative=-{%d0} {%s1} 声望
 tagQuestRewardAcceptButton=关闭
 tagQuestBlockedDescription=基于主机进度，任务在本次游戏中已锁定。
 
-#Faction 阵营
+#Faction 势力
 
 tagFaction={%s0}
 tagFactionStanding=势力: {^s}{%t0}
@@ -452,7 +452,7 @@ tagHUDButtonAchievements=成就窗口
 tagHUDButtonOptions=选项菜单
 
 tagHUDButtonRollCharacter=人物属性、物品栏和装备栏。
-tagHUDButtonRollSkills=职业选择和技能分配。
+tagHUDButtonRollSkills=专精选择和技能分配。
 tagHUDButtonRollGroup=玩家邀请与组队管理。
 tagHUDButtonRollQuest=任务日志、学识、虔诚祭坛和游戏中的帮助。
 tagHUDButtonRollMap=详细的局部和世界地图。
@@ -463,17 +463,17 @@ tagHUDButtonRollOptions=保存，退出和游戏设置。
 
 #SkillUI
 
-tagSkillUndoClass=撤销职业选择
+tagSkillUndoClass=撤销专精选择
 tagSkillUndoPoints=撤销加点
-tagSkillClassSelect=选择职业
-tagCurrentLevel=当前等级: {%d0}
-tagNextLevel=下一等级: {%d0}
-tagSkillClassSelectInfo=选择一个职业{^n}{^n}一旦你做出了选择并且退出了技能窗口，你的选择将被永久固定。
-tagSkillReq01=还需要加 {%d0} 点在{%s1}上。
-tagSkillReq01Singular=还需要加 {%d0} 点在{%s1}上。
-tagSkillReq02=还需要加 {%d0} 点在{%s1}和技能{%s2}上。
-tagSkillReq02Singular=还需要加 {%d0} 点在{%s1}和技能{%s2}上。
-tagSkillReq03=需要学会技能{^b}{%s1}
+tagSkillClassSelect=选择专精
+tagCurrentLevel=当前等级: ^h{%d0}
+tagNextLevel=下一等级: ^h{%d0}
+tagSkillClassSelectInfo=选择一个专精{^n}{^n}一旦你做出选择并且退出了技能窗口，你的选择将被永久固定。
+tagSkillReq01=还需加 ^h{%d0}^- 点于{%t1}条
+tagSkillReq01Singular=还需加 ^h{%d0}^- 点于{%t1}条
+tagSkillReq02=还需加 ^h{%d0}^- 点于{%t1}和{%s2}技能
+tagSkillReq02Singular=还需加 ^h{%d0}^- 点于{%t1}和{%s2}技能
+tagSkillReq03=需学会 ^l{%s1}^- 技能
 tagSkillPointsRemain={%d0} 剩余点数
 tagSkillPointsRemainSingular={%d0} 剩余点数
 
@@ -482,7 +482,7 @@ tagSkillPointsRemainSingular={%d0} 剩余点数
 GenderFormat={%t0}{%0a1}
 
 tagInventoryBag=储物袋
-tagInventoryBagDescription=扩展你的储物空间
+tagInventoryBagDescription=扩展你的储物空间。
 
 tagStatsResistanceTitle=抗性
 tagStatsResistance01=火焰
@@ -586,9 +586,9 @@ tagFormatDash={%d0} - {%d1}
 tagFormatDashPercent={%d0}% - {%d1}%
 tagCharPointAvailable={^y}{%d0} {^w}可用点数
 tagCharPointsAvailable={^y}{%d0} {^w}可用点数
-tagCharLevel={%d0} 级
+tagCharLevel=^y{%d0} 级
 tagCharXP=经验值: {%t0}
-tagCharLevelAndClass={%d0} 级 ^t{%t1}
+tagCharLevelAndClass=^y{%d0} 级 ^g{%t1}
 
 tagCharRollLeftHand=副手:
 tagCharRollRightHand=主手:
@@ -615,8 +615,8 @@ tagCharHeaderMisc=杂项
 tagCharStatsDPSTitle=每秒伤害
 tagCharStatsDPS=每秒伤害
 tagCharStatsDPSDescription=你的左键技能和右键技能每秒对单一目标的平均伤害，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
-tagCharStatsDPSRightDescription=右键技能的对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
-tagCharStatsDPSLeftDescription=左键技能的对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
 
 tagCharStatsArmorTotalAlert=护甲等级
 tagCharStatsArmorTotal=护甲等级
@@ -635,7 +635,7 @@ tagCharStatsArmorFeet=足部:
 tagCharStatsArmorWaist=腰部:
 tagCharStatsArmorShoulders=肩部:
 
-tagFormulaLearned=设计图学会了
+tagFormulaLearned=设计图已学会
 tagFormulaLearn01=你学会了如何制作 {%t0}
 tagFormulaLearn02={^r}你已经学过这张设计图了。
 tagFormulaLearn03={^r}[已学会]
@@ -819,53 +819,53 @@ tagCharStatsDurLifeLeech=生命吸取
 tagCharStatsDurManaLeech=能量吸取
 
 #Pets 宠物
-tagCharStatsPetHealth=战宠生命加成
+tagCharStatsPetHealth=生命
 tagCharStatsPetHealthInfo=你的战宠和召唤物的生命加成的百分数。
 
-tagCharStatsPetDamage=战宠伤害加成
+tagCharStatsPetDamage=伤害
 tagCharStatsPetDamageInfo=你的战宠和召唤物所造成的伤害加成的百分数。
 
-tagCharStatsPetAttackSpeed=战宠攻速加成
+tagCharStatsPetAttackSpeed=攻击速度
 tagCharStatsPetAttackSpeedInfo=你的战宠和召唤物的攻击速度加成的百分数。
 
-tagCharStatsPetCastSpeed=战宠施法速度加成
+tagCharStatsPetCastSpeed=施法速度
 tagCharStatsPetCastSpeednfo=你的战宠和召唤物的施法速度加成的百分数。
 
-tagCharStatsPetRunSpeed=战宠移动速度加成
+tagCharStatsPetRunSpeed=移动速度
 tagCharStatsPetRunSpeednfo=你的战宠和召唤物的移动速度加成的百分数。
 
-tagCharStatsPetOA=战宠攻击能力加成
+tagCharStatsPetOA=攻击能力
 tagCharStatsPetOAInfo=你的战宠和召唤物的攻击能力加成的百分数。
 
-tagCharStatsPetDA=战宠防御能力加成
+tagCharStatsPetDA=防御能力
 tagCharStatsPetDAInfo=你的战宠和召唤物的防御能力加成的百分数。
 
 tagCharStatsPetFireResist=火焰抗性
-tagCharStatsPetFireResistInfo=The percent bonus to the Fire Resistance of your pets and summoned minions.
+tagCharStatsPetFireResistInfo=你的战宠和召唤物火焰抗性加成的百分数。
 
 tagCharStatsPetColdResist=冰冷抗性
-tagCharStatsPetColdResistInfo=The percent bonus to the Cold Resistance of your pets and summoned minions.
+tagCharStatsPetColdResistInfo=你的战宠和召唤物冰冷抗性加成的百分数。
 
 tagCharStatsPetLightningResist=闪电抗性
-tagCharStatsPetLightningResistInfo=The percent bonus to the Lightning Resistance of your pets and summoned minions.
+tagCharStatsPetLightningResistInfo=你的战宠和召唤物闪电抗性加成的百分数。
 
 tagCharStatsPetPoisonResist=毒酸抗性
-tagCharStatsPetPoisonResistInfo=The percent bonus to the Poison/Acid Resistance of your pets and summoned minions.
+tagCharStatsPetPoisonResistInfo=你的战宠和召唤物毒素/酸性抗性加成的百分数。
 
 tagCharStatsPetPierceResist=穿刺抗性
-tagCharStatsPetPierceResistInfo=The percent bonus to the Pierce Resistance of your pets and summoned minions.
+tagCharStatsPetPierceResistInfo=你的战宠和召唤物穿刺抗性加成的百分数。
 
 tagCharStatsPetBleedResist=流血抗性
-tagCharStatsPetBleedResistInfo=The percent bonus to the Bleeding Resistance of your pets and summoned minions.
+tagCharStatsPetBleedResistInfo=你的战宠和召唤物流血抗性加成的百分数。
 
 tagCharStatsPetVitalityResist=活力抗性
-tagCharStatsPetVitalityResistInfo=The percent bonus to the Vitality Resistance of your pets and summoned minions.
+tagCharStatsPetVitalityResistInfo=你的战宠和召唤物活力抗性加成的百分数。
 
 tagCharStatsPetAetherResist=虚化抗性
-tagCharStatsPetAetherResistInfo=The percent bonus to the Aether Resistance of your pets and summoned minions.
+tagCharStatsPetAetherResistInfo=你的战宠和召唤物虚化抗性加成的百分数。
 
 tagCharStatsPetChaosResist=混乱抗性
-tagCharStatsPetChaosResistInfo=The percent bonus to the Chaos Resistance of your pets and summoned minions.
+tagCharStatsPetChaosResistInfo=你的战宠和召唤物混乱抗性加成的百分数。
 
 #CharStatsTab3人物属性栏3
 
@@ -914,7 +914,7 @@ tagCharStatsSlowResistInfo=对所有能减缓你攻击、施法和移动速度�
 
 #Retaliation 反击
 tagCharStatsDamageReflect=伤害反击
-tagCharStatsDamageReflectInfo=你所受到的伤害会以百分比反馈给攻击者。
+tagCharStatsDamageReflectInfo=你所受到的伤害反馈给攻击者的比率。
 
 tagCharStatsCurrentLifeReflect=生命反击
 tagCharStatsCurrentLifeReflectInfo=无论何时你受到攻击，以该比率基于敌人当前生命值实施反击。
@@ -1068,11 +1068,11 @@ MarketSalePending=未决定售出
 MarketPurchasePending=未决定购买
 
 tagMarketError01=你没有足够的铁币。
-tagMarketError02=你的库存没有足够的空间。
+tagMarketError02=你没有足够的存储空间。
 tagMarketError03=该物品已经出售。
 tagMarketError04=该物品不能出售。
-tagMarketError05=你在势力中的声望不够高。
-CanNotBeSoldHere=店主不接受该物品。
+tagMarketError05=你在势力中的声望未达标。
+CanNotBeSoldHere=商家不接受此物品。
 Sold=已售出
 
 
@@ -1572,7 +1572,7 @@ EnableOneBaseSkill=至少需要一级基础技能
 MaxSkillLevelReached=已达到技能最高等级
 ActiveMasteriesAllowedReached=已达到允许激活的专精个数
 LifeMonitorPercent={^E}当生命低于 {^H}{%.1f0}% {^E}时激活
-FailedSkillDependancy=需要{%s0}技能
+FailedSkillDependancy=需学会 ^l{%s0}^- 技能
 FailedSkillDependancyAll=需要下列技能:
 FailedSkillDependancyOne=需要下列技能之一:
 FailedSkillDependancyName={%s0}
@@ -1590,8 +1590,8 @@ TargetRadius=目标区域
 TargetAngle={%.0f0} {^E}攻击角度
 TargetNumber={%d0} {^E}最大目标范围
 CooldownTime={^E}技能冷却时间
-ExplosionRadius=范围
-TargetRange=距离
+ExplosionRadius=半径
+TargetRange=范围
 ProjectileLaunchRotation={%.1f0} 投射物速度
 ProjectileLaunchNumber={%d0} {^E}枚投射物
 ProjectileLaunchNumberMod=+{%d0} {^E}枚投射物
@@ -1697,7 +1697,7 @@ DamageTaunt={^E}嘲讽目标
 DamageThreat={^E}造成威胁
 DamageConvert={^E}控制目标意识{%t0}
 DamageFear={^E}恐吓目标{%t0}
-DamageConfusion={^E}迷惑目标{%t0}
+DamageConfusion={^E}混乱目标{%t0}
 DamageDisruption={^E}打断目标技能{%t0}
 DamagePercentCurrentLife={%t0}% {^E}减少敌人当前生命值
 DamageManaDrain={%t0}% {^E}能量燃烧
@@ -2005,7 +2005,7 @@ tagItemGrantSkill=赋予技能:
 tagItemSkill= {^S}(物品赋予)
 tagItemSkillShort= {^S}(物品赋予)
 tagEffect=效果:
-tagSkillGrantEffect=次级效果:
+tagSkillGrantEffect=天赋能力:
 tagDevotionAttached=绑定至:
 
 tagItemUseDirections=[右键点击使用]
@@ -2031,7 +2031,7 @@ tagRelicError=你不能把一个遗物或符咒附到史诗或传奇物品上。
 tagExperienceDisplayFormat=现有经验: {^y}{%t0}{^w} ~ 到达下一等级还需经验: {^y}{%t1}
 tagCXP=经验值: {%t0}
 tagGrave01=玩家坟墓 ~ {%t0}
-tagGrave02=死于{%t0}
+tagGrave02=被杀玩家 {%t0}
 tagGrave03=经验回收: {%d0}
 tagHeroXPShort={%d0} 精英经验值
 tagBossXPShort={%d0} BOSS经验值
@@ -2070,7 +2070,7 @@ tagPickup=拾取
 
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容。
-tagUC_OK=好的
+tagUC_OK=确认
 tagUC_Cancel=取消
 tagUC_Error=你已经为这个人物解锁过该内容。
 
@@ -2091,7 +2091,7 @@ tagMPGroup=团队
 tagMPInGame=游戏内
 tagMPCharName=人物名称
 tagMPCharLevel=等级
-tagMPCharClass=职业
+tagMPCharClass=专精
 tagMPAdd=添加
 tagMPRemove=移除
 tagMPMessage=消息

@@ -512,9 +512,9 @@ tagNPC_Homestead_21=伯纳德
 tagNPC_Homestead_22=艾丽西亚
 tagNPC_Homestead_23=塞拉斯
 tagNPC_Homestead_24=格雷文
-tagNPC_Homestead_25=埃尔德·马赛亚斯
+tagNPC_Homestead_25=长老 马赛厄斯
 tagNPC_Homestead_26=奎德
-tagNPC_Homestead_27=艾娃
+tagNPC_Homestead_27=伊娃
 tagNPC_Homestead_28=海勒姆
 tagNPC_Homestead_29=卡尔德罗斯
 tagNPC_Homestead_30=巴尔沃拉克
@@ -591,17 +591,17 @@ tagNPC_Flavor_Homestead_02=克隆利帮叛逃者
 tagNPC_Flavor_Homestead_03=海伦·弗莱彻
 tagNPC_Flavor_Homestead_04=朱利叶斯·科尔
 tagNPC_Flavor_Homestead_05=帕尔达
-tagNPC_Flavor_Homestead_06=杰贝代亚
+tagNPC_Flavor_Homestead_06=杰迪戴亚
 tagNPC_Flavor_Homestead_07=奥斯卡
 tagNPC_Flavor_Homestead_08=朱迪斯
 tagNPC_Flavor_Homestead_09=小奥斯卡
 tagNPC_Flavor_Homestead_10=受伤的流浪者
 tagNPC_Flavor_Homestead_11=艾姆卡拉
-tagNPC_Flavor_Homestead_12=贺拉斯
+tagNPC_Flavor_Homestead_12=霍拉斯
 
 tagNPC_Flavor_AreaC_01=迪恩·古冢
 tagNPC_Flavor_AreaC_02=丹尼·古冢
-tagNPC_Flavor_AreaC_03=玛利亚·古冢
+tagNPC_Flavor_AreaC_03=玛丽亚·古冢
 tagNPC_Flavor_AreaC_04=死神标记 拉哈
 tagNPC_Flavor_AreaC_05=劳勃·哈洛韦
 tagNPC_Flavor_AreaC_06=彼崔斯·萨莫斯
@@ -618,8 +618,8 @@ tagNPC_Flavor_AreaC_16=拉鲁卡
 tagNPC_Flavor_AreaC_17=卡拉卡
 tagNPC_Flavor_AreaC_18=加拉若克
 tagNPC_Flavor_AreaC_19=拉鲁克
-tagNPC_Flavor_AreaC_20=姐妹 萨蒂娅
-tagNPC_Flavor_AreaC_21=兄弟 莱克特
+tagNPC_Flavor_AreaC_20=姐妹 瑟蒂雅
+tagNPC_Flavor_AreaC_21=兄弟 莱格特
 tagNPC_Flavor_AreaC_22=兄弟 奥诺克斯
 tagNPC_Flavor_AreaC_23=奈迪
 tagNPC_Flavor_AreaC_24=菲尔
@@ -740,18 +740,18 @@ tagQuestItemHeavyExplosives_Desc="军事术士灌注，以保证一个巨大的�
 tagQuestItemLegionSupplies=军团物资
 tagQuestItemLegionSupplies_Desc="黑色军团藏匿的原料。鉴于帝国目前情况这是名副其实的财富。"
 
-tagQuestItem_Dravis_A01Name=德拉维斯给黛拉的信 - 第一封
-tagQuestItem_Dravis_A01Text=亲爱的妹妹,{^n}I am confident that this letter will find its way to you. You cannot resist returning to this place; I know that the memories of that night still conjure nightmares in your sleep. The face you saw, that is the price one pays for learning the truth. Truth which you deny!{^n}{^n}Do you remember how we used to play around the old ruins as children? Father always told us not to, that we would be swept away by the harpies that fill the sky in the twilight hours. But what if he was not just trying to protect us? Perhaps there were ulterior motives to keeping us away from the old places of the world? What if, should we venture inside, we would learn more about his past than he wished for us to know?{^n}{^n}I have done what you could not, 黛拉. I have defied our father and entered the depths of Anguish. It is there that my eyes were truly opened. If you are wise, you will do as I have...{^n}{^n}德拉维斯
+tagQuestItem_Dravis_A01Name=德拉维斯写给黛拉的信 - 第一封
+tagQuestItem_Dravis_A01Text=我最亲爱的妹妹，{^n}我相信这封信会自己找到你。你会返回此处的；我知道那晚的记忆仍然是你沉睡中的梦靥。你所见到的那张脸，是为了解真相所付出的代价。那你所否认的事实！{^n}{^n}你还记得我们小时候曾经在那些古老废墟周围玩吗？老爸总是说我们不能再去玩了，不然就会在黄昏时分被天空中的鹰身女妖抓走的。但那如果只是他为了保护我们而故意说的呢？又或许是别有用心的阻止我们靠近那些远古地点呢？再者说，我们进入探险后会了解更多关于他那些不愿意让我们知道的过往呢？{^n}{^n}我已经做了你无法完成的事情，黛拉。我无视了父亲并深入了那个苦痛之地。我在那真是大开了眼界。你要是明智的话，会做出跟我一样的事情... {^n}{^n}德拉维斯
 
-tagQuestItem_Dravis_A02Name=德拉维斯给黛拉的信 - 第二封
-tagQuestItem_Dravis_A02Text=黛拉,{^n}by now you must have seen the haunting echoes from Arkovia's past. Have you never wondered how all this came to be? How Arkovia really fell? Father called it greed, but greed alone cannot condemn a man to such torment. Nay, powerful sorcery was at play here.{^n}{^n}I could feel it in very walls. The stones screamed with unfettered rage, rage towards...me. Do the dead despise the living so? Do they yearn after what was stolen from them? To exist in such a state of endless limbo would drive any soul mad, but I do not believe that madness is what inspired this response. There was something familiar within these stones.{^n}{^n}I have to learn more. So I intend to visit the one place I know our father had been: our childhood home. Of course, this presents me with a bit of a challenge, as you well know why, for our home was consumed by the Chthonian rifts not long ago. But such trivialities will not stop me from discovering the answers I seek...{^n}{^n}德拉维斯
+tagQuestItem_Dravis_A02Name=德拉维斯写给黛拉的信 - 第二封
+tagQuestItem_Dravis_A02Text=黛拉，{^n}现在你一定见到了那些过往的安克维亚阴魂了。你可曾考虑过这些事情是怎么发生的？安克维亚是怎么沦陷的？父亲称是德里格，但光靠德里格并不能将一个人诅咒到如此痛苦。因此来说，必定还有个强大的死灵法师扮演了重要角色。{^n}{^n}我感到它无处不在。墙面的岩石中蕴含着向...向我发出的怒号。难道亡者还在蔑视活人不成？他们是否在渴望取回被窃取的东西？在这种无尽地狱中以这样的状态活着足以令任何灵魂发疯，但我不觉得这么做的意图就是使他们疯狂。这些石头内有些相同的东西。{^n}{^n}我必须了解更多。因此我打算前往父亲所去过的地方：我们儿时的家。当然，这对我来说是不小的挑战，如你所知，我们的家已经在不久前被冥灵传送门磨灭了。 但这种小事无法阻挡我寻求答案...{^n}{^n}德拉维斯
 
-tagQuestItem_Dravis_A03Name=德拉维斯给黛拉的信 - 第三封
-tagQuestItem_Dravis_A03Text=黛拉,{^n}The pieces are finally falling into place. The answers were under our very noses all along. The rift violently consumed our home, but in doing so it revealed what was hidden from us underneath the floorboards. Our father kept a journal, a seemingly innocuous object, yet the pages were sealed from me with a protective rune.{^n}{^n}Carelessly, or perhaps arrogantly, I dispelled the seal. The resulting flames consumed the book and marked my face with embers that refuse to extinguish. It is agonizing, but I will endure. Despite our father's efforts, I was able to rescue some pages from the inferno. He told us that our mother died in childbirth, that much is true, but what you do not know is that we were not the first. There were other women, and other children, but the dates...they did not make any sense. It was not until I turned to the final page that the answer became clear.{^n}{^n}I must make haste to the City of the Dead. Therein lies our final clue...{^n}{^n}德拉维斯
+tagQuestItem_Dravis_A03Name=德拉维斯写给黛拉的信 - 第三封
+tagQuestItem_Dravis_A03Text=黛拉，{^n}尘埃已经落定。事情的答案一直就在我们身边。裂隙之门猛烈地磨灭着我们的房子，但这样也暴露了在地板下藏着些什么。我们的父亲一直在记录，看起来没什么特别的，但内容却针对我设下了保护性的符文封印。{^n}{^n}我粗心大意地，或者是自负地解开了封印。这导致了迸发出来的烈焰烧毁了笔记本并在我脸上持续灼烧。那相当痛苦，但我只能忍受。尽管如此，我还是从烈焰中取得了几页笔记。他说我们的母亲在分娩是就死了，这很有可能，但你不知道的是，我们都不是最先生下来的。还有其他女人，以及其他孩子，但日期...却毫无道理。知道我翻开最后一页才知晓了答案。{^n}{^n}我必须尽快前往那座死亡之城。那里有最后的线索...{^n}{^n}德拉维斯
 
-tagLoreObj_AreaDDravis_NoteA04Name=德拉维斯给黛拉的信 - 最后一封
-tagLoreObj_AreaDDravis_NoteA04codexTitle=德拉维斯给黛拉的信
-tagLoreObj_AreaDDravis_NoteA04Text=黛拉,{^n}I shake in anticipation of what is to come, I can hardly write these words with a stable hand. Our father, our legacy, it is more than I could have ever asked for, more than I could have even imagined. To deny us this heritage...it is a crime against his very children. But I have learned his secrets and I will not be denied.{^n}{^n}Our father is immortal, 黛拉. It has taken him a thousand-thousand souls trapped within a single moment of agony to accomplish this impossible deed. What dark day in history served in the pursuit of immortality, I cannot say. But here, in the Necropolis, our father prepared a different ritual. This one was meant to harvest what remained of the tormented dead within the grave site, to replenish his own shattered being, but for whatever reason he never finished it. The sigil was abandoned. All that remained was to light the pyre and offer a living sacrifice.{^n}{^n}Without hesitation, I finished what he could not. Though I am not truly immortal as he is, the power within these souls will be enough for me to track him down and repay him for all the suffering he has instilled upon us. Then, when my vengeance is complete, I shall use the calamity that now consumes the world to do as our father had before, all those centuries ago.{^n}{^n}Should you reconsider in joining me, 黛拉, seek me out to the North. I shall be standing triumphantly over our father's ashes.{^n}{^n}德拉维斯
+tagLoreObj_AreaDDravis_NoteA04Name=德拉维斯写给黛拉的信 - 最后一封
+tagLoreObj_AreaDDravis_NoteA04codexTitle=德拉维斯写给黛拉的信
+tagLoreObj_AreaDDravis_NoteA04Text=黛拉，{^n}我对发生的事情感到万分震惊，我无法控制自己那颤抖的手并写下这些话语。我们的父亲，留给我们的遗产，比我所要求的多的多，多到超过我的想象。为了否认我们得到这部分遗产...这对他的孩子们而言就是犯罪。但我了解他的秘密，因此不会被否认。{^n}{^n}我们的父亲是不朽者，黛拉。他在某一个瞬间困住了无法计数的灵魂来达成了这件不可能完成的事情。那在历史上是个对不朽追捧的黑暗日。 但在这里，大墓地内，我们的父亲准备了一项不同的仪式。这是用来收割坟场内亡者的残骸的，为了补充他那支离破碎的存在，但不论什么原因，他失败了。魔法印记被遗弃了。所有的残存者都点亮了火葬堆并进行活祭。{^n}{^n}我毫不犹豫地完成了他所未能完成的事情。尽管我并不能像他一样不朽，这些灵魂内所蕴含的力量都足够使我追踪他的形迹并对他向我们灌输的痛苦进行报复。然后，在我完成复仇时，我会用现今磨灭着世界的灾难来重复父亲做过的事情，那些发生在数个世纪前的事情。{^n}{^n}你要重新考虑加入我吗，黛拉，来北边找我吧。我会成功站在我们父亲骨灰旁的。{^n}{^n}德拉维斯
 
 
 #Journals 日志
@@ -941,7 +941,7 @@ tagLoreObj_BookD06Text=我让海伦和艾拉娜去拜访在首都的家人，而
 
 tagLoreObj_BookD07Name=哈格特的日志 - 第四页
 tagLoreObj_BookD07codexTitle=哈格特的日志 - 第四页
-tagLoreObj_BookD07Text=海伦和艾拉娜提前回来了。当艾拉娜在角落里玩她的玩偶时，海伦下到实验室并在一堆最近的实验成果中找到了我。那在她脸上浮现的惊容是我永远无法忘记的。我试着找些理由。我解释说她所看见的只是一块垫脚石，那些男女的死可以让我们不必再在蛇和格罗布尔身上浪费力气。但她并没有动摇。{^n}{^n}我的妻子，我的搭档，在这重要的时刻背叛了我。我的工作太重要了，不允许有任何的情绪化因素阻挡。我做了最明智的事情。让历史来评判我的行为...{^n}{^n} 处理完让我分神的不幸事件后，我回去看了看我的成果。人类和蛇的杂交显得不稳定，而且很暴力。在我研究他们的身体机能时曾经好几次被突然袭击，但那些攻击像是垂死挣扎。所有的实验样本都在那之后死了。解剖显示了内部不完全的杂交内脏。伴有功能性障碍的消化系统，必然会死亡。但我想知道是不是可能这项技术太过古老而无法成功。如果我能重新来过，更加年轻的时候，或许我最终能找到一直追寻的答案...
+tagLoreObj_BookD07Text=海伦和艾拉娜提前回来了。当艾拉娜在角落里玩她的玩偶时，海伦下到实验室并在一堆最近的实验成果中找到了我。那在她脸上浮现的惊容是我永远无法忘记的。我试着找些理由。我解释说她所看见的只是一块垫脚石，那些男女的死可以让我们不必再在蛇和格罗布尔身上浪费力气。但她并没有动摇。{^n}{^n}我的妻子，我的搭档，在这重要的时刻背叛了我。我的工作太重要了，不允许有任何的情绪化因素阻挡。我做了最明智的事情。让历史来评判我的行为... {^n}{^n}处理完让我分神的不幸事件后，我回去看了看我的成果。人类和蛇的杂交显得不稳定，而且很暴力。在我研究他们的身体机能时曾经好几次被突然袭击，但那些攻击像是垂死挣扎。所有的实验样本都在那之后死了。解剖显示了内部不完全的杂交内脏。伴有功能性障碍的消化系统，必然会死亡。但我想知道是不是可能这项技术太过古老而无法成功。如果我能重新来过，更加年轻的时候，或许我最终能找到一直追寻的答案...
 
 tagLoreObj_VillagerNoteE01Name=警告：格罗布尔的进攻日益猖獗
 tagLoreObj_VillagerNoteE01codexTitle=警告：格罗布尔的进攻
@@ -949,7 +949,7 @@ tagLoreObj_VillagerNoteE01Text=伯尔维治地方政府近期收到了日渐增�
 
 tagLoreObj_AreaAEastMarsh_NoteA01Name=穆迪笔记
 tagLoreObj_AreaAEastMarsh_NoteA01codexTitle=穆迪笔记
-tagLoreObj_AreaAEastMarsh_NoteA01Text=Blasted bridge south out of town seems to have collapsed. Figured I'd try my luck through the marshes. Damn was that a poor decision. Now the wagon is stuck in this fetid bog and I am stuck right here with it. Half a ton of gold and gems in the back, enough for a king's ransom. I still can't believe my fortunes. The owner of the jewelry shop just left it abandoned and somehow nobody else got the idea before me to break in there. Of course, that all might be for nothing now as it's just sinking into the mud!{^n}{^n}If it sinks any further, the horse will end up pulled in with it. I have to do something, and fast. I need to find some help, surely others have fled in this direction. A few gems should smooth over the conversation.{^n}{^n}I can see the light of a campfire not too far off. Couldn't make out a word they are saying, sound like a foreign language, but I am sure we can come to an agreement. Who doesn't understand the common language of gold and gemstones? Going to see who they are and if they can help me get unstuck. I can smell cooking pork too, maybe they wouldnt mind sharing a bit?{^n}{^n}-Unknown
+tagLoreObj_AreaAEastMarsh_NoteA01Text=该死，南方那座桥梁坍塌了。唯有冒险进入沼泽地带。很后悔这个决定。现在马车卡在这个恶臭沼泽中寸步难移了。不过一想到车子中的半吨金子和珠宝，我就犹如置身梦境中。珠宝店的老板就这样丢下它不管，而且不知道是谁先我一步爆破了店铺。当然，现在这些财物都困在沼泽中无法移动，终究只是镜花水月！要是继续沉下去，怕是连马儿都无法幸免。我必须尽快想办法。我需要帮忙，也许其他人也是往这个方向逃命的。几块宝石应该能够让他们动心。我看得见不远处有营火的亮光。听不出他们说的是什么，也许是外语，不过金钱应该是通用的语言。先去打探下他们是否有能力帮助我。我闻到了烤猪肉的味道，他们应该不会吝于分享吧？- 无名氏
 
 #Random Old Arkovia Notes 随机古安克维亚日志
 
@@ -973,8 +973,8 @@ tagLoreObj_OldArkovia_BookA03Name=禁术 - 第三部
 tagLoreObj_OldArkovia_BookA03codexTitle=禁术 - 第三部
 tagLoreObj_OldArkovia_BookA03Text=我能听到他们在外面东奔西跑的声音。他们最终都来了，有很多人。十分明智...{^n}{^n}多个世纪以来我的伪装被传言成各种版本，它们大多数都很夸张，但为了某种微妙的目的，他们并没有对我进行干涉和虐待。不过这次，貌似即便是这些故事也不能使安克维亚安然无恙了。{^n}{^n}我必须封印这个入口，他们快要接近我了。我并不惧怕接下来要发生的事情。在事情的结束后，他们都将化为飞灰，只有我能完好无损...{^n}{^n}尤若布鲁克
 
-tagLoreObj_AreaBCrumblingWatch_NoteA01Name=尘封杂志
-tagLoreObj_AreaBCrumblingWatch_NoteA01codexTitle=尘封杂志
+tagLoreObj_AreaBCrumblingWatch_NoteA01Name=尘封的日志
+tagLoreObj_AreaBCrumblingWatch_NoteA01codexTitle=尘封的日志
 tagLoreObj_AreaBCrumblingWatch_NoteA01Text=如果这些碎石能说话的话，会是什么传说？一千年的历史淹没在了这大破坏时代之中。那些奇异和可怕的事情，这些岩石是否目睹过？那曾经光辉的帝王及其堕落，全都浓缩在这些岩石之中。所有东西都遗失了。只有残留的碎片存在于古老墓地与遗忘之地中。我时常在想罗万帝王是否被欺骗了，被那个让他放弃王位并离开的人所骗？{^n}{^n}我还在思考有多少安克维亚最后的议员逃到这处曾经的宏伟堡垒之中来逃避这沦陷的帝国？伟大的安克维亚守望者，守护着南方边界。他们是否苟且偷生，并希望被那些狂怒地搜寻他们贪婪与傲慢的存在所忽视？还是说他们战斗到了最后？他们是否被抓住并被吊在了他们自己的要塞之墙上？又或者是逃进了地下墓穴并与远古遗物一起灭亡了？{^n}{^n}我现在坐在这并思考着我在这些往日的灰烬中的命运。我该加入他们，同样被人所遗忘吗？还是说目前在追捕我的强盗与怪物会在这隐蔽的地方找到我并把我撕成碎片？这或许无关紧要了。我从卷轴，墓地和记忆中所收集并记录下来的所有知识...都不重要了。那个世界逝去了，与伟大的安克维亚帝国一并消亡。{^n}{^n}我们曾沦落为野蛮人，像一群野狗般为了食物而争斗。我们杀死其他人来得到一个睡觉的地方，还出卖朋友与家人来换取邪教那虚无的安全承诺。我以前总是在想厄洛兰的历史是否能像安克维亚那样经得起时间的考验。现在我觉得还是算了吧。{^n}{^n}-伯尔维治抄写员斐甘
 
 #Cronley's Mine Notes
@@ -1013,7 +1013,7 @@ tagLoreObj_TrappedAndAloneName=伊劳拉的日记
 tagLoreObj_TrappedAndAloneText=又做噩梦了。梦中我位于一处古老的坟墓中，只有一根蜡烛照亮道路。在转角处我看见了一双泛着红光的眼睛。它们越靠越近 ...越来越近...然后，在我要弄清楚在阴影中到底有什么的时候，它离开了。{^n}{^n}我试着逃跑，但每条路都被岩石所阻。无路可逃。我返回的时候又看见了那双眼睛，盯着我的后背。我听到了笑声，一个小孩的笑声。然后周围的所有东西都燃烧了起来。我试着呼喊，但发不出声音，那双眼睛直勾勾地盯着在火焰中翻滚的我。{^n}{^n}这时我就会醒来，浑身湿透。这样的情况每五天就会出现一次。现在噩梦变得越来越频繁了。我不知道我还能忍受多久。我可能不是个智者，但或许是时候离开这个邪恶之地了。
 
 tagLoreObj_AreaCThornsburyDiary_Name=黛拉日记的节选
-tagLoreObj_AreaCThornsburyDiary_Text=奥利弗不让我继续写下去了。他说我该去农场干活而不是在这里做白日梦。所以我得在晚上写，趁他睡着的时候。他无法阻止幕后操纵着我心灵的沉思。{^n}{^n}鞭打的柳枝，黛拉·索恩斯布瑞著{^n}{^n}柳树的枝条拍打着卧室的窗户。地平线上迎来了又一次的风暴，但黛拉不会觉得这只是另一场淋浴而已。她端坐在床上并看了一下她的丈夫，奥利弗。他仍旧快速的进入了梦乡。即便是暴风雨也不能将他从熟睡中惊醒。{^n}{^n}黛拉起床，确保没有将她丈夫身上的被子弄开。她蹑手蹑脚的走向衣柜并取回她的行装：一件轻革制成的旧大衣和随身匕首，风暴之心。当她拔剑出鞘时，这把剑周身闪烁着电火花。它的魔力仍然和她在黑谷北边的墓地中发现这把剑时一样强大。黛拉替换了这把剑并把剑鞘别在腰带上。在出门前她看了奥利弗最后一眼。他最好是不要知道她的的守夜行动。他只要担心他自己的病痛就行了，黛拉也不愿见到他为自己的安全感到提心吊胆。{^n}{^n}当她出门时，夜风吹拂着她的头发与脸颊。雨已经开始下了，地面也很泥泞。黛拉小心地前进，注意着脚下的每一块岩石，因为它们不是每块都稳固。最后，她到达了柳树林的边缘，一股深深的恐惧立刻向她袭来。{^n}{^n}“我就知道你会来感谢我的，亲爱的黛拉。”树后传来阴森的话语。黛拉握着风暴之心，它表面上跳跃的火花将雨点转化为了薄雾。一枚黑暗符号显现出来并平缓的走向她。她看不清来人的脸，但知道他是谁。“过来，有什么要感谢你兄长的吗？”来者再次说话了。黛拉一言不发。相反，她用手上的剑作为回应。来者用自己的剑对抗着她，一把每次挥舞都会在空中留下燃烧之痕的剑。“我能看出你练习过了。”这个人露齿而笑地说道。{^n}{^n}闪电从天际劈盖而下，呈现出一条雷霆裂隙，短暂地照亮了周围的场景。风暴带来的光亮照出了黛拉对手的脸，那是他死去兄长的一张严重腐烂的脸。"德拉维斯，"黛拉从牙缝中挤出这句话。她又发动了一次攻击...
+tagLoreObj_AreaCThornsburyDiary_Text=奥利弗不让我继续写下去了。他说我该去农场干活而不是在这里做白日梦。所以我得在晚上写，趁他睡着的时候。他无法阻止幕后操纵着我心灵的思绪。{^n}{^n}哭泣的橡树，黛拉·索恩斯巴利著{^n}{^n}附近一棵树上的枝条有节奏地拍打着卧室的窗户。天际又一次刮起了风暴，但黛拉无动于衷，觉得这只是另一场淋浴而已。她从床上坐起来，并快速看了一眼她的丈夫，奥利弗。他还在呼呼大睡。即便是暴风雨也不能将他从沉睡中惊醒。{^n}{^n}黛拉起床，确保没将她丈夫身上的被子掀开。她蹑手蹑脚的走向衣柜并取出她的行装：一件轻革制成的旧大衣和随身短剑，风暴之心。当她拔剑出鞘时，这把剑周身闪烁着电火花。它的魔力仍然和她在黑谷北边的墓地中发现这把剑时一样强大。黛拉换好衣服并把短剑别在了腰带上。在出门前她看了奥利弗最后一眼。他最好不要知道她的的守夜行动。只需担心他自己的病痛就行了，黛拉也不愿见到他为自己的安全感到担忧。{^n}{^n}当她出门时，夜风吹拂着她的头发与脸颊。雨已经开始下了，地面很泥泞。黛拉小心地前进，注意着脚下的每一块岩石，因为它们不是每块都很稳固。最后，她来到了孤单的橡树旁，一种深深的恐惧感向她袭来。{^n}{^n}“我就知道你会来感谢我的，亲爱的黛拉。”树后传来阴森的话语。黛拉紧握着风暴之心，它表面闪烁的火花将雨点转化为了薄雾。一个黑影显现出来并平缓地走向她。她看不清来人的脸，但知道他是谁。“过来，有什么要感谢你哥哥的吗？”来者再次说话了。黛拉一言不发。相反，她用手上的剑作为回应。来者也用自己的剑对抗着她，一把每次挥舞都会在空中留下燃烧之痕的剑。“我能看出你练习过了。”这个人呲牙笑着说道。{^n}{^n}雷电从天际劈闪而下，呈现出一条雷霆裂隙，短暂地照亮了周围的场景。风暴带来的光照亮了黛拉对手的脸，那是他死去兄长的一张严重腐烂的面容。"德拉维斯"，黛拉从牙缝中挤出这句话。她又一次发起了攻击...
 
 tagLoreObj_AreaCFarmer_NoteA01Name=沃尔特的笔记
 tagLoreObj_AreaCFarmer_NoteA01Text=我能看见从河边房屋那里升起的烟雾。他们就在这附近了，不管是什么。我已经尽可能地把门和窗户给挡住了。剩下的只有等他们找到我们了。{^n}{^n}妻子坚持说我们应该抛弃农田并去霍姆斯特德，但要是被那些眼睛闪着绿光的怪胎赶出我们的土地，我会被祖先骂死的。我们的家族世代在这片农场劳作，而现在只是出现了一点兆头就要离开。霍姆斯特德的那些懦夫们把他们的作物留在地里腐烂。当一切都过去，我仍然会在这里进行收割，到时他们就懵逼了。
@@ -1031,7 +1031,7 @@ tagLoreObj_BlackLegion_NoteA01Name=黑色军团侦查报告
 tagLoreObj_BlackLegion_NoteA01Text=我写这封信是为了报告在霍姆斯特德北方极端的麻烦的虚灵活动。我启程去阿克维亚山麓时，穿过了聚居区的矮石墙，围墙，和偶遇的农舍。在游荡在未经侦查的地区的恐惧之下，我谨慎地潜行着，一直没有被发现。我保持潜行来到两座临河的小山之间的山谷时，我目击了一件我几乎无法理解的事情。{^n}{^n}一个超自然的黑色柱子，它既不是石头，也不是血肉，漂浮着慢慢穿过大地，像一片飘得很低的云。病态的绿色光芒在它的核心和挂在一块活动的贝壳下面的巨大的卷曲着的触手上燃烧着。随着这块邪恶的方尖碑慢慢停下来，我越看越害怕，然后，没有警告，那些悬挂的触手探出钩子挖进了地面。地面开始凋零，并且燃起同样病态的绿火。就在那时，那块方尖碑把自己拉进地面。随着一种让我觉得像是大地正在死亡的声音，绿火变得无比明亮，亮到我几乎不能直视。它的力量渗入地面，扭曲和腐化随之蔓延。{^n}{^n}在那里我逗留了将近一个小时，在这段时间里，那块方尖碑周围很大一片地方都改变了。当我打算离开时，那块方尖碑从地面喷出，然后漂到另一个没有腐化的地面开始又一轮的循环。我们必须快速采取行动，否则这里将会无法挽救。{^n}{^n}--黑色军团第六侦查团，雷纳·奥博拉什
 
 tagLoreObj_BlackLegion_NoteA02Name=禁卫军的报告
-tagLoreObj_BlackLegion_NoteA02Text=The air reeks of sulfur and smoke. It is difficult to breathe as I write this report. We have been ambushed, facing overwhelming odds. Some kind of Aetherial monstrosity has risen from the earth up ahead and is spreading aetherfire wherever it passes. I've never seen anything like it.{^n}{^n}The Captain ordered us to punch through the opposition and take out that horrific thing, but he was killed in the initial attack that claimed most of our equipment and troops. The men panicked and we were forced to retreat. I managed to rally the few that were left, but it had become abundantly clear that we would not survive this. I pulled the battalion back to the entrance and ordered a full retreat to Fort Ikon.{^n}{^n}With the Aetherials fast approaching, there was not much time to consider our options. I had the quartermaster hand me what was left of our explosive charges. We rigged the tunnel entrance and set them off, effectively sealing the mountain pass and the Aetherials in with it.{^n}{^n}I regret to report that with the Twin Falls Bridge destroyed and the tunnels sealed, we are now effectively blocked off from the south, but I take solace in knowing that the immolation we witnessed will not spread beyond the mountain crags.{^n}{^n}-Praetorian Marcus Eddin
+tagLoreObj_BlackLegion_NoteA02Text=空气里弥漫着硫磺和硝烟的恶臭。我在写这篇报告时就感到呼吸困难。我们中了埋伏，处于绝对的劣势。某种畸形的虚灵从地上升起并在所到之处散播虚化之火。我从没见过这种情景。队长命令我们强行突破拿下那个可怕的东西，可他在第一场让我们丢盔卸甲损兵折将的战斗中就阵亡了。{^n}{^n}军队陷入了恐慌，我们被逼无奈而撤退。我设法重振那些落下的士兵的士气，但很显然我们没法活着回去。我带着军队回到了入口并下令全军撤退到圣像堡。{^n}{^n}虚灵快速地朝我们推进，我们没有时间犹豫不决。我让军需官交给我所剩的所有爆炸物。我们把它们堆在了隧道的入口处并引爆它们，有效地封锁了进出山区的道路并阻止了虚灵进入此地。本人遗憾地报告，由于双子瀑布大桥被毁以及山区隧道被堵死，我们现在彻底地封锁了南部，可是我欣慰得知我们见证的牺牲将不会扩大到群山峭壁之外。{^n}{^n}-禁卫军 马库斯·艾丁
 
 tagLoreObj_AreaCCultist_NoteA01Name=阿瓦林的笔记 - 第一页
 tagLoreObj_AreaCCultist_NoteA01Text=我们已经逃亡了大概有好几个星期了。虚灵们总是能跟上我们的脚步，到处散播着野火一样的东西。孩子们都挨饿了；我们携带的食物不足以提供全部的人。我不确定我们还能撑多久。{^n}{^n}路上听说冥神的邪教正在招募成员，他们提供食物与庇护。我一直将他们视为异教疯子，沐浴着鲜血对着月亮咆哮，但对安全的承诺真是太好了。索尔隆很害怕成为血誓的成员，但我们都同意为了生存，这将是无法避免的灾祸。孩子们需要食物。
@@ -1099,7 +1099,7 @@ tagLoreObj_AreaCDarvale_NoteA04Name=扎里亚的日记 - 第一页
 tagLoreObj_AreaCDarvale_NoteA04Text=所有的事情都遵照鲜血领主的意思进行。我在这座小镇长达一年的药剂师身份赢得了人们的信任，现在我正处于一个完美的境况来传播我们的事业。而那些拒绝聆听和信奉冥神的家伙，我作为治疗者会很容易地取走他们的性命而不被怀疑。一点来自阿斯特堪龙葵根茎的粉末添加进药方中，就能让任何人昏睡数个小时。{^n}{^n}然后，解决反对者并执行仪式就非常简单了。对于每个回归冥神的人，我将冥神的魔印刻进了他们的血肉之中。对我而言这是鲜血仪式初始时最重要的一步。血液从颈动脉的裂口处快速流干并淌入特别准备的橡木桶中，这个木桶是另一个被鲜血领主祝福的木匠为我制做的。虽然不像我们之前准备的玻璃瓶那么漂亮，但更能避嫌。尸体保存在另一个桶中，上面压着石块，然后沉入湖底。在去年，几乎所有加入祭品的死亡事件都没有怀疑到我们头上。{^n}{^n}但现在，随着伪神的仆从抵达首都并在整个帝国散播浩劫，我们是时候揭开面纱并指引人类踏上前往末日的道路了。一切都将重组！{^n}{^n}-扎里亚，黑谷药剂师
 
 tagLoreObj_AreaCDarvale_NoteA05Name=扎里亚的日记 - 第二页
-tagLoreObj_AreaCDarvale_NoteA05Text=鲜血领主派来的信使告诉我说大墓地内的复苏仪式已经开始了。是时候占领这座镇子了。这里的长官和他的和平卫士会最先被剔除。他们挂了，剩下的平民就会接受我们的教义或是被收割而为仪式所用。我已经派出忠诚的血誓前往黑谷门设障，将难民堵在里面。他们到时全都会为仪式提供能源。{^n}{^n}这里的消息一旦传到黑色军团那里，我们就得准备面临反抗了。我会亲眼看到留在黑谷内的那些惊恐与冥顽不灵的家伙被转化的。如果他们不愿加入我们的事业，他们会被吊起来并放血，以此对那些还未作出选择的人杀鸡儆猴。{^n}{^n}他们都会明白，没有比在鲜血领主的庇护下更安全的地方了。他们也会明白，南方也没有净土了。我们的真正归属只有冥神那温暖的怀抱（囧）。{^n}{^n}-屠刀 扎里亚
+tagLoreObj_AreaCDarvale_NoteA05Text=鲜血领主派来的信使告诉我说大墓地内的复苏仪式已经开始了。是时候占领这座镇子了。这里的长官和他的和平卫士会最先被剔除。他们挂了，剩下的平民就会接受我们的教义或是被收割而为仪式所用。我已经派出忠诚的血誓前往黑谷门设障，将难民堵在里面。他们到时全都会为仪式提供能源。{^n}{^n}这里的消息一旦传到黑色军团那里，我们就得准备面临反抗了。我会亲眼看到留在黑谷内的那些惊恐与冥顽不灵的家伙被转化的。如果他们不愿加入我们的事业，他们会被吊起来并放血，以此对那些还未作出选择的人杀鸡儆猴。{^n}{^n}他们都会明白，没有比在鲜血领主的庇护下更安全的地方了。他们也会明白，南方也没有净土了。我们的真正归属只有冥神那温暖的怀抱。{^n}{^n}-屠刀 扎里亚
 
 tagLoreObj_AreaCDarvale_NoteA06Name=澡堂
 tagLoreObj_AreaCDarvale_NoteA06Text=收集鲜血的进度慢到让我发疯，所以我搞了个双水槽系统，在公共浴室的水管上安装了一个开关。现在我们能将澡盆里的水引流回水槽里了。但当我启动开关时，水却流向了次水槽，那是储存鲜血的地方。然而，带钩子的轮滑系统仍是极好的。在不启用的时候它就会隐藏起来不被发现，但当我们准备献祭的时候...{^n}{^n}扎里亚给我提供了龙葵根茎来与浴盐溶在一起。混在热水里，它就能让客人们沉睡。然后我们把水放干，进行仪式，启动开关并集中祭品，没有一点浪费。这费了点工夫，但我很自豪。这是批量收集的第一步，这会加速进程的。我已经等不及要告诉其他人了。{^n}{^n}赫若德·费尔德文，黑谷木工

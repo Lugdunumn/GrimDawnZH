@@ -381,7 +381,7 @@ tagEnemyBloodswornMiniBoss01=萨拉查, 冥神之刃
 tagEnemyBloodswornMiniBoss02=伯瓦尔, 血之羁绊
 tagEnemyBloodswornMiniBoss03=扎里亚, 屠刀
 tagBloodswornBoss01=血领主 泰隆尼斯
-tagBloodswornBoss02=卡若兹, 冥神魔印
+tagBloodswornBoss02=卡若兹, 冥神替身
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯 ~ 恶棍
@@ -689,14 +689,14 @@ tagGravestone_Skeleton03=瑞恩
 
 #CreatureSlith 蛇人
 
-tagEnemyDeepMire_SlithWarriorA01=泥潭战士
-tagEnemyDeepMire_SlithWarriorB01=泥潭先锋
-tagEnemyDeepMire_SlithWarriorC01=泥潭勇士
-tagEnemyDeepMire_SlithWarriorC02=泥潭潮汐猎人
-tagEnemyDeepMire_SlithShamanB01=泥潭萨满
-tagEnemyDeepMire_SlithShamanB02=泥潭驯兽师
-tagEnemyDeepMire_SlithShamanC01=泥潭召唤者
-tagEnemyDeepMire_SlithShamanC02=泥潭纯种蛇人
+tagEnemyDeepMire_SlithWarriorA01=泥沼战士
+tagEnemyDeepMire_SlithWarriorB01=泥沼先锋
+tagEnemyDeepMire_SlithWarriorC01=泥沼勇士
+tagEnemyDeepMire_SlithWarriorC02=泥沼潮汐猎人
+tagEnemyDeepMire_SlithShamanB01=泥沼萨满
+tagEnemyDeepMire_SlithShamanB02=泥沼驯兽师
+tagEnemyDeepMire_SlithShamanC01=泥沼召唤者
+tagEnemyDeepMire_SlithShamanC02=泥沼纯种蛇人
 
 tagEnemyVenomtongue_SlithWarriorA01=毒舌战士
 tagEnemyVenomtongue_SlithWarriorB01=毒舌先锋

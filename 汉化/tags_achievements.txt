@@ -1,4 +1,4 @@
-# Achievement Groups 成就要素
+# Achievement Groups 成就体系
 
 achGroupAct1=第一章
 achGroupAct2=第二章
@@ -12,34 +12,34 @@ achGroupWorld=世界
 # Achievements
 
 ach001Title=怪物屠杀者
-ach001Desc=消灭 25 只精英怪物 (带有星形标记)。
+ach001Desc=消灭 25 只精英怪物(头顶有星)。
 
 ach002Title=史诗屠杀者
-ach002Desc=消灭 100 只精英怪物 (带有星形标记)。
+ach002Desc=消灭 100 只精英怪物(头顶有星)。
 
 ach003Title=传奇屠杀者
-ach003Desc=消灭 1000 只精英怪物 (带有星形标记)。
+ach003Desc=消灭 1000 只精英怪物(头顶有星)。
 
 ach004Title=复仇者
-ach004Desc=击杀一个复仇怪物(名称为红色)于精英或终极难度。
+ach004Desc=击杀一个复仇怪物(红名)于精英或终极难度。
 
 ach005Title=势不可挡
-ach005Desc=击杀六个复仇怪物(名称为红色)于精英或者终极难度。
+ach005Desc=击杀六个复仇怪物(红名)于精英或终极难度。
 
 ach006Title=净化世界
-ach006Desc=清除凯恩世界的 25000 只怪物。
+ach006Desc=消灭凯恩世界的 25000 只怪物。
 
 ach007Title=屠戮觉醒
-ach007Desc=清除凯恩世界的 100000 只怪物。
+ach007Desc=消灭凯恩世界的 100000 只怪物。
 
 ach008Title=尸山血海
-ach008Desc=清除凯恩世界的 1000000 只怪物。
+ach008Desc=消灭凯恩世界的 1000000 只怪物。
 
 ach009Title=末日友谊
-ach009Desc=与一个势力的关系达到敬畏。
+ach009Desc=与一股势力的关系达到敬畏。
 
 ach010Title=凯恩世界的典范
-ach010Desc=与六个势力的关系达到敬畏。
+ach010Desc=与六股势力的关系达到敬畏。
 
 ach011Title=至高神的仆从
 ach011Desc=凯蒙神选战士的声望达到敬畏。
@@ -51,28 +51,28 @@ ach013Title=堕落的终结
 ach013Desc=击杀萨拉查于堕落圣殿。
 
 ach014Title=粉碎冥神之刃
-ach014Desc=在终极难度击杀萨拉查于堕落圣殿。
+ach014Desc=击杀萨拉查于堕落圣殿于终极难度。
 
 ach015Title=处决刽子手
 ach015Desc=击杀阿卡莫斯于苦痛阶梯。
 
 ach016Title=苦痛的终结
-ach016Desc=在终极难度击杀阿卡莫斯于苦痛阶梯。
+ach016Desc=击杀阿卡莫斯于苦痛阶梯于终极难度。
 
 ach017Title=不朽的行刑者
-ach017Desc=在专家模式击杀阿卡莫斯于苦痛阶梯。
+ach017Desc=以专家模式击杀阿卡莫斯于苦痛阶梯。
 
 ach018Title=伸张正义
 ach018Desc=击杀典狱长克里格于隐藏的实验室。
 
 ach019Title=往日的威胁
-ach019Desc=击杀德莱厄斯·克隆利。
+ach019Desc=击杀德莱厄斯·克隆利于四山藏身处。
 
 ach020Title=以血还血
-ach020Desc=击杀卡洛斯, 冥神魔像。
+ach020Desc=击杀卡若兹, 冥神替身于黑谷门。
 
 ach021Title=凯恩世界的梦魇
-ach021Desc=击杀罗霍里恩, 冥神之声。
+ach021Desc=击杀罗霍里恩, 冥神之声于守望者之墓。
 
 ach022Title=净化战火平原
 ach022Desc=击杀烈焰使者于战火平原。
@@ -80,7 +80,7 @@ ach022Desc=击杀烈焰使者于战火平原。
 ach023Title=不惧火焰
 ach023Desc=在终极难度击杀烈焰使者于战火平原。
 
-ach024Title=击杀格特沃姆
+ach024Title=铲除格特沃姆
 ach024Desc=击杀格特沃姆于走私者盆地。
 
 ach025Title=你很有种
@@ -89,10 +89,10 @@ ach025Desc=在终极难度击杀格特沃姆于走私者盆地。
 ach026Title=修补是她的专长
 ach026Desc=解救达莱特于伯尔维治庄园。
 
-ach027Title=以曼海尔的锤骨之名
-ach027Desc=争取到铁匠的帮助。
+ach027Title=授予曼海尔的锤骨
+ach027Desc=争取到一位铁匠的帮助。
 
-ach028Title=没汤给你
+ach028Title=汤没给你喝
 ach028Desc=解救奥格瑞姆于伯尔维治郊外。
 
 ach029Title=学徒级工匠
@@ -122,7 +122,7 @@ ach036Desc=打开 20 个一次性箱子。
 ach037Title=探索之星
 ach037Desc=修复 10 个虔诚祭坛。
 
-ach038Title=真正虔诚者
+ach038Title=真正的虔诚
 ach038Desc=修复 50 个虔诚祭坛。
 
 ach039Title=幸存者
@@ -141,76 +141,76 @@ ach043Title=不朽的传奇人物
 ach043Desc=达到等级 85 于专家模式。
 
 ach044Title=凯恩世界的救星
-ach044Desc=游戏的终极难度通关。
+ach044Desc=通关游戏于终极难度。
 
 ach045Title=不朽的救世主
-ach045Desc=游戏的终极难度以专家模式通关。
+ach045Desc=以专家模式通关游戏于终极难度。
 
 ach046Title=问题专家
-ach046Desc=解决新港的问题而不是诉诸武力。
+ach046Desc=以非暴力方式解决新港的问题。
 
 ach047Title=一视同仁
-ach047Desc=击杀安娜斯特莉娅。
+ach047Desc=击杀安娜斯特莉娅于圣像堡监狱。
 
 ach048Title=我没想到会是你，人类
-ach048Desc=在老兵难度用低于 11 级的人物击杀典狱长克里格。
+ach048Desc=以低于 11 级的人物击杀典狱长克里格于老兵难度。
 
 ach049Title=保卫伯尔维治
-ach049Desc=保卫伯尔维治传送门于老兵难度。
+ach049Desc=保护伯尔维治传送门于老兵难度。
 
 ach050Title=藏匿于浸没通道
-ach050Desc=探索浸没通道的倒塌岩石后面藏匿着什么。
+ach050Desc=探索浸没通道倒塌的岩石后面隐藏着什么。
 
 ach051Title=克隆利的秘密
 ach051Desc=揭开德莱厄斯·克隆利的秘密。
 
 ach052Title=隐藏的财宝
-ach052Desc=在霍姆斯特德附近的农田里找到埋藏的宝藏。
+ach052Desc=寻找霍姆斯特德附近农田的宝藏。
 
 ach053Title=他盘踞在遗忘深渊
 ach053Desc=击杀高鲁斯, 穴居者。
 
 ach054Title=死亡空间
-ach054Desc=生存于灵魂居所。
+ach054Desc=生存于苦痛阶梯的灵魂居所。
 
 ach055Title=让我收集我的笔记
-ach055Desc=收集 5 学识笔记
+ach055Desc=收集 5 篇学识笔记。
 
 ach056Title=笔记收藏家
-ach056Desc=收集 20 学识笔记
+ach056Desc=收集 20 篇学识笔记。
 
 ach057Title=博学者
-ach057Desc=收集 50 学识笔记
+ach057Desc=收集 50 篇学识笔记。
 
 ach058Title=绝望之地
-ach058Desc=生存于绝望之地。
+ach058Desc=生存于混沌城堡的绝望之地。
 
 ach059Title=天神煞星
 ach059Desc=击败莫格卓根的化身。
 
 ach060Title=沙'祖尔消灭者
-ach060Desc=击杀沙'祖尔, 混沌使者于混沌堡垒。
+ach060Desc=击杀混沌堡垒的沙'祖尔, 混沌使者。
 
 ach061Title=攻克堡垒
-ach061Desc=在终极难度击杀沙'祖尔, 混沌使者于混沌堡垒。
+ach061Desc=击杀混沌堡垒的沙'祖尔, 混沌使者于终极难度。
 
 ach062Title=不朽的堡垒征服者
-ach062Desc=在专家模式击杀沙'祖尔, 混沌使者于混沌堡垒。
+ach062Desc=以专家模式击杀沙'祖尔, 混沌使者于混沌堡垒。
 
 ach063Title=教团勇士
-ach063Desc=在终极难度以死亡守夜人教团身份击杀执政官巴托雷姆。
+ach063Desc=以死亡守夜人教团身份击杀执政官巴托雷姆于终极难度。
 
 ach064Title=神选勇士
-ach064Desc=在终极难度以凯蒙神选战士身份击杀马卡达尔。
+ach064Desc=以凯蒙神选战士身份击杀马卡达尔于终极难度。
 
 ach065Title=净化献祭
 ach065Desc=击杀毁灭使者于献祭之地。
 
 ach066Title=禁地使者
-ach066Desc=在终极难度击杀毁灭使者于献祭之地。
+ach066Desc=击杀献祭之地的毁灭使者于终极难度。
 
 ach067Title=凯恩世界的卫士
-ach067Desc=通关游戏。
+ach067Desc=通关游戏于普通或老兵难度。
 
 ach068Title=凯恩世界的勇士
-ach068Desc=以精英难度通关游戏。
+ach068Desc=通关游戏于精英难度。

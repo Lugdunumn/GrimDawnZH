@@ -484,7 +484,7 @@ tagWeaponCaster1hC005=虚空魔刃
 tagWeaponCaster1hC006=血瘟刻刀
 tagWeaponCaster1hC007=灵魂刻刀
 tagWeaponCaster1hC007_Desc="据说这把刀不仅能切割肉体，还能伤及灵魂。"
-tagWeaponCaster1hC008=科托希安祈求权杖
+tagWeaponCaster1hC008=科托希安权杖
 tagWeaponCaster1hC008_Desc="科托西安的大师们在施展奥术时偏爱使用的武器。"
 tagWeaponCaster1hC009=骤霜权杖
 tagWeaponCaster1hC010=索命权杖
@@ -899,7 +899,7 @@ tagHeadB013=畸形头盔
 tagHeadB014={^l}畸形兜盔
 tagHeadB015={^l}幽光王冠
 tagHeadB015Desc="强大的死亡能量使这顶王冠在人世中得以显形。"
-tagHeadB016={^l}米尔顿头盔
+tagHeadB016={^l}弥尔顿头盔
 tagHeadB016Desc="头盔每多一道刻痕便代表他又干掉了一个被占据者。"
 
 tagHeadC001=风暴召唤者的头环

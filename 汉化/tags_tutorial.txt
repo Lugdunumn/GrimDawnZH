@@ -105,7 +105,7 @@ tagTutorialTip26TextB=要在聊天中加入物品链接，打开聊天窗口后�
 
 tagTutorialTip27Title=多人游戏
 tagTutorialTip27TextA=你可以与其他玩家组队，共享经验与铁币而且还能发起交易。你可以通过点击该图标或按下 {^x}[%t0]{^-} 打开组队窗口，组队对于PvP也是至关重要的。
-tagTutorialTip27TextB=右击左上方玩家状态栏就可以对队伍内的另一名玩家发起交易。
+tagTutorialTip27TextB=右击左上方玩家状态栏的队友头像即可选择与同队的另一名玩家"交易"。
 tagTutorialTip27TextC=你也可以使用聊天窗口与其他玩家交谈。可通过按下 {^x}[%t0]{^-} 打开。
 
 tagTutorialTip28Title=玩家交易
@@ -140,7 +140,7 @@ tagTutorialTip38TextB=你可以购买额外的物品栏来扩展你的共享仓�
 tagTutorialTip38SubtitleA=人物间转移
 tagTutorialTip38TextC=要转移物品，把他们放在物品转移界面。当你登陆其他人物时，你可以从走私者那里访问这些物品。
 tagTutorialTip38SubtitleB=玩家间转移
-tagTutorialTip38TextD=要想在多人游戏中与其他玩家的人物交易物品，你需要使用交易功能。
+tagTutorialTip38TextD=要想在多人游戏中与其他玩家交易物品，你需要使用"交易"功能。
 
 tagTutorialTip39Title=发明家
 tagTutorialTip39TextA=发明家有从物品上移除镶嵌物和增幅物的能力。物品或镶嵌物其中一项将在工序中保留下来。任何的增幅物都会丢失。

@@ -604,7 +604,7 @@ tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
 tagShieldC015=角斗士圆盾
 tagShieldC016=火焰护盾
 tagShieldC017=军团先锋盾
-tagShieldC018=迈密登的护盾
+tagShieldC018=追随者的护盾
 
 tagShieldD001=胸骨护盾
 tagShieldD001Desc="用一位不幸农夫的胸腔塑型而成的死灵之盾。"
@@ -825,20 +825,39 @@ tagStyle041=镀金
 tagStyle042=奢华
 
 #ArmorClass 护甲种类
-tagArmorClass01=施法者护甲
-tagArmorClass02=护甲
-tagArmorClass03=重型护甲
+tagArmorClass01=施法 
+tagArmorClass02=
+tagArmorClass03=重型 
 
 #WeaponClass 武器类
-tagOneHanded=单手武器
-tagTwoHanded=双手武器
 tagOffHand=副手
+tagShield=盾牌
 
-#MiscClass 其它种类
+tagOneHandedSword=单手剑
+tagOneHandedMace=单手锤
+tagOneHandedAxe=单手斧
+tagOneHandedDagger=单手短剑
+tagOneHandedScepter=单手权杖
+tagOneHandedPistol=单手远程
+
+tagTwoHandedSword=双手剑
+tagTwoHandedMace=双手锤
+tagTwoHandedAxe=双手斧
+tagTwoHandedRifle=双手远程
+
+tagWeaponUnknown=未知
+
+#ArmorSlots
 tagRing=戒指
 tagAmulet=项链
 tagMedal=勋章
 tagBelt=腰带
+tagShoulders=肩甲
+tagHead=头盔
+tagLegs=腿甲
+tagChest=胸甲
+tagFeet=靴鞋
+tagGloves=手甲
 
 #QualityClass 品质种类
 tagMagic=魔法 
@@ -936,7 +955,7 @@ tagHeadC027=禁卫军面甲
 tagHeadC028=寒霜碎片王冠
 tagHeadC029=怒火头环
 tagHeadC030=死神之眼面甲
-tagHeadC031=迈密登面具
+tagHeadC031=追随者面具
 tagHeadC032=莫格卓根风帽
 
 tagHeadD001=绝望护喉风帽
@@ -1002,6 +1021,18 @@ tagShoulderB010=升灵披肩
 tagShoulderB011={^l}升灵肩饰
 tagShoulderB012=畸形肩甲
 tagShoulderB013={^l}畸形肩铠
+tagShoulderB014=瓦尔达兰披肩
+tagShoulderB015=瓦尔达兰护肩
+tagShoulderB016=本'扎尔护肩
+tagShoulderB017=本'扎尔肩铠
+tagShoulderB018=莫斯劳克护肩
+tagShoulderB019=莫斯劳克肩铠
+tagShoulderB020=铁娘子披肩
+tagShoulderB021=铁娘子护肩
+tagShoulderB022=赞塔兰披肩
+tagShoulderB023=赞塔兰护肩
+tagShoulderB024=费比乌斯护肩
+tagShoulderB025=费比乌斯肩铠
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -1148,7 +1179,7 @@ tagTorsoC027=禁卫军胸甲
 tagTorsoC028=虚空熔铸战甲
 tagTorsoC029=持火者的胸甲
 tagTorsoC030=卡里多的战衣
-tagTorsoC031=迈密登护胸
+tagTorsoC031=追随者护胸
 tagTorsoC032=莫格卓根外衣
 
 tagTorsoD001=恶魔之鳞风衣
@@ -1730,7 +1761,7 @@ tagMedalC022=女神徽章
 tagMedalC023=寒天星徽章
 tagMedalC024=火山星章
 tagMedalC025=猛决盾徽
-tagMedalC026=迈密登崇敬星章
+tagMedalC026=追随者崇敬星章
 
 tagMedalD001=变节者徽章
 tagMedalD001Desc="它曾是强加给异教徒的徽章，但后来巫神的追随者们以之为傲。"
@@ -1970,7 +2001,7 @@ tagBlueprint_ArmorC006=设计图：^b盲刺客风帽
 tagBlueprint_ArmorC007=设计图：^b圣约之不洁面甲
 tagBlueprint_ArmorC008=设计图：^b持火者的夹克
 tagBlueprint_ArmorC009=设计图：^b卡里多的战衣
-tagBlueprint_ArmorC010=设计图：^b迈密登面具
+tagBlueprint_ArmorC010=设计图：^b追随者面具
 tagBlueprint_ArmorC011=设计图：^b莫格卓根风帽
 
 tagBlueprint_ArmorD001=设计图：^i绝望护喉风帽
@@ -2161,7 +2192,7 @@ tagCraftMaterial_RoyalJelly=蜂王浆
 tagCraftMaterial_RoyalJelly_Desc="古安克维亚巨峰浓缩的分泌物，很多人相信它有滋补的功效。"
 tagCraftMaterial_AetherShard=虚化碎片
 tagCraftMaterial_AetherShard_Desc="从虚化结晶上取下的一块巨大的碎片，仍充满着未使用的能量。"
-tagCraftMaterial_AetherCluster=虚化结晶簇
+tagCraftMaterial_AetherCluster=虚化集簇
 tagCraftMaterial_AetherCluster_Desc="一簇浓缩的虚化碎片，喷涌着不稳定的能量。"
 tagCraftMaterial_TaintedBrain=感染大脑
 tagCraftMaterial_TaintedBrain_Desc="扭曲的，伤痕累累的脑组织，被强大的虚灵所控制。"
@@ -2182,6 +2213,7 @@ tagCraftComponentRareDesc=失传已久的卓越锻造技术。
 tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的碎片。
 tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
 tagCraftTransmuteDesc=通过炼金术的加热和锻造，稀有材料可以被转化为其他同样罕见的作品。
+tagCraftRandomLegendaryDesc=铁匠把奥术能量注入这些物体来创造具有传奇能力的装备。
 
 tagCraftRandomAxe=附魔斧
 tagCraftRandomBlunt=附魔锤
@@ -2221,6 +2253,12 @@ tagCraftRandomShoulder_Light=附魔肩甲
 tagCraftRandomTorso_Caster=附魔施法胸甲
 tagCraftRandomTorso_Heavy=附魔重型胸甲
 tagCraftRandomTorso_Light=附魔胸甲
+
+tagCraftRandomLegendary_Armor=传奇护甲
+tagCraftRandomLegendary_Accessory=传奇佩饰
+tagCraftRandomLegendary_MeleeWeapon=传奇近战武器
+tagCraftRandomLegendary_RangedWeapon=传奇远程武器
+tagCraftRandomLegendary_CasterWeapon=传奇施法武器
 
 
 tagSuppliesIncomplete=部分锻造材料
@@ -2309,7 +2347,7 @@ tagConsumableA20=蜂王浆药膏
 tagConsumableA20Desc="以浓缩的蜂王浆制成的混合物，可以抚平伤痛。"
 tagConsumableA21=
 tagConsumableA21Desc=
-tagConsumableA22=虚化集簇
+tagConsumableA22=虚化晶簇
 tagConsumableA22Desc="虚化结晶的大型集簇，散发着奇异的能量。"
 
 tagConsumableF01=石心之油
@@ -2346,13 +2384,13 @@ tagDLCA01Desc="高雅和风尚的定义。"
 tagDLCA02=幻象: 侠盗的外套
 tagDLCA02Desc="环游世界的首选穿着。"
 tagDLCA03=赞助者的奖章
-tagDLCA03Desc="表彰最忠诚的Kickstarter众酬支持者。"
-tagDLCA04=Kickstarter服役勋章
-tagDLCA04Desc="纪念2012年Kickstarter伟大众筹战争的徽章。"
-tagDLCA05=Kickstarter老兵勋章
-tagDLCA05Desc="纪念2012年Kickstarter伟大众筹战争的老兵徽章。"
-tagDLCA06=Kickstarter士官勋章
-tagDLCA06Desc="纪念2012年Kickstarter伟大众筹战争的士官徽章。"
+tagDLCA03Desc="表彰最忠诚的 (Kickstarter) 众酬支持者。"
+tagDLCA04=Kickstarter 服役勋章
+tagDLCA04Desc="纪念2012年伟大 (Kickstarter) 众筹战争的徽章。"
+tagDLCA05=Kickstarter 老兵勋章
+tagDLCA05Desc="纪念2012年伟大 (Kickstarter) 众筹战争的徽章。"
+tagDLCA06=Kickstarter 士官勋章
+tagDLCA06Desc="纪念2012年伟大 (Kickstarter) 众筹战争的徽章。"
 tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
 tagDLCConsumableA01PetSkill01=精灵光环
@@ -2714,7 +2752,7 @@ tagEnchantB020Desc="正当他们准备防御的时候，幸存者们声称世界
 tagEnchantB021A=元素之歌 I
 tagEnchantB021B=元素之歌 II
 tagEnchantB021BC=元素之歌 III
-tagEnchantB021Desc="穆尔隆，灵魂向导，他设计了这件包含了冰与火冲突之力的魔法物品。"^N^w(用于戒指和项链)
+tagEnchantB021Desc="萨蒂娜，灵魂向导，他设计了这件包含了冰与火冲突之力的魔法物品。"^N^w(用于戒指和项链)
 
 tagEnchantB022A=维洛丝的叮咬 I
 tagEnchantB022B=维洛丝的叮咬 II
@@ -3226,7 +3264,7 @@ tagCompB018Desc="当刺客完成了极为危险的赏金任务后授予他的徽
 tagCompB019Name=^k奥术火花
 tagCompB019Desc="闪耀着最纯粹的奥术能量。"^N^w(用于项链和勋章)
 
-tagCompB020Name=^k迈密登印记
+tagCompB020Name=^k追随者印记
 tagCompB020Desc="蕴含着强大力量的徽章，授予战场上最勇猛无畏的部将。"^N^w(用于盾牌)
 
 tagCompB021Name=^k奥莱隆的血
@@ -3341,6 +3379,7 @@ tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被�
 
 tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[按住Ctrl点击以拆分堆叠]
+tagHideTooltip=[按住Ctrl点击以隐藏提示]
 
 #Bonuses 奖励
 tagBonusLifePercentAbsPercent={^E}回复 {^H}{%.0f0}%+{%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续时间
@@ -3451,7 +3490,7 @@ tagItemSetC024Desc="穿着者有着一颗火热的心，充满了火焰的精神
 tagItemSetC025Name=卡里多的法衣
 tagItemSetC025Desc="套服属于大师卡里多，一位受尊敬的奥术师和奥术风暴技术的创造者。"
 
-tagItemSetC026Name=迈密登套甲
+tagItemSetC026Name=追随者套甲
 tagItemSetC026Desc="黑色军团颁发给他们的精英先锋的装甲。"
 
 tagItemSetC027Name=莫格卓根的安宁

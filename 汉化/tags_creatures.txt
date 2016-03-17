@@ -1043,7 +1043,7 @@ tagBossLoghorreanTentacleCluster=触手簇
 tagMiscTargetDummy=训练假人
 
 #Nemesis 复仇者
-tagNemesis_Aetherial01=沃达兰, 风暴之灾
+tagNemesis_Aetherial01=瓦尔达兰, 风暴之灾
 tagNemesis_Aetherial02=被遗忘的邪灵
 tagNemesis_Aetherial03=贱民
 tagNemesis_Chthonian01=扎克'阿兰, 永恒之石

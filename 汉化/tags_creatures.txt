@@ -107,13 +107,13 @@ tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 tagBoneRatMiniBoss01=贮藏者 格兰德佩里斯
 tagBoneRatMiniBoss02=贮藏者 普斯贵尔
 
-#CreatureChthonian 冥灵
+#CreatureChthonian 冥煞
 
-tagEnemyChthonianAbomination=冥灵 拆解者
+tagEnemyChthonianAbomination=冥煞 拆解者
 
-tagEnemyChthonianMinionA01=冥灵先锋
-tagEnemyChthonianMinionB01=冥灵放血者
-tagEnemyChthonianMinionC01=冥灵凋零使者
+tagEnemyChthonianMinionA01=冥煞先锋
+tagEnemyChthonianMinionB01=冥煞放血者
+tagEnemyChthonianMinionC01=冥煞凋零使者
 
 tagChthonianMinionHeroH01=恰恩'达若斯
 tagChthonianMinionHeroH02=埃尔纳'达若斯
@@ -123,10 +123,10 @@ tagChthonianMinionHeroH05=帕尔夫'达若斯
 tagChthonianMinionHeroH06=玛戈'卢加尔 ~ 防御
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
-tagEnemyChthonianDreadguardA01=冥灵先锋
-tagEnemyChthonianDreadguardB01=冥灵恐惧守卫
+tagEnemyChthonianDreadguardA01=冥煞先锋
+tagEnemyChthonianDreadguardB01=冥煞恐惧守卫
 tagEnemyChthonianDreadguardB01Logghorrean=罗霍里恩的守卫
-tagEnemyChthonianDreadguardC01=冥灵暴君
+tagEnemyChthonianDreadguardC01=冥煞暴君
 tagEnemyChthonianDreadguardC01Logghorrean=罗霍里恩的暴君
 tagEnemyChthonianDreadguardD01=罗霍里恩的先锋
 
@@ -171,10 +171,10 @@ tagVoidFiendBoss01=巴洛格'纳斯, 地狱之火
 
 #CreatureChthonianDevourer
 
-tagEnemyChthonianDevourerA00=冥灵游荡者
-tagEnemyChthonianDevourerA01=冥灵饥饿者
-tagEnemyChthonianDevourerB01=冥灵吞噬者
-tagEnemyChthonianDevourerB02=冥灵饱食者
+tagEnemyChthonianDevourerA00=冥煞游荡者
+tagEnemyChthonianDevourerA01=冥煞饥饿者
+tagEnemyChthonianDevourerB01=冥煞吞噬者
+tagEnemyChthonianDevourerB02=冥煞饱食者
 
 tagChthonianDevourerHeroH01=紐'加鲁, 湮灭之颚
 tagChthonianDevourerHeroH02=萨戈'丁, 饥饿之胃
@@ -860,7 +860,7 @@ tagCaveSpiderHeroH02=维拉克斯娜 ~ 复生
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 
 tagCaveSpiderBoss01=安苟利亚克斯, 幽冥编织者
-tagCaveTrollHalfBoss01=高鲁斯, 穴居者
+tagCaveTrollHalfBoss01=咕噜斯, 穴居者
 
 #creatureVultures 秃鹫
 
@@ -916,7 +916,7 @@ tagEnemyZombieSoldierB01=腐朽灰烬守卫
 tagEnemyZombieSoldierC01=狂暴战士
 tagEnemyZombieBerserkerA01=尸魔
 
-tagEnemyZombieVoidA01=冥灵失魂者
+tagEnemyZombieVoidA01=冥煞失魂者
 
 tagEnemyZombieMutatedA01=畸形屠夫
 tagEnemyZombieMutatedB01=畸形鞭笞者
@@ -1104,7 +1104,7 @@ tagDevotion_ChthonianMinionH05=布罗古'杜斯
 tagDevotion_ChthonianMinionH06=玛尔'索隆 ~ 冰冻
 tagDevotion_ChthonianMinionH07=休古'贾古斯 ~ 护盾
 
-tagDevotion_ChthonianMonstrosityH01=冥灵 拆解者
+tagDevotion_ChthonianMonstrosityH01=冥煞 拆解者
 
 tagDevotion_FleshHulkH01=刺锤先知
 tagDevotion_FleshHulkH02=阿尔瑟琳
@@ -1212,7 +1212,7 @@ tagBountyRO19=格鲁姆
 tagRace001=亡灵
 tagRace002=兽人
 tagRace003=虚灵
-tagRace004=冥灵
+tagRace004=冥煞
 tagRace005=腐败虚灵
 tagRace006=血誓
 tagRace007=邪术生物
@@ -1227,7 +1227,7 @@ tagRace015=蜘蛛族
 tagRace001P=亡灵
 tagRace002P=兽人
 tagRace003P=虚灵
-tagRace004P=冥灵
+tagRace004P=冥煞
 tagRace005P=腐败虚灵
 tagRace006P=血誓
 tagRace007P=邪术生物

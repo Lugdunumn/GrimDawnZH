@@ -609,7 +609,7 @@ tagShieldC018=追随者的护盾
 tagShieldD001=胸骨护盾
 tagShieldD001Desc="用一位不幸农夫的胸腔塑型而成的死灵之盾。"
 tagShieldD002=终结圆盾
-tagShieldD002Desc="在一场对抗冥灵势力的绝望战斗中，由筑路工人所打造的盾牌。"
+tagShieldD002Desc="在一场对抗冥煞势力的绝望战斗中，由筑路工人所打造的盾牌。"
 tagShieldD003=贱民长盾
 tagShieldD004=生存意志护盾
 tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在虚化之火中重铸为一面盾牌。"
@@ -1163,7 +1163,7 @@ tagTorsoC014=丧服
 tagTorsoC014Desc="哭泣之眼的成员曾经穿着这种牧师的服饰。"
 tagTorsoC015=蛛丝锁子甲
 tagTorsoC016=邪恶符咒外衣
-tagTorsoC016Desc="只有嗜血的精英信徒才会穿着这种冥灵的服饰。"
+tagTorsoC016Desc="只有嗜血的精英信徒才会穿着这种冥煞的服饰。"
 tagTorsoC017=使者的官服
 tagTorsoC018=沉沦胸甲
 tagTorsoC019=盲刺客隐形衣
@@ -1264,7 +1264,7 @@ tagWaistC004=掠夺者的弹药带
 tagWaistC005=酋长的荣耀腰带
 tagWaistC006=猎头者的战利品
 tagWaistC007=侍僧的束带
-tagWaistC008=冥灵丝线腰带
+tagWaistC008=冥煞丝线腰带
 tagWaistC009=浴血腰链
 tagWaistC009Desc="永远滴着鲜血的腰带。"
 tagWaistC010=先祖束腰
@@ -1365,7 +1365,7 @@ tagHandsD001=奔放强权护手
 tagHandsD001Desc="用奥莱隆本体的凶暴之力赐福过的手套。"
 tagHandsD002=永生林地触手
 tagHandsD003=虚空钢铁手甲
-tagHandsD003Desc="用冥灵先锋阴燃的尸体锻造而成的手套。"
+tagHandsD003Desc="用冥煞先锋阴燃的尸体锻造而成的手套。"
 tagHandsD004=死灵法师的护手
 tagHandsD004Desc="死灵法师施法时使用的手套，上面依然存在着恐怖的魔力。"
 tagHandsD005=龙骨护手
@@ -1452,7 +1452,7 @@ tagFeetC005=探险者的裹足
 tagFeetC006=寻血猎犬护胫
 tagFeetC007=终结行军靴
 tagFeetC007B=终结行军靴
-tagFeetC007Desc="每迈出一步，都有数千士兵死于冥灵之手，这压在脚上如有千钧之重。"
+tagFeetC007Desc="每迈出一步，都有数千士兵死于冥煞之手，这压在脚上如有千钧之重。"
 tagFeetC008=裂隙魔犬皮靴
 tagFeetC008Desc="野兽有百害而无一利，但用来做靴子却很不错。"
 tagFeetC009=无畏裹足
@@ -1510,7 +1510,7 @@ tagRingB002={^l}克隆利印玺
 tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
 tagRingB003=斯金纳家传戒指
 tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
-tagRingB004={^l}高鲁斯戒指
+tagRingB004={^l}咕噜斯戒指
 tagRingB004Desc="他真的是很喜欢这枚戒指。"
 tagRingB005={^l}血誓玺戒
 tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
@@ -1739,7 +1739,7 @@ tagMedalC003=正义勋章
 tagMedalC004=鲜血收割者的徽章
 tagMedalC005=猩红心型徽章
 tagMedalC006=战地医生的徽章
-tagMedalC006Desc="奖赏给久经沙场的战地医疗兵的徽章，他们在胶着的战事中英勇无畏，救死扶伤。"
+tagMedalC006Desc="奖励给久经沙场的战地医疗兵的徽章，他们在胶着的战事中英勇无畏，救死扶伤。"
 tagMedalC007=圣殿骑士徽章
 tagMedalC008=奥秘星章
 tagMedalC009=先锋星章
@@ -2037,7 +2037,7 @@ tagBlueprint_AccessoryC008=设计图：^b强化 贝若纳斯精华坠饰
 tagBlueprint_AccessoryC009=设计图：^b强化 风暴徽章
 tagBlueprint_AccessoryC010=设计图：^b光耀丝线腰带
 tagBlueprint_AccessoryC011=设计图：^b均衡腰带
-tagBlueprint_AccessoryC012=设计图：^b强化 冥灵丝线腰带
+tagBlueprint_AccessoryC012=设计图：^b强化 冥煞丝线腰带
 
 tagBlueprint_AccessoryD001=设计图：^i星怒绿宝石吊坠
 tagBlueprint_AccessoryD002=设计图：^i恐怖黎明精华坠饰
@@ -2204,7 +2204,7 @@ tagCraftMaterial_Manticore=蝎尾狮的眼球
 tagCraftMaterial_Mancitore_Desc="强大掠食者的锐眼。"
 tagCraftMaterial_SkeletonKey=骸骨钥匙
 tagCraftMaterial_SkeletonKey_Desc="如果传言是真的，那么这钥匙将能开启几乎任何一扇远古之门。"
-tagCraftMaterial_CultistSeal=冥灵魔印
+tagCraftMaterial_CultistSeal=冥煞魔印
 tagCraftMaterial_CultistSeal_Desc="冥神的信徒使用这种魔印，来将强大的生物召唤至现实世界。"
 
 tagCraftRandomItemDesc=铁匠能打造一件符合你的等级的附魔装备，该装备至少会是魔法品质的。
@@ -2432,12 +2432,12 @@ tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤
 tagEnchantA003A=虚空野兽粉末 I
 tagEnchantA003B=虚空野兽粉末 II
 tagEnchantA003C=虚空野兽粉末 III
-tagEnchantA003Desc="从冥灵野兽的干燥残骸上提取的粉末。"^N^w(用于所有单手武器、盾牌和副手)
+tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。"^N^w(用于所有单手武器、盾牌和副手)
 
 tagEnchantA004A=强效虚空野兽粉末 I
 tagEnchantA004B=强效虚空野兽粉末 II
 tagEnchantA004C=强效虚空野兽粉末 III
-tagEnchantA004Desc="从冥灵野兽的干燥残骸上提取的粉末。"^N^w(用于所有双手武器)
+tagEnchantA004Desc="从冥煞野兽的干燥残骸上提取的粉末。"^N^w(用于所有双手武器)
 
 tagEnchantA005A=黑铁粉末 I
 tagEnchantA005B=黑铁粉末 II
@@ -2572,7 +2572,7 @@ tagEnchantA030Desc="取自一位死去的凯蒙神选战士的遗骸。"^N^w(用
 tagEnchantA031A=献祭纯银 I
 tagEnchantA031B=献祭纯银 II
 tagEnchantA031C=献祭纯银 III
-tagEnchantA031Desc="供奉于神圣火焰之中用来和冥灵战斗的物品。"^N^w(用于戒指和项链)
+tagEnchantA031Desc="供奉于神圣火焰之中用来和冥煞战斗的物品。"^N^w(用于戒指和项链)
 
 tagEnchantA032A=仪式用盐 I
 tagEnchantA032B=仪式用盐 II
@@ -2692,12 +2692,12 @@ tagEnchantB008Desc="黑色军团的魔法师们认为和敌人战斗的最佳方
 tagEnchantB009A=冥神精华 I
 tagEnchantB009B=冥神精华 II
 tagEnchantB009BC=冥神精华 III
-tagEnchantB009Desc="武器涂上了冥灵生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有单手武器、盾牌和副手)
+tagEnchantB009Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有单手武器、盾牌和副手)
 
 tagEnchantB010A=强效冥神精华 I
 tagEnchantB010B=强效冥神精华 II
 tagEnchantB010BC=强效冥神精华 III
-tagEnchantB010Desc="武器涂上了冥灵生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有双手武器)
+tagEnchantB010Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有双手武器)
 
 tagEnchantB011A=罗文的智慧 I
 tagEnchantB011B=罗文的智慧 II
@@ -2965,7 +2965,7 @@ tagEnchantB063C=守护者的结尘 III
 tagEnchantB063Desc="守卫者制造的将最强的不死仆从与自身绑定的粉尘。"^N^w(用于戒指和项链)
 
 tagEnchantC001A=人族的监视
-tagEnchantC001Desc="由军团奥术师所制作的保护士兵免受虚灵和冥灵伤害的粉末。"^N^w(用于所有护甲)
+tagEnchantC001Desc="由军团奥术师所制作的保护士兵免受虚灵和冥煞伤害的粉末。"^N^w(用于所有护甲)
 tagEnchantC002A=皇家护卫粉末
 tagEnchantC002Desc="源自皇室行装而被恰当的命名，但人们发现在战斗中同样很有价值。"^N^w(用于所有护甲)
 
@@ -3123,7 +3123,7 @@ tagCompA034Name=旅者标记
 tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被兽神莫格卓根错认成猎人。"^N^w(用于足部护甲)
 
 tagCompA035Name=神圣裹布
-tagCompA035Desc="冥灵邪教徒所使用的血迹斑斑的裹布。"^N^w(用于手部护甲)
+tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。"^N^w(用于手部护甲)
 
 tagCompA036Name=躁动遗骸
 tagCompA036Desc="生前倍受折磨，死后不愿安息。"^N^w(用于手部护甲)
@@ -3171,7 +3171,7 @@ tagCompA050Name=聚焦棱镜
 tagCompA050Desc="奥术师在特殊的重要仪式中使用它来引导能量。"^N^w(用于项链)
 
 tagCompA051Name=黑色油脂
-tagCompA051Desc="冥灵仪式中蜡烛燃烧的油脂。"^N^w(用于项链和勋章)
+tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。"^N^w(用于项链和勋章)
 
 tagCompA052Name=复仇之魂
 tagCompA052Desc="复仇的灵魂。"^N^w(用于戒指、项链和勋章)
@@ -3192,7 +3192,7 @@ tagCompA057Name=虚钢弹药
 tagCompA057Desc="用虚化怪物身上的精华增强过的子弹。"^N^w(用于枪、弩和副手)
 
 tagCompA058Name=虚触弹药
-tagCompA058Desc="浸染了冥灵的鲜血。"^N^w(用于枪、弩和副手)
+tagCompA058Desc="浸染了冥煞的鲜血。"^N^w(用于枪、弩和副手)
 
 tagCompA059Name=强固外壳
 tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。"^N^w(用于盾牌)
@@ -3336,9 +3336,9 @@ tagBoosterRO_B03=流浪者的神话级委任状
 tagBoosterAetherial_C01=虚灵的命令
 tagBoosterAetherial_C02=强大虚灵的命令
 tagBoosterAetherial_C03=神话虚灵的命令
-tagBoosterChthonian_C01=冥灵的命令
-tagBoosterChthonian_C02=强大冥灵的命令
-tagBoosterChthonian_C03=神话冥灵的命令
+tagBoosterChthonian_C01=冥煞的命令
+tagBoosterChthonian_C02=强大冥煞的命令
+tagBoosterChthonian_C03=神话冥煞的命令
 tagBoosterOutlaw_C01=克隆利的命令
 tagBoosterOutlaw_C02=强大克隆利的命令
 tagBoosterOutlaw_C03=神话克隆利的命令
@@ -4071,13 +4071,13 @@ tagChestOneShot_Generic02=尊贵的藏品
 tagChestOneShot_BurrwitchCave01=怪物的宝藏
 tagChestOneShot_LowerCrossingCave01=怪物的宝藏
 tagChestOneShot_CultistSummoner=卡若兹的宝箱
-tagChestOneShot_ChthonicAbomination=冥灵的宝箱
+tagChestOneShot_ChthonicAbomination=冥煞的宝箱
 tagChestOneShot_HiddenWealth=隐藏的宝藏
 
 #Interactive Objects
 tagShrineConstitutionA01=未动过的膳食
 tagShrineBossLocked= {^R} ~ 由强大生物封印着
-tagShrineMogdrogenLocked= {^R} ~ 由冥灵能量封印着
+tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
 
 #Breakables 可破坏
 

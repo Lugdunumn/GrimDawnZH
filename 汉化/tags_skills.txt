@@ -1237,7 +1237,7 @@ tagItemSkillC102Name=火焰之爪
 tagItemSkillC102Desc=用地狱火爪将敌人一分为二。
 
 tagItemSkillC103Name=召唤吞噬者
-tagItemSkillC103Desc=将一只冥灵吞噬者从虚空中拉扯出来保护你。{^N}^o吞噬者受战宠加成。
+tagItemSkillC103Desc=将一只冥煞吞噬者从虚空中拉扯出来保护你。{^N}^o吞噬者受战宠加成。
 
 tagItemSkillC104Name=灵魂守卫
 tagItemSkillC104Desc=将身体一部分进入到灵魂领域，提升你对生命吸取和物理攻击的抗性。
@@ -1343,8 +1343,8 @@ tagItemSkillD018Desc=手伸到你的裤子里面，掏出一坨东西丢出去�
 tagItemSkillD019Name=冰雹风暴
 tagItemSkillD019Desc=在目标区域召唤一阵致死的冰雹。
 
-tagItemSkillD020Name=召唤冥灵先锋
-tagItemSkillD020Desc=从虚空深处召唤出萨拉查的先锋。{^N}^o冥灵先锋受战宠加成。
+tagItemSkillD020Name=召唤冥煞先锋
+tagItemSkillD020Desc=从虚空深处召唤出萨拉查的先锋。{^N}^o冥煞先锋受战宠加成。
 tagItemSkillD020PetSkillName=幽冥剧毒
 tagItemSkillD020PetSkillName02=混沌光环
 tagItemSkillD020PetSkillDesc02=萨拉查的先锋将混沌祝福给予它的盟友。
@@ -2098,7 +2098,7 @@ tagCompSkillA027Name=刺盾
 tagCompSkillA027Desc=用你的盾牌猛击敌人，用锋利的边缘穿刺他们。{^N}^o需要装备近战武器。
 
 tagCompSkillA028Name=银之刀锋
-tagCompSkillA028Desc=用武器击打，毁灭冥灵生物。
+tagCompSkillA028Desc=用武器击打，毁灭冥煞生物。
 
 tagCompSkillA029Name=猛击
 tagCompSkillA029Desc=以压倒性的一击猛击你的敌人。
@@ -2751,7 +2751,7 @@ tagEnemySkillA02=吸魂者的存在
 tagEnemySkillA02_Desc=吸魂者的存在会吸取你的力量并使你受到活力伤害。
 
 tagEnemySkillA03=幽魂毒瘴
-tagEnemySkillA03_Desc=冥灵的诅咒会侵蚀你所有的防御力。
+tagEnemySkillA03_Desc=冥煞的诅咒会侵蚀你所有的防御力。
 
 tagEnemySkillA04=痛苦标记
 tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量。

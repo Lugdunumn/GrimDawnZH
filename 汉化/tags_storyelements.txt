@@ -863,7 +863,7 @@ TagLoreObj_OldArkovia_History01Text=在我写着这篇日志之时，港口上�
 
 tagLoreObj_FloodedPassageRuins01Name=罗德拉西斯的著作 - 第一章
 tagLoreObj_FloodedPassageRuins01codexTitle=罗德拉西斯 - 第一章
-tagLoreObj_FloodedPassageRuins01Text=世界末日就要降临到我们身边！荣耀的安克维亚，西方的灯塔，正在从内部瓦解。但是不要恐惧，兄弟姐妹们，因为我们是伊什塔克的选中者。{^n}{^n}在这里，对着我们祖先的圣地，我们必将在傲慢的寡头们造成的末日废墟中存活下去。在这里，我们必将从不朽的灾难中逃生，然后重返地面，开创人类的第二黎明。{^n}{^n}当我封上了我们的寺庙的入口时，我的心情是沉重的。也许伊什塔克处于这些墙面前时对于这些槽糕的灵魂也有着怜悯.他们将不会在这里找到慰藉。
+tagLoreObj_FloodedPassageRuins01Text=世界末日就要降临到我们身边！荣耀的安克维亚，西方的灯塔，正在从内部瓦解。但是不要恐惧，兄弟姐妹们，因为我们是伊什塔克的选中者。{^n}{^n}在这里，对着我们祖先的圣地，我们必将在傲慢的寡头们造成的末日废墟中存活下去。在这里，我们必将从不朽的灾难中逃生，然后重返地面，开创人类的第二黎明。{^n}{^n}当我封上了我们的寺庙的入口时，我的心情是沉重的。也许伊什塔克处于这些墙面前时对于这些糟糕的灵魂也有着怜悯.他们将不会在这里找到慰藉。
 
 tagLoreObj_FloodedPassageRuins02Name=罗德拉西斯的著作 - 第二章
 tagLoreObj_FloodedPassageRuins02codexTitle=罗德拉西斯 - 第二章

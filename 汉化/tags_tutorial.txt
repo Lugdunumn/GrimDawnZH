@@ -61,7 +61,7 @@ tagTutorialTip15TextG=你可以跟踪你的生命和能量下方黄色栏中的�
 tagTutorialTip16Title=人物窗口
 tagTutorialTip16TextA=使用人物窗口来装备物品，管理背包，分配属性点和查看人物属性一览。将鼠标悬停在属性上可以获得更多的信息。
 tagTutorialTip16SubtitleA=物品栏管理
-tagTutorialTip16TextB=要装备物品，从背包中右键点击或者将它拖动到适当的装备槽。你可以将物品拖出人物窗口来扔掉它，或者点击它然后按下 {^x}[{%t0}]{^-} 键。
+tagTutorialTip16TextB=要装备物品，从背包中右键点击或者将它拖动到相应的装备栏。你可以将物品拖出人物窗口来扔掉它，或者点击它然后按下 {^x}[{%t0}]{^-} 键。
 tagTutorialTip16SubtitleB=属性点
 tagTutorialTip16TextC=点击想要的属性左边的"+"按钮来分配属性点。每个属性点提升 8点属性。
 
@@ -169,7 +169,7 @@ tagTutorialTip44TextB=
 
 tagTutorialTip45Title=体力
 tagTutorialTip45TextA=当战斗结束你的生命值未满时，一个叫做体力的次级回复系统就会激活。
-tagTutorialTip45TextB=体力会快速补满你的生命，但是在这个过程中也会被消耗。在你的生命槽内的黄色能量槽显示的就是体力的多少。
+tagTutorialTip45TextB=体力能快速补满你的生命，但是在这个过程中也会被消耗。在你的生命槽上附着的黄色能量槽所显示的就是体力的多少。
 tagTutorialTip45TextC=当你找到食物给养和生命精华的时候体力会自动进行补充，升级或者人物死亡亦会如此。
 tagTutorialTip45TextD=如果你的体力消耗完了，脱离战斗后生命值不会再快速回复。
 

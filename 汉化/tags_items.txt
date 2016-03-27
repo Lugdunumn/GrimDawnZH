@@ -1577,8 +1577,8 @@ tagRingD007=暗黑女王印戒
 tagRingD007Desc="无情刺客黑女王的印玺，她总是先用蜘蛛的毒液麻痹敌人，然后再把他们解决掉。"
 tagRingD008=无尽噬魂印戒
 tagRingD009=贝尔戈蒂安的印玺
-tagRingD010=阿尔布雷希特的对偶
-tagRingD010Desc="大师阿尔布雷希特，虚化射线的创造者，不仅是他掌握神秘法术的名望，也是因为他能通神；事实上，他因此惹上很多法律方面的麻烦，并将终止他的施展，如果没有吉尔达姆奥秘的介入。"
+tagRingD010=奥布莱特的对偶
+tagRingD010Desc="大师奥布莱特，虚化射线的创造者，不仅是他掌握神秘法术的名望，也是因为他能通神；事实上，他因此惹上很多法律方面的麻烦，并将终止他的施展，如果没有吉尔达姆奥秘的介入。"
 tagRingD011=执法官的仁慈之掌
 tagRingD012=执法官的复仇之拳
 tagRingD013=祈求者的燃烧指环
@@ -2068,7 +2068,7 @@ tagRelicB001Desc="肆意破坏。"
 tagRelicB002=毁灭
 tagRelicB002Desc="不计后果的毁灭。"
 tagRelicB003=均衡
-tagRelicB003Desc="在不安的元素之海中得到平衡。"
+tagRelicB003Desc="在不稳定的元素之海中得到平衡。"
 tagRelicB004=冰川
 tagRelicB004Desc="心如铁石，冷若冰霜。"
 tagRelicB005=暴风
@@ -2160,7 +2160,7 @@ tagRelicD014Desc="没错，你重重地给了我一击，不过只有我才会�
 tagRelicD015=原始本能
 tagRelicD015Desc="前进吧，我的仆从。是时候享用你的盛宴了……"
 tagRelicD016=索拉尔的屠戮
-tagRelicD016Desc="他们说没人能驾驭如此强大的力量，所以我将不再为人。"
+tagRelicD016Desc="据说没人能驾驭如此强大的力量，所以我将不再为人。"
 tagRelicD017=德里格的灾祸
 tagRelicD017Desc="他们不让你知道的绝密是：生命孱弱无比本是个谬误。"
 tagRelicD018=拜斯迈的主宰
@@ -3281,7 +3281,7 @@ tagCompAmmoBox=弹药匣
 tagCompAmmoBoxDesc="反抗组织总会用更多的枪弹来击退侵袭凯恩世界的黑暗势力。"
 
 tagCompAScrap=废料
-tagCompAScrapDesc="诸如螺栓、皮革、绳索及旧金属等，可用于连结加固物品或构件。"
+tagCompAScrapDesc="诸如铁钉、皮革、绳索及旧金属等，可用于连结加固物品或构件。"
 
 #ItemFactionBoosters
 
@@ -3849,7 +3849,7 @@ tagSuffixB033_Wpn_A=奥术火焰之
 tagSuffixB034_Wpn_A=虚空火焰之
 tagSuffixB035_Wpn_A=天崩之
 tagSuffixB036_Wpn_A=索拉尔怨恨之
-tagSuffixB037_Wpn_A=破碎世界之
+tagSuffixB037_Wpn_A=击碎现实之
 tagSuffixB038_Wpn_A=密谋之
 
 tagSuffixB001_Ar_A=奥术学识之
@@ -3859,7 +3859,7 @@ tagSuffixB004_Ar_A=德里格凝视之
 tagSuffixB005_Ar_A=索拉尔怨恨之
 tagSuffixB006_Ar_A=奥莱隆愤怒之
 tagSuffixB007_Ar_A=自然馈赠之
-tagSuffixB008_Ar_A=阿尔布雷希特聚焦之
+tagSuffixB008_Ar_A=奥布莱特聚焦之
 tagSuffixB009_Ar_A=吉尔达姆奥秘之
 tagSuffixB010_Ar_A=虚无之
 tagSuffixB011_Ar_A=林地之

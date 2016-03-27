@@ -102,7 +102,7 @@ tagClass01SkillDescription02B=力场波粉碎敌人的护甲，使他们更容�
 tagClass01SkillName02C=内部创伤^o 「战士」^-
 tagClass01SkillDescription02C=力场波粉碎骨骼，损伤内脏，造成大量的内外出血。
 tagClass01SkillName02D=震地^o 「战士」^-
-tagClass01SkillDescription02D=以曼海尔的意志为名，使用强有力的双手武器撕裂大地。对敌人施放出具有毁灭力量的能量波。{^N}^o需要装备双手近战武器。暴击不是增强的默认武器攻击，并不能触发效果，如马尔科夫的优势。
+tagClass01SkillDescription02D=以曼海尔的意志为名，使用强有力的双手武器撕裂大地。对敌人施放出具有毁灭力量的能量波。{^N}^o需要装备双手近战武器。暴击不是默认武器攻击的增强，并不能触发效果，例如马尔科夫的优势。
 
 tagClass01SkillName03A=闪击^o 「战士」^-
 tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群，发动突袭。{^N}^o需要装备近战武器。当装备盾牌时，使用盾牌的伤害。
@@ -124,9 +124,9 @@ tagClass01SkillName05C=风卷残云^o 「战士」^-
 tagClass01SkillDescription05C=刀锋横扫更为强力的一种形式，战士在攻击中施展猛击，足以将敌人击倒在地。
 
 tagClass01SkillName06A=马尔科夫的优势^o 「战士」^-
-tagClass01SkillDescription06A=著名战术家马尔科夫总是谋划从高处进攻。这个经典的攻击灵感正是来自马尔科夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。{^N}^o可激活该所有默认武器攻击。
+tagClass01SkillDescription06A=著名战术家马尔科夫总是谋划从高处进攻。这个经典的攻击灵感正是来自马尔科夫的战术，招牌是强力的向下攻击，摔绊敌人让他们失去平衡，削弱他们的防御。{^N}^o可由所有默认武器攻击触发。
 tagClass01SkillName06B=佐尔汉的技艺^o 「战士」^-
-tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。{^N}^o可激活所有默认武器攻击。当使用近战武器攻击时，会击中附近多个目标。
+tagClass01SkillDescription06B=以一个著名的格斗大师命名，攻击时放低重心，猛推敌人来使他们失去平衡。{^N}^o可由所有默认武器攻击触发。当使用近战武器攻击时，会击中附近多个目标。
 
 tagClass01SkillName07A=战意^o 「战士」^-
 tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服，反而能激起你的怒气，在攻击中蕴含了更强的力量。
@@ -393,7 +393,7 @@ tagClass04SkillName04C=寒霜之环^z 「夜刃」^-
 tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量，增强冰冷伤害并冰冻敌人，不过需要以穿刺伤害为代价。
 
 tagClass04SkillName05A=双刃^z 「夜刃」^-
-tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃，和那些使钢铁中产生元素之寒的技艺。{^N}^o这是近战双持技能。同时启用双持近战武器的能力。
+tagClass04SkillDescription05A=夜刃技能中最基本的便是近战双持的精通，就像他们喜欢使用尖利的刀刃，和那些使钢铁中产生元素之寒的技艺。{^N}^o这是近战双持加成。同时启用双持近战武器的能力。
 tagClass04SkillName05B=贝尔戈蒂安的切割^z 「夜刃」^-
 tagClass04SkillDescription05B=健壮的贝尔戈蒂安是轻盈的夜刃大师中的异数，不过他在原始的力量上超越了他们。借助于他的力量的如剪刀般直接致命的攻击，贝尔戈蒂安经常一击终结敌人。{^N}^o这是近战双持技能，由默认武器攻击触发。
 tagClass04SkillName05C=阿玛拉斯塔的瞬影^z 「夜刃」^-
@@ -520,8 +520,8 @@ tagClass05SkillDescription05A=令人尊敬的奥术师麦文发明的一种罕�
 tagClass05SkillName05B=转化^t 「奥术」^-
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果，转化成为能量为你所用。
 
-tagClass05SkillName06A=阿尔布雷特的虚化射线^t 「奥术」^-
-tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线。阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。{^N}^o需要装备施法副手。
+tagClass05SkillName06A=奥布莱特的虚化射线^t 「奥术」^-
+tagClass05SkillDescription06A=一种强大奥术，能将原始的奥术能量引导为高能的毁灭射线。奥布莱特大师在恐怖黎明来临之前经过多年的时间使它臻至完美。{^N}^o需要装备施法副手。
 tagClass05SkillName06B=崩解^t 「奥术」^-
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中，毁灭性的力量将粉碎所有它接触到的物体。{^N}^o每次造成伤害的间隔后能量消耗都会提高。
 tagClass05SkillName06C=堕落之力^t 「奥术」^-

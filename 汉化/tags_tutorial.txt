@@ -4,9 +4,9 @@ tagLoadingTip02={^g}提示：{^h}如果你发现了一座暂时无法修复的�
 tagLoadingTip03={^g}提示：{^h}你可以在任何时候打开记事窗口来重新查阅教程提示，默认热键：{^t}H
 tagLoadingTip04={^g}提示：{^h}敌人显著低于你的等级时将不会提供经验值及势力声望。
 tagLoadingTip05={^g}提示：{^h}请记住在专精上投放点数。这将提供核心属性帮助你生存与强大起来。
-tagLoadingTip06={^g}提示：{^h}访问 {^b}www.GrimDawn.com{^-} 阅读游戏指南，里面有丰富的游戏资料和信息。
+tagLoadingTip06={^g}提示：{^h}访问 {^b}www.GrimDawn.com{^h} 阅读游戏指南，里面有丰富的游戏资料和信息。
 tagLoadingTip07={^g}提示：{^h}精英怪兽(头顶星型标记)是强大的敌人，具有独特的能力，能提供更好的战利品。
-tagLoadingTip08={^g}提示：{^h}敌人显著低于你的等级时将不会掉落类似远古之心的稀有锻造材料。
+tagLoadingTip08={^g}提示：{^h}敌人显著低于你的等级时将不会掉落类似{^p}远古之心{^h}等稀有锻造材料。
 tagLoadingTip09={^g}提示：{^h}在精英难度，你的核心抗性将会降低25%。到终极难度则会下降至50%的惩罚。
 tagLoadingTip10={^g}提示：{^h}有许多秘密地点存在于凯恩世界。仔细寻找，你将发现隐藏的宝藏！
 tagLoadingTip11={^g}提示：{^h}在老兵或者更高的难度中，如果你被BOSS杀死，它会回复部分血量。
@@ -26,12 +26,12 @@ tagTutorialTip06Title=未动过的膳食
 tagTutorialTip06TextA=你找到了被人丢弃的一份餐食，估计是个倒霉的冒险者留下的。吃下这顿饭，你会恢复一些体力。
 
 tagTutorialTip08Title=欢迎来到恐怖黎明
-tagTutorialTip08TextA=再次感谢支持我们并帮助改进恐怖黎明！我们希望你享受这款游戏，最终的正式版已经接近完成。请注意这是由八人独立工作室创作的预发布版本。你在游戏时将会遇到BUG。我们欢迎你在论坛 www.grimdawn.com 反馈BUG和游戏体验。
-tagTutorialTip08TextB=如果你遇到错误，请到我们的论坛 www.grim dawn.com 报告。
+tagTutorialTip08TextA=感谢您对我们工作的支持。恐怖黎明是由我们的支持者慷慨捐助，无论是通过我们的网站，Kickstarter 或 Steam 抢先体验。
+tagTutorialTip08TextB=如果你遇到BUG，请到 www.grim dawn.com 我们的论坛报告。
 tagTutorialTip08SubtitleA=教程提示
 tagTutorialTip08TextC=你可以在选项菜单上随时启用或禁用游戏中的教程提示。选项菜单可以在游戏中按 {^x}[Esc]{^-} 键呼出。
 
-tagTutorialTip09Title=商人界面
+tagTutorialTip09Title=商人窗口
 tagTutorialTip09TextA=商人出售与收购在凯恩世界的险境中生存所必需的武器装备。
 tagTutorialTip09TextB=在这艰难的时期，好的装备可不便宜。商人们不会为普通物品出高价，但是充满魔力的装备能够卖出好价钱。你可能最终要过滤掉低于一定质量的物品。您可以通过点击技能栏的左侧的战利品筛选按钮这样做。
 

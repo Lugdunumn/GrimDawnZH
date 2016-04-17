@@ -719,7 +719,7 @@ tagSlithHeroH06=阿瓦拉瑞安 ~ 腐化
 
 tagSlithBossB01=维洛丝, 腐化者
 tagSlithBossB02=派莫笛安, 被遗忘者
-tagSlitbBossB03=艾莱纳, 第一只蛇人
+tagSlitbBossB03=埃伦娜, 第一只蛇人
 
 tagEnemyMurkTide_SlithWarriorA01=黑潮战士
 tagEnemyMurkTide_SlithWarriorB01=黑潮先锋

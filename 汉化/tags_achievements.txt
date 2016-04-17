@@ -167,7 +167,7 @@ ach051Desc=揭开德莱厄斯·克隆利的秘密。
 ach052Title=隐藏的财宝
 ach052Desc=寻找霍姆斯特德附近农田的宝藏。
 
-ach053Title=他盘踞在遗忘深渊
+ach053Title=它盘踞在迷失洞穴
 ach053Desc=击杀咕噜斯, 穴居者。
 
 ach054Title=死亡空间

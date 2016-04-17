@@ -1092,7 +1092,7 @@ tagCraftingCost=费用:
 tagCraftingBlueprint=设计图
 tagCraftingComponent=镶嵌物
 tagCraftingComponentRequired=原材料:
-tagCraftingCombine=组合
+tagCraftingCombine=合成
 tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备。
 tagCraftingBlueprintInfo=铁匠可以基于设计图使用各种各样废弃的材料合成更高级的物品。
 tagCraftingDeviceCost=铁币费用: {%t0}
@@ -1214,7 +1214,7 @@ tagTransferTab04=第四栏
 
 #Chat 聊天
 
-tagChatSend=发送给……
+tagChatSend=发送至...
 tagChatCommand01=队伍
 tagChatCommand02=所有人
 tagChatCommand03=回复
@@ -1593,7 +1593,7 @@ Interval=间隔
 TargetRadius=目标区域
 TargetAngle={%.0f0} {^E}攻击角度
 TargetNumber={%d0} {^E}最大目标范围
-CooldownTime={^E}技能冷却时间
+CooldownTime={^E}技能冷却
 ExplosionRadius=半径
 TargetRange=范围
 ProjectileLaunchRotation={%.1f0} 投射物速度

@@ -581,7 +581,7 @@ tagClass06SkillName01D=熊罴之力^b 「萨满」^-
 tagClass06SkillDescription01D=萨满们供奉熊罴之灵，当进入野蛮的战斗姿态时他们更有效的使用残暴的双手武器。{^N}^o需要装备双手近战或远程武器。
 
 tagClass06SkillName02A=原始打击^b 「萨满」^-
-tagClass06SkillDescription02A=新手萨满接受的第一次仪式便是向他们最喜爱的武器中灌注雷电的力量。那些在这关键的一步中存活下来的学徒将成为继承莫格德罗根意志的子孙并且守卫部落。{^N}^o需要装备双手近战或远程武器。
+tagClass06SkillDescription02A=新手萨满接受的第一次仪式便是向他们最喜爱的武器中灌注雷电的力量。那些在这关键的一步中存活下来的学徒将成为继承莫格德罗根意志的子孙并且守卫部落。{^N}^o需要装备双手近战或双手远程武器。
 tagClass06SkillName02B=风暴潮^b 「萨满」^-
 tagClass06SkillDescription02B=攻击的原始力量在目标体内汹涌释放，使他们的血管爆裂。
 tagClass06SkillName02C=激流^b 「萨满」^-
@@ -1112,7 +1112,7 @@ tagItemSkillC061Name=毒蛇猛击
 tagItemSkillC061Desc=向毒蛇一样猛地袭击敌人，向目标注入致命的毒液。{^N}^o需要装备近战武器。
 
 tagItemSkillC062Name=击倒
-tagItemSkillC062Desc=以快速精确的一击将你的对手清出战斗。{^N}^o激活关闭的默认近战武器攻击。
+tagItemSkillC062Desc=以快速精确的一击将你的对手清出战斗。{^N}^o由默认近战武器攻击触发。
 
 tagItemSkillC063Name=棱光护盾
 tagItemSkillC063Desc=触发刻在这些护腕的符文，在你周围制造一面保护盾。
@@ -2420,8 +2420,8 @@ tagDevotionAffinity05Info=你已投放在原始的点数。^n^n原始体现了�
 
 tagDevotion_RequiresSword=^o需要剑。
 tagDevotion_RequiresAxe=^o需要斧。
-tagDevotion_RequiresMace=^o需要权杖。
-tagDevotion_RequiresCaster=^o需要魔杖或匕首。
+tagDevotion_RequiresMace=^o需要锤。
+tagDevotion_RequiresCaster=^o需要权杖或匕首。
 tagDevotion_RequiresFocus=^o需要施法副手。
 tagDevotion_Requires1hRange=^o需要单手远程武器。
 tagDevotion_Requires2hRange=^o需要双手远程武器。
@@ -2622,7 +2622,7 @@ tagDevotionEffectA21Desc=用物理的冲击攻击你的敌人就像公牛的冲�
 tagDevotionEffectA25=食尸鬼之饥
 tagDevotionEffectA25Desc=走投无路之时，你会变得像食尸鬼一般亢奋，渴望一口血肉。
 tagDevotionEffectA26=女神的祝福
-tagDevotionEffectA26Desc=女神的祝福净化你的伤口，阻止你收到病毒的感染。
+tagDevotionEffectA26Desc=女神的祝福净化你的伤口并使你免受病毒的感染。
 tagDevotionEffectA29=龟壳
 tagDevotionEffectA29Desc=当收到威胁之时，保护屏障在你周围形成，使接下来的伤害无效。
 

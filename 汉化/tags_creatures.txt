@@ -951,7 +951,7 @@ tagEnemyReanimatorC01=主宰者
 
 tagReanimatorHeroH01=阿斯奥兰, 瘟疫使者 ~ 疾病
 tagReanimatorHeroH02=高罗格, 不灭 ~ 勇不可挡
-tagReanimatorHeroH03=尸火 ~ 反伤
+tagReanimatorHeroH03=火尸 ~ 反伤
 tagReanimatorHeroH04=阿兹加洛格, 腐化者 ~ 防御
 
 tagReanimatorBossH01=盖思兰, 背叛者

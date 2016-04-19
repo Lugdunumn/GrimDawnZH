@@ -610,7 +610,7 @@ tagShieldD001=胸骨护盾
 tagShieldD001Desc="用一位不幸农夫的胸腔塑型而成的死灵之盾。"
 tagShieldD002=终结圆盾
 tagShieldD002Desc="在一场对抗冥煞势力的绝望战斗中，由筑路工人所打造的盾牌。"
-tagShieldD003=贱民长盾
+tagShieldD003=铁壁长盾
 tagShieldD004=生存意志护盾
 tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在虚化之火中重铸为一面盾牌。"
 tagShieldD005=裂天壁垒
@@ -1031,7 +1031,7 @@ tagShoulderB020=^l铁娘子披肩
 tagShoulderB021=^l铁娘子护肩
 tagShoulderB022=^l赞塔兰披肩
 tagShoulderB023=^l赞塔兰护肩
-tagShoulderB024=^l赞塔兰护肩
+tagShoulderB024=^l费比乌斯护肩
 tagShoulderB025=^l费比乌斯肩铠
 
 tagShoulderC001=剃刀背的尖刺披肩
@@ -1164,7 +1164,7 @@ tagTorsoC014Desc="哭泣之眼的成员曾经穿着这种牧师的服饰。"
 tagTorsoC015=蛛丝锁子甲
 tagTorsoC016=邪恶符咒外衣
 tagTorsoC016Desc="只有嗜血的精英信徒才会穿着这种冥煞的服饰。"
-tagTorsoC017=使者的官服
+tagTorsoC017=使者的外套
 tagTorsoC018=沉沦胸甲
 tagTorsoC019=盲刺客隐形衣
 tagTorsoC020=神枪手的外衣
@@ -1577,7 +1577,7 @@ tagRingD007=暗黑女王印戒
 tagRingD007Desc="无情刺客黑女王的印玺，她总是先用蜘蛛的毒液麻痹敌人，然后再把他们解决掉。"
 tagRingD008=无尽噬魂印戒
 tagRingD009=贝尔戈蒂安的印玺
-tagRingD010=奥布莱特的对偶
+tagRingD010=奥布莱特的印戒
 tagRingD010Desc="大师奥布莱特，虚化射线的创造者，不仅是他掌握神秘法术的名望，也是因为他能通神；事实上，他因此惹上很多法律方面的麻烦，并将终止他的施展，如果没有吉尔达姆奥秘的介入。"
 tagRingD011=执法官的仁慈之掌
 tagRingD012=执法官的复仇之拳
@@ -3405,34 +3405,34 @@ tagDevotionResetConfirmation=你要重置全部虔诚点吗？
 
 
 tagItemSetC001Name=帝国卫士的戎装
-tagItemSetC001NameB=帝国卫士的戎装
+tagItemSetC001NameB=帝国卫士的戎装(强化)
 tagItemSetC001Desc="曾经是这些和平卫士兼皇家护卫的标准装备，这种套装在恐怖黎明发生之后留存无几。"
 
 tagItemSetC002Name=探险者的服饰
 tagItemSetC002Desc="轻便且耐用的护甲，为渴望探险的人而准备。"
 
 tagItemSetC003Name=麦文的圣装
-tagItemSetC003NameB=麦文的圣装
+tagItemSetC003NameB=麦文的圣装(强化)
 tagItemSetC003Desc="颂扬传奇般的奥术师麦文的法衣。"
 
 tagItemSetC004Name=鲜血收割者的荣耀
-tagItemSetC004NameB=鲜血收割者的荣耀
+tagItemSetC004NameB=鲜血收割者的荣耀(强化)
 tagItemSetC004Desc="仅被凯恩最嗜血的刺客们使用过的盔甲和武器。"
 
 tagItemSetC005Name=掠夺者的正义
-tagItemSetC005NameB=掠夺者的正义
+tagItemSetC005NameB=掠夺者的正义(强化)
 tagItemSetC005Desc="集法官、陪审和刽子手于一身的套装。"
 
-tagItemSetC006Name=使者的华服
-tagItemSetC006NameB=使者的华服
+tagItemSetC006Name=使者的服饰
+tagItemSetC006NameB=使者的服饰(强化)
 tagItemSetC006Desc="执行外交使命的帝王使节所穿的服饰。"
 
 tagItemSetC007Name=药剂师的套服
-tagItemSetC007NameB=药剂师的套服
+tagItemSetC007NameB=药剂师的套服(强化)
 tagItemSetC007Desc="御医和占卜者穿的服饰。他们致力于帮助有需要的人，不分种族与国界。"
 
 tagItemSetC008Name=沉沦套装
-tagItemSetC008NameB=沉沦套装
+tagItemSetC008NameB=沉沦套装(强化)
 tagItemSetC008Desc="圣殿骑士兰德尔·格瑞维斯在其毕生的东征中穿着它，以赦免他打破神圣誓约而娶妻的堕落行为。"
 
 tagItemSetC009Name=盲刺客套装
@@ -3448,7 +3448,7 @@ tagItemSetC012Name=皇家华饰
 tagItemSetC012Desc="被认为遗失在恐怖黎明劫掠中的皇家珠宝收藏品。"
 
 tagItemSetC013Name=毁誓者的武器
-tagItemSetC013NameB=毁誓者的武器
+tagItemSetC013NameB=毁誓者的武器(强化)
 tagItemSetC013Desc="毁誓者曾经佩戴的装备，他是一位为敌人打开城门背叛了自己国王的骑士。"
 
 tagItemSetC014Name=无畏的饰品
@@ -3467,18 +3467,18 @@ tagItemSetC018Name=阿卡莫斯之怒
 tagItemSetC018Desc="安克维亚的阿卡莫斯的魔印。"
 
 tagItemSetC019Name=致命毒瘴套服
-tagItemSetC019NameB=致命毒瘴套服
+tagItemSetC019NameB=致命毒瘴套服(强化)
 tagItemSetC019Desc="受到德里格选召之人所穿戴的服饰。"
 
 tagItemSetC020Name=曾燃硫磺套服
-tagItemSetC020NameB=曾燃硫磺套服
+tagItemSetC020NameB=曾燃硫磺套服(强化)
 tagItemSetC020Desc="奥祖因虔诚的信徒所使用的武器和甲胄。"
 
 tagItemSetC021Name=东方誓约套服
 tagItemSetC021Desc="一位来自海对岸异国的受人尊敬的祭祀所穿的衣服。"
 
 tagItemSetC022Name=野性呼唤者套装
-tagItemSetC022NameB=野性呼唤者套装
+tagItemSetC022NameB=野性呼唤者套装(强化)
 tagItemSetC022Desc="野性呼唤者们的装饰品，萨满们聆听着自然之音。"
 
 tagItemSetC023Name=禁卫军套甲

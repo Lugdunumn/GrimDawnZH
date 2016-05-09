@@ -21,23 +21,23 @@ tagNecromancer_CasterA01=死亡守夜人 ~ 初阶信徒
 tagNecromancer_MeleeA01=死亡守夜人 ~ 初阶信徒
 tagNecromancer_CasterB01=死亡守夜人 ~ 侍僧
 tagNecromancer_ChampionC01=死亡守夜人 ~ 恐惧领主
-tagNecromancerH01=尤若克拉, 亡者代言人
-tagNecromancerH02=诺库塔克, 死神
+tagNecromancerH01= 亡者代言人 尤若克拉
+tagNecromancerH02=死神 诺库塔克
 tagNecromancerH03=纳卡拉 ~ 复生
 tagNecromancerH04=米索纳克 ~ 护盾
-tagNecromancer_Boss01=大师拉沃克, 死亡暗语者
-tagNecromancer_Boss02=马卡达尔, 死亡守夜人勇士
+tagNecromancer_Boss01=死亡暗语者 拉沃克大师 
+tagNecromancer_Boss02=死亡守夜人勇士 马卡达尔 
 
 tagZealot_MeleeA01=凯蒙神选 ~ 狂战士
 tagZealot_RangedA01=凯蒙神选 ~ 狂战士
 tagZealot_CasterB01=凯蒙神选 ~ 驭雷者
 tagZealot_ChampionC01=凯蒙神选 ~ 剑姬
-tagZealotH01=姐妹奥赛蒂娅, 暴风少女
-tagZealotH02=兄弟鲍德里斯, 至高神使
+tagZealotH01=暴风少女 奥赛蒂娅姐妹 
+tagZealotH02=至高神使 鲍德里斯兄弟 
 tagZealotH03=姐妹珊德莉娅 ~ 防御
 tagZealotH04=兄弟汉德瑞克 ~ 燃烧
-tagZealot_Boss01=姐妹布拉芙娜, 裂天者
-tagZealot_Boss02=莎拉那图, 虚空使者
+tagZealot_Boss01=裂天者 布拉芙娜姐妹
+tagZealot_Boss02=虚空使者 莎拉那图
 tagZealot_AncestralSpirit=执政官 巴托雷姆
 
 #CreatureAetherial
@@ -58,7 +58,7 @@ tagEnemyAetherialB01=虚灵幻影
 tagEnemyAetherialC01=虚灵幽魂
 
 tagAetherialHeroH01=阿扎尔, 愤怒
-tagAetherialHeroH02=蒙德拉克, 永恒燃烧
+tagAetherialHeroH02=永恒燃烧 蒙德拉克
 tagAetherialHeroH03=英特希尔斯
 
 tagEnemyAetherialAbominationB01=虚灵恶煞
@@ -77,7 +77,7 @@ tagEnemyBoarFrost_A01=冰寒獠牙
 tagEnemyBoarFrost_A02=巨型冰寒獠牙
 tagEnemyBoarFrost_B01=抗冻冰寒獠牙
 
-tagBoarHeroH01=恐怖獠牙, 猎人梦魇
+tagBoarHeroH01=猎人梦魇 恐怖獠牙
 tagBoarHeroH02=怒目 ~ 迅捷
 tagBoarHeroH03=地狱鬃毛 ~ 燃烧
 tagBoarHeroH04=腐坏鬃毛 ~ 疾病
@@ -95,7 +95,7 @@ tagEnemyBoneRatRangedA01=骨背鼠
 tagEnemyBoneRatMeleeB01=狂暴骨背鼠
 tagEnemyBoneRatMeleeB02=骨背瘟疫散布者
 
-tagEnemyBoneRatMeleeB02_Summon=海里昂 白鼠
+tagEnemyBoneRatMeleeB02_Summon=白鼠 海里昂
 
 tagBoneRatHeroH01=诅咒者
 tagBoneRatHeroH02=剃刀背
@@ -131,7 +131,7 @@ tagEnemyChthonianDreadguardC01Logghorrean=罗霍里恩的暴君
 tagEnemyChthonianDreadguardD01=罗霍里恩的先锋
 
 tagChthonianDreadguardHeroH01=沙尔'奥兹
-tagChthonianDreadguardHeroH02=温'卡祖尔, 渴望带刀
+tagChthonianDreadguardHeroH02=饥渴之刃 温'卡祖尔
 tagChthonianDreadguardHeroH03=扎理'尤塔斯 ~ 闪电
 tagChthonianDreadguardHeroH04=尤戈'斯因 ~ 反伤
 tagChthonianDreadguardHeroH05=撒马'丁 ~ 冰冻
@@ -146,13 +146,13 @@ tagChthonianLeechHeroH03=埃克特'阿纳图
 tagChthonianLeechHeroH04=奥丁'阿纳图 ~ 疾病
 tagChthonianLeechHeroH05=亚科瓦'阿纳图 ~ 势不可挡
 
-tagChthonianBoss01=拉苟扎'克, 鲜血使者
-tagChthonianBoss02=沙'祖尔, 混沌使者
-tagChthonianBoss03=贝恩'嘎戈罗尔, 守门人
-tagChthonianBoss04=巴洛克'阿纳图, 鲜血恶魔
-tagChthonianBoss05=加拉尔'巴尔格, 黑色恶魔
-tagChthonianBoss06=哈克'巴苟斯, 堡垒守护者
-tagChthonianBoss07=扎尔'纳偌斯, 堡垒守护者
+tagChthonianBoss01=鲜血使者 拉苟扎'克
+tagChthonianBoss02= 混沌使者 沙'祖尔
+tagChthonianBoss03=守门人 贝恩'嘎戈罗尔
+tagChthonianBoss04=鲜血恶魔 巴洛克'阿纳图
+tagChthonianBoss05=黑色恶魔 加拉尔'巴尔格
+tagChthonianBoss06=堡垒守护者 哈克'巴苟斯
+tagChthonianBoss07=堡垒守护者 扎尔'纳偌斯 
 
 #CreatureChthonianFiend
 
@@ -160,13 +160,13 @@ tagEnemyVoidFiendA01=虚空恶魔
 tagEnemyVoidFiendA02=虚空焚烧者
 tagEnemyVoidFiendC01=虚空地狱兽
 
-tagVoidFiendHeroH01=因努盖如, 虚空恐惧
-tagVoidFiendHeroH02=海尔恩'拉兹, 黑暗预兆
-tagVoidFiendHeroH03=森'特尔, 虚空使者
+tagVoidFiendHeroH01=虚空恐惧 因努盖如
+tagVoidFiendHeroH02=黑暗预兆 海尔恩'拉兹
+tagVoidFiendHeroH03=虚空使者 森'特尔
 tagVoidFiendHeroH04=尼'特尔 ~ 压碎者
 tagVoidFiendHeroH05=戈苟斯'西恩 ~ 燃烧
 
-tagVoidFiendBoss01=巴洛格'纳斯, 地狱之火
+tagVoidFiendBoss01=地狱之火 巴洛格'纳斯
 
 
 #CreatureChthonianDevourer
@@ -176,13 +176,13 @@ tagEnemyChthonianDevourerA01=冥煞饥饿者
 tagEnemyChthonianDevourerB01=冥煞吞噬者
 tagEnemyChthonianDevourerB02=冥煞饱食者
 
-tagChthonianDevourerHeroH01=紐'加鲁, 湮灭之颚
-tagChthonianDevourerHeroH02=萨戈'丁, 饥饿之胃
-tagChthonianDevourerHeroH03=纳尔'玛什, 暴食者
-tagChthonianDevourerHeroH04=奈'卡祖尔, 烈焰魔口
-tagChthonianDevourerHeroH05=沃班'艾克, 火花巨口
+tagChthonianDevourerHeroH01=湮灭之颚 紐'加鲁
+tagChthonianDevourerHeroH02=饥饿之胃 萨戈'丁 
+tagChthonianDevourerHeroH03=暴食者 纳尔'玛什
+tagChthonianDevourerHeroH04=烈焰魔口 奈'卡祖尔 
+tagChthonianDevourerHeroH05=火花巨口 沃班'艾克
 
-tagChthonianDevourerBossB01=拉格'纳达, 巨胃
+tagChthonianDevourerBossB01=巨胃 拉格'纳达
 
 
 #CreatureDranghoul 咆哮巨兽
@@ -190,11 +190,11 @@ tagChthonianDevourerBossB01=拉格'纳达, 巨胃
 tagEnemyDrangoulWarriorA01=咆哮巨兽 执行者
 tagEnemyDrangoulWarriorB01=咆哮巨兽 暴君
 
-tagDranghoulMiniBoss01=格特沃姆, 食人者
-tagDranghoulMiniBoss02=鲜血盛宴, 残忍巨兽
+tagDranghoulMiniBoss01=食人者 格特沃姆
+tagDranghoulMiniBoss02=鲜血盛宴 残忍巨兽 
 
-tagDranghoulHeroH01=拉尔切, 无影无形
-tagDranghoulHeroH02=鲁迦鲁, 驯犬师
+tagDranghoulHeroH01=无影无形 拉尔切
+tagDranghoulHeroH02=驯犬师 鲁迦鲁
 tagDranghoulHeroH03=奥格拉 ~ 免疫控制
 tagDranghoulHeroH04=里夫 ~ 燃烧
 tagDranghoulHeroH05=沃瓦尔 ~ 冰冻
@@ -212,7 +212,7 @@ tagFleshHulkHeroH02=虚化之裔 法尔多尼
 tagFleshHulkHeroH03=马诺崔斯 ~ 免疫控制
 tagFleshHulkHeroH04=菲斯特利斯 ~ 压碎者
 
-tagEnemyFleshHulkBoss01=维纳瑞斯, 背部粉碎者
+tagEnemyFleshHulkBoss01=背部粉碎者 维纳瑞斯
 
 #CreatureGazer
 
@@ -222,8 +222,8 @@ tagEnemyGazerC01=主宰者
 tagEnemyGazerD01=心怒者
 
 tagGazerHeroH01=麦斯默
-tagGazerHeroH02=贝恩'扎尔, 地狱降生
-tagGazerHeroH03=达拉克斯, 食梦者
+tagGazerHeroH02=地狱降生 贝恩'扎尔
+tagGazerHeroH03=食梦者 达拉克斯
 tagGazerHeroH04=观察者 ~ 反伤
 tagGazerHeroH05=加米尼斯 ~ 复生
 tagGazerHeroH06=亮光 ~ 闪电
@@ -234,18 +234,18 @@ tagEnemyGhostA01=幽灵
 tagEnemyGhostB01=幽灵贵族
 tagEnemyGhostB02=幽灵勇士
 
-tagHeroGhostH01=瓦拉凡, 游魂
+tagHeroGhostH01=游魂 瓦拉凡
 tagHeroGhostH02=巴兰·沃尔斯 ~ 反伤
 tagHeroGhostH03=罗西纳·玛苟斯 ~ 复生
 tagHeroGhostH04=风暴尖啸 ~ 闪电
 tagHeroGhostH05=奥德卡·博尔德 ~ 迅捷
 tagHeroGhostH06=虚化之魂 ~ 腐化
 
-tagGhostBoss01=巴罗什·瓦德里斯, 堕落之魂领主
+tagGhostBoss01=堕落之魂领主 巴罗什·瓦德里斯
 tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔
-tagGhostBoss05=阿卡莫斯, 行刑者领主
+tagGhostBoss05=行刑者领主 阿卡莫斯
 tagGhostBoss06=悲伤魂灵
 
 #Ghoul 食尸鬼
@@ -263,9 +263,9 @@ tagEnemyGhoulH05=维尔纽斯 ~ 虚化
 tagEnemyGhoulH06=亨格拉尔 ~ 闪电
 tagEnemyGhoulH07=勒佩鲁斯 ~ 燃烧
 
-tagGhoulBoss01=那卡森, 永恒
-tagGhoulBoss02=普拉格尤斯, 衰败者
-tagGhoulBoss03=哈尔沃, 撼地者
+tagGhoulBoss01=永恒 那卡森
+tagGhoulBoss02=衰败者 普拉格尤斯
+tagGhoulBoss03=撼地者 哈尔沃
 
 
 #CreatureGolem 傀儡
@@ -276,7 +276,7 @@ tagEnemyGolemRockC01=巨石蹒跚者
 tagEnemyGolemRockMiniBoss01=远古蹒跚者
 
 tagGolemRockHeroH01=哈默顿
-tagGolemRockHeroH02=哈德拉斯 喷火者
+tagGolemRockHeroH02=喷火者 哈德拉斯
 tagGolemRockHeroH03=石心 ~ 反伤
 tagGolemRockHeroH04=石磨 ~ 冲锋
 tagGolemRockHeroH05=霜石 ~ 冰冻
@@ -284,58 +284,58 @@ tagGolemRockHeroH06=虚空之石 ~ 虚化
 
 #CreatureGrobles
 
-tagEnemySnakeClanScavengerA01=格罗布尔 ~ 蛇之部落 拾荒者
-tagEnemySnakeClanRangedA01=格罗布尔 ~ 蛇之部落 追踪者
-tagEnemySnakeClanWarriorA01=格罗布尔 ~ 蛇之部落 战士
-tagEnemySnakeClanWarriorB01=格罗布尔 ~ 蛇之部落 勇士
+tagEnemySnakeClanScavengerA01=格罗布 ~ 蛇之部落 拾荒者
+tagEnemySnakeClanRangedA01=格罗布 ~ 蛇之部落 追踪者
+tagEnemySnakeClanWarriorA01=格罗布 ~ 蛇之部落 战士
+tagEnemySnakeClanWarriorB01=格罗布 ~ 蛇之部落 勇士
 
-tagEnemySnakeClanShamanA01=格罗布尔 ~ 蛇之部落 巫医
-tagEnemySnakeClanShamanB01=格罗布尔 ~ 蛇之部落 剧毒术士
+tagEnemySnakeClanShamanA01=格罗布 ~ 蛇之部落 巫医
+tagEnemySnakeClanShamanB01=格罗布 ~ 蛇之部落 剧毒术士
 
-tagEnemySkyClanScavengerA01=格罗布尔 ~ 天之部落 拾荒者
-tagEnemySkyClanRangedA01=格罗布尔 ~ 天之部落 追踪者
-tagEnemySkyClanWarriorA01=格罗布尔 ~ 天之部落 战士
-tagEnemySkyClanWarriorB01=格罗布尔 ~ 天之部落 勇士
+tagEnemySkyClanScavengerA01=格罗布 ~ 天之部落 拾荒者
+tagEnemySkyClanRangedA01=格罗布 ~ 天之部落 追踪者
+tagEnemySkyClanWarriorA01=格罗布 ~ 天之部落 战士
+tagEnemySkyClanWarriorB01=格罗布 ~ 天之部落 勇士
 
-tagEnemySkyClanShamanA01=格罗布尔 ~ 天之部落 巫医
-tagEnemySkyClanShamanB01=格罗布尔 ~ 天之部落 风暴召唤者
+tagEnemySkyClanShamanA01=格罗布 ~ 天之部落 巫医
+tagEnemySkyClanShamanB01=格罗布 ~ 天之部落 风暴召唤者
 
-tagEnemyStoneClanScavengerA01=格罗布尔 ~ 石之部落 拾荒者
-tagEnemyStoneClanRangedA01=格罗布尔 ~ 石之部落 追踪者
-tagEnemyStoneClanWarriorA01=格罗布尔 ~ 石之部落 战士
-tagEnemyStoneClanWarriorB01=格罗布尔 ~ 石之部落 勇士
+tagEnemyStoneClanScavengerA01=格罗布 ~ 石之部落 拾荒者
+tagEnemyStoneClanRangedA01=格罗布 ~ 石之部落 追踪者
+tagEnemyStoneClanWarriorA01=格罗布 ~ 石之部落 战士
+tagEnemyStoneClanWarriorB01=格罗布 ~ 石之部落 勇士
 
-tagEnemyStoneClanShamanA01=格罗布尔 ~ 石之部落 巫医
-tagEnemyStoneClanShamanB01=格罗布尔 ~ 石之部落 地卜师
+tagEnemyStoneClanShamanA01=格罗布 ~ 石之部落 巫医
+tagEnemyStoneClanShamanB01=格罗布 ~ 石之部落 地卜师
 
-tagEnemyEmberClanScavengerA01=格罗布尔 ~ 火之部落 拾荒者
-tagEnemyEmberClanRangedA01=格罗布尔 ~ 火之部落 追踪者
-tagEnemyEmberClanRangedB01=格罗布尔 ~ 火之部落 狩猎大师
-tagEnemyEmberClanWarriorA01=格罗布尔 ~ 火之部落 战士
-tagEnemyEmberClanWarriorB01=格罗布尔 ~ 火之部落 勇士
+tagEnemyEmberClanScavengerA01=格罗布 ~ 火之部落 拾荒者
+tagEnemyEmberClanRangedA01=格罗布 ~ 火之部落 追踪者
+tagEnemyEmberClanRangedB01=格罗布 ~ 火之部落 狩猎大师
+tagEnemyEmberClanWarriorA01=格罗布 ~ 火之部落 战士
+tagEnemyEmberClanWarriorB01=格罗布 ~ 火之部落 勇士
 
-tagEnemyEmberClanShamanA01=格罗布尔 ~ 火之部落 巫医
-tagEnemyEmberClanShamanB01=格罗布尔 ~ 火之部落 烈焰术士
+tagEnemyEmberClanShamanA01=格罗布 ~ 火之部落 巫医
+tagEnemyEmberClanShamanB01=格罗布 ~ 火之部落 烈焰术士
 
-tagEnemyDeathClanScavengerA01=格罗布尔 ~ 死之部落 拾荒者
-tagEnemyDeathClanRangedA01=格罗布尔 ~ 死之部落 追踪者
-tagEnemyDeathClanWarriorA01=格罗布尔 ~ 死之部落 战士
-tagEnemyDeathClanWarriorB01=格罗布尔 ~ 死之部落 勇士
+tagEnemyDeathClanScavengerA01=格罗布 ~ 死之部落 拾荒者
+tagEnemyDeathClanRangedA01=格罗布 ~ 死之部落 追踪者
+tagEnemyDeathClanWarriorA01=格罗布 ~ 死之部落 战士
+tagEnemyDeathClanWarriorB01=格罗布 ~ 死之部落 勇士
 
-tagEnemyDeathClanShamanA01=格罗布尔 ~ 死之部落 巫医
-tagEnemyDeathClanShamanB01=格罗布尔 ~ 死之部落 白骨法师
+tagEnemyDeathClanShamanA01=格罗布 ~ 死之部落 巫医
+tagEnemyDeathClanShamanB01=格罗布 ~ 死之部落 白骨法师
 
 tagGrobleShamanHeroH01=冰冷刺骨 德士古
 tagGrobleShamanHeroH02=纳比诺克
 tagGrobleShamanHeroH03=尼尔拉姆纳克 ~ 反伤
-tagGrobleHeroH01=托尔格鲁, 烈火之触
-tagGrobleHeroH02=阿尔巴, 短腿
-tagGrobleHeroH03=乌达古, 食火者
-tagGrobleHeroH04=摩尔巴格达, 风暴召唤者
+tagGrobleHeroH01=烈火之触 托尔格鲁
+tagGrobleHeroH02=短腿 阿尔巴
+tagGrobleHeroH03=食火者 乌达古
+tagGrobleHeroH04=风暴召唤者 摩尔巴格达
 tagGrobleHeroH05=霍尔伯拉克 ~ 防御
 tagGrobleHeroH06=匹克斯诺特, 不洁
 
-tagGrobleBoss01=纳巴尔戈尔, 风暴引导者
+tagGrobleBoss01=风暴引导者 纳巴尔戈尔
 
 #Harpy 鹰身女妖
 
@@ -343,22 +343,22 @@ tagEnemyHarpyA01=鹰身女妖 血肉撕裂者
 tagEnemyHarpyB01=鹰身女妖 死亡之风
 tagEnemyHarpyC01=鹰身女妖 厄运神使
 
-tagHarpyHeroH01=玛莱克丝, 风暴编织者
+tagHarpyHeroH01=风暴编织者 玛莱克丝
 tagHarpyHeroH02=烈火之翼
-tagHarpyHeroH03=泰若纳克丝, 守望者
+tagHarpyHeroH03=守望者 泰若纳克丝
 tagHarpyHeroH04=赛丽丝, 风暴之触 ~ 闪电
 tagHarpyHeroH05=霍德雷克斯娜, 风行者 ~ 迅捷
 tagHarpyHeroH06=愤怒之翼 ~ 腐化
 
-tagHarpyBossB01=卢特拉, 被遗弃者
+tagHarpyBossB01=被遗弃者 卢特拉
 
 #CreatureHarvestman 长腿蜘蛛
 
 tagEnemyHarvestmanA01=鬼怪稻草人
 tagEnemyHarvestmanB01=幽魂收割者
 
-tagHarvestmanHeroH01=内米笛安, 死神
-tagHarvestmanHeroH02=艾菲格斯, 感染者
+tagHarvestmanHeroH01=死神 内米笛安
+tagHarvestmanHeroH02=感染者 艾菲格斯
 tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 tagHarvestmanHeroH04=乌鸦凶煞 ~ 压碎者
 
@@ -372,16 +372,16 @@ tagEnemyBloodswornC01=血誓 牧师
 tagEnemyBloodswornC02=血誓 末日预言者
 
 
-tagHumanCultistHeroH01=朱利叶斯·克罗利, 摧心者
-tagHumanCultistHeroH02=卢修斯, 热血沸腾
-tagHumanCultistHeroH03=奈扎利安, 猎犬召唤者
+tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
+tagHumanCultistHeroH02=热血沸腾 卢修斯
+tagHumanCultistHeroH03=猎犬召唤者 奈扎利安
 tagHumanCultistHeroH04=依格纳修斯 ~ 燃烧
 tagHumanCultistHeroH05=巴尔瓦达 嗜血 ~ 复生
 tagEnemyBloodswornMiniBoss01=萨拉查, 冥神之刃
 tagEnemyBloodswornMiniBoss02=伯瓦尔, 血之羁绊
 tagEnemyBloodswornMiniBoss03=扎里亚, 屠刀
 tagBloodswornBoss01=血领主 泰隆尼斯
-tagBloodswornBoss02=卡若兹, 冥神替身
+tagBloodswornBoss02=冥神替身 卡若兹
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍从
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯 ~ 恶棍
@@ -407,20 +407,20 @@ tagEnemyHumanOutlaw_AetherB02=克隆利帮 ~ 优选战士
 tagEnemyHumanOutlaw_AetherC01=克隆利帮 ~ 超凡战士
 
 tagHumanOutlawLeader01=德莱厄斯·克隆利
-tagHumanOutlawMiniBoss01="长腿"埃德蒙·道尔
-tagHumanOutlawMiniBoss02=塞拉斯 "剥皮者"
-tagHumanOutlawMiniBoss03=德拉沃科 "火炬"
+tagHumanOutlawMiniBoss01="长腿" 埃德蒙·道尔
+tagHumanOutlawMiniBoss02="剥皮者" 塞拉斯
+tagHumanOutlawMiniBoss03="火炬" 德拉沃科
 tagHumanOutlawMiniBoss04="疯子" 威尔克斯
-tagHumanOutlawMiniBoss05=斯雷瓦克 "破坏者"
+tagHumanOutlawMiniBoss05="破坏者" 斯雷瓦克
 tagHumanOutlawMiniBoss06="轰鸣" 斯洛克姆
-tagHumanOutlawMiniBoss07=阿佘 "墙壁"法雷尔
+tagHumanOutlawMiniBoss07="墙壁" 阿什·法雷尔
 tagHumanOutlawMiniBoss08=尼古拉斯·巴尔萨泽
 
-tagHumanOutlawHeroH01=利安德 "黑水"格林
+tagHumanOutlawHeroH01="黑水" 利安德·格林
 tagHumanHeroH01=血腥杰克
 tagHumanHeroH02=德尔纳·黑眼
 tagHumanHeroH03=哈德森·福瑞
-tagHumanHeroH04=纳德拉, 暗影
+tagHumanHeroH04=暗影 纳德拉
 tagHumanHeroH05=塞鲁·暗歌
 tagHumanHeroH06=威利, 切割者 ~ 迅捷
 tagHumanHeroH07=埃弗雷特, 血咒 ~ 燃烧
@@ -429,9 +429,9 @@ tagHumanHeroH09=梅力克·虚化之触 ~ 冲锋
 tagHumanHeroH10=埃尔登 "蛇皮" ~ 复生
 
 tagHumanBoss01="守财奴" 马丁
-tagHumanBoss02=海里昂 "耗子"
+tagHumanBoss02="耗子" 海里昂
 tagHumanBoss03=尼古拉斯·巴尔萨泽
-tagHumanBoss04=鲍里斯, 竞技场主
+tagHumanBoss04=竞技场主 鲍里斯
 
 tagHumanRoverA_A01=流浪者
 tagHumanRoverA_B01=流浪者 侦察兵
@@ -444,14 +444,14 @@ tagHumanPossessedA02=失心秘术师
 tagHumanPossessedB01=失心元素师
 tagHumanPossessedC01=失心大法师
 
-tagHumanPossessedHeroH01=阿腊拉 星火
+tagHumanPossessedHeroH01=星火 阿腊拉
 tagHumanPossessedHeroH02=虚化烈焰
-tagHumanPossessedHeroH03=卡姆拉德瑞斯, 霜心
+tagHumanPossessedHeroH03=霜心 卡姆拉德瑞斯
 tagHumanPossessedHeroH04=科普西亚 ~ 反伤
 tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 
-tagHumanPossessedHeroH06=罗克斯梅尔 黑暗法师
-tagHumanPossessedBoss01=诺维利亚 风暴之火
+tagHumanPossessedHeroH06=黑暗法师 罗克斯梅尔
+tagHumanPossessedBoss01=风暴之火 诺维利亚
 tagHumanPossessedBoss02=档案管理员塞隆
 tagHumanPossessedBoss03=奥西瑞斯·埃弗隆
 
@@ -465,7 +465,7 @@ tagEnemyDermapteranC02=革翅目先祖
 
 tagEnemySummonWeavilA01=感染者
 
-tagDermapteranHeroH01=哈尔帕拉克斯, 噬日者
+tagDermapteranHeroH01=噬日者 哈尔帕拉克斯
 tagDermapteranHeroH02=科罗西纳克斯
 tagDermapteranHeroH03=沃斯巴莱克斯 ~ 迅捷
 tagDermapteranHeroH04=奥马里克斯 ~ 闪电
@@ -474,7 +474,7 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚化
 tagDermapteranBoss01=虫群首领 洛扎克
 tagDermapteranBoss02=虫群首领 伊尼克希尔
 tagDermapteranBoss03=虫后 拉芙娜
-tagDermapteranBoss04=蜂巢守卫 阿诺克斯, 被感染者
+tagDermapteranBoss04=蜂巢守卫 被感染者 阿诺克斯
 
 #CreatureInsectMosquito 蚊子
 tagEnemyInsectMosquitoA01=泥沼食血者
@@ -484,7 +484,7 @@ tagEnemyInsectMosquitoA02=溃烂之裔 食血者
 tagEnemyInsectMosquitoB02=溃烂之裔 血恶魔
 tagEnemyInsectMosquitoC02=溃烂之裔 女王
 
-tagInsectMosquitoHeroH01=弗拉多克斯, 放血者
+tagInsectMosquitoHeroH01=放血者 弗拉多克斯
 tagInsectMosquitoHeroH02=萨拉普 ~ 闪电
 tagInsectMosquitoHeroH03=乔纳克斯, 贪食 ~ 迅捷
 tagInsectMosquitoHeroH04=那尔拉克斯 ~ 腐化
@@ -496,16 +496,16 @@ tagEnemyInsectWaspA01=毒翼工蜂
 tagEnemyInsectWaspB01=毒翼刺蜂
 tagEnemyInsectWaspC01=毒翼蜂后
 
-tagInsectWaspHeroH01=斯卡普莱克斯, 狂乱者
+tagInsectWaspHeroH01=狂乱者 斯卡普莱克斯
 tagInsectWaspHeroH02=卡拉普莱克斯 ~ 防御
-tagInsectWaspHeroH03=哈尔普莱克斯, 蜂后之意志 ~ 支援者
+tagInsectWaspHeroH03=蜂后之意志 哈尔普莱克斯 ~ 支援者
 tagInsectWaspHeroH04=拉尔卡拉 ~ 复生
 tagInsectWaspHeroH05=福尔克拉克斯 ~ 冰冻
 tagInsectWaspHeroH06=瓦拉克拉克斯 ~ 腐化
 tagInsectWaspHeroH07=奥达克拉克斯 ~ 虚化
 
-tagInsectWaspBoss01=尤拉普莱克斯, 蜂巢女王
-tagInsectWaspBoss02=罗纳普莱克斯, 至高女皇
+tagInsectWaspBoss01=蜂巢女王 尤拉普莱克斯
+tagInsectWaspBoss02=至高女皇 罗纳普莱克斯
 
 #CreatureInsectSwarm 虫群
 
@@ -514,7 +514,7 @@ tagEnemyInsectSwarmB01=疫病虫群
 
 tagEnemyInsectSwarm_PossessedA01=失心虫群
 
-tagInsectSwarmHeroH01=依丝克, 虫巢主脑
+tagInsectSwarmHeroH01=虫巢主脑 依丝克
 tagInsectSwarmHeroH02=阿瓦里克斯 ~ 闪电
 tagInsectSwarmHeroH03=奥姆诺, 灾荒 ~ 疾病
 
@@ -530,14 +530,14 @@ tagEnemyManticoreAetherA01=畸形蝎尾狮
 tagEnemyManticoreAetherB01=畸形废墟潜行者
 tagEnemyManticoreAetherC01=畸形虚化之裔
 
-tagManticoreHeroH01=拉科萨, 翡翠猎手
-tagManticoreHeroH02=奈隆, 死亡之眼
-tagManticoreHeroH03=阿尔'卡奥, 黑心
+tagManticoreHeroH01=翡翠猎手 拉科萨
+tagManticoreHeroH02=死亡之眼 奈隆
+tagManticoreHeroH03=黑心 阿尔'卡奥
 tagManticoreHeroH04=尤若克西斯 迅爪 ~ 迅捷
 tagManticoreHeroH05=瓦罗克西斯 猩红之爪 ~ 压碎者
-tagManticoreHeroH06=布拉泽拉 炎鬃
+tagManticoreHeroH06=炎鬃 布拉泽拉
 
-tagManticoreBoss01=莫伽拉, 蝎尾狮女王
+tagManticoreBoss01=蝎尾狮女王 莫伽拉
 
 #CreatureObsidianDefiler 黑曜石蝎子
 
@@ -546,15 +546,15 @@ tagEnemyObsidianDefilerB01=黑曜石亵渎者
 tagEnemyObsidianDefilerC01=黑曜石掠夺者
 tagEnemyObsidianDefilerC02=黑曜石歼灭者
 
-tagObsidianDefilerHeroH01=奥珀西迪斯, 泰坦
-tagObsidianDefilerHeroH02=查'泽里斯, 篡位者
+tagObsidianDefilerHeroH01=泰坦 奥珀西迪斯 
+tagObsidianDefilerHeroH02=篡位者 查'泽里斯
 tagObsidianDefilerHeroH03=凯尔法'依多斯 ~ 闪电
 tagObsidianDefilerHeroH04=奥鲁金'依多斯 ~ 冰冻
 tagObsidianDefilerHeroH05=卓格'尤考格 ~ 冲锋
 
 tagObsidianDefilerBoss01=梦魇'加戈斯
 
-#CreaturePrawns 虾？
+#CreaturePrawns
 
 tagEnemyPrawnA01=食腐者 裂隙之灾
 tagEnemyPrawnA02=酸液之怒 裂隙之灾
@@ -569,9 +569,9 @@ tagEnemyCavePrawnB01=白化的穴居爬行者
 tagEnemyCavePrawnC01=凶暴的穴居爬行者
 tagEnemyCavePrawnSummonA01=成群的穴居爬行者
 
-tagPrawnHeroH01=拉娃克里克斯, 贪婪
-tagPrawnHeroH02=帕拉克里克斯, 先祖
-tagPrawnHeroH03=维拉克里克斯, 毒裔
+tagPrawnHeroH01=贪婪 拉娃克里克斯
+tagPrawnHeroH02=先祖 帕拉克里克斯 
+tagPrawnHeroH03=毒裔 维拉克里克斯
 tagPrawnHeroH04=艾尔克里克斯 ~ 闪电
 tagPrawnHeroH05=弗洛克里克斯 ~ 燃烧
 
@@ -579,7 +579,7 @@ tagCavePrawnHeroH01=泰若克里克斯
 tagCavePrawnHeroH02=基里克里克斯 ~ 冰冻
 tagCavePrawnHeroH03=布鲁克里克斯 ~ 防御
 
-tagCavePrawnBoss01=伊克里克斯, 捕食者
+tagCavePrawnBoss01=捕食者 伊克里克斯
 
 #CreatureRaptor 猛禽
 
@@ -594,8 +594,8 @@ tagEnemyRaptorB_RangedA01=风之猛禽 ~ 暗杀者
 tagEnemyRaptorB_ChampionA01=风之猛禽 ~ 天空领主
 
 tagRaptorHeroH01=撕魂
-tagRaptorHeroH02=阿拉格纳克斯, 噬灵者
-tagRaptorHeroH03=巴尔丁, 混乱使者
+tagRaptorHeroH02=噬灵者 阿拉格纳克斯
+tagRaptorHeroH03=混乱使者 巴尔丁
 tagRaptorHeroH04=灵魂咆哮 ~ 勇不可挡
 tagRaptorHeroH05=依德兰, 畸形 ~ 复生
 tagRaptorHeroH06=巴尔拉 ~ 虚化
@@ -618,11 +618,11 @@ tagEnemyVoidHoundB01=虚空魔犬 ~ 犬群之首
 tagRiftHoundHeroH01=查瑞斯
 tagRiftHoundHeroH02=瘟疫领主
 tagRiftHoundHeroH03=虚空狂怒
-tagRiftHoundHeroH04=沃尔文, 炼狱
+tagRiftHoundHeroH04=炼狱 沃尔文
 tagRiftHoundHeroH05=贾拉克斯, 沼地之怒 ~ 冲锋
 tagRiftHoundHeroH06=加恩, 犬群猎手 ~ 防御
 
-tagBossRifthoundB01=卡利斯·卡, 骸骨猎手
+tagBossRifthoundB01=骸骨猎手 卡利斯·卡
 
 #CreatureScavenger 食腐动物
 
@@ -630,9 +630,9 @@ tagEnemyScavengerA01=食腐者
 tagEnemyScavengerB01=狂怒食腐者
 tagEnemyScavengerC01=食腐者统领
 
-tagScavengerHeroH01=刀疤脸 食人者
+tagScavengerHeroH01=食人者 刀疤脸
 tagScavengerHeroH02=血爪
-tagScavengerHeroH03=白鬃, 雷击者
+tagScavengerHeroH03=雷击者 白鬃
 tagScavengerHeroH04=厄诺尔 食腐者 ~ 疾病
 tagScavengerHeroH05=猩红之尾 ~ 支援者
 tagScavengerHeroH06=拉夫 ~ 虚化
@@ -655,7 +655,7 @@ tagSkeletalGolemHeroH04=沃拉加尔, 虚化之触 ~ 腐化
 tagSkeletalGolemHeroH05=奥拉加尔, 混乱使者 ~ 虚化
 
 
-tagSkeletalGolemBossB01=艾勒戈尔, 不朽者
+tagSkeletalGolemBossB01=不朽者 艾勒戈尔
 tagSkeletalGolemBossB02=尤若布鲁克的守卫
 
 #CreatureSkeleton 骷髅
@@ -671,17 +671,17 @@ tagEnemySkeletonC02=霜冻亡魂
 tagEnemySkeletonC03=风暴亡魂
 tagEnemySkeletonC04=厄运亡魂
 
-tagSkeletonHeroH01=泰布里斯, 饮血者
-tagSkeletonHeroH02=巴拉扎尔, 德里格的永世仆役
-tagSkeletonHeroH03=哈里斯·德雷德, 受诅咒者
+tagSkeletonHeroH01=饮血者 泰布里斯
+tagSkeletonHeroH02=德里格的永世仆役 巴拉扎尔
+tagSkeletonHeroH03=受诅咒者 哈里斯·德雷德
 tagSkeletonHeroH04=地狱幽魂 ~ 燃烧
 tagSkeletonHeroH05=阿洛斯·萨达林 ~ 反伤
 tagSkeletonHeroH06=冰寒之心 ~ 冰冻
 
-tagSkeletonBoss01=基利安, 污染之魂
+tagSkeletonBoss01=污染之魂 基利安
 tagSkeletonBoss02=大祭司 扎尔泽兰
 tagSkeletonBoss03=埃尔纳德林的鬼魂
-tagSkeletonBoss04=主教罗德拉西斯
+tagSkeletonBoss04=主教 罗德拉西斯
 
 tagGravestone_Skeleton01=罗伯特
 tagGravestone_Skeleton02=罗克福德
@@ -710,16 +710,16 @@ tagEnemyBloodscale_SlithWarriorC01=血鳞勇士
 tagEnemyBloodscale_SlithShamanB01=血鳞萨满
 tagEnemyBloodscale_SlithShamanC01=血鳞召唤者
 
-tagSlithHeroH01=依格瑞克斯, 霜心
-tagSlithHeroH02=加隆, 风暴领主
-tagSlithHeroH03=罗可汗, 深渊领主
+tagSlithHeroH01=霜心 依格瑞克斯
+tagSlithHeroH02=风暴领主 加隆
+tagSlithHeroH03=深渊领主 罗可汗
 tagSlithHeroH04=法兰, 邪恶 ~ 勇不可挡
 tagSlithHeroH05=埃多纳克斯 ~ 迅捷
 tagSlithHeroH06=阿瓦拉瑞安 ~ 腐化
 
-tagSlithBossB01=维洛丝, 腐化者
-tagSlithBossB02=派莫笛安, 被遗忘者
-tagSlitbBossB03=埃伦娜, 第一只蛇人
+tagSlithBossB01=腐化者 维洛丝
+tagSlithBossB02=被遗忘者 派莫笛安
+tagSlitbBossB03=第一只蛇人 埃伦娜
 
 tagEnemyMurkTide_SlithWarriorA01=黑潮战士
 tagEnemyMurkTide_SlithWarriorB01=黑潮先锋
@@ -736,10 +736,10 @@ tagEnemySpiderB02=恐怖编织者 寡妇
 tagEnemySpiderC01=恐怖编织者 女王
 tagEnemySpiderSummon=幼蛛
 
-tagSpiderHeroH01=奥德隆, 熔岩
-tagSpiderHeroH02=拉格里丝, 跳跃者
-tagSpiderHeroH03=赫尔娜, 恐怖寡妇
-tagSpiderHeroH04=特尼克丝, 编织者
+tagSpiderHeroH01=熔岩 奥德隆
+tagSpiderHeroH02=跳跃者 拉格里丝
+tagSpiderHeroH03=恐怖寡妇 赫尔娜
+tagSpiderHeroH04=编织者 特尼克丝
 tagSpiderHeroH05=拉娜, 命运编织者 ~ 护盾
 tagSpiderHeroH06=奥蒂娜, 育母蜘蛛 ~ 防御
 
@@ -750,8 +750,8 @@ tagEnemyThornedHorrorB01=荆棘恐兽
 tagEnemyThornedHorrorC01=荆棘巨兽
 
 
-tagThornedHorrorHeroH01=泰若利恩, 魔窟
-tagThornedHorrorHeroH02=科普拉克斯, 疯长
+tagThornedHorrorHeroH01=魔窟 泰若利恩
+tagThornedHorrorHeroH02=疯长 科普拉克斯
 tagThornedHorrorHeroH03=黑荆棘 ~ 反伤
 tagThornedHorrorHeroH04=腐烂荆棘 ~ 疾病
 tagThornedHorrorHeroH05=长青 ~ 复生
@@ -788,13 +788,13 @@ tagEnemyTrollHalfSwampB02=东沼泽战士
 tagEnemyTrollHalfSwampB03=东沼泽萨满
 tagEnemyTrollHalfSwampC01=东沼泽长者
 
-tagTrollHalfHeroH01=巴拉尔, 吞岩者
-tagTrollHalfHeroH02=帕德瑞克, 战争狂
+tagTrollHalfHeroH01=吞岩者 巴拉尔
+tagTrollHalfHeroH02=战争狂 帕德瑞克
 tagTrollHalfHeroH03=石牙 ~ 防御
 tagTrollHalfHeroH04=艾洛拉斯, 食日者 ~ 燃烧
 
-tagTrollHalfSwampHeroH01=拉加尔, 碎石者
-tagTrollHalfSwampHeroH02=托格洛克, 渡鸦
+tagTrollHalfSwampHeroH01=碎石者 拉加尔
+tagTrollHalfSwampHeroH02=渡鸦 托格洛克
 tagTrollHalfSwampHeroH03=马格拉克 ~ 护盾
 tagTrollHalfSwampHeroH04=瓦拉克 ~ 支援者
 
@@ -806,35 +806,35 @@ tagEnemyTrollSwampA01=毒疣巨魔
 tagEnemyTrollSwampB01=毒疣狂怒者
 tagEnemyTrollSwampC01=毒疣巨兽
 
-tagTrollHeroH01=奥格拉克, 不朽者
-tagTrollHeroH02=苏拉克, 撼地者
+tagTrollHeroH01=不朽者 奥格拉克
+tagTrollHeroH02=撼地者 苏拉克
 tagTrollHeroH03=特格拉克 ~ 勇不可挡
 tagTrollHeroH04=欧达克, 瘴气 ~ 疾病
 tagTrollHeroH05=汪特拉克 ~ 冰冻
 
-tagTrollSwampHeroH01=巴格拉克, 沼泽守卫
+tagTrollSwampHeroH01=沼泽守卫 巴格拉克
 tagTrollSwampHeroH02=若沃斯 ~ 反伤
 tagTrollSwampHeroH03=马加洛克 ~ 虚化
 tagTrollSwampHeroH04=阿瓦加尔 ~ 腐化
 
-tagBossTrollB01=苟格斯, 狂暴
-tagBossTrollB02=沃德拉克, 破坏者
-tagBossTrollB03=巴尔戈尔, 沼泽之王
+tagBossTrollB01=狂暴 苟格斯
+tagBossTrollB02=破坏者 沃德拉克
+tagBossTrollB03=沼泽之王 巴尔戈尔
 
 tagEnemyTrollCorruptedA01=畸形巨魔
 tagEnemyTrollCorruptedB01=畸形先锋
 tagEnemyTrollCorruptedB02=畸形枪手
 tagEnemyTrollCorruptedC01=畸形指挥官
 
-tagTrollCorruptedD01=白霜, 恐惧守卫
+tagTrollCorruptedD01= 恐惧守卫 白霜
 
-tagTrollCorruptedHeroH01=苏卡尔, 风暴之触
-tagTrollCorruptedHeroH02=霍克瑞斯, 恐惧
+tagTrollCorruptedHeroH01=风暴之触 苏卡尔
+tagTrollCorruptedHeroH02=恐惧 霍克瑞斯
 tagTrollCorruptedHeroH03=腐化
 tagTrollCorruptedHeroH04=卡拉德拉克 ~ 勇不可挡
 tagTrollCorruptedHeroH05=法尔德拉克 ~ 反伤
 
-tagTrollCorruptedBoss01=哈拉斯 屠杀者
+tagTrollCorruptedBoss01=屠杀者 哈拉斯
 
 #CreatureUnderdwellers
 
@@ -850,17 +850,17 @@ tagEnemyCaveSpiderB01=恐惧编织者 蜘蛛
 tagEnemyCaveSpiderB02=恐惧编织者 寡妇
 tagEnemyCaveSpiderC01=恐惧编织者 女王
 
-tagCaveTrollHalfHeroH01=格拉沃洛克, 黑暗之民
-tagCaveTrollHalfHeroH02=阿格洛克, 盲眼狂战士
+tagCaveTrollHalfHeroH01=黑暗之民 格拉沃洛克
+tagCaveTrollHalfHeroH02=盲眼狂战士 阿格洛克
 tagCaveTrollHalfHeroH03=萨瓦洛克 ~ 护盾
 tagCaveGrobleHeroH01=艾姆卡拉 ~ 迅捷
 tagCaveGrobleHeroH02=欧巴拉克 ~ 支援者
-tagCaveSpiderHeroH01=谢尔勒, 黑暗
+tagCaveSpiderHeroH01=黑暗 谢尔勒
 tagCaveSpiderHeroH02=维拉克斯娜 ~ 复生
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 
-tagCaveSpiderBoss01=安苟利亚克斯, 幽冥编织者
-tagCaveTrollHalfBoss01=咕噜斯, 穴居者
+tagCaveSpiderBoss01=幽冥编织者 安苟利亚克斯
+tagCaveTrollHalfBoss01= 穴居者 咕噜斯
 
 #creatureVultures 秃鹫
 
@@ -868,7 +868,7 @@ tagEnemyVultureSummon=安克维亚 石爪
 tagEnemyVultureA01=安克维亚 石爪
 tagEnemyVultureB01=安克维亚 毒喙
 
-tagHeroVultureH01=沃拉克斯娜, 食血者
+tagHeroVultureH01=食血者 沃拉克斯娜
 tagHeroVultureH02=天灾之翼 ~ 疾病
 tagHeroVultureH03=耙型喙 ~ 勇不可挡
 tagHeroVultureH04=愤怒利爪 ~ 腐化
@@ -881,7 +881,7 @@ tagEnemyWormB01=撼地者 腐虫
 
 tagEnemyWormDeepDwellerA01=深渊挖掘者
 
-tagWormHeroH01=格拉夫内尔, 嗜怒者
+tagWormHeroH01=嗜怒者 格拉夫内尔
 tagWormHeroH02=裂地者 ~ 闪电
 tagWormHeroH03=裂石者 ~ 护盾
 tagWormHeroH04=愤怒之虫 ~ 腐化
@@ -899,7 +899,7 @@ tagYetiHeroH02=冰咬
 tagYetiHeroH03=冷血 ~ 复生
 tagYetiHeroH04=马鲁斯 ~ 腐化
 
-tagYetiBoss01=拉格拉萨 狂怒之血
+tagYetiBoss01=狂怒之血 拉格拉萨
 
 
 #CreatureZombie 僵尸生物
@@ -921,26 +921,26 @@ tagEnemyZombieVoidA01=冥煞失魂者
 tagEnemyZombieMutatedA01=畸形屠夫
 tagEnemyZombieMutatedB01=畸形鞭笞者
 
-tagZombieMutatedBoss01=巴洛格, 流血
+tagZombieMutatedBoss01=流血 巴洛格
 
-tagZombieHeroH01=艾伯纳, 被遗忘者
+tagZombieHeroH01=被遗忘者 艾伯纳
 tagZombieHeroH02=猩红梦魇
-tagZombieHeroH03=加斯崔斯, 污秽者
-tagZombieHeroH04=吉里森, 重生者
-tagZombieHeroH05=波瓦瑞斯, 寒冰降生
+tagZombieHeroH03=污秽者 加斯崔斯
+tagZombieHeroH04=重生者 吉里森
+tagZombieHeroH05=寒冰降生 波瓦瑞斯
 tagZombieHeroH06=阿尔达纳, 不死者
 tagZombieHeroH07=断肠者 ~ 勇不可挡
 tagZombieHeroH08=泰瑟隆 ~ 闪电
 tagZombieHeroH09=荒芜盛宴 ~ 冲锋
-tagZombieHeroH10=艾尔瑞克, 巫火
+tagZombieHeroH10=巫火 艾尔瑞克
 
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=污秽猎犬
 tagEnemyZombieHoundB01=污秽猎犬首领
 
-tagZombieHoundHeroH01=格纳科斯, 夜魇
-tagZombieHoundHeroH02=夏恩, 被诅咒者
+tagZombieHoundHeroH01=夜魇 格纳科斯
+tagZombieHoundHeroH02=被诅咒者 夏恩
 tagZombieHoundHeroH03=弗兹, 饮鸩 ~ 支援者
 tagZombieHoundHeroH04=血之咆哮 ~ 复生
 
@@ -954,10 +954,10 @@ tagReanimatorHeroH02=高罗格, 不灭 ~ 勇不可挡
 tagReanimatorHeroH03=火尸 ~ 反伤
 tagReanimatorHeroH04=阿兹加洛格, 腐化者 ~ 防御
 
-tagReanimatorBossH01=盖思兰, 背叛者
-tagReanimatorBossH02=赞布兰特, 高阶虚灵
+tagReanimatorBossH01=背叛者 盖思兰
+tagReanimatorBossH02=高阶虚灵 赞布兰特 
 tagReanimatorBossH03=冰寒恐兽
-tagReanimatorBossH04=那扎格拉德, 堕落者
+tagReanimatorBossH04=堕落者 那扎格拉德
 
 #Pets 宠物
 
@@ -998,7 +998,7 @@ tagItemGuardianA02=鲁莽守卫
 tagItemAncestorA01=先祖之魂
 tagItemRevenantA01=奥格'纳佩什的亡魂
 tagItemPrawnA01=枯萎者 裂隙之灾
-tagItemYetiA01=寒鬃, 碎石者
+tagItemYetiA01=碎石者 寒鬃 
 tagRelicStormhound=风暴猎犬
 tagRelicNemesis=复仇者
 tagRelicSwarm=虫群
@@ -1043,21 +1043,21 @@ tagBossLoghorreanTentacleCluster=触手簇
 tagMiscTargetDummy=训练假人
 
 #Nemesis 复仇者
-tagNemesis_Aetherial01=瓦尔达兰, 风暴之灾
+tagNemesis_Aetherial01=风暴之灾 瓦尔达兰
 tagNemesis_Aetherial02=被遗忘的邪灵
 tagNemesis_Aetherial03=贱民
-tagNemesis_Chthonian01=扎克'阿兰, 永恒之石
-tagNemesis_Chthonian02=本'扎尔, 巨像
-tagNemesis_Chthonian03=巴格斯'祖尔, 无尽饥饿
+tagNemesis_Chthonian01=永恒之石 扎克'阿兰
+tagNemesis_Chthonian02=巨像 本'扎尔
+tagNemesis_Chthonian03=无尽饥饿 巴格斯'祖尔
 tagNemesis_Kymon01=地狱火领主
 tagNemesis_Kymon02=铁娘子
-tagNemesis_OrderDeathsVigil01=赞塔兰, 不朽者
-tagNemesis_OrderDeathsVigil02=卡巴拉, 腐朽编织者
-tagNemesis_Outlaw01=费比乌斯, "隐秘刺客"冈扎尔
-tagNemesis_Outlaw02=沃斯, 裁决者
+tagNemesis_OrderDeathsVigil01=不朽者 赞塔兰
+tagNemesis_OrderDeathsVigil02=腐朽编织者 卡巴拉
+tagNemesis_Outlaw01="隐秘刺客" 费比乌斯 冈扎尔
+tagNemesis_Outlaw02=裁决者 沃斯
 tagNemesis_Outlaw03=死眼
-tagNemesis_Undead01=奥米诺克西斯, 技师
-tagNemesis_Undead02=莫斯劳克, 寒风
+tagNemesis_Undead01=技师 奥米诺克西斯
+tagNemesis_Undead02=寒风 莫斯劳克
 tagNemesis_Undead03=托克赛莫斯
 
 tagNemesis_Clone01=约翰·波旁的克隆体
@@ -1072,9 +1072,9 @@ tagNemesis_Clone09=约翰·波旁的克隆体实际最终形态
 
 
 #Devotion 虔诚
-tagDevotion_AetherialH01=阿斯瑞兹, 监视者
-tagDevotion_AetherialH02=纳拉卓克, 烈焰元素
-tagDevotion_AetherialH03=艾达拉卓斯, 腐化
+tagDevotion_AetherialH01=监视者 阿斯瑞兹
+tagDevotion_AetherialH02=烈焰元素 纳拉卓克
+tagDevotion_AetherialH03=腐化 艾达拉卓斯
 
 tagDevotion_ChthonianDevourerH01=高'巴洛克
 tagDevotion_ChthonianDevourerH02=哈尔'纳丁
@@ -1166,44 +1166,44 @@ tagDevotion_ZombieH09=斯威夫特的遗骸 ~ 迅捷
 
 #Bounties 赏金
 tagBountyBL08=饱食之胃
-tagBountyBL09=西克里斯, 穴居爬行者
+tagBountyBL09=穴居爬行者 西克里斯
 tagBountyBL10=灰烬之爪
-tagBountyBL17=哈拉斯, 复生者
+tagBountyBL17=复生者 哈拉斯
 tagBountyBL18=派得曼斯蒂亚
 tagBountyBL19=尸化者
 tagBountyBL20=卢萨斯'巴洛克
 tagBountyDC06="压碎者" 罗曼诺夫
-tagBountyDC07=波拉 "乌鸦"
-tagBountyDC08=斯拉丝, 瘟疫
+tagBountyDC07="乌鸦" 波拉
+tagBountyDC08=瘟疫 斯拉丝
 tagBountyDC09=巴利尔 ~ 燃烧
-tagBountyDC10=伊戈尔 "格斗士"
-tagBountyDC11=贾斯匹斯, 饮血者
-tagBountyDC15=罗斯托夫, 虚化之火
-tagBountyDC17=纳罗斯, 寒霜之裔
+tagBountyDC10="格斗士" 伊戈尔
+tagBountyDC11=饮血者 贾斯匹斯
+tagBountyDC15=虚化之火 罗斯托夫
+tagBountyDC17=寒霜之裔 纳罗斯
 tagBounyExile12=纽科斯'达尔
 tagBounyExile13=因纽'贾巴尔
 tagBounyExile14=寇纳斯塔利亚
 tagBounyExile15=鲁迪亚·星火
-tagBountyHS09=鲍格罗斯, 吸髓者
+tagBountyHS09=吸髓者 鲍格罗斯
 tagBountyHS10=蚱蜢
 tagBountyHS11=首领 哈辛
-tagBountyHS12=格鲁克若格 生命吸食者
+tagBountyHS12=生命吸食者 格鲁克若格
 tagBountyHS13=费比亚斯
-tagBountyKC07=霍威尔 骸骨之语
-tagBountyKC08=依格尼亚 剧毒之舌
+tagBountyKC07=骸骨之语 霍威尔
+tagBountyKC08=剧毒之舌 依格尼亚
 tagBountyKC09=沃姆'祖尔
-tagBountyKC10=特伦, 冥神选诏的战士
-tagBountyKC11=阿巴西斯, 干枯
-tagBountyKC19=卢蒂雅 鲜血私语者
-tagBountyODV06=哈尔瓦斯塔 怒火
-tagBountyODV07=霍瓦德 破盾者
-tagBountyODV08=奥尔伽 持火者
-tagBountyODV09=那若斯, 巨兽
-tagBountyODV10=巴洛斯特兰, 超凡战士
-tagBountyODV11=格拉维斯, 腐朽
+tagBountyKC10=冥神选诏的战士 特伦
+tagBountyKC11=干枯 阿巴西斯
+tagBountyKC19=鲜血私语者 卢蒂雅
+tagBountyODV06=怒火 哈尔瓦斯塔
+tagBountyODV07=破盾者 霍瓦德
+tagBountyODV08=持火者 奥尔伽
+tagBountyODV09=巨兽 那若斯
+tagBountyODV10=超凡战士 巴洛斯特兰
+tagBountyODV11=腐朽 格拉维斯
 tagBountyODV12=纳尔'萨若斯
 tagBountyRO10=奥里根·达尔
-tagBountyRO11=雷克希纳 灾疫之羽
+tagBountyRO11=灾疫之羽 雷克希纳
 tagBountyRO12=莫塔里斯
 tagBountyRO19=格鲁姆
 

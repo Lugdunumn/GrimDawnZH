@@ -1,8 +1,8 @@
 # Achievement Groups 成就体系
 
-achGroupAct1=第一章
-achGroupAct2=第二章
-achGroupAct3=第三章
+achGroupAct1=第一幕
+achGroupAct2=第二幕
+achGroupAct3=第三幕
 achGroupChallenges=挑战
 achGroupCharacter=人物
 achGroupMonsters=怪物
@@ -92,7 +92,7 @@ ach026Desc=解救达莱特于伯尔维治庄园。
 ach027Title=授予曼海尔的锤骨
 ach027Desc=争取到一位铁匠的帮助。
 
-ach028Title=汤没给你喝
+ach028Title=汤没你的份儿
 ach028Desc=解救奥格瑞姆于伯尔维治郊外。
 
 ach029Title=学徒级工匠
@@ -146,7 +146,7 @@ ach044Desc=通关游戏于终极难度。
 ach045Title=不朽的救世主
 ach045Desc=以专家模式通关游戏于终极难度。
 
-ach046Title=问题专家
+ach046Title=艰难抉择
 ach046Desc=以非暴力方式解决新港的问题。
 
 ach047Title=一视同仁

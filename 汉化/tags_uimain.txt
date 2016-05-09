@@ -1,5 +1,5 @@
-tagTitleScreenText=^t恐  怖  黎  明^-{^n}^b────────^-{^n}©2016 Crate Entertainment, LLC{^n}{^n}请访问我们的网站{^n}{^b}www.grimdawn.com{^-}{^n}参与恐怖黎明的持续开发
-tagDemoScreenText=感谢您的参与！{^n}{^n}恐怖黎明目前已在 Steam 或我们的网站 www.grimdawn.com 正式发布。
+tagTitleScreenText=恐怖黎明{^n}©2016 Crate Entertainment, LLC{^n}{^n}请访问我们的网站{^n}www.grimdawn.com{^n}参与恐怖黎明的持续开发
+tagDemoScreenText=感谢您的参与！{^n}{^n}恐怖黎明目前已在 Steam 或我们的网站 www.grimdawn.com 上正式发布。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -20,7 +20,7 @@ tagMenuButton09=确定
 tagMenuButton10=创建
 tagMenuButton11=下载
 tagMenuChar={%d0} ~ {%d1}
-tagCharLevelClass=^y{%d0} 级 ^g{%t1}
+tagCharLevelClass=%d0} 级 {%t1}
 
 # 临时弹出消息 关于阿尔法版创建多人游戏时的警示
 tagMenuMPWarning=欢迎加入多人游戏测试！注意：测试期间，你会遇到 BUG，游戏崩溃和性能问题。请到恐怖黎明论坛反馈这些问题。
@@ -114,7 +114,7 @@ tagGameplayOption15=锁定地图旋转
 tagGameplayOption16=暴力
 tagGameplayOption17=血腥
 tagGameplayOption18=教程提示
-tagGameplayOption19=怪物尸体存留时间
+tagGameplayOption19=怪物尸体留存时间
 tagGameplayOption20=经典目标选取
 tagGameplayOption21=匿名反馈信息
 tagGameplayOption22=显示暴击倍数
@@ -413,8 +413,8 @@ tagMenuWarning02=你想要重命名这个自定义人物吗？
 tagMenuWarning03=留空并点击"确定"以保留{%s}作为新人物的名字不变。
 tagMenuUpdate01=没有可用更新。
 tagMenuUpdate02=正在下载更新
-tagMenuDelete01=你确认永久删除此人物吗？{^N}键入"^r del ^-"后点击^h确定^-按钮
-tagMenuDeleteConfirm=del
+tagMenuDelete01=你确认永久删除此人物吗？键入"DELETE"后点击确定按钮
+tagMenuDeleteConfirm=DELETE
 tagDeveloperTitle=开发者
 tagDeveloperOption01=图像同步刷新
 tagDeveloperOption02=全屏幕
@@ -537,7 +537,7 @@ tagProtanopia=红色盲
 tagDeuteranopia=绿色盲
 tagTritanopia=蓝色盲
 
-tagOverwriteKeymap=该功能^y{%t0}^-已经被映射到^y{%t1}^-了。是否覆盖？
+tagOverwriteKeymap=该功能^y{%t0}^w已经被映射到^y{%t1}^w了。是否覆盖？
 tagHardDiskError=计算机硬盘空间不足，恐怖黎明可能会无法存档。释放更多硬盘空间以避免该问题。
 tagMenuError10=无法连接至服务器。MOD 或者地图版本与主机不匹配。
 

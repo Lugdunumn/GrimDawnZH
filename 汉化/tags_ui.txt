@@ -85,7 +85,7 @@ tagCodexJournalSubHeadingSurvivorsHomestead=幸存者 - 霍姆斯特德
 tagCodexJournalSubHeadingSurvivorsDarkvale=幸存者 - 黑谷
 tagCodexJournalSubHeadingHistoryGods=历史 - 凯恩众神
 tagCodexJournalSubHeadingDefault=杂项
-tagDevotionJournalTitle=  ^r★ ^d已获得虔诚点数：^-{%d0}/{%d1} ^r★
+tagDevotionJournalTitle=已获得虔诚点数：{%d0}/{%d1} 
 tagAccept=接受
 tagDecline=拒绝
 tagContinue=继续
@@ -468,14 +468,14 @@ tagHUDButtonRollOptions=保存，退出和游戏设置。
 tagSkillUndoClass=撤销专精选择
 tagSkillUndoPoints=撤销加点
 tagSkillClassSelect=选择专精
-tagCurrentLevel=当前等级: ^h{%d0}
-tagNextLevel=下一等级: ^h{%d0}
+tagCurrentLevel=当前等级: {%d0}
+tagNextLevel=下一等级: {%d0}
 tagSkillClassSelectInfo=选择一个专精{^n}{^n}一旦你做出选择并且退出了技能窗口，你的选择将被永久固定。
-tagSkillReq01=还需加 ^h{%d0}^- 点于{%t1}条
-tagSkillReq01Singular=还需加 ^h{%d0}^- 点于{%t1}条
-tagSkillReq02=还需加 ^h{%d0}^- 点于{%t1}和{%s2}技能
-tagSkillReq02Singular=还需加 ^h{%d0}^- 点于{%t1}和{%s2}技能
-tagSkillReq03=需学会 ^l{%s1}^- 技能
+tagSkillReq01=还需加 {%d0} 点于{%t1}条
+tagSkillReq01Singular=还需加 {%d0} 点于{%t1}条
+tagSkillReq02=还需加 {%d0} 点于{%t1}和{%s2}技能
+tagSkillReq02Singular=还需加 {%d0} 点于{%t1}和{%s2}技能
+tagSkillReq03=需学会 {%s1} 技能
 tagSkillPointsRemain={%d0} 剩余点数
 tagSkillPointsRemainSingular={%d0} 剩余点数
 
@@ -581,16 +581,16 @@ tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
 tagRollFormat18={^b}{%.0f0} - {%.0f1}
 tagRollFormat19={^b}{%.0f0}
 tagFormatPercent={%.0f}%
-tagFormatPlusPercent= {%.0f}%
-tagFormatMinusPercent= {%.0f}%
-tagFormatPlus= {%d0}
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
 tagFormatDash={%d0} - {%d1} 
 tagFormatDashPercent={%d0}% - {%d1}%
 tagCharPointAvailable={^y}{%d0} {^w}可用点数
 tagCharPointsAvailable={^y}{%d0} {^w}可用点数
-tagCharLevel=^y{%d0} 级
+tagCharLevel={%d0} 级
 tagCharXP=经验值: {%t0}
-tagCharLevelAndClass=^y{%d0} 级 ^g{%t1}
+tagCharLevelAndClass={%d0} 级 {%t1}
 
 tagCharRollLeftHand=副手:
 tagCharRollRightHand=主手:
@@ -638,7 +638,7 @@ tagCharStatsArmorWaist=腰部:
 tagCharStatsArmorShoulders=肩部:
 
 tagFormulaLearned=设计图已学会
-tagFormulaLearn01=你学会了如何制作 ^t{%t0}
+tagFormulaLearn01=你学会了如何制作 {%t0}
 tagFormulaLearn02={^r}你已经学过这张设计图了。
 tagFormulaLearn03={^r}[已学会]
 
@@ -1182,12 +1182,12 @@ tagShrineButton02=开始
 tagShrineButton03=取消
 tagShrineButtonInfo=将祭品放置在祭坛的空位
 tagShrineWarning=这座祭坛已被破坏，需要修复。{^n}你确定放置祭品修复吗？
-tagShrineConfirmProxy=这座祭坛已被亵渎，需要净化。{^n}你确定清除困于其中的魔怪吗？
+tagShrineConfirmProxy=这座祭坛已被亵渎，需要净化。{^n}你确定要召唤出困于其中的魔物吗？
 tagShrineActivated=这座祭坛已被修复。
 tagShrineHostActivated=这座祭坛已被主机修复。
 tagShrineHostNotActivated=你已在另一时期修复了这座祭坛。
 tagShrineBusy=这座祭坛正被另一位玩家占用。
-tagShrineLocked=这座祭坛处于休眠状态。^h(去古安克维亚找艾姆卡拉接任务) ^r需^k流浪者^r声望达到^g崇拜
+tagShrineLocked=这座祭坛处于休眠状态。^h(去古安克维亚找艾姆卡拉接任务)需流浪者声望达到崇拜
 
 #Smuggler 走私者
 
@@ -1314,7 +1314,7 @@ tagCharManaRegenModifier={%+.0f0}% {^E}能量回复速度
 
 tagCharManaLimitReserve={%+.0f0} {^E}预留能量值
 tagCharManaLimitReserveReduction=-{%.0f0} {^E}预留能量值
-tagCharManaLimitReserveModifier=+{%.0f0}% {^E}预留能量值
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}预留能量值
 tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}预留能量值
 
 tagCharRunSpeed={%+.0f0}% {^E}移动速度
@@ -1388,7 +1388,7 @@ tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}装备所有武器所
 tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}装备所有武器所需敏捷
 
 SkillManaCostReductionR=-{%.0f0}% {^E}技能能量消耗
-SkillCooldownReductionR=-{%.0f0}% {^E}技能冷却时间
+SkillCooldownReductionR=+{%.0f0}% {^E}技能冷却时间
 SkillProjectileSpeedModifierR={%+.0f0}% {^E}投射物飞行速度
 SkillManaCostReductionModifierR=-{%.0f0}% {^E}技能能量消耗
 SkillCooldownReductionModifierR=-{%.0f0}% {^E}技能冷却时间
@@ -1612,7 +1612,7 @@ tagShieldBlockInfo={%.0f0}% 几率格挡 {^W}{%.0f1} 伤害
 
 
 SkillManaCostReduction=-{%.0f0}% {^E}技能能量消耗
-SkillCooldownReduction=-{%.0f0}% {^E}技能冷却时间
+SkillCooldownReduction=+{%.0f0}% {^E}技能冷却时间
 SkillProjectileSpeedModifier={%+.0f0}% {^E}投射物飞行速度
 SkillManaCostReductionModifier=-{%.0f0}% {^E}技能能量消耗
 SkillCooldownReductionModifier=-{%.0f0}% {^E}技能冷却时间
@@ -1669,8 +1669,8 @@ DamagePerSecond={%.0f0} {^S}每秒伤害(装备后)
 DamagePerSecondOffHand={%.0f0} {^S}每秒伤害(副手)
 DamagePhysicalChance= {^E}物理伤害
 DamageBasePhysical= {^S}物理伤害
-DamageBasePierceRatio={%.0f0}% {^S}护甲穿透
-DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}护甲穿透
+DamageBasePierceRatio={%.0f0}% {^S}穿刺转换
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}穿刺转换
 DamageBonusPhysical={%t0} {^E}物理伤害
 tagDamageBaseFire={%t0} {^S}火焰伤害
 tagDamageBaseLightning={%t0} {^S}闪电伤害
@@ -1742,8 +1742,8 @@ DamageDurationProjectileFumble=% {^E}几率目标瞄准障碍
 
 DamageModifierPhysical={%+.0f0}% {^E}物理伤害
 DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}物理伤害
-DamageModifierPierceRatio={%+.0f0}% {^E}护甲穿透
-DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}护甲穿透
+DamageModifierPierceRatio={%+.0f0}% {^E}穿刺转换
+DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}穿刺转换
 DamageModifierPierce={%+.0f0}% {^E}穿刺伤害
 DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}穿刺伤害
 DamageModifierCold={%+.0f0}% {^E}冰冷伤害
@@ -1984,8 +1984,8 @@ DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}反击伤害减少
 
 RacialBonusPercentDamage={%+.0f0}% {^E}对{%s1}的伤害
 RacialBonusAbsoluteDamage={%+.0f0} {^E}对{%s1}的伤害
-RacialBonusPercentDefense=-{%.0f0}% {^E}来自{%s1}的伤害
-RacialBonusAbsoluteDefense=-{%.0f0} {^E}来自{%s1}的伤害
+RacialBonusPercentDefense={%.0f0}% {^E}来自{%s1}的伤害
+RacialBonusAbsoluteDefense={%.0f0} {^E}来自{%s1}的伤害
 RacialBonusRaceName={%s0}
 
 
@@ -2006,8 +2006,8 @@ tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
 tagSparkMaxNumberMod=最多影响 {%d0} 个目标
 
 tagItemGrantSkill=赋予技能:
-tagItemSkill= {^S}(物品赋予)
-tagItemSkillShort= {^S}(物品赋予)
+tagItemSkill= (物品赋予)
+tagItemSkillShort= (物品赋予)
 tagEffect=效果:
 tagSkillGrantEffect=天赋能力:
 tagDevotionAttached=绑定至:

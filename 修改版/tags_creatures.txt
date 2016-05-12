@@ -111,13 +111,13 @@ tagBoneRatMiniBoss02=贮藏者~ 帕斯珪尔
 tagEnemyCelestial_QuestA01=Celestial Thing
 
 
-#CreatureChthonian 冥灵
+#CreatureChthonian 冥煞
 
-tagEnemyChthonianAbomination=冥灵拆解者
+tagEnemyChthonianAbomination=冥煞拆解者
 
-tagEnemyChthonianMinionA01=冥灵先锋
-tagEnemyChthonianMinionB01=冥灵放血者
-tagEnemyChthonianMinionC01=冥灵凋零使者
+tagEnemyChthonianMinionA01=冥煞先锋
+tagEnemyChthonianMinionB01=冥煞放血者
+tagEnemyChthonianMinionC01=冥煞凋零使者
 
 tagChthonianMinionHeroH01=恰恩·达若斯
 tagChthonianMinionHeroH02=埃尔纳·达若斯
@@ -127,10 +127,10 @@ tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
 tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
 
-tagEnemyChthonianDreadguardA01=冥灵先锋
-tagEnemyChthonianDreadguardB01=冥灵恐惧守卫
+tagEnemyChthonianDreadguardA01=冥煞先锋
+tagEnemyChthonianDreadguardB01=冥煞恐惧守卫
 tagEnemyChthonianDreadguardB01Logghorrean=罗格霍瑞恩的恐惧守卫
-tagEnemyChthonianDreadguardC01=冥灵暴君
+tagEnemyChthonianDreadguardC01=冥煞暴君
 tagEnemyChthonianDreadguardC01Logghorrean=罗格霍瑞恩残暴者
 tagEnemyChthonianDreadguardD01=罗格霍瑞恩的先锋护卫
 
@@ -175,10 +175,10 @@ tagVoidFiendBoss01=地狱之火~ 巴洛格·纳斯
 
 #CreatureChthonianDevourer
 
-tagEnemyChthonianDevourerA00=冥灵游荡者
-tagEnemyChthonianDevourerA01=冥灵贪食者
-tagEnemyChthonianDevourerB01=冥灵吞噬者
-tagEnemyChthonianDevourerB02=冥灵饱食者
+tagEnemyChthonianDevourerA00=冥煞游荡者
+tagEnemyChthonianDevourerA01=冥煞贪食者
+tagEnemyChthonianDevourerB01=冥煞吞噬者
+tagEnemyChthonianDevourerB02=冥煞饱食者
 
 tagChthonianDevourerHeroH01=湮灭之爪~ 紐加鲁
 tagChthonianDevourerHeroH02=饥饿之胃~ 萨戈丁
@@ -873,7 +873,7 @@ tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 
 tagCaveSpiderBoss01=幽冥编织者~ 安苟利亚克斯
-tagCaveTrollHalfBoss01=穴居者~ 高鲁斯
+tagCaveTrollHalfBoss01=穴居者~ 咕噜斯
 
 #creatureVultures 秃鹫
 
@@ -929,7 +929,7 @@ tagEnemyZombieSoldierB01=腐朽灰烬守卫
 tagEnemyZombieSoldierC01=狂怒士兵
 tagEnemyZombieBerserkerA01=尸魔
 
-tagEnemyZombieVoidA01=冥灵无魂者
+tagEnemyZombieVoidA01=冥煞无魂者
 
 tagEnemyZombieMutatedA01=奇型屠夫
 tagEnemyZombieMutatedB01=奇型鞭笞者
@@ -1116,7 +1116,7 @@ tagDevotion_ChthonianMinionH05=布拉格尔’多斯
 tagDevotion_ChthonianMinionH06=马尔’萨隆~ 冰冻
 tagDevotion_ChthonianMinionH07=索伽尔’伽格斯~ 防护
 
-tagDevotion_ChthonianMonstrosityH01=冥灵解剖者
+tagDevotion_ChthonianMonstrosityH01=冥煞解剖者
 
 tagDevotion_FleshHulkH01=布罗格纳瑟尔
 tagDevotion_FleshHulkH02=艾瑟尔霖
@@ -1224,7 +1224,7 @@ tagBountyRO19=格鲁姆
 tagRace001=亡灵
 tagRace002=兽人
 tagRace003=虚灵
-tagRace004=冥灵
+tagRace004=冥煞
 tagRace005=虚灵的腐朽仆从
 tagRace006=血誓
 tagRace007=邪术生物
@@ -1239,7 +1239,7 @@ tagRace015=蜘蛛族
 tagRace001P=亡灵
 tagRace002P=兽人
 tagRace003P=虚灵
-tagRace004P=冥灵
+tagRace004P=冥煞
 tagRace005P=虚灵的腐朽仆从
 tagRace006P=血誓
 tagRace007P=邪术生物

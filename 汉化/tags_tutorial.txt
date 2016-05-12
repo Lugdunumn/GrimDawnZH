@@ -132,7 +132,6 @@ tagTutorialTip36TextB=你不能移除投资在专精上的技能点。此外，�
 tagTutorialTip37Title=仓库窗口
 tagTutorialTip37TextA=走私者可以存储你的物品，甚至可以在你的角色间转移物品!你可以在整个卡恩世界能找到的任何走私者那里访问你的物品。
 tagTutorialTip37TextB=物品可以通过Shift+左键来快速转移。
-
 tagTutorialTip37TextC=点击物品转移来和你的其他角色分享物品。
 
 tagTutorialTip38Tile=物品转移
@@ -150,7 +149,6 @@ tagTutorialTip39TextB=物品上镶嵌物的移除将按物品，镶嵌物和增�
 tagTutorialTip39TextC=你可以恢复物品或者镶嵌物，但在此过程中另一件东西会被摧毁。
 tagTutorialTip39SubtitleB=只移除增幅物
 tagTutorialTip39TextD=无论何时你只移除增幅物的话，物品和镶嵌物都会被保留下来。如果一件灵魂绑定的增幅物以这种方式移除，而且物品原本并非灵魂绑定，那么物品的灵魂绑定状态也将会被移除。
-
 
 tagTutorialTip42Title=铁匠
 tagTutorialTip42TextA=铁匠有制作强大威力物品的能力。他是一位经验丰富的工匠，每个他制作的物品都细微的制作属性奖励，他的知识可以通过新的设计图来扩充。
@@ -226,7 +224,6 @@ tagTutorialTip59TextC=当一座神龛被净化后，你会获得一点虔诚点�
 tagTutorialTip60Title=信仰窗口
 tagTutorialTip60TextA=信仰窗口允许你分配虔诚点数到各种神灵或者卡恩的信仰符记之上。
 tagTutorialTip60TextB=当你完成完整星座时，你会获得亲和点数，它可以让你解锁并获得更为强大的星座。
-
 tagTutorialTip60SubtitleA=亲和点数
 tagTutorialTip60TextC=星座对应着5种亲和点数，代表着不同的神之位面。不同的星座需要不同数量的亲和点数来解锁。
 tagTutorialTip60SubtitleB=使用虔诚点数
@@ -237,7 +234,6 @@ tagTutorialTip60TextG=带有光晕的天星标志着拥有信仰之力的地方�
 
 tagTutorialTip61Title=信仰之力
 tagTutorialTip61TextA=信仰之力是能够与你来自天赋和装备的主要技能绑定的可以自动激活生效的技能。与你技能绑定的信仰之力能够从战斗和任务中获得经验值，这能使它们升级并更为强力。当绑定到宠物技能上时，它们会受到宠物伤害的影响。
-
 tagTutorialTip61SubtitleA=分配到一个主要技能
 tagTutorialTip61TextB=要分配一个信仰之力，你必须先在信仰窗口中解锁它，然后从弹出的列表中选取一个可用技能。你能够毫无惩罚地重新分配信仰之力。如果你解绑了一个信仰之力，它仍会保存已获得的经验和等级。
 

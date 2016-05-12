@@ -162,7 +162,6 @@ tagNone=无
 tagRed=红色
 tagGreen=绿色
 tagBlue=蓝色
-
 tagLanguage01=英语(美国)
 tagLanguage02=英语(英国)
 tagLanguage03=西班牙语
@@ -301,7 +300,6 @@ tagFullscreen=全屏
 tagFullscreenWindowed=窗口化(无边框)
 tagWindowed=窗口化
 tagWidescreen=(W)
-
 tagNetworkTitle=网络
 tagUpnpTitle=UPnP协议:
 tagUpnpStatus=UPnP协议状态：

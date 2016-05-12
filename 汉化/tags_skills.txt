@@ -381,19 +381,19 @@ tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的毒师�
 tagClass04SkillName02C=暗夜降临 
 tagClass04SkillDescription02C=当你现身并与主要目标接触时，一片如漆黑寒冷夜晚般的黑暗将降临到周围的敌人身上，冻结他们的血液并将无法控制的疲倦侵入他们的思维。
 
-tagClass04SkillName03A=刀锋壁障 
+tagClass04SkillName03A=刀锋壁障
 tagClass04SkillDescription03A=对于一个夜刃大师来说，传言贝尔戈蒂安对他的魔力缺乏有效的控制；不过他拥有不懈的意念来召唤大量的刀刃来组成一面环绕他的坚盾，使他在敌人面前获得片刻的喘息。^o技能作用期间你将不能移动。
 
-tagClass04SkillName04A=钢铁之环 
+tagClass04SkillName04A=钢铁之环
 tagClass04SkillDescription04A=上百把幻影刀锋瞬间以致命的速度环绕着你，消灭附近的敌人。
-tagClass04SkillName04B=屠戮之环 
+tagClass04SkillName04B=屠戮之环
 tagClass04SkillDescription04B=锋利的幻影刀锋深深地切割圆环范围内的敌人，使他们流出大量鲜血。
-tagClass04SkillName04C=寒霜之环 
+tagClass04SkillName04C=寒霜之环
 tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量，增强冰冷伤害并冻结敌人，不过需要以牺牲穿刺伤害为代价。
 
 tagClass04SkillName05A=双手持刃 
 tagClass04SkillDescription05A=夜刃技能中最基本的便是对近战双持的精通，他们喜欢使用尖利的刀刃,以及使钢铁中产生元素之寒的技艺。^o这是一项双持技能。同时开启双持近战武器的能力。
-tagClass04SkillName05B=贝尔戈斯安的切割 
+tagClass04SkillName05B=贝尔戈斯安的切割
 tagClass04SkillDescription05B=健壮的贝尔戈斯安是轻盈的夜刃大师中的异数，不过他在原始的力量上超越了他们。借助于他的力量，如剪刀般直接致命的攻击，贝尔戈斯安经常一击终结敌人。^o这是一项近战双持技能，由默认武器攻击触发。
 tagClass04SkillName05C=阿玛拉斯塔的瞬影 
 tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀刃据说像一条空气中的鞭子，只留下一条快得肉眼难以捕捉的光线。这项技艺的大师能够在普通攻击的时间内打击三次。^o这是一项近战双持技能。由默认武器攻击触发。
@@ -1234,7 +1234,7 @@ tagItemSkillC102Name=火焰之爪
 tagItemSkillC102Desc=用地狱火爪将敌人一分为二。
 
 tagItemSkillC103Name=召唤贪食者
-tagItemSkillC103Desc=将一只冥灵贪食者从虚空中拉扯出来保护你。^o贪食者会受到战宠加成影响。
+tagItemSkillC103Desc=将一只冥煞贪食者从虚空中拉扯出来保护你。^o贪食者会受到战宠加成影响。
 
 tagItemSkillC104Name=灵魂守卫
 tagItemSkillC104Desc=将身体的一部分进入到灵魂领域，提升你对生命吸取和物理攻击的抗性。
@@ -1341,8 +1341,8 @@ tagItemSkillD018Desc=手伸到你的裤子里面，掏出一坨东西丢出去�
 tagItemSkillD019Name=冰雹风暴
 tagItemSkillD019Desc=在目标区域召唤一阵致命的冰雹。
 
-tagItemSkillD020Name=召唤冥灵先锋
-tagItemSkillD020Desc=从虚空深处召唤出萨拉查的先锋。^o冥灵先锋会受到战宠加成影响。
+tagItemSkillD020Name=召唤冥煞先锋
+tagItemSkillD020Desc=从虚空深处召唤出萨拉查的先锋。^o冥煞先锋会受到战宠加成影响。
 tagItemSkillD020PetSkillName=幽冥剧毒
 tagItemSkillD020PetSkillName02=混沌光环
 tagItemSkillD020PetSkillDesc02=萨拉查的先锋将混沌祝福给予它的盟友。
@@ -2097,7 +2097,7 @@ tagCompSkillA027Name=刺盾
 tagCompSkillA027Desc=用你的盾牌猛击敌人，用锋利的边缘刺穿他们。 ^o需要一把近战武器。
 
 tagCompSkillA028Name=秘银刀锋
-tagCompSkillA028Desc=用武器打出能够毁灭冥灵生物的一击。
+tagCompSkillA028Desc=用武器打出能够毁灭冥煞生物的一击。
 
 tagCompSkillA029Name=猛击
 tagCompSkillA029Desc=用压倒性的一击猛击你的敌人。
@@ -2749,7 +2749,7 @@ tagEnemySkillA02=吸魂者的仪态
 tagEnemySkillA02_Desc=吸魂者的仪态会吸取你的力量并使你受到活力伤害。
 
 tagEnemySkillA03=幽魂瘴气
-tagEnemySkillA03_Desc=冥灵的诅咒会侵蚀你所有的防御力。
+tagEnemySkillA03_Desc=冥煞的诅咒会侵蚀你所有的防御力。
 
 tagEnemySkillA04=痛苦标记
 tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量。

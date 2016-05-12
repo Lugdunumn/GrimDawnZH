@@ -1280,7 +1280,7 @@ tagInfoButtonNo=否
 tagInfoButtonOk=好
 tagGameOver=你死了！
 
-SimpleStringFormat={    %s0}
+SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
 TripleStringFormat={%s0}{%s1}{%s2}
 QuadStringFormat={%s0}{%s1}{%s2}{%s3}

@@ -1179,7 +1179,7 @@ tagNPC_GateGuardA01=守门人 - 鲁克
 
 #Merchants and Other Services商人等npc
 
-tagNPC_BonusItems=保管人 科丽
+tagNPC_BonusItems=保管人 科利
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -1263,7 +1263,7 @@ tagStoreDesc_SmithA04_3=
 tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
 tagNPC_SmithA05=艾特姆·法尔德
-tagStoreTitle_SmithA05=天神铁匠
+tagStoreTitle_SmithA05=神力铁匠
 tagStoreDesc_SmithA05_1={}
 tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成。
 tagStoreDesc_SmithA05_3= 

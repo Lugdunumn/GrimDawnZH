@@ -185,11 +185,11 @@ tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成�
 tagClass02SkillName03A=火焰打击 
 tagClass02SkillDescription03A=一项致命的炼金技术，能够引燃敌人周围的空气进行攻击。^o当作为你的默认武器攻击时，火焰打击造成额外的物理和火焰伤害。
 tagClass02SkillName03B=爆裂打击 
-tagClass02SkillDescription03B=提高火焰冲击的效果，有一定几率提高火焰伤害。^o如作为远程攻击，还能对附近的敌人造成爆炸伤害。
+tagClass02SkillDescription03B=提高火焰打击的效果，有一定几率提高火焰伤害。^o如作为远程攻击，还能对附近的敌人造成爆炸伤害。
 tagClass02SkillName03C=静电打击 
-tagClass02SkillDescription03C=进一步的炼金改进使火焰冲击对目标造成电击伤害并有一定几率击退他们。
+tagClass02SkillDescription03C=进一步的炼金改进使火焰打击对目标造成电击伤害并有一定几率击退他们。
 tagClass02SkillName03D=炽烈硫磺 
-tagClass02SkillDescription03D=使用火焰法术为火焰冲击附加硫磺的混沌之力。^o远程攻击也会分裂成融化的碎片。
+tagClass02SkillDescription03D=使用火焰法术为火焰打击附加硫磺的混沌之力。^o远程攻击也会分裂成融化的碎片。
 tagClass02SkillName03E=灼热打击 
 tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消耗更少的能量来打出更强的攻击，但这项技艺只有在熟练使用近战武器、双手枪械或是双手弩的时候才能完成。 ^o需要一把近战或者远程双手武器。
 
@@ -2776,7 +2776,7 @@ tagEnemySkillA11=黑曜石陷阱
 tagEnemySkillA11_Desc=黑曜石亵渎者用黑曜石牢笼困住了你，吸取你的生命力。
 
 tagEnemySkillA12=黑曜石陷阱
-tagEnemySkillA12_Desc=本·雅尔用黑曜石牢笼困住了你，并用混沌的力量摧毁着你的身体。
+tagEnemySkillA12_Desc=本·扎尔用黑曜石牢笼困住了你，并用混沌的力量摧毁着你的身体。
 
 tagEnemySkillD01=熵能虚空
 tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离。

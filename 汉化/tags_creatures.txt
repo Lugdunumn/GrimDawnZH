@@ -440,7 +440,7 @@ tagHumanRoverA_C01=流浪者~ 防御者
 #CreatureHumanPossessed 被占据人类
 
 tagHumanPossessedA01=失心学徒
-tagHumanPossessedA02=失心秘术师
+tagHumanPossessedA02=失心奥术师
 tagHumanPossessedB01=失心元素师
 tagHumanPossessedC01=失心大法师
 
@@ -781,12 +781,12 @@ tagEnemyTrollHalfB02=雾裔战士
 tagEnemyTrollHalfB03=雾裔萨满
 tagEnemyTrollHalfC01=雾裔长者
 
-tagEnemyTrollHalfSwampA01=东部泥沼 狂兽人
-tagEnemyTrollHalfSwampA02=东部泥沼 牧羊人
-tagEnemyTrollHalfSwampB01=东部泥沼 猎手
-tagEnemyTrollHalfSwampB02=东部泥沼 战士
-tagEnemyTrollHalfSwampB03=东部泥沼 萨满
-tagEnemyTrollHalfSwampC01=东部泥沼 长者
+tagEnemyTrollHalfSwampA01=东部沼泽 狂兽人
+tagEnemyTrollHalfSwampA02=东部沼泽 牧羊人
+tagEnemyTrollHalfSwampB01=东部沼泽 猎手
+tagEnemyTrollHalfSwampB02=东部沼泽 战士
+tagEnemyTrollHalfSwampB03=东部沼泽 萨满
+tagEnemyTrollHalfSwampC01=东部沼泽 长者
 
 tagTrollHalfHeroH01=吞岩者 巴拉尔
 tagTrollHalfHeroH02=战争狂 帕德瑞克

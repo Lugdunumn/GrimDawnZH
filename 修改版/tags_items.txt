@@ -47,7 +47,7 @@ tagWeaponSwordC006=鲜血收割者之爪
 tagWeaponSwordC007=决斗者的佩剑
 tagWeaponSwordC007Desc="此剑由历代剑术大师精心校准。"
 tagWeaponSwordC008=执法官
-tagWeaponSwordC008Desc="当仅仅贿赂政敌还无法解决问题的时候，马尔莫斯的大法官会采取另一种解决之道。"
+tagWeaponSwordC008Desc="当仅仅贿赂政敌还无法解决问题的时候，马尔茅斯的大法官会采取另一种解决之道。"
 tagWeaponSwordC009=火焰烙印
 tagWeaponSwordC010=窃魂者
 tagWeaponSwordC011=燃冰
@@ -189,7 +189,7 @@ tagWeaponAxeC014=阿斯特堪切肉刀
 tagWeaponAxeC015=地狱之爪切刀
 
 tagWeaponAxeD001=伯尔维治屠夫
-tagWeaponAxeD001Desc="恐怖黎明之后，卡恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
+tagWeaponAxeD001Desc="恐怖黎明之后，凯恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
 tagWeaponAxeD002=新月
 tagWeaponAxeD002Desc="月之崇拜者的神圣武器，它曾被认为毁于神圣净化之中。"
 tagWeaponAxeD003=凶蛮
@@ -924,7 +924,7 @@ tagHeadB016Desc="头盔每多一道刻痕便代表他又干掉了一个被占据
 tagHeadC001=风暴召唤者的头环
 tagHeadC002=狂战士的风帽
 tagHeadC003=幽冥王冠
-tagHeadC003Desc="曾被戴在卡恩世界第一位也是唯一一位奥术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位然后被教士以异端的罪名处死之前。"
+tagHeadC003Desc="曾被戴在凯恩世界第一位也是唯一一位奥术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位然后被教士以异端的罪名处死之前。"
 tagHeadC004=指挥王冠
 tagHeadC005=圣殿骑士头盔
 tagheadC005Desc="曼海尔的守卫者使用的入门级防具。"
@@ -1623,8 +1623,8 @@ tagNecklaceA016=帝国坠饰
 tagNecklaceB001=^l腐臭项链
 tagNecklaceB001Desc="这枚头骨外包着一层腐臭的黏液。"
 tagNecklaceB002=^l死亡守望者坠饰
-tagNecklaceB003=^l艾莱纳的项链
-tagNecklaceB003Desc="曾属于第一只蛇人艾莱纳的战利品。"
+tagNecklaceB003=^l艾莱娜的项链
+tagNecklaceB003Desc="曾属于第一只蛇人艾莱娜的战利品。"
 
 tagNecklaceC001=风目之链
 tagNecklaceC001Desc="一只眼球在宝石内前前后后飞快地移动着。"
@@ -1694,7 +1694,7 @@ tagNecklaceD011Desc="传说是它在恐怖黎明开始时撕裂出第一道裂�
 tagNecklaceD012=德里格的瘟疫
 tagNecklaceD012Desc="承载着巫神德里格的七种天灾。"
 tagNecklaceD013=暗夜之拥
-tagNecklaceD014=卡恩的复仇者
+tagNecklaceD014=凯恩的复仇者
 tagNecklaceD015=破晓者的信标
 tagNecklaceD016=屠魔者的守御
 tagNecklaceD017=祈愿者的碎片
@@ -2076,7 +2076,7 @@ tagRelicB005Desc="安克维亚的天空之神尤尔托斯的狂暴灵魂。"
 tagRelicB006=炼狱
 tagRelicB006Desc="包含着奥祖因的复仇之力。"
 tagRelicB007=腐化
-tagRelicB007Desc="卡恩世界所遭受磨难的证明。"
+tagRelicB007Desc="凯恩世界所遭受磨难的证明。"
 tagRelicB008=庇护
 tagRelicB008Desc="努力求生方能活命。"
 tagRelicB009=诡诈
@@ -2168,7 +2168,7 @@ tagRelicD018Desc="看看他们，这些渺小的玩偶都在我看不见的线�
 tagRelicD019=奥莱隆之怒
 tagRelicD019Desc="鲜血……痛苦……死亡。还有无法抗拒的隆隆战鼓声。"
 tagRelicD020=曼海尔的壁垒
-tagRelicD020Desc="大地不会忍受什么邪灵或是嗜血的异教徒，奋起抗争保卫她，卡恩世界也将与你同在。"
+tagRelicD020Desc="大地不会忍受什么邪灵或是嗜血的异教徒，奋起抗争保卫她，凯恩世界也将与你同在。"
 tagRelicD021=伊斯坎德拉的平衡
 tagRelicD021Desc="任何有抱负的学员的第一课就是找到围绕在我们周围的原始之力与魔法之间的平衡。"
 tagRelicD022=刀剑大师护符
@@ -2330,7 +2330,7 @@ tagConsumableA11Desc="一种邪恶的毒剂，能引起目标大量的出血。"
 tagConsumableA12=^f奥秘之油
 tagConsumableA12Desc="吉尔达姆秘学社使用的混合药剂，旨在增强武器的威力。"
 tagConsumableA13=^f先祖药剂
-tagConsumableA13Desc="强效的药剂，蕴含着卡恩世界上古魔兽的力量。"
+tagConsumableA13Desc="强效的药剂，蕴含着凯恩世界上古魔兽的力量。"
 tagConsumableA14=^f虚灵药剂
 tagConsumableA14Desc="强效的药剂，蕴含着虚化之力。"
 tagConsumableA15=^f虚空药剂
@@ -2744,9 +2744,9 @@ tagEnchantB019B=幸存者的坚毅 II
 tagEnchantB019BC=幸存者的坚毅 III
 tagEnchantB019Desc="随着混沌和虚化之力的来临，幸存者们适应了新的威胁。"^w^n(用于戒指和项链)
 
-tagEnchantB020A=卡恩的希望
-tagEnchantB020B=卡恩的希望 II
-tagEnchantB020BC=卡恩的希望 III
+tagEnchantB020A=凯恩的希望
+tagEnchantB020B=凯恩的希望 II
+tagEnchantB020BC=凯恩的希望 III
 tagEnchantB020Desc="正当他们准备防御的时候，幸存者们声称世界将会免受侵略者的迫害。"^w^n(用于戒指和项链)
 
 tagEnchantB021A=元素之歌
@@ -2807,7 +2807,7 @@ tagEnchantB031Desc="那些看见凯蒙战斗的人说他发出了像天神一般
 tagEnchantB032A=凯蒙的远见
 tagEnchantB032B=凯蒙的远见 II
 tagEnchantB032BC=凯蒙的远见 III
-tagEnchantB032Desc="凯蒙关于卡恩未来的预见使得神选者们在和卡恩的敌人们战斗时陷入了疯狂。"^w^n(用于戒指和项链)
+tagEnchantB032Desc="凯蒙关于凯恩未来的预见使得神选者们在和凯恩的敌人们战斗时陷入了疯狂。"^w^n(用于戒指和项链)
 
 tagEnchantB033A=尤洛布鲁克的话语
 tagEnchantB033B=尤洛布鲁克的话语 II
@@ -3278,7 +3278,7 @@ tagCompAetherCrystal=虚化水晶
 tagCompAetherCrystalDesc="水晶般的碎片，虚灵的能量依然驻留其中。可以用来打造魔法物品。"
 
 tagCompAmmoBox=弹药匣
-tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭卡恩世界的黑暗势力。"
+tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭凯恩世界的黑暗势力。"
 
 tagCompAScrap=废铁
 tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
@@ -3417,7 +3417,7 @@ tagItemSetC003Desc="向传奇般的奥术师麦文致敬的盛装。"
 
 tagItemSetC004Name=鲜血收割者的荣耀
 tagItemSetC004NameB=鲜血收割者的屠杀
-tagItemSetC004Desc="仅被卡恩最嗜血的刺客们使用过的盔甲和武器。"
+tagItemSetC004Desc="仅被凯恩最嗜血的刺客们使用过的盔甲和武器。"
 
 tagItemSetC005Name=掠夺者的正义
 tagItemSetC005NameB=掠夺者的审判
@@ -3515,7 +3515,7 @@ tagItemSetD004Name=破晓者之光
 tagItemSetD004Desc="太阳的怒火抵挡着不断侵袭的黑暗。"
 
 tagItemSetD005Name=先驱者
-tagItemSetD005Desc="先驱者的装束，他是厄洛兰郊区著名的赏金猎人。"
+tagItemSetD005Desc="先驱者的装束，他是伊露兰郊区著名的赏金猎人。"
 
 tagItemSetD006Name=执法官的印玺
 tagItemSetD006Desc="很多人的命运决断于一人之手。"
@@ -3557,7 +3557,7 @@ tagItemSetD018Name=特洛赞的升华
 tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了如何利用它们难以置信的力量，尽管掌控这种原始能量充满了无尽的危险。"
 
 tagItemSetD019Name=瓦尔登的背叛
-tagItemSetD019Desc="瓦尔登是卡恩最出色的射手之一，但在将厄洛兰的权贵作为目标之后，他就真正变得声名狼藉。"
+tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"
 
 
 #Prefixes前缀

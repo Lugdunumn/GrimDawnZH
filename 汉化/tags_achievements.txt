@@ -27,18 +27,18 @@ ach005Title=不可阻挡
 ach005Desc=在精英或者终极难度击杀六名复仇级怪物。(名称为红色)。
 
 ach006Title=净化世界
-ach006Desc=清除卡恩世界的25000只怪物。
+ach006Desc=清除凯恩世界的25000只怪物。
 
 ach007Title=屠戮过境
-ach007Desc=清除卡恩世界的100000只怪物。
+ach007Desc=清除凯恩世界的100000只怪物。
 
 ach008Title=血海
-ach008Desc=清除卡恩世界的1000000只怪物。
+ach008Desc=清除凯恩世界的1000000只怪物。
 
 ach009Title=末世友谊
 ach009Desc=与一个派系关系达到崇敬。
 
-ach010Title=卡恩世界的典范
+ach010Title=凯恩世界的典范
 ach010Desc=与6个派系关系达到崇敬。
 
 ach011Title=至高之神的仆从
@@ -54,7 +54,7 @@ ach014Title=粉碎冥神之刃
 ach014Desc=终极难度下击杀在堕落圣殿的冥神之刃萨拉查。
 
 ach015Title=死亡行刑者
-ach015Desc=击杀在苦痛阶梯的死亡行刑者领主阿卡莫斯。
+ach015Desc=击杀在苦痛阶梯的行刑者领主阿卡莫斯。
 
 ach016Title=苦痛终结
 ach016Desc=在终极难度击杀在苦痛阶梯的行刑者领主阿卡莫斯。
@@ -71,7 +71,7 @@ ach019Desc=击杀德莱厄斯·克隆利。
 ach020Title=血债血偿
 ach020Desc=击杀冥神魔印卡若兹。
 
-ach021Title=卡恩的梦魇
+ach021Title=凯恩的梦魇
 ach021Desc=击杀罗格霍瑞恩，冥神的代言者。
 
 ach022Title=净化战火平原
@@ -140,7 +140,7 @@ ach042Desc=达到等级 85。
 ach043Title=不朽传说
 ach043Desc=在专家模式达到等级 85。
 
-ach044Title=卡恩的救世主
+ach044Title=凯恩的救世主
 ach044Desc=终极难度通关游戏。
 
 ach045Title=永恒救世主
@@ -209,8 +209,8 @@ ach065Desc=在献祭之地击杀毁灭先驱。
 ach066Title=先驱搁浅
 ach066Desc=在终极难度的献祭之地击杀毁灭先驱。
 
-ach067Title=卡恩守护者
+ach067Title=凯恩守护者
 ach067Desc=完成游戏。
 
-ach068Title=卡恩的冠军战士
+ach068Title=凯恩的冠军战士
 ach068Desc=在精英难度完成游戏。

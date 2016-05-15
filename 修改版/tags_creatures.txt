@@ -425,7 +425,7 @@ tagHumanHeroH05=塞鲁·暗歌
 tagHumanHeroH06=切割者 威利 ~ 迅捷
 tagHumanHeroH07=血咒 埃弗雷特 ~ 燃烧
 tagHumanHeroH08=德雷德·独眼
-tagHumanHeroH09=梅力克·虚化之触 ~ 冲锋
+tagHumanHeroH09=虚化触摸 梅力克 ~ 冲锋
 tagHumanHeroH10=“蛇皮” 埃尔登 ~ 回复者
 
 tagHumanBoss01=“守财奴” 马丁
@@ -453,7 +453,7 @@ tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 tagHumanPossessedHeroH06=洛克斯莫里 暗夜法师
 tagHumanPossessedBoss01=风暴之火 诺维利亚
 tagHumanPossessedBoss02=档案保管员 塞隆
-tagHumanPossessedBoss03=Usterius 艾弗隆
+tagHumanPossessedBoss03=阿斯特瑞斯 艾弗隆
 
 #CreatureInsectDermapteran 革翅目
 
@@ -719,7 +719,7 @@ tagSlithHeroH06=阿瓦拉瑞安 ~ 腐化
 
 tagSlithBossB01=腐化者 维洛丝
 tagSlithBossB02=被遗忘者 派莫笛安
-tagSlitbBossB03=第一只蛇人 艾莱纳
+tagSlitbBossB03=第一只蛇人 艾莱娜
 
 tagEnemyMurkTide_SlithWarriorA01=黑潮战士
 tagEnemyMurkTide_SlithWarriorB01=黑潮先锋

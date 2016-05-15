@@ -161,7 +161,7 @@ tagFactionCthoniansRewards6=N/A
 tagFactionCthoniansRewards7=N/A
 tagFactionCthoniansRewards8=N/A
 tagFactionOutlaws=克隆利帮
-tagFactionOutlawsInfo=和大多数游荡的强盗团伙不同，克隆利帮展现出了高度的组织性且装备精良，只听命于他们自封的领导者，德莱厄斯·克隆利。{^n}{^n}在恐怖黎明之后的混乱中，他们逃离了恶魔十字监狱，这些罪犯现在致力于统治这个曾经禁锢着他们自由的世界。克隆利帮的成员们是残忍，暴力的。他们甚至会去侵犯同盟，这或许是“人类最大的威胁来自人类本身”的缩影。
+tagFactionOutlawsInfo=和大多数游荡的强盗团伙不同，克隆利帮展现出了高度的组织性且他们装备精良，只听命于他们自封的领导者，德莱厄斯·克隆利。{^n}{^n}在恐怖黎明之后的混乱中，他们逃离了恶魔十字监狱，这些罪犯现在致力于统治这个曾经禁锢着他们自由的世界。克隆利帮的成员们是残忍，暴力的。他们甚至会去侵犯同盟，这或许是“人类最大的威胁来自人类本身”这句名言的一个缩影。
 tagFactionOutlawsRewards1=刷新复仇级单位
 tagFactionOutlawsRewards2=刷新额外英雄单位
 tagFactionOutlawsRewards3=刷新额外敌人
@@ -521,7 +521,7 @@ tagCharAttributeName03=智力
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提 高 物 理、穿 刺、流 血 和 创 伤 伤 害。敏 捷 也 会 提 高 你 的 近 战 和 远 程 攻 击 的 命 中 几 率 以 及 暴 击 几 率。
+tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提高物理、穿刺、流血和创伤伤害。敏捷也会提高你的近战和远程攻击的命中几率以及暴击几率。
 
 tagCharAttributeDescription02=锻 炼 体 格 可 以 穿 上 更 重 的 装 备，并 能 灵 敏 地 躲 开 敌 人 的 攻 击。力 量 也 能 提 升 你 承 受 和 回 复 创 伤 的 能 力 以 及 降 低 被 暴 击 的 机 率。
 

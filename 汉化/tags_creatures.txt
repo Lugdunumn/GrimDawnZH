@@ -50,8 +50,8 @@ tagWindDevil_PoisonA01=毒风恶魔
 tagAetherObeliskA01=虚灵方尖碑
 tagAetherObeliskB01=虚灵大地塑型者
 
-tagBossAetherObelisk01=烈焰先驱
-tagBossAetherObelisk02=毁灭先驱
+tagBossAetherObelisk01=烈焰使者
+tagBossAetherObelisk02=毁灭使者
 
 tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影

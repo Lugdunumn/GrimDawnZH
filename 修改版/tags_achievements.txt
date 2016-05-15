@@ -204,10 +204,10 @@ ach064Title=凯蒙的神选者
 ach064Desc=在终极难度以凯蒙神选者的名义击杀马卡达。
 
 ach065Title=净化献祭
-ach065Desc=在献祭之地击杀毁灭先驱。
+ach065Desc=在献祭之地击杀毁灭使者。
 
 ach066Title=先驱搁浅
-ach066Desc=在终极难度的献祭之地击杀毁灭先驱。
+ach066Desc=在终极难度的献祭之地击杀毁灭使者。
 
 ach067Title=凯恩守护者
 ach067Desc=完成游戏。

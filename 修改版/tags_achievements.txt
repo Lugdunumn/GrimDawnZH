@@ -1,4 +1,4 @@
-﻿# Achievement Groups
+# Achievement Groups
 
 achGroupAct1=第一章
 achGroupAct2=第二章

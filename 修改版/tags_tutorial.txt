@@ -1,4 +1,4 @@
-﻿#Loading Tips
+#Loading Tips
 tagLoadingTip01={^g}小贴士: {^w}你可以通过在生命条左侧的战利品过滤按钮来根据品质（魔法及以上，稀有及以上等等）过滤战利品。
 tagLoadingTip02={^g}Tip: {^w}如果你找到了一座暂时无法修复的神龛，它的位置会在世界地图上显示出来。
 tagLoadingTip03={^g}小贴士: {^w}你可以在任何时候打开书典窗口来重新查阅指引教程，默认热键：H。

@@ -1,0 +1,42 @@
+Defense Site
+This seems like a good area to put up some defenses.{^n}{^n}Defenses can only be constructed while the Crucible is inactive. Once a defense site is activated, it cannot be replaced.
+Create Deathchill Beacon
+Deathchill Beacons launch icy orbs at distant enemies, slowing their advance, with a chance to freeze, but their damage is relatively low.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Create this defense (spend 5 Tributes + 10000 Iron Bits)
+Insufficient Materials.
+Consider other options.
+
+How do I earn Tributes?
+Tributes are the currency of the Crucible, given out by its Master to those he finds...entertaining.{^n}{^n}You cannot have more than 100 Tributes at a time.
+Consider the options.
+Step away
+Step away
+Create Inferno Beacon
+Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Create this Defense (spend 5 Tributes + 10000 Iron Bits)
+Insufficient Materials.
+
+
+Step away
+Create Stormcaller Beacon
+Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Create this Defense (spend 5 Tributes + 10000 Iron Bits)
+Insufficient Materials.
+
+
+Step away
+Create Stonewall Banner
+Stonewall Banners grant nearby players bonus defenses.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Create this Defense (spend 5 Tributes + 10000 Iron Bits)
+Insufficient Materials.
+
+
+Step away
+Create Vanguard Banner
+Vanguard Banners grant nearby players bonus offensive stats.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Create this Defense (spend 5 Tributes + 10000 Iron Bits)
+Insufficient Materials.
+
+
+Step away
+Step away

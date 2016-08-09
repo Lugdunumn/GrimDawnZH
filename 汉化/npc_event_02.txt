@@ -1,0 +1,65 @@
+Lokarr, Master of the Crucible
+Before you are my final challenges. The fiercest beasts, the vilest horrors. I doubt you will survive.{^n}{^n}Are you prepared to face death?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+Only the mightiest warriors have survived this far, but few can endure five Mutators.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+Most challengers claim their reward by now. The ones still alive anyway.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+Until now I've been holding back. That ends here. Four Mutators await you.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+An impressive display, but will it be enough for what's still in store for you?{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+You are as fearless as you are ruthless, but now three Mutators await.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+Don't let your success get to your head. The Crucible has devoured more capable warriors than you.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+I expected you to give up by now, or perish...{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+The Crucible's power grows. From here on, you must endure two Mutators.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+So you survived. Splendid...{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+I admit, most do not get this far. Perhaps there is promise in you.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+You defy my minions, but now the real battle begins. From now on, you must also endure the Crucible's Mutators.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+What are Mutators?
+They are powerful auras cast upon the Crucible to empower my minions, or to hinder you.{^n}{^n}From now on, you will have to overcome not just your foes, but also an ever increasing amount of Mutators.
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+I need some time to prepare.
+Impressive, but you've only just begun.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+You've done well, but the Crucible still has much in store for you.{^n}{^n}Are you ready for more?
+Let's begin!
+I wish to collect my reward!
+I need some time to prepare.
+The Crucible has much in store for you.{^n}{^n}Are you ready?
+Let's begin!
+I need some time to prepare.

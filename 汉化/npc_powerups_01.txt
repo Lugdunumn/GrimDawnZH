@@ -1,0 +1,32 @@
+Torralia, the Immortal Archmage
+My master has informed me that I am to offer you my services.{^n}{^n}But I do not work for free. Bring me any Tributes you earn here and I shall bestow upon you Celestial Blessings.
+What are my options?
+There are four Blessings at your disposal:{^n}- The Blessing of Ulo shields you from duration and control effects.{^n}- Empyrion's Guidance grants you unparalleled fortitude.{^n}- The Might of Amatok makes you more powerful.{^n}- Ulzuin's Pact accelerates your abilities.{^n}{^n}Which shall it be?
+Gain the Blessing of Ulo (12 Tributes)
+Gain Empyrion's Guidance (12 Tributes)
+Gain the Might of Amatok (12 Tributes)
+Gain Ulzuin's Pact (12 Tributes)
+Insufficient Currency (Need 12 Tributes)
+
+What are Tributes?
+Tributes are the currency of the Crucible.{^n}{^n}Earn our master's favor and you shall be rewarded with Tributes based on your performance.
+
+I see.
+I wish to prove my Devotion.
+You need only to look to the skies to witness the incomprehensible power that surrounds us.{^n}{^n}Pay Tribute to the gods and perhaps they will show their mercy upon you.{^n}{^n}(Torralia will exchange your Tributes for Devotion Points)
+My Tribute to the gods. (3 Tributes)
+Insufficient Currency (Need 3 Tributes)
+Nevermind.
+My Tribute to the gods. (8 Tributes)
+Insufficient Currency (Need 8 Tributes)
+Nevermind.
+My Tribute to the gods. (15 Tributes)
+Insufficient Currency (Need 15 Tributes)
+Nevermind.
+My Tribute to the gods. (25 Tributes)
+Insufficient Currency (Need 25 Tributes)
+Nevermind.
+My Tribute to the gods. (40 Tributes)
+Insufficient Currency (Need 40 Tributes)
+Nevermind.
+Not right now.

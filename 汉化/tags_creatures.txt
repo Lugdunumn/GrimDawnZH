@@ -370,7 +370,8 @@ tagEnemyBloodswornB02=血誓 召唤者
 tagEnemyBloodswornB03=血誓 虚空召唤者
 tagEnemyBloodswornC01=血誓 牧师
 tagEnemyBloodswornC02=血誓 末日预言者
-
+tagEnemyHellHoundWitchGodA01=Eldritch Mongrel
+tagEnemyHellHoundWitchGodA02=Eldritch Stormchaser
 
 tagHumanCultistHeroH01=摧心者 朱利叶斯·克罗利
 tagHumanCultistHeroH02=血沸 卢修斯

@@ -99,6 +99,15 @@
 这些炸药足够吗？
 
 我的盟友送来了那些炸药么？
+
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
 是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
 嗯，好吧。
 哦不，别又是一次实验……

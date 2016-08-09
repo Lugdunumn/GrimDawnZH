@@ -1,0 +1,173 @@
+#Survival Mode Tags
+
+
+#Defenses
+tagDefense_Turret01=Inferno Beacon
+tagDefense_Turret02=Deathchill Beacon
+tagDefense_Turret03=Stormcaller Beacon
+tagDefense_Banner01=Stonewall Banner
+tagDefense_Banner01_Skill01=Stonewall Aura
+tagDefense_Banner01_Skill01Desc=The Banner steels you for battle, increasing % Defensive Ability, % Health and Health Regeneration
+tagDefense_Banner01_Skill02=Healing Mist
+tagDefense_Banner01_Skill02Desc=The Banner renews you for continued conflict, restoring health.
+tagDefense_Banner02=Vanguard Banner
+tagDefense_Banner02_Skill01=Vanguard Aura
+tagDefense_Banner02_Skill01Desc=The Banner fills you with rage, increasing % Offensive Ability, % Crit damage and % All damage
+tagDefense_Banner02_Skill02=Frenzy
+tagDefense_Banner02_Skill02Desc=The Banner fills you with rage, increasing Total Speed.
+tagDefense_Wall01=Barricade
+
+tagBeacon01=Celestial Beacon
+tagBeacon_Aura01_Skill=Celestial Aura
+tagBeacon_Aura01_Desc=The Celestial Light of the beacon shields you from the darkness.
+
+#Traps
+tagTrap_A01=Frost Pylon
+tagTrap_A02=Infernal Pylon
+tagTrap_A03=Death Pylon
+tagTrap_A04=Toxic Pylon
+
+tagTrap_SkillA01=Chilling Presence
+tagTrap_SkillA01_Desc=The nearby pylon saps you of warmth, slowing you.
+tagTrap_SkillA02=Burning Presence
+tagTrap_SkillA02_Desc=The nearby pylon is burning you alive, reducing armor.
+tagTrap_SkillA03=Necrotic Presence
+tagTrap_SkillA03_Desc=The nearby pylon is sapping your vitality, reducing health and regeneration.
+tagTrap_SkillA04=Toxic Presence
+tagTrap_SkillA04_Desc=The nearby pylon is choking you with poisonous fumes, reducing damage.
+
+#PowerUps
+tagSkillPowerup01=Blessing of Ulo
+tagSkillPowerup01Desc=You are blessed by Ulo, granting you resistance to damage over time and crowd control effects.
+
+tagSkillPowerup02=Empyrion's Guidance
+tagSkillPowerup02Desc=You are blessed by the light of Empyrion, granting you unparalleled fortitude.
+
+tagSkillPowerup03=Might of Amatok
+tagSkillPowerup03Desc=You are marked by the spirit of Amatok, granting you incredible might.
+
+tagSkillPowerup04=Ulzuin's Pact
+tagSkillPowerup04Desc=You are marked by Ulzuin, granting you restless fury.
+
+
+#Rewards
+tagItem_ChestA01=Journeyman's Chest
+tagItem_ChestB01=Champion's Chest
+tagItem_ChestC01=Triumphant Chest
+tagItem_ChestD01=Ornate Chest
+tagItem_ChestE01=Heroic Chest
+tagItem_ChestF01=Valorous Chest
+tagItem_ChestG01=Grand Chest
+tagItem_ChestH01=Supreme Chest
+tagItem_ChestI01=Magnificent Chest
+tagItem_ChestJ01=Glorious Chest
+tagItem_ChestK01=Transcendent Chest
+tagItem_ChestL01=Nemesis Trove
+tagItem_ChestM01=Conqueror's Trove
+tagItem_ChestN01=Celestial Trove
+
+tagItem_ChestStart=Fallen Combatant
+
+#Arenas
+tagSurvivalArena_01=Crucible of the Dead
+tagSurvivalArena_02=Crucible of the Deeps
+tagSurvivalArena_03=Crucible of the Sands
+tagSurvivalArena_04=Crucible of the Grove
+
+#NPCs
+tagNPC_Event_01=Lokarr, Master of the Crucible
+tagNPC_DefenseSite_01=Defense Site
+
+tagNPC_MerchantS01=Kandral
+tagStoreTitle_MerchantS01=Immortal Peddler
+
+tagNPC_SmugglerS01=Ignotius
+tagStoreTitle_SmugglerS01=Immortal Smuggler
+
+tagNPC_ReallocatorS01=Kracius
+tagStoreTitle_ReallocatorS01=Spirit Guide
+
+tagNPC_InventorS01=Yvalla
+tagStoreTitle_InventorS01=Ancient Inventor
+
+tagNPC_PowerupsS01=Torralia, the Immortal Archmage
+
+tagNPC_SmithS01=Garrius
+tagStoreTitle_SmithS01=Cursed Smith
+tagStoreDesc_SmithS01_1={}Gift of Unlife
+tagStoreDesc_SmithS01_2=Garrius is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagStoreDesc_SmithS01_3= 
+tagStoreDesc_SmithS01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+
+#Notifications
+tagNotification_Start=Speak to the Master of the Crucible to Begin
+tagNotification_Active=Eliminate all Enemies
+tagNotification_Continue=Speak to the Master of the Crucible to Continue
+tagNotification_Failure=You have failed, your Compensation awaits in the Treasure Chamber
+tagNotification_Reward=Your Reward awaits in the Treasure Chamber
+tagNotification_Reset=(Optional) Speak to the Master of the Crucible to Reset the Crucible for another attempt
+
+tagNotification_Checkpoint05=You can now resume on Wave 50 in this Crucible.
+tagNotification_Checkpoint10=You can now resume on Wave 100 in this Crucible.
+
+
+#Mutators
+Mutator_Monster_01=Aetherwarped
+Mutator_Monster_01Desc=Monsters are resistant to the Aether, but more Susceptible to Chaos.
+Mutator_Monster_02=Armored
+Mutator_Monster_02Desc=Monsters are nearly impervious to Physical harm and armor Piercing, but are more Susceptible to the Elements.
+Mutator_Monster_03=Berserking
+Mutator_Monster_03Desc=Monsters are berserking, Attacking faster but also becoming more Susceptible to Attacks.
+Mutator_Monster_04=Brutal
+Mutator_Monster_04Desc=Monsters land Critical Strikes more often, but deal Reduced Damage.
+Mutator_Monster_05=Corrupted
+Mutator_Monster_05Desc=Monsters resistant to Chaos, but more Susceptible to the Aether.
+Mutator_Monster_06=Crippling
+Mutator_Monster_06Desc=Monster attacks Slow opponents, but attack Slower.
+Mutator_Monster_07=Cruel
+Mutator_Monster_07Desc=Monster Critical Strikes are extra lethal, but attacks are more likely to Miss.
+Mutator_Monster_08=Ignited
+Mutator_Monster_08Desc=Monsters are infused with Fire, dealing additional Fire damage and Retaliating Fire damage, but are more Susceptible to the Cold.
+Mutator_Monster_09=Time-Warped
+Mutator_Monster_09Desc=Monsters have greatly reduced Spell Cooldowns and increased Casting Speed, but deal Reduced Physical Damage.
+Mutator_Monster_10=Leeching
+Mutator_Monster_10Desc=Monsters leech health back with every attack, but have Reduced Health.
+Mutator_Monster_11=Poisonous
+Mutator_Monster_11Desc=Monsters are tainted with poison, dealing additional Poison damage and Retaliating Poison damage, but are more Susceptible to Vitality draining attacks.
+Mutator_Monster_12=Regenerating
+Mutator_Monster_12Desc=Monsters have highly enhanced health and energy regeneration, but are more Susceptible to Acid, Poison and Bleeding.
+Mutator_Monster_13=Resistant
+Mutator_Monster_13Desc=Monsters are nearly impervious to Magical attacks, but are more Susceptible to Physical harm.
+Mutator_Monster_14=Toughened
+Mutator_Monster_14Desc=Monsters have greatly increased Health, but have reduced Health Regeneration.
+Mutator_Monster_15=Unstoppable
+Mutator_Monster_15Desc=Monsters are highly resistant to Crowd Control, but Move Slowly.
+Mutator_Monster_16=Vengeful
+Mutator_Monster_16Desc=Monsters have greatly enhanced Retaliation effects, but have Reduced Armor.
+Mutator_Monster_17=Swift
+Mutator_Monster_17Desc=Monsters have greatly increased Movement Speed, but are more susceptible to Crowd Control.
+
+Mutator_Player_01=Aethermarked
+Mutator_Player_01Desc=Players experience slowed Attacks, but are more Resistant to the Aether.
+Mutator_Player_02=Voidmarked
+Mutator_Player_02Desc=Players experience slowed Casting but are more Resistant to Chaos.
+Mutator_Player_03=Marked
+Mutator_Player_03Desc=Players have reduced Defensive Ability, but Damage is Magnified.
+Mutator_Player_04=Drained
+Mutator_Player_04Desc=Players have reduced Health Regeneration, but are more Resistant to Poison and Bleeding.
+Mutator_Player_05=Shattered
+Mutator_Player_05Desc=Players have reduced Damage and Retaliation effects, but Armor is Increased.
+Mutator_Player_06=Afflicted
+Mutator_Player_06Desc=Players have reduced Health, but are more Resistant to Vitality drains.
+Mutator_Player_07=Slowed
+Mutator_Player_07Desc=Player Movement Speed is greatly reduced, but Crowd Control doesn't last as long.
+Mutator_Player_08=Tainted
+Mutator_Player_08Desc=Players are Slowed, but Critical Damage is Increased.
+Mutator_Player_09=Exposed
+Mutator_Player_09Desc=Players have reduced Armor, but Cooldowns are Reduced.
+Mutator_Player_10=Weakened
+Mutator_Player_10Desc=Player Critical Attacks are weakened, but attacks are more likely to hit.
+
+
+

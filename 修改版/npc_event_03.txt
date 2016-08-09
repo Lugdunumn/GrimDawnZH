@@ -1,0 +1,46 @@
+Lokarr, Master of the Crucible
+You have bested all that the Crucible had to offer.{^n}{^n}Where others fell, you triumphed.{^n}{^n}My wealth is yours to claim, champion.
+I wish to take on the Crucible again.
+Splendid! I look forward to the spectacle.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
+Yes, proceed (Reset to the beginning)
+Restart on Wave 130 (Spend 5 Tributes)
+Restart on Wave 130 (Spend 15 Tributes)
+Restart on Wave 130 (Spend 30 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
+Nevermind
+Thank you.
+The Crucible claims another. Go, take your pitiful earnings and get out of my sight.
+I wish to take on the Crucible again.
+Watching you squirm was enjoyable, I admit.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
+Yes, proceed (Reset to the beginning)
+Restart at Checkpoint (Spend 5 Tributes)
+Restart at Checkpoint (Spend 15 Tributes)
+Restart at Checkpoint (Spend 30 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
+No More Restarts at Checkpoint Remain
+No Checkpoint Available
+Nevermind
+Very well.
+The Crucible claims another. You've gotten far, but in the end you've come short of the ultimate challenge.{^n}{^n}Go, take your pitiful earnings and get out of my sight.
+
+Very well.
+You chose to end your suffering. Understandable.{^n}{^n}Not all are made to conquer what I have conceived.{^n}{^n}Take your reward and go.
+I wish to take on the Crucible again.
+Perhaps you will do better this time.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
+Yes, proceed (Reset to the beginning)
+Restart at Checkpoint (Spend 5 Tributes)
+Restart at Checkpoint (Spend 15 Tributes)
+Restart at Checkpoint (Spend 30 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
+Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
+No More Restarts at Checkpoint Remain
+No Checkpoint Available
+Nevermind
+Very well.
+You are too late to participate in this Crucible.
+Very well.

@@ -1,0 +1,75 @@
+Lokarr, Master of the Crucible
+Greetings and welcome to my Crucible.{^n}{^n}Though you are still unproven, a mere fledgling, there is potential in you. So I've summoned you here to battle for my amusement.{^n}{^n}But I am not a cruel master. Succeed, and you shall be rewarded with vast wealth. Fail, and know only my scorn.
+I am ready to begin!
+
+
+
+I need some time to prepare.
+Greetings and welcome to my Crucible.{^n}{^n}I have seen your potential, and I am most intrigued. So I've summoned you here to battle for my amusement.{^n}{^n}But I am not a cruel master. Succeed, and you shall be rewarded with vast wealth. Fail, and know only my scorn.
+I am ready to begin!
+I wish to raise the stakes.
+Oh, is that so? Very well. I wager that you will die, but...if you surprise me, I will raise your reward substantially.{^n}{^n}Do we have a deal?
+Forget the bet. Let's begin. (Standard Crucible)
+Start on Wave 50 (8 Tributes)
+Insufficient Tributes to Start on Wave 50 (Need 8 Tributes)
+Wave 50 not Unlocked
+Start on Wave 100 (15 Tributes)
+Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
+Wave 100 not Unlocked
+Sure, but I bet you can also do better.
+There are many ways to quell such an ego. What makes you think you can handle my worst?{^n}{^n}But so be it. I will unseal another portal. Should you survive, another cache of treasures awaits.{^n}{^n}Are you certain of this?
+Forget it. Let's begin. (Standard Crucible)
+Nevermind the bet. (Standard Crucible with Extra Spawn)
+Start on Wave 50 (8 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 50 (Need 8 Tributes)
+Wave 50 not Unlocked
+Start on Wave 100 (15 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
+Wave 100 not Unlocked
+Nevermind, just raise the stakes.
+
+I need some time to prepare.
+I need some time to prepare.
+I think you can do better.
+There are many ways to quell such an ego. What makes you think you can handle my worst?{^n}{^n}But so be it. I will unseal another portal. Should you survive, another cache of treasures awaits.{^n}{^n}Are you certain of this?
+Agreed. (Standard Crucible with Extra Spawn)
+Nevermind. Let's begin. (Standard Crucible)
+And I also wish to raise the stakes.
+Oh, is that so? Very well. I wager that you will die, but...if you surprise me, I will raise your reward substantially.{^n}{^n}Do we have a deal?
+Forget it. Let's begin. (Standard Crucible)
+Nevermind the bet. (Standard Crucible with Extra Spawn)
+Start on Wave 50 (8 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 50 (Need 8 Tributes)
+Wave 50 not Unlocked
+Start on Wave 100 (15 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
+Wave 100 not Unlocked
+
+I need some time to prepare.
+I need some time to prepare.
+I have some questions first.
+Mortals, always with their questions.{^n}{^n}What do you want to know?
+How does the Crucible work?
+It is quite simple. I unleash the beasts and monstrosities I have collected and you try to survive. Should you prevail, vast wealth awaits you.{^n}{^n}Though you are here at my behest, I will not keep you here indefinitely. Every 10 encounters, I shall give you an opportunity to leave and collect the treasures you've earned. Or...you may brave the next 10 for greater reward.
+I have another question.
+
+I need some time to prepare.
+What if I die?
+If you die, the Crucible ends. If I am merciful, you shall receive some compensation for your efforts, but nowhere near the wealth that awaits you should you succeed.{^n}{^n}If you are a hardcore combatant, then death will be the end of your journey and your bones shall join those of your predecessors. So choose wisely whether you wish to continue, or stop when you've met your match.
+I have another question.
+
+I need some time to prepare.
+What can I do to prepare?
+You may bolster the arena with defenses, but that is all the help that you can count on besides your wits.{^n}{^n}My thralls are nearby to offer you basic services as well.
+I have another question.
+
+I need some time to prepare.
+Nevermind.
+Splendid, then shall we begin?
+I am ready to begin!
+
+
+
+I need some time to prepare.
+I need some time to prepare.
+I need some time to prepare.

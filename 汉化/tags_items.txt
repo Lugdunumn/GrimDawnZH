@@ -847,6 +847,9 @@ tagTwoHandedRifle=双手远程武器
 
 tagWeaponUnknown=未知武器
 
+tagSpear=矛
+tagStaff=法杖
+
 #ArmorSlots
 tagRing=戒指
 tagAmulet=项链

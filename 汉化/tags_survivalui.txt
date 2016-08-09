@@ -1,0 +1,109 @@
+#Survival Mode Tags
+
+#Main
+tagSurvivalMode_Desc="Enter the Crucible, the proving grounds where might and valor are tested against waves of relentless foes. Those that survive are rewarded with bountiful treasures.
+tagSurvivalDeath=You are dead, but your allies can still see this wave through. If they succeed, you will be resurrected at the end of the encounter.
+tagSurvivalLastDeath=Your party has fallen.
+
+tagGameSDifficultySetting01=Aspirant Difficulty
+tagGameSDifficultySetting02=Challenger Difficulty
+tagGameSDifficultySetting03=Gladiator Difficulty
+
+#Achievements
+achGroupSurvival=The Crucible
+
+achS001Title=Champion of the Crucible
+achS001Desc=Complete the Crucible.
+
+achS002Title=Conqueror of the Crucible
+achS002Desc=Complete the Crucible on Challenger Difficulty.
+
+achS003Title=Lord of the Crucible
+achS003Desc=Complete the Crucible on Gladiator Difficulty.
+
+achS004Title=It's Over 900000!
+achS004Desc=Earn a Crucible score of at least 900000.
+
+achS005Title=Climbing the Ladder
+achS005Desc=Earn a Crucible score of at least 5000000.
+
+achS006Title=Top Score
+achS006Desc=Earn a Crucible score of at least 10000000.
+
+achS007Title=Unstoppable Lord of the Crucible
+achS007Desc=Complete the Crucible on Gladiator Difficulty with the 6th Spawn Point active.
+
+achS008Title=Defensive Stance
+achS008Desc=Construct a Defensive Structure.
+
+achS009Title=Defense Overload
+achS009Desc=Construct 50 Defenses.
+
+achS010Title=Celestial Touch
+achS010Desc=Activate a Celestial Blessing.
+
+achS011Title=Celestial Guidance
+achS011Desc=Activate 25 Celestial Blessings.
+
+achS012Title=Celestial Intervention
+achS012Desc=Activate all 4 Celestial Blessings in a single Crucible.
+
+
+#Mutators
+
+tagNewMutator=New Mutator Active
+tagNewMutators=New Mutators Active
+tagMutatorGained={%s0} have gained the {^r}{%s1} Mutator
+tagMutatorPlayers=Players
+tagMutatorMonsters=Monsters
+
+# Survival HUD Rollovers
+
+tagHUDScore01=Score
+tagHUDScore01Info=The Crucible Score you've earned in this session; based on how many waves you defeated, the monsters slain, the game difficulty, and the Score Multiplier.
+
+tagHUDMultiplier01=Score Multiplier
+tagHUDMultiplier01Info=The Score Multiplier you achieved; based on how many consecutive Bonus Timers you beat. If you fail to beat the Bonus Timer, the Multiplier resets.
+
+tagHUDTribute01=Tributes
+tagHUDTribute01Info=How many Tributes you have earned at the Crucible. Tributes are a currency that can be spent on various Celestial Blessings, Defenses and to resume at various checkpoints. You cannot have more than 100 Tributes at a time.
+
+tagHUDTimer01=Bonus Timer
+tagHUDTimer01Info=If you defeat a Crucible Wave before this timer expires, the Score Multiplier will increase.
+
+tagHUDWaveTier01=Current Wave
+tagHUDWaveTier01Info=The Wave of Monsters you are currently fighting.
+
+
+
+#Tutorials
+tagTutorialTip62Title=The Crucible Calls...
+tagTutorialTip62TextA=You have entered the Crucible, a devious machination of the mysterious Lokarr. Here, your battle wits wil be tested against some of Grim Dawn's vilest beings.
+tagTutorialTip62TextB=When you are ready to begin, speak to Lokarr, the Crucible's Master.
+tagTutorialTip62SubtitleA=Lokarr's Thralls
+tagTutorialTip62TextC=At any time between Crucible monster waves, you can speak to Lokarr's thralls to take advantage of basic services such as a Merchant, Blacksmith and Spirit Guide.
+tagTutorialTip62SubtitleB=Crucible Tributes
+tagTutorialTip62TextD=Tributes are earned through combat in the Crucible. These can in turn be spent on various features, such as constructing Defenses around the arena or activating powerful Celestial Blessings.
+tagTutorialTip62SubtitleC=The Immortal Archmage
+tagTutorialTip62TextE=Torralia offers unique services available only at the Crucible. Speak to her to spend your precious Tributes on Celestial Blessings and to unlock Devotion Points.
+
+tagTutorialTip63Title=Crucible Defenses
+tagTutorialTip63TextA=You've constructed a Crucible Defense. These structures aid you in battle against Lokarr's minions.
+tagTutorialTip63TextB=Defenses cannot be destroyed and generate no threat.
+tagTutorialTip63SubtitleA=Upgrading Defenses
+tagTutorialTip63TextC=Defenses can be further upgraded, empowering their effects and even unlocking a new ability, but the Tribute and Iron Bits cost goes up each time. Each Defense can be upgraded twice.
+
+tagTutorialTip64Title=Finishing the Crucible
+tagTutorialTip64TextA=Your efforts in the Crucible have come to an end, either by falling to its cruel machinations or through valiant victory, but that is not the end.
+tagTutorialTip64TextB=You may now enter the Treasure Chamber and claim the reward earned for your progress, score and any additional bonuses you activated at the start.
+tagTutorialTip64SubtitleA=Reseting the Crucible
+tagTutorialTip64TextC=If you wish to compete in the same Crucible again, you may speak to Lokarr to reset the event at the first wave.
+tagTutorialTip64TextD=Note that this will wipe out all chests in the Treasure Room and reset any Defenses you've constructed.
+tagTutorialTip64SubtitleB=Restarting at a Checkpoint
+tagTutorialTip64TextE=If you make it past Wave 50, you will also have the option of spending Tributes to restart at the nearest Checkpoint, which is 20 waves before where you stopped, rounding down to the nearest 10th (ex. ending on Wave 55 will restart you on wave 30).
+tagTutorialTip64TextF=Each time you restart, the Tribute cost increases. You may restart up to 3 times.
+tagTutorialTip64TextG=Note that this will wipe out all chests in the Treasure Room and reset any Defenses you've constructed.
+
+tagQuickTip62={^z}The Crucible Calls...{^-}{^n}{^n}When you are ready to begin, speak to Lokarr, or take advantage of the nearby Service NPCs first.{^n}{^n}Click here for more information on the Crucible.
+tagQuickTip63={^z}Crucible Defenses^-}{^n}{^n}You've constructed a Crucible Defense. These structures aid you in battle against Lokarr's minions. Each can be upgraded twice.
+tagQuickTip64={^z}Finishing the Crucible{^-}{^n}{^n}With the Crucible finished, you can enter the Treasure Chamber and claim your reward. You also have the option of restarting at the beginning, or at a Checkpoint if you unlocked one.

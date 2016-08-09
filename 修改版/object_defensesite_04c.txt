@@ -1,0 +1,5 @@
+Defense Site
+This Defense Site can be upgraded, empowering its abilities.{^n}{^n}Upgrade this Site?{^n}{^n}(Requires 12 Crucible Tributes and 30000 Iron Bits)
+Upgrade this Defense (spend 12 Tributes + 30000 Iron Bits)
+Insufficient Materials.
+Step away

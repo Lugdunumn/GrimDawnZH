@@ -95,6 +95,9 @@ tagEnemyBoneRatRangedA01=骨背鼠
 tagEnemyBoneRatMeleeB01=狂暴骨背鼠
 tagEnemyBoneRatMeleeB02=骨背瘟疫散布者
 
+tagEnemyBoneratWitchGodA01=狂乱毒兽
+tagEnemyBoneratWitchGodA02=腐烂毒兽
+
 tagEnemyBoneRatMeleeB02_Summon=海里昂的白鼠
 
 tagBoneRatHeroH01=诅咒者
@@ -362,6 +365,16 @@ tagHarvestmanHeroH02=感染者 艾菲格斯
 tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 tagHarvestmanHeroH04=乌鸦邪灵 ~ 碾碎者
 
+
+#Hellhound
+
+tagEnemyHellhoundA01=地狱犬
+
+tagEnemyHellHoundWitchGodA01=邪术猎犬
+tagEnemyHellHoundWitchGodA02=邪术风暴追逐者
+
+
+
 #CreatureHuman
 
 tagEnemyBloodswornA01=血誓 崇拜者
@@ -474,7 +487,8 @@ tagDermapteranHeroH05=维尔德里克斯 ~ 虚空之触
 tagDermapteranBoss01=虫群领袖 洛扎克
 tagDermapteranBoss02=虫群领袖 伊尼克希尔
 tagDermapteranBoss03=虫后 拉夫娜
-tagDermapteranBoss04=污染者~ 蜂巢守卫 阿诺克斯 
+tagDermapteranBoss04=污染者~ 蜂巢守卫 阿诺克斯
+tagDermapteranBoss05=疯后 拉沙加
 
 #CreatureInsectMosquito 蚊子
 tagEnemyInsectMosquitoA01=泥沼食血者
@@ -569,6 +583,9 @@ tagEnemyCavePrawnB01=白化的穴居爬行者
 tagEnemyCavePrawnC01=凶暴的穴居爬行者
 tagEnemyCavePrawnSummonA01=成群的穴居爬行者
 
+tagEnemyPrawnWitchGodA01=邪术虫群
+tagEnemyPrawnWitchGodA02=噩梦穴居爬行者
+
 tagPrawnHeroH01=贪婪的拉娃克里克斯
 tagPrawnHeroH02=先祖 帕拉克里克斯
 tagPrawnHeroH03=毒裔 维拉克里克斯
@@ -593,6 +610,9 @@ tagEnemyRaptorB_MeleeA01=风之猛禽 追猎者
 tagEnemyRaptorB_RangedA01=风之猛禽 暗杀者
 tagEnemyRaptorB_ChampionA01=风之猛禽 天空领主
 
+tagEnemyRaptorWitchGodA01=恐惧之翼
+tagEnemyRaptorWitchGodA02=邪术生命吸食者
+
 tagRaptorHeroH01=裂魂
 tagRaptorHeroH02=噬灵者 阿拉格纳克斯
 tagRaptorHeroH03=混乱使者 巴尔丁
@@ -614,6 +634,9 @@ tagEnemyPlanesHoundB01=位面魔犬 ~ 犬群之首
 
 tagEnemyVoidHoundA01=虚空魔犬
 tagEnemyVoidHoundB01=虚空魔犬 ~ 犬群之首
+
+tagEnemyRiftHoundWitchGodA01=邪术魔犬
+tagEnemyRiftHoundWitchGodA02=邪术魔犬首领
 
 tagRiftHoundHeroH01=查瑞斯
 tagRiftHoundHeroH02=瘟疫领主
@@ -735,6 +758,11 @@ tagEnemySpiderB01=恐怖编织者 跳跃者
 tagEnemySpiderB02=恐怖编织者 寡妇
 tagEnemySpiderC01=恐怖编织者 女王
 tagEnemySpiderSummon=幼蛛
+
+tagEnemySpiderWitchGodA01=邪术蜘蛛
+tagEnemySpiderWitchGodA02=邪术编织者
+tagEnemySpiderWitchGodA03=邪术蜘蛛女王
+tagEnemySpiderWitchGodSummon=邪术爬行者
 
 tagSpiderHeroH01=熔岩 奥德隆
 tagSpiderHeroH02=跳跃者 拉格里丝
@@ -934,6 +962,13 @@ tagZombieHeroH08=泰瑟隆 ~ 带电
 tagZombieHeroH09=荒芜盛宴 ~ 冲锋
 tagZombieHeroH10=巫火 艾尔瑞克
 
+tagZombieMiniBoss01=腐烂的法若斯
+tagZombieMiniBoss02=腐朽的吉利叶斯
+tagZombieMiniBoss03=枯萎的尼根
+tagZombieMiniBoss04=畸形的巴若丝
+tagZombieMiniBoss05=杀掉受折磨者哈格拉
+
+
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=污秽猎犬
@@ -1018,6 +1053,7 @@ tagEnemySummonAetherTrap=虚化陷阱
 tagEnemySummonIceCrystal=冰晶
 tagEnemySummonTentacle=缠绕触手
 tagEnemySummonVoid=熵能虚空
+tagEnemySummonWitchGodCrystal=哨兵的信标
 
 tagEnemyMogdrogenBoar=莫格卓根的寒霜尖牙
 tagEnemyMogdrogenRat=莫格卓根的骸骨脊背
@@ -1032,15 +1068,18 @@ tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
 
 tagBossTheWarden01=典狱长
-tagBossOutcast01=虚化盗贼 安娜斯特瑞亚
-tagBossOutcast02=虚灵复仇者 安娜斯特瑞亚
-tagBossOutcast03=虚灵之怒 安娜斯特瑞亚
 tagBossLoghorrean01=冥神的代言人 罗格霍瑞恩
 tagBossLoghorreanTentacle01=罗格霍瑞恩的触手
 tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
 tagBossLoghorreanTentacleCluster=触手集簇
 
 tagMiscTargetDummy=训练假人
+
+tagQuestWitchGod01=德里格的守卫
+tagQuestWitchGod01_Summon=德里格之眼
+tagQuestWitchGod02=索拉尔的守卫
+tagQuestWitchGod03=拜斯迈的守卫
+tagQuestWitchGod04=哨兵
 
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾 沃达兰

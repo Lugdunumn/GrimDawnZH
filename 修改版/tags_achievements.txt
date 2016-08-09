@@ -1,8 +1,8 @@
 # Achievement Groups
 
-achGroupAct1=第一章
-achGroupAct2=第二章
-achGroupAct3=第三章
+achGroupAct1=第一幕
+achGroupAct2=第二幕
+achGroupAct3=第三幕
 achGroupChallenges=挑战
 achGroupCharacter=角色
 achGroupMonsters=怪物
@@ -33,7 +33,7 @@ ach007Title=屠戮过境
 ach007Desc=清除凯恩世界的100000只怪物。
 
 ach008Title=血海
-ach008Desc=清除凯恩世界的1000000只怪物。
+ach008Desc=清除凯恩世界的50000只怪物。
 
 ach009Title=末世友谊
 ach009Desc=与一个派系关系达到崇敬。

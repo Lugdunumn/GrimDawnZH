@@ -1,0 +1,95 @@
+The Attendant
+Welcome to the Sanctum, worthy seeker.
+I have some questions.
+As do all who come here.
+Do you speak to the Witch Gods even now?
+The Three have fallen silent. Our pleas go unanswered.{^n}{^n}Something has drawn them away. Their attention is elsewhere.
+Then where are they?
+I have called out to them across the veil many times, but there is no response. I cannot even sense their foreboding presence.{^n}{^n}Only the gods know.
+
+Strange.
+I have another question.
+Proceed.
+Strange.
+I wonder what has their attention.
+Tell me about the Witch Gods.
+Of whom would you wish to learn?
+Tell me of Bysmiel.
+The Weaver, Schemer, Lady of Whispers, these are all names by which the goddess Bysmiel has been known. Though the cataclysmic events of recent history have crippled her network, Bysmiel still commands a formidable network of informants and spies.{^n}{^n}None know for certain how she came upon her powers, some jokingly say that she heard it whispered into her ear by a spider. What we do know is that she and Solael were lovers in their mortal day, intertwined in their fates; but their hunger for power was greater than their lust. Unwilling to allow the other to rise above them, they would sabotage each other's efforts, all the while maintaining the facade of a loving relationship.{^n}{^n}Ultimately, both achieved their goals, but the schemes forever soured their relationship and sparked conflicts that ravaged the world. It was not until the Covenant that the gods sat aside their differences, but tensions remain high to this day between the followers of Bysmiel and Solael.
+
+What about the other gods?
+Interesting.
+Tell me of Dreeg.
+Only once have I witnessed the true form of Dreeg. He is a creature of nightmares. A thousand lidless eyes stare through you and spines of bone pierce his divine flesh. Acid drips from the festering wounds and singes the earth so that nothing ever grows again.{^n}{^n}His voice drives lesser beings to madness. It is said that he speaks prophecy, foretelling events not yet transpired, but to hear him overwhelms the senses. Few have the capacity to withstand him, fewer still can interpret the mad ramblings of those that did.{^n}{^n}Whatever Dreeg had done to ascend, I am not certain that it was worth the price he had to pay.
+
+What about the other gods?
+A heavy price to pay.
+Fascinating.
+Tell me of Solael.
+The dark one's very presence inspires dread. He saps those around him of joy, of emotion, of the will to live. Of the Three, Solael is the only one who regularly demands living sacrifices in exchange for his wisdom.{^n}{^n}Why he hungers so for the vitality of the living, I do not know, for none are privy to the personal matters of the gods. Perhaps he misses what it felt like to be mortal? To live knowing that you could be extinguished at any moment?Despite that, many risk it all to stand in his presence and bask in the knowledge of the eldritch. Ages ago, when the Three still quarreled amongst themselves, I was just a young fool, eager for power and willing to do nearly anything to attain it. I joined the Cult of Solael and offered myself to him.{^n}{^n}My cutthroat nature and desperation drew the attention of the dark one, who took favor of me. I became his prized student, taught the secrets no others were permitted, or even willing, to learn.When he conceived of the Covenant, I was to be his messenger to the other gods. I risked my life so that the Three would end their senseless conflict and join their powers. Though they had little reason to hear me out, Dreeg and Bysmiel spared me long enough for me to speak. In the end, they saw the wisdom of my master's plan and agreed to gather here and seal their covenant.{^n}{^n}As reward for my loyal service, Solael bound me to this place so that I would forever be its steward. I am now the voice of the gods and none speak to them without my consent.{^n}{^n}Though centuries have passed and the temple crumbles around me, I still remain, doomed to eternal servitude. Such was the price I paid for a taste of Solael's power.
+
+What about the other gods?
+You sound bitter.
+Fascinating.
+Let me ask about something else.
+Nevermind.
+Are you immortal?
+Not in the literal sense, no. I have been killed numerous times, though I have always been brought back from the grave by the Three.{^n}{^n}I exist solely by the whims of the gods.{^n}{^n}Such is my fate...
+
+Sounds awful.
+Sounds intriguing.
+What happened to this place?
+A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.{^n}{^n}In desperation, he attempted to breach the eldritch realm and seek them out upon their thrones. The results of his ritual are all around you, as are the pieces of Ughdar that were not evaporated when the rifts tore open the temple.
+Where are the other servants of the Three?
+Dead to the eldritch creatures, or fled.{^n}{^n}Preserving their own hides proved a stronger motivation than the integrity of this temple.
+
+Farewell.
+
+Foolish.
+If only he were stronger.
+Nevermind.
+Farewell.
+Intruder...leave this place!
+Leaving now.
+You carry the markings of the Three, seeker. Long has it been since one such as you has traveled these halls.{^n}{^n}Greetings. I am the Attendant to the gods.
+I have come to learn of the Witch Gods.
+You are wise to seek them out. Only through the Three can we peer into the eldritch realm and learn its secrets.{^n}{^n}It is a place of incredible power, rivaling even the Aether the arcanists so cherish, but we cannot simply go there. Through immense sacrifice, the Witch Gods pierced the veil between worlds and ascended to the eldritch realm. Through their teachings we can harness a mere fragment of its power, summon eldritch beings to serve us and rise above the the falsehoods imposed upon us by the fallen empire.
+How do I learn from the Three?
+That is an honor few can rightfully claim, but your dedication to seeking them out will not go unnoticed.{^n}{^n}I have witnessed the powers of the eldritch realm and many of its secrets have been revealed to me. Through the Three, I can bestow upon you a gift from the eldritch realm, insight into the larger truths.
+I am ready to receive this gift.
+Witness the power of the eldritch realm and weep at its glory.
+
+This will prove useful.
+Such power, I need a moment.
+I wish to learn, but I do not want to meddle in their affairs.
+It is unwise to interfere in the actions of the gods. We are mere mortals before them, living out our lives blissfully unaware of the events that shape our very existence.{^n}{^n}But fear not for you are a mere flea to their might and what you do does not concern them.{^n}{^n}Witness the power of the eldritch realm and weep at its glory.
+
+This will prove useful.
+Such power, I need a moment.
+I want no part in this.
+We will speak another time.
+What is this place?
+You have entered the Sanctum of the Three, seeker. Here is where the worthy commune with the gods, sacrifice all to be in their presence and hear their voices.{^n}{^n}Here is where the Witch Gods bestow upon mortals the secrets of the eldritch realm, where the veil is lifted and the truth revealed.
+Then where are the gods?
+*The Attendant chuckles*{^n}{^n}They are not here, seeker. The Witch Gods reside within the eldritch realm, beyond a barrier no mere mortal can pierce and still remain living.
+
+
+
+We will speak another time.
+What happened here?
+A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.{^n}{^n}In desperation, he attempted to breach the eldritch realm and seek them out upon their thrones. The results of his ritual are all around you, as are the pieces of Ughdar that were not evaporated when the rifts tore open the temple.
+
+
+
+We will speak another time.
+
+
+We will speak another time.
+What...are you?
+It is only natural to balk at the sight of me.{^n}{^n}I am as the gods made me, forever bound in stone to be their conduit, their voice to those who seek the truth as they once did.
+
+
+We will speak another time.
+We will speak another time.
+Intruder...leave this place!
+Leaving now.

@@ -77,6 +77,8 @@ tagWeaponSwordD009=死亡印记之爪
 tagWeaponSwordD010=风暴之心
 tagWeaponSwordD010Desc="一些字母被刻入了刀柄之中：D.T."
 tagWeaponSwordD011=掠夺者之爪
+tagWeaponSwordD012=疯后之爪
+tagWeaponSwordD012Desc="和同类分开，被困于城墙之下，革翅目虫后慢慢变得疯狂。"
 
 tagWeaponSwordF001=军团切刀
 tagWeaponSwordF002=神选之剑
@@ -394,7 +396,7 @@ tagWeaponMelee2hC003Desc="这把武器的名号是靠砍掉了无数颗令人憎
 tagWeaponMelee2hC004=鹰隼之爪
 tagWeaponMelee2hC005=震颤
 tagWeaponMelee2hC006=灵魂之引
-tagWeaponMelee2hC006B=引魂者
+tagWeaponMelee2hC006B=灵魂之引
 tagWeaponMelee2hC006Desc="一件稀有的成品，诞生于玄秘锻造工艺的实验中。"
 tagWeaponMelee2hC007=骨片撕裂者
 tagWeaponMelee2hC008=魔像之拳木槌
@@ -957,6 +959,10 @@ tagHeadC029=燃烧怒火头环
 tagHeadC030=夺魂者之眼
 tagHeadC031=密耳弥冬的面甲
 tagHeadC032=莫格卓根的风帽
+tagHeadC033=邪术守护者之盔
+tagHeadC033Desc="这顶头盔模糊了你的视线，就好像你凝望着另外一个国度。"
+tagHeadC034=三位一体
+tagHeadC034Desc="三巫神护佑着你。"
 
 tagHeadD001=绝望之喉
 tagHeadD001Desc="再看一眼我和绝望，因为你的死期已至。"
@@ -983,6 +989,10 @@ tagheadD018Desc="赫若瑟纳尔国王的头冠，他是北方流域的统治者
 tagHeadD019=特洛赞的风帽
 tagHeadD020=瓦尔登的风帽
 tagHeadD021=放逐者的秘密
+tagHeadD022=邪术凝视
+tagHeadD022Desc="这顶头盔私语着你难以理解的话语。"
+tagHeadD023=三巫神之契约
+tagHeadD023Desc="建立在三巫神和他们的追随者之间，以三巫神之力强化过的契约。用以抵御共同的敌人。"
 
 tagHeadF001=放逐者的兜帽
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
@@ -1046,7 +1056,7 @@ tagShoulderC006Desc="一支神秘教团的标志性服饰，此教团已在奥�
 tagShoulderC007=弹震症肩饰
 tagShoulderC008=盛饰肩铠
 tagShoulderC009=守护者披肩
-tagShoulderC009Desc="巫神拜斯迈赐予其凡人追随者的披肩，由风暴乌鸦的羽毛制成。"
+tagShoulderC009Desc="巫神拜斯迈赐予她凡人追随者的披肩，由风暴乌鸦的羽毛制成。"
 tagShoulderC010=破灭护肩
 tagShoulderC011=神射手的披风
 tagShoulderC012=圣契的不洁护肩
@@ -1391,6 +1401,10 @@ tagLegsA004=马裤
 tagLegsA005=腿甲
 tagLegsA006=护腿
 
+tagLegsB001=德里格宗派护腿
+tagLegsB002=索拉尔宗派护腿
+tagLegsB003=拜斯迈宗派护腿
+
 tagLegsC001=雾行长裤
 tagLegsC002=隐士护腿
 tagLegsC003=沼泽栖居者护腿
@@ -1567,7 +1581,7 @@ tagRingC039=元素平衡蓝宝石
 
 tagRingD001=堕落印玺
 tagRingD002=凯法·佐斯的雕纹戒指
-tagRingD002Desc="由伟大的冥神先锋凯法·佐斯署名，赐予其最忠诚的追随者们。"
+tagRingD002Desc="伟大的冥神先锋凯法·佐斯的印戒，赐予其最忠诚的追随者们。"
 tagRingD003=生命之源印玺
 tagRingD004=时光动荡指环
 tagRingD005=虚化尖啸之戒
@@ -2019,16 +2033,18 @@ tagBlueprint_ArmorD012=设计图: 马尔科夫的面甲
 tagBlueprint_ArmorD013=设计图: 奥祖因的护面
 tagBlueprint_ArmorD014=设计图: 德里格的兜帽
 tagBlueprint_ArmorD015=设计图: 死亡印记罩帽
-tagBlueprint_ArmorD016=设计图: 伊斯坎德拉的头冠
+tagBlueprint_ArmorD016=设计图: 伊斯坎德拉的风帽
 tagBlueprint_ArmorD017=设计图: 尤尔托斯的头巾
 tagBlueprint_ArmorD018=设计图: 凛冬之王的头冠
 tagBlueprint_ArmorD019=设计图: 特洛赞的风帽
 tagBlueprint_ArmorD020=设计图: 瓦尔登的皮帽
+tagBlueprint_ArmorD021=设计图: 邪术凝视
+tagBlueprint_ArmorD022=设计图: 三巫神之契约
 
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
 tagBlueprint_AccessoryC002=设计图: 漩涡之石
-tagBlueprint_AccessoryC003=设计图: 曼蒂克拉之石
+tagBlueprint_AccessoryC003=设计图: 蝎尾狮星之石
 tagBlueprint_AccessoryC004=设计图: 怒心徽记
 tagBlueprint_AccessoryC005=设计图: 元素平衡红宝石
 tagBlueprint_AccessoryC006=设计图: 元素平衡蓝宝石
@@ -2213,7 +2229,8 @@ tagCraftComponentRareDesc=失传已久的卓越锻造技术。
 tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的鳞片。
 tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
 tagCraftTransmuteDesc=通过熔炉的高温以及一些炼金术，稀有材料能够被炼成其他等值的稀有物品。
-tagCraftRandomLegendaryDesc=铁匠把奥术能量注入这些物体来创造具有传奇级的装备。
+tagCraftRandomLegendaryDesc=铁匠把原始奥术能量注入这些物体来创造具有传奇级的装备。50级以下的人物会锻造出一件史诗级装备。
+tagCraftRandomLegendaryAccessoryDesc=铁匠把原始奥术能量注入这些物体来创造具有传奇级的装备。58级以下的人物会锻造出一件史诗级装备。
 
 tagCraftRandomAxe=附魔之斧
 tagCraftRandomBlunt=附魔钉锤
@@ -3693,6 +3710,8 @@ tagPrefixB030_Ar_A=冰川的
 tagPrefixB031_Ar_A=雷击的
 tagPrefixB032_Ar_A=着魔的
 tagPrefixB033_Ar_A=虚火的
+tagPrefixB034_Ar_A=监工的
+tagPrefixB035_Ar_A=主宰的
 
 tagPrefixB001_Class_A=突击者的
 tagPrefixB002_Class_A=巫师之刃的
@@ -3700,10 +3719,10 @@ tagPrefixB003_Class_A=刀剑大师的
 tagPrefixB004_Class_A=战斗法师的
 tagPrefixB005_Class_A=烈焰术士的
 tagPrefixB006_Class_A=破坏者的
-tagPrefixB007_Class_A=处刑者的
+tagPrefixB007_Class_A=魔术师的
 tagPrefixB008_Class_A=巫师猎手的
 tagPrefixB009_Class_A=术士的
-tagPrefixB010_Class_A=暗夜猎手的
+tagPrefixB010_Class_A=破法者的
 tagPrefixB011_Class_A=战士的
 tagPrefixB012_Class_A=纵火者的
 tagPrefixB013_Class_A=异教徒的
@@ -3922,6 +3941,8 @@ tagSuffixB067_Ar_A=黑暗意图之
 tagSuffixB068_Ar_A=战斗暴怒之
 tagSuffixB069_Ar_A=奥术之力之
 tagSuffixB070_Ar_A=岩石之拳之
+tagSuffixB071_Ar_A=野性之
+tagSuffixB072_Ar_A=不驯之
 
 tagSuffixB001_Sh_A=壁垒之
 tagSuffixB002_Sh_A=勇气之
@@ -4107,11 +4128,13 @@ tagUGDoorBoat=划艇
 tagUGDoorObsidian=黑曜石尖刺
 tagUGDoorFort=城堡入口
 tagUGDoorCrypt=地下墓室入口
+tagUGDoorWitchGods=标记之石
 tagDoorLocked= {^R} ~ 锁着的
 
 tagDoorOneWay01=通往地表的出口
 tagDoorLever01=吊门控制器
 tagTorchLever01=松动的火把
+tagStoneLever01=松动的石头
 
 #Doors门
 
@@ -4136,6 +4159,7 @@ tagLocked_Kymon= {^R} ~ 由凯蒙神父封印着
 tagLocked_Necro= {^R} ~ 由死亡守夜人教团封印着
 tagLocked_Outcast= {^R} ~ 由安娜斯特瑞娅封印着
 tagLocked_BoCGauntlet= {^R} ~ 由守卫者封印着
+tagLocked_WitchGods= {^R} ~ 由邪术力量封印着
 
 #QuestRewards任务奖励
 

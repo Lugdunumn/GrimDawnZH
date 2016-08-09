@@ -199,6 +199,10 @@ tagWorldMapBastionOfChaos=混沌{^n}要塞
 tagWorldMapTombofWatchers=守望者{^n}之墓
 tagWorldMapTombofArchon=执政官{^n}之墓
 tagWorldMapNecropolisGates=大墓地{^n}之门
+tagWorldMapHiddenPath=隐秘之路
+tagWorldMapWitchGodTemple=三巫神之神殿
+tagWorldMapWitchGodBoss=三巫神之圣所
+tagWorldMapCorpseCave=尸骸{^n}底座
 
 #Underground Names
 
@@ -443,6 +447,11 @@ tagNotification_AreaD_FortIkonRiftgate=传送门周围充斥着虚灵生物。
 tagNotification_AreaD_FinalCryptLocked=这处墓穴被附近的血腥战车所灌注的邪教魔印封印了。
 tagNotification_AreaD_FinalBossUlgrim=这里周围都布满了撕开的虚空裂缝，吞噬了艾格瑞姆！
 
+tagNotification_WitchGods_Shrine02=前方的道路为你打开了……
+tagNotification_WitchGods_Shrine03=隐秘之路向你敞开了……
+tagNotification_WitchGods_3Markers=你与巫神之间的联系使你变得更强了。
+tagNotification_WitchGods_Secret=附近的石墙移动了。
+
 tagNotification_WarningToughArea=这里栖息着一个远比你强大的生物……
 tagNotification_WarningRiftgateDisabled=你无法在此地开启裂缝传送门……
 tagNotification_WarningGatesOfAnguish=痛苦之门已经打开了。动作要快，这扇门不会保持开启太久……
@@ -487,6 +496,8 @@ tagNPC_DevilsCrossing_05=库尔多
 tagNPC_DevilsCrossing_06=爱德文
 tagNPC_DevilsCrossing_07=守卫 - 罗斯
 tagNPC_DevilsCrossing_08=切斯特
+
+tagNPC_WitchGodAttendant=巫神的侍从
 
 tagNPC_Homestead_01=米诺娃
 tagNPC_Homestead_02=德莱厄斯·克隆利
@@ -753,6 +764,14 @@ tagLoreObj_AreaDDravis_NoteA04Name=德拉维斯写给黛拉的信 - 最后一次
 tagLoreObj_AreaDDravis_NoteA04codexTitle=德拉维斯写给黛拉的信
 tagLoreObj_AreaDDravis_NoteA04Text=黛拉，{^n}我对发生的事情感到万分震惊，我无法控制自己那颤抖的手并写下这些话语。我们的父亲，留下来的遗产，比我所要求的多的多，多到超过我的想象。为了不让我们得到这部分遗产...这对他的孩子们而言就是犯罪。但我了解他的秘密，因此不会被排除在外。{^n}{^n}我们的父亲是不朽者，黛拉。他在某一个瞬间困住了无法计数的灵魂来达成了这件不可能完成的事情。那在历史上是个对不朽追捧的黑暗日。但在这里，大墓地内，我们的父亲准备了一项不同的仪式。这是用来收割坟场内亡者的残骸的，为了补充他那支离破碎的存在，但不论什么原因，他失败了。魔法印记被遗弃了。所有的残存者都点燃了火葬堆并进行活祭。{^n}{^n}我毫不犹豫地完成了他所未能完成的事情。尽管我并不能像他一样不朽，但这些灵魂内所蕴含的力量足够使我追踪他的形迹并对他向我们灌输的痛苦进行报复。然后，在我完成复仇时，我会用现今还磨灭着世界的灾难来重复父亲做过的事情，那些发生在数个世纪前的事情。{^n}{^n}你要重新考虑加入我吗，黛拉，来北边找我吧。我会成功站在我们父亲的骨灰旁的。{^n}{^n}德拉维斯
 
+tagQuestItemShrineMarker_Dreeg=德里格的符文石
+tagQuestItemShrineMarker_Dreeg_Text="Runestone carried by the thralls of Dreeg. There is an inscription along the edge: Though the Three are now as one, it was not always so. Wary of the other's power, they quarelled across Cairn in destructive displays of Eldritch might. Mountains crumbled and RIVERS shifted, but no god emerged the victor..."
+
+tagQuestItemShrineMarker_Bysmiel=拜斯迈的符文石
+tagQuestItemShrineMarker_Bysmiel_Text="Runestone carried by the followers of Bysmiel. There is an inscription along the edge: ...And so, by the light of the EASTERN star, the Three joined together at their Sanctum. Bound by divine blood, their quarrels put to rest. The Covenant of the Three was forged."
+
+tagQuestItemShrineMarker_Solael=索拉尔的符文石
+tagQuestItemShrineMarker_Solael_Text="Runestone carried by the adherents of Solael. There is an inscription along the edge: ...In the end it was Solael who looked past the carnage and saw the inevitability of their actions. In truth, none could triumph where all three were equal. He sent his loyal Attendant to speak before the rest of a resolution. They would seal a pact, there among the SWAMPY remains of their last skirmish."
 
 #Journals 日志
 

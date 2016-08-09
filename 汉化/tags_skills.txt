@@ -205,7 +205,7 @@ tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮�
 tagClass02SkillName05B=重型武器 
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害。
 tagClass02SkillName05C=巨型炸弹 
-tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将在迫击抛射炮弹幕的初始发射。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
+tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹，将向迫击抛射炮弹幕的方向发射。即便你的敌人存活下来，由此产生的巨大的爆炸也将给他们造成极度的恐慌。
 tagClass02SkillName05D=火力迫击炮 
 tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹。
 tagClass02SkillName05E=电击迫击炮 
@@ -1562,7 +1562,7 @@ tagItemSkillD089Name=恶魔主宰
 tagItemSkillD089Desc=向你的仆从发出指令，包括你盟友的仆从。^o这项技能必须保持开启以持续生效。
 
 tagItemSkillD090Name=恶魔的坚决
-tagItemSkillD090Desc=恶魔的秘典使你充满坚定的信念，让你能够继续进行战斗。
+tagItemSkillD090Desc=恶魔雕像使你充满坚定的信念，让你能够继续进行战斗。
 
 tagItemSkillD091Name=终结
 tagItemSkillD091Desc=将你的敌人刺穿在盾牌的钉刺之上。
@@ -2000,14 +2000,20 @@ tagItemSkillD235Name=安娜斯特瑞娅的毁灭
 tagItemSkillD235Desc=这项技艺撕裂了一道现实与原始奥术能量之间的裂隙并降下余烬。 ^o需要法器副手。余烬在技能期间持续降落。
 
 tagItemSkillD236Name=审判者的警戒
-tagItemSkillD236Desc=大审判官坚决抵制一切攻击行为。 ^o这是一项盾牌被动技能。
+tagItemSkillD236Desc=大审判官坚决抵制一切攻击行为。 ^o这是一项近战被动技能。
 
 tagItemSkillD237Name=审判者的复仇
-tagItemSkillD237Desc=霍瓦德很少说话，他一般用盾牌代替预言。 ^o这是一项盾牌被动技能。
+tagItemSkillD237Desc=霍瓦德很少说话，他一般用武器代替预言。 ^o这是一项近战被动技能。
 
 tagItemSkillD238Name=凝视者之力
 tagItemSkillD238Desc=凝视者之力透体而过。
 
+
+tagItemSkillD239Name=黑火
+tagItemSkillD239Desc=一片邪火爆发在你的敌人脚下。
+
+tagItemSkillD240Name=疯后之咬
+tagItemSkillD240Desc=拼命猛击附近的敌人，将武器深深地砍入敌人体内。
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Failalittleharder.
@@ -2528,7 +2534,7 @@ tagDevotion_B10Desc=亡魂象征着死亡与悲痛。据说没有人能逃过他
 tagDevotion_B11=索拉尔的巫术之刃
 tagDevotion_B11Desc=据说索拉尔是三位巫神中最残忍的一个，在他不朽的事业中用他弯曲的祭祀之刃雕刻了数之不尽的受害者雕像。
 tagDevotion_B12=拜斯迈的羁绊
-tagDevotion_B12Desc=传言说巫神拜斯迈，当他放弃凡人躯体时走向绞刑架并升入了天堂。
+tagDevotion_B12Desc=传言说巫神拜斯迈，当她放弃凡人躯体时走向绞刑架并升入了天堂。
 tagDevotion_B13=雷电风暴
 tagDevotion_B13Desc=据说在最危险的风暴即将来临时它会变得最为闪耀。人们认为在风暴雷电中诞生的孩子象征着不凡。
 tagDevotion_B14=建造者，塔戈
@@ -2674,8 +2680,8 @@ tagDevotionEffectB29Desc=献祭一只不羁的灵魂来保护你不受死亡幽�
 tagDevotionEffectB30=净化洪流
 tagDevotionEffectB30Desc=艾尔洛的净化之水净化区域内所有的邪恶魔法，移除敌人的增益光环和法术，并清除盟友的负面影响，包括持续性伤害效果。
 
-tagDevotionEffectC01=时光阻滞
-tagDevotionEffectC01Desc=沙漏中的砂子停止了运行，阻滞敢于攻击你的敌人。
+tagDevotionEffectC01=时光膨胀
+tagDevotionEffectC01Desc=沙漏中的砂子旋转在旋风之中，时光的铁律将不再束缚你。
 tagDevotionEffectC02=邪物爆发
 tagDevotionEffectC02Desc=封闭在你体内的腐败物质通过邪恶毒素猛烈爆发。
 tagDevotionEffectC03=憎恶之力
@@ -2783,3 +2789,10 @@ tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离。
 
 tagEnemySkillD02=火焰恶魔
 tagEnemySkillD02_Desc=旋转的烈焰烧焦了你。
+
+tagEnemySkillD03=虹吸之魂
+tagEnemySkillD03_Desc=邪灵纠缠着你，吸取你的体力和回复力。
+
+tagEnemySkillD04=邪术光环
+tagEnemySkillD04_Desc=原始的邪术力量环绕着这块晶体，增强邪术生物并且伤害自然生命体。
+

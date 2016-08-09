@@ -1,0 +1,41 @@
+Devil's Crossing
+The Hidden Path
+Second Shrine
+You now have the Runestone of Dreeg and learned clues as to the location of Solael's shrine. Seek it out.
+Acquire the Runestone of Dreeg
+Continue down the Hidden Path
+
+
+Third Shrine
+You now have two of the runestones and learned clues as to the location of Bysmiel's shrine. Seek it out.
+Acquire the Runestone of Dreeg
+Acquire the Runestone of Solael
+Continue down the Hidden Path
+
+
+
+
+Access Temple
+The Witch Gods have left clues to the location of their hidden temple upon the three runestones. Study them and seek out the entrance.
+Acquire the Runestone of Dreeg
+Acquire the Runestone of Solael
+Acquire the Runestone of Bysmiel
+Find the entrance to the Temple of the Three
+
+
+
+
+Explore Temple
+You have entered the Temple of the Three. Explore its depths to learn its secrets.
+Explore the Temple of the Three
+
+Speak to Keeper
+You have survived the trials set before you by the three Witch Gods. Enter their sanctum to see what was so carefully protected.
+
+Enter the Sanctum of the Witch Gods
+
+
+
+
+
+

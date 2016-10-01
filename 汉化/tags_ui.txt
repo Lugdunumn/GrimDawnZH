@@ -99,6 +99,8 @@ tagQuestUpdate=任务进度
 tagQuestUpdated=任务更新:{^n}“{%t0}”
 tagQuestFailed=任务失败:{^n}“{%t0}"
 tagActionGiveMoney={%d0} 铁币
+tagActionGiveTribute={%d0} 贡品
+tagActionGiveTributes={%d0} 贡品
 tagActionGiveExperience={%d0} 点经验值
 tagActionGiveFaction={%d0} {%t1}势力
 tagActionGiveLevel={%d0} 等级
@@ -120,6 +122,8 @@ tagQuestRewardReputationPositive={%s1}声望增加 {%d0} 点
 tagQuestRewardReputationNegative={%s1}声望减少 {%d0} 点
 tagQuestRewardAcceptButton=关闭
 tagQuestBlockedDescription=基于游戏建立者的进度，任务在此次游戏中已经锁定。
+
+tagObjectives=目标
 
 #Faction
 
@@ -245,7 +249,7 @@ tagFactionUser7Rewards6={^n}势力特有武器 {^n}势力特有护甲  {^n}势�
 tagFactionUser7Rewards7=新的地下城/新任务 {^n}势力特有增幅物 {^n}势力特有饰品 {^n}势力特有饰品 {^n}该势力赦令
 tagFactionUser7Rewards8=稀有增幅物 {^n}该势力委任状 {^n}精英级势力武器 {^n}精英级势力护甲
 tagFactionUser8=凯蒙的神选战士
-tagFactionUser8Info=营地:悲伤城堡{^n}{^n}凯蒙的神选战士是至高之神的狂热追随者，光明使者将在闪耀荣光中重临凯恩，指引他的神选者们开创一个秩序和繁荣的新黎明。{^n}{^n}它由名为凯蒙神父的神能牧师领导并被他们的信仰所护佑，神选者们迫切地想清除凯恩所有的堕落，不管是邪恶的冥煞生物还是操纵死尸的死灵法师。为此，他们将消灭死亡守夜人教团作为最高优先级的目标。
+tagFactionUser8Info=营地:悲伤城堡{^n}{^n}凯蒙的神选战士是至高之神的狂热追随者，光明使者将在闪耀荣光中重临凯恩，指引他的神选者们开创一个秩序和繁荣的新黎明。{^n}{^n}它由名为神父凯蒙的神能牧师领导并被他们的信仰所护佑，神选者们迫切地想清除凯恩所有的堕落，不管是邪恶的冥煞生物还是操纵死尸的死灵法师。为此，他们将消灭死亡守夜人教团作为最高优先级的目标。
 tagFactionUser8Rewards1=刷新复仇级单位
 tagFactionUser8Rewards2=刷新额外英雄单位
 tagFactionUser8Rewards3=刷新额外敌人
@@ -521,7 +525,7 @@ tagCharAttributeName03=智力
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提高物理、穿刺、流血和创伤伤害。敏捷也会提高你的近战和远程攻击的命中几率以及暴击几率。
+tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提 高 物 理、穿 刺、流 血 和 创 伤 伤 害。敏 捷 也 会 提 高 你 的 近 战 和 远 程 攻 击 的 命 中 几 率 以 及 暴 击 几 率。
 
 tagCharAttributeDescription02=锻 炼 体 格 可 以 穿 上 更 重 的 装 备，并 能 灵 敏 地 躲 开 敌 人 的 攻 击。力 量 也 能 提 升 你 承 受 和 回 复 创 伤 的 能 力 以 及 降 低 被 暴 击 的 机 率。
 
@@ -1126,6 +1130,8 @@ tagCraftingBlunt=钝器
 tagCraftingSwords=剑
 tagCraftingImplements=魔刃
 tagCraftingTwoHandedMelee=近战双手武器
+tagCraftingSpears=长矛
+tagCraftingStaves=法杖
 
 tagCraftingOneHanded=远程单手武器
 tagCraftingTwoHanded=远程双手武器
@@ -1185,7 +1191,7 @@ tagShrineWarning=这座神龛已经毁坏并需要修复。你确定要放置该
 tagShrineConfirmProxy=这个神龛已经被腐化了，需要净化它。是否召唤出困于其中的魔物？
 tagShrineActivated=这座神龛已经被修复了
 tagShrineHostActivated=这座神龛已经被主机修复了
-tagShrineHostNotActivated=你已经在其他时间修复了这座神龛
+tagShrineHostNotActivated=你已经在另外一局游戏中修复了这座神龛
 tagShrineBusy=这座神龛正在被其他玩家使用
 tagShrineLocked=这座神龛正在休眠中
 
@@ -1291,8 +1297,6 @@ LifeDisplayFormat=生命值 {%d0} / {%d1}
 ExperienceDisplayFormat=当前经验值:{^y}{%d0}{^w} ~ 距离下一级还需要:{^y}{%d1}点经验值
 
 tagExpDisplayFormat=当前经验值:{^y}{%t0}{^w} ~ 距离下一级还需要:{^y}{%t1}点经验值
-
-tagCharPointsSpent=在此项属性中投入的点数:
 
 tagCharAttribute01={%+.0f0} {^E}敏捷
 tagCharAttribute02={%+.0f0} {^E}力量
@@ -1764,6 +1768,13 @@ DamageModifierAether={%+.0f0}% {^E}虚化伤害
 DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}虚化伤害
 DamageModifierKnockdown={%+.0f0}% {^E}击倒时间
 DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}击倒时间
+DamageModifierTrap={%+.0f0}% {^E}陷阱持续时间
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}陷阱持续时间
+DamageModifierFreeze={%+.0f0}% {^E}冻结持续时间
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}冻结持续时间
+DamageModifierPetrify={%+.0f0}% {^E}石化持续时间
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化持续时间
+
 
 DamageDurationModifierPhysical={%+.0f0}% {^E}创伤伤害
 DamageDurationModifierBleeding={%+.0f0}% {^E}流血伤害
@@ -1900,7 +1911,7 @@ DefenseBleedingR={%.0f0}-{%.0f1}% {^E}流血抗性
 DefenseBlock={%.0f0} {^E}伤害格挡
 DefenseReflect={%.0f0}% {^E}伤害反弹
 DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}伤害反弹
-DefensePhysicalDuration={^E}物理效果的持续时间减少 {^H}{%.0f0}%
+DefensePhysicalDuration={^E}创伤效果的持续时间减少 {^H}{%.0f0}%
 DefenseBleedingDuration={^E}流血的持续时间减少 {^H}{%.0f0}% 
 DefenseColdDuration={^E}霜燃持续时间减少 {^H}{%.0f0}% 
 DefenseFireDuration={^E}燃烧持续时间减少 {^H}{%.0f0}% 
@@ -2054,7 +2065,7 @@ TagSpeakerSetup=扬声器设置
 TagHeadphoneSpeakers=耳机扬声器
 Tag41Speakers=4声道扬声器
 Tag51Speakers=5.1声道扬声器
-TagKeybind40=使用备用快捷键栏
+TagKeybind40=使用备用快捷栏
 tagKeybindUnassigned=未分配
 
 tagSelectPet1=选择战宠1
@@ -2079,9 +2090,9 @@ tagUC_OK=好
 tagUC_Cancel=取消
 tagUC_Error=你已经为这个角色解锁过该内容。
 
-tagHotSlotSwap=主副快捷操槽栏切换。
-tagHotSlotTitle=备用快捷键栏
-tagEmptyHotSlot=清空此快捷键栏按钮。
+tagHotSlotSwap=主副快捷栏切换。
+tagHotSlotTitle=备用快捷栏
+tagEmptyHotSlot=清空此快捷栏按钮。
 
 tagDevotionUnassigned=无技能
 

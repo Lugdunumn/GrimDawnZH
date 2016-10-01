@@ -1,42 +1,42 @@
-Defense Site
-This seems like a good area to put up some defenses.{^n}{^n}Defenses can only be constructed while the Crucible is inactive. Once a defense site is activated, it cannot be replaced.
-Create Deathchill Beacon
-Deathchill Beacons launch icy orbs at distant enemies, slowing their advance, with a chance to freeze, but their damage is relatively low.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
-Consider other options.
+防御工事
+这里看起来很适合建立防御工事。{^n}{^n}防御工事只能在试炼间隙才能建造。一旦防御工事被激活，就无法更换了。
+建造死寒之塔
+死寒之塔会向远处的敌人发射寒冰弹，阻止它们前进，并有一定几率冻结敌人，但其伤害也会较低。{^n}{^n}（需要5份贡品以及10000铁币）
+建造这项防御工事（花费5份贡品+10000铁币）
+材料不足。
+选择其他工事。
 
-How do I earn Tributes?
-Tributes are the currency of the Crucible, given out by its Master to those he finds...entertaining.{^n}{^n}You cannot have more than 100 Tributes at a time.
-Consider the options.
-Step away
-Step away
-Create Inferno Beacon
-Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
-
-
-Step away
-Create Stormcaller Beacon
-Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+我如何获取贡品？
+贡品是试炼场的货币，由主人分发给他的恶魔们...这很有趣。{^n}{^n}你一次性最多拥有100份贡品。
+考虑一下。
+离开
+离开
+建造地狱之塔
+地狱之塔快速地向大范围的敌人释放爆裂火焰，但有一定的范围限制。{^n}{^n}（需要5份贡品和10000铁币）
+建造这项防御工事（花费5份贡品+10000铁币）
+材料不足。
 
 
-Step away
-Create Stonewall Banner
-Stonewall Banners grant nearby players bonus defenses.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+离开
+建造风暴召唤者之塔
+风暴召唤者之塔间歇性地向远处的敌人释放一道连锁闪电，并有一定几率降低其抗性，但它们只能攻击有限数量的敌人且攻速较慢。{^n}{^n}（需要5份贡品和10000铁币）
+建造这项防御工事（花费5份贡品+10000铁币）
+材料不足。
 
 
-Step away
-Create Vanguard Banner
-Vanguard Banners grant nearby players bonus offensive stats.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+离开
+建造石墙之旗
+石墙之旗为附近的玩家提供防御加成。{^n}{^n}（需要5份贡品和10000铁币）
+建造这项防御工事（花费5份贡品+10000铁币）
+材料不足。
 
 
-Step away
-Step away
+离开
+建造先锋之旗
+先锋之旗为附近的玩家增强进攻属性。{^n}{^n}（需要5份贡品和10000铁币）
+建造这项防御工事（花费5份贡品+10000铁币）
+材料不足。
+
+
+离开
+离开

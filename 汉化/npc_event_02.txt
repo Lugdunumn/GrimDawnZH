@@ -1,65 +1,65 @@
-Lokarr, Master of the Crucible
-Before you are my final challenges. The fiercest beasts, the vilest horrors. I doubt you will survive.{^n}{^n}Are you prepared to face death?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-Only the mightiest warriors have survived this far, but few can endure five Mutators.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-Most challengers claim their reward by now. The ones still alive anyway.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-Until now I've been holding back. That ends here. Four Mutators await you.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-An impressive display, but will it be enough for what's still in store for you?{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-You are as fearless as you are ruthless, but now three Mutators await.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-Don't let your success get to your head. The Crucible has devoured more capable warriors than you.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-I expected you to give up by now, or perish...{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-The Crucible's power grows. From here on, you must endure two Mutators.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-So you survived. Splendid...{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-I admit, most do not get this far. Perhaps there is promise in you.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-You defy my minions, but now the real battle begins. From now on, you must also endure the Crucible's Mutators.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-What are Mutators?
-They are powerful auras cast upon the Crucible to empower my minions, or to hinder you.{^n}{^n}From now on, you will have to overcome not just your foes, but also an ever increasing amount of Mutators.
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-I need some time to prepare.
-Impressive, but you've only just begun.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-You've done well, but the Crucible still has much in store for you.{^n}{^n}Are you ready for more?
-Let's begin!
-I wish to collect my reward!
-I need some time to prepare.
-The Crucible has much in store for you.{^n}{^n}Are you ready?
-Let's begin!
-I need some time to prepare.
+罗卡，试练场主宰
+还有最后的挑战在等你。最凶猛的野兽，最邪恶的怪物。我觉得你无法通过。{^n}{^n}你准备好寻死了吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+只有最强大的勇士才能闯到这里，但极少人能抵抗五个异化装置。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+大部分挑战者到这里就拿东西走人了。因此他们都还活着。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+我还有所保留。但也到此为止了。四个异化装置在等着你。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+令人敬佩的表现，但你应该还不满足吧，还有更多的挑战等着你。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+你真是无畏又残暴，但现在有三个异化装置在等着你。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+别玩火自焚了。试练场葬送了很多比你强大的勇士。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+我希望你现在就放弃，否则只有去死...{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+试炼场的强度增加了。从现在开始，你必须抵抗两个异化装置。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+你活下来了。很好...{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+我得承认，大部分人都到不了这里。或许你有坚定的信念。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+你战胜了我的仆从，但真正的战斗从现在开始。从现在开始，你必须同时抵抗试练场的异化装置。 {^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+异化装置是什么？
+它们是施加于试练场上的光环，用来增强我的仆从或者阻碍你的行动。{^n}{^n}从现在开始，你不仅要击败敌人，还得应付不断增多的异化装置。
+开始吧！
+我想收集奖励！
+我得准备一下。
+我得准备一下。
+不错，但你才刚刚开始。{^n}{^n}你还要继续吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+你做的很好，但试练场还有更多的挑战等着你。{^n}{^n}你准备好了吗？
+开始吧！
+我想收集奖励！
+我得准备一下。
+试练场有很多难关等着你。{^n}{^n}你准备好了吗？
+开始吧！
+我得准备一下。

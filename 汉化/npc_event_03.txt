@@ -1,46 +1,46 @@
-Lokarr, Master of the Crucible
-You have bested all that the Crucible had to offer.{^n}{^n}Where others fell, you triumphed.{^n}{^n}My wealth is yours to claim, champion.
-I wish to take on the Crucible again.
-Splendid! I look forward to the spectacle.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart on Wave 130 (Spend 5 Tributes)
-Restart on Wave 130 (Spend 15 Tributes)
-Restart on Wave 130 (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
-Nevermind
-Thank you.
-The Crucible claims another. Go, take your pitiful earnings and get out of my sight.
-I wish to take on the Crucible again.
-Watching you squirm was enjoyable, I admit.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart at Checkpoint (Spend 5 Tributes)
-Restart at Checkpoint (Spend 15 Tributes)
-Restart at Checkpoint (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
-No More Restarts at Checkpoint Remain
-No Checkpoint Available
-Nevermind
-Very well.
-The Crucible claims another. You've gotten far, but in the end you've come short of the ultimate challenge.{^n}{^n}Go, take your pitiful earnings and get out of my sight.
+罗卡，试练场主宰
+你已经完成了试练场所提供的全部战斗。{^n}{^n}你做到了他人无法完成的事情。{^n}{^n}你可以拿走我的财宝了，胜利者。
+我希望再次挑战试练场。
+很好！我很想看看那会是怎样的场面。{^n}{^n}我可以布置一下试练场么？{^n}{^n}（再次激活试练场会重置所有宝藏。所有玩家将会被传送回出生点。 只有收集完奖励之后才能通过。）
+是的，让我过去。（重新开始）
+从第130波开始（花费5份贡品）
+从第130波开始（花费15份贡品）
+从第130波开始（花费30份贡品）
+你的贡品不足以从检查点开始（需要5份贡品）
+你的贡品不足以从检查点开始（需要15份贡品）
+你的贡品不足以从检查点开始（需要30份贡品）
+没事了
+谢谢。
+试练场不欢迎你。带着你那可怜的报酬滚吧，别让我再看见你。
+我希望再次挑战试练场。
+我承认，看着你在那左奔右突挺有趣的。{^n}{^n}我可以布置一下试练场么？{^n}{^n}（再次激活试练场会重置所有宝藏。所有玩家将会被传送回出生点。 只有收集完奖励之后才能通过。）
+是的，让我过去。（重新开始）
+从检查点重新开始。（花费5份贡品）
+从检查点重新开始。（花费15份贡品）
+从检查点重新开始。（花费30份贡品）
+你的贡品不足以从检查点开始（需要5份贡品）
+你的贡品不足以从检查点开始（需要15份贡品）
+你的贡品不足以从检查点开始（需要30份贡品）
+无法再次从检查点开始了
+还没有已激活的检查点
+没事了
+很好。
+你不用继续待在试练场了。你做的还凑合，但最后还是失败了。{^n}{^n}带着你那可怜的报酬滚吧，别让我再看见你。
 
-Very well.
-You chose to end your suffering. Understandable.{^n}{^n}Not all are made to conquer what I have conceived.{^n}{^n}Take your reward and go.
-I wish to take on the Crucible again.
-Perhaps you will do better this time.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart at Checkpoint (Spend 5 Tributes)
-Restart at Checkpoint (Spend 15 Tributes)
-Restart at Checkpoint (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
-No More Restarts at Checkpoint Remain
-No Checkpoint Available
-Nevermind
-Very well.
-You are too late to participate in this Crucible.
-Very well.
+很好。
+你选择结束痛苦。可以理解。{^n}{^n}我并不强迫所有人都要征服我所构想出来的东西。{^n}{^n}带着你的奖励走吧。
+我希望再次挑战试练场。
+或许这次你会做的更好。{^n}{^n}我可以布置一下试练场么？{^n}{^n}（再次激活试练场会重置所有宝藏。所有玩家将会被传送回出生点。 只有收集完奖励之后才能通过。）
+是的，让我过去。（重新开始）
+从检查点重新开始。（花费5份贡品）
+从检查点重新开始。（花费15份贡品）
+从检查点重新开始。（花费30份贡品）
+你的贡品不足以从检查点开始（需要5份贡品）
+你的贡品不足以从检查点开始（需要15份贡品）
+你的贡品不足以从检查点开始（需要30份贡品）
+无法再次从检查点开始了
+没有可用的检查点
+没事了
+很好。
+你来晚了，无法加入这场试炼。
+很好。

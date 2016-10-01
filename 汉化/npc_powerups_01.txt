@@ -1,32 +1,32 @@
-Torralia, the Immortal Archmage
-My master has informed me that I am to offer you my services.{^n}{^n}But I do not work for free. Bring me any Tributes you earn here and I shall bestow upon you Celestial Blessings.
-What are my options?
-There are four Blessings at your disposal:{^n}- The Blessing of Ulo shields you from duration and control effects.{^n}- Empyrion's Guidance grants you unparalleled fortitude.{^n}- The Might of Amatok makes you more powerful.{^n}- Ulzuin's Pact accelerates your abilities.{^n}{^n}Which shall it be?
-Gain the Blessing of Ulo (12 Tributes)
-Gain Empyrion's Guidance (12 Tributes)
-Gain the Might of Amatok (12 Tributes)
-Gain Ulzuin's Pact (12 Tributes)
-Insufficient Currency (Need 12 Tributes)
+泰拉利亚，不朽的大法师
+我的主人让我为你效劳。{^n}{^n}但我不会白干的。给我带来贡品，我就给你施加神之祝福。
+有哪些选择？
+有四种祝福可选：{^n}- 艾尔洛的祝福保护你抵抗持续性伤害和控制效果。{^n}- 至高之神的指引赋予你无双之勇。{^n}- 阿玛托克的伟力使你更加强大。{^n}- 奥祖因的契约激发你的能力。{^n}{^n}你选哪个？
+获得艾尔洛的祝福（12份贡品）
+获得至高之神的指引 （12份贡品）
+获得阿玛托克的伟力（12份贡品）
+获得奥祖因的契约（12份贡品）
+货币不足（需要12份贡品）
 
-What are Tributes?
-Tributes are the currency of the Crucible.{^n}{^n}Earn our master's favor and you shall be rewarded with Tributes based on your performance.
+贡品是什么？
+贡品是试练场中的货币。{^n}{^n}取悦于我们的主人，你就能基于表现来获得贡品。
 
-I see.
-I wish to prove my Devotion.
-You need only to look to the skies to witness the incomprehensible power that surrounds us.{^n}{^n}Pay Tribute to the gods and perhaps they will show their mercy upon you.{^n}{^n}(Torralia will exchange your Tributes for Devotion Points)
-My Tribute to the gods. (3 Tributes)
-Insufficient Currency (Need 3 Tributes)
-Nevermind.
-My Tribute to the gods. (8 Tributes)
-Insufficient Currency (Need 8 Tributes)
-Nevermind.
-My Tribute to the gods. (15 Tributes)
-Insufficient Currency (Need 15 Tributes)
-Nevermind.
-My Tribute to the gods. (25 Tributes)
-Insufficient Currency (Need 25 Tributes)
-Nevermind.
-My Tribute to the gods. (40 Tributes)
-Insufficient Currency (Need 40 Tributes)
-Nevermind.
-Not right now.
+我知道了。
+我会证明自己的。
+你只要看看我们周围那不可思议的力量{^n}{^n}向众神献上贡品，他们会对你很仁慈的。{^n}{^n}（泰拉利亚会用信仰点数和你交换贡品）
+这是我奉给众神的贡品。（3份贡品）
+贡品不足（需要3份贡品）
+没关系。
+M这是我奉给众神的贡品。（8份贡品）
+贡品不足（需要8份贡品）
+没关系。
+这是我奉给众神的贡品。（15份贡品）
+贡品不足（需要15份贡品）
+没关系。
+这是我奉给众神的贡品。（25份贡品）
+贡品不足（需要25份贡品）
+没关系。
+这是我奉给众神的贡品。（40份贡品）
+贡品不足（需要40份贡品）
+没关系。
+以后再说。

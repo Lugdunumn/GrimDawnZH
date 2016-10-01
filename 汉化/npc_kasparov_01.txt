@@ -100,15 +100,15 @@
 
 我的盟友送来了那些炸药么？
 
-Ah, there you are! Come, come, we have an errand you must perform immediately.
-Excuse me?
-Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
-Very well. I'll gather the explosives.
-Oh no, I'm not getting involved in another of your experiments.
-Will this Dynamite suffice?
+啊，你来了！过来，过来，我们有个必须马上执行的任务要交给你。
+什么？
+是的，立刻就得执行。可别耽搁！我们需要进行实验，我和达莱特马上需要爆炸物。没时间问问题了。这些具有魔力的手工艺制品可不会自己就分解了，是不是？{^n}{^n}你还在这儿呢？马上去安克维亚山麓和古安克维亚的矿洞里！
+好的，我会收集炸药的。
+哦不，我不会再参与到你的实验里去了。
+这些炸药足够吗？
 
-Did my allies deliver the Dynamite?
-是的，是的。这实验真是了不起，不……是屌爆了！可能是发生了一场爆炸，但是每个人都没事。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
+我的盟友送来了那些炸药么？
+是的，是的。这实验真是了不起，不……真是够劲到爆炸！可能发生了一场爆炸，但是大家都安然无恙。{^n}{^n}如果你想呃……炸点什么东西，去跟达莱特谈谈吧。
 嗯，好吧。
 哦不，别又是一次实验……
 啊，你在这！来，过来，我们有一项你必须立刻完成。

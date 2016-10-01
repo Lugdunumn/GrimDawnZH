@@ -77,7 +77,7 @@ tagWeaponSwordD009=死亡印记之爪
 tagWeaponSwordD010=风暴之心
 tagWeaponSwordD010Desc="一些字母被刻入了刀柄之中：D.T."
 tagWeaponSwordD011=掠夺者之爪
-tagWeaponSwordD012=疯后之爪
+tagWeaponSwordD012=癫狂女王之爪
 tagWeaponSwordD012Desc="和同类分开，被困于城墙之下，革翅目虫后慢慢变得疯狂。"
 
 tagWeaponSwordF001=军团切刀
@@ -832,9 +832,9 @@ tagArmorClass02=
 tagArmorClass03=重型
 
 #WeaponClass
-
 tagOffHand=副手
 tagShield=盾牌
+
 tagOneHandedSword=单手剑
 tagOneHandedMace=单手锤
 tagOneHandedAxe=单手斧
@@ -847,10 +847,10 @@ tagTwoHandedMace=双手锤
 tagTwoHandedAxe=双手斧
 tagTwoHandedRifle=双手远程武器
 
-tagWeaponUnknown=未知武器
-
-tagSpear=矛
+tagSpear=长矛
 tagStaff=法杖
+
+tagWeaponUnknown=未知武器
 
 #ArmorSlots
 tagRing=戒指
@@ -864,11 +864,14 @@ tagChest=胸甲
 tagFeet=靴子
 tagGloves=护手
 
+
 #QualityClass
 tagMagic=魔法
 tagRare=稀有
 tagEpic=史诗级
 tagLegend=传奇
+
+
 
 tagStyleUniqueTier2=强化的
 tagStyleUniqueTier3=神话的
@@ -1059,7 +1062,7 @@ tagShoulderC006Desc="一支神秘教团的标志性服饰，此教团已在奥�
 tagShoulderC007=弹震症肩饰
 tagShoulderC008=盛饰肩铠
 tagShoulderC009=守护者披肩
-tagShoulderC009Desc="巫神拜斯迈赐予她凡人追随者的披肩，由风暴乌鸦的羽毛制成。"
+tagShoulderC009Desc="巫神拜斯迈赐予她的凡人追随者的披肩，由风暴乌鸦的羽毛制成。"
 tagShoulderC010=破灭护肩
 tagShoulderC011=神射手的披风
 tagShoulderC012=圣契的不洁护肩
@@ -1445,6 +1448,16 @@ tagLegsD012=风暴牢笼护腿
 tagLegsD013=异常宏伟长裤
 tagLegsD013Desc="实际上，它们只是凑合罢了。"
 tagLegsD014=野性掠夺护腿
+
+tagLegsD002=骨织长裤
+tagLegsD003=死亡轻语长裤
+tagLegsD004=地狱熔锻长裤
+tagLegsD004Desc="它在地狱犬的烈焰吐息中被锻造而成。"
+tagLegsD005=织法者裹腿
+tagLegsD005Desc="大量的咒语与颇具威力的真言如丝线般织成了这件护腿。"
+tagLegsD006=正义护腿
+tagLegsD007=野兽召唤者的长裤
+tagLegsD008=大法师的长裤
 
 
 #ArmorFeet鞋子
@@ -2047,7 +2060,7 @@ tagBlueprint_ArmorD022=设计图: 三巫神之契约
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
 tagBlueprint_AccessoryC002=设计图: 漩涡之石
-tagBlueprint_AccessoryC003=设计图: 蝎尾狮星之石
+tagBlueprint_AccessoryC003=设计图: 狮蝎青金石
 tagBlueprint_AccessoryC004=设计图: 怒心徽记
 tagBlueprint_AccessoryC005=设计图: 元素平衡红宝石
 tagBlueprint_AccessoryC006=设计图: 元素平衡蓝宝石
@@ -2391,7 +2404,7 @@ tagConsumableF09Desc="一种冻结你敌人血液的神秘药剂。"
 tagConsumableF10=^f寒霜守卫药剂
 tagConsumableF10Desc="打破药瓶，产生一阵冰骨旋风围绕着你。"
 tagConsumableF11=^f凯蒙的圣油
-tagConsumableF11Desc="由凯蒙神父亲自施加祝福的神圣之油，点燃你的敌人。"
+tagConsumableF11Desc="由神父凯蒙亲自施加祝福的神圣之油，点燃你的敌人。"
 tagConsumableF12=^f凯蒙的愤怒药剂
 tagConsumableF12Desc="打破药瓶，在你周围释放凯蒙的圣怒"
 
@@ -3005,9 +3018,9 @@ tagEnchantC008A=日光风暴粉尘
 tagEnchantC008Desc="这种特殊粉末只能在日食环境下混合调制出来，以保证它不会失去奥术能量，从而变得和普通灰尘一样。"^w^n(用于所有护甲)
 
 tagEnchantC009A=凯蒙的祝福
-tagEnchantC009Desc="凯蒙神父亲自祝福的保护他的追随者免受至高之神烈焰灼烧的神秘粉尘。"^w^n(用于所有护甲)
+tagEnchantC009Desc="神父凯蒙亲自祝福的保护他的追随者免受至高之神烈焰灼烧的神秘粉尘。"^w^n(用于所有护甲)
 tagEnchantC010A=凯蒙的引线
-tagEnchantC010Desc="凯蒙神父创造的引导闪电远离佩带者心脏的魔法粉尘。"^w^n(用于所有护甲)
+tagEnchantC010Desc="神父凯蒙创造的引导闪电远离佩带者心脏的魔法粉尘。"^w^n(用于所有护甲)
 tagEnchantC011A=恶魔之祸粉末
 tagEnchantC011Desc="神选牧师所创造的保护盟友免受虚灵生物侵害的魔法粉末。"^w^n(用于所有护甲)
 
@@ -3711,10 +3724,10 @@ tagPrefixB028_Ar_A=石肤的
 tagPrefixB029_Ar_A=将军的
 tagPrefixB030_Ar_A=冰川的
 tagPrefixB031_Ar_A=雷击的
-tagPrefixB032_Ar_A=着魔的
+tagPrefixB032_Ar_A=恶魔的
 tagPrefixB033_Ar_A=虚火的
 tagPrefixB034_Ar_A=监工的
-tagPrefixB035_Ar_A=主宰的
+tagPrefixB035_Ar_A=统治者的
 
 tagPrefixB001_Class_A=突击者的
 tagPrefixB002_Class_A=巫师之刃的
@@ -3722,7 +3735,7 @@ tagPrefixB003_Class_A=刀剑大师的
 tagPrefixB004_Class_A=战斗法师的
 tagPrefixB005_Class_A=烈焰术士的
 tagPrefixB006_Class_A=破坏者的
-tagPrefixB007_Class_A=魔术师的
+tagPrefixB007_Class_A=巫术师的
 tagPrefixB008_Class_A=巫师猎手的
 tagPrefixB009_Class_A=术士的
 tagPrefixB010_Class_A=破法者的
@@ -3758,7 +3771,7 @@ tagPrefixB017_Sh_A=邪术的
 tagPrefixB018_Sh_A=炼狱的
 tagPrefixB019_Sh_A=风暴充能的
 tagPrefixB020_Sh_A=白霜的
-tagPrefixB021_Sh_A=着魔的
+tagPrefixB021_Sh_A=恶魔的
 tagPrefixB022_Sh_A=虚火的
 
 #Suffixes后缀
@@ -4137,7 +4150,7 @@ tagDoorLocked= {^R} ~ 锁着的
 tagDoorOneWay01=通往地表的出口
 tagDoorLever01=吊门控制器
 tagTorchLever01=松动的火把
-tagStoneLever01=松动的石头
+tagStoneLever01=松动的石块
 
 #Doors门
 
@@ -4158,11 +4171,11 @@ tagDoorWarden=铁门
 tagDoorFarmland=木门
 tagDoorLab=强固大门
 tagDoorStone=岩石之门
-tagLocked_Kymon= {^R} ~ 由凯蒙神父封印着
+tagLocked_Kymon= {^R} ~ 由神父凯蒙封印着
 tagLocked_Necro= {^R} ~ 由死亡守夜人教团封印着
 tagLocked_Outcast= {^R} ~ 由安娜斯特瑞娅封印着
 tagLocked_BoCGauntlet= {^R} ~ 由守卫者封印着
-tagLocked_WitchGods= {^R} ~ 由邪术力量封印着
+tagLocked_WitchGods= {^R} ~ 被邪能封印着
 
 #QuestRewards任务奖励
 

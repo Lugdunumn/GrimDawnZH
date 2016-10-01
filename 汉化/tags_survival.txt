@@ -2,172 +2,172 @@
 
 
 #Defenses
-tagDefense_Turret01=Inferno Beacon
-tagDefense_Turret02=Deathchill Beacon
-tagDefense_Turret03=Stormcaller Beacon
-tagDefense_Banner01=Stonewall Banner
-tagDefense_Banner01_Skill01=Stonewall Aura
-tagDefense_Banner01_Skill01Desc=The Banner steels you for battle, increasing % Defensive Ability, % Health and Health Regeneration
-tagDefense_Banner01_Skill02=Healing Mist
-tagDefense_Banner01_Skill02Desc=The Banner renews you for continued conflict, restoring health.
-tagDefense_Banner02=Vanguard Banner
-tagDefense_Banner02_Skill01=Vanguard Aura
-tagDefense_Banner02_Skill01Desc=The Banner fills you with rage, increasing % Offensive Ability, % Crit damage and % All damage
-tagDefense_Banner02_Skill02=Frenzy
-tagDefense_Banner02_Skill02Desc=The Banner fills you with rage, increasing Total Speed.
-tagDefense_Wall01=Barricade
+tagDefense_Turret01=地狱之塔
+tagDefense_Turret02=死寒之塔
+tagDefense_Turret03=风暴召唤者之塔
+tagDefense_Banner01=石墙之旗
+tagDefense_Banner01_Skill01=石墙光环
+tagDefense_Banner01_Skill01Desc=这面旗帜使你在战斗中钢化，增强一定百分比的防御能力，生命值与生命值恢复能力。
+tagDefense_Banner01_Skill02=治疗喷雾
+tagDefense_Banner01_Skill02Desc=这面旗帜让你重新充满活力，应付接下来的战斗。
+tagDefense_Banner02=先锋之旗
+tagDefense_Banner02_Skill01=先锋光环
+tagDefense_Banner02_Skill01Desc=这么旗帜使你暴怒，增强一定百分比的攻击能力，暴击伤害以及所有伤害。
+tagDefense_Banner02_Skill02=狂怒
+tagDefense_Banner02_Skill02Desc=这面旗帜使你暴怒，增加所有速度。
+tagDefense_Wall01=路障
 
-tagBeacon01=Celestial Beacon
-tagBeacon_Aura01_Skill=Celestial Aura
-tagBeacon_Aura01_Desc=The Celestial Light of the beacon shields you from the darkness.
+tagBeacon01=上神之塔
+tagBeacon_Aura01_Skill=上神光环
+tagBeacon_Aura01_Desc=防御塔上散发出的神之光保护你不被黑暗侵蚀。
 
 #Traps
-tagTrap_A01=Frost Pylon
-tagTrap_A02=Infernal Pylon
-tagTrap_A03=Death Pylon
-tagTrap_A04=Toxic Pylon
+tagTrap_A01=冰霜水晶塔
+tagTrap_A02=地狱水晶塔
+tagTrap_A03=死亡水晶塔
+tagTrap_A04=毒素水晶塔
 
-tagTrap_SkillA01=Chilling Presence
-tagTrap_SkillA01_Desc=The nearby pylon saps you of warmth, slowing you.
-tagTrap_SkillA02=Burning Presence
-tagTrap_SkillA02_Desc=The nearby pylon is burning you alive, reducing armor.
-tagTrap_SkillA03=Necrotic Presence
-tagTrap_SkillA03_Desc=The nearby pylon is sapping your vitality, reducing health and regeneration.
-tagTrap_SkillA04=Toxic Presence
-tagTrap_SkillA04_Desc=The nearby pylon is choking you with poisonous fumes, reducing damage.
+tagTrap_SkillA01=冰冷
+tagTrap_SkillA01_Desc=附近的水晶塔吸取你的热量，降低你的速度。
+tagTrap_SkillA02=燃烧
+tagTrap_SkillA02_Desc=附近的水晶塔燃烧你的生命，降低你的护甲。
+tagTrap_SkillA03=腐败
+tagTrap_SkillA03_Desc=附近的水晶塔吸收你的活力，降低你的生命与恢复速度。
+tagTrap_SkillA04=中毒
+tagTrap_SkillA04_Desc=附近的水晶塔散发出毒烟令你窒息，降低你的伤害。
 
 #PowerUps
-tagSkillPowerup01=Blessing of Ulo
-tagSkillPowerup01Desc=You are blessed by Ulo, granting you resistance to damage over time and crowd control effects.
+tagSkillPowerup01=艾尔洛的祝福
+tagSkillPowerup01Desc=你受到艾尔洛的祝福，增强你对持续性伤害与群体控制效果的抗性。
 
-tagSkillPowerup02=Empyrion's Guidance
-tagSkillPowerup02Desc=You are blessed by the light of Empyrion, granting you unparalleled fortitude.
+tagSkillPowerup02=至高之神的指引
+tagSkillPowerup02Desc=至高之神的圣光祝福着你，赐予你无与伦比的勇气。
 
-tagSkillPowerup03=Might of Amatok
-tagSkillPowerup03Desc=You are marked by the spirit of Amatok, granting you incredible might.
+tagSkillPowerup03=阿玛托克的伟力
+tagSkillPowerup03Desc=你被阿玛托克之灵标记，赋予你无双之力。
 
-tagSkillPowerup04=Ulzuin's Pact
-tagSkillPowerup04Desc=You are marked by Ulzuin, granting you restless fury.
+tagSkillPowerup04=奥祖因的契约
+tagSkillPowerup04Desc=你被奥祖因标记，让你充满无尽怒火。
 
 
 #Rewards
-tagItem_ChestA01=Journeyman's Chest
-tagItem_ChestB01=Champion's Chest
-tagItem_ChestC01=Triumphant Chest
-tagItem_ChestD01=Ornate Chest
-tagItem_ChestE01=Heroic Chest
-tagItem_ChestF01=Valorous Chest
-tagItem_ChestG01=Grand Chest
-tagItem_ChestH01=Supreme Chest
-tagItem_ChestI01=Magnificent Chest
-tagItem_ChestJ01=Glorious Chest
-tagItem_ChestK01=Transcendent Chest
-tagItem_ChestL01=Nemesis Trove
-tagItem_ChestM01=Conqueror's Trove
-tagItem_ChestN01=Celestial Trove
+tagItem_ChestA01={^Y}旅行者的箱子
+tagItem_ChestB01={^Y}胜利者的宝箱
+tagItem_ChestC01={^Y}凯旋宝箱
+tagItem_ChestD01={^Y}装饰宝箱
+tagItem_ChestE01={^Y}英雄的宝箱
+tagItem_ChestF01={^Y}勇士的宝箱
+tagItem_ChestG01={^I}豪华宝箱
+tagItem_ChestH01={^I}至高宝箱
+tagItem_ChestI01={^I}华丽的宝箱
+tagItem_ChestJ01={^I}荣耀宝箱
+tagItem_ChestK01={^I}卓越宝箱
+tagItem_ChestL01={^M}复仇者的珍藏
+tagItem_ChestM01={^M}征服者的宝藏
+tagItem_ChestN01={^M}神之珍藏
 
-tagItem_ChestStart=Fallen Combatant
+tagItem_ChestStart=堕落战士
 
 #Arenas
-tagSurvivalArena_01=Crucible of the Dead
-tagSurvivalArena_02=Crucible of the Deeps
-tagSurvivalArena_03=Crucible of the Sands
-tagSurvivalArena_04=Crucible of the Grove
+tagSurvivalArena_01=死亡残忍试炼
+tagSurvivalArena_02=深渊残忍试炼
+tagSurvivalArena_03=沙地残忍试炼
+tagSurvivalArena_04=丛林残忍试炼
 
 #NPCs
-tagNPC_Event_01=Lokarr, Master of the Crucible
-tagNPC_DefenseSite_01=Defense Site
+tagNPC_Event_01=罗卡，试炼场主宰
+tagNPC_DefenseSite_01=防御工事
 
-tagNPC_MerchantS01=Kandral
-tagStoreTitle_MerchantS01=Immortal Peddler
+tagNPC_MerchantS01=坎德拉
+tagStoreTitle_MerchantS01=不朽的商贩
 
-tagNPC_SmugglerS01=Ignotius
-tagStoreTitle_SmugglerS01=Immortal Smuggler
+tagNPC_SmugglerS01=伊格内修斯
+tagStoreTitle_SmugglerS01=不朽的走私者
 
-tagNPC_ReallocatorS01=Kracius
-tagStoreTitle_ReallocatorS01=Spirit Guide
+tagNPC_ReallocatorS01=克拉修斯
+tagStoreTitle_ReallocatorS01=灵魂向导
 
-tagNPC_InventorS01=Yvalla
-tagStoreTitle_InventorS01=Ancient Inventor
+tagNPC_InventorS01=娅弗拉
+tagStoreTitle_InventorS01=远古发明家
 
-tagNPC_PowerupsS01=Torralia, the Immortal Archmage
+tagNPC_PowerupsS01=泰拉利亚，不朽的大法师
 
-tagNPC_SmithS01=Garrius
-tagStoreTitle_SmithS01=Cursed Smith
-tagStoreDesc_SmithS01_1={}Gift of Unlife
-tagStoreDesc_SmithS01_2=Garrius is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagNPC_SmithS01=伽里尤斯
+tagStoreTitle_SmithS01=被诅咒的铁匠
+tagStoreDesc_SmithS01_1={}亡者之礼
+tagStoreDesc_SmithS01_2=伽里尤斯数个世纪以来都在锻造学识上颇有天赋，被他那特别的...存在形态所支持着。
 tagStoreDesc_SmithS01_3= 
-tagStoreDesc_SmithS01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithS01_4=制作武器，护甲或饰品，并向其中灌注下列特性之一：
 
 
 #Notifications
-tagNotification_Start=Speak to the Master of the Crucible to Begin
-tagNotification_Active=Eliminate all Enemies
-tagNotification_Continue=Speak to the Master of the Crucible to Continue
-tagNotification_Failure=You have failed, your Compensation awaits in the Treasure Chamber
-tagNotification_Reward=Your Reward awaits in the Treasure Chamber
-tagNotification_Reset=(Optional) Speak to the Master of the Crucible to Reset the Crucible for another attempt
+tagNotification_Start=与试炼大师对话来开始试炼
+tagNotification_Active=杀死所有敌人
+tagNotification_Continue=与试炼大师对话以继续试炼
+tagNotification_Failure=你失败了，去藏宝室领取你的奖励吧。
+tagNotification_Reward=你的奖励已放置于藏宝室中了。
+tagNotification_Reset=（可选）与试炼大师对话来重置试炼并重新开始
 
-tagNotification_Checkpoint05=You can now resume on Wave 50 in this Crucible.
-tagNotification_Checkpoint10=You can now resume on Wave 100 in this Crucible.
+tagNotification_Checkpoint05=你现在可以在这场试炼中从50关继续挑战
+tagNotification_Checkpoint10=你现在可以在这场试炼中从100关继续挑战
 
 
 #Mutators
-Mutator_Monster_01=Aetherwarped
-Mutator_Monster_01Desc=Monsters are resistant to the Aether, but more Susceptible to Chaos.
-Mutator_Monster_02=Armored
-Mutator_Monster_02Desc=Monsters are nearly impervious to Physical harm and armor Piercing, but are more Susceptible to the Elements.
-Mutator_Monster_03=Berserking
-Mutator_Monster_03Desc=Monsters are berserking, Attacking faster but also becoming more Susceptible to Attacks.
-Mutator_Monster_04=Brutal
-Mutator_Monster_04Desc=Monsters land Critical Strikes more often, but deal Reduced Damage.
-Mutator_Monster_05=Corrupted
-Mutator_Monster_05Desc=Monsters resistant to Chaos, but more Susceptible to the Aether.
-Mutator_Monster_06=Crippling
-Mutator_Monster_06Desc=Monster attacks Slow opponents, but attack Slower.
-Mutator_Monster_07=Cruel
-Mutator_Monster_07Desc=Monster Critical Strikes are extra lethal, but attacks are more likely to Miss.
-Mutator_Monster_08=Ignited
-Mutator_Monster_08Desc=Monsters are infused with Fire, dealing additional Fire damage and Retaliating Fire damage, but are more Susceptible to the Cold.
-Mutator_Monster_09=Time-Warped
-Mutator_Monster_09Desc=Monsters have greatly reduced Spell Cooldowns and increased Casting Speed, but deal Reduced Physical Damage.
-Mutator_Monster_10=Leeching
-Mutator_Monster_10Desc=Monsters leech health back with every attack, but have Reduced Health.
-Mutator_Monster_11=Poisonous
-Mutator_Monster_11Desc=Monsters are tainted with poison, dealing additional Poison damage and Retaliating Poison damage, but are more Susceptible to Vitality draining attacks.
-Mutator_Monster_12=Regenerating
-Mutator_Monster_12Desc=Monsters have highly enhanced health and energy regeneration, but are more Susceptible to Acid, Poison and Bleeding.
-Mutator_Monster_13=Resistant
-Mutator_Monster_13Desc=Monsters are nearly impervious to Magical attacks, but are more Susceptible to Physical harm.
-Mutator_Monster_14=Toughened
-Mutator_Monster_14Desc=Monsters have greatly increased Health, but have reduced Health Regeneration.
-Mutator_Monster_15=Unstoppable
-Mutator_Monster_15Desc=Monsters are highly resistant to Crowd Control, but Move Slowly.
-Mutator_Monster_16=Vengeful
-Mutator_Monster_16Desc=Monsters have greatly enhanced Retaliation effects, but have Reduced Armor.
-Mutator_Monster_17=Swift
-Mutator_Monster_17Desc=Monsters have greatly increased Movement Speed, but are more susceptible to Crowd Control.
+Mutator_Monster_01=虚化扭曲
+Mutator_Monster_01Desc=怪物具有虚化抗性，但易受混乱伤害。
+Mutator_Monster_02=全副武装
+Mutator_Monster_02Desc=怪物基本无视物理伤害与护甲穿透，但易受元素伤害。
+Mutator_Monster_03=狂暴
+Mutator_Monster_03Desc=怪物处于狂暴状态，更快速的攻击但同时更易受到攻击。
+Mutator_Monster_04=野蛮
+Mutator_Monster_04Desc=怪物会造成更多的暴击，但伤害降低。
+Mutator_Monster_05=腐坏
+Mutator_Monster_05Desc=怪物具有混乱抗性，但更易受虚化伤害。
+Mutator_Monster_06=削弱
+Mutator_Monster_06Desc=怪物攻击减速的对手，但自身攻击速度降低。
+Mutator_Monster_07=残忍
+Mutator_Monster_07Desc=怪物的暴击更加致命，但同时也降低其命中率。
+Mutator_Monster_08=点燃
+Mutator_Monster_08Desc=怪物被灌注了火焰，造成额外火焰伤害并能反击火焰伤害，但更易受冰冷伤害。
+Mutator_Monster_09=时间扭曲
+Mutator_Monster_09Desc=怪物的施法间隔缩短并加快了施法速度，但造成更少的物理伤害。
+Mutator_Monster_10=吸血
+Mutator_Monster_10Desc=怪物的每一击都会吸取生命，但总体生命值较低。
+Mutator_Monster_11=恶毒
+Mutator_Monster_11Desc=怪物被毒素感染，造成额外的毒素伤害并能反击毒素伤害，但更易受活力吸取伤害。
+Mutator_Monster_12=恢复
+Mutator_Monster_12Desc=怪物具有大幅加强的生命与能量恢复能力，但更易受酸性，毒素与流血伤害。
+Mutator_Monster_13=抗性
+Mutator_Monster_13Desc=怪物近乎无视魔法伤害，但更易受物理伤害。
+Mutator_Monster_14=坚韧
+Mutator_Monster_14Desc=怪物具有大幅增加的生命值，但降低了生命恢复速度。
+Mutator_Monster_15=势不可挡
+Mutator_Monster_15Desc=怪物对群体控制具有极高的抗性，但移动速度降低。
+Mutator_Monster_16=复仇
+Mutator_Monster_16Desc=怪物具有极高的反击能力，但降低了护甲。
+Mutator_Monster_17=迅捷
+Mutator_Monster_17Desc=怪物的移动速度得到极大的提高，但更易受群体控制影响。
 
-Mutator_Player_01=Aethermarked
-Mutator_Player_01Desc=Players experience slowed Attacks, but are more Resistant to the Aether.
-Mutator_Player_02=Voidmarked
-Mutator_Player_02Desc=Players experience slowed Casting but are more Resistant to Chaos.
-Mutator_Player_03=Marked
-Mutator_Player_03Desc=Players have reduced Defensive Ability, but Damage is Magnified.
-Mutator_Player_04=Drained
-Mutator_Player_04Desc=Players have reduced Health Regeneration, but are more Resistant to Poison and Bleeding.
-Mutator_Player_05=Shattered
-Mutator_Player_05Desc=Players have reduced Damage and Retaliation effects, but Armor is Increased.
-Mutator_Player_06=Afflicted
-Mutator_Player_06Desc=Players have reduced Health, but are more Resistant to Vitality drains.
-Mutator_Player_07=Slowed
-Mutator_Player_07Desc=Player Movement Speed is greatly reduced, but Crowd Control doesn't last as long.
-Mutator_Player_08=Tainted
-Mutator_Player_08Desc=Players are Slowed, but Critical Damage is Increased.
-Mutator_Player_09=Exposed
-Mutator_Player_09Desc=Players have reduced Armor, but Cooldowns are Reduced.
-Mutator_Player_10=Weakened
-Mutator_Player_10Desc=Player Critical Attacks are weakened, but attacks are more likely to hit.
+Mutator_Player_01=虚化标记
+Mutator_Player_01Desc=玩家攻击速度降低，但对虚化伤害有更高的抗性。
+Mutator_Player_02=虚空标记
+Mutator_Player_02Desc=玩家施法速度降低但对混乱伤害有更高的抗性。
+Mutator_Player_03=标记
+Mutator_Player_03Desc=玩家防御能力降低，但伤害加强了。
+Mutator_Player_04=疲劳
+Mutator_Player_04Desc=玩家生命恢复速度降低，但对毒素与流血有更高的抗性。
+Mutator_Player_05=击碎
+Mutator_Player_05Desc=玩家伤害与反击效果降低，但护甲提高。
+Mutator_Player_06=折磨
+Mutator_Player_06Desc=玩家的生命降低，但对活力吸取有更高的抗性。
+Mutator_Player_07=减速
+Mutator_Player_07Desc=玩家的移动速度降低，但降低受到群体控制效果的时间。
+Mutator_Player_08=感染
+Mutator_Player_08Desc=玩家速度降低，但暴击伤害提高了。
+Mutator_Player_09=暴露
+Mutator_Player_09Desc=玩家的护甲降低，但冷却时间缩短。
+Mutator_Player_10=虚弱
+Mutator_Player_10Desc=玩家的暴击能力降低，但更容易命中目标。
 
 
 

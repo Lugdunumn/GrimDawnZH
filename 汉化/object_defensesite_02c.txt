@@ -1,5 +1,5 @@
-Defense Site
-This Defense Site can be upgraded, empowering its abilities.{^n}{^n}Upgrade this Site?{^n}{^n}(Requires 12 Crucible Tributes and 30000 Iron Bits)
-Upgrade this Defense (spend 12 Tributes + 30000 Iron Bits)
-Insufficient Materials.
-Step away
+防御工事
+这项防御工事可以升级，增强它的威力。{^n}{^n}升级这项工事？{^n}{^n}（需要12份贡品和30000铁币）
+升级这项防御工事。（花费12份贡品+30000铁币）
+材料不足
+离开

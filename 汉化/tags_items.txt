@@ -20,20 +20,20 @@ tagWeaponSwordA011=骨锯
 tagWeaponSwordA012=征服者之剑
 tagWeaponSwordA013=马刀
 
-tagWeaponSwordB001=^l萨拉查的王者之剑
+tagWeaponSwordB001=萨拉查的王者之剑
 tagWeaponSwordB001Desc="此剑由冥神授予萨拉查，用来表彰他对冥神坚定不移的追随。"
 tagWeaponSwordB002=幽光阔剑
-tagWeaponSwordB003=^l幽光长剑
+tagWeaponSwordB003=幽光长剑
 tagWeaponSwordB004=抛光长剑
 tagWeaponSwordB005=抛光阔剑
 tagWeaponSwordB006=抛光的征服者
 tagWeaponSwordB007=马卡达的恐惧之刃
 tagWeaponSwordB008=蝎尾狮长剑
 tagWeaponSwordB009=刻骨刀
-tagWeaponSwordB010=^l骨剑
+tagWeaponSwordB010=骨剑
 tagWeaponSwordB011=革翅目之爪
-tagWeaponSwordB012=^l革翅目切刀
-tagWeaponSwordB013=^l鲜血领主之刃
+tagWeaponSwordB012=革翅目切刀
+tagWeaponSwordB013=鲜血领主之刃
 tagWeaponSwordB013Desc="戴罗尼斯的兵刃，用冥神的血液加持过的武器。"
 
 tagWeaponSwordC001=避雷针
@@ -101,19 +101,19 @@ tagWeaponBluntA010=战锤
 tagWeaponBluntB000=火炬
 tagWeaponBluntB001=典狱长的裁决
 tagWeaponBluntB001Desc="不知道有多少无辜的人死于这把武器。"
-tagWeaponBluntB002=^l典狱长的审判
+tagWeaponBluntB002=典狱长的审判
 tagWeaponBluntB003=巨魔捣骨锤
-tagWeaponBluntB004=^l巨魔碎骨锤
+tagWeaponBluntB004=巨魔碎骨锤
 tagWeaponBluntB005=幽光晨星锤
-tagWeaponBluntB006=^l幽光大头棒
-tagWeaponBluntB007=^l基尔利安的碎颅锤
+tagWeaponBluntB006=幽光大头棒
+tagWeaponBluntB007=基尔利安的碎颅锤
 tagWeaponBluntB008=斯金纳的火炬
 tagWeaponBluntB008Desc="一位绝望之人的最后一线希望……"
 tagWeaponBluntB009=专家级刃锤
 tagWeaponBluntB010=专家级晨星锤
 tagWeaponBluntB011=专家级凸缘钉头锤
 tagWeaponBluntB012=突变臂膀
-tagWeaponBluntB013=^l突变短棒
+tagWeaponBluntB013=突变短棒
 
 tagWeaponBluntC001=虚化之灾
 tagWeaponBluntC002=混沌无序
@@ -166,10 +166,10 @@ tagWeaponAxeA008=重斧
 tagWeaponAxeA009=鈎斧
 
 tagWeaponAxeB001=幽光切肉斧
-tagWeaponAxeB002=^l幽光战斧
-tagWeaponAxeB003=^l竞技场主之斧
+tagWeaponAxeB002=幽光战斧
+tagWeaponAxeB003=竞技场主之斧
 tagWeaponAxeB004=切骨斧
-tagWeaponAxeB005=^l骨镰
+tagWeaponAxeB005=骨镰
 tagWeaponAxeB006=奥尔曼的斧头
 tagWeaponAxeB007=虚化扭曲之斧
 
@@ -223,7 +223,7 @@ tagWeaponGun1hB001=双管手枪
 tagWeaponGun1hB002=手持迫击炮
 tagWeaponGun1hB003=霰弹手枪
 tagWeaponGun1hB004=血誓手枪
-tagWeaponGun1hB005=^l血誓连发枪
+tagWeaponGun1hB005=血誓连发枪
 tagWeaponGun1hB006=弗朗西斯的手枪
 
 tagWeaponGun1hC001=利安德·格林的手持火炮
@@ -289,7 +289,7 @@ tagWeaponGun2hB001=转拴步枪
 tagWeaponGun2hB002=前装枪
 tagWeaponGun2hB003=榴弹枪
 tagWeaponGun2hB004=奇型步枪
-tagWeaponGun2hB005=^l奇型卡宾枪
+tagWeaponGun2hB005=奇型卡宾枪
 
 tagWeaponGun2hC001=猎手
 tagWeaponGun2hC001B=猎人
@@ -331,7 +331,7 @@ tagWeaponCrossbow2hA003=重弩
 tagWeaponCrossbow2hA004=刺蝎弩
 
 tagWeaponCrossbow2hB001=幽光十字弩
-tagWeaponCrossbow2hB002=^l幽光强弩
+tagWeaponCrossbow2hB002=幽光强弩
 tagWeaponCrossbow2hB003=加福林的十字弩
 
 tagWeaponCrossbow2hC001=雷霆十字枪
@@ -384,13 +384,13 @@ tagWeaponMelee2hB002=巨魔碎颅者
 tagWeaponMelee2hB003=凶蛮巨斧
 tagWeaponMelee2hB004=凶蛮切肉斧
 tagWeaponMelee2hB005=凶蛮斩首斧
-tagWeaponMelee2hB006=^l阿卡莫斯之镰
-tagWeaponMelee2hB007=^l幽光战斧
-tagWeaponMelee2hB008=^l阿卡莫斯战争之剑
-tagWeaponMelee2hB009=^l幽光战锤
-tagWeaponMelee2hB010=^l执政官的战锤
+tagWeaponMelee2hB006=阿卡莫斯之镰
+tagWeaponMelee2hB007=幽光战斧
+tagWeaponMelee2hB008=阿卡莫斯战争之剑
+tagWeaponMelee2hB009=幽光战锤
+tagWeaponMelee2hB010=执政官的战锤
 tagWeaponMelee2hB011=黑曜石断头斧
-tagWeaponMelee2hB012=^l黑曜石切肉斧
+tagWeaponMelee2hB012=黑曜石切肉斧
 tagWeaponMelee2hB013=海威尔的巨剑
 
 tagWeaponMelee2hC001=残暴开膛者
@@ -473,12 +473,12 @@ tagWeaponCaster1hB005=专家级权杖
 tagWeaponCaster1hB006=大师级权杖
 tagWeaponCaster1hB007=巫师的魔刃
 tagWeaponCaster1hB008=骨刀
-tagWeaponCaster1hB009=^l骨刺
+tagWeaponCaster1hB009=骨刺
 tagWeaponCaster1hB010=裂隙之灾利爪
-tagWeaponCaster1hB011=^l裂隙之灾切刀
+tagWeaponCaster1hB011=裂隙之灾切刀
 tagWeaponCaster1hB012=血誓魔杖
-tagWeaponCaster1hB013=^l血誓权杖
-tagWeaponCaster1hB014=^l洛克西莫的霜冻之刃
+tagWeaponCaster1hB013=血誓权杖
+tagWeaponCaster1hB014=洛克西莫的霜冻之刃
 tagWeaponCaster1hB015=蛇人之喙
 
 tagWeaponCaster1hC001=怒火焚身
@@ -578,18 +578,18 @@ tagShieldA010=鸢盾
 
 tagShieldB001=典狱长的壁垒
 tagShieldB001Desc="用硬化钢和无情的恨意锻造而成。"
-tagShieldB002=^l典狱长的堡垒
+tagShieldB002=典狱长的堡垒
 tagShieldB003=幽光盾
-tagShieldB004=^l幽光战盾
+tagShieldB004=幽光战盾
 tagShieldB005=军用盾
 tagShieldB006=攻城盾
 tagShieldB007=君权盾
 tagShieldB008=穴居人骨墙
-tagShieldB009=^l吸血鬼骨墙
+tagShieldB009=吸血鬼骨墙
 tagShieldB010=黑曜石守护者
-tagShieldB011=^l黑曜石壁垒
+tagShieldB011=黑曜石壁垒
 tagShieldB012=扭曲血肉之盾
-tagShieldB013=^l扭曲血肉壁垒
+tagShieldB013=扭曲血肉壁垒
 tagShieldB014=伯纳德的轻咬圆盾
 
 tagShieldC001=恶魔十字防御者
@@ -666,9 +666,9 @@ tagFocusA011=原始雕像
 tagFocusA012=怪异雕像
 tagFocusA014=高阶雕像
 
-tagFocusB001=^l扎尔泽兰的手抄本
+tagFocusB001=扎尔泽兰的手抄本
 tagFocusB001Desc="这上面写满了各种为神灵献祭无信仰者的火焰邪术。"
-tagFocusB002=^l罗德拉西斯的宝典
+tagFocusB002=罗德拉西斯的宝典
 tagFocusB002Desc="这本书中那令人发狂，产生恨意的词句令你感到寒心彻骨。"
 tagFocusB003A=秘文档案
 tagFocusB003B=奥秘之角
@@ -677,22 +677,22 @@ tagFocusB004B=奥秘头骨
 tagFocusB005A=秘文宝典
 tagFocusB005B=奥秘雕像
 tagFocusB006=巫师的雕像
-tagFocusB007=^l脉动碎片
+tagFocusB007=脉动碎片
 tagFocusB008=血誓宝典
-tagFocusB009=^l血誓手抄本
+tagFocusB009=血誓手抄本
 tagFocusB010=格罗布剧毒神像
-tagFocusB011=^l格罗布剧毒雕像
+tagFocusB011=格罗布剧毒雕像
 tagFocusB011_Desc="格罗布古谚：两个缩小的头颅好过一个。"
 tagFocusB012=碎裂的雪人之角
-tagFocusB013=^l雪人之角
+tagFocusB013=雪人之角
 tagFocusB014=格罗布天之神像
-tagFocusB015=^l格罗布天之雕像
+tagFocusB015=格罗布天之雕像
 tagFocusB016=格罗布石之神像
-tagFocusB017=^l格罗布石之雕像
+tagFocusB017=格罗布石之雕像
 tagFocusB018=格罗布炎之神像
-tagFocusB019=^l格罗布炎之雕像
+tagFocusB019=格罗布炎之雕像
 tagFocusB020=格罗布死亡神像
-tagFocusB021=^l格罗布死亡雕像
+tagFocusB021=格罗布死亡雕像
 tagFocusB022=凝视者之眼
 tagFocusB023=监察者之眼
 tagFocusB023_Desc="这枚眼珠仍在你的手中扭动着。"
@@ -874,14 +874,11 @@ tagChest=胸甲
 tagFeet=靴子
 tagGloves=护手
 
-
 #QualityClass
 tagMagic=魔法
 tagRare=稀有
 tagEpic=史诗级
 tagLegend=传奇
-
-
 
 tagStyleUniqueTier2=强化的
 tagStyleUniqueTier3=神话的
@@ -923,20 +920,20 @@ tagHeadA014=宝冠
 tagHeadB001=烈火头盔
 tagHeadB002=烈火兜盔
 tagHeadB003=升灵头盔
-tagHeadB004=^l升灵兜盔
+tagHeadB004=升灵兜盔
 tagHeadB005=谋杀者的罩帽
-tagHeadB006=^l谋杀者的风帽
+tagHeadB006=谋杀者的风帽
 tagHeadB007=专家级兜帽
 tagHeadB008=游侠之盔
 tagHeadB009=专家级头环
 tagHeadB010=游侠之兜盔
 tagHeadB011=升灵头环
-tagHeadB012=^l升灵权冠
+tagHeadB012=升灵权冠
 tagHeadB013=奇型头盔
-tagHeadB014=^l奇型兜盔
+tagHeadB014=奇型兜盔
 tagHeadB015=幽光王冠
 tagHeadB015Desc="强大的死亡能量使这顶王冠在人世中得以显形。"
-tagHeadB016=^l米尔顿的头盔
+tagHeadB016=米尔顿的头盔
 tagHeadB016Desc="头盔每多一道刻痕便代表他又干掉了一个被占据者。"
 
 tagHeadC001=风暴召唤者的头环
@@ -1016,6 +1013,7 @@ tagHeadD027=炼狱骑士的面甲
 tagHeadD028=战争降生面甲
 tagHeadD029=血怒者的兜帽
 
+
 tagHeadF001=放逐者的兜帽
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
 tagHeadF002=恶魔的头巾
@@ -1041,30 +1039,30 @@ tagShoulderA005=肩胄
 tagShoulderA006=肩铠
 
 tagShoulderB001=烈火肩甲
-tagShoulderB002=^l烈火肩胄
+tagShoulderB002=烈火肩胄
 tagShoulderB003=升灵肩甲
-tagShoulderB004=^l升灵肩胄
+tagShoulderB004=升灵肩胄
 tagShoulderB005=谋杀者肩甲
-tagShoulderB006=^l谋杀者肩饰
+tagShoulderB006=谋杀者肩饰
 tagShoulderB007=艾萨克的肩甲
 tagShoulderB008=幽魂披肩
-tagShoulderB009=^l幽魂肩饰
+tagShoulderB009=幽魂肩饰
 tagShoulderB010=升灵披肩
-tagShoulderB011=^l升灵肩饰
+tagShoulderB011=升灵肩饰
 tagShoulderB012=奇型肩甲
-tagShoulderB013=^l奇型肩铠
+tagShoulderB013=奇型肩铠
 tagShoulderB014=沃达兰的披风
-tagShoulderB015=^l沃达兰的护肩
+tagShoulderB015=沃达兰的护肩
 tagShoulderB016=本·扎尔的护肩
-tagShoulderB017=^l本·扎尔的肩铠
+tagShoulderB017=本·扎尔的肩铠
 tagShoulderB018=莫斯劳克的护肩
-tagShoulderB019=^l莫斯劳克的肩铠
+tagShoulderB019=莫斯劳克的肩铠
 tagShoulderB020=钢铁女武神的披风
-tagShoulderB021=^l钢铁女武神的护肩
+tagShoulderB021=钢铁女武神的护肩
 tagShoulderB022=赞塔兰的斗篷
-tagShoulderB023=^l赞塔兰的护肩
+tagShoulderB023=赞塔兰的护肩
 tagShoulderB024=费比乌斯护肩
-tagShoulderB025=^l费比乌斯的肩铠
+tagShoulderB025=费比乌斯的肩铠
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -1170,18 +1168,18 @@ tagTorsoA016C=服饰
 tagTorsoA017C=长袍
 
 tagTorsoB001=谋杀者的护身甲
-tagTorsoB002=^l谋杀者的胸甲
+tagTorsoB002=谋杀者的胸甲
 tagTorsoB003=强化紧身衣
 tagTorsoB004=
 tagTorsoB005=
 tagTorsoB006=幽魂长袍
-tagTorsoB007=^l幽魂战衣
+tagTorsoB007=幽魂战衣
 tagTorsoB008=升灵长袍
-tagTorsoB009=^l升灵战衣
+tagTorsoB009=升灵战衣
 tagTorsoB010=奇型长袍
-tagTorsoB011=^l奇型战衣
+tagTorsoB011=奇型战衣
 tagTorsoB012=血誓长袍
-tagTorsoB013=^l血誓战衣
+tagTorsoB013=血誓战衣
 
 tagTorsoC001=
 tagTorsoC002=暗夜猎人护胸
@@ -1478,19 +1476,9 @@ tagLegsD010=宁静思绪裹腿
 tagLegsD011=巴尔巴罗斯的马裤
 tagLegsD011Desc="巴尔巴罗斯是黑色军团的一名传奇斗士，死在了战场之上。他周围散落了大量被砍杀得面目全非的人和马的尸体。"
 tagLegsD012=风暴牢笼护腿
-tagLegsD013=异常宏伟长裤
-tagLegsD013Desc="实际上，它们只是凑合罢了。"
+tagLegsD013=非常漂亮的裤子
+tagLegsD013Desc="实际上，这裤子穿上去只是稀松平常。"
 tagLegsD014=野性掠夺护腿
-
-tagLegsD002=骨织长裤
-tagLegsD003=死亡轻语长裤
-tagLegsD004=地狱熔锻长裤
-tagLegsD004Desc="它在地狱犬的烈焰吐息中被锻造而成。"
-tagLegsD005=织法者裹腿
-tagLegsD005Desc="大量的咒语与颇具威力的真言如丝线般织成了这件护腿。"
-tagLegsD006=正义护腿
-tagLegsD007=野兽召唤者的长裤
-tagLegsD008=大法师的长裤
 
 
 #ArmorFeet鞋子
@@ -1569,15 +1557,15 @@ tagRingA016=帝国玺戒
 
 tagRingB001=里丹的纪念戒指
 tagRingB001Desc="这枚指环上磨损的刻文写着：爱你的-艾米莉亚。"
-tagRingB002=^l克隆利的印玺
+tagRingB002=克隆利的印玺
 tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
 tagRingB003=斯金纳的家传印戒
 tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
-tagRingB004=^l咕噜斯的戒指
+tagRingB004=咕噜斯的戒指
 tagRingB004Desc="宝贝，我们的宝贝！"
 tagRingB005=血誓玺戒
 tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
-tagRingB006=^l维洛斯之戒
+tagRingB006=维洛斯之戒
 tagRingB006Desc="一枚天然形成的珠宝。很奇怪蛇人会使用这么一件东西。"
 
 tagRingC001=骨髓戒指
@@ -1683,10 +1671,10 @@ tagNecklaceA014=帝国项链
 tagNecklaceA015=黑曜石护符
 tagNecklaceA016=帝国坠饰
 
-tagNecklaceB001=^l腐臭项链
+tagNecklaceB001=腐臭项链
 tagNecklaceB001Desc="这枚头骨外包着一层腐臭的黏液。"
-tagNecklaceB002=^l死亡守望者坠饰
-tagNecklaceB003=^l艾莱娜的项链
+tagNecklaceB002=死亡守望者坠饰
+tagNecklaceB003=艾莱娜的项链
 tagNecklaceB003Desc="曾属于第一只蛇人艾莱娜的战利品。"
 
 tagNecklaceC001=风目之链
@@ -1794,9 +1782,9 @@ tagMedalA007=帝国星章
 
 tagMedalB001=游骑兵绶带
 tagMedalB002=游骑兵徽章
-tagMedalB003=^l伊克里克斯的鳞片
-tagMedalB004=^l凯蒙的徽章
-tagMedalB005=^l血誓魔印
+tagMedalB003=伊克里克斯的鳞片
+tagMedalB004=凯蒙的徽章
+tagMedalB005=血誓魔印
 
 tagMedalC001=野兽屠杀者徽记
 tagMedalC002=坚韧徽章
@@ -4132,7 +4120,6 @@ tagChestHeroD04={^I}宏伟的宝箱
 tagChestHeroD04_Dropped={^I}宏伟的战利品
 tagChestHeroD05={^E}华丽的宝箱
 tagChestHeroD06={^I}卓越的宝箱
-
 tagChestHeroD07={^Y}黑曜石集簇
 tagChestHeroD08={^I}黑曜石宝藏
 tagChestHeroD09={^I}黑曜石财宝

@@ -1298,6 +1298,8 @@ ExperienceDisplayFormat=当前经验值:{^y}{%d0}{^w} ~ 距离下一级还需要
 
 tagExpDisplayFormat=当前经验值:{^y}{%t0}{^w} ~ 距离下一级还需要:{^y}{%t1}点经验值
 
+tagCharPointsSpent=已使用属性点数:
+
 tagCharAttribute01={%+.0f0} {^E}敏捷
 tagCharAttribute02={%+.0f0} {^E}力量
 tagCharAttribute03={%+.0f0} {^E}智力
@@ -1775,7 +1777,6 @@ DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}冻结持续时间
 DamageModifierPetrify={%+.0f0}% {^E}石化持续时间
 DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化持续时间
 
-
 DamageDurationModifierPhysical={%+.0f0}% {^E}创伤伤害
 DamageDurationModifierBleeding={%+.0f0}% {^E}流血伤害
 DamageDurationModifierCold={%+.0f0}% {^E}霜燃伤害
@@ -2014,7 +2015,6 @@ tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberSingle={^E}最多影响 {^H}{%d0} {^E}个目标
-
 tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
 tagSparkMaxNumberMod=至多影响 {^H}{%d0} {^E} 个目标
 
@@ -2098,6 +2098,7 @@ tagEmptyHotSlot=清空此快捷栏按钮。
 tagDevotionUnassigned=无技能
 
 #Stack Window
+
 tagStackOk=确定
 tagStackCancel=取消
 
@@ -2168,7 +2169,5 @@ tagChatCommandShort03=r
 tagChatCommandShort04=t
 tagChatCommandShort05=m
 tagChatCommandShort06=u
-
-
 
 

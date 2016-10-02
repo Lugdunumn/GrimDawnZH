@@ -2850,8 +2850,10 @@ tagEnemySkillA08_Desc=亡灵的诅咒使你的骨骼产生强烈的疼痛，减�
 tagEnemySkillA09=暴怒之魂
 tagEnemySkillA09_Desc=一个暴怒的幽魂纠缠着你，在它扩散到邻近的受害者身上之前对你造成活力伤害。
 
+tagEnemySkillA10=骨牢
 tagEnemySkillA10_Desc=骷髅傀儡用骨牢困住了你，吸取你的生命力。
 
+tagEnemySkillA11=黑曜石陷阱
 tagEnemySkillA11_Desc=黑曜石亵渎者用黑曜石牢笼困住了你，吸取你的生命力。
 
 tagEnemySkillA12=黑曜石陷阱

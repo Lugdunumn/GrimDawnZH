@@ -171,6 +171,7 @@ tagWeaponAxeB003=^l竞技场主之斧
 tagWeaponAxeB004=切骨斧
 tagWeaponAxeB005=^l骨镰
 tagWeaponAxeB006=奥尔曼的斧头
+tagWeaponAxeB007=虚化扭曲之斧
 
 tagWeaponAxeC001=残忍之锋
 tagWeaponAxeC002=夺魂者之触
@@ -508,6 +509,7 @@ tagWeaponCaster1hC019=风暴罗网
 tagWeaponCaster1hC020=地狱纹章切刀
 tagWeaponCaster1hC021=寒冰降生咒刃
 tagWeaponCaster1hC022=圣契的血匕首
+tagWeaponCaster1hC023=奥尔德里奇的权杖
 
 tagWeaponCaster1hD001=纯净之触
 tagWeaponCaster1hD001Desc="古老的传说中有一个披着斗篷的人形生物，他周游世界并净化疾病、治愈伤痛，从不要求回报和任何形式的感谢。"
@@ -532,6 +534,8 @@ tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
 tagWeaponCaster1hD018=黑炎剑
+tagWeaponCaster1hD019=奥尔德里奇的诏书
+tagWeaponCaster1hD019Desc="在下达他人生中最后一道诏令之后，冯·奥尔德里奇将整座城市葬送在了恐怖黎明之中。"
 
 tagWeaponCaster1hF001=军团唤火者
 tagWeaponCaster1hF002=军团虚化火花
@@ -1295,6 +1299,9 @@ tagWaistB003=征战者腰带
 tagWaistB004=火焰系带
 tagWaistB005=寒霜卫士束腰
 tagWaistB006=灵骨护腰
+tagWaistB007=伊格拉德的腰链
+tagWaistB008=奥达斯的腰链
+tagWaistB009=布兰迪斯的腰链
 
 tagWaistC001=奥德纳的稳定装置
 tagWaistC002=弗莱兹克的实用腰包

@@ -1938,6 +1938,7 @@ DefenseAetherModifier={^E}总虚化抗性加成 {^H}{%.0f0}%
 DefenseStunModifier={^E}总眩晕抗性加成 {^H}{%.0f0}%
 DefenseBlockModifier={%+.0f0}% {^E}盾牌格挡几率
 DefenseBlockAmountModifier={%+.0f0}% {^E}盾牌格挡值
+DefenseReflectModifier={%+.0f0}% {^E}伤害反弹
 DefenseLifeLeachModifier={^E}总生命吸取抗性加成 {^H}{%.0f0}%
 DefenseManaLeachModifier={^E}总能量吸取抗性加成 {^H}{%.0f0}%
 DefensePercentLifeModifier={^E}生命值百分比减少抗性提高 {^H}{%.0f0}%

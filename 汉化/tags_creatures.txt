@@ -1085,7 +1085,7 @@ tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
 tagBossLoghorreanTentacleCluster=触手集簇
 
 tagAetherialRoguelikeBoss01=病瘟的嘉仁
-tagAetherialRoguelikeBoss02=君主 范·奥尔德里奇
+tagAetherialRoguelikeBoss02=君主 冯·奥尔德里奇
 tagAetherialRoguelikeBoss03=议员哈罗斯
 tagAetherialRoguelikeBoss04=议员加若
 tagAetherialRoguelikeBoss05=监察者伊格拉德

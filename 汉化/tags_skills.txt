@@ -500,7 +500,7 @@ tagClass05SkillDescription02B=向元素转换魔法中注入过量的奥术力�
 tagClass05SkillName02C=元素平衡 
 tagClass05SkillDescription02C=元素转换魔法臻至一种绝妙的平衡之境，狂野的闪电元素与截然相反的冰火元素和谐共处。
 tagClass05SkillName02D=化身 
-tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们的一些力量转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。^o技能效果也会延伸至队友身上。
+tagClass05SkillDescription02D=奥术能量有多种展现形式。钻研召唤术的奥术师们常常把他们对奥术的掌握转移到忠诚的追随者身上，这样就能更好地侍奉它们的主人。^o技能效果也会延伸至队友身上。
 
 tagClass05SkillName03A=特洛赞的天之裂片 
 tagClass05SkillDescription03A=神话中的特洛赞是位天性自由，桀骜不驯的人物，他不愿服从帝国奥术师们的教条。当帝国最终在他山顶上的居所包围他的时候，他使用了一种从未见过的法术撕裂天空，借以羞辱他们。^o在目标区域降下3块天之裂片。
@@ -2050,14 +2050,16 @@ tagItemSkillD239Desc=一片邪火爆发在你的敌人脚下。
 tagItemSkillD240Name=癫狂女王的撕咬
 tagItemSkillD240Desc=疯狂地对附近敌人进行猛击，无比娴熟的驾驭你的刀剑。
 
-tagItemSkillD241Name=恶毒尖刺
-tagItemSkillD241Desc=释放一阵暴雨般的毒素尖刺。
+tagItemSkillD241Name=地震
+tagItemSkillD241Desc=在敌人脚下撕裂出一道沟壑，减慢并且眩晕所有困于其中的敌人。
 
 tagItemSkillD242Name=毒素激发
 tagItemSkillD242Desc=一种能揭示隐藏弱点并注入血肉的毒素。
 
 tagItemSkillD243Name=仪式之环
 tagItemSkillD243Desc=召唤一个仪式之环来增强你的法术威力，并且当你站在圆环内时会减少所受到的物理伤害。
+tagItemSkillD243NamePetSkill=增强仪式
+tagItemSkillD243DescPetSkill=身处仪式之环中会增强你的法术并且保护你免受物理伤害。
 
 tagItemSkillD244Name=风暴裂片
 tagItemSkillD244Desc=在目标地点召唤一枚充满风暴之力的水晶来震击附近的敌人。 ^o风暴裂片随着玩家的伤害而增强。
@@ -2067,6 +2069,7 @@ tagItemSkillD245Desc=从敌人脚下召唤出地狱烈焰。
 
 tagItemSkillD246Name=阿格里维斯的契约
 tagItemSkillD246Desc=向敌人释放一只充满奥术能量的精灵。 ^o奥术精灵会随着玩家伤害增强。
+tagItemSkillD246NamePetSkill=奥术震荡
 
 tagItemSkillD247Name=战争之子
 tagItemSkillD247Desc=你为战斗而生，并因之茁壮成长。
@@ -2077,8 +2080,12 @@ tagItemSkillD248Desc=杀死一名敌人会让你进入暴怒状态，你将变�
 tagItemSkillD249Name=奥术毁灭
 tagItemSkillD249Desc=撕裂一道奥术领域与现实世界间的细微裂缝并降下奥术灰烬。
 
-tagItemSkillD250Name=血溅
+tagItemSkillD250Name=血花飞溅
 tagItemSkillD250Desc=用极其血腥的方式撕裂附近敌人。
+
+tagItemSkillD251Name=黑色标记
+tagItemSkillD251Desc=苍白之神的标记使你的敌人陷入极度痛苦之中。
+
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Failalittleharder.

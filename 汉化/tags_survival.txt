@@ -68,12 +68,6 @@ tagItem_ChestN01={^M}神之珍藏
 
 tagItem_ChestStart=堕落战士
 
-#Arenas
-tagSurvivalArena_01=死亡残忍试炼
-tagSurvivalArena_02=深渊残忍试炼
-tagSurvivalArena_03=沙地残忍试炼
-tagSurvivalArena_04=丛林残忍试炼
-
 #NPCs
 tagNPC_Event_01=罗卡，试炼场主宰
 tagNPC_DefenseSite_01=防御工事
@@ -108,8 +102,8 @@ tagNotification_Failure=你失败了，去藏宝室领取你的奖励吧。
 tagNotification_Reward=你的奖励已放置于藏宝室中了。
 tagNotification_Reset=（可选）与试炼大师对话来重置试炼并重新开始
 
-tagNotification_Checkpoint05=你现在可以在这场试炼中从50关继续挑战
-tagNotification_Checkpoint10=你现在可以在这场试炼中从100关继续挑战
+tagNotification_Checkpoint05=你现在可以从50关继续挑战试炼。
+tagNotification_Checkpoint10=你现在可以从100关继续挑战试炼。
 
 
 #Mutators

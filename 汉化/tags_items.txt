@@ -79,6 +79,7 @@ tagWeaponSwordD010Desc="一些字母被刻入了刀柄之中：D.T."
 tagWeaponSwordD011=掠夺者之爪
 tagWeaponSwordD012=癫狂女王之爪
 tagWeaponSwordD012Desc="和同类分开，被困于城墙之下，革翅目虫后慢慢变得疯狂。"
+tagWeaponSwordD013=毒刃剃刀
 
 tagWeaponSwordF001=军团切刀
 tagWeaponSwordF002=神选之剑
@@ -144,6 +145,8 @@ tagWeaponBluntD003=痛苦
 tagWeaponBluntD004=炽热末日先驱
 tagWeaponBluntD005=德里格的瘟疫使者
 tagWeaponBluntD006=破晓者的巨锤
+tagWeaponBluntD007=毒刃之拳
+tagWeaponBluntD008=战争降生之槌
 
 tagWeaponBluntF001=恶魔的压碎者
 tagWeaponBluntF002=军团战锤
@@ -528,6 +531,7 @@ tagWeaponCaster1hD014=蛇怪之爪
 tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
+tagWeaponCaster1hD018=黑炎剑
 
 tagWeaponCaster1hF001=军团唤火者
 tagWeaponCaster1hF002=军团虚化火花
@@ -732,6 +736,8 @@ tagFocusD012=阿格维克斯的法器
 tagFocusD012Desc="伟大的奥术师阿格维克斯以向他的法器灌注过量的能量而闻名，但是对力量的渴望使他认为自己就是世界的主宰并走上了一条毁灭之路。阿格维克斯最终在审判官手中迎来了末日，但他的一些法器却遗留了下来。"
 tagFocusD013=祈愿者的闪耀之焰
 tagFocusD014=伊斯坎德拉的文本
+tagFocusD015=黑炎法珠
+tagFocusD016=阿格维克斯的宝典
 
 tagFocusF001=收割者的宝典
 tagFocusF002=收割者的账簿
@@ -999,6 +1005,12 @@ tagHeadD022=邪术凝视
 tagHeadD022Desc="这顶头盔私语着你难以理解的话语。"
 tagHeadD023=三巫神之契约
 tagHeadD023Desc="建立在三巫神和他们的追随者之间，以三巫神之力强化过的契约。用以抵御共同的敌人。"
+tagHeadD024=毒刃兜帽
+tagHeadD025=黑炎之面
+tagHeadD026=光明卫士之盔
+tagHeadD027=炼狱骑士的面甲
+tagHeadD028=战争降生面甲
+tagHeadD029=血怒者的兜帽
 
 tagHeadF001=放逐者的兜帽
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
@@ -1102,6 +1114,12 @@ tagShoulderD019=尤尔托斯的肩甲
 tagShoulderD020=莫格卓根的斗篷
 tagShoulderD020Desc="莫格卓根的化身所穿的斗篷。"
 tagShoulderD021=特洛赞的斗篷
+tagShoulderD022=黑炎披风
+tagShoulderD023=光明卫士的臂章
+tagShoulderD024=炼狱骑士的护肩
+tagShoulderD025=阿格维克斯的披风
+tagShoulderD026=战争降生护肩
+tagShoulderD027=血怒者的肩甲
 
 tagShoulderF001=放逐者的燃烧披肩
 tagShoulderF002=放逐者的寒霜披肩
@@ -1224,6 +1242,12 @@ tagTorsoD018=尤尔托斯的胸铠
 tagTorsoD019=寒霜恐惧胸甲
 tagTorsoD020=特洛赞的服饰
 tagTorsoD021=瓦尔登的夹克
+tagTorsoD022=毒刃隐衣
+tagTorsoD023=光明卫士的战甲
+tagTorsoD024=炼狱骑士的战甲
+tagTorsoD025=阿格维克斯的法袍
+tagTorsoD026=战争降生胸甲
+tagTorsoD027=血怒者之衣
 
 tagTorsoF001=放逐者的燃烧战衣
 tagTorsoF002=放逐者的严寒战衣
@@ -1319,6 +1343,7 @@ tagWaistD013Desc="破法者军团曾穿戴的腰带，他们是从曼海尔的�
 tagWaistD014=幽魂丝线束腰
 tagWaistD014Desc="借助不可名状的死灵法术，将受诅咒的灵魂纺成了线，从而编制成为这件束腰。"
 tagWaistD015=野性之血束腰
+tagWaistD016=炼狱骑士的腰带
 
 tagWaistF001=恶魔的束带
 tagWaistF002=恶魔的护腰
@@ -1391,6 +1416,7 @@ tagHandsD008=虚化之触
 tagHandsD009=巨像之握
 tagHandsD010=正义护手
 tagHandsD011=先驱者之握
+tagHandsD012=光明卫士的护手
 
 tagHandsF001=罗瓦里抓握护手
 tagHandsF002=罗瓦里护手
@@ -1735,6 +1761,8 @@ tagNecklaceD021=马尔科夫的荣誉勋章
 tagNecklaceD022=奥祖因之心
 tagNecklaceD023=山脉之心
 tagNecklaceD024=瓦尔登的慷慨
+tagNecklaceD025=阿格维克斯的奥术碎片
+tagNecklaceD026=血怒者之石
 
 tagNecklaceF001=罗瓦里守护石
 tagNecklaceF002=罗瓦里的怨恨
@@ -2056,6 +2084,12 @@ tagBlueprint_ArmorD019=设计图: 特洛赞的风帽
 tagBlueprint_ArmorD020=设计图: 瓦尔登的皮帽
 tagBlueprint_ArmorD021=设计图: 邪术凝视
 tagBlueprint_ArmorD022=设计图: 三巫神之契约
+tagBlueprint_ArmorD023=设计图: 毒刃兜帽
+tagBlueprint_ArmorD024=设计图: 黑炎之面
+tagBlueprint_ArmorD025=设计图: 光明卫士之盔
+tagBlueprint_ArmorD026=设计图: 炼狱骑士的面甲
+tagBlueprint_ArmorD027=设计图: 战争降生面甲
+tagBlueprint_ArmorD028=设计图: 血怒者的兜帽
 
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
@@ -3316,6 +3350,11 @@ tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭凯恩世
 tagCompAScrap=废铁
 tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
 
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}解锁 {%s0} 难度
+tagDifficultyAlreadyUnlocked=你已经解锁了该难度。
+tagDifficultyUnlockDLC=你未拥有与该物品关联的DLC。
+
 #ItemFactionBoosters
 
 tagFactionBooster={^E}获得{%s1}的声望提升{^H}{%d0}%
@@ -3592,6 +3631,26 @@ tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了
 tagItemSetD019Name=瓦尔登的背叛
 tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"
 
+tagItemSetD020Name=毒刃契约
+tagItemSetD020Desc="一群精于在武器上涂毒的夜刃穿着的护甲。"
+
+tagItemSetD021Name=黑炎圣约
+tagItemSetD021Desc="苍白之神的圣衣，他乃索拉尔之师，精于使用黑炎。"
+
+tagItemSetD022Name=光明卫士
+tagItemSetD022Desc="信仰的守护者，至高神之光的卫士。"
+
+tagItemSetD023Name=炼狱骑士
+tagItemSetD023Desc="高若斯·瓦尔的战甲，他便是黑色军团中闻名遐迩的炼狱骑士。"
+
+tagItemSetD024Name=阿格维克斯之怒
+tagItemSetD024Desc="阿格维克斯是位著名的奥术大师，但他力量的渴望最终导致了他的失败。"
+
+tagItemSetD025Name=战争降生战甲
+tagItemSetD025Desc="这套战甲铸造于战争之中，它比其他任何存世的圣物都经历过更多的纷争。"
+
+tagItemSetD026Name=血怒者的狂乱
+tagItemSetD026Desc="北方冰封荒原的野人部落，血怒者所穿的护甲。"
 
 #Prefixes前缀
 
@@ -3920,7 +3979,7 @@ tagSuffixB029_Ar_A=邪刺之
 tagSuffixB030_Ar_A=屠杀之
 tagSuffixB031_Ar_A=符咒之
 tagSuffixB032_Ar_A=洞察之
-tagSuffixB033_Ar_A=荒芜之
+tagSuffixB033_Ar_A=焚尽之
 tagSuffixB034_Ar_A=生存之
 tagSuffixB035_Ar_A=君王之
 tagSuffixB036_Ar_A=毁灭之

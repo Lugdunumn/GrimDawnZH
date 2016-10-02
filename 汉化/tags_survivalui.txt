@@ -5,10 +5,6 @@ tagSurvivalMode_Desc="进入残酷试炼，一个用无尽波数敌人来考验�
 tagSurvivalDeath=你已经死了，但你的盟友们仍在作战。如果他们通过了，你将会在战斗末尾复活。
 tagSurvivalLastDeath=你的团队失败了。
 
-tagGameSDifficultySetting01=好斗者难度
-tagGameSDifficultySetting02=挑战者难度
-tagGameSDifficultySetting03=角斗者难度
-
 #Achievements
 achGroupSurvival=残酷试炼
 

@@ -47,7 +47,7 @@ tagSkillClassName0809=
 
 tagSkillDevotion=星座信仰
 
-tagSkillClassDescription01=经过训练，帝国的士兵们既能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样得心应手。士兵最不擅长的是假装英勇无畏和领导别人。
+tagSkillClassDescription01=经过训练，帝国的士兵们能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。造成极致的伤害输出并非士兵所长，但其坚韧不拔的意志和领导能力足以弥补这一不足。
 
 tagSkillClassDescription02=身为帝国军队使用火药的大师，爆破者既是工程师，也是巫师。他们习惯使用一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人,不过他们也能熟练地使用近战武器。
 
@@ -2648,6 +2648,7 @@ tagDevotion_B30=艾尔洛，水域看守者
 tagDevotion_B30Desc=艾尔洛象征着水流的无尽循环以及无法阻挡的流动，使河流再生，轮流灌溉湖泊与海洋。
 tagDevotion_B31=收割者的镰刀
 tagDevotion_B31Desc=这杆长柄镰刀象征着馈赠和收获之时。在最热的月份里它会闪耀得最为明亮，为即将到来的秋之野猪让路。
+
 tagDevotion_C01=伊恩的沙漏
 tagDevotion_C01Desc=伊恩是时光守护者，是命运螺纹的主宰。人们的出生与死亡都由他掌控。他的标志就是沙漏。
 tagDevotion_C02=憎恶
@@ -2789,7 +2790,6 @@ tagDevotionEffectC14=暗影复生
 tagDevotionEffectC14Desc=将一名无名英雄复生来与你并肩作战。^o暗影复生受到玩家伤害影响。
 tagDevotionEffectC14_Pet01=暗影突袭
 tagDevotionEffectC14_Pet02=暗影刀锋
-
 
 #SkillsReallocator
 

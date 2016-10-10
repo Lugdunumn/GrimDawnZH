@@ -1066,7 +1066,7 @@ tagEnemyMogdrogenHorror=莫格卓根的荆棘石南
 #Boss&Quest
 
 tagQuestEnemyReanimator=死尸复生者~ 凯奥格
-tagQuestEnemyMiltonHart=弥尔顿·哈特
+tagQuestEnemyMiltonHart=米尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
 tagQuestBloodWagon=血腥战车

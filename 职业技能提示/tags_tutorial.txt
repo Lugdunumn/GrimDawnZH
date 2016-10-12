@@ -1,6 +1,6 @@
 #Loading Tips
 tagLoadingTip01={^g}小贴士: {^w}你可以通过在生命条左侧的战利品过滤按钮来根据品质（魔法及以上，稀有及以上等等）过滤战利品。
-tagLoadingTip02={^g}Tip: {^w}如果你找到了一座暂时无法修复的神龛，它的位置会在世界地图上显示出来。
+tagLoadingTip02={^g}小贴士: {^w}如果你找到了一座暂时无法修复的神龛，它的位置会在世界地图上显示出来。
 tagLoadingTip03={^g}小贴士: {^w}你可以在任何时候打开书典窗口来重新查阅指引教程，默认热键：H。
 tagLoadingTip04={^g}小贴士: {^w}显著低于你等级的敌人将不会提供经验值以及势力声望。
 tagLoadingTip05={^g}小贴士: {^w}记得往专精条中投入点数。它会提供帮助你生存与增强的核心属性。
@@ -49,7 +49,7 @@ tagTutorialTip14TextD=你会从宝箱以及怪物身上获得药水，但如果�
 
 tagTutorialTip15Title=等级
 tagTutorialTip15TextA=每次你的角色升级的时候，都会获得技能点和属性点。
-tagTutorialTip15TextB=属性点数可以用来提升你的敏捷，力量以及智力，每点可提升8点相应属性。
+tagTutorialTip15TextB=属性点数可以用来提升你的灵巧，体质以及精神，每点可提升8点相应属性。
 tagTutorialTip15TextC=技能点数可以用来提升专精等级，解锁新技能或提升已解锁的技能等级。
 tagTutorialTip15TextD=最初，每提升一级会获得3点技能点，但随着你力量的日趋强大，这个数字会逐渐降低为2并最终每级只有一点。
 tagTutorialTip15SubtitleA=分配点数

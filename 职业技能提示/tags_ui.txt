@@ -520,20 +520,20 @@ tagCharStatsTab1Name=主要
 tagCharStatsTab2Name=次要
 tagCharAttributeTitle=属性
 tagCharAttributeName01=灵巧
-tagCharAttributeName02=体质
+tagCharAttributeName02=体格
 tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提 高 物 理、穿 刺、流 血 和 创 伤 伤 害。敏 捷 也 会 提 高 你 的 近 战 和 远 程 攻 击 的 命 中 几 率 以 及 暴 击 几 率。
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧, 提高物理,穿刺,流血和创伤伤害. 敏捷也会提高你的近战和远程攻击的命中几率以及暴击几率. 
 
-tagCharAttributeDescription02=锻 炼 体 格 可 以 穿 上 更 重 的 装 备，并 能 灵 敏 地 躲 开 敌 人 的 攻 击。力 量 也 能 提 升 你 承 受 和 回 复 创 伤 的 能 力 以 及 降 低 被 暴 击 的 机 率。
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备, 并能灵敏地躲开敌人的攻击. 力量也能提升你承受和回复创伤的能力以及降低被暴击的机率. 
 
-tagCharAttributeDescription03=强 大 的 精 神 力 会 提 升 你 体 内 的 能 量 流 动，让 你 能 承 受 更 强 的 魔 法 装 备 所 带 来 的 精 神 负 担。智 力 也 会 增 强 你 的 魔 法 伤 害。
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动, 让你能承受更强的魔法装备所带来的精神负担. 智力也会增强你的魔法伤害. 
 
-tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害。
+tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害.
 
-tagCharAttributeDescription05=能 量 值 衡 量 你 承 受 魔 法 能 量 的 精 神 力。精 神 力 越 强，就 会 有 越 多 的 能 量 在 等 待 回 复 之 前 供 你 取 用。
+tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力. 精神力越强, 就会有越多的能量在等待回复之前供你取用. 
 
 tagCharBonusHealth=生命值加成:
 tagCharBonusHealthRegen=生命回复加成:
@@ -546,7 +546,7 @@ tagCharBonusMagicalDmg=魔法伤害加成:
 tagCharBonusDurDmg=持续性伤害加成:
 
 tagCharAttributeIncrement01=每一点提升10点灵巧。
-tagCharAttributeIncrement02=每一点提升10点体质。
+tagCharAttributeIncrement02=每一点提升10点体格。
 tagCharAttributeIncrement03=每一点提升10点精神。
 tagCharAttributeIncrement04=每一点提升50点生命值。
 tagCharAttributeIncrement05=每一点提升10点能量值。
@@ -556,14 +556,14 @@ tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击:
 tagCharStatsOAHit=命中几率:
 tagCharStatsOACrit=暴击几率:
-tagCharStatsOADescription=攻 击 能 力 提 升 你 攻 击 和 法 术 的 命 中 几 率，暴 击 几 率 和 暴 击 伤 害。攻 击 能 力 低 于 敌 人 的 防 御 能 力 会 极 大 地 增 加 你 的 未 命 中 几 率。攻 击 能 力 受 技 能、物 品 和 敏 捷 影 响。
+tagCharStatsOADescription=攻击能力提升你攻击和法术的命中几率, 暴击几率和暴击伤害. 攻击能力低于敌人的防御能力会极大地增加你的未命中几率. 攻击能力受技能, 物品和敏捷影响. 
 
 tagCharStatsDAAlert=防御能力{^b}(?)
 tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自:
 tagCharStatsDAHit=被击中几率:
 tagCharStatsDACrit=被暴击几率:
-tagCharStatsDADescription=防 御 能 力 提 升 你 闪 避 敌 人 攻 击 的 几 率，降 低 受 到 暴 击 的 机 率 以 及 受 到 暴 击 时 的 伤 害。防 御 能 力 受 技 能、物 品 和 力 量 影 响。
+tagCharStatsDADescription=防御能力提升你闪避敌人攻击的几率, 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能, 物品和力量影响. 
 
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
@@ -620,14 +620,14 @@ tagCharHeaderMisc=杂项
 
 tagCharStatsDPSTitle=每秒伤害
 tagCharStatsDPS=每秒伤害{^b}(?)
-tagCharStatsDPSDescription=你 的 左 键 技 能 和 右 键 技 能 每 秒 对 单 一 目 标 造 成 的 平 均 伤 害，受 到 所 有 来 自 装 备 及 其 技 能 冷 却 时 间 和 加 成 的 影 响。敌 人 的 防 御 未 计 算 在 内。
-tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
-tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
+tagCharStatsDPSDescription=你的左键技能和右键技能每秒对单一目标造成的平均伤害, 受到所有来自装备及其技能冷却时间和加成的影响. 敌人的防御未计算在内. 
+tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细, 受到所有来自装备及其技能冷却时间和加成的影响. 敌人的防御未计算在内. 
+tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细, 受到所有来自装备及其技能冷却时间和加成的影响. 敌人的防御未计算在内. 
 
 tagCharStatsArmorTotalAlert=护甲等级{^b}(?)
 tagCharStatsAbsorption=护甲吸收
 tagCharStatsArmorTotal=护甲等级
-tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}从技能和非护甲部位获得的加成将增加至所有护甲栏位。
+tagCharStatsArmorTotalDescription=护甲等级越高, 受到的物理伤害就越少. {^n}{^n}从技能和非护甲部位获得的加成将增加至所有护甲栏位. 
 tagCharStatsHitArmor=击中几率
 tagCharStatsArmorUnprotected=无护甲
 tagCharStatsArmorNA=N/A
@@ -659,13 +659,13 @@ tagItemInsufficientStatus={^r}声望不足
 tagCharStatsRunSpeed=奔跑速度
 tagCharStatsRunSpeedInfo=人物相对于基础值的奔跑速度(包含整体速度)。
 tagCharStatsCritDmg=暴击伤害
-tagCharStatsCritDmgInfo=暴击伤害加成的百分比数。暴击的几率由你的攻击等级和目标的防御等级的差距决定。
+tagCharStatsCritDmgInfo=暴击伤害加成的百分比数. 暴击的几率由你的攻击等级和目标的防御等级的差距决定. 
 tagCharStatsLifeRegen=生命回复
-tagCharStatsLifeRegenInfo=战斗中生命回复速度。加成只影响从装备和技能获得的回复速度，不影响基于体质的基本回复速度。
+tagCharStatsLifeRegenInfo=战斗中生命回复速度. 加成只影响从装备和技能获得的回复速度, 不影响基于体格的基本回复速度. 
 tagCharStatsEnergyRegen=能量回复
-tagCharStatsEnergyRegenInfo=能量值回复速度。加成只影响从装备和技能获得的回复速度，不影响基于精神的基本回复速度。
+tagCharStatsEnergyRegenInfo=能量值回复速度. 加成只影响从装备和技能获得的回复速度, 不影响基于精神的基本回复速度. 
 tagCharStatsEnergyAbsorption=能量吸收
-tagCharStatsEnergyAbsorptionInfo=吸收敌人攻击和施法使用的能量为你所用的百分数。
+tagCharStatsEnergyAbsorptionInfo=吸收敌人攻击和施法使用的能量为你所用的百分数. 
 tagCharStatsConstitution=体力加成
 tagCharStatsConstitutionInfo=最大体力值额外加成的百分数。
 tagCharStatsExpGainedBonus=经验加成
@@ -689,52 +689,52 @@ tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外�
 
 #Physical物理
 tagCharStatsAttackSpeed=攻击速度
-tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速)。
+tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速). 
 tagCharStatsAvgDmg=武器伤害
-tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值，已含加成。
+tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值, 已含加成. 
 
 tagCharStatsPhysicalAbsDmg=物理伤害
-tagCharStatsPhysicalAbsDmgInfo=使用武器攻击每一击所造成的物理伤害，已含加成。
+tagCharStatsPhysicalAbsDmgInfo=使用武器攻击每一击所造成的物理伤害, 已含加成. 
 tagCharStatsPhysicalPercentDmg=物理伤害加成
-tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数。不含灵巧加成。
+tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数. 不含灵巧加成. 
 
 tagCharStatsPierceAbsDmg=穿刺伤害
-tagCharStatsPierceAbsDmgInfo=使用武器攻击每一击所造成的穿刺伤害，已含加成。
+tagCharStatsPierceAbsDmgInfo=使用武器攻击每一击所造成的穿刺伤害, 已含加成. 
 tagCharStatsPiercePercentDmg=穿刺伤害加成
-tagCharStatsPiercePercentDmgInfo=攻击和法术造成的穿刺伤害的额外加成的百分数。不含灵巧加成。
+tagCharStatsPiercePercentDmgInfo=攻击和法术造成的穿刺伤害的额外加成的百分数, 不含灵巧加成. 
 
 tagCharStatsBleedAbsDmg=流血伤害
-tagCharStatsBleedAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒流血伤害值，已含加成。
+tagCharStatsBleedAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒流血伤害值, 已含加成. 
 tagCharStatsBleedPercentDmg=流血伤害加成
-tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数。
+tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数. 
 tagCharStatsBleedDuration=流血效果持续时间
-tagCharStatsBleedDurationInfo=你的流血攻击持续时间的额外加成的百分数，每秒造成的伤害不会提高。
+tagCharStatsBleedDurationInfo=你的流血攻击持续时间的额外加成的百分数, 每秒造成的伤害不会提高. 
 
 tagCharStatsInternalTraumaAbsDmg=创伤伤害
-tagCharStatsInternalTraumaAbsDmgInfo=使用武器攻击每一击所造成的5秒内每秒创伤伤害值，已含加成。
+tagCharStatsInternalTraumaAbsDmgInfo=使用武器攻击每一击所造成的5秒内每秒创伤伤害值, 已含加成. 
 tagCharStatsInternalTraumaPercentDmg=创伤伤害加成
-tagCharStatsInternalTraumaPercentDmgInfo=攻击和法术造成的创伤伤害的额外加成的百分数。不含灵巧加成。
+tagCharStatsInternalTraumaPercentDmgInfo=攻击和法术造成的创伤伤害的额外加成的百分数. 不含灵巧加成. 
 tagCharStatsInternalTraumaDuration=创伤效果持续时间
-tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的额外加成的百分数，每秒造成的伤害不会提高。
+tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的额外加成的百分数, 每秒造成的伤害不会提高. 
 
 tagCharStatsDamageToHealth=生命窃取
 tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
 
 #Magical魔法
 tagCharStatsCastSpeed=施法速度
-tagCharStatsCastSpeedInfo=人物相对于基础值的施法速度(包含整体速度)。
+tagCharStatsCastSpeedInfo=人物相对于基础值的施法速度(包含整体速度). 
 
 tagCharStatsCooldownReduction=冷却时间缩短
-tagCharStatsCooldownReductionInfo=技能冷却时间缩短的百分数。
+tagCharStatsCooldownReductionInfo=技能冷却时间缩短的百分数. 
 
 tagCharStatsManaCostReduction=技能的能量消耗减少
-tagCharStatsManaCostReductionInfo=减少技能施放所消耗能量值的百分数。
+tagCharStatsManaCostReductionInfo=减少技能施放所消耗能量值的百分数. 
 
 tagCharStatsPercentHealthDamage=生命值百分比伤害
-tagCharStatsPercentHealthDamageInfo=基础攻击每一击所造成的计算当前生命值百分比的伤害，已含加成。
+tagCharStatsPercentHealthDamageInfo=基础攻击每一击所造成的计算当前生命值百分比的伤害, 已含加成. 
 
 tagCharStatsFireAbsDmg=火焰伤害
-tagCharStatsFireAbsDmgInfo=使用武器攻击每一击造成的火焰伤害，已含加成。
+tagCharStatsFireAbsDmgInfo=使用武器攻击每一击造成的火焰伤害, 已含加成. 
 tagCharStatsFirePercentDmg=火焰伤害加成
 tagCharStatsFirePercentDmgInfo=攻击和法术造成的火焰伤害的额外加成的百分数。不含精神加成。
 
@@ -1042,15 +1042,15 @@ tagCPercentageValue={%.0f}%
 tagVendorTabArtifactA=手工艺制品
 tagVendorTabArtifactB=PLACEHOLDER
 tagVendorTab01A=近战武器
-tagVendorTab01B=从废弃的住宅中、死去很久的人以及将死之人的身上搜集来的各式各样作战武器。
+tagVendorTab01B=从废弃的住宅中, 死去很久的人以及将死之人的身上搜集来的各式各样作战武器. 
 tagVendorTab02A=远程武器
-tagVendorTab02B=从胡乱拼接而成的手枪到加装自动发射装置的老旧双手弩都有。
+tagVendorTab02B=从胡乱拼接而成的手枪, 到加装自动发射装置的老旧双手弩都有. 
 tagVendorTab03A=护甲
-tagVendorTab03B=由旧衣物和金属废料组装而成的护甲大全，有些甚至是古战场上遗留的盔甲拼成的。
+tagVendorTab03B=由旧衣物和金属废料组装而成的护甲大全, 有些甚至是古战场上遗留的盔甲拼成的. 
 tagVendorTab04A=饰品与消耗品
-tagVendorTab04B=古老的饰物和自制药水都在这儿。
+tagVendorTab04B=古老的饰物和自制药水都在这里了. 
 tagVendorTab05A=买回
-tagVendorTab05B=改变主意了？在商人这儿可以原价买回卖出的物品。一旦你离开，出售就成交了。
+tagVendorTab05B=改变主意了? 在商人这儿可以原价买回卖出的物品. 不过一旦你离开商人, 出售就成交了. 
 
 tagFactionVendorTab01A=友善
 tagFactionVendorTab01B=声望为友善时解锁的奖励
@@ -1062,7 +1062,7 @@ tagFactionVendorTab04A=崇敬
 tagFactionVendorTab04B=声望为崇敬时解锁的奖励
 
 tagVendorRolloverName=废品收集商人
-tagVendorRolloverDescription=这些商人向敢于离开人类据点出去冒险的人售卖搜集来的或是偷来的货物，利用人类的灾难来牟利。最好别打听这些货物的出处。
+tagVendorRolloverDescription=这些商人向敢于离开人类据点出去冒险的人售卖搜集来的, 或是偷来的货物, 他们利用人类的灾难来牟利. 最好别打听这些货物的出处. 
 
 MarketCostAffordable={^g}花费 {%d0}
 MarketCostTooExpensive={^r}花费 {%d0} ~ 铁币不足
@@ -1088,7 +1088,7 @@ Sold=已售出
 tagCrafting=合成
 tagInventorNamePlate=发明家
 tagCraftingComponentCount=这种材料的库存数量。
-tagCraftingComponentMissing=目前你的库存中没有这种材料。
+tagCraftingComponentMissing=目前你的库存中没有这种材料. 
 tagCraftingWindowTitle=发明家
 tagCraftingPanelA=装备改造
 tagCraftingPanelB=装备拆解
@@ -1097,8 +1097,8 @@ tagCraftingBlueprint=设计图
 tagCraftingComponent=镶嵌物
 tagCraftingComponentRequired=原材料:
 tagCraftingCombine=组合
-tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备。
-tagCraftingBlueprintInfo=铁匠可以基于设计图使用各种各样废弃的材料合成更高级的物品。
+tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备. 
+tagCraftingBlueprintInfo=铁匠可以基于设计图使用各种各样废弃的材料合成更高级的物品. 
 tagCraftingDeviceCost=铁币费用:{%t0}
 tagCraftingCreate=合成品:
 tagCraftingLearn=[右键学习]
@@ -1113,15 +1113,15 @@ tagCraftingItemType02= ~ 完整补给品
 tagCraftingItemType03= ~ 卷轴
 tagCraftingItemType04= ~ 装备
 
-tagCraftingButtonInfo=合成放置在锻造窗口的物品。该按钮会在添加所有需要的材料后高亮显示。
+tagCraftingButtonInfo=合成放置在锻造窗口的物品. 该按钮会在添加所有需要的材料后高亮显示. 
 tagCraftingConfirmation=你确定要进行合成吗？
 
 tagCraftingDetatchmentInfo=
 
-tagCraftingProductBoxInfo=一旦所需材料均已就位，要锻造的物品就会在这里出现。
-tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品。
+tagCraftingProductBoxInfo=一旦所需材料均已就位, 要锻造的物品就会在这里出现. 
+tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品. 
 
-tagCraftingInsterComponent=把设计图特定的部件放入到这些空位中。
+tagCraftingInsterComponent=把设计图特定的部件放入到这些空位中. 
 
 #Subheadings
 
@@ -1156,27 +1156,27 @@ tagCraftingRelicsTier02=卓越圣物
 tagCraftingRelicsTier03=神话圣物
 
 tagDividerTab01=拆分
-tagDividerRoll01=拆 分 装 置 用 来 从 物 品 上 分 离 镶 嵌 物 和 增 幅 物。不 过，拆 分 工 序 的 不 完 善 会 摧 毁 物 品 或 镶 嵌 物 中 的 一 个，但 你 可 以 做 出 选 择。{^n}{^n}如 果 你 拆 分 了 该 物 品，物 品 上 的 增 幅 物 就 会 被 移 除。如 果 一 个 灵 魂 绑 定 的 增 幅 物 用 这 种 方 法 移 除，而 且 物 品 的 初 始 状 态 不 是 灵 魂 绑 定 的 话，那 么 灵 魂 绑 定 状 态 也 将 会 解 除。
+tagDividerRoll01=拆分装置用来从物品上分离镶嵌物和增幅物. 不过, 拆分工序的不完善会摧毁物品或镶嵌物中的一个, 但你可以做出选择. {^n}{^n}如果你拆分了该物品, 物品上的增幅物就会被移除. 如果一个灵魂绑定的增幅物用这种方法移除, 而且物品的初始状态不是灵魂绑定的话, 那么灵魂绑定状态也将会解除. 
 
 tagDividerTab02=销毁
-tagDividerRoll02=销毁装置被用来拆解强力的物品以得到其基本的部分。
-tagDividerRoll02B=销 毁 装 置 用 来 拆 解 强 力 的 物 品 以 得 到 其 基 本 的 部 分，在 销 毁 过 程 中 需 要 大 量 的 能 量，所 以 睿 智 的 发 明 家 使 用 火 药 来 完 成 这 个 过 程。
+tagDividerRoll02=销毁装置被用来拆解强力的物品以得到其基本的部分.  
+tagDividerRoll02B=销毁装置用来拆解强力的物品以得到其基本的部分,  在销毁过程中需要大量的能量,  所以睿智的发明家使用火药来完成这个过程. 
 
 tagDividingButtonKeepItem=保留物品
-tagDividingBoxInfo=将带有镶嵌物或增幅物的物品放入拆分装置。
+tagDividingBoxInfo=将带有镶嵌物或增幅物的物品放入拆分装置. 
 tagDividingButtonKeepComponent=保留镶嵌物
 tagDividingButtonRemoveAugment=移除增幅物
 tagDividingKeepItemWarning=选择回收物品将会摧毁镶嵌物和移除增幅物。
 tagDividingKeepComponentWarning=选择回收镶嵌物将会摧毁物品和增幅物。
-tagDividingRemoveAugmentWarning=移除增幅物将会摧毁该增幅物，任何由增幅物附加的灵魂绑定属性也会被移除掉。
+tagDividingRemoveAugmentWarning=移除增幅物将会摧毁该增幅物, 任何由增幅物附加的灵魂绑定属性也会被移除掉. 
 tagDividingCost=回收花费:
 
 tagDismantleDynamiteTotal=炸药总数:
 tagDismantleCost=拆解消耗:
 tagDismantleButton=选择拆解会彻底摧毁该物品。
-tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
-tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留镶嵌物，继续？
-tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
+tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品, 继续? 
+tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留镶嵌物, 继续? 
+tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台. 
 
 #Shrine
 
@@ -1203,10 +1203,10 @@ tagCaravanCost=花费:{%d0}
 tagCaravanRefund=退还:{%d0}
 tagCaravanExpand=扩展仓库
 tagCaravanItemStorage=仓库
-tagStorageInfo01=仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
+tagStorageInfo01=仓库是你的物品栏的延伸. 右键或者拖放来在仓库和物品栏之间存取物品. 存储的物品在游戏中每个走私者那里都能取用. 
 tagTransferCost=转移花费:{%d0}
-tagTransferAdd=你确定要将该物品放入共享存储中？
-tagTransferInfo01=使用走私者来给其他人物转移物品。只需要把物品丢进去，你的所有角色就都能取用了。
+tagTransferAdd=你确定要将该物品放入共享存储中? 
+tagTransferInfo01=使用走私者来给其他人物转移物品. 只需要把物品丢进去, 你的所有角色就都能取用了. 
 tagCaravanItemTransfer=共享仓库
 tagTransferInfo02=将物品放入共享仓库让你的所有人物都能使用。
 tagCaravanError01=你没有足够的铁币来转移这件物品。
@@ -1301,7 +1301,7 @@ tagExpDisplayFormat=当前经验值:{^y}{%t0}{^w} ~ 距离下一级还需要:{^y
 tagCharPointsSpent=已使用属性点数:
 
 tagCharAttribute01={%+.0f0} {^E}灵巧
-tagCharAttribute02={%+.0f0} {^E}体质
+tagCharAttribute02={%+.0f0} {^E}体格
 tagCharAttribute03={%+.0f0} {^E}精神
 tagCharAttribute04={%+.0f0} {^E}生命
 tagCharAttribute05={%+.0f0} {^E}能量
@@ -1310,7 +1310,7 @@ tagCharLifeRegen={^E}每秒生命回复 {^H}{%+.1f0}
 tagCharManaRegen={^E}每秒能量回复 {^H}{%+.1f0} 
 
 tagCharAttribute01Modifier={%+.0f0}% {^E}灵巧
-tagCharAttribute02Modifier={%+.0f0}% {^E}体质
+tagCharAttribute02Modifier={%+.0f0}% {^E}体格
 tagCharAttribute03Modifier={%+.0f0}% {^E}精神
 tagCharAttribute04Modifier={%+.0f0}% {^E}生命
 tagCharAttribute05Modifier={%+.0f0}% {^E}能量
@@ -1332,14 +1332,14 @@ tagCharSpellCastSpeedModifier={%+.0f0}% {^E}施法速度
 tagCharAttackSpeedModifier={%+.0f0}% {^E}攻击速度
 
 tagCharAttribute01R={%+.0f0}-{%.0f1} {^E}灵巧
-tagCharAttribute02R={%+.0f0}-{%.0f1} {^E}体质
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^E}体格
 tagCharAttribute03R={%+.0f0}-{%.0f1} {^E}精神
 tagCharAttribute04R={%+.0f0}-{%.0f1} {^E}生命
 tagCharAttribute05R={%+.0f0}-{%.0f1} {^E}能量
 tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}每秒生命回复
 tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}每秒能量回复
 tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^E}灵巧
-tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^E}体质
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^E}体格
 tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^E}精神
 tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^E}生命
 tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^E}能量
@@ -1368,29 +1368,29 @@ tagCharIncreasedExperienceR={^E}经验获取提升 {^H}{%+.0f0}-{%.0f1}%
 tagCharLightRadiusR={^E}光照范围提升 {^H}{%+.0f0}-{%.0f1}%
 tagCharItemGlobalReductionR={^E}装备物品所需属性减少 {^H}{%.0f0}-{%.0f1}%
 tagCharLevelReqReductionR={^E}装备物品所需等级 {^H}-({%.0f0}-{%.0f1})
-tagCharArmorStrengthReqReductionR={^E}装备护甲所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharArmorStrengthReqReductionR={^E}装备护甲所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharArmorDexterityReqReductionR={^E}装备护甲所需灵巧 {^H}-({%.0f0}--{%.0f1}%)
 tagCharArmorIntelligenceReqReductionR={^E}装备护甲所需精神 {^H}-({%.0f0}-{%.0f1}%)
 tagCharJewelryIntelligenceReqReductionR={^E}装备饰品所需精神 {^H}-({%.0f0}-{%.0f1}%)
-tagCharJewelryStrengthReqReductionR={^E}装备饰品所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharJewelryStrengthReqReductionR={^E}装备饰品所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharJewelryDexterityReqReductionR={^E}装备饰品所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
-tagCharShieldStrengthReqReductionR={^E}装备盾牌所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharShieldStrengthReqReductionR={^E}装备盾牌所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharShieldIntelligenceReqReductionR={^E}装备盾牌所需精神 {^H}-({%.0f0}-{%.0f1}%)
 tagCharShieldDexterityReqReductionR={^E}装备盾牌所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
-tagCharMeleeStrengthReqReductionR={^E}装备近战武器所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharMeleeStrengthReqReductionR={^E}装备近战武器所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharMeleeDexterityReqReductionR={^E}装备近战武器所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
 tagCharMeleeIntelligenceReqReductionR={^E}装备近战武器所需精神 {^H}-({%.0f0}-{%.0f1}%)
-tagCharHuntingStrengthReqReductionR={^E}装备远程武器所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharHuntingStrengthReqReductionR={^E}装备远程武器所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharHuntingDexterityReqReductionR={^E}装备远程武器所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
 tagCharHuntingIntelligenceReqReductionR={^E}装备远程武器所需精神 {^H}-({%.0f0}-{%.0f1}%)
 tagCharStaffIntelligenceReqReductionR={^E}装备法杖所需精神 {^H}-({%.0f0}-{%.0f1}%)
-tagCharStaffStrengthReqReductionR={^E}装备法杖所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharStaffStrengthReqReductionR={^E}装备法杖所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharStaffDexterityReqReductionR={^E}装备法杖所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
 tagCharWeapon2HIntelligenceReqReductionR={^E}装备双手武器所需精神 {^H}-({%.0f0}-{%.0f1}%)
-tagCharWeapon2HStrengthReqReductionR={^E}装备双手武器所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharWeapon2HStrengthReqReductionR={^E}装备双手武器所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharWeapon2HDexterityReqReductionR={^E}装备双手武器所需精神 {^H}-({%.0f0}-{%.0f1}%)
 tagCharWeaponIntelligenceReqReductionR={^E}装备所有武器所需精神 {^H}-({%.0f0}-{%.0f1}%)
-tagCharWeaponStrengthReqReductionR={^E}装备所有武器所需体质 {^H}-({%.0f0}-{%.0f1}%)
+tagCharWeaponStrengthReqReductionR={^E}装备所有武器所需体格 {^H}-({%.0f0}-{%.0f1}%)
 tagCharWeaponDexterityReqReductionR={^E}装备所有武器所需灵巧 {^H}-({%.0f0}-{%.0f1}%)
 
 SkillManaCostReductionR={^E}技能能量消耗 {^H}-{%.0f0}%
@@ -1435,35 +1435,35 @@ tagCharLightRadius={^E}光照范围 {^H}{%+.0f0}%
 
 tagCharItemGlobalReduction={^E}装备需求的所有属性减少 {^H}{%.0f0}%
 tagCharLevelReqReduction={^E}装备物品所需等级 {^H}-{%.0f0}
-tagCharArmorStrengthReqReduction={^E}装备护甲所需体质 {^H}-{%.0f0}%
+tagCharArmorStrengthReqReduction={^E}装备护甲所需体格 {^H}-{%.0f0}%
 tagCharArmorDexterityReqReduction={^E}装备护甲所需灵巧 {^H}-{%.0f0}%
 tagCharArmorIntelligenceReqReduction={^E}装备护甲所需精神 {^H}-{%.0f0}%
 tagCharJewelryIntelligenceReqReduction={^E}装备饰品所需精神 {^H}-{%.0f0}%
-tagCharJewelryStrengthReqReduction={^E}装备饰品所需体质 {^H}-{%.0f0}%
+tagCharJewelryStrengthReqReduction={^E}装备饰品所需体格 {^H}-{%.0f0}%
 tagCharJewelryDexterityReqReduction={^E}装备饰品所需灵巧 {^H}-{%.0f0}%
-tagCharShieldStrengthReqReduction={^E}装备盾牌所需体质 {^H}-{%.0f0}%
+tagCharShieldStrengthReqReduction={^E}装备盾牌所需体格 {^H}-{%.0f0}%
 tagCharShieldIntelligenceReqReduction={^E}装备近战武器所需精神 {^H}-{%.0f0}%
 tagCharShieldDexterityReqReduction={^E}装备盾牌所需灵巧 {^H}-{%.0f0}%
-tagCharMeleeStrengthReqReduction={^E}装备近战武器所需体质 {^H}-{%.0f0}%
+tagCharMeleeStrengthReqReduction={^E}装备近战武器所需体格 {^H}-{%.0f0}%
 tagCharMeleeDexterityReqReduction={^E}装备近战武器所需灵巧 {^H}-{%.0f0}%
 tagCharMeleeIntelligenceReqReduction={^E}装备近战武器所需精神 {^H}-{%.0f0}%
-tagCharHuntingStrengthReqReduction={^E}装备远程武器所需体质 {^H}-{%.0f0}%
+tagCharHuntingStrengthReqReduction={^E}装备远程武器所需体格 {^H}-{%.0f0}%
 tagCharHuntingDexterityReqReduction={^E}装备远程武器所需灵巧 {^H}-{%.0f0}%
 tagCharHuntingIntelligenceReqReduction={^E}装备远程武器所需精神 {^H}-{%.0f0}%
 tagCharStaffIntelligenceReqReduction={^E}装备法杖所需精神 {^H}-{%.0f0}%
-tagCharStaffStrengthReqReduction={^E}装备法杖所需体质 {^H}-{%.0f0}%
+tagCharStaffStrengthReqReduction={^E}装备法杖所需体格 {^H}-{%.0f0}%
 tagCharStaffDexterityReqReduction={^E}装备法杖所需灵巧 {^H}-{%.0f0}%
 tagCharWeapon2HIntelligenceReqReduction={^E}装备双手武器所需精神 {^H}-{%.0f0}%
-tagCharWeapon2HStrengthReqReduction={^E}装备双手武器所需体质 {^H}-{%.0f0}%
+tagCharWeapon2HStrengthReqReduction={^E}装备双手武器所需体格 {^H}-{%.0f0}%
 tagCharWeapon2HDexterityReqReduction={^E}装备双手武器所需灵巧 {^H}-{%.0f0}%
 tagCharWeaponIntelligenceReqReduction={^E}装备所有武器所需精神 {^H}-{%.0f0}%
-tagCharWeaponStrengthReqReduction={^E}装备所有武器所需体质 {^H}-{%.0f0}%
+tagCharWeaponStrengthReqReduction={^E}装备所有武器所需体格 {^H}-{%.0f0}%
 tagCharWeaponDexterityReqReduction={^E}装备所有武器所需灵巧 {^H}-{%.0f0}%
 
 tagChanceOf={%.1f0}% {^E}{的几率造成 {^H}
 tagChanceTo={%.1f0}% {^E}{的几率{^H}
 
-Strength=体质
+Strength=体格
 Dexterity=灵巧
 Intelligence=精神
 Life=生命
@@ -1471,7 +1471,7 @@ Mana=能量
 UnusedPointsText={%d0} 点可用点数
 LifeText={%.0f0} 生命
 ManaText={%.0f0} 能量
-StrengthText={%.0f0} 体质
+StrengthText={%.0f0} 体格
 DexterityText={%.0f0} 灵巧
 IntelligenceText={%.0f0} 精神
 FloatFormat={%.0f0}
@@ -1589,7 +1589,7 @@ FailedSkillDependancyName={%s0}
 FailedDevotionDependency=需要亲和点数：
 FailedDevotionDependencyName={%d0} {%s1}
 FailedConstellationDependency=星座从属于:
-FailedConstellationSelfLocked=这个星座依赖于它所拥有的亲和点数。你需要从其他星座获得更多的亲和点数来遗忘它。
+FailedConstellationSelfLocked=这个星座依赖于它所拥有的亲和点数. 你需要从其他星座获得更多的亲和点数来遗忘它. 
 ManaCost={^E}点能量消耗
 ManaCostPerSecond={^E}每秒能量消耗
 ActiveLifeCost={^E}每秒激活生命消耗
@@ -2086,7 +2086,7 @@ tagUse=互动
 tagPickup=拾取
 
 tagUC_Button=解锁内容
-tagUC_Message=请输入你的解锁码来解锁新内容。
+tagUC_Message=请输入你的解锁码来解锁新内容. 
 tagUC_OK=好
 tagUC_Cancel=取消
 tagUC_Error=你已经为这个角色解锁过该内容。
@@ -2129,7 +2129,7 @@ tagMPMessageJoin={%t0}已加入你的团队。
 tagMPMessageLeave={%t0}已离开你的团队。
 tagMPMessageDeny={%t0}拒绝了你的邀请。
 tagMPMessageBan={%t0}已被从游戏中封禁。
-tagMPMessageGameJoin={%t0}已加入游戏。游戏难度等级已根据人数调整。
+tagMPMessageGameJoin={%t0}已加入游戏. 游戏难度等级已根据人数调整. 
 tagMPMessageGameLeave={%t0}已离开游戏.
 tagMPQuestionBan=你确定要从游戏中封禁{%t0}吗?
 tagMPInviteAccept=接受
@@ -2151,7 +2151,7 @@ tagMPLocation={%s0}
 tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
 tagTradeError02={%t0}拒绝了你的交易请求。
 tagTradeError03={%t0}请求交易。
-tagTradeError04=你的物品栏没有足够的空间来接受这笔交易。
+tagTradeError04=你的物品栏没有足够的空间来接受这笔交易. 
 tagTradeButton01=交易
 tagTradeButton02=取消
 tagTradeDistance=该玩家超出交易距离。

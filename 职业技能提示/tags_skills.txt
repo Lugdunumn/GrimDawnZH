@@ -87,7 +87,7 @@ tagClass01SkillName00A=士兵
 tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对凯恩世界残酷的现实. 
 
 tagClass01SkillName01A=[士兵] 节奏打击
-tagClass01SkillDescription01A=战斗时, 自然地跟随周期性的节奏感, 施展抑扬顿挫的打击. 虽然会被敌人预判, 但却强效有力, 很难遭到反击. ^o当作为默认武器攻击时, 节奏打击会增强第三击的伤害. 
+tagClass01SkillDescription01A=战斗时, 自然地跟随周期性的节奏感, 施展抑扬顿挫的打击. 虽然会被敌人预判, 但却强效有力, 很难遭到反击. ^o当作为默认武器攻击时, 节奏打击会增强单个武器第三击的伤害. 
 tagClass01SkillName01B=[士兵] 战斗姿态
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振, 造成严重的出血并击中附近的额外敌人. ^o如使用远程武器, 节奏打击会有一定几率穿透敌人. 
 tagClass01SkillName01C=[士兵] 致死旋律
@@ -171,12 +171,14 @@ tagClass02SkillName00A=爆破者
 tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的炼狱之火. 
 
 tagClass02SkillName01A=[爆破者] 手榴弹
-tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明, 使战场上的巫术操控和常规武器间的较量得到了平衡. 
+tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明,使战场上的巫术操控和常规武器间的较量得到了平衡. 
 tagClass02SkillName01B=[爆破者] 高热冲击
 tagClass02SkillDescription01B=在标准手榴弹上的改进设计使它爆发出炽热火花并射出锋利的碎片. 
 tagClass02SkillName01C=[爆破者] 天火手雷
-tagClass02SkillDescription01C=当仅仅炸到一个敌人并不足够时, 这项对手榴弹化学成分的炼金改造能在引爆后释放电力漩涡. 
-
+tagClass02SkillDescription01C=当仅仅炸到一个敌人并不足够时,这项对手榴弹化学成分的炼金改造能在引爆后释放电力漩涡. 
+tagClass02SkillName01D=[爆破者] 破碎猛爆
+tagClass02SkillDescription01D=手榴弹爆炸产生的强烈冲击波会震荡你的敌人，造成剧烈的内部创伤。
+ 
 tagClass02SkillName02A=[爆破者] 闪光弹
 tagClass02SkillDescription02A=一道致盲闪光使敌人短暂的陷入混乱并破坏他们的防护能力. 
 tagClass02SkillName02B=[爆破者] 灼热之光
@@ -185,7 +187,7 @@ tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成�
 tagClass02SkillName03A=[爆破者] 火焰打击
 tagClass02SkillDescription03A=一项致命的炼金技术, 能够引燃敌人周围的空气进行攻击. ^o当作为你的默认武器攻击时, 火焰打击造成额外伤害. 
 tagClass02SkillName03B=[爆破者] 爆裂打击
-tagClass02SkillDescription03B=提高火焰打击的效果, 有一定几率提高火焰伤害. ^o如作为远程攻击, 还能对附近的敌人造成爆炸伤害. 
+tagClass02SkillDescription03B=提高火焰打击的效果，以一次爆炸对附近的敌人造成额外的伤害。
 tagClass02SkillName03C=[爆破者] 静电打击
 tagClass02SkillDescription03C=进一步的炼金改进使火焰打击对目标造成电击伤害并有一定几率击退他们. 
 tagClass02SkillName03D=[爆破者] 炽烈硫磺
@@ -1346,6 +1348,9 @@ tagItemSkillC137Desc=从你所在的位置向外释放一阵冰与火的旋转�
 tagItemSkillC138Name=Oathbreaker毁誓者
 tagItemSkillC138Desc=毁誓者发出一颗充满黑暗力量的爆弹.  ^o使用默认武器攻击时激活. 
 
+tagItemSkillC139Name=奥德里奇的腐化之触
+tagItemSkillC139Desc=以奥德里奇权杖的腐化能量猛击你的敌人。
+ 
 tagItemSkillM005Name=狂暴
 tagItemSkillM005Desc=进入狂暴状态, 以牺牲耐力为代价凶猛地攻击敌人. 
 
@@ -1783,7 +1788,7 @@ tagItemSkillD150Name=堕落灾疫
 tagItemSkillD150Desc=释放德里格的七种灾疫之一,  一种强力的迷惑敌人并快速散播的灾疫. 
 
 tagItemSkillD151Name=德里格的灾疫
-tagItemSkillD151Desc=释放巫神的至高法术, 一种使你的敌人满目疮痍的恶性病毒. 
+tagItemSkillD151Desc=释放巫神的至高法术,第九灾疫,一种使你的敌人满目疮痍的恶性病毒. 
 
 tagItemSkillD152Name=疲劳灾疫
 tagItemSkillD152Desc=释放德里格的七种灾疫之一,一种强力的使人疲惫不堪并迅速传播的灾疫. 
@@ -2468,6 +2473,8 @@ tagQuestSkill_A01=凯蒙的祝福
 tagQuestSkill_A01Desc=你的武器加持了至高神的圣火. 
 tagQuestSkill_A02=死亡守夜人的增益
 tagQuestSkill_A02Desc=你的武器受到了教团的强化. 
+tagQuestSkill_A03=安娜斯特瑞娅的标记
+tagQuestSkill_A03Desc=你被放逐者标记了。
 
 
 #SkillsGeneral
@@ -2859,6 +2866,9 @@ tagEnemySkillA11_Desc=黑曜石亵渎者用黑曜石牢笼困住了你, 吸取�
 tagEnemySkillA12=黑曜石陷阱
 tagEnemySkillA12_Desc=本·扎尔用黑曜石牢笼困住了你, 并用混沌的力量摧毁着你的身体. 
 
+tagEnemySkillA13=虚火标记
+tagEnemySkillA13_Desc=虚火炙烤你的灵魂，使你暴露在元素和虚化之中。
+
 tagEnemySkillD01=熵能虚空
 tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离. 
 
@@ -2871,4 +2881,6 @@ tagEnemySkillD03_Desc=邪灵纠缠着你, 吸取你的体力和回复力.
 tagEnemySkillD04=邪术光环
 tagEnemySkillD04_Desc=原始的邪术力量环绕着这块晶体, 增强邪术生物并且伤害自然生命体. 
 
+tagEnemySkillD05=奥德里奇的权杖
+tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近的敌人。
 

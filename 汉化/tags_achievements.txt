@@ -214,3 +214,15 @@ ach067Desc=完成游戏。
 
 ach068Title=凯恩的冠军战士
 ach068Desc=在精英难度完成游戏。
+
+ach069Title=瓦伯利之火
+ach069Desc=在瓦伯利的虚化之火中生存。
+
+ach070Title=战胜领主
+ach070Desc=在瓦伯利击杀领主范·奥德里奇
+
+ach071Title=为瓦伯利复仇
+ach071Desc=在终极难度下的瓦伯利击杀领主范·奥德里奇
+
+ach072Title=瓦伯利的不朽征服者
+ach072Desc=在专家模式下的瓦伯利击杀领主范·奥德里奇

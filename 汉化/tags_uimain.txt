@@ -62,10 +62,16 @@ tagLeaderboardHeader01=角色
 tagLeaderboardHeader02=分数
 
 tagRDifficultyTitle01=普通
+tagRDifficultyTitle01Desc=标准的难度级别。
 tagRDifficultyTitle02=精英
+tagRDifficultyTitle02Desc=精英难度为完成了普通/老兵难度的角色提供更高级别的挑战。
 tagRDifficultyTitle03=终极
+tagRDifficultyTitle03Desc=终极难度是对你的技术和打造的角色的最大挑战，完成精英难度后解锁。
 tagChallengeDifficulty=老兵
+tagChallengeDifficultyDesc=老兵难度提升普通难度的困难程度，为有经验的ARPG玩家而准备。
+tagChallengeDifficultyDescNA=该游戏模式不能开启老兵难度。
 tagHardcore=专家模式
+tagHardcoreDesc=你的角色只有一条命！
 tagRDifficultyDesc01=完成该难度以解锁更高的难度。
 tagRDifficultyDesc02=必须完成普通难度才能解锁老兵难度。
 tagRDifficultyDesc03=必须完成老兵难度才能解锁精英难度。

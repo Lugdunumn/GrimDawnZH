@@ -50,8 +50,9 @@ tagWindDevil_PoisonA01=毒风恶魔
 tagAetherObeliskA01=虚灵方尖碑
 tagAetherObeliskB01=虚灵大地塑型者
 
-tagBossAetherObelisk01=烈焰先驱
+tagBossAetherObelisk01=烈焰使者
 tagBossAetherObelisk02=毁灭使者
+tagBossAetherObelisk03=群星使者
 
 tagEnemyAetherialA01=虚灵看守
 tagEnemyAetherialB01=虚灵幻影
@@ -244,7 +245,7 @@ tagHeroGhostH04=风暴尖啸 ~ 带电
 tagHeroGhostH05=奥尔德拉康 帕尔德 ~ 迅捷
 tagHeroGhostH06=虚化之魂 ~ 腐化
 
-tagGhostBoss01=堕落之魂领主~ 巴若斯 瓦德里斯
+tagGhostBoss01=堕落之魂领主~ 巴若斯·瓦德里斯
 tagGhostBoss02=诺莫斯·德雷德
 tagGhostBoss03=劳多斯·瓦格拉
 tagGhostBoss04=罗文纳·库尔
@@ -465,7 +466,7 @@ tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
 
 tagHumanPossessedHeroH06=洛克斯莫里~ 暗夜法师
 tagHumanPossessedBoss01=风暴之火~ 诺维利亚
-tagHumanPossessedBoss02=档案保管员~ 塞隆
+tagHumanPossessedBoss02=档案管理员~ 塞隆
 tagHumanPossessedBoss03=Usterius 艾弗隆
 
 #CreatureInsectDermapteran 革翅目
@@ -852,6 +853,7 @@ tagBossTrollB03=沼泽之王~ 贝尔戈
 tagEnemyTrollCorruptedA01=奇型巨魔
 tagEnemyTrollCorruptedB01=奇型先锋
 tagEnemyTrollCorruptedB02=奇型枪手
+tagEnemyTrollCorruptedB03=奇型火眼
 tagEnemyTrollCorruptedC01=奇型指挥官
 
 tagTrollCorruptedD01=灰白霜冻~ 恐惧守卫
@@ -1078,7 +1080,7 @@ tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
 tagBossLoghorreanTentacleCluster=触手集簇
 
 tagAetherialRoguelikeBoss01=病瘟的嘉仁
-tagAetherialRoguelikeBoss02=君主 冯·奥尔德里奇
+tagAetherialRoguelikeBoss02=领主 范·奥德里奇
 tagAetherialRoguelikeBoss03=议员哈罗斯
 tagAetherialRoguelikeBoss04=议员加若
 tagAetherialRoguelikeBoss05=监察者伊格拉德

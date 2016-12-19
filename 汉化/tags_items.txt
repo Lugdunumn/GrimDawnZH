@@ -290,7 +290,9 @@ tagWeaponGun2hB002=前装枪
 tagWeaponGun2hB003=榴弹枪
 tagWeaponGun2hB004=奇型步枪
 tagWeaponGun2hB005=奇型卡宾枪
-
+tagWeaponGun2hB006=奇型炎枪
+tagWeaponGun2hB007=奇型焚炉
+ 
 tagWeaponGun2hC001=猎手
 tagWeaponGun2hC001B=猎人
 tagWeaponGun2hC002=鹰眼
@@ -509,7 +511,8 @@ tagWeaponCaster1hC019=风暴罗网
 tagWeaponCaster1hC020=地狱纹章切刀
 tagWeaponCaster1hC021=寒冰降生咒刃
 tagWeaponCaster1hC022=圣契的血匕首
-tagWeaponCaster1hC023=奥尔德里奇的权杖
+tagWeaponCaster1hC023=奥德里奇的权杖
+tagWeaponCaster1hC023_Desc="这把权杖散发着以一种你无法理解的语言讲出的奇异私语。"
 
 tagWeaponCaster1hD001=纯净之触
 tagWeaponCaster1hD001Desc="古老的传说中有一个披着斗篷的人形生物，他周游世界并净化疾病、治愈伤痛，从不要求回报和任何形式的感谢。"
@@ -534,8 +537,8 @@ tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
 tagWeaponCaster1hD018=黑炎剑
-tagWeaponCaster1hD019=奥尔德里奇的诏书
-tagWeaponCaster1hD019Desc="在下达他人生中最后一道诏令之后，冯·奥尔德里奇将整座城市葬送在了恐怖黎明之中。"
+tagWeaponCaster1hD019=奥德里奇的诏书
+tagWeaponCaster1hD019Desc="在下达他人生中最后一道诏令之后，范·奥德里奇将整座城市葬送在了恐怖黎明之中。"
 
 tagWeaponCaster1hF001=军团唤火者
 tagWeaponCaster1hF002=军团虚化火花
@@ -1008,7 +1011,7 @@ tagHeadD023=三巫神之契约
 tagHeadD023Desc="建立在三巫神和他们的追随者之间，以三巫神之力强化过的契约。用以抵御共同的敌人。"
 tagHeadD024=毒刃兜帽
 tagHeadD025=黑炎之面
-tagHeadD026=光明卫士之盔
+tagHeadD026=光明的守卫者之盔
 tagHeadD027=炼狱骑士的面甲
 tagHeadD028=战争降生面甲
 tagHeadD029=血怒者的兜帽
@@ -2081,7 +2084,7 @@ tagBlueprint_ArmorD021=设计图: 邪术凝视
 tagBlueprint_ArmorD022=设计图: 三巫神之契约
 tagBlueprint_ArmorD023=设计图: 毒刃兜帽
 tagBlueprint_ArmorD024=设计图: 黑炎之面
-tagBlueprint_ArmorD025=设计图: 光明卫士之盔
+tagBlueprint_ArmorD025=设计图: 光明的守卫者之盔
 tagBlueprint_ArmorD026=设计图: 炼狱骑士的面甲
 tagBlueprint_ArmorD027=设计图: 战争降生面甲
 tagBlueprint_ArmorD028=设计图: 血怒者的兜帽
@@ -2112,7 +2115,7 @@ tagBlueprint_AccessoryD009=设计图: 破法者护腰
 tagBlueprint_AccessoryD010=设计图: 精通徽章
 tagBlueprint_AccessoryD011=设计图: 神圣标记
 
-tagBlueprint_MiscA01=设计图：骸骨钥匙
+tagBlueprint_MiscA01=设计图：骸骨之钥
 tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
 
 tagBlueprint_MaterialA01=^f设计图：虚化集簇
@@ -2441,9 +2444,9 @@ tagConsumable_DevotionReset=明晰药剂
 tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神之旅。"
 
 #DLC
-tagDLCA01=幻象:假发粉末
+tagDLCA01=幻化：假发粉末
 tagDLCA01Desc="高雅和风尚的定义。"
-tagDLCA02=幻象: 侠盗的外套
+tagDLCA02=幻化：侠盗的外套
 tagDLCA02Desc="环游世界的首选着装。"
 tagDLCA03=赞助者的奖章
 tagDLCA03Desc="表彰最忠诚的 Kickstarter 众酬支持者。"
@@ -2453,6 +2456,10 @@ tagDLCA05=Kickstarter 老兵勋章
 tagDLCA05Desc="纪念2012年伟大 Kickstarter 众酬战争的老兵徽章。"
 tagDLCA06=Kickstarter 士官勋章
 tagDLCA06Desc="纪念2012年伟大 Kickstarter 众酬战争的士官徽章。"
+tagDLCA07=幻化：上将之帽
+tagDLCA07Desc="带头冲锋，不论陆地或是海洋。"
+tagDLCA08=幻化：南方邦联将军之盔
+tagDLCA08Desc="这顶头盔激发着坚定不移的忠诚。"
 tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
 tagDLCConsumableA01PetSkill01=精灵光环
@@ -3468,6 +3475,8 @@ tagDevotionReset={^E}使用来重置你的虔诚点数
 tagDevotionNoPointsUsed={^r}[没有虔诚点数可以重置]
 tagDevotionResetConfirmation=重置所有虔诚点数？
 
+
+
 #ItemSets套装
 
 
@@ -3966,7 +3975,7 @@ tagSuffixB021_Ar_A=蛇人之
 tagSuffixB022_Ar_A=异常之
 tagSuffixB023_Ar_A=预言之
 tagSuffixB024_Ar_A=血肉巨人之
-tagSuffixB025_Ar_A=先锋之
+tagSuffixB025_Ar_A=虚空先锋之
 tagSuffixB026_Ar_A=平衡钢铁之
 tagSuffixB027_Ar_A=霸权之
 tagSuffixB028_Ar_A=暗影之
@@ -4093,6 +4102,8 @@ tagChestStoneSarcophagusC01={^E}古老的石棺
 tagChestBoneChestD01={^M}骨质的遗骨匣
 tagChestBoneChestD02={^Y}骨质的箱子
 tagChestTreasureTrove01={^I}宝藏
+tagChestCorruptedChestD01=腐化圣物箱
+tagChestCorruptedChestD02=腐化宝箱
 
 tagChestRackArmorA01=盔甲架
 tagChestRackArmorB01={^Y}盔甲陈列处
@@ -4105,6 +4116,7 @@ tagChestCorpse_Jacob=雅各布的尸体
 tagChestCorpse_Refugee=达利娅·塔夫恩的尸体
 tagChestCorpse_BlackLegion=黑色军团遗骸
 tagChestCorpse_Malkadarr=马卡达的遗骸
+tagChestCorpse_BurrwitchScout=塔娜的遗骸
 
 tagLectern_WardensLabA01=研究日志
 tagLectern_OldArkoviaRuinsA01=古老的讲台
@@ -4198,9 +4210,12 @@ tagUGDoorObsidian=黑曜石尖刺
 tagUGDoorFort=城堡入口
 tagUGDoorCrypt=地下墓室入口
 tagUGDoorWitchGods=标记之石
+tagUGDoorAetherFire=虚化壁障
 tagDoorLocked= {^R} ~ 锁着的
+tagUGCellarOneWay=地窖入口
 
 tagDoorOneWay01=通往地表的出口
+tagDoorOneWayPortValbury=逃离城市
 tagDoorLever01=吊门控制器
 tagTorchLever01=松动的火把
 tagStoneLever01=松动的石块
@@ -4212,6 +4227,7 @@ tagPrisonEntranceDoor=伯尔维治监狱大门
 tagMineDoor=矿井门
 tagEpicDoor_StepsOfTorment=痛苦之门（需要一把骸骨之钥)
 tagEpicDoor_BastionOfChais=要塞之门
+tagEpicDoor_PortValbury=瓦伯利港口之门
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ 被古老的力量封印着（需要一把骸骨之钥)
 tagLocked= {^R} ~ 锁着的
 tagBlocked= {^R} ~ 塌方阻挡了道路

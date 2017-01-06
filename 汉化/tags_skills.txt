@@ -1345,7 +1345,7 @@ tagItemSkillC136Desc=释放一股在敌人之间奔流的虚化闪电。
 tagItemSkillC137Name=元素之力
 tagItemSkillC137Desc=从你所在的位置向外释放一阵冰与火的旋转魔法阵。
 
-tagItemSkillC138Name=Oathbreaker毁誓者
+tagItemSkillC138Name=毁誓者
 tagItemSkillC138Desc=毁誓者发出一颗充满黑暗力量的爆弹。 ^o使用默认武器攻击时激活。
 
 tagItemSkillC139Name=奥德里奇的腐化之触

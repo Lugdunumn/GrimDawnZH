@@ -168,7 +168,7 @@ ach052Title=隐藏的宝藏
 ach052Desc=在霍姆斯特德附近的农田里找到埋藏的宝藏。
 
 ach053Title=存活于遗忘深处
-ach053Desc=击杀咕噜斯，深渊之源
+ach053Desc=击杀咕噜，深渊之源
 
 ach054Title=死亡空间
 ach054Desc=在灵魂密室中存活下来。

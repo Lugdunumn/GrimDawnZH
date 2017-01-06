@@ -890,7 +890,7 @@ tagCaveSpiderHeroH02=维拉克斯娜 ~ 回复者
 tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 
 tagCaveSpiderBoss01=幽冥编织者~ 乌苟立安特
-tagCaveTrollHalfBoss01=穴居者~ 咕噜斯
+tagCaveTrollHalfBoss01=穴居者~ 咕噜
 
 #creatureVultures 秃鹫
 

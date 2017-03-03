@@ -153,6 +153,8 @@ tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞其追随者�
 
 tagClass01SkillName15A=战斗警觉
 tagClass01SkillDescription15A=进入防御姿态，极大的增强你的战斗意志。你只能在很短的时间内维持该状态。^o需要一面盾牌。
+tagClass01SkillName15B=马尔科夫的防御
+tagClass01SkillDescription15B=马尔科夫因他的战术知识成为一名战场传奇人物，但他的盾术才是使他Markovian became a legend on the battlefield for his tactical knowledge, but it was his mastery of the shield is what allowed him to endure countless conflicts and emerge the victor. With enough focus and training, Markovian was capable of maintaining a defensive stance nearly indefinitely at the cost of his offensive, opting to wear out his opponents before striking the killing blow.
 
 tagClass01SkillName16=百战之躯
 tagClass01SkillDescription16=经历了无数战火洗礼，你已经见识过了最为残酷的战场。战争所谓的恐怖和小小的伤口，都已无法再阻挡你。

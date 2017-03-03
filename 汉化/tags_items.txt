@@ -443,6 +443,10 @@ tagWeaponMelee2hD008=弧光之刃
 tagWeaponMelee2hD009=野性之血粉碎者
 tagWeaponMelee2hD010=尤尔托斯的风暴探寻者
 tagWeaponMelee2hD011=利维坦
+tagWeaponMelee2hD012=裂魂
+tagWeaponMelee2hD012_Desc="阿卡莫斯的右手武器，它吞噬灵魂折磨肉体。"
+tagWeaponMelee2hD013=沙祖尔的世界吞噬者
+tagWeaponMelee2hD013_Desc="这把武器已为冥神犯下了尸山血海般的杀孽，它仍渴望着杀戮。"
 
 tagWeaponMelee2hF001=军团战剑
 tagWeaponMelee2hF002=日阳巨锤
@@ -893,16 +897,16 @@ tagDestroySoulbound=摧毁灵魂绑定的物品？
 tagUntradeable=不可交易
 tagDestroyUntradeable=摧毁不可交易的物品？
 
-tagTransmuted=已幻化
+tagTransmuted=幻化:
 tagTransmuteCapture=[右键点击以灌注]
 tagTransmuteApply=[右键点击以使用]
+tagTransmuteApplyRemove=[右键点击以移除幻化]
 tagTransmuteUnusable=[无法使用-未满足需求]
 tagTransmuteConfirmation=你确定要幻化这件装备吗？
 tagTransmuteOverwrite=你确定要覆盖已经存在的幻化效果吗？
 tagTransmuteSoulboundConfirmation=你确定要幻化该装备吗？幻化将使物品变为灵魂绑定。
 tagTransmuteSoulboundOverwrite=你确定要覆盖已经存在的幻化效果吗？幻化将使物品变为灵魂绑定。
 tagTransmuteDestroy=你确定要灌注幻化效果吗？这将会摧毁这件装备。
-tagTransmuteApplyRemove=[右键点击以移除幻化]
 tagTransmuteRemove=你确定要移除幻化效果吗？
 
 #ArmorHead头盔
@@ -1639,6 +1643,9 @@ tagRingD011=仁慈之手
 tagRingD012=复仇之拳
 tagRingD013=祈愿者的燃烧之手
 tagRingD014=祈愿者的电击之触
+tagRingD015=阿卡莫斯的恐惧之触
+tagRingD016=阿卡莫斯的痛苦之触
+
 
 tagRingF001=恶魔的战争印戒
 tagRingF002=恶魔的愤怒印戒
@@ -2446,6 +2453,8 @@ tagConsumable_DevotionReset=明晰药剂
 tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神之旅。"
 
 #DLC
+tagDLCIllusionRemoval=幻化消失
+tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除药粉。"
 tagDLCA01=幻化：假发粉末
 tagDLCA01Desc="高雅和风尚的定义。"
 tagDLCA02=幻化：侠盗的外套
@@ -3542,6 +3551,7 @@ tagItemSetC017Name=黎明守卫
 tagItemSetC017Desc="只有对曼海尔的神圣信仰最为狂热的信徒们才能穿的盔甲。"
 
 tagItemSetC018Name=阿卡莫斯之怒
+tagItemSetC018NameB=阿卡莫斯之怒
 tagItemSetC018Desc="安克维亚的行刑者领主阿卡莫斯的魔印。"
 
 tagItemSetC019Name=瘴气
@@ -3657,6 +3667,9 @@ tagItemSetD025Desc="这套战甲铸造于战争之中，它比其他任何存世
 
 tagItemSetD026Name=血怒者的狂乱
 tagItemSetD026Desc="北方冰封荒原的野人部落，血怒者所穿的护甲。"
+
+tagItemSetD027Name=行刑者的魔印
+tagItemSetD027Desc="安可维亚的行刑者阿卡莫斯散布着恐惧，他所到之初便凶兆已然临近。"
 
 #Prefixes前缀
 

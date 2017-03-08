@@ -153,6 +153,8 @@ tagClass01SkillDescription14A=召唤远古战神奥莱隆, 鼓舞其追随者燃
 
 tagClass01SkillName15A=[士兵] 战斗警觉
 tagClass01SkillDescription15A=进入防御姿态, 极大的增强你的战斗意志. 你只能在很短的时间内维持该状态. ^o需要一面盾牌. 
+tagClass01SkillName15B=马尔科夫的防御
+tagClass01SkillDescription15B=马尔科夫因他的战术知识成为一名战场传奇人物，但他精湛的盾术才是使他得以常胜不败的关键。凝神专注加以充足的训练，马尔科夫能无期限地牺牲进攻能力为代价保持一种防御姿态。以期在他在发出必杀一技之前，敌人将筋疲力尽。
 
 tagClass01SkillName16=[士兵] 百战之躯
 tagClass01SkillDescription16=经历了无数战火洗礼, 你已经见识过了最为残酷的战场. 战争所谓的恐怖和小小的伤口, 都已无法再阻挡你. 
@@ -161,7 +163,7 @@ tagClass01SkillName17=[士兵] 防守反击
 tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击. ^o这项技能必须保持开启以持续生效. 
 
 tagClass01SkillName18=[士兵] 防护训练
-tagClass01SkillDescription18=对使用盾牌进行战斗的技艺进行大量研习而提高可操控性与机动性；使你的盾牌绝对不会成为累赘, 甚至能够进行攻击. ^o需要一面盾牌. 
+tagClass01SkillDescription18=对使用盾牌进行战斗的技艺进行大量研习而提高可操控性与机动性.使你的盾牌绝对不会成为累赘. ^o需要一面盾牌. 
 
 
 
@@ -923,6 +925,12 @@ tagItemSkillB043Desc=一阵平静抚慰你的全身, 增强身体的自愈能力
 
 tagItemSkillB044Name=毒气弹
 tagItemSkillB044Desc=向你的敌人发射一枚毒气弹. 
+
+tagItemSkillB045Name=火球新星
+tagItemSkillB045Desc=一团爆裂的火球从你身上激射出来。
+
+tagItemSkillB046Name=酸性尖刺新星
+tagItemSkillB046Desc=一束酸性尖刺从你的身上激射出来。
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=反击攻击你的敌人, 向敌人所在的方向施放一枚闪电光球, 伤害并眩晕所有所经之处的敌人. 
@@ -1700,7 +1708,7 @@ tagItemSkillD120Desc=伊斯坎德拉更倾向于掌握所有形式的魔法.  ^o
 tagItemSkillD121Name=伊斯坎德拉的棱镜
 tagItemSkillD121Desc=一旦进入战斗, 伊斯坎德拉就会将她的武器转化为魔刃.  ^o需要一把近战武器. 
 
-tagItemSkillD122Name=摄命者
+tagItemSkillD122Name=夺命者
 tagItemSkillD122Desc=吸取附近敌人的生命精华. ^o需要一把近战武器. 
 
 tagItemSkillD123Name=灵魂浪潮
@@ -2092,7 +2100,17 @@ tagItemSkillD250Desc=用极其血腥的方式撕裂附近敌人.
 
 tagItemSkillD251Name=黑色标记
 tagItemSkillD251Desc=苍白之神的标记使你的敌人陷入极度痛苦之中. 
+tagItemSkillD252Name=恐惧一击
+tagItemSkillD252Desc=隐入亡者之境，瞬间现身向敌人发动一击.
 
+tagItemSkillD253Name=恐惧之火
+tagItemSkillD253Desc=一圈幽魂之火环绕着你，致残着你的敌人.
+
+tagItemSkillD254Name=沙祖尔之怒
+tagItemSkillD254Desc=火焰从你周围的地面喷发而出，将一切化为灰烬与不幸.
+
+tagItemSkillD255Name=恐惧寒冰
+tagItemSkillD255Desc=释放出一股刀锋般锋利的寒冰尖刺.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Failalittleharder.
@@ -2109,8 +2127,8 @@ tagCompSkillA002Desc=向敌人施放一道纯粹的虚化能量.
 tagCompSkillA003Name=放逐
 tagCompSkillA003Desc=用武器打出能够毁灭虚灵生物的一击. 
 
-tagCompSkillA004Name=破甲光环
-tagCompSkillA004Desc=增强你和盟友的攻击, 使其能够穿透护甲. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA004Name=穿甲利器
+tagCompSkillA004Desc=增强你的攻击，使其能够穿透护甲。^o这项技能必须保持开启以持续生效。
 
 tagCompSkillA005Name=剑刃守卫
 tagCompSkillA005Desc=向护甲灌注对穿刺攻击的抵抗力, 并同时发动反击. 
@@ -2124,35 +2142,35 @@ tagCompSkillA007Desc=用吸血鬼的能量增强你的攻击.
 tagCompSkillA008Name=嗜血者
 tagCompSkillA008Desc=用吸血鬼的能量增强你的攻击. 
 
-tagCompSkillA009Name=混沌之箭 
+tagCompSkillA009Name=混沌之箭
 tagCompSkillA009Desc=对目标施放混沌闪电. 
 
-tagCompSkillA010Name=极冻光环 
-tagCompSkillA010Desc=用寒冰增强你和盟友的攻击. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA010Name=极寒冰刃
+tagCompSkillA010Desc=以死寒增强你的攻击.^o这项技能必须保持开启以持续生效.
 
-tagCompSkillA011Name=断头 
+tagCompSkillA011Name=断头
 tagCompSkillA011Desc=尝试用能导致严重流血的致命一击斩杀敌人. 
 
-tagCompSkillA012Name=斩杀 
+tagCompSkillA012Name=斩杀
 tagCompSkillA012Desc=尝试用能导致严重流血的致命一击斩杀敌人. 
 
-tagCompSkillA013Name=火焰光环 
-tagCompSkillA013Desc=用燃烧烈焰强化你和你附近队友的攻击. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA013Name=燃火利刃
+tagCompSkillA013Desc=以燃烧的烈焰强化你的攻击.^o这项技能必须保持开启以持续生效.
 
-tagCompSkillA014Name=烈焰冲击 
+tagCompSkillA014Name=烈焰冲击
 tagCompSkillA014Desc=向你的目标发射一枚燃烧火球. 
 
-tagCompSkillA015Name=强化烈焰冲击 
+tagCompSkillA015Name=强化烈焰冲击
 tagCompSkillA015Desc=向你的目标发射一枚燃烧火球. 
 
-tagCompSkillA016Name=寒冰尖刺 
+tagCompSkillA016Name=寒冰尖刺
 tagCompSkillA016Desc=发射一簇岩石般的坚冰来穿刺敌人. 
 
-tagCompSkillA017Name=强化寒冰尖刺 
+tagCompSkillA017Name=强化寒冰尖刺
 tagCompSkillA017Desc=发射一簇岩石般的坚冰来穿刺敌人. 
 
-tagCompSkillA018Name=闪电光环 
-tagCompSkillA018Desc=用闪电能量强化你和附近队友的攻击. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA018Name=电光利刃
+tagCompSkillA018Desc=以闪电能量强化你的攻击.^o这项技能必须保持开启以持续生效.
 
 tagCompSkillA019Name=雷击
 tagCompSkillA019Desc=用雷霆闪电之力攻击你的敌人. 
@@ -2160,8 +2178,8 @@ tagCompSkillA019Desc=用雷霆闪电之力攻击你的敌人.
 tagCompSkillA020Name=强化雷击
 tagCompSkillA020Desc=用雷霆闪电之力攻击你的敌人. 
 
-tagCompSkillA021Name=剧毒光环
-tagCompSkillA021Desc=用腐烂剧毒强化你和你附近队友的攻击. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA021Name=荼毒利刃
+tagCompSkillA021Desc=以剧毒强化你的攻击.^o这项技能必须保持开启以持续生效.
 
 tagCompSkillA022Name=剧毒炸弹
 tagCompSkillA022Desc=发射一枚在目标地点爆炸的剧毒炸弹, 使你的敌人被毒素包裹. 
@@ -2190,23 +2208,23 @@ tagCompSkillA029Desc=用压倒性的一击猛击你的敌人.
 tagCompSkillA030Name=强化猛击
 tagCompSkillA030Desc=用压倒性的一击猛击你的敌人. 
 
-tagCompSkillA031Name=强化破甲光环
-tagCompSkillA031Desc=增强你和盟友的攻击, 使其能够穿透护甲. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA031Name=强化穿甲利器
+tagCompSkillA031Desc=增强你的攻击，使其能够穿透护甲.^o这项技能必须保持开启以持续生效.
 
-tagCompSkillA032Name=虚化光环
-tagCompSkillA032Desc=用虚灵能力强化你和你附近队友的攻击. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA032Name=虚化武器
+tagCompSkillA032Desc=用虚灵能力强化你的攻击.^o这项技能必须保持开启以持续生效.
 
 tagCompSkillA033Name=混沌打击
-tagCompSkillA033Desc=穿越虚空, 用混沌的毁灭之力击打敌人. ^o需要一把近战武器. 
+tagCompSkillA033Desc=穿越虚空, 用混沌的毁灭之力击打敌人. ^o需要一把近战武器.
 
 tagCompSkillA034Name=强化盾牌猛击
-tagCompSkillA034Desc=用你的盾牌猛击敌人, 可使小型敌人完全失去反抗能力. ^o需要一把近战武器. 
+tagCompSkillA034Desc=用你的盾牌猛击敌人, 可使小型敌人完全失去反抗能力. ^o需要一把近战武器.
 
-tagCompSkillA035Name=虚化守卫光环
-tagCompSkillA035Desc=保护你和你的盟友免受腐败的虚化之力侵蚀. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA035Name=虚化守护
+tagCompSkillA035Desc=保护你免受腐败的虚化之力侵蚀.^o这项技能必须保持开启以持续生效.
 
-tagCompSkillA036Name=虚空守卫光环
-tagCompSkillA036Desc=保护你和你的盟友免受混乱虚空的侵害. ^o这项技能必须保持开启以持续生效. 
+tagCompSkillA036Name=虚空守护
+tagCompSkillA036Desc=保护你免受混乱虚空的侵害.^o这项技能必须保持开启以持续生效. 
 
 tagCompSkillA037Name=闪电新星
 tagCompSkillA037Desc=释放一阵闪电能量, 伤害附近所有的敌人. 
@@ -2733,7 +2751,7 @@ tagDevotionEffectB09Desc=在地上标记一个朝敌人喷射的奥术魔印. ^o
 tagDevotionEffectB09_Pet01=奥术标记
 tagDevotionEffectB09_Pet01Desc=用一枚奥术炸弹标记目标. 
 tagDevotionEffectB10=亡者复生
-tagDevotionEffectB10Desc=复生一名亡者来为你作战. 这项仪式所需要的腐坏能量是很不稳定的, 这些亡灵仆从只能在有限的一段时间内存在. ^o亡者会受到战宠加成影响. 
+tagDevotionEffectB10Desc=复生一名亡者来为你作战. 这项仪式所需要的腐坏能量是很不稳定的, 这些亡灵仆从只能在有限的一段时间内存在. ^o亡者会受到玩家伤害加成影响. 
 tagDevotionEffectB10_Pet01=近战攻击
 tagDevotionEffectB11=畏惧之焰
 tagDevotionEffectB11Desc=畏惧烈焰从你的撞击中爆发并在敌人之间弹跳. 

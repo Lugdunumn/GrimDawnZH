@@ -567,6 +567,8 @@ tagCharStatsDAHit=被击中几率:
 tagCharStatsDACrit=被暴击几率:
 tagCharStatsDADescription=防御能力提升你闪避敌人攻击的几率, 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能, 物品和力量影响. 
 
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum) 
+
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
@@ -586,6 +588,7 @@ tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
 tagRollFormat18={^b}{%.0f0} - {%.0f1}
 tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -658,7 +661,11 @@ tagItemInsufficientStatus={^r}声望不足
 
 #CharStatsTab2人物属性栏2
 
+tagCharStatsMaximumSpeed=最大速度
+
 #Character人物
+tagCharStatsAttacksPerSecond=每秒攻击次数
+tagCharStatsAttacksPerSecondInfoo=每秒使用武器的攻击次数，包含加成。
 tagCharStatsRunSpeed=奔跑速度
 tagCharStatsRunSpeedInfo=人物相对于基础值的奔跑速度(包含整体速度)。
 tagCharStatsCritDmg=暴击伤害
@@ -692,7 +699,7 @@ tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外�
 
 #Physical物理
 tagCharStatsAttackSpeed=攻击速度
-tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速). 
+tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速).慢速武器从攻速加成中的收益会减少.
 tagCharStatsAvgDmg=武器伤害
 tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值, 已含加成. 
 
@@ -1423,6 +1430,9 @@ tagAttackSpeedAverage=速度:中等
 tagAttackSpeedFast=速度:快速
 tagAttackSpeedVeryFast=速度:非常快
 
+tagAttackSpeed={^S}每秒攻击{^W}{%.2f0}{^S}次
+tagAttackSpeedR={^S}每秒攻击{^W}{%.2f0}-{%.2f1}{^S}次
+
 tagCharOffensiveAbility={^E}攻击能力 {^H}{%+.0f0}
 tagCharDefensiveAbility={^E}防御能力 {^H}{%+.0f0}
 tagCharOffensiveAbilityModifier={^E}攻击能力 {^H}{%+.0f0}%
@@ -1552,6 +1562,7 @@ SkillChanceWeight={%d0}% {^E}的几率使用
 SkillActivationChance={^E}的几率激活
 SkillDamageAbsorption={%.0f0} {^E}点伤害吸收 
 SkillDamageAbsorptionPercent={%.0f0}% {^E}伤害吸收 
+SkillPetBurstSpawn={^E}召唤 {^H}{%d0}
 SkillPetLimit={%d0} {^E}最大召唤个数
 SkillPetLimitMod=+{%d0} {^E}最大召唤个数
 SkillLifeBonus={%+.1f0} {^E}生命回复

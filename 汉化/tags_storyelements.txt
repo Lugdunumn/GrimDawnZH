@@ -1383,7 +1383,7 @@ tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属�
 
 tagNPC_SmithA05=艾特姆·法尔德
 tagStoreTitle_SmithA05=神力铁匠
-tagStoreDesc_SmithA05_1={}
+tagStoreDesc_SmithA05_1={}神力锻造
 tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成。
 tagStoreDesc_SmithA05_3= 
 tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
@@ -1444,7 +1444,7 @@ tagDevotionShrineB01=安克维亚山脉
 tagDevotionShrineB02=古安克维亚
 tagDevotionShrineB03=安克维亚地下城
 tagDevotionShrineB04=克隆利的藏身处
-tagDevotionShrineB05=破碎丘陵
+tagDevotionShrineB05=贫瘠高地
 tagDevotionShrineB06=岩石海岸
 tagDevotionShrineB07=苦痛阶梯
 tagDevotionShrineC01=山脉深渊

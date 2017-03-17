@@ -2000,7 +2000,7 @@ tagItemSkillD218Name=熔岩巨龙的吐息
 tagItemSkillD218Desc=向你的敌人释放熔岩巨龙的吐息. 
 
 tagItemSkillD219Name=巨龙之鳞
-tagItemSkillD219Desc=当受到火焰与闪电伤害时, 巨龙之鳞助你抵抗火焰与闪电伤害. 
+tagItemSkillD219Desc=巨龙之鳞助你免受伤害. 
 
 tagItemSkillD220Name=佐尔汉的复仇
 tagItemSkillD220Desc=佐尔汉在破坏敌人平衡方面十分在行. 在他们自认为很有优势的时候, 他就会用盾牌发出毁灭性的反击. 
@@ -2767,7 +2767,7 @@ tagDevotionEffectB15=暴风雪
 tagDevotionEffectB15Desc=锋利的寒冰碎片从天际降临到你的敌人上方. 
 tagDevotionEffectB16=恶臭水池
 tagDevotionEffectB16Desc=在你敌人脚下生成一片腐烂的水池, 使得大地腐败. 
-tagDevotionEffectB17=元素屏障
+tagDevotionEffectB17=奥术屏障
 tagDevotionEffectB17Desc=在你周围形成一道抵挡魔法力量的屏障. 
 tagDevotionEffectB18=酸雾喷射
 tagDevotionEffectB18Desc=狮蝎的钉刺穿透你的目标, 在他们身后制造一阵腐蚀性酸雾. 
@@ -2811,7 +2811,7 @@ tagDevotionEffectC12_Pet02=爆炸
 tagDevotionEffectC13=激流漩涡
 tagDevotionEffectC13Desc=激流的深渊如饥渴的漩涡一般向敌人释放来毁灭他们. 
 tagDevotionEffectC14=暗影复生
-tagDevotionEffectC14Desc=将一名无名英雄复生来与你并肩作战. ^o暗影复生受到玩家伤害影响. 
+tagDevotionEffectC14Desc=将一名无名英雄复生来与你并肩作战.每次暗影攻击都会回复你的生命值.^o暗影复生受到玩家伤害影响. 
 tagDevotionEffectC14_Pet01=暗影突袭
 tagDevotionEffectC14_Pet02=暗影刀锋
 
@@ -2858,7 +2858,7 @@ tagEnemySkillA03=幽魂瘴气
 tagEnemySkillA03_Desc=冥煞的诅咒会侵蚀你所有的防御力. 
 
 tagEnemySkillA04=痛苦标记
-tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量. 
+tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量,减少伤害输出,速度并严重抑制生命回复力.
 
 tagEnemySkillA05=自然之怒 
 tagEnemySkillA05_Desc=巨魔的诅咒衰弱你的精神和肉体, 削弱你对元素的抵抗能力. 

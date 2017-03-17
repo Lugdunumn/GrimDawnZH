@@ -1299,6 +1299,7 @@ tagGameOver=你死了！
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
 TripleStringFormat={%s0}{%s1}{%s2}
+TripleStringFormat2={%s0} {%s1}{%s2}
 QuadStringFormat={%s0}{%s1}{%s2}{%s3}
 SkillBaseNamesFormat={    %s0}
 CostFormat=花费:{%d0}
@@ -2032,7 +2033,7 @@ tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberSingle={^E}最多影响 {^H}{%d0} {^E}个目标
 tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
-tagSparkMaxNumberMod=至多影响 {^H}{%d0} {^E} 个目标
+tagSparkMaxNumberMod={^E}至多影响 {^H}{%d0} {^E} 个目标
 
 tagItemGrantSkill=授予技能:
 tagItemSkill=(从物品中获得)

@@ -389,8 +389,8 @@ tagAchievementsComplete={%d0} / {%d1}
 tagHUDMenu=菜单按钮
 tagHUDAttacks=当前攻击
 tagHUDSkills=快捷栏
-tagHUD_PotionHealth=^r生命药水
-tagHUD_PotionEnergy=^a能量药水
+tagHUD_PotionHealth=生命药水
+tagHUD_PotionEnergy=能量药水
 
 tagPortraitKick=从服务器踢出
 tagPortraitTrade=交易

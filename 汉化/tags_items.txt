@@ -2642,7 +2642,7 @@ tagEnchantA028Desc="民间有个关于一种巫术粉末的传言，当村里的
 tagEnchantA029A=圣火
 tagEnchantA029B=圣火 II
 tagEnchantA029C=圣火 III
-tagEnchantA029Desc="凯蒙的神选者在仪式中使用的粉末。当扔在火盆上时，它会爆发出电火花。 "^w^n(用于戒指和项链)
+tagEnchantA029Desc="凯蒙的神选者在仪式中使用的粉末。当扔在火盆上时，它会爆发出电火花。"^w^n(用于戒指和项链)
 
 tagEnchantA030A=祝福尘埃
 tagEnchantA030B=祝福尘埃 II

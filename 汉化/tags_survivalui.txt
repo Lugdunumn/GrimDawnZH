@@ -62,7 +62,7 @@ tagHUDMultiplier01=分数加成
 tagHUDMultiplier01Info=你所达到的分数加成；基于你连续多少次在计时器到时之前击败对手。如果你没能成功，加成就会重置。
 
 tagHUDTribute01=贡品
-tagHUDTribute01Info=你 所 获 得 的 贡 品 数 量 。 贡 品 是 一 种 货 币 ，你 可 以 用 来 获 得 不 同 的 神 之 祝 福 ， 防 御 工 事 以 及 返 回 各 个 检 查 点 。 你 无 法 获 得 多 于 100 份 贡 品。
+tagHUDTribute01Info=你 所 获 得 的 贡 品 数 量 。贡 品 是 一 种 货 币 ，你 可 以 用 来 获 得 不 同 的 神 之 祝 福 ， 防 御 工 事 以 及 返 回 各 个 检 查 点 。你 无 法 获 得 多 于 100 份 贡 品。
 
 tagHUDTimer01=加成计时器
 tagHUDTimer01Info=如果你在计时器到时之前完成当前波数，分数加成就会提高。

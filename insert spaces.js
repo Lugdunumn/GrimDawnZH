@@ -1,4 +1,3 @@
-```javascript
 function space(){
 	var len = document.getElementById('text').value.length;
 	var text = document.getElementById('text').value;
@@ -19,4 +18,3 @@ function space(){
 		text3 += text2.charAt(len-1);
         document.getElementById("text").value = text3;
     }
-```

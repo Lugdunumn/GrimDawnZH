@@ -1,5 +1,5 @@
-tagTitleScreenText=恐怖黎明{^n}©2017 Crate Entertainment, LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
-tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在Steam上发布，或者通过访问www.grimdawn.com来查看。
+tagTitleScreenText=恐怖黎明{^n}©2017 Crate Entertainment，LLC{^n}{^n}请访问我们的官网 www。grimdawn。com 并参与到恐怖黎明的开发中来！
+tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在Steam上发布，或者通过访问www。grimdawn。com来查看。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -7,7 +7,7 @@ tagMenu04=选项
 tagMenu05=制作人员
 tagMenu06=游戏指引
 tagMenu07=退出
-tagMenu08=DLC:残酷试炼场
+tagMenu08=DLC：残酷试炼场
 tagMenuButton01=创建人物
 tagMenuButton02=导入人物
 tagMenuButton03=删除人物
@@ -102,13 +102,13 @@ tagPlayGameModeCampaign=主线剧情
 tagPlayGameModeCustom=自定义游戏
 tagPlayGameModeSurvival=生存模式
 
-tagGameStateInit=初始化中……
-tagGameStateLoading=读取中……
-tagGameStateStarting=开始游戏……
-tagGameStateConnecting=正在连接至服务器……
-tagGameStateData=等待服务器……
+tagGameStateInit=初始化中...
+tagGameStateLoading=读取中...
+tagGameStateStarting=开始游戏...
+tagGameStateConnecting=正在连接至服务器...
+tagGameStateData=等待服务器...
 
-tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明!
+tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明！
 
 #
 #Options
@@ -262,8 +262,8 @@ tagHeadphoneSpeakers=耳机
 tagStereoSpeakers=立体声
 tagQuadraphonicSpeakers=四声道立体声
 tagSurroundSpeakers=环绕声
-tag51Speakers=5.1声道环绕声
-tag71Speakers=7.1声道环绕声
+tag51Speakers=5。1声道环绕声
+tag71Speakers=7。1声道环绕声
 tagVideoTitle=视频
 tagVideoResolution01=800x600
 tagVideoResolution02=1024x768
@@ -315,14 +315,14 @@ tagVideoDesc25=各向异性过滤等级。增强纹理质量。
 tagVideoDesc26=调整天气效果等级。
 tagVideoDesc27=调整颗粒效果强度。
 tagVideoDesc28=调整光线效果强度。
-tagVideoDesc29=渲染模式 (窗口化/全屏/无边框).
+tagVideoDesc29=渲染模式 (窗口化/全屏/无边框)。
 tagVideoDesc30=图形处理器/用于着色的显示器。
 tagFullscreen=全屏
 tagFullscreenWindowed=窗口化(无边框)
 tagWindowed=窗口化
 tagWidescreen=(W)
 tagNetworkTitle=网络
-tagUpnpTitle=UPnP协议:
+tagUpnpTitle=UPnP协议：
 tagUpnpStatus=UPnP协议状态：
 tagUpnpAvailable=可用
 tagUpnpNotAvailable=不可用
@@ -356,7 +356,7 @@ tagIPCheckUnable=无法检测网络设置。测试需要本地路由器激活UPn
 
 tagIPCheckUnableIP=无法获得外部可见的IP地址，无法运行测试。
 
-tagIPTesting=正在检测设置……
+tagIPTesting=正在检测设置...
 tagIPLocalPublic=路由器的公共IP地址：
 tagIPExternalPublic=互联网网可见的公共IP地址：
 tagIPInvalid=<无法获得地址>
@@ -368,7 +368,7 @@ tagMultiplayer03=类型
 tagMultiplayer04=玩家
 tagMultiplayer05=Ping值
 tagMultiplayer06=概述
-tagMultiplayer07=主机名称: 
+tagMultiplayer07=主机名称： 
 tagMultiplayer09=不可用的地图
 tagMultiplayer10=隐藏已满的游戏
 tagMultiplayer11=隐藏已锁的游戏
@@ -472,7 +472,7 @@ tagLoading=读取中
 tagFrenchPatch=恐怖黎明现在要将原始对话文档更新到法语版本。
 tagGermanPatch=恐怖黎明现在要将原始对话文档更新到德语版本。
 tagLanguagePatchError=恐怖黎明无法更新原始对话文档。
-tagMenuPatcher01=正在更新恐怖黎明原始文件......
+tagMenuPatcher01=正在更新恐怖黎明原始文件...
 tagMenuPatcher02=文件错误：
 tagGameSummary={%d0}游戏主机/{%d1}玩家
 
@@ -546,8 +546,8 @@ tagCharDetailsFaction=势力状态
 tagCharDetailsActiveQuests=已激活的任务：
 
 tagDirectConnectMenuConnecting=连接到服务器{%t0}
-tagDirectConnectMenuStatus1=与服务器通讯中……
-tagDirectConnectMenuStatus2=正在连接服务器……
+tagDirectConnectMenuStatus1=与服务器通讯中...
+tagDirectConnectMenuStatus2=正在连接服务器...
 tagDirectConnectMenuStatus3=连接完成，正在启动游戏。
 
 

@@ -646,7 +646,7 @@ tagRiftHoundHeroH04=炼狱~ 沃尔文
 tagRiftHoundHeroH05=沼地之怒 贾拉克斯 ~ 冲锋
 tagRiftHoundHeroH06=犬群猎手 加恩 ~ 防御者
 
-tagBossRifthoundB01=卡利斯卡, 骸骨猎人
+tagBossRifthoundB01=卡利斯卡，骸骨猎人
 
 #CreatureScavenger 食腐动物
 
@@ -1074,7 +1074,7 @@ tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
 tagQuestBloodWagon=血腥战车
 
 tagBossTheWarden01=典狱长
-tagBossLoghorrean01=罗格霍瑞恩, 冥神的代言人
+tagBossLoghorrean01=罗格霍瑞恩，冥神的代言人
 tagBossLoghorreanTentacle01=罗格霍瑞恩的触手
 tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
 tagBossLoghorreanTentacleCluster=触手集簇

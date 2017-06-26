@@ -98,7 +98,7 @@ tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹�
 tagClass01SkillName02A=[士兵]力场波
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气,投射出能量波眩晕敌人并造成伤害.^o该技能发动需要装备盾牌或双手近战武器.
 tagClass01SkillName02B=[士兵]裂甲之力
-tagClass01SkillDescription02B=力场波粉碎敌人的护甲,使他们更容易受到物理伤害.
+tagClass01SkillDescription02B=力场波粉碎敌人的防御,针对敌人暴露出的弱点造成严重的伤害.
 tagClass01SkillName02C=[士兵]内部创伤
 tagClass01SkillDescription02C=力场波粉碎骨骼并损伤内脏,造成大量的内外出血.
 tagClass01SkillName02D=[士兵]震颤
@@ -210,7 +210,7 @@ tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,减少造�
 tagClass02SkillName05A=[爆破者]迫击抛射炮
 tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮,直至耗尽.^o迫击炮会受到玩家伤害加成的影响.
 tagClass02SkillName05B=[爆破者]重型武器
-tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害.
+tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害.^o同时影响基本的迫击炮技能和巨型炸弹.
 tagClass02SkillName05C=[爆破者]巨型炸弹
 tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹,将向迫击抛射炮弹幕的初始方向发射.即便你的敌人存活下来,由此产生的巨大的爆炸也将给他们造成极度的恐慌.
 tagClass02SkillName05D=[爆破者]火力迫击炮
@@ -234,7 +234,7 @@ tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那�
 tagClass02SkillName08A=[爆破者]黑水鸡尾酒
 tagClass02SkillDescription08A=在常规弹药将要耗尽的时候调制黑水鸡尾酒.这些简易的火焰炸弹将在碰撞后留下自燃火焰,对付密集的敌人特别有效.
 tagClass02SkillName08B=[爆破者]恶魔之火
-tagClass02SkillDescription08B=被施加巫术的火焰拥有混沌之力,能熔化敌人的肉体并破坏护甲.
+tagClass02SkillDescription08B=被施加巫术的火焰拥有混沌之力,能熔化敌人的肉体.
 tagClass02SkillName08C=[爆破者]痛苦烈焰
 tagClass02SkillDescription08C=黑水火焰造成的痛苦会削弱敌人对法术攻击的抵抗能力.
 tagClass02SkillName08D=[爆破者]高能配方
@@ -298,7 +298,7 @@ tagClass03SkillName02F=死亡爆裂
 tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱,将附近的敌人烧成灰烬.
 
 tagClass03SkillName03A=[神秘学者]拜斯迈的羁绊
-tagClass03SkillDescription03A=强化与召唤生物之间的联结,使它们更努力更坚决地为你作战.
+tagClass03SkillDescription03A=强化与召唤生物之间的联结,使它们更努力更坚决地为你作战.^o技能必须开启才能保持生效.
 tagClass03SkillName03B=[神秘学者]掌控
 tagClass03SkillDescription03B=以微妙的手法操纵召唤契约,使召唤物对你忠诚无比.它们将以狂热的力量和速度为你而战.
 
@@ -1282,7 +1282,7 @@ tagItemSkillC114Name=虚化冲击
 tagItemSkillC114Desc=从你身上爆发出一股虚化能量.
 
 tagItemSkillC115Name=怨恨
-tagItemSkillC115Desc=从你身上爆发出一阵能撼动大地并粉碎护甲的怨恨之力.
+tagItemSkillC115Desc=从你身上爆发出一阵能撼动大地的怨恨之力.
 
 tagItemSkillC116Name=失血
 tagItemSkillC116Desc=切割主动脉,造成大量出血.
@@ -1535,7 +1535,7 @@ tagItemSkillD063Name=破晓者
 tagItemSkillD063Desc=用你的正义之气致盲敌人.
 
 tagItemSkillD064Name=亡者的羁绊之力
-tagItemSkillD064Desc=用你所获得的生命力量增强自己.
+tagItemSkillD064Desc=用你索求的灵魂力量增强自己.
 
 tagItemSkillD065Name=劈裂之斧
 tagItemSkillD065Desc=用锯齿之斧进行攻击,像切割血肉一般劈开敌人的护甲.
@@ -1760,10 +1760,10 @@ tagItemSkillD138Name=流星
 tagItemSkillD138Desc=撕裂冥界与现实世界最脆弱的屏障,召唤大量的燃烧岩石降临到敌人上方.
 
 tagItemSkillD139Name=贝若纳斯之力
-tagItemSkillD139Desc=引导伟大野兽贝若纳斯的力量.
+tagItemSkillD139Desc=引导伟大野兽贝若纳斯的力量,甚至可将你的奥术力量转化为致命的物理攻击。
 
 tagItemSkillD140Name=精神扭曲
-tagItemSkillD140Desc=扭曲现实,将你所有的物理力量转化为奥术破坏之力.
+tagItemSkillD140Desc=扭曲现实,将你部分的物理力量转化为奥术破坏之力.
 
 tagItemSkillD141Name=明晰时刻
 tagItemSkillD141Desc=你进入一种恍惚的顿悟状态,使你对奥术能量的掌控拥有无限可能.
@@ -1970,7 +1970,7 @@ tagItemSkillD208Name=野性之血
 tagItemSkillD208Desc=你的野性血统使你狂暴.
 
 tagItemSkillD209Name=野性蔓藤
-tagItemSkillD209Desc=蔓藤在你敌人周围肆意生长,缠绕并使其中毒.
+tagItemSkillD209Desc=蔓藤在你敌人周围肆意生长,缠绕并使其受到严重创伤.
 
 tagItemSkillD210Name=生者的意志
 tagItemSkillD210Desc=当你的生命在死亡边缘徘徊时,你对生存的强烈意志使你变得难以击杀.

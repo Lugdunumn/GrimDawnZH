@@ -473,6 +473,7 @@ tagHUDButtonRollOptions=保存，退出和游戏设置。
 
 tagSkillUndoClass=撤销职业选择
 tagSkillUndoPoints=撤销加点
+tagSkillUndoGeneric=撤销
 tagSkillClassSelect=选择职业
 tagCurrentLevel=当前等级:{%d0}
 tagNextLevel=下一等级:{%d0}

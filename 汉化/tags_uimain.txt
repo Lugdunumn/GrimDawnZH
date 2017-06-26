@@ -87,8 +87,11 @@ tagDifficultyJoinUltimate=终极难度以下
 tagDifficultyJoinAny=所有难度
 
 tagSDifficultyTitle01=好斗者
+tagSDifficultyTitle01Desc=正常难度的残酷试炼。
 tagSDifficultyTitle02=挑战者
+tagSDifficultyTitle02Desc=经验丰富的战士可以挑战更为艰难的残酷试炼，同时将获得更丰厚的奖励。
 tagSDifficultyTitle03=角斗者
+tagSDifficultyTitle03Desc=只有久经沙场的战士才能经受住角斗者级别的残酷试炼，获取更加丰厚的战利品。
 tagGameSDifficultySetting01=好斗者难度
 tagGameSDifficultySetting02=挑战者难度
 tagGameSDifficultySetting03=角斗者难度
@@ -109,6 +112,7 @@ tagGameStateConnecting=正在连接至服务器……
 tagGameStateData=等待服务器……
 
 tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明!
+tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
 #Options
@@ -322,6 +326,7 @@ tagFullscreenWindowed=窗口化(无边框)
 tagWindowed=窗口化
 tagWidescreen=(W)
 tagNetworkTitle=网络
+tagUpnpProbing=检查UPnP设备中……
 tagUpnpTitle=UPnP协议:
 tagUpnpStatus=UPnP协议状态：
 tagUpnpAvailable=可用

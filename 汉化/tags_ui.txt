@@ -707,24 +707,24 @@ tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值, 
 tagCharStatsPhysicalAbsDmg=物理伤害
 tagCharStatsPhysicalAbsDmgInfo=使用武器攻击每一击所造成的物理伤害, 已含加成. 
 tagCharStatsPhysicalPercentDmg=物理伤害加成
-tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数. 不含灵巧加成.% All Damage is included.
+tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数. 不含灵巧加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsPierceAbsDmg=穿刺伤害
 tagCharStatsPierceAbsDmgInfo=使用武器攻击每一击所造成的穿刺伤害, 已含加成. 
 tagCharStatsPiercePercentDmg=穿刺伤害加成
-tagCharStatsPiercePercentDmgInfo=攻击和法术造成的穿刺伤害的额外加成的百分数, 不含灵巧加成.% All Damage is included.
+tagCharStatsPiercePercentDmgInfo=攻击和法术造成的穿刺伤害的额外加成的百分数, 不含灵巧加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsBleedAbsDmg=流血伤害
 tagCharStatsBleedAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒流血伤害值, 已含加成. 
 tagCharStatsBleedPercentDmg=流血伤害加成
-tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数.% All Damage is included.
+tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数.全伤害类型百分比加成已包含在内.
 tagCharStatsBleedDuration=流血效果持续时间
 tagCharStatsBleedDurationInfo=你的流血攻击持续时间的额外加成的百分数, 每秒造成的伤害不会提高. 
 
 tagCharStatsInternalTraumaAbsDmg=创伤伤害
 tagCharStatsInternalTraumaAbsDmgInfo=使用武器攻击每一击所造成的5秒内每秒创伤伤害值, 已含加成. 
 tagCharStatsInternalTraumaPercentDmg=创伤伤害加成
-tagCharStatsInternalTraumaPercentDmgInfo=攻击和法术造成的创伤伤害的额外加成的百分数. 不含灵巧加成.% All Damage is included. 
+tagCharStatsInternalTraumaPercentDmgInfo=攻击和法术造成的创伤伤害的额外加成的百分数. 不含灵巧加成.全伤害类型百分比加成已包含在内. 
 tagCharStatsInternalTraumaDuration=创伤效果持续时间
 tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的额外加成的百分数, 每秒造成的伤害不会提高. 
 
@@ -747,27 +747,27 @@ tagCharStatsPercentHealthDamageInfo=基础攻击每一击所造成的计算当�
 tagCharStatsFireAbsDmg=火焰伤害
 tagCharStatsFireAbsDmgInfo=使用武器攻击每一击造成的火焰伤害, 已含加成. 
 tagCharStatsFirePercentDmg=火焰伤害加成
-tagCharStatsFirePercentDmgInfo=攻击和法术造成的火焰伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsFirePercentDmgInfo=攻击和法术造成的火焰伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsColdAbsDmg=冰冷伤害
 tagCharStatsColdAbsDmgInfo=使用武器攻击每一击所造成的穿刺伤害，已含加成。
 tagCharStatsColdPercentDmg=冰冷伤害加成
-tagCharStatsColdPercentDmgInfo=攻击和法术造成的冰冷伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsColdPercentDmgInfo=攻击和法术造成的冰冷伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsLightningAbsDmg=闪电伤害
 tagCharStatsLightningAbsDmgInfo=使用武器攻击每一击所造成的闪电伤害，已含加成。
 tagCharStatsLightningPercentDmg=闪电伤害加成
-tagCharStatsLightningPercentDmgInfo=攻击和法术造成的闪电伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsLightningPercentDmgInfo=攻击和法术造成的闪电伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsAcidAbsDmg=酸性伤害
 tagCharStatsAcidAbsDmgInfo=使用武器攻击每一击所造成的酸性伤害，已含加成。
 tagCharStatsAcidPercentDmg=酸性伤害加成
-tagCharStatsAcidPercentDmgInfo=攻击和法术造成的酸性伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsAcidPercentDmgInfo=攻击和法术造成的酸性伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsVitalityAbsDmg=活力伤害
 tagCharStatsVitalityAbsDmgInfo=使用武器攻击每一击所造成的活力伤害,已含加成.
 tagCharStatsVitalityPercentDmg=活力伤害加成
-tagCharStatsVitalityPercentDmgInfo=攻击和法术造成的活力伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsVitalityPercentDmgInfo=攻击和法术造成的活力伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsAetherAbsDmg=虚化伤害
 tagCharStatsAetherAbsDmgInfo=使用武器攻击每一击所造成的虚化伤害,已含加成.
@@ -777,40 +777,40 @@ tagCharStatsAetherPercentDmgInfo=攻击和法术造成的虚化伤害的额外�
 tagCharStatsChaosAbsDmg=混乱伤害
 tagCharStatsChaosAbsDmgInfo=使用武器攻击每一击所造成的混乱伤害值,已含加成.
 tagCharStatsChaosPercentDmg=混乱伤害加成
-tagCharStatsChaosPercentDmgInfo=攻击和法术造成的混乱伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsChaosPercentDmgInfo=攻击和法术造成的混乱伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 
 tagCharStatsBurnAbsDmg=燃烧伤害
 tagCharStatsBurnAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒燃烧伤害值,已含加成.
 tagCharStatsBurnPercentDmg=燃烧伤害加成
-tagCharStatsBurnPercentDmgInfo=攻击和法术造成的燃烧伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsBurnPercentDmgInfo=攻击和法术造成的燃烧伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 tagCharStatsBurnDuration=燃烧效果持续时间
 tagCharStatsBurnDurationInfo=你的燃烧伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsColdburnAbsDmg=霜燃伤害
 tagCharStatsColdburnAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒霜燃伤害值，已含加成。
 tagCharStatsColdburnPercentDmg=霜燃伤害加成
-tagCharStatsColdburnPercentDmgInfo=攻击和法术造成的霜燃伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsColdburnPercentDmgInfo=攻击和法术造成的霜燃伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 tagCharStatsColdburnDuration=霜燃效果持续时间
 tagCharStatsColdburnDurationInfo=你的霜燃伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsElectrocuteAbsDmg=电击伤害
 tagCharStatsElectrocuteAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒电击伤害值，已含加成。
 tagCharStatsElectrocutePercentDmg=电击伤害加成
-tagCharStatsElectrocutePercentDmgInfo=攻击和法术造成的电击伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsElectrocutePercentDmgInfo=攻击和法术造成的电击伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 tagCharStatsElectrocuteDuration=电击效果持续时间
 tagCharStatsElectrocuteDurationInfo=你的电击伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsPoisonAbsDmg=毒素伤害
 tagCharStatsPoisonAbsDmgInfo=使用武器攻击每一击所造成的5秒内每秒毒素伤害值，已含加成。
 tagCharStatsPoisonPercentDmg=毒素伤害加成
-tagCharStatsPoisonPercentDmgInfo=攻击和法术造成的毒素伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsPoisonPercentDmgInfo=攻击和法术造成的毒素伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 tagCharStatsPoisonDuration=毒素效果持续时间
 tagCharStatsPoisonDurationInfo=你的毒素伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsVitalityDecayAbsDmg=活力衰减伤害
 tagCharStatsVitalityDecayAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒活力衰减伤害值，已含加成。
 tagCharStatsVitalityDecayPercentDmg=活力衰减伤害加成
-tagCharStatsVitalityDecayPercentDmgInfo=攻击和法术造成的活力衰减伤害的额外加成的百分数.不含精神加成.% All Damage is included.
+tagCharStatsVitalityDecayPercentDmgInfo=攻击和法术造成的活力衰减伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
 tagCharStatsVitalityDecayDuration=活力衰减效果持续时间
 tagCharStatsVitalityDecayDurationInfo=你的活力衰减伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
@@ -840,7 +840,7 @@ tagCharStatsPetHealth=战宠生命加成
 tagCharStatsPetHealthInfo=你的战宠和召唤物的生命加成的百分数。
 
 tagCharStatsPetDamage=战宠伤害加成
-tagCharStatsPetDamageInfo=你的战宠和召唤物所造成的伤害加成的百分数.% All Damage is included.
+tagCharStatsPetDamageInfo=你的战宠和召唤物所造成的伤害加成的百分数.全伤害类型百分比加成已包含在内.
 
 tagCharStatsPetAttackSpeed=战宠攻速加成
 tagCharStatsPetAttackSpeedInfo=你的战宠和召唤物的攻击速度加成的百分数。
@@ -939,27 +939,27 @@ tagCharStatsCurrentLifeReflectInfo=无论何时你受到攻击，以该比率基
 tagCharStatsPhysicalRet=物理反击
 tagCharStatsPhysicalRetInfo=当你被攻击时对攻击者造成的物理伤害.
 tagCharStatsPhysicalPercentRet=物理反击加成
-tagCharStatsPhysicalPercentRetInfo=所有物理伤害反击效果加成比率.% All Damage does not affect Retaliation damage.
+tagCharStatsPhysicalPercentRetInfo=所有物理伤害反击效果加成比率.全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsPierceRet=穿刺反击
 tagCharStatsPierceRetInfo=当你被攻击时对攻击者造成的穿刺伤害。
 tagCharStatsPiercePercentRet=穿刺加成
-tagCharStatsPiercePercentRetInfo=所有穿刺伤害反击效果加成比率.% All Damage does not affect Retaliation damage.
+tagCharStatsPiercePercentRetInfo=所有穿刺伤害反击效果加成比率.全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsBleedRet=流血反击
 tagCharStatsBleedRetInfo=当你被攻击时对攻击者造成3秒内每秒的流血伤害。
 tagCharStatsBleedPercentRet=流血反击加成
-tagCharStatsBleedPercentRetInfo=所有流血伤害反击效果的加成比率.% All Damage does not affect Retaliation damage.
+tagCharStatsBleedPercentRetInfo=所有流血伤害反击效果的加成比率.全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsInternalTraumaRet=创伤反击
 tagCharStatsInternalTraumaRetInfo=当你被攻击时对攻击者造成5秒内每秒的创伤伤害。
 tagCharStatsInternalTraumaPercentRet=创伤反击加成
-tagCharStatsInternalTraumaPercentRetInfo=所有创伤伤害反击效果的加成比率.% All Damage does not affect Retaliation damage.
+tagCharStatsInternalTraumaPercentRetInfo=所有创伤伤害反击效果的加成比率.全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsFireRet=火焰反击
 tagCharStatsFireRetInfo=当你被攻击时对攻击者造成的火焰伤害。
 tagCharStatsFirePercentRet=火焰反击加成
-tagCharStatsFirePercentRetInfo=所有火焰伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsFirePercentRetInfo=所有火焰伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsColdRet=冰冷反击
 tagCharStatsColdRetInfo=当你被攻击时对攻击者造成的冰冷伤害。
@@ -969,52 +969,52 @@ tagCharStatsColdPercentRetInfo=所有冰冷伤害反击效果的加成比率。
 tagCharStatsLightningRet=闪电反击
 tagCharStatsLightningRetInfo=当你被攻击时对攻击者造成的闪电伤害。
 tagCharStatsLightningPercentRet=闪电反击加成
-tagCharStatsLightningPercentRetInfo=所有闪电伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsLightningPercentRetInfo=所有闪电伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsAcidRet=酸性反击
 tagCharStatsAcidRetInfo=当你被攻击时对攻击者造成的酸性伤害。
 tagCharStatsAcidPercentRet=酸性反击加成
-tagCharStatsAcidPercentRetInfo=所有酸性伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsAcidPercentRetInfo=所有酸性伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsVitalityRet=活力反击
 tagCharStatsVitalityRetInfo=当你被攻击时对攻击者造成的活力伤害。
 tagCharStatsVitalityPercentRet=活力反击加成
-tagCharStatsVitalityPercentRetInfo=所有活力伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsVitalityPercentRetInfo=所有活力伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsAetherRet=虚化反击
 tagCharStatsAetherRetInfo=当你被攻击时对攻击者造成的虚化伤害。
 tagCharStatsAetherPercentRet=虚化加成
-tagCharStatsAetherPercentRetInfo=所有虚化伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsAetherPercentRetInfo=所有虚化伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsChaosRet=混乱反击
 tagCharStatsChaosRetInfo=当你被攻击时对攻击者造成的混乱伤害。
 tagCharStatsChaosPercentRet=混乱反击加成
-tagCharStatsChaosPercentRetInfo=所有混乱伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsChaosPercentRetInfo=所有混乱伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsBurnRet=燃烧反击
 tagCharStatsBurnRetInfo=当你被攻击时对攻击者造成3秒内每秒的燃烧伤害。
 tagCharStatsBurnPercentRet=燃烧反击加成
-tagCharStatsBurnPercentRetInfo=所有燃烧伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsBurnPercentRetInfo=所有燃烧伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsColdburnRet=霜燃反击
 tagCharStatsColdburnRetInfo=当你被攻击时对攻击者造成3秒内每秒的霜燃伤害。
 tagCharStatsColdburnPercentRet=霜燃反击加成
-tagCharStatsColdburnPercentRetInfo=所有霜燃反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsColdburnPercentRetInfo=所有霜燃反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsElectrocuteRet=电击反击
 tagCharStatsElectrocuteRetInfo=当你受到攻击时对攻击者造成持续3秒的电击伤害。
 tagCharStatsElectrocutePercentRet=电击反击加成
-tagCharStatsElectrocutePercentRetInfo=所有电击伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsElectrocutePercentRetInfo=所有电击伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsPoisonRet=毒素反击
 tagCharStatsPoisonRetInfo=当你被攻击时对攻击者造成5秒内每秒的毒素伤害。
 tagCharStatsPoisonPercentRet=毒素反击加成
-tagCharStatsPoisonPercentRetInfo=所有毒素伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsPoisonPercentRetInfo=所有毒素伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 tagCharStatsVitalityDecayRet=活力衰减反击
 tagCharStatsVitalityDecayRetInfo=当你被攻击时对攻击者造成3秒内每秒的活力衰减伤害。
 tagCharStatsVitalityDecayPercentRet=活力衰减反击加成
-tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果的加成比率。% All Damage does not affect Retaliation damage.
+tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害.
 
 #Stats
 tagCharStatsItemLevel=平均物品等级
@@ -1331,7 +1331,7 @@ tagCharConstitutionModifier={%+.0f0}% {^E}体力
 tagCharManaRegenModifier={^E}能量回复速度提高 {^H}{%.0f0}%
 
 tagCharManaLimitReserve={%+.0f0} {^E}点预留能量值
-tagCharManaLimitReserveMod={%+.0f0} {^E}Energy Reserved
+tagCharManaLimitReserveMod={%+.0f0} {^E}点预留能量值
 tagCharManaLimitReserveReduction={^E}预留能量值减少 {%.0f0}
 tagCharManaLimitReserveModifier={^E}预留能量值 {+%.0f0}%
 tagCharManaLimitReserveReductionModifier={^E}预留能量值减少效果提高 {%.0f0}%
@@ -1569,8 +1569,8 @@ SkillActivationChance={^E}的几率激活
 SkillDamageAbsorption={%.0f0} {^E}点伤害吸收 
 SkillDamageAbsorptionPercent={%.0f0}% {^E}伤害吸收 
 SkillPetBurstSpawn={^E}召唤 {^H}{%d0}
-SkillPetBurstSpawnMod=+{%d0} {^E}Summon
-SkillPetBurstSpawnsMod=+{%d0} {^E}Summons
+SkillPetBurstSpawnMod=+{%d0} {^E}召唤
+SkillPetBurstSpawnsMod=+{%d0} {^E}召唤
 SkillPetLimit={%d0} {^E}最大召唤个数
 SkillPetLimitMod=+{%d0} {^E}最大召唤个数
 SkillLifeBonus={%+.1f0} {^E}生命回复
@@ -1622,7 +1622,7 @@ ActiveDuration=持续时间
 Interval=间隔
 TargetRadius=目标区域
 TargetAngle={%.0f0} {^E}度攻击范围
-TargetAngleMod=+{%.0f0} {^E}Degree Attack Arc
+TargetAngleMod=+{%.0f0} {^E}度攻击范围
 TargetNumber={^E}最多作用于 {^H}{%d0} {^E}个目标
 TargetNumberMod={^E}最多作用目标 +{%d0} 
 CooldownTime={^E}技能冷却时间
@@ -1685,11 +1685,11 @@ RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}秒
 RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}秒
 RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}秒
 tagDurationDamageOverTime={^E}每秒 {^H}{%d0} {^E}点伤害
-tagDotReductionAbsolute={%d0} {^E}Reduction
-tagDotReductionPercent={%d0}% {^E}Reduction
-tagDotTimeRemaining={^H}{%.0f0} {^E}Seconds Remaining
-tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}Seconds Remaining
-tagDurationFumble={%d0}% {^E}Chance to Miss
+tagDotReductionAbsolute={^E}减少  {^H}{%d0}
+tagDotReductionPercent={^E}减少 {^H}{%d0}%
+tagDotTimeRemaining={^E}剩余 {^H}{%.0f0} {^E}秒
+tagDotTimeRemainingPrecise={^E}剩余 {^H}{%.1f0} {^E}秒
+tagDurationFumble={%d0}% {^E}的几率攻击失误
 tagDotBleeding=流血
 tagDotCold=被冰冻
 tagDotFire=受到灼烧
@@ -1700,24 +1700,24 @@ tagDotAether=虚化
 tagDotLifeLeech=生命吸取
 tagDotManaLeech=能量吸取
 tagDotPhysical=内伤
-tagDotAttackSpeed=Attack Speed
-tagDotCastSpeed=Cast Speed
-tagDotRunSpeed=Run Speed
-tagDotOffensiveAbility=Offensive Ability
-tagDotDefensiveAbility=Defensive Ability
-tagDotFumble=Melee Fumble
-tagDotRangedFumble=Impaired Aim
-tagDotTotalDamageReduction=Total Damage
-tagDotPhysicalDamageReduction=Physical Damage
-tagDotElementalDamageReduction=Elemental Damage
-tagDotTotalResistReduction=Total Resist
-tagDotPhysicalResistReduction=Physical Resist
-tagDotElementalResistReduction=Elemental Resist
-tagDotStun=Stunned
-tagDotSleep=Asleep
-tagDotTrap=Trapped
-tagDotFreeze=Frozen
-tagDotPetrify=Petrified
+tagDotAttackSpeed=攻击速度
+tagDotCastSpeed=施法速度
+tagDotRunSpeed=奔跑速度
+tagDotOffensiveAbility=攻击能力
+tagDotDefensiveAbility=防御能力
+tagDotFumble=近战攻击失手
+tagDotRangedFumble=远程瞄准失误
+tagDotTotalDamageReduction=全伤害
+tagDotPhysicalDamageReduction=物理伤害
+tagDotElementalDamageReduction=元素伤害
+tagDotTotalResistReduction=全抗性
+tagDotPhysicalResistReduction=物理抗性
+tagDotElementalResistReduction=元素抗性
+tagDotStun=被击晕
+tagDotSleep=昏睡
+tagDotTrap=被诱捕
+tagDotFreeze=被冰冻
+tagDotPetrify=被石化
 
 tagSetItems=({%d0}) 套装
 tagSecond={^E}秒
@@ -2064,13 +2064,13 @@ tagRetaliationModifierTotalDamage={%+.0f0}% {^E}到所有类型反击伤害
 tagTotalSpeedResistance={%.0f0}% {^E}减速抗性
 tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
-tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
-tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}targets
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberSingle={^E}最多影响 {^H}{%d0} {^E}个目标
-tagSparkMaxNumberSingleMod={^E}Affects up to {^H}+{%d0} {^E}target
+tagSparkMaxNumberSingleMod={^E}最多影响 {^H}+{%d0} {^E}个目标
 tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
-tagSparkMaxNumberMod={^E}至多影响 {^H}{%d0} {^E} 个目标
+tagSparkMaxNumberMod={^E}最多影响 {^H}{%d0} {^E} 个目标
 
 tagItemGrantSkill=授予技能:
 tagItemSkill=(从物品中获得)

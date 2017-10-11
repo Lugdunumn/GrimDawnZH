@@ -125,7 +125,7 @@ tagChthonianMinionHeroH03=福斯·达若斯
 tagChthonianMinionHeroH04=奥尔杜安·达若斯
 tagChthonianMinionHeroH05=帕尔夫·达若斯
 tagChthonianMinionHeroH06=玛戈·卢加尔 ~ 防御者
-tagChthonianMinionHeroH07=沙拉那图 ~ 护盾
+tagChthonianMinionHeroH07=沙尔·卢瑟尔 ~ 护盾
 
 tagEnemyChthonianDreadguardA01=冥煞先锋
 tagEnemyChthonianDreadguardB01=冥煞恐惧守卫
@@ -1005,7 +1005,7 @@ tagPetWhirlwindA01=旋风
 tagPetThornedHorrorA01=荆棘
 tagPetManticoreA01=原始灵魂
 tagPetWindDevilA01=风魔
-tagPetTotemA01=雪怪图腾
+tagPetTotemA01=温迪戈图腾
 tagPetTotemA02=风暴图腾
 tagPetTotemA02B=腐坏图腾
 tagPetBlackScourge=黑暗之灾

@@ -1,0 +1,107 @@
+Avatar of Mogdrogen
+You have allied yourself with vile people, mortal.{^n}{^n}I hope you are spared long enough to change your ways, lest you regret that decision.
+
+You speak of Barrowholm?
+Yes. The fiend they worship does not hold your interests at heart.{^n}{^n}Serve him, and you serve your own undoing.
+I have already dealt with this Ravager.
+Then perhaps some hope remains for this world.{^n}{^n}If at the peak of his strength the Ravager cannot handle a human, even one as mighty as yourself, then his vision for Cairn will never be realized.
+Can I ask about something else?
+Farewell.
+Then perhaps some hope remains for this world.{^n}{^n}If at the peak of his strength the Ravager cannot handle a human, then his vision for Cairn will never be realized.
+Can I ask about something else?
+Farewell.
+Can I ask about something else?
+I'll take my chances.
+Perhaps you are right.
+I have already dealt with this Ravager.
+
+Farewell.
+What is it?
+I have some questions.
+Ask.
+Why is the grove so important to you?
+It was once a tranquil place, one I visited often to meditate in peace for years at a time.{^n}{^n}I cultivated its growth over the centuries, creating a carefully balanced ecosystem that thrived without my intervention. When the time came for me to move on, I created the Heart of the Wild to watch over my creation.{^n}{^n}To see it desecrated in such a manner fills me with rage.
+I have another question.
+I see.
+Why are you not doing more to help us?
+Even gods do not last forever.{^n}{^n}I do my part but if the parent always steps in when the child errs, it will never learn to survive on its own. If the world cannot eventually sustain itself, then it is a failure and better it die sooner than later, so that something new can arise in its place.{^n}{^n}Unfortunately, in this analogy, a lasting balance might be more attainable if creation did not have so many parents, working against one another toward different visions.
+I have another question.
+I...see.
+What are you planning?
+With the loyal service of the Rhowari who follow me, I shall try to give this world a chance to survive through the coming darkness.{^n}{^n}Many will not survive the perilous tasks before them, but such is the cycle of nature, that some must die to secure a future for their offspring.
+What about the rest of us?
+The suffering of your people has only begun.{^n}{^n}It may not be fair, but such is the way of things. Even we gods are caught within eternal cycles of creation and destruction.{^n}{^n}Whether you accept that or not, it simply is.
+I have another question.
+You disgust me.
+So be it.
+I have another question.
+I'll you to it.
+I see.
+Nevermind.
+Farewell.
+Have you come to pay your respects, mortal?
+Who are you?
+I am the Lord of Beasts, protector of wilds, teacher to the Rhowari.{^n}{^n}Many of your kind call me Mogdrogen.
+A god? Shouldn't you be protecting Cairn?
+Even gods do not last forever.{^n}{^n}I do my part but if the parent always steps in when the child errs, it will never learn to survive on its own. If the world cannot eventually sustain itself, then it is a failure and better it die sooner than later, so that something new can arise in its place.{^n}{^n}Unfortunately, in this analogy, a lasting balance might be more attainable if creation did not have so many parents, working against one another toward different visions.
+Alright then, I'll be going.
+I...see.
+Farewell.
+I feel that a great evil has been lifted from the grove, but also a great emptiness.{^n}{^n}My guardian must be dead then.
+It is finished.
+You are a friend of nature and for that I thank you.{^n}{^n}Take this weapon of legends, a fitting prize for one such as you, as your reward.
+
+Thank you.
+I still sense corruption within the Ancient Grove.{^n}{^n}You must hurry before it grows any stronger.
+Where must I go?
+The entrance to the Ancient Grove lies just beyond the overgrowth behind me.{^n}{^n}Be wary of what awaits you within. The corruption has taken hold and many beasts have been warped by its presence.{^n}{^n}It must not be allowed to spread.
+I'll be careful.
+I will head there soon.
+Greetings, mortal.{^n}{^n}You've proven to me your prowess in battle once before, but now it is time to put your skills to the test.{^n}{^n}Will you assist me in an urgent matter threatening this region?
+What do you ask of me?
+I give you this task and as an opportunity to demonstrate that your kind can become stewards of this world, capable of restoring balance when it has been lost.{^n}{^n}The savage wilderness of the Ancient Grove is dear to me, but with the recent calamity it has become corrupted by the very forces you battle against. Aetherial and Chthonic taint now threatens to overwhelm the fragile ecosystem within and spill forth into the surrounding environment.{^n}{^n}Deep within the grove, in the Heart of the Forest, a once proud guardian has fallen to the infestation. Should it escape the confines of the grove, it could wreak unimaginable destruction upon your people.{^n}{^n}Though it pains me to say it, it falls to you to enter the grove and dispatch this once magnificent creature. Will you deal with this threat?
+I will deal with your problem.
+Deal with this yourself.
+I've already done this.
+Splendid, though strange that news of this has not reached my ears.{^n}{^n}You are a friend of nature and for that I thank you.{^n}{^n}Take this weapon of legends, a fitting prize for one such as you, as your reward.
+
+Thank you.
+How are you in two places at once?
+This is but a mere manifestation of my presence, an avatar.{^n}{^n}I do not have a single, finite form as you do.
+
+I must be going.
+Not interested.
+Greetings, mortal.{^n}{^n}Your efforts to restore my shrine in Asterkarn have convinced me that you are the one I need.{^n}{^n}Will you assist me in an urgent matter threatening this region?
+What do you ask of me?
+With my attention turned elsewhere, I must turn to you to assist me in cleansing a once sacred place.{^n}{^n}The savage wilderness of the Ancient Grove is dear to me, but with the recent calamity it has become corrupted by the very forces you battle against. Aetherial and Chthonic taint now threatens to overwhelm the fragile ecosystem within and spill forth into the surrounding environment.{^n}{^n}Deep within the grove, in the Heart of the Forest, a once proud guardian has fallen to the infestation. Should it escape the confines of the grove, it could wreak unimaginable destruction upon your people.{^n}{^n}Though it pains me to say it, it falls to you to enter the grove and dispatch this once magnificent creature. Will you deal with this threat?
+I will deal with your problem.
+Deal with this yourself.
+I've already done this.
+
+How are you in two places at once?
+This is but a mere manifestation of my presence, an avatar.{^n}{^n}To project myself in multiple places is a trivial matter.
+
+
+I must be going.
+I am tired of your insults and arrogance.
+I will not reduce myself to engaging with you, mortal, not this time.{^n}{^n}More important matters draw my attention.{^n}{^n}Will you assist me with this matter, or not?
+
+
+Not interested.
+Not interested.
+Greetings, mortal.{^n}{^n}I've been watching your progress and I believe that you may be just the one I need.{^n}{^n}Will you assist me in an urgent matter threatening this region?
+What do you ask of me?
+With my attention turned elsewhere, I must turn to another to cleanse a once sacred place. I hope that you are capable of the task.{^n}{^n}The savage wilderness of the Ancient Grove is dear to me, but with the recent calamity it has become corrupted by the very forces you battle against. Aetherial and Chthonic taint now threatens to overwhelm the fragile ecosystem within and spill forth into the surrounding environment.{^n}{^n}Deep within the grove, in the Heart of the Forest, a once proud guardian has fallen to the infestation. Should it escape the confines of the grove, it could wreak unimaginable destruction upon your people.{^n}{^n}Though it pains me to say it, it falls to you to enter the grove and dispatch this once magnificent creature. Will you deal with this threat?
+I will deal with your problem.
+Deal with this yourself.
+I've already done this.
+
+Who are you?
+I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
+
+Shouldn't you be protecting Cairn?
+Even gods do not last forever.{^n}{^n}I do my part but if the parent always steps in when the child errs, it will never learn to survive on its own. If the world cannot eventually sustain itself, then it is a failure and better it die sooner than later, so that something new can arise in its place.{^n}{^n}Unfortunately, in this analogy, a lasting balance might be more attainable if creation did not have so many parents, working against one another toward different visions.
+
+Alright then, I'll be going.
+I...see.
+Not interested.

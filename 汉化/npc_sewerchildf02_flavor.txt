@@ -1,0 +1,60 @@
+Eraline
+Did you talk to the other kids for me?
+You're right, they are monsters.
+So you did talk to them.{^n}{^n}Did you say something mean? Did you scare them? 
+I don't think they'll be bothering you for a while. 
+Oh, thank you so much [[ms]mr[fs]ma'am].
+Don't worry about it. 
+I told you we're all in this together.
+I told them you're a necromancer. 
+You did what?{^n}{^n}Oh no, what am I gonna do now?
+Don't worry they'll never know.
+But I can't do any necromancer spells.
+It'll be our little secret.
+Keep practicing.
+I'll be back.
+Whoah, hey!{^n}{^n}Are you one of those necromancers?
+That's none of your business, kid.
+You're really mean... That's so great!{^n}{^n}I mean it makes sense, you're a necromancer and all.{^n}{^n}You probably spend a lot of time with dead things. Well, I mean undead things.
+I certainly do.
+Oh man, that must be so much fun,{^n}{^n}I'm gonna be a necromancer some day too. Then I can bring dead stuff back to life.{^n} {^n}Like rats, and those nastly little grobble things, and like a huge slimy monster made of horse bones.{^n} {^n}You can do that right?
+Look, I don't have time for this.
+I am, but let's keep that between you and I.
+Oh, ok. Like our little secret, I get it.{^n}{^n}People probably think you’re really scary. I won't tell anybody.{^n}{^n}I'm gonna be a necromancer some day too. Then I can bring dead stuff back to life.{^n}{^n}Like rats, and those nasty little grobble things, and like a huge slimy monster made of horse bones.{^n}{^n}You can do that, right?
+Uh, not exactly.
+Oh, come on. I know you can do it.{^n}{^n}You can probably make all kinds of nasty stuff.
+
+Yeah...Sure.
+I knew it.{^n}{^n}Oh man, I can't wait.{^n}{^n}I'm gonna bring back all kinds of stuff.
+Shouldn't you be with your parents or something?
+*Eraline hesitates*{^n}{^n}They're all dead, ok?{^n}{^n}My brothers my sisters, mommy and daddy.{^n}{^n}The monsters came and took mommy first, then daddy went looking for her and never came back.
+Is that why you want to be a Necromancer?
+Um...Maybe...{^n}{^n}I just wanna see mommy again.{^n}{^n}I can't stand it down here. It stinks and all the other kids are mean. They just make fun of me all the time. I'm...I'm all by myself.{^n}{^n}I just thought if I was a necromancer maybe I could bring them back and I wouldn't be lonely anymore.
+I'm sorry kid, that's just not how it works.
+You're probably right.{^n}{^n}I just...I don't want to be alone anymore.
+What's wrong with the other kids?
+You're not alone, kid. We're all in this together.
+I'll avenge your family.
+I'm sorry about your family, kid.
+What happend to your brothers and sisters?
+*Eraline shakes her head*{^n}{^n}I don't want to talk about it ok?
+
+I'm sorry about your family, kid.
+Keep practicing, kid.
+I'm afraid not.
+I don't have time to talk.
+Did you come over here to make me go back and play with the other kids?
+No. What's wrong with the other kids?
+They're evil. They just keep making fun of me because my parents are dead.{^n}{^n}Thad says my mommy is a monster now and she's gonna come get me when I sleep.
+That's pretty terrible, but you're safe down here.
+What do you mean, is mommy really a monster?{^n}{^n}Is she really coming to get me?
+No. The other kids are lying to you.
+You really think so?{^n}{^n}It doesn't matter anyway. They're never going to stop making fun of me.
+I'll talk to them.
+You would do that?
+Sure kid.
+No one likes a bully.
+No, probably not.
+Yeah, probably not.
+Yeah, probably.
+Nope.

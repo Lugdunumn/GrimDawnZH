@@ -1,0 +1,19 @@
+Leora Karns
+Help us, please.{^n}{^n}You have to get us out of here.
+Don't worry, help is on the way.
+Help, please.{^n}{^n}You have to get us out of here before those things come back.
+I've been looking for you, the coven sent me.
+Bless the Three, someone came.{^n}{^n}These fiends set a trap for us, like we were animals. They appear to be eating people. This cage was tighter before you got here...
+I can open a rift and send you to the refuge.
+Please, whatever it takes, just get us out of here.{^n}{^n}
+Here you go. (Open Riftgate)
+I'll be back for you.
+I'll be back for you.
+Help, please.{^n}{^n}You have to get us out of here before those things come back.
+Where will you go?
+There's a refuge nearby. We were headed there when these fiends captured us. {^n}{^n}They set a trap for us, like we were animals. They appear to be eating people. This cage was tighter before you got here...{^n}{^n}Please, you have to get us out of here.
+I can open a rift and send you there.
+Please, whatever it takes, just get us out of here.
+Here you go. (Open Riftgate)
+You're on your own.
+I'll be back for you.

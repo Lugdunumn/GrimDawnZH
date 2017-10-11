@@ -1,4 +1,50 @@
 卡斯帕罗夫
+Splendid work in Malmouth.{^n}{^n}I wish you had brought me some samples of this "Master of Flesh", but I suppose it is for the best that none of his twisted legacy ever see the light of day again.
+What's left to try with Hargate's Formula? 
+Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course. 
+别把我们都弄死。 
+祝你好运。
+再见。
+You may not have an appreciation for the art of science, but at least you fight for us all.{^n}{^n}I suppose I must forgive and move on. 
+再见。
+The exothermic results were...undesirable, but there's still hope, yes, most certainly not a dead end. 
+What is left to try? 
+Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course. 
+Just don't kill us all. 
+祝你好运。
+祝你好运。
+This business with the colossus, despicable, truly despicable. 
+再见。
+Leave me to my work. Some of us are busy trying to end this madness. 
+You don't say? 
+I'll, uh, leave you to it. 
+You're here! Splendid!{^n}{^n}I have some good news! I dare say, I may have finally deciphered the mess of notes you brought me from Hargate's laboratory.{^n}{^n}It may be just the breakthrough we've been looking for! 
+Great! What is it? 
+What you see before you is an Aether Crystal, but not just any crystal. I've attuned it precisely to the specifications within Hargate's notes.{^n}{^n}Based on what I've uncovered, I may have stumbled upon a way to reverse the energies within the crystal and force it to release all of the tainted energies within.{^n}{^n}In theory, I should be able to do the same to living tissue. In theory... But let's begin with a simpler experiment, just the crystal itself. 
+让我们试一下。
+Hm, it appears the crystal was not as stable as I had hoped.{^n}{^n}Oh dear, there goes another finger. Are you alright?{^n}{^n}No matter, look! The crystal has lost its aether hue and is now a magnificent stable purple!{^n}{^n}Perhaps it's not the breakthrough we needed, but it is a step in the, uh, correct trajectory. With more research, and perhaps some gloves, I may able to reverse Aetherial mutations after all! 
+I'm getting really tired of your "experiments". 
+Let's hope you figure something out. 
+绝对不。
+Oops, too late now! It appears the crystal was not as stable as I had hoped.{^n}{^n}Oh dear, there goes another finger. Are you alright?{^n}{^n}No matter, look! The crystal has lost its aether hue and is now a magnificent stable purple!{^n}{^n}Perhaps it's not the breakthrough we needed, but it is a step in the, uh, correct trajectory. With more research, and perhaps some gloves, I may able to reverse Aetherial mutations after all! 
+I'm getting really tired of your "experiments". 
+Let's hope you figure something out. 
+I'm not comfortable with this. 
+I don't have time for this right now. 
+Maybe later, Kasparov. 
+Well, make yourself useful for a change and deal with this catastrophe. 
+I'm working on it. 
+Well, make yourself useful for a change and deal with this catastrophe. 
+I'm working on it. 
+This business with the colossus, despicable, truly despicable.{^n}{^n}Hargate's formula has proven difficult to decipher, but perhaps there is still a chance we can gleam some knowledge as to the mutations involved. 
+Any progress with the formula? 
+Hargate's formula has proven difficult to decipher, but perhaps there is still a chance we can gleam some knowledge as to the mutations involved. 
+多加小心。
+别让我后悔。
+但愿如此。
+This business with the colossus, despicable, truly despicable. 
+ 
+但愿如此。
 你像是个对科学奇观欣赏不能的穴居人，不过至少你挺擅长收集食物的。
 
 
@@ -34,7 +80,7 @@
 
 只是路过。
 嗯？你有什么要给我的？
-我这里有一份配方。（给予配方）
+我这里有一份配方。（给他配方）
 好，很好，拿到这边来。我们来看看老哈格特在他的实验室里构想出了些什么。{^n}{^n}他在圣物上附着了什么东西，这只是个开始。从这些星状物看，简直是混乱无比。我们需要时间来破解它。
 你对这些笔记有明确的研究计划吗？
 最差也能满足我的好奇心，最好的结果则是能发现恢复虚灵发生突变的方法。{^n}{^n}我们的成果取决于我能理解里面多少术语。

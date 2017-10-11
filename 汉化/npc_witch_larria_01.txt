@@ -1,0 +1,46 @@
+Larria
+It's clear you too have seen through the deceit of Barrowholm.{^n}{^n}Their kind must not be allowed to exist if this world is to be safe.
+What do you mean?
+Their god, Ravager, is a vicious and vengeful being that will bring about a darkness the likes of which is only rivaled by the Aetherials and the Chthonians.{^n}{^n}To see their cult dismantled is to ensure that he never returns to our world.
+I see.
+Good riddance, I say.
+Farewell.
+Thank you for the warning.{^n}{^n}I will leave here as soon as I've gathered a few things.
+What were you doing here?
+It's no secret that the Wendigo spirit is a malevolent being, and it seems to have found new allies within the people of Barrowholm.{^n}{^n}While my sisters in the Coven are sitting idly by as this unfolds, I refused to. So I set out on my own and began to sabotage Barrowholm's sorcery.{^n}{^n}It was paltry things at first, but they seem to be building up to something big, so I was going to step up my efforts. I suppose that is why you were sent here.{^n}{^n}Take my advice, stay as far away from those people as you can.
+
+I'll deal with this my own way.
+I'll consider it.
+Where will you go?
+I may return to the Coven, though I am not all that welcome there after my little outburst regarding Barrowholm.{^n}{^n}I may head further east, away from all this.
+
+Farewell.
+Farewell.
+Begone from this place.
+I was just leaving.
+I don't know who you are, but please leave.
+I'm here to warn you about the Wendigo Cult.
+Warn me? I am keenly aware of the dangers of thwarting their plans.{^n}{^n}What's changed?
+They wanted me to murder you, but I cannot.
+
+I'll be back.
+The Wendigo Cult wishes you dead.
+That isn't exactly news to me.{^n}{^n}Why are you here? Did they send you to be my executioner?
+I refuse to kill you.
+Well that is certainly a relief, though knowing now that the Wendigo fanatics are out to get me does not bode well for my efforts here.{^n}{^n}Perhaps it is best if I avoid any confrontations for a while. Lay low.{^n}{^n}I do not know why you are working with them, but you came to warn me so I suppose I won't ask. Please tell whoever sent you that I am dead. I will make sure that I am not found.{^n}{^n}Thank you.
+Stay safe.
+Farewell.
+I'm sorry, but you must die. (Attack)
+I'll be back.
+I was sent here to kill you.
+Is telling me ahead of time supposed to make me feel better?{^n}{^n}Or is it supposed to make you feel better?
+
+Nothing personal. (Attack)
+I'll be back.
+Scorv Egdenor sends his regards. (Attack)
+Alright, I'm leaving.
+I don't know who you are, but please leave.
+What are you doing here?
+That is none of your concern.
+Fine.
+Alright, I'm leaving.

@@ -1,0 +1,57 @@
+Garett Torven
+Please, just leave me alone out here...
+Alright...
+Please, just leave me alone out here...
+Alright...
+What! Who are you?{^n}{^n}Some sort of monster in disguise?!
+Calm down, I'm not going to hurt you. 
+Stay back! I...I'm a powerful Arcanist.{^n}{^n}I'm not looking for trouble.
+You must be Garett.
+What? I mean, yes, but how did you know?
+Your daughter sent me to find you.
+Amala? Oh, my sweet Amala.{^n}{^n}She made it to safety then?
+Yes, she's fine. She's at Devil's Crossing. 
+The prison? Well, so long as it's safe...{^n}{^n}I guess I can die in peace then.
+No need to be dramatic, I can get you out of here.
+No, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
+You won't be any good to her dead.
+I suppose that is true.{^n}{^n}We got together this far, I cannot abandon her again. I have been given a second chance.{^n}{^n}How do you plan on getting me there though? My leg is busted.
+Like this... (Open Riftgate)
+I don't have time for this. (Shove Garrett into a Riftgate)
+Suit yourself.
+Are you alone out here? 
+What? No...I mean, yes, now I am.{^n}{^n}What do you care?
+Well which one is it?
+There was...Amala, my daughter.{^n}{^n}We were attacked by those...things. I froze up, she...saved me, but not before one of the wretches tore up my leg.{^n}{^n}I told her to keep going, to find safety on her own. I could have probably hobbled along but, truth is, I've had enough of these horrors. I just wanted to curl up here and die.{^n}{^n}And now my daughter is out there alone. Amala's a tough girl, but I doubt even she made it far out here.
+I'm sure she's ok.
+*Garett chokes back a sob*{^n}{^n}I abandoned her...
+
+I've met your daughter, she is alive.
+Amala? Oh, my sweet Amala.{^n}{^n}She made it to safety then?
+Yes, she's fine. She's at Devil's Crossing. 
+The prison? Well, so long as it's safe...{^n}{^n}I guess I can die in peace then.
+No need to be dramatic, I can get you to Devil's Crossing.
+No, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
+You won't be any good to her dead.
+I don't have time for this. (Shove Garrett into a Riftgate)
+Suit yourself.
+Yes, she's fine. She's with the Black Legion.
+So she made it after all...{^n}{^n}I guess I can die in peace then.
+
+Suit yourself.
+You abandoned your daughter out here?
+*Garett chokes back a sob*{^n}{^n}I know...I am a worthless cowardly wretch!
+If you're lucky, she made it to Devil's Crossing. 
+The prison? That's not that far from here.{^n}{^n}Are there other survivors there?
+Yes, I can help you get there.
+But if she's alive then...no, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
+If she's alive, you won't be any good to her dead.
+I suppose that is true.{^n}{^n}We got together this far, I cannot abandon her again. I have been given a second chance.{^n}{^n}How do you plan on getting me there though? My leg is busted.
+Like this... (Open Riftgate)
+I don't have time for this. (Shove Garrett into a Riftgate)
+I'm not sure we have room for somebody like you.
+
+Then you deserve to be out here.
+Good luck.
+Suit yourself.
+Just passing through.

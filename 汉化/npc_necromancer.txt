@@ -36,6 +36,20 @@
 我这就去。
 
 再见。
+Greetings, fellow practitioner of the sacred art.{^n}{^n}You do not know me, but I have heard of you. I am Balvoruuk, of the Order of Death's Vigil. Your skills lead me to believe that you may just be who I need for my...assignment. 
+Assignment? 
+Yes. I am here to purge this land of several malevolent spirits. Their tainted presence has corrupted Arkovia long enough.{^n}{^n}However, my masters have underestimated the degree to which these ancient Oligarchs have surrounded themselves with their former subjects. The Arkovian Undercity is swarming with the dead; I admit, far more than I could handle without the aid of my brothers. But you, you are quickly proving to be a force of reckoning this world has never seen. Travel down into the Undercity and banish the spirits of Nomos Dred, Laudos Vagra and Rhovena Kur. When you are finished, seek out my companion, Kalderos, at the entrance to the Steps of Torment. He will guide you to your final target. 
+I will do this task. 
+I cannot do this. 
+I have already banished the Oligarchs. 
+Splendid. My trust in you was not misplaced. Speak to Kalderos at the Steps of Torment, in the Broken Hills. He will guide you. 
+Very well. 
+I want no part in this. 
+What of that spirit? 
+Does Kalderos frighten you? I would have thought a necromancer used to such sights.{^n}{^n}Do not fear, he our ally and sworn to serve. Now will you listen to my proposition or will you continue to stare into the deathless eyes of my companion? 
+What did you want me to do? 
+I don't want any part in your schemes. 
+I don't want to know. 
 你好。你不认识我，但我听说过你。我是巴尔沃拉克，隶属于死亡守夜人教团。你的英雄事迹让我相信我的……任务需要你来完成。
 任务？
 是的。我来这里是要从几个恶毒的幽灵手里净化这片土地，这些堕落的存在已经腐化安克维亚足够久了。{^n}{^n}不过，我的老师低估了独裁们身边仆从的数目。安克维亚地下城亡者横行。我不得不承认，没有我的兄弟们的帮助，他们的数量已经超出了我的能力范围。不过你拥有这个世界中不在计量范围内的力量。深入安克维亚地下城，然后放逐掉诺莫斯·德雷德，劳多斯·瓦格拉和罗文纳·库尔三人的灵魂。在你完成任务之后，前去苦痛阶梯的入口寻找我的同伴卡尔德罗斯。他会告诉你你最终的目标是什么。
@@ -52,5 +66,9 @@
 我向你保证，对我任何形式的敌对行动都将是徒劳无功的。并且，我来这里不是为了跟你争吵的。如果你不愿意接受任务，那我们只好分道扬镳了。
 你要我做些什么？
 我们的谈话到此为止了。
+I should kill you where you stand. 
+As expected from one such as you. I assure you though, any form of hostility against me would be a futile venture.{^n}{^n}Besides, I am not here to quarrel with you. If you will not perform my task, then our meeting is at an end and you have far bigger threats to deal with than I. 
+What did you want me to do? 
+We're finished here. 
 我不和你这种人打交道。
 我不想知道。

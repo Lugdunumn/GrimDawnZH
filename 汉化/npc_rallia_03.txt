@@ -1,0 +1,36 @@
+Rallia
+I hear the wards have been restored.{^n}{^n}Well done.
+
+
+Farewell.
+Welcome back.
+How did you make it here all the way from Blood Grove?
+It wasn't simple, I can tell you that. After Malostria's calls become more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
+This Malostria called to you?
+Yes, she is a powerful psychic and nearly burnt at the stake herself for her ability to tap into the Aether.{^n}{^n}Magnified by the powers of the other witches, Malostria called out to anyone with the gift who might hear. The lucky few who interpreted her summons and survived the journey are here.
+
+Fascinating.
+
+You've endured much.
+Anything you can tell me about the area?
+You've probably already had a run-in with the cannibals if you are here, so warning you about them feels moot.{^n}{^n}They are by far the most dangerous thing out in Ugdenbog. We try to avoid confrontation with the flesh-crazed, although our rapidly fading wards may soon see us attacked.{^n}{^n}Beware the ones who have fully transformed, the ones we call Wendigo, children of Ravager.
+
+I'll be careful.
+Farewell.
+We meet again, friend.{^n}{^n}I must admit, I had some reservations regarding your unusual state of mind, but you have proven to be understanding of human plights, even compassionate.{^n}{^n}My sisters will breathe easier knowing that you are willing to see past our craft for the people we are and I will make sure they hear of it.{^n}{^n}Do not worry, I will not speak of your...origins to the others. Even though they endured prejudice in the empire, they are not entirely free of it themselves. That's humanity for you, I suppose.
+
+I appreciate that.
+We meet again, friend.{^n}{^n}I must say, your past had me concerned for my safety, but you have proven to be unlike other Luminari-trained. More understanding...compassionate.{^n}{^n}My sisters will breathe easier knowing that you are not just another inquisitor and I will make sure they hear of it.{^n}{^n}Do not worry, I will not speak of your...origins to the others. Even though they endured prejudice in the empire, they are not entirely free of it themselves. That's humanity for you, I suppose.
+How did you make it here all the way from Blood Grove?
+It wasn't simple, I can tell you that. After Malostria's calls become more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
+This Malostria called to you?
+Yes, she is a powerful psychic and nearly burnt at the stake herself for her ability to tap into the Aether.{^n}{^n}Magnified by the powers of the other witches, Malostria called out to anyone with the gift who might hear. The lucky few who interpreted her summons and survived the journey are here.
+Fascinating.
+You've endured much.
+Thank you. It will surely help.
+I have nothing to say to you.{^n}{^n}You who would see us all burn.
+Well, alright then.
+The Coven provides for and protects its sisters.{^n}{^n}Careful not to start any trouble here.
+Fair enough.
+The Coven provides for and protects its sisters.{^n}{^n}Careful not to start any trouble here.
+Fair enough.

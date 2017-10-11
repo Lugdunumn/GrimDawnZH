@@ -1,0 +1,118 @@
+Matron Malostria
+Welcome back.{^n}{^n}I hope the strands of fate treat you kindly.
+I have some questions.
+What would you like to know?
+How did you come to be Matron?
+A fair question. I am not the oldest here, and certainly not the wisest.{^n}{^n}Matron Agallia was my predecessor, a wisened old crone who was here nearly as long as Rugia. She oversaw our transition from a power-seeking gathering for the most powerful witches into a safe haven for all of our kind. Agallia was also the architect of the ritual that now protects this place. All of us here owe our survival to her wisdom.{^n}{^n}I was her pupil and also her means of communing with those outside the refuge. My ability to reach out across the Aether and confer a message to our future sisters proved instrumental in growing our numbers. Oftentimes, the new arrivals would look to me as their savior which, while not entirely true, offered them a measure of comfort.{^n}{^n}When Agallia was on her deathbed, she selected me to be her successor. There were no objections.
+I have another question.
+Interesting.
+What is next for the Coven?
+We shall continue to grow our community here and invite all the mistreated and lost sisters roaming the ravaged world.{^n}{^n}We will nurture their powers and ensure they handle them safely, more than the fallen empire ever did.
+I have another question.
+What about those threatening our world?
+We've already lost, that much is clear to me.{^n}{^n}Now we must look after our own. Protect those we can instead of throwing our lives away for a fool's hope.
+So you'll just hide here while the rest of us die?
+What would you have me do? Many here are either too young to fight, or too old.{^n}{^n}Would you have me send the blind seer into battle alongside the remnants of your legion?{^n}{^n}It is my responsibility to care for the well-being of my people and I fully intend to keep them alive.
+I have another question.
+Fair enough.
+You are naive.
+I have another question.
+Fair enough.
+You are naive.
+Good luck.
+What about the Wendigo?
+The Wendigo spirit still holds great sway over these parts, but our wards should hold.{^n}{^n}Although I would advise you to consider your allegiances with the people of Barrowholm carefully.{^n}{^n}Do not make the same mistake as Janaxia. Ravager is a being not to be trifled with.
+I have another question.
+That is my concern.
+I won't.
+With the cult within Barrowholm exterminated by your hand, we can only hope that Ravager's power will wane with time; but I don't think we can count ourselves fortunate enough to see the fiend destroyed for good.{^n}{^n}For now, all we can do is hope the wards hold and that the Wendigo spirit does not return to these parts.
+I have another question.
+Farewell.
+The Wendigo spirit still holds great sway over these parts, but our wards should hold.{^n}{^n}For now, we must remain vigilant.
+I have another question.
+Farewell.
+How does the warding spell work exactly?
+The exact properties of it were known only to its creator, former Matron Agallia, may her soul find rest.{^n}{^n}While it does not keep out physical threats, it does distress beasts and forces most of them to flee. It also acts as a barrier against malevolent spirits, a much too common threat in this region.{^n}{^n}What its effects would be on an Aetherial, that I do not know. I suppose we will find out should they ever find their way here.
+I have another question.
+I see.
+Nevermind
+Farewell.
+Persistent, aren't you?{^n}{^n}Very well, you may remain here for the time-being.{^n}{^n}Perhaps we will find use for you yet.
+Goodbye.
+What does the foul wind bring us this day?{^n}{^n}I believe you were just leaving...
+Goodbye.
+Praise the Three, the ritual was a success.{^n}{^n}Forgive me for treating you so harshly at first. I prefer a healthy measure of skepticism of those who wander into our refuge.{^n}{^n}Please, take this as a small token of our thanks.
+
+Farewell.
+The preparations have been made.{^n}{^n}Place your hands upon the fetish when you are ready.
+Alright.
+The outsider returns.{^n}{^n}Though perhaps not an outsider for long. Tell me, are you prepared to aid us at this most critical moment?
+How can I help?
+Everything is in place to perform the ritual which will reactivate our wards and seal off the refuge from malevolent forces.{^n}{^n}However, this is no rudimentary spell. It will take every fiber of my being to maintain concentration. The raw eldritch energies flowing through the circle will destabilize the area, possibly causing anomalies to form. As you now have experience dealing with wraiths and other threats of Ugdenbog, I think it is fitting that you see to my protection.{^n}{^n}Will you help me? When you are prepared, place your hands upon the fetish at the center of the ritual and we shall begin.
+I will protect you.
+Find somebody else to be your bodyguard.
+I need to take care of other matters first.
+Final preparations for the ritual are taking place as we speak. But, as much as you have done here, I am not sure I can entrust you with overseeing the final stages.{^n}{^n}This is a matter for only the most trusted members of the Coven.{^n}{^n}Don't take this personally.
+Very well.
+Have you purged the circles of power?
+It is done.
+Good, I can already feel power gathering within the ritual circle.{^n}{^n}When you are ready, let's speak of what we must do next.
+How can I help?
+
+I need to take care of other matters first.
+Good, I can already feel power gathering within the ritual circle.{^n}{^n}Soon, we shall recreate the ritual at this site.
+How can I help?
+As much as you have done here, I am not sure I can entrust you with overseeing the final stages.{^n}{^n}This is a matter only for the most trusted members of the Coven.{^n}{^n}Don't take this personally.
+Very well.
+Farewell.
+Have you purged the circles of power?
+Where are the circles?
+They are not far from the refuge, just out in Ugdenbog.{^n}{^n}Be careful. Do not underestimate the spirits trapped within them.
+I'll be careful.
+Can you refresh the warding spell?
+Hm, very well.
+Thank you.
+
+I think I am beginning to see your purpose in our Coven.{^n}{^n}You will be the catalyst we require to restore our protective wards.{^n}{^n}But are you prepared for what that entails?
+What must I do?
+Not far from the refuge, within Ugdenbog itself, the Coven had prepared three ritual sites in order to focus our energies towards the focal point, the rune circle you see before me.{^n}{^n}With the destruction of the fetish, the circles have become unstable, turning into unintentional spirit traps. If we are to recreate the warding ritual our sisters used decades ago to protect this place, then we must cleanse the circles.{^n}{^n}That is where you come in. My magic will protect you against the fiends, but you will be the one to banish them forever. Are you prepared?
+I will restore the wards.
+Sounds too risky.
+We'll speak of this later.
+You have proven resourceful, I admit, but there are matters I must attend to that require my full attention.{^n}{^n}Speak to me again when you've proven your loyalty to all our sisters.
+Very well.
+Is it finished? Is Janaxia dead?
+Yes, I have dealt with the traitor.
+It appears Garradia was right about you.{^n}{^n}Here, a little gift in return.
+Is there anything else?
+Yes, I'm beginning to see your purpose in our Coven.{^n}{^n}You will be the catalyst we require to restore our protective wards.{^n}{^n}But are you prepared for what that entails?
+What must I do?
+
+Is there anything else?
+
+Thank you.
+Is it finished? Is Janaxia dead?
+Where should I look for her?
+She has made her home beneath one of the great trees within Ugdenbog, that much I know.{^n}{^n}Janaxia has become corrupted beyond redemption and must be stopped before this gets out of hand. I will not have one of my own become a tool of the wendigo.
+I will deal with her.
+Not yet.
+Garradia speaks of your accomplishments as if they are meant to impress me.{^n}{^n}Tell me, young one, are you prepared to do what must be done?
+Let's find out.
+At least you are determined. Very well.{^n}{^n}One of our own has become tainted by the false promises of the wendigo spirit, Ravager. She has lost her way and now weaves dark rituals within Ugdenbog.{^n}{^n}A witch as powerful as Janaxia cannot be allowed to fall to the manipulations of the wendigo. All attempts at reasoning with her have failed. Only one option remains...{^n}{^n}Seek out Janaxia's hut hidden underneath one of the great trees of Ugdenbog and eliminate her.
+I will deal with Janaxia
+Find someone else to be your murderer.
+I have already dealt with this traitor.
+It appears Garradia was right about you.{^n}{^n}Here, a little gift in return.
+Is there anything else?
+
+Is there anything else?
+
+Thank you.
+We'll speak later.
+Persistent, aren't you?{^n}{^n}Very well, you may remain here for the time-being.{^n}{^n}Perhaps we will find use for you yet.
+What can I do to help?
+For me? Nothing I suspect you can handle.{^n}{^n}Speak to Garradia. She might have something for you.
+Goodbye.
+Goodbye.
+What does the foul wind bring us this day?{^n}{^n}I believe you were just leaving...
+Goodbye.

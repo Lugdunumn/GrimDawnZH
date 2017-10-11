@@ -407,7 +407,7 @@ tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀�
 tagClass04SkillName05D=[夜刃]死亡旋风
 tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺,敌人即便存活也会像遭受千刀万剐一般血流不止.^o这是一项近战双持技能,由默认武器攻击触发.
 tagClass04SkillName05E=[夜刃]尼达拉的隐手
-tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合,这近乎残忍的强大技巧使得她战胜了众多敌手.^o这项技能将改变一击斩,瞬影击和死亡旋风.
+tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合,这近乎残忍的强大技巧使得她战胜了众多敌手.^o这项技能将改变贝尔戈斯安的力斩,阿玛拉斯塔的瞬影和死亡旋风.
 tagClass04SkillName05F=[夜刃]处决
 tagClass04SkillDescription05F=伺机发动出无情的一击,以迅速解决敌人.遭此攻击侥幸存活者,也不会苟延残喘太久.^o这是一项近战双持技能,由默认武器攻击触发.
 
@@ -478,7 +478,7 @@ xtagClass04SkillDescription15A=迅猛的切割使受害者长时间出血,同时
 xtagClass04SkillName15B=[夜刃]阿玛拉斯塔的策略
 xtagClass04SkillDescription15B=一项大师级的武技,能够更有效地切割内脏,如果完美地施放更能造成毁灭性的伤害.但同时它也有徒劳无功的危险.
 xtagClass04SkillName14C=[夜刃]分裂
-xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round.As desperate measure,this method can also prove lethal at point-blank range.^oRequires a two-handed ranged weapon to launch additional projectiles.
+xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round.As desperate measure,this method can also prove lethal at point-blank range.^o需要一把双手远程武器以施放额外的投射物.
 
 
 
@@ -595,10 +595,10 @@ tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中,震击一�
 tagClass06SkillName02D=[萨满]雷电打击
 tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们,当向敌人释放自然的愤怒时,他们向天空之神~尤尔托斯呼唤,允许他们更加频繁的召唤雷电.^o雷电打击不是一项默认武器攻击,不能触发类似狂野饥渴的特效.
 
-tagClass06SkillName03A=[萨满]雪怪图腾
-tagClass06SkillDescription03A=雪怪图腾象征着萨满仪式中更黑暗的一面,崇尚自然的邪恶双重性：必须用一人的死亡来使另一个人得以喂食并存活.一旦被放置,图腾将会吸取附近敌人的生命,同时形成疗伤的光环治疗同伴.这种图腾被大部分部落设为禁忌.尽管如此,但原始的饥渴灵魂呼唤着它并使得很多萨满陷入了疯狂,让他们充满无厌的饥渴并因此不可避免的导致了自相残杀.^o雪怪图腾受到人物伤害的加成.
+tagClass06SkillName03A=[萨满]温迪戈图腾
+tagClass06SkillDescription03A=温迪戈图腾象征着萨满仪式中更黑暗的一面,崇尚自然的邪恶双重性：必须用一人的死亡来使另一个人得以喂食并存活.一旦被放置,图腾将会吸取附近敌人的生命,同时形成疗伤的光环治疗同伴.这种图腾被大部分部落设为禁忌.尽管如此,但原始的饥渴灵魂呼唤着它并使得很多萨满陷入了疯狂,让他们充满无厌的饥渴并因此不可避免的导致了自相残杀.^o温迪戈图腾受到人物伤害的加成.
 tagClass06SkillName03B=[萨满]血之契约
-tagClass06SkillDescription03B=与栖居在图腾中的雪怪之灵签订契约,只要你位于光环范围内,你对血的渴望将变得无穷无尽.
+tagClass06SkillDescription03B=与栖居在图腾中的温迪戈之灵签订契约,只要你位于光环范围内,你对血的渴望将变得无穷无尽.
 tagClass06SkillName03C=[萨满]生命源泉
 tagClass06SkillName03D=[萨满]治疗伤痛
 
@@ -625,13 +625,13 @@ tagClass06SkillName06B=[萨满]岩石皮肤
 tagClass06SkillDescription06B=荆棘兽的血肉变得更加坚硬并且脊刺更厚,使其成为战场上不可忽视的恐怖存在.
 tagClass06SkillName06C=[萨满]大地猛击
 tagClass06SkillDescription06C=荆棘兽用带刺的利爪猛击大地,迸出一串尖刺来刺穿附近的敌人.
-tagClass06SkillName06D=[萨满]激励咆哮
-tagClass06SkillDescription06D=荆棘兽向同伴发出呼喊,当战斗艰困时增强他们的能力.
+tagClass06SkillName06D=[萨满]激励风采
+tagClass06SkillDescription06D=荆棘兽在战场中保持着威风凛凛的姿态，激励着它的战友更加猛烈地攻击敌人。
 tagClass06SkillName06E=荆棘之爪
 tagClass06SkillDescription06E=基础攻击.
 
 tagClass06SkillName07A=[萨满]狂野饥渴
-tagClass06SkillDescription07A=展露你最原始的一面,撕裂你的敌人并在溅出的鲜血中贪婪享乐.^o需要一把双手近战武器.这项技能会由默认武器攻击触发.
+tagClass06SkillDescription07A=展露你最原始的一面,撕裂你的敌人并在溅出的鲜血中贪婪享乐.^o需要一把近战双手或远程双手武器.当使用近战武器时，攻击附近多个目标。这项技能会由默认武器攻击触发.
 
 tagClass06SkillName08A=[萨满]风暴召唤者的契约
 tagClass06SkillDescription08A=与尤尔托斯~天空之神合为一体,将你的凡人躯体转变成为极具破坏力的闪电风暴的形态.^o这项技能必须保持开启以持续生效.
@@ -644,7 +644,7 @@ tagClass06SkillName009C=爪牙攻击
 tagClass06SkillDescription09C=基础攻击.
 
 tagClass06SkillName10A=[萨满]蛮力
-tagClass06SkillDescription10A=对很多萨满来说,一把双手近战武器是他们和风暴之力间的引导之物.和那些偏爱花时间去阅读文献的人相比,他们认为脆弱的法杖只是玩具而已,这些实践者更喜爱一种和荒蛮联系更紧密的兽性的近战作战方式.^o需要一把近战双手武器.
+tagClass06SkillDescription10A=对很多萨满来说,一把双手近战武器是他们和风暴之力间的引导之物.和那些偏爱花时间去阅读文献的人相比,他们认为脆弱的法杖只是玩具而已,这些实践者更喜爱一种和荒蛮联系更紧密的兽性的近战作战方式.^o需要一把近战双手武器或远程双手武器.
 tagClass06SkillName11A=[萨满]萨满神教
 tagClass06SkillDescription11A=在荒蛮中对野性的严苛训练将你的身体和意志磨练成一把野蛮的武器.
 tagClass06SkillName12A=[萨满]自然之怒
@@ -653,7 +653,7 @@ tagClass06SkillName13A=[萨满]原始羁绊
 tagClass06SkillDescription13A=展现你野性的一面来和莫格卓根订立契约.来自野兽之神领域的生物会更积极地响应你的召唤.^o这项技能必须保持开启以持续生效.
 
 tagClass06SkillName14A=[萨满]震荡大地
-tagClass06SkillDescription14A=用大地之力进行攻击.当你用基础武器打出暴击时,地面都会由击打之力产生震动,在接触点周围发出冲击波.^o需要一把双手近战武器.这项技能会由默认武器攻击触发.
+tagClass06SkillDescription14A=用大地之力进行攻击.当你用基础武器打出暴击时,地面都会由击打之力产生震动,在接触点周围发出冲击波.^o需要一把双手近战武器或者双手远程武器.这项技能会由默认武器攻击触发.
 
 tagClass06SkillName15A=[萨满]吞噬虫群
 tagClass06SkillDescription15A=在荒蛮野地中,人们必须付出任何代价以保证能够生存下去.一些萨满巫师们将此技艺牢记于心,召唤出了一种贪婪的虫群,它们饥渴地撕裂所接触到的任何东西,造成创伤并且暴露其弱点.
@@ -665,9 +665,9 @@ tagClass06SkillName15D=[萨满]吸血虫群
 tagClass06SkillDescription15D=虫群会造成伤害并转换成珍贵的生命之源给你.
 
 tagClass06SkillName16A=[萨满]风暴图腾
-tagClass06SkillDescription16A=与风暴之力沟通是风暴召唤者们的神圣仪式之一.通过足够的练习,萨满可以向一个雪怪图腾注入闪电的破坏之力,使得它能快速的发出闪电攻击附近的敌人.^o风暴图腾受到人物的伤害加成影响.
+tagClass06SkillDescription16A=与风暴之力沟通是风暴召唤者们的神圣仪式之一.通过足够的练习,萨满可以向一个温迪戈图腾注入闪电的破坏之力,使得它能快速的发出闪电攻击附近的敌人.^o风暴图腾受到人物的伤害加成影响.
 tagClass06SkillName16B=[萨满]腐化风暴
-tagClass06SkillDescription16B=痴迷于雪怪力量的扭曲萨满们可以腐化风暴图腾来释放使敌人活力衰竭的闪电.
+tagClass06SkillDescription16B=痴迷于温迪戈力量的扭曲萨满们可以腐化风暴图腾来释放使敌人活力衰竭的闪电.
 tagClass06SkillName16_Pet=[萨满]风暴打击
 
 tagClass06SkillName17A=[萨满]紧缚藤蔓
@@ -691,7 +691,7 @@ xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat
 xtagClass06SkillName04D=大漩涡Maelstrom
 xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall,rather than several lesser tempests.
 xtagClass06SkillName03B=风暴图腾
-xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神圣仪式之一.通过足够的练习,萨满可以向一个雪怪图腾注入闪电的破坏之力,使得它能快速的发出闪电攻击附近的敌人.
+xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神圣仪式之一.通过足够的练习,萨满可以向一个温迪戈图腾注入闪电的破坏之力,使得它能快速的发出闪电攻击附近的敌人.
 
 #Class07
 
@@ -1127,7 +1127,7 @@ tagItemSkillC062Name=击倒
 tagItemSkillC062Desc=用快速精确的一击将你的对手击倒.^o需要一把近战武器.这项特效会由近战武器攻击触发.
 
 tagItemSkillC063Name=棱光护盾
-tagItemSkillC063Desc=发动护腕之上的符文刻印,在周围制造一面保护盾.
+tagItemSkillC063Desc=发动护甲之上的符文刻印,在周围制造一面保护盾.
 
 tagItemSkillC064Name=弱点洞察
 tagItemSkillC064Desc=用你新获得的眼睛凝视敌人以察觉他们每一个弱点并将其转告给你的队友.^o这项技能必须保持开启以持续生效.
@@ -2615,8 +2615,8 @@ tagDevotion_B01=罗万的皇冠
 tagDevotion_B01Desc=传说当罗万从王座上退位之后,他的皇冠与权杖很快就失踪了,在接下来的几天里就出现在了夜空中.
 tagDevotion_B02=艾尔卡玛的天平
 tagDevotion_B02Desc=艾尔卡玛,审判者,主持着天堂并审判所有凡人的生命.据说人们的所有行为都被放在了他那黄金天平之上,如果邪恶部分超过了好的一面,他们的灵魂将会被放逐到虚空之中.
-tagDevotion_B03=雪怪
-tagDevotion_B03Desc=雪怪是一种原始的饥渴灵魂.很多萨满违反了正规的教义并尝试与雪怪签订契约,祈求这种邪恶的灵魂来击败他们的敌人.但最终,控制雪怪是极其危险的,并使得很多萨满陷入了疯狂,向他们灌注了无尽的饥渴并不可避免的导致了自相残杀.
+tagDevotion_B03=温迪戈
+tagDevotion_B03Desc=温迪戈是一种原始的饥渴灵魂.很多萨满违反了正规的教义并尝试与温迪戈签订契约,祈求这种邪恶的灵魂来击败他们的敌人.但最终,控制温迪戈是极其危险的,并使得很多萨满陷入了疯狂,向他们灌注了无尽的饥渴并不可避免的导致了自相残杀.
 tagDevotion_B04=女猎手
 tagDevotion_B04Desc=女猎手在夜空中巡视,追捕着她的猎物.据说除非她杀死不朽的九头蛇,否则她的无尽捕猎不会停止.
 tagDevotion_B05=残暴之熊
@@ -2733,8 +2733,8 @@ tagDevotionEffectB01=元素风暴
 tagDevotionEffectB01Desc=在你的命令下释放出一阵冰与火的漩涡风暴.
 tagDevotionEffectB02=扭转局势
 tagDevotionEffectB02Desc=为你扭转局势,吸取攻击你的敌人的活力并转移给你.
-tagDevotionEffectB03=雪怪印记
-tagDevotionEffectB03Desc=你用雪怪的印记标记了敌人,吸干他们仅剩的活力并转移给你.
+tagDevotionEffectB03=温迪戈印记
+tagDevotionEffectB03Desc=你用温迪戈的印记标记了敌人,吸干他们仅剩的活力并转移给你.
 tagDevotionEffectB04=撕裂
 tagDevotionEffectB04Desc=撕碎你的敌人,精妙的割开敌人的动脉并造成内出血.
 tagDevotionEffectB05=槌撞
@@ -2902,3 +2902,5 @@ tagEnemySkillD04_Desc=原始的邪术力量环绕着这块晶体,增强邪术生
 tagEnemySkillD05=奥德里奇的权杖
 tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近的敌人.
 
+tagEnemySkillD06=血誓诅咒
+tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability. 

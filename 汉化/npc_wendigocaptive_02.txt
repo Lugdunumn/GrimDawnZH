@@ -1,0 +1,18 @@
+Maurene
+Have mercy! Help us escape!
+You're on your own.
+I'm sorry I can't help now.
+Have mercy! Help us escape!
+You'll be ok, I come from Barrowholm, nearby.
+Our prayers have been answered!{^n}{^n}Thank you, stranger.
+I can get you there via riftgate.
+A what?{^n}{^n}No, that's not going to work. We're not getting out of one fire to jump into another.
+I promise you, it's much safer than traversing the bog.
+*Maurene hesitates*{^n}{^n}Alright, anything to be anywhere but here.
+I'll see you in Barrowholm. (Open Riftgate)
+No time for hesitation. (Open Riftgate)
+Suit yourself.
+I'll be right back.
+I'll be right back.
+Have mercy! Help us escape!
+You're on your own.

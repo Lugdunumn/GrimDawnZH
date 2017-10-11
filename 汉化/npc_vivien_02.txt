@@ -1,0 +1,20 @@
+薇薇安
+我希望雷克托能和我们一起活下来……
+节哀顺变。
+多加小心。
+让我一个人待一会儿。
+请便。
+Where's Rictor?{^n}{^n}You said he could travel back here in your riftgate or whatever you called it.
+He didn't make it.
+What do you mean he didn't make it?{^n}{^n}Did he go somewhere else?
+No, he's...dead. I'm sorry. (Lie)
+What?{^n}{^n}I thought we made it. I thought we were going to get out of there together.{^n}{^n}I barely even knew him. I mean we've been together since the night of the attacks but I didn't know him before.{^n}{^n}He just seemed so nice, and I thought...{^n}{^n}I guess it doesn't matter now.{^n}{^n}Thank you for helping us anyway.
+It was the least I could do.
+I'm sorry we couldn't help him.
+He was too injured, I could not bring him through.
+You just left him there to die?{^n}{^n}You had the means to bring him to this...this sanctuary and you just left him to die.{^n}{^n}You're a monster...
+It wasn't an easy choice...
+I'm sorry...
+
+*Vivien seems deep in thought and doesn't notice you.*
+(Leave her be)

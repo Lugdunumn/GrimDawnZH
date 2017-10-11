@@ -1,4 +1,4 @@
-#Region Names
+﻿#Region Names
 
 tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口
@@ -662,10 +662,10 @@ tagNPC_Flavor_AreaC_32=达尔拉
 tagNPC_Flavor_AreaC_33=维格
 tagNPC_Flavor_AreaC_34=雷纳·奥博拉什
 tagNPC_Flavor_AreaC_35=禁卫军 扎德·李
-tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
-tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
-tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
-tagNPC_Flavor_AreaC_34UNUSED=Davis Morden
+tagNPC_Flavor_AreaC_31UNUSED=伊莱恩·科布尔
+tagNPC_Flavor_AreaC_32UNUSED=朱丽亚·艾普斯沃斯
+tagNPC_Flavor_AreaC_33UNUSED=肖恩·科布尔
+tagNPC_Flavor_AreaC_34UNUSED=戴维斯·摩登
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -1384,7 +1384,7 @@ tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属�
 tagNPC_SmithA05=艾特姆·法尔德
 tagStoreTitle_SmithA05=神力铁匠
 tagStoreDesc_SmithA05_1={}神力锻造
-tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成。
+tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成，可锻造最高至75级的传奇装备。
 tagStoreDesc_SmithA05_3= 
 tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 

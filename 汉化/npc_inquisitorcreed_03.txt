@@ -1,0 +1,52 @@
+Inquisitor Creed
+So there are still survivors left in Malmouth, that's good news. Their intel will be invaluable in the battles ahead.{^n}{^n}If you open a path for us into the city, I will bring the Legion through the rift and together we shall retake Malmouth for humanity.
+I'm on it.
+All this carnage...
+The Aetherials will pay.
+I'm very glad to see you've returned from the void unscathed and were able to fight your way through to Malmouth outskirts.{^n}{^n}Now you must find a way inside the city and open a path for us. I will bring the Legion through the rift and together we shall take back the city.
+I'm on it.
+You found Ulgrim? You actually found him?{^n}{^n}Incredible. I suppose the coven really came through.
+Yes they did.
+So the way to Malmouth is cut off from us? Damn.{^n}{^n}It's very selfless of you to brave the void, just don't end up like Ulgrim.
+It's the only way.
+So you found the Coven then?{^n}{^n}I hope we're not making a mistake in trusting them.
+We seem to be on the same side.
+I suppose that's all that matters right now.
+At least for now, yes.
+We can't be turning on each other.
+I need to get back there.
+We're counting on you to find a way to Malmouth.{^n}{^n}I know you won't let us down.
+I...misplaced Ulgrim's Keepsake.
+You cannot be serious. How many of these do you think Ulgrim kept around? Don't answer that...{^n}{^n}Please be more careful with this one.
+Thank you. I'll be more careful.
+I...misplaced your pendant.
+I'm not sure I heard you correctly when you said you lost a precious Luminari relic that only a handful of inquisitors ever even had access to.{^n}{^n}Be more careful.
+Thank you. I'll be more careful.
+Where is the Coven again?
+You will need to head north from the Burrwitch Estates. An Aetherial barrier will block the road, but my pendant should help you get past it.{^n}{^n}Once you're in Gloomwald, head north along the road and search for a waterside lair housing the creature Carraxus Foul. Slay it and claim its heart so that you can offer it as tribute to the witches.{^n}{^n}I suspect the Coven's Refuge is somewhere on the edge of Ugdenbog, but I cannot be sure.
+I have other questions.
+I'll head out at once.
+I have some questions.
+Go ahead.
+What can I expect out there?
+The road north from Burrwitch has never been pleasant, passing through the treacherous Gloomwald and Ugdenbog.{^n}{^n}Between the toxic plant life and murky waters housing some of Cairn's most dangerous beasts, beyond the established road it's an inhospitable hell, but that is precisely why the Coven chose to hide out there. No one would willingly venture into those untamed lands, so the Coven was isolated and left in peace.{^n}
+I have another question.
+I need to get moving.
+What happened in Malmouth?
+Amala can give you a more up to date explanation, but Malmouth was one of the first cities to fall to the Aetherials when the Grim Dawn started.{^n}{^n}Ulgrim passed through there on the way south when we split up at the capital and his reports were as depressing as you would expect. We had believed Malmouth to be a lost cause, completely overrun by the enemy and devoid of survivors, but Amelia here is a testament to humanity's resilience and evidence that the fight for Malmouth is not yet over.
+I have another question.
+I need to get moving.
+Is there no other way to Malmouth?
+Used to be you could travel across the lake, but with the waters full of eldritch monstrosities and intact ships in short supply, we do not have the capabilities to send that many soldiers up to Malmouth via the water. Better to encounter foes on land that we have a chance against than to find ourselves at the mercy of whatever lurks beneath the depths of the lake. It's not a risk I'd want to take.{^n}{^n}We will have to follow the roads from Burrwitch, or perhaps travel via riftgate if you manage to secure one. I'm counting on you.
+I have another question.
+I need to get moving.
+Why is finding Ulgrim so damn important?
+There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Ch'thonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.
+I have another question.
+I need to get moving.
+Nevermind.
+I need to get moving.
+Go over what happened in Fort Ikon again. (Play Intro)
+All this carnage...
+The Aetherials will pay.
+Go over what happened in Fort Ikon again. (Play Intro)

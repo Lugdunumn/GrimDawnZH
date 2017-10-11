@@ -1,0 +1,27 @@
+Bloodsworn Nimia
+Bastard! You'll just leave us here to die?!
+You made your choice.
+You deserve far worse.
+If only your allies were as compassionate as you.
+
+We're doomed...
+
+Bastard! You'll just leave us here to die?!
+It was not my decision.
+Gods bless you for your mercy!{^n}{^n}I cannot imagine what horrors awaited us still.{^n}{^n}We're getting out of here as soon as we get our bearings. If that's even possible.
+I hope you learned from this.
+Now get out of here.
+Please...hurry, before more Chthonians arrive.
+Alright, alright.
+By the gods, I thought you were doomed and you just...destroyed that creature!{^n}{^n}Please, spare us this torment! Let us out.
+Aren't you Bloodsworn? Why should I help you?
+I understand that the cult has caused much harm across Cairn in recent months, but you have to understand.{^n}{^n}We were desperate. We joined the cult because it offered safety, not because we believe in all this blood and Ch'thon madness. We were not even involved with the Necropolis.{^n}{^n}You have to believe me! I beg you. Destroy that runed crystal nearby and let us out.I swear we'll burn these robes and try to do something worthwhile with our second chance, assuming we even make it out of the void alive.
+Alright, I will help you. (Help them)
+You deserve to die here. (Leave them)
+I'm not dealing with Bloodsworn.
+I don't know what you are doing here, but you need to leave. Now!{^n}{^n}It approaches...
+What's happening?
+Lunal'Valgoth, the Steward of Darkness. Our tormentor.{^n}{^n}I can feel it approaching.{^n}{^n}Leave now or join our fate.
+That doesn't sound good.
+I can deal with it.
+What approaches?

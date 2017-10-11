@@ -1,0 +1,60 @@
+Markon
+Back off!{^n}{^n}You don't have any business being here.
+Relax, old man.
+I said, get away from me.{^n}{^n}I know what you've done. We don't want any more trouble from you.
+Ok, I'm leaving.
+Watch your back.
+I'm just passing through.
+Ah, now you know, now you have seen with your own eyes. Is he not magnificient?
+Ravager?
+Yes of course, Ravager.{^n}{^n}Who else might I be speaking of. {^n}{^n}You were there, I saw you. Scorv chose you to finalize the ritual. {^n}{^n}You spoke with the spirit. It must have been life changing.
+
+No, not really.
+You were spying on the ritual?
+I uh... well  yes.{^n}{^n}You caught me, you caught me red handed.{^n}{^n}How could I pass up such an opportunity?{^n}{^n}I'd have given my life for a chance to cast my gaze upon his magnificence.
+
+Hey may yet take it. 
+Meh, I wasn't impressed.
+What? How dare you?{^n}{^n}I should hope he isn't listening right now. {^n}{^n}Great spirit... Ravager, I'm sure [[ms]he[fs]she] didn't mean it. I ask as your humble servant, please fogive this poor imbecile. 
+You just might be crazy.
+Still not impressed.
+I don't have time, sorry old man.
+The shaman returns. I knew you would bring great things to our little village.{^n}{^n}I feel that we are driven by the same things, you and I.
+And what's that?
+Hunger, my friend. The hunger that speaks to you, that calls to you in your sleep, that aches when you wake, that itches you when you find yourself lost and alone.{^n}{^n}The spirit watches you, it watches all who enter this place.{^n}{^n}Its power is real my friend. Listen when it speaks to you, give in to your hunger.
+Uh, ok. I need to go now.
+Thanks for the advice old man.
+I doubt it.
+I'm busy, I need to go.
+Welcome back. It seems Scorv was right to trust you. {^n}{^n}I sense the Great Spirit is very pleased by what you've done here.
+The spirit?
+Yes, the spirit that inhabits this place.{^n}{^n}The Wendigo, my friend. Have you paid no attention during your time here?{^n}{^n}It watches us, even now, feeding on our desires, on our hunger. It is truly glorious.
+You're insane.
+No my friend, I am one with it. Listen... it calls to you. Do you not feel it? {^n}{^n}The hunger drives us all. You must embrace it. You must feed on the flesh.
+Ok. I'm going to leave now. 
+Nope, I don't think so.
+I feel it.
+Ah, yes, of course.
+Ok. I'm going to leave now. 
+I need to get going.
+A shaman, no doubt an insatiable hunger has driven you to this place.
+
+
+What hunger?
+Oh, you seem confused.{^n}{^n}I meant the hunger for discovery, of course. You must be wondering about our wonderful village.
+Yes, tell me about Barrowholm.
+I must get going.
+I must get going.
+Ah, the newcomer. A fresh face is always welcome in Barrowholm.{^n}{^n}But what desire is it that brings you all the way out here?
+I have business with whoever is in charge.
+You'll be looking for Scorv Egdenor then.{^n}{^n}He should be somewhere about town. I'm sure he'll be interested to meet you. We don't get visitors out here very often.
+
+Thanks. I'll go find him.
+What can you tell me about Barrowholm?
+As much as any, I suspect. I've been here my entire life.{^n}{^n}This place is my home, always has been. I couldn't leave it if I wanted to.{^n}{^n}But there isn't much of interest that happens out in the bog, if you can believe it.{^n}{^n}Things got exciting briefly when Scorv Egdenor showed up some years back. Since then things have been good for our little town.
+Scorv just showed up?
+I couldn't tell you how long it's been but some time ago Scorv arrived here from beyond the bog.{^n}{^n}It was a desperate time for us, too many mouths to feed and too little food to go around.{^n}{^n}Scorv was a charmer. Everyone took to him right away; and who could blame us? He was a problem-solver. He generously stayed in Barrowholm and showed us what to do to survive. He promised us a better life. Better yet, he delivered upon that promise.
+Where can I find the person in charge?
+Thanks for the help. 
+That's interesting. I have to go.
+Sorry, I need to be going.

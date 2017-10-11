@@ -1,0 +1,50 @@
+Lagarria
+Hey there, you look like a tough one.{^n}{^n}It's nice to see a fellow [[ms]man[fs]woman] of action out here.
+What does that mean?
+Well, my sisters don't have a lot of respect for those of us who abstain from the arcane in favor of getting into the thick of it and coated in blood.{^n}{^n}I say a little magic is a good thing, but when it comes down to it nothing beats a big stick or a sharp blade.
+What are you doing up here?
+It's my job to keep Garradia safe, whether from humans, beasts or the occasional spirit.
+
+Keep up the good work.
+
+
+I see. Farewell.
+
+I'll be on my way.
+Hey there, can I help you?
+What are you doing up here?
+I'm Garradia's bogyguard. I go where she goes.{^n}{^n}You're not looking to cause any trouble are you?
+Certainly not.
+Good, because I'd hate to sully that pretty face of yours.
+And if I am looking for trouble? 
+
+
+I'll take that as a compliment.
+And if I am?
+Then you've come to the right place.{^n}{^n}I could use a bit of a workout, but you don't seem like the troublemaking type.
+You're right, I'm not.
+Oh, I see.{^n}{^n}You're trying to rile me up. Well, congratulations now I'm ready for a fight.
+
+
+My work here is done.
+I'm sorry, I'll be going now.
+I'll be going.
+No, I don't think I am.
+What can you tell me about the coven?
+Well, I haven't been here long, so there isn't much I could tell you.{^n}{^n}Shortly following the Grim Dawn, I had a bad run in with some bastards looking for easy pickings. Unfortunately for them, I didn't qualify. Unfortunately for me, there were four of them and I didn't exactly make it out unscathed. Garradia found me alone and slowly dying to my injuries. She brought me here to tend to my wounds.{^n}{^n}When I was healed, she said I could stay here and train with the others. I owe her my life.{^n}I always had a penchant for violence, so I suppose my role just came naturally to me.
+A noble pursuit.
+Nobody in my life had ever shown me the kindness that Garradia has.{^n}{^n}There isn't anything I wouldn't do for her.
+
+
+Farewell.
+
+
+Farewell.
+You seem friendlier than others I've spoken to.
+I don't immediately assume every stranger is an enemy, though a healthy bit of skepticism helps these days.{^n}{^n}Don't mistake my demeanor for softness though. Touch Garradia and you're a dead [[ms]man[fs]woman].
+
+
+Fair enough.
+Just passing through.
+I'm sorry, but if you have business here you should speak with Garradia.
+I will, thank you.

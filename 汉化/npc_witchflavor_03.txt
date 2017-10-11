@@ -1,0 +1,83 @@
+Andros
+Sister Garradia has instructed me to aid you in return for your efforts. {^n}{^n}I have used the heart of Caraxxus to prepare a restorative salve.
+Sounds good to me.
+This alone should be sufficient payment, but I've been instructed to offer my help if you should need it in the future. {^n}{^n}However, the salve takes some time to prepare. Now leave me, I must return to my work.
+Thank you.
+I suppose I owe you an apology, inquisitor.{^n}{^n}Thanks to you the circle has been restored and our little refuge is afforded some security once again.
+No apology necessary.
+
+And never forget it.
+You're welcome.
+You are indeed a [[ms]brother[fs]sister] of this coven. {^n}{^n}Thanks to you the circles are restored and our little refuge is afforded some security once again.
+Anything to help the coven.
+
+Farewell.
+Thanks to you the circles are restored and our refuge is afforded some security once again. 
+I did what I could.
+It was some spectacle watching you battle those manifestations during the ritual.
+Glad you stepped in to help.
+When a ritual needs researching or a salve preparing, you can call for Andros.{^n}{^n}When you need something hit with the sharp end of a stick, I suppose we've got you.
+Snarky as ever.
+You're welcome, Andros.
+I'm glad you enjoyed yourself. 
+
+I need to be going now.
+Excuse me but I must stay focused on my work.
+What are you working on? 
+The wards that defend this place have been damaged. Matron Malostria demanded that I recover an ancient ritual to aid in repairing them.{^n}{^n}Which, of course, is buried in one of these tomes. 
+How were they damaged? 
+When the Ugdenbog Fetish was stolen, the circle was broken along with the spell that protects this place.{^n}{^n}We must perform the ritual to restore the circle.
+
+Good luck finding it.
+Is there anything I can do to help.
+You'll need to speak with Matron Malostria.{^n}{^n}Now I must return to my work.
+
+I'll speak with her.
+
+I'll leave you to your work.
+Thank you [[ms]brother[fs]sister] for returning our lost recruits.
+I am glad to help.
+
+You're welcome.
+Despite my misgivings, you have proven yourself an ally to our coven.{^n}{^n}I suppose I should thank you for returning our lost recruits.
+I did what was right.
+
+I suppose you should.
+Felt I could help out.
+I suppose I should thank you for returning our lost recruits. 
+It was the least I could do.
+Don't be too please with yourself.{^n}{^n}Garradia has now saddled me with this new recruit. She is certain to slow my work. 
+I'm sure you'll figure it out.
+Ha, with any luck she'll prove to be at least as useful as you have been.
+I'll take that as a compliment, I think.
+Good, you could use it.
+Maybe she'll make you smile for a change.
+
+I suppose you should.
+Felt I could help out.
+What do you need now? 
+How about another restorative salve?
+Here you are, now please leave me to my work.
+Thanks
+I've explained to you, the salve takes time to prepare.{^n}{^n}Now, if you would kindly leave me to my work.
+Very well. 
+What are you working on?
+It is my charge to prepare all materials and rituals used by the coven. As you might imagine this takes a great deal of concentration.{^n}{^n}Now, may I return to my work?
+
+I'll be on my way.
+Nothing, I'll be on my way.
+Leave me to my work, inquisitor.
+What are you working on? 
+As if I would explain myself to a Luminari.{^n}{^n}Do not try my patience.
+I'll be leaving then.
+I'll be on my way. 
+Excuse me but I am quite busy.
+Are you in charge around here?
+Certainly not. You'll should speak to Sister Garradia before somebody mistakes you for a ghoul.{^n}{^n}Now, leave me to my work.
+
+I'll be on my way.
+What are you working on?
+I'm sorry, is this sharing hour?{^n}{^n}Leave me to my work.
+
+I'll be on my way.
+Very well.

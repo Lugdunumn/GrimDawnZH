@@ -1,0 +1,28 @@
+Aurin Evelline
+Welcome to Barrowholm, traveler.
+Farewell.
+Begone from this place.
+Alright.
+You look a bit skinny, have you been eating enough?{^n}{^n}Doesn't hurt to be a little tender.
+I found this recipe written by you.
+Ah, that old thing. I love coming up with new ways to prepare meat.{^n}{^n}Lately I've been experimenting with serving it more raw, more...off the bone.{^n}{^n}If you'll stay with us, I'd love to serve you some time.
+Perhaps another time.
+Um, right.
+Goodbye.
+Hello, traveler.
+I found this recipe written by you.
+Ah, that old thing. I love coming up with new ways to prepare meat.{^n}{^n}Lately I've been experimenting with serving it more raw, more...off the bone.{^n}{^n}If you'll stay with us, I'd love to serve you some time.
+
+Perhaps another time.
+What a beautiful village.
+Why, thank you.{^n}{^n}We try to keep some normalcy in our lives despite all the tragedy.{^n}{^n}We don't see as many visitors here as we used to, but you are welcome to stay as long as you'd like.
+
+Thank you.
+Actually, I was just passing through.
+Farewell.
+Welcome to Barrowholm, traveler.
+What a beautiful village.
+Why, thank you.{^n}{^n}We try to keep some normalcy in our lives despite all the tragedy.{^n}{^n}We don't see as many visitors here as we used to, but you are welcome to stay as long as you'd like.
+Thank you.
+Actually, I was just passing through.
+Farewell.

@@ -1,0 +1,37 @@
+Ugdall
+I seek only a peaceful end. I hope your allies can offer it.
+We shall see.
+Leave me be...
+Someone else will have to deal with you.
+Leave me be...
+Someone else will have to deal with you.
+Have you done as I asked?
+Here is the spirit you seek.
+In all the centuries, I never thought I would leave this place. Forever bound to these stones, the seclusion was driving me to madness.{^n}{^n}I thank you, human, for seeing through the madness and giving me a chance at peace.{^n}{^n}I offer you this strange text as thanks. I know not the words, but they seem bound to the enemies with which you battle.{^n}{^n}Farewell, human...
+Rest in peace, Ugdall.
+Good riddance.
+We'll speak of this later.
+Have you done as I asked?
+Where can I capture a Wendigo Spirit?
+Slay the twisted beasts roaming this bog in the name of their vile master.{^n}{^n}Only the most powerful will contain a soul potent enough for me to use.
+I see.
+Not yet.
+Madness, it cannot be.{^n}{^n}A living thing I sense and yet...been so long, so long...{^n}{^n}How can I know what is real and what is not if I cannot feel...Leave me lest I grow tired of this torture.
+Are you trapped here?
+Were I to be set free? What a forlorn dream.{^n}{^n}Bound to these stones for eternity, I will find no rest in the great dark beyond the veil.{^n}{^n}But you, if you are real, you are not as I am. You can leave. You can touch. You can fight.{^n}{^n}Please, mortal. With a powerful enough soul as a vector, I may be able to pierce through the veil and pass on from this torment. No need to slaughter the innocent. Bring me the twisted spirit of a most ancient and powerful Wendigo.
+I will help you, spirit.
+I want no part in this.
+I actually have a Wendigo Spirit already.
+
+Actually, I think you're a threat.
+How were you trapped here?
+Many moons...Arkovia...necromancer...{^n}{^n}Rage! Revenge!
+I will help you, spirit.
+I want no part in this.
+
+Actually, I think you're a threat.
+Another vile spirit for me to purge.
+A mockery. A thing that does not exist, a voice within the empty halls, threatens me?{^n}{^n}There's nought here but I and the stones.
+Wait, are you trapped here?
+I will banish you! (Attack)
+I'm backing off.

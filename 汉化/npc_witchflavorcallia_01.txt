@@ -1,0 +1,18 @@
+Callia
+I sense that you've traveled far. I wonder, in your travels, have you been to Port Valbury? {^n}{^n}Do you know of its fate? It was my home once, but now it is hidden from me, I no longer see it in my dreams.
+The city is in ruins.
+Then it is true, the city has fallen. I fear what began there may be the end of us all.{^n}{^n}Be wary in your travels, stranger, and thank you for bringing me this news.
+I will, thank you.
+I'm sorry to bring you bad news. 
+You don't want to know.
+I have endured a life of persecution, I can handle some bad news.{^n}{^n}Please, tell me what you saw.
+
+I need to go.
+I'm sorry, I have not been there.
+I feel that something horrible happened there, something I just barely evaded.{^n}{^n}After I fled the city I could see it in my dreams for a time. But now it is shrouded in mist and fire, hidden from view as if it had never existed. {^n}{^n}I fear what began there may be the end of us all. 
+You said you escaped the city? 
+Yes, before the Grim Dawn. I fled Port Valbury and headed for the Ugdenbog. {^n}{^n}This place, this refuge, it called to me. Though I did not know it existed at the time. {^n}{^n}You're safe here, but be wary in your travels, stranger.
+I will, thank you.
+Sorry, but I need to go.
+Please stranger, leave me to my thoughts.
+I'll be on my way then.

@@ -1,0 +1,14 @@
+Thomas
+By the gods, they're eating people!
+You're on your own.
+I'm sorry I can't help now.
+By the gods, they're eating people!
+You'll be ok, I come from Barrowholm, nearby.
+There's a settlement in this hellhole?{^n}{^n}You know what, I don't care where we go at this point. Just please get us out of here!
+I can get you there via riftgate.
+Yes, fine. Whatever.{^n}{^n}Just get us to safety.
+I'll see you in Barrowholm. (Open Riftgate)
+I'll be right back.
+I'll be right back.
+By the gods, they're eating people!
+You're on your own.

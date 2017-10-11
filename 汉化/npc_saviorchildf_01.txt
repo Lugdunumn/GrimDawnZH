@@ -1,0 +1,12 @@
+Nissa
+*Nissa stares at you silently*
+Hang in there, kid.
+What did you do?{^n}{^n}Why... why did you attack Mr. Nicoh?
+I'm sorry kid but you're not safe here.
+We were, until you killed Mr. Nicoh.{^n}{^n}Just...don't hurt us, ok?
+This won't hurt, I promise. (Open Riftgate)
+I'm sorry, kid. (Open Riftgate)
+Oh my gosh!{^n}{^n}Why are you fighting?{^n}{^n}Stop!
+Not now, kid.
+*Nissa stares at you silently*
+Hang in there, kid.

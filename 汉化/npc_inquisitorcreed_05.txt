@@ -1,0 +1,41 @@
+Inquisitor Creed
+One district at a time, we will take this city back.
+The Aetherials don't stand a chance.
+The Aetherials will regret ever stepping foot in Malmouth.
+Farewell.
+Is there something you need?
+Where do you need me again?
+There's a sewer passage that will take you to the surface, up to the Steelcap District.{^n}{^n}The resistance had a base of operations there before they were forced to flee underground.{^n}{^n}We are going to take that base back.
+I'm on it.
+Farewell.
+I've spoken with Korinia, she appears to be in charge of these people.{^n}{^n}Things here are about as bad as we thought, but with her intel, I believe we can make a difference in Malmouth.
+What's our plan?
+Korinia has informed me of an old resistance outpost up on the surface, in the Steelcap District. They were forced to abandon it when the Aetherial presence became overwhelming.{^n}{^n}I believe it will be a boost to morale to see it retaken, and it can serve as our base of operations when we advance upon Crown Hill.{^n}{^n}I've dispatched some troops, but I'd like you to lead the assault. Take the nearby sewer passage up to the surface and clear out any Aetherials present.
+I'll join the attack.
+I need some time to prepare.
+I have some questions.
+Alright, what is it?
+What's your take on the situation here?
+Korinia has provided some valuable intel on Aetherial activities, but there's more I must learn before I can make a full assessment.{^n}{^n}It appears that the Aetherials are most heavily concentrated up in Crown Hill, the district formerly occupied by the aristocracy and heads of government.{^n}{^n}A vast infestation of flesh and Aether that the people here have called the Fleshworks is growing in Crown Hill and rapidly spreading to other parts of the city. It is a safe bet that this Master of Flesh that controls the Aetherials here is present within it.{^n}{^n}Ultimately, that is our target.
+What's our plan again?
+Can I ask about something else?
+I'll need to think about this.
+Did you speak to Ulgrim?
+I did and I am relieved to see that he is alright, though understandably a bit shaken by the ordeal.{^n}{^n}There's much to Ulgrim that he refuses to share. I have my theories, but no matter what the truth is, getting him out of the void was for everybody's benefit.{^n}{^n}If he had died, it would have been a terrible loss, but if he was corrupted...I dread to think of what he would have been capable of.
+What's our plan again?
+Can I ask about something else?
+I'd rather not think about it.
+How are things in Devil's Crossing?
+I left a small contingent of troops behind in case there's another attack but so far things have remained calm.{^n}{^n}It will take some effort to remove that colossal hulk from the prison and clean up the carnage.{^n}{^n}They are tough people over in Devil's Crossing, they'll recover from this.
+What's our plan again?
+Can I ask about something else?
+Good to hear.
+Nevermind, what needs to be done?
+Nevermind.
+I'll be right back.
+I've spoken with Korinia, she appears to be in charge of these people.{^n}{^n}Things here are about as bad as we thought, but with her intel, I believe we can make a difference in Malmouth.
+What's our plan?
+
+I've got some questions first.
+The Aetherials will regret ever stepping foot in Malmouth.
+Farewell.

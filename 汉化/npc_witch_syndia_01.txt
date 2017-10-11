@@ -1,0 +1,27 @@
+Guardian Syndia
+Thank you for finding our missing sisters.{^n}{^n}It appears that you can be trusted, unlike most that stumble upon here.
+Seemed like the right thing to do.
+Farewell.
+Watch yourself, outsider.{^n}{^n}Uninvited guests aren't welcome here.
+I'll be off then.
+It seems that we owe you a debt of gratitude.{^n}{^n}The sisters you found while out in Ugdenbog have all returned safely thanks to you.
+You're welcome.
+They've already suffered under the empire. They deserve a better life. Getting devoured by those beasts would have been a cruel end.{^n}{^n}Thank you. And here, my end of the deal, as promised.
+Glad they are safe now.
+Farewell.
+Any luck with the search?
+Where are the lost sisters?
+We fear that they have become stranded in Ugdenbog, or worse, captured by cannibals.{^n}{^n}If you find yourself out in Ugdenbog, please keep an eye out for them.
+I will.
+I'm still looking.
+It seems that we already owe you a debt of gratitude.{^n}{^n}The sisters you found while out in Ugdenbog have all returned safely thanks to you.{^n}{^n}Please, take these materials as a small gesture of our thanks.
+You're welcome.
+
+Greetings, outsider.{^n}{^n}I am told that you are heading into Ugdenbog. Brave of you.{^n}{^n}I was wondering if you could assist us in an important matter while you are out there.
+What did you have in mind?
+Matron Malostria has been reaching out across Cairn, calling witches to gather here in relative safety. Once they arrive, their survival becomes my responsibility until they get accustomed to life in Ugdenbog.{^n}{^n}Most of those that Malostria was able to commune with have arrived, except for a few stragglers. It has been some time though and we suspect that something has happened to our future sisters.{^n}{^n}If you find yourself out in Ugdenbog, please look around. See if any of them have gotten lost, or worse, captured by the roaming cannibals. Even though they are not yet under my care, I feel a certain responsibility to their well-being, but I cannot simply leave the refuge.{^n}{^n}If you do this for me, I will see to it that you are aptly rewarded with some of our supplies.
+I will find the missing sisters.
+Do it yourself.
+Not right now.
+Watch yourself, outsider.{^n}{^n}Uninvited guests aren't welcome here.
+I'll be off then.

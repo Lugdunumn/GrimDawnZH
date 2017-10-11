@@ -1,0 +1,32 @@
+Hastria
+A word of caution stranger. A deceptive spirit has tainted these lands. {^n}{^n}It seeks only to corrupt and consume.
+A spirit?
+The Wendigo corrupts those who fall prey to its trickery and consumes those too weakened to defend themselves.{^n}{^n}Take care in who you trust out there.
+
+I will, thank you.
+What's it like living out here?
+It is as you'd expect, lonely and dangerous.{^n}{^n}The others trouble themselves with threats here in the bog but I try to cast my gaze beyond.
+Cast your gaze beyond?
+So secluded from the rest of the world, it is too easy for us to focus on what happens here in our little refuge and forget what is happening in the rest of Cairn.{^n}{^n}When I stand here at the circle of sight, I see a darkness gathering strength in the north. Our enemies are preparing. We should too.
+What do you see?
+I see a vast expanse of aetherfire blanketing the land as far as the eye can see. {^n}{^n}I see a city in ruins, its people shattered, clinging to a meager existence. {^n}{^n}Mere moments of this destruction is more than I can bear to witness.
+What was that about a deceptive spirit?
+Be easy, I'm sorry to have disturbed you. 
+I'm sorry, I have to go.
+Thank you. I need to go. 
+Have you come to answer the call?
+The call?
+Yes, many recent arrivals have come here because of Malostria's call.{^n}{^n}It is thanks to her gift that our numbers have grown and suffering sisters find safety.
+I have not heard the call, no.
+Not all have the gift, so it is understandable.{^n}{^n}You are always welcome here, but be cautious outside the protection of this refuge.{^n}{^n}Ugdenbog is a treacherous and unforgiving place, though that is precisely why we hide here.
+You're hiding?
+The coven has served as a safe haven for our kinds for decades, free from the persecutions and prying eyes of the empire.{^n}{^n}Here, we are far from the reach of those who would harm us and our eldritch wards protect us from the horrors of the bog.
+I'm sad that I must go.
+I'll be leaving now.
+No, I'm just passing through.
+I'm sorry, I must be going. 
+I hope you're not planning to stay here, stranger.
+And what if I am?
+No harm will come to you here, so long as you do not seek it.{^n}{^n}But the coven has no place for you, stranger.
+Fair enough.
+I'll be on my way.

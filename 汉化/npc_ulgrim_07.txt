@@ -1,0 +1,120 @@
+Ulgrim
+Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
+Hang in there, Ulgrim. Help is on the way.
+Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
+Hang in there, Ulgrim. Help is on the way.
+I had lost all hope of ever seeing the sun again.{^n}{^n}Your arrival changed all that.{^n}{^n}Let's see if we can make it out of here together.
+Where should I go?
+Wherever we go in this pit of despair, you must take the lead. I do not know if we'll reach Malmouth as you hope, but we can try.{^n}{^n}Clear us a path and I shall join you through the shadows. Gods know there's plenty of those here.
+I'll go clear us a path.
+Can I ask you something?
+Oh, sure. We're only in the void.{^n}{^n}Perfect time to chat.
+What happened while you were in here?
+After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
+
+I'll go clear us a path.
+What happened in the Necropolis?
+As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
+
+I'll go clear us a path.
+Are you going to be alright?
+Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
+
+I'll go clear us a path.
+Nevermind.
+I'll clear us a path.
+Yes...yes, I think I remember now.{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
+We'll take the void to Malmouth.
+To Malmouth? Last I passed through there, it had fallen to the Aetherials, and it wasn't a pretty sight.{^n}{^n}But if you need to get there, then there must be a good reason. Though I can't say I understand why you risked coming for me if that's the priority, not that I don't appreciate it.
+We're cut off by Aetherfire. The only way is through the void.
+I see. Then the only way forward is deeper.{^n}{^n}I'm afraid I'm thoroughly spent and won't be much use to you in a fight. If we're going to get out of here, you will need to clear a path.{^n}{^n}Don't worry about me, I will join you through the shadows. Gods know there's plenty of those here.
+I will find us a way out.
+I need some time to think.
+I've already cleared a path forward.
+I would hate to have you for an enemy.{^n}{^n}I'll move ahead then. See you outside the void.
+I'll meet you there.
+Let's talk about what happened.
+Seeing as we're stuck here, I suppose we've got nowhere to be.{^n}{^n}What do you want to discuss?
+
+What happened while you were in here?
+After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
+We'll escape the void to Malmouth.
+
+I'll be right back.
+What happened in the Necropolis?
+As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
+We'll escape the void to Malmouth.
+
+I'll be right back.
+Are you going to be alright?
+Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
+We'll escape the void to Malmouth.
+
+I'll be right back.
+I'll be right back.
+Hang in there, Ulgrim. I'm coming right back.
+Ugh, my head. I yield, friend. I yield.{^n}{^n}I remember you now. We were together at the Necropolis when...{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
+
+
+Hang in there, Ulgrim. I'm coming right back.
+Is that you, mother?{^n}{^n}I'm sorry, but I'm afraid I won't make it to dinner.{^n}{^n}I'm just so tired...too...tired...
+Ulgrim, what happened to you?
+An unfortunate accident, my emperor. I'm afraid my left arm will take some time to heal, but it should not impede my duties.{^n}{^n}It is not a concern that should rise above the threats to the empire, however.
+
+
+The Loghorrean did that to you?
+
+
+Hang in there, Ulgrim. I'm coming right back.
+What happened here?
+The Loghorrean and I had ourselves our final dance.{^n}{^n}I mostly took the lead, but he proved to be a handful of a partner. Together we made a royal mess of this place.{^n}{^n}I'm sorry for the trouble. I'll happily pay the cleaning fees.
+So it's dead for good?
+Why, I certainly hope so.{^n}{^n}How many times do you have to kill a bastard before he stays down?
+
+
+
+Hang in there, Ulgrim. I'm coming right back.
+
+
+
+Hang in there, Ulgrim. I'm coming right back.
+Snap out of it, Ulgrim.
+As you command.{^n}{^n}My emperor, your son lives, I made certain of it.{^n}{^n}He is safe in a secure location of which only I know.{^n}{^n}Your line will live on beyond this tragedy. I swear it.
+You have to listen to me, you're in trouble.
+Ah, trouble. She and I go way back. Waaay back.{^n}{^n}Did you know I slept with the Grand Inquisitor's wife once? She was a plump one, but feisty.
+Ulgrim, you're in the void.
+The void? That's ridiculous.{^n}{^n}Nothing living survives in the void.{^n}{^n}Are you an agent of Ch'thon here to lure me into a trap? I'll have you know I am well experienced in the art of murder.
+
+
+I hate to do this, maybe I can beat some sense into you. (Attack)
+Hang in there, Ulgrim. I'm coming right back.
+
+
+Hang in there, Ulgrim. I'm coming right back.
+I'm not the emperor, Ulgrim.
+Ulgrim, I haven't gone by that name in so many years...{^n}{^n}How do you know this name?
+I'm your friend, I'm here to help you.
+
+It was the name you gave me back in Burrwitch.
+Burrwitch? There's nobody living left in Burrwitch.{^n}{^n}You must be another memory, haunting me in my nightmares.{^n}{^n}Begone!
+You have to listen to me!
+The only one who would dare to command me was the emperor, and he lies dead in the capital. His blood remains on my hands to this day.{^n}{^n}I would not take this tone with me if I were you.
+I hate to do this, maybe I can beat some sense into you. (Attack)
+Hang in there, Ulgrim. I'm coming right back.
+
+
+I hate to do this, maybe I can beat some sense into you. (Attack)
+Hang in there, Ulgrim. I'm coming right back.
+Your emperor commands you to stand.
+Wait...my mind is clearing of some haze. You're not the emperor!{^n}{^n}You are an impostor. Why are you lying to me?{^n}{^n}Speak or meet my blade!
+
+I'm sorry, Ulgrim, it's just me.
+
+I hate to do this, maybe I can beat some sense into you. (Attack)
+Hang in there, Ulgrim. I'm coming right back.
+
+
+Hang in there, Ulgrim. I'm coming right back.
+Hang in there, Ulgrim. I'm coming right back.
+Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
+Hang in there, Ulgrim. Help is on the way.

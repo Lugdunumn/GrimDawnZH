@@ -1,0 +1,10 @@
+Coven of Ugdenbog
+A Familiar Witch
+Speak to Rallia
+You found Rallia at the Coven's Refuge.{^n}{^n}She was ever grateful for your rescue back in the Blood Grove and put in a few kind words in your favor amongst the coven.
+Speak to Rallia
+
+
+
+
+

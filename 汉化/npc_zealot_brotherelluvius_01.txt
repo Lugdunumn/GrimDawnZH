@@ -5,7 +5,7 @@
 关于凯蒙你得了解一些事情。
 别紧张，[[ms]兄弟[fs]姐妹]。到处都能听到对你的赞扬。 
 凯蒙和一位原始生灵做了一笔交易，并不是和至高之神。
-你这么说会亵渎神灵的。我不想再听这样的废话了。{^n}{^n}把这种邪恶的想法从你脑子里清除出去。
+你这么说会亵渎神灵的。我不想再听这样的废话了。{^n}{^n}把这种邪恶的想法从你脑子里清除出去。
 你不明白，那是我亲眼所见。
 我们的预言者在绝望之时带给了我们希望。{^n}{^n}我不会允许你分裂我们的事业的。走开吧。
 冥顽不灵的家伙。
@@ -13,7 +13,10 @@
 我...没关系。
 你说的对。再见。
 再见。
-我听说我们战胜了卑劣的死亡守夜人教团，[[ms]兄弟[fs]姐妹]。{^n}{^n}你很好的服务了至高之神。
+I hear we were successful against the wretched Order of Death's Vigil.{^n}{^n}You have proven yourself a worthy servant to Empyrions will. Even I must learn to look past your training and instead judge you by your actions. 
+ 
+Farewell. 
+我听说我们战胜了卑劣的死亡守夜人教团，[[ms]兄弟[fs]姐妹]。{^n}{^n}你很好的服务了至高之神。
 
 再见。
 神父凯蒙要求你必须到场。不要让他久等。
@@ -21,7 +24,7 @@
 他是我们的预言者，是至高之神的代言人。{^n}{^n}在我们最需要的时候他带来了强大的力量。他使希望得到了实现。
 我知道了，谢谢你。
 再见。
-谣言传播的很快。你的盟友正和肮脏的教团搅在一起。{^n}{^n}我不能在你有如此可疑的同伴的情况下信任你。
+谣言传播的很快。你的盟友正和肮脏的教团搅在一起。{^n}{^n}我不能在你有如此可疑的同伴的情况下信任你。
 再见。
 愿至高之神的圣光指引你的道路。
 再见。
@@ -35,7 +38,10 @@
 我该去哪找到他？
 沃拉克大师在哈伦堡里，血森林的北边。{^n}{^n}不要让我们失望。
 我这就过去。
-我不会去的。
+我还未执行任务。
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past trasngressions.{^n}{^n}He wishes to test your committment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust. 
+ 
+I cannot right now. 
 神父凯蒙对你近期在与冥神的邪教战斗中的表现十分满意。{^n}{^n}我将交给你一项非常重要的任务。不要辜负神父的信任。
 是什么任务？
 在血森林北部，有一个名为哈伦堡的要塞。那是个古老的军备储藏设施，而且对我们很有用。那里不出意料地出现了大量的教团成员。{^n}{^n}前往那座要塞并击杀所有的敌人。找到他们的领头者，拉沃克大师，杀鸡儆猴。{^n}{^n}带着至高之神的信任去吧，我也会授予你一项祝福来帮助你战斗。
@@ -50,6 +56,9 @@
 有什么要做的？
 
 我并不感兴趣。
+Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good, because what lies ahead will determine whether you truly are one of us or if you are lying even to yourself. 
+What must be done? 
+Not interested. 
 你解决掉那个异端了吗？
 我该去哪找他？
 血之羁绊伯瓦尔出现在了北边的血森林附近。{^n}{^n}根据凯蒙的意志，执行至高之神的复仇并杀了他。
@@ -89,8 +98,15 @@
 去找别人做吧。
 
 我稍后再谈这件事。
+You are the one the Legion sent?{^n}{^n}This must be some sort of joke. 
+I assure you, I am the one. 
+Truly this must be a test of faith from Empyrion himself.{^n}{^n}I pray for strength in this trying hour. 
+Shall we speak or not then? 
 你就是军团派来的人吗？{^n}{^n}你比我想象中还要来的晚。
 你要和我谈话？
 
+A tainted soul has entered our ranks.{^n}{^n}We all pray for guidance, you should pray for forgiveness. 
+Whatever you say. 
+Goodbye. 
 愿至高之神的圣光指引你的道路。
 再见。

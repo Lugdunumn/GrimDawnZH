@@ -1,32 +1,145 @@
 审判官克里德
-去休息一下吧。如果可以的话就小小的庆祝一番。那是你应得的。
+Though the situation is dire, we must remain hopeful.{^n}{^n}We're counting on you. 
+I...misplaced Ulgrim's Keepsake. 
+You cannot be serious. How many of these do you think Ulgrim kept around? Don't answer that...{^n}{^n}Please be more careful with this one. 
+Thank you. I'll be more careful. 
+I...misplaced your pendant. 
+I'm not sure I heard you correctly when you said you lost a precious Luminari relic that only a handful of inquisitors ever even had access to.{^n}{^n}Be more careful. 
+Thank you. I'll be more careful. 
+This keepsake of Ulgrim's... 
+I know, it doesn't seem like much, but this is one of only a few things Ulgrim dragged around everywhere he went.{^n}{^n}It clearly had sentimental value, something the witches can use to divine his whereabouts, if he still lives... 
+ 
+I suppose it's the best we've got. 
+Why is finding Ulgrim so damn important? 
+There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Chthonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void. 
+Farewell. 
+Farewell.
+Show me the events that transpired here again. (Play Intro)
+Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation. 
+We'll deal with it, one challenge at a time. 
+Good, you're back.{^n}{^n}We have other matters to discuss immediately. 
+Sure, what is it? 
+I struggle to admit this, but I must abandon my efforts at opening a rift to reach Ulgrim. For all I've learned in battling the occult, I'm no Warlock. During my last attempt, I nearly lost control of the ritual when something tried to breach my portal from the other side. This is too dangerous to continue. {^n}{^n}To make matters worse, Captain Bourbon has just arrived with a girl named Amala, bearing dire news from the east. While we struggled here to stop the Chthonians from unleashing terror and madness upon the world, the Aetherials have been far from idle. Everything they had done in this region is merely a sample of what is to come if what Amala says is true.{^n}{^n}As much as it pains me to say this, our plans to rescue Ulgrim are secondary to this rising threat in the fallen city of Malmouth. The passage north from Burrwitch is quickly closing as the Aetherfire consumes everything. But perhaps we can accomplish both goals at once. 
+What do you have in mind? 
+You see, the Luminari have long been aware of a coven of witches hiding out to the north of Burrwitch, using the treacherous territory to deter pursuers. The witches will know the lay of the land and should be aware of any paths that remain through the Aetherfire.{^n}{^n}And...I have hopes that they will be able to do what I could not: reveal where the Loghorrean has taken Ulgrim. I would go myself, but I doubt the arrival of a high ranking inquisitor will be looked upon kindly within their circle, and I am needed in Devil's Crossing.{^n}{^n}I know that you have suffered much already in the defense of humanity, but you are the only one I can trust with this. Take my pendant and travel north from the Burrwitch Estates. A barrier of aetherfire will stand in your way, but the pendant will make short work of it.Head north through Gloomwald until you've reached the edges of Ugdenbog, where I believe the coven has made their home. You cannot arrive empty-handed or they may well burn any memory of discovering their location right out of your mind.{^n}{^n}I recommend you hunt down a creature known as Caraxxus Foul, the Scourge of Ugdenbog. I imagine it has grown quite large over the years, preying on unwary travelers making their way through Gloomwald. Find the beast within its waterside lair in Gloomwald and bring its heart to the coven. I'm sure they'll find some nefarious use for it, but we must overlook that in light of our situation.{^n} {^n}Show them this keepsake of Ulgrim's and find us a way to Malmouth. We will be awaiting your signal. 
+I'll head to Ugdenbog right away. 
+I need some time to prepare. 
+ 
+I'll return soon. 
+Sorry, I'll be right back. 
+Show me the events that transpired here again. (Play Intro)
+We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss.
+How can I help? 
+I'll be back.
+I heard back from Captain Bourbon.{^n}{^n}I'm pleased to hear that Warden Krieg has been dealt with. He was a despicable creature. I only wish I had been more prepared when I met him myself. 
+He was a menace, but it is finished. 
+Indeed, but while one matter is closed, another begins. We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss. 
+How can I help?
+I'll be back. 
+How go your efforts in Devil's Crossing.{^n}{^n}With so few of us remaining, every settlement counts. 
+What do I need to do again? 
+Head back to Devil's Crossing and assist Captain Bourbon with anything he needs.{^n}{^n}We can't simply allow the Aetherials in that region to spread their influence unopposed. 
+I'll be off then. 
+Still much left to do. 
+Good, you're back.{^n}{^n}Do you have a moment? 
+Sure, what is it? 
+I struggle to admit this, but I must abandon my efforts at opening a rift to reach Ulgrim. For all I've learned in battling the occult, I'm no Warlock. During my last attempt, I nearly lost control of the ritual when something tried to breach my portal from the other side. This is too dangerous to continue. {^n}{^n}To make matters worse, Captain Bourbon has just arrived with a girl named Amala, bearing dire news from the east. While we struggled here to stop the Chthonians from unleashing terror and madness upon the world, the Aetherials have been far from idle. Everything they had done in this region is merely a sample of what is to come if what Amala says is true.{^n}{^n}As much as it pains me to say this, our plans to rescue Ulgrim are secondary to this rising threat in the fallen city of Malmouth. The passage north from Burrwitch is quickly closing as the Aetherfire consumes everything. But perhaps we can accomplish both goals at once. 
+What do you have in mind? 
+You see, the Luminari have long been aware of a coven of witches hiding out to the north of Burrwitch, using the treacherous territory to deter pursuers. The witches will know the lay of the land and should be aware of any paths that remain through the Aetherfire.{^n}{^n}And...I have hopes that they will be able to do what I could not: reveal where the Loghorrean has taken Ulgrim. I would go myself, but I doubt the arrival of a high ranking inquisitor will be looked upon kindly within their circle, and I am needed in Devil's Crossing.{^n}{^n}I know that you have suffered much already in the defense of humanity, but you are the only one I can trust with this. Take my pendant and travel north from the Burrwitch Estates. A barrier of aetherfire will stand in your way, but the pendant will make short work of it.Head north through Gloomwald until you've reached the edges of Ugdenbog, where I believe the coven has made their home. You cannot arrive empty-handed or they may well burn any memory of discovering their location right out of your mind.{^n}{^n}I recommend you hunt down a creature known as Caraxxus Foul, the Scourge of Ugdenbog. I imagine it has grown quite large over the years, preying on unwary travelers making their way through Gloomwald. Find the beast within its waterside lair in Gloomwald and brings its heart to the coven. I'm sure they'll find some nefarious use for it, but we must overlook that in light of our situation.{^n} {^n}Show them this keepsake of Ulgrim's and find us a way to Malmouth. We will be awaiting your signal. 
+I'll head to Ugdenbog right away. 
+I need some time to prepare. 
+I have some questions. 
+Make it quick. We depart for Devil's Crossing as soon as possible. 
+Why is finding Ulgrim so damn important? 
+There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Chthonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.{^n} 
+ 
+ 
+I need some time to think. 
+I'm going to destroy a barrier...with a pendant? 
+It may not look like much, but that pendant has helped me out of many a tricky situation, including my ordeal with Warden Krieg.{^n}{^n}Trust me, it is inscribed with powerful Luminari runes. Throw it into the barrier and it will do the rest. 
+What's the situation again? 
+ 
+I have another question. 
+I need some time to think. 
+What can I expect out there? 
+The road north from Burrwitch has never been pleasant, passing through the treacherous Gloomwald and Ugdenbog.{^n}{^n}Between the toxic plant life and murky waters housing some of Cairn's most dangerous beasts, beyond the established road it's an inhospitable hell, but that is precisely why the Coven chose to hide out there. No one would willingly venture into those untamed lands, so the Coven was isolated and left in peace.{^n} 
+ 
+I have another question. 
+I need some time to think. 
+What happened in Malmouth? 
+Amala can give you a more up to date explanation, but Malmouth was one of the first cities to fall to the Aetherials when the Grim Dawn occurred.{^n}{^n}Ulgrim passed through there on the way south when we split up at the capital and his reports were as depressing as you would expect. We had believed Malmouth to be a lost cause, completely overrun by the enemy and devoid of survivors, but Amala here is a testament to humanity's resilience and evidence that the fight for Malmouth is not yet over. 
+ 
+I have another question. 
+I need some time to think. 
+Is there no other way to Malmouth? 
+Used to be you could travel across the lake, but with the waters full of eldritch monstrosities and intact ships in short supply, we do not have the capabilities to send that many soldiers up to Malmouth via the water. Better to encounter foes on land that we have a chance against than to find ourselves at the mercy of whatever lurks beneath the depths of the lake. It's not a risk I'd want to take.{^n}{^n}We will have to follow the roads from Burrwitch, or perhaps travel via riftgate if you manage to secure one. I'm counting on you. 
+ 
+I have another question. 
+I need some time to think. 
+How can we be sure the Coven still exists? 
+Ulgrim shared with me some of what he saw on his journey to Devil's Crossing. {^n}{^n}Though he was sparing on details, he did mention that some of the Coven survived the Grim Dawn. He had suggested we try to ally with them earlier but I was relucatant until now. 
+ 
+I have another question. 
+I need some time to think. 
+Actually, forget it. 
+I'll return soon. 
+Show me the events that transpired here again. (Play Intro)
+I'll return soon.
+Show me the events that transpired here again. (Play Intro)
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+Sure, what can I do?
+I have some questions.
+Yes?
+What about the Aetherials?
+They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
+What about Ulgrim?
+I have another question.
+Farewell.
+The Cult is still out there. Shouldn't we stop them for good?
+Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
+What about Ulgrim?
+I have another question.
+Farewell.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What about Ulgrim?
+I have another question.
+Farewell.
+I...need some time.
+You're just going to end up killed.
+Good, you're back.{^n}{^n}Do you have a moment?
+Sure, what is it? 
+While I look into Ulgrim's situation, something has come up that you may want to hear.{^n}{^n}The settlement you came from, Devil's Crossing, has requested assistance with the Aetherials pouring out of Burrwitch. We can't just leave those people to die. Since you've dealt with Captain Bourbon before, I figured you could handle this one personally.{^n}{^n}Please go back to Devil's Crossing and help bring down this Aetherial threat by any means necessary. 
+I'm on it. 
+I can't right now. 
+You've returned. Is it finished then? 
+The beast has been banished, but Ulgrim was pulled into the Void along with it. 
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me? 
+How can I help?
+What can we do? 
 我有一些问题。
 什么问题？
-艾格瑞姆怎么样了？
-当然是有秘术了，几乎可以追踪到任何人。我需要考虑一些问题。相信我。
-我还有个问题。
-我明白了。
 虚灵怎么样了？
 他们和以前一样颇具威胁。帝国的大部分区域都在他们的控制之下。{^n}{^n}我们必须准备好进行长期的斗争。我们或许得花上数年来攻下首都，更别说将虚灵驱逐出凯恩了。
+What about Ulgrim? 
+What about Ulgrim? 
 我还有个问题。
 再见。
 邪教仍然很猖獗。我们难道不该制止他们吗？
-你在大墓地的行动已经很好的削弱了他们。{^n}{^n}我们得过段时间再来解决这帮家伙了。{^n}{^n}目前我们必须注意加强防御。
+你在大墓地的行动已经很好的削弱了他们。{^n}{^n}我们得过段时间再来解决这帮家伙了。{^n}{^n}目前我们必须注意加强防御。+
+What about Ulgrim?
+What about Ulgrim?
 我还有个问题。
 我明白了。
 你知道安娜斯特瑞娅是一名虚灵吗？
 我的确有些怀疑，但是...她将我们置于了相当危险的境地。{^n}{^n}我不能说完全相信她，但在和她自己阵营的战斗中，她帮了很多的忙，至少最近来看她提供的信息有对有错。{^n}{^n}我猜测虚灵已经察觉到了她和我们的交易并调整了他们的计划来扰乱她的信息。{^n}{^n}不过，她的学识已经帮我们拯救了无数的生命，并且比我们中的任何人都要了解虚灵。单单这个原因，她就仍然很有作用。
+What about Ulgrim?
+What about Ulgrim?
 我还有个问题。
 有道理。
 没关系。
-再见。
-甚至在这里，我们最后的堡垒中，敌人都能找到方法进行严重破坏。{^n}{^n}我们必须联合起来，团结一致，否则只能面临灭亡。
-我们会处理好它的，每次都有新的挑战。
-你回来了。它死了吗？
-那个野兽已经被驱逐了，但艾格瑞姆和他一起被拉进了虚空之中。
-也就是说我们伟大的凯旋时刻也伴随着悲伤。{^n}{^n}邪教在大墓地的失败标志着人类在这场战争中的首次大捷，证明了我们并不是无畏的牺牲，让我们沉浸在对抗恶魔与灵魂的胜利喜悦中吧。胜利的消息将会迅速传播并给人们带去希望，让他们知道终有一天我们能将这些梦靥真正彻底的驱逐。{^n}{^n}我们同样不能忘记那些为此而牺牲的生命。拿起武器保卫伊露兰的勇敢的黑色军团男女战士们，尽管这个国家将他们视为罪犯，放逐者甚至是背叛者。他们阵亡了，将不再属于那些头衔之一。他们像英雄一样牺牲了。{^n}{^n}但我不会将艾格瑞姆列入死亡名单中。我欠他的太多了。{^n}{^n}去休息一下吧。如果可以的话就小小的庆祝一番。那是你应得的。
-我们不能放弃艾格瑞姆。
-至少...延缓他的死亡。
+I...need some time. 
+You're just going to end up killed. 
 我听说了你对安娜斯特瑞娅的所做所为。{^n}{^n}你的鲁莽行径浪费了一个珍贵的资源。
 她是个虚灵女巫！
 就算那是真的，也不能否认她正在帮助我们。{^n}{^n}她的消息帮助我们避开了虚灵的数次致命攻击。敌人花了几个月的时间才发现信息泄漏了出去。{^n}{^n}安娜斯特瑞娅拯救了无数生命。然而我们杀了她作为回报。

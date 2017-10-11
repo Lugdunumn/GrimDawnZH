@@ -1,0 +1,50 @@
+Nicoh Erin
+Stay away from us, we don't want any trouble.
+Alright.
+I told you to get away from us. {^n}{^n}Now prepare to die!
+No, don't!
+Wait...
+Alright, so how do you plan to get us out of here?
+I can open a riftgate.
+A what? No way... there's no way we're going in one of those things.
+You'll be fine. (Open Riftgate)
+Suit yourself.
+Get back, you fiend, or I'll slay you where you stand.{^n}{^n}These children are mine.
+Yours, what do you mean yours? 
+I mean you're not going anywhere near them.
+Calm down. I don't mean any harm.
+And what?{^n}{^n}I'm supposed to trust you with all those things roaming around out there, collecting children, doing gods know what with them?{^n}{^n}You could be one of them for all I know.
+I'm not one of those monsters.
+And I suppose you came here to save us, or something like that?
+There's a refuge, in the sewers. I can get you there.
+Just like that, you run in here and expect me to let you take us somewhere? {^n}{^n}I've been protecting these kids since the night the city was attacked and I'm not about to put them in someone else's hands. {^n}{^n}Not now. Not after all we've been through.
+What choice do you have?
+What do you mean what choice do we have? {^n}{^n}You're not going anywhere near these children. You're gonna have to go through me first.{^n}{^n}Now, prepare to die.
+No, don't!
+Wait...
+What choice do we have?{^n}{^n}I...I don't know. I suppose you're right.{^n}{^n}I don't know how much longer I can hold out. Maybe a little faith in humanity is all we've got left.{^n}{^n}How do you plan to get us out of here?
+I can open a riftgate.
+
+Don't worry about it. (Open Riftgate)
+Forget it.
+You know what, I don't have time for this.
+You know what, I don't have time for this.
+Look, we don't have time for this, I can get you out of here.
+There's no chance I'm letting these kids go anywhere with someone like you.
+There's a refuge nearby, I can get you there safely.
+Nope, no way.{^n}{^n}You're gonna have to go through me first.
+Hold on... wait.
+No, don't!
+I don't know what to do anymore.{^n}{^n}I've been here night and day, protecting these kids, since the city was attacked. I don't know how much longer I can hold out.{^n}{^n}It sounds too good to be true but what choice do we have?{^n}{^n}How will you get us there?
+I can open a riftgate.
+A what? No way... there's no way we're going in one of those things.
+You'll be fine. (Open Riftgate)
+Suit yourself.
+Don't worry about it. (Open Riftgate)
+You know what, I don't have time for this.
+You're crazy, step away from the kids.
+I don't think so.{^n}{^n}You're gonna have to go through me to get to them, you monster.{^n}{^n}Now prepare to die!
+No, don't!
+Wait...
+Fine. I'm leaving.
+Alright, I'm leaving.

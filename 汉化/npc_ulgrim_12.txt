@@ -1,0 +1,43 @@
+Ulgrim
+The nightmares created by the Aetherials are matched only by the terrors of the void.
+We'll wipe them all out.
+The nightmares created by the Aetherials are matched only by the terrors of the void.
+We'll wipe them all out.
+I know you'll miss me out there all alone, but we all have a part to play in this battle.
+What do I have to do again?
+When the flesh vents around Crown Hill are destroyed, the Fleshworks should be forced open to release the excess heat. That will be your way in.{^n}{^n}I'm afraid I have no clue as to what you'll find when you enter that living nightmare.{^n}{^n}Stick to the shadows, friend.
+Time to finish this.
+I'll get moving.
+Seems we must once again toy with death.{^n}{^n}Are you ready to begin the assault?
+What's the plan?
+Preliminary reports indicate that the main entrance to the Fleshworks is on the northeastern end of Crown Hill. It's sealed tight behind some thickly armored fleshy barrier.{^n}{^n}However, we also know that the Aetherials have several flesh vents around the district emitting immense amounts of heat. If enough of them are destroyed, then the entrance may be forced open in order to compensate for the loss of ventilation.While I mobilize our forces for a frontal assault, you will need to seek out these vents and destroy them. It may be our only chance of getting inside and ending this Master of Flesh before his grand plan comes to fruition.{^n}{^n}Once you're inside the Fleshworks, I'm afraid you'll be on your own. Good luck.
+I'll take care of the vents.
+I need some time to prepare.
+I've collapsed the vents.
+Good. We'll keep them occupied while you breach the Fleshworks.{^n}{^n}I'm afraid I have no clue as to what you'll find when you enter that living nightmare.{^n}{^n}Stick to the shadows, friend.
+I'll see you when this is over.
+I have some questions.
+Is now really the time?{^n}{^n}At the peak of battle?
+What do we know about the Master of Flesh?
+Formerly Theodin Marcell, this Aetherial is the mastermind behind the Malmouth invasion. He also appears to be one of the leaders of the Aetherial invasion, as his name appeared in missives regarding something they call a Consensus.{^n}{^n}He is responsible for countless atrocities across Erulan, including the invasion of Port Valbury and the creation of the Amalgamation that would have attacked Homestead if not for you. Destroying him won't bring back the fallen, but perhaps it will prevent future calamities.
+What's our plan again?
+I want to ask something else.
+I'll be right back.
+How will we ever rid Malmouth of this infestation?
+We can start by eliminating the brains of the operation, this so called Master of Flesh.{^n}{^n}Beyond that...I suppose fire and lots of it.
+What's our plan again?
+I want to ask something else.
+I'll be right back.
+Have you ever seen anything like this?
+Not even in my worst nightmares. When I last passed through this region, the city was already fallen, but the growth of the Fleshworks had not yet begun.{^n}{^n}It's a chilling realization, just how quickly it spread in such a short time.
+What's our plan again?
+I want to ask something else.
+I'll be right back.
+Nevermind, what's our plan?
+Nevermind.
+I'll be right back.
+So this is what the Aetherials have envisioned for us all.{^n}{^n}I'm sure they won't mind that we let ourselves in.
+So what do we do now?
+
+The nightmares created by the Aetherials are matched only by the terrors of the void.
+We'll wipe them all out.

@@ -1,0 +1,11 @@
+Ralkama
+Beware, traveler. The lands ahead are as foul as they are deadly.{^n}{^n}The stench of wendigo is heavy upon the air.{^n}{^n}Travel safe.
+Wendigo?
+The vile spirit taints the heart and corrupts the soul.{^n}{^n}None who have given in to its allure remain human for long...
+
+That is concerning.
+Where are you headed?
+We had thought the way north safer. We are turning back to Wightmire.{^n}{^n}And so should you.
+
+Noted.
+Travel safe.

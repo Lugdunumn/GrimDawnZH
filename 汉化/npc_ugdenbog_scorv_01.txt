@@ -1,0 +1,188 @@
+Scorv Egdenor
+I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
+Farewell.
+Splendid work dealing with that coven meddler.{^n}{^n}I do hope you enjoy your stay.
+Farewell.
+So much anger, you really need to take an example from your allies.
+We're not finished.
+I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
+Farewell.
+Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
+
+Uh, thanks.
+Farewell.
+Have you dealt with that pest yet?
+Where would I find Larria?
+Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog, to the south of Barrowholm.
+I will deal with her.
+Not yet.
+I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society, outsider.{^n}{^n}However, not all are as willing to accept our master's visions for this region as you are.
+What is the problem?
+We've always had tense relations with the nearby gathering of witches, but so long as we stayed to our sides of the bog, we generally had no issues.{^n}{^n}In many ways, we are just as much outcasts as they are and so we have somewhat of a mutual understanding.{^n}{^n}But there is one among them, known as Larria the Hexxer, who does not respect our little truce. Unlike her sisters, she lives within Ugdenbog itself and from it she weaves eldritch magic in order to subdue our master's plans. In fact, it was her who damaged our totems.{^n}{^n}High time her meddling was ended. Find the den of this witch and...deal with her, for good.
+I will deal with Larria.
+I want no part in this.
+The master?
+Your master?
+Yes, our protector, our guiding star through the tumultuous chaos.{^n}{^n}Once we were lost and dying. The bog threatened to consume us. But the Wendigo spirit showed us another way.
+So what was the problem?
+The Wendigo spirit?
+The Wendigo spirit is ancient manifestation of life itself.{^n}{^n}It has protected us for generations, all for a little harmless worship.
+Harmless? Like those things attacking me out there?
+So what was the problem?
+I want nothing more to do with this.
+We'll talk later.
+Wendigo? You mean the things attacking me out there?
+You describe the uglier side of things, yes, but do not take the fleshcrazed as representation of the greater picture.{^n}{^n}They are but a symptom of a world that is sick. We are the true chosen of Ravager. We have been uplifted, as can you be.
+So what was the problem?
+I'm going to stop you.
+After the wards you've restored for us? Or the flesh you've hand-delivered? Or perhaps the ritual materials you helped secure within the mine?{^n}{^n}Whether you like it or not, you are in this now, and we are stronger than ever for it.{^n}{^n}Ravager's arrival is nearly upon us, and much of it is thanks to you.
+I may as well see it through...
+I'm pleased to hear it.
+So what was the problem?
+We'll talk later.
+I want nothing more to do with this.
+I want nothing more to do with this.
+We'll talk later.
+Wendigo? I want nothing to do with this.
+We'll talk later.
+We'll talk later.
+I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society.{^n}{^n}However, not all are as willing to accept our master's visions for this region as you are.
+What is the problem?
+We've always had tense relations with the nearby gathering of witches, but so long as we stayed to our sides of the bog, we generally had no issues.{^n}{^n}In many ways, we are just as much outcasts as they are and so we have somewhat of a mutual understanding.{^n}{^n}But there is one among them, known as Larria the Hexxer, who does not respect our little truce. Unlike her sisters, she lives within Ugdenbog itself and from it she weaves eldritch magic in order to subdue our master's plans. In fact, it was her who damaged our totems.{^n}{^n}High time her meddling was ended. Find the den of this witch and...deal with her, for good.
+I will deal with Larria.
+I want no part in this.
+
+We'll talk later.
+I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society.{^n}{^n}If you can ever find it in yourself to help us further, Tyvald and Jordyth could surely use your assistance.
+We'll talk later.
+I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
+Farewell.
+I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
+Farewell.
+I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}As promised, my stash is open to you. You are welcome to take the fetish.
+Anything else I can do to help?
+
+But of course. Speak to my friends Tyvald and Jordyth if you have not already.{^n}{^n}Or perhaps eliminate some foul Chthonic spawns that plague our world.
+Why Chthonians?
+They are a threat...to us all!
+Fair enough.
+Farewell.
+Thank you.
+Is there something you need?
+So how can I help?
+Speak to Tyvald or Jordyth. Both if you're feeling generous.{^n}{^n}Help us and we will help you.
+Alright.
+Farewell.
+You strike me as a violent person.{^n}{^n}But I want you to know that despite any past transgressions, you are always welcome here.
+I had my reasons.
+*Scorv sighs*{^n}{^n}Very well, shall this dance of blood begin anew then?
+This village is finished. (Remain Hostile)
+I need to think this through.
+You're right, we can be friends.
+I'm pleased to hear it.{^n}{^n}We shall welcome you as a friend, but everything that has transpired before this moment will be forgotten.{^n}{^n}(Warning: selecting to be allies with Barrowholm will reset your Faction Reputation with them)
+Yes, let us be friends. (Reset Faction to Friendly)
+Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
+I will speak to them.
+On second thought...
+This village is finished. (Remain Hostile)
+I need to think this through.
+You strike me as somebody with an open mind.{^n}{^n}Tell me, shall we be friends?
+I think we can help each other. (Remain Friendly)
+Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
+I will speak to them.
+I'm not sure I can keep helping you.
+That is rather disappointing.{^n}{^n}Must we truly bicker over a misunderstanding?{^n}{^n}(Warning: selecting to be hostile with Barrowholm will reset your Faction Reputation with them)
+On second thought...
+This village is finished. (Reset Faction to Hostile)
+I need to think this through.
+Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
+I'm looking for the Ugdenbog Fetish.
+Cutting right through the formalities then?{^n}{^n}And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
+Sure, let's help each other out. (Friendly with Barrowholm)
+I'm glad you agree.{^n}{^n}It's true, we do have this relic, and it can be yours in exchange for some trivial assistance; things I am sure you will have no trouble undertaking.{^n}{^n}Speak to my friends Tyvald and Jordyth. Once I've heard back from them, I shall give you what you seek.
+I will speak to them.
+Why do you need it?
+Why do you?{^n}{^n}But frankly it comes down to reality. We live in a cruel world where many simply take what they want without any considerations for others.{^n}{^n}I see this as an opportunity for us to work together. A mutual gain.
+
+
+I'll be back.
+
+
+
+I'll be back.
+I don't have time for games. Hand over the Ugdenbog Fetish.
+Pardon me? Are you making threats?{^n}{^n}We do not take kindly to that here.
+I don't have time for this.
+I feel like you're making a brash decision from which there is no turning back.{^n}{^n}Think this through and perhaps we can work something out.
+Alright, can I please have the Ugdenbog Fetish?
+And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
+
+
+
+
+I'll be back.
+This village is finished. (Hostile with Barrowholm)
+I'll be back.
+
+
+
+I'm taking what I want. (Hostile with Barrowholm)
+I'll be back.
+There is something fishy happening here and I know it.
+I don't know what you are implying, but my patience is wearing thin, as is your welcome.{^n}{^n}Can we discuss matters with a degree of civility? Or must we resort to...other means?
+This village hides great evil.
+A matter of perspective, I would say.{^n}{^n}I can tell by the way you carry yourself that you've seen a fair share of combat. Tell me, to all those you've slain, are you not the great evil?{^n}{^n}If that's how you plan to go about it, I suggest you turn around now and leave us in peace.
+
+I'm going to end this. (Hostile with Barrowholm)
+I need to think about all this.
+Perhaps I can look past all this.
+That's much better. We can get much further with words than with barbs.{^n}{^n}Now, is there a reason you are here?
+I'm looking for the Ugdenbog Fetish.
+And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
+
+
+I'll be back.
+I need to think about all this.
+I need to think about all this.
+Something feels off about this place...
+I'm not sure what you're implying, traveler.{^n}{^n}Paranoia, perhaps? It is understandable given how things are these days.
+I'm looking for the Ugdenbog Fetish.
+And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
+
+
+
+I'll be back.
+I'm putting a stop to this.
+I'm not sure what it is you think you are putting a stop to, but I am certain that we can resolve this misunderstanding through less violent means.{^n}{^n}Please reconsider before somebody gets hurt.
+
+This village is finished. (Hostile with Barrowholm)
+I'll be back.
+I heard some noises from the cellar.
+Ah, the meat cellar.{^n}{^n}We were very fortunate to have found a cow roaming the wilderness nearby. It's a miracle she survived so long out there or even wandered so far off from the north.{^n}{^n}What you heard was our butcher getting started on his grisly task, nothing more.
+
+
+
+
+I need to think about all this.
+This talk of wendigos is unsettling.
+It's a fact of life around these parts. Ugdenbog is a dangerous place filled with equally dangerous beasts.{^n}{^n}We must take the appropriate precautions lest we become the prey of something vile.{^n}{^n}Surely you understand.
+
+
+
+
+I need to think about all this.
+This recipe seems..odd.
+I'm not sure what you mean.{^n}{^n}While I personally do not have a taste for particularly bloody cuts of meat, I do not fault somebody else for having such a preference.{^n}{^n}Is it really that hard to grasp that a place like this can still thrive in the current state of the world that you are so eager to find flaws?
+
+
+
+
+I need to think about all this.
+I need to think about all this.
+I'll be back.
+Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
+This village is immaculate!
+Thank you kindly.{^n}{^n}We do our best to maintain a little bit of normalcy in this crazy new world.
+Farewell.
+Uh, thanks.
+Farewell.

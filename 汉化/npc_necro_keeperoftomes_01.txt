@@ -102,6 +102,14 @@
 在北方的圣像堡地底，有一个供奉远古信仰的墓穴。执政官巴索勒姆之墓就在那里，他曾是一位强大的祭司。这位执政官在死后被火化，他的骨灰保存在一个圣瓮里。为了召回马卡达，我们必须获得这些灰烬。
 我这就去收集它们。
 还没有。
+Master Varuuk speaks highly of your contributions. The Order values a mind such as yours and the Black Legion's acceptance of our ways, through your representation.{^n}{^n}But by now I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us. 
+ 
+ 
+We will have to talk later. 
+Master Varuuk speaks highly of your contributions, in spite of your history as an inquisitor.{^n}{^n}I must say, it comes as a surprise to me, but I am willing to look past somebody's past if their actions show a willingness to change.{^n}{^n}I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us. 
+ 
+ 
+We will have to talk later. 
 瓦鲁克大师对你的贡献有很高的评价。教团很重视你和黑色军团的援助。{^n}{^n}但到目前为止，我非常确定你很渴望见到你所作出的努力的最高成果。但是在马卡达回归我们之前还有最后一件事要做。
 是什么事情？
 在北方的圣像堡地底，有一个供奉远古信仰的墓穴。执政官巴索勒姆之墓就在那里，他曾是一位强大的祭司。这位执政官在死后被火化，他的骨灰保存在一个圣瓮里。为了召回马卡达，我们必须获得这些灰烬。它们会以亡魂躯体来为我们服务。{^n}{^n}不幸的是，凯蒙的神选战士已经进驻了墓地，声称它内部存在着对他们那错误信仰非常神圣的东西。我们需要用武力从他们手中夺取灰烬。{^n}{^n}在我们说话的时候，教团的成员已经向墓地进发了。我需要你带头发起攻击。除去他们并为教团取得灰烬！
@@ -151,6 +159,12 @@
 你需要我做些什么？
 没关系。
 我们稍后会谈谈的。
+Another one joins our ranks. It is always a pleasure to welcome another seeker of the truths.{^n}{^n}Make yourself at home. 
+ 
+Goodbye. 
+Consider your presence here to be a courtesy to the Black Legion, inquisitor.{^n}{^n}Step out of line in any way, threaten one of our own for any reason, and you shall quickly find that our vengeance comes swiftly and...painfully. 
+ 
+Fair enough. 
 又有人加入我们的行列了。我们永远欢迎那些思想开放的人。{^n}{^n}把这里当作家一样吧。
 我有一些问题。
 如果我知道答案，你就问吧。

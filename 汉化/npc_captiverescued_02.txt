@@ -1,0 +1,25 @@
+Ferron
+Hey, you're the one who saved us aren't you?{^n}{^n}I gotta be honest with you. I wasn't out there trying to help like the rest of them.
+Then what were you doing out there? 
+I wanted to see the big explosion.
+What explosion?
+Captain Wilfor came to me a few days ago asking if I could make a bomb for the resistance. {^n}{^n}I agreed of course, it's what I do after all.  They wanted something big. It took me a few days to cobble it together.{^n}{^n}It was a thing of beauty. Some of my best work I'm certain. I based it on an old design I found while visiting the capital once.
+So you left the base?
+There was no way I was going to miss the results of my finest work.{^n}{^n}I brought the finished piece to Wilfor and he tells me they plan to blow up the gates leading up to Crown Hill.{^n}{^n}Naturally, I tell him I want to come along, I couldn't miss a moment like that. {^n}{^n}He says I've got no business joining a military operation and I'd be a liability to his men.{^n}{^n}Wasn't going to take no for an answer though. I waited til Wilfor's men left, and then I followed. I found a good vantage point up in a nearby building where I could see the bridge. I know it was foolish. You don't need to remind me.
+What happened then?
+I watched as the men set up to cross the bridge. It looked clear at first, but then suddenly they were ambushed, totally surrounded. One of them made a break for it, tried to cross the bridge with the bomb but he never had a chance. It was a massacre.{^n}{^n}I was stunned, didn't know what to do. I don't know how long it was, but I just sat there for a while, staring at the floor. Eventually I came to and realized I was stranded out in the middle of the city.{^n}{^n}So I started to make my way back, moving from building to building, out of sight. I got lost in all the rubble and blocked streets. Aetherial patrols forced me to take roads I wasn't too familiar with.{^n}{^n}I managed to survive off of scraps. I found hiding places during the day. Wasn't til yesterday that I ran into Nadia and her crew. But then instead of being stuck here by myself I was stuck with the rest of them.{^n}{^n}That is until you arrived.
+I guess you won't be sneaking out of the walls anymore.
+That's for sure. These guys are working hard to keep us safe.{^n}{^n}I won't take that for granted again.
+That's good to hear.
+Goodbye.
+You're lucky I got to you in time.
+I'm sorry but I need to go.
+I don't think I want to know.
+I don't really have time to talk about it.
+Goodbye.
+Thank you for coming to get us.
+I'm glad I got there in time.
+You're lucky I did.
+You won't catch me outside these walls ever gain.
+Stay safe.
+I certainly hope not.

@@ -1,0 +1,199 @@
+Scorv Egdenor
+A glorious age will soon begin.
+I'm out of here.
+Farewell.
+It is a pity we could not find agreement, but as you can see, it is far too late for hostilities now.
+So you say.
+You have pleased Ravager with your actions, outsider.{^n}{^n}When this world is scoured of unbelievers and fiends, perhaps you too shall be among the chosen few who will rise up from the ashes.
+I have some questions.
+There are no secrets between us.{^n}{^n}*Scorv smiles widely*
+What is Ravager exactly?
+Ravager is as old as Cairn, the primal embodiment of hunger, of life and death; the vicious cycle of predator and prey.{^n}{^n}Wrongfully scorned by the beast god, Ravager was forced to hide within the shadows, but he has returned to us and with our worship he rivals even the gods.
+I have another question.
+I see.
+What is Ravager's plan?
+With his body remade, Ravager will rid this world of the Chthonic taint that threatens to steal the precious blood that is rightfully his.{^n}{^n}Then, all show bow before their god, or be extinguished.
+I have another question.
+That sounds horrific.
+As they should.
+What is next for Barrowholm?
+With our god manifested, we shall thrive unchallenged.{^n}{^n}None can hope to stand against us now. But we only shall go where Ravager commands.
+I have another question.
+I see.
+Forget it.
+How did you come to serve the Wendigo?
+Oh, that old tale.{^n}{^n}I was a traveler, much like yourself, but unlike you I was not one for battle. I had a partner back then, her name was Jessa. Together, we foolishly wandered into Ugdenbog and got lost. We roamed for days, sometimes circling back to where we were days before. The water was poison, the only food was more likely to eat me back than offer any sustenance. In short, we were doomed.{^n}{^n}I'm not sure who got the idea first, but we both eyed each other with a ravenous hunger fueled by desperation. I overpowered Jessa and plunged my knife into her heart. As her blood oozed out of the wound and she choked on her last words, I drank deep of the crimson. I ate well that day as tears poured down my face.{^n}{^n}The next night, my dreams were plagued by feverish visions. I was visited by a spirit. It smiled at me with a wide grin and offered solace in my misery. It said that my soul was forfeit for what I had done, but that need not be the end. It offered me an anguished tale of its banishment and how it desired only to return to the mortal realm. With my help, its aspirations could become reality. In return, it offered salvation from my cursed fate. I willingly agreed.{^n}{^n}On that day, I became the herald of Ravager.
+What about Barrowholm?
+Barrowholm was merely the start. Empowered by the Wendigo and guided by a new destiny, I set out to grow Ravager's following.{^n}{^n}He pointed me towards the nearby village, which had been struck by famine and was growing increasingly desperate. Separated from other towns by Ugdenbog, ts people made an easy target.
+So you tricked them?
+That is such a strong word.{^n}{^n}*Scorv smiles*{^n}{^n}I merely offered them a way out of their very difficult predicament. Barrowholm had never been more prosperous.
+I have another question.
+You disgust me.
+Sure, I guess.
+I have another question.
+Disturbing.
+I need to go.
+I have another question.
+Think I've heard enough.
+I need to go.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+Er, great!
+Rather disgusting.
+Charming.
+I'll be leaving now.
+Farewell.
+A glorious age will soon begin.
+I'm out of here.
+Farewell.
+A massive burden and honor has been placed upon you, outsider.{^n}{^n}Think about this carefully.
+I think I've decided.
+Who shall serve as the Ravager's flesh?
+I choose Tyvald Hallows.
+He is brash and prone to anger, but those emotions can serve Ravager well.{^n}{^n}I will proceed with the ceremony then?
+Wait, I've changed my mind.
+Who will it be then?
+Yes, bring forth the Ravager!
+Let me think about this.
+I choose Aurin Evelline.
+Yes, young Aurin is ambitious and her mind has already served Ravager well. May it continue to serve him in her death.{^n}{^n}I will proceed with the ceremony then?
+
+Yes, bring forth the Ravager!
+Let me think about this.
+I choose Jordyth Evelline.
+Ever devoted, Jordyth is Ravager's perhaps most zealous follower. A fitting conclusion to his prayers.{^n}{^n}I will proceed with the ceremony then?
+
+Yes, bring forth the Ravager!
+Let me think about this.
+Actualy, let me think about this more.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+
+Er, great!
+Rather disgusting.
+Not yet. 
+Oh, it's you.{^n}{^n}I was hoping you would never return so that I may resist the urge to gut you with my blade.
+Why? What happened?
+It is Ravager! I do not know what I had done to scorn the Great One, but here, on the hour of his imminent return, the spirit demanded that the honor of selecting a chosen to serve as his flesh and blood go to you.{^n}{^n}To you! An outsider!{^n}{^n}The three have already come forward. The blood of one of them shall serve as the catalyst and the flesh will feed the wendigo.{^n}{^n}*Scorv sighs*{^n}{^n}It falls to you: will it be Aurin who performs the final rite? Or her brother Jordyth? Or perhaps Tyvald? Speak to the chosen and decide!
+I will carry out this honor.
+I am not comfortable with this.
+Does the chosen have to die?
+Though it pains me to lose an acolyte, it truly does, it is ultimately the will of Ravager that we all must serve.{^n}{^n}The Great One shall feast upon their flesh and through it he shall be born anew!
+I'll do it.
+I am not comfortable with this.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+So why do you want to gut me?
+Er, great!
+Rather disgusting.
+Don't try anything foolish.
+I'll just leave you alone then.
+Leave me now. I must tend to the wishes of my master.{^n}{^n}Come back when you're worthy.
+And what would that entail?
+To serve us is to serve Ravager. See to the bounty table, or slaughter the blood-thieving Chthonians.
+Very well.
+
+Very well.
+Mmm, the stench of rotting hearts follows you, outsider.{^n}{^n}Come, bring them to me.
+Here they are.
+Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
+Wait, what?
+
+Don't try anything foolish.
+Um, alright, I'm leaving.
+Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
+You're welcome...
+Very well.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+Here are the hearts.
+
+Er, great!
+Rather disgusting.
+Have you done as Ravager asked?
+Where should I look for the Ancients?
+You will find Handarroth roaming the wilds of Gloomwald. Ollivioth and Yuvolloth will likely be found among the poisonous fumes of Ugdenbog itself.{^n}{^n}Bring me their hearts. Do not keep Ravager waiting.
+Alright.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+Er, great!
+Rather disgusting.
+Not yet.
+Ravager is pleased by your service to the cause, outsider.{^n}{^n}He wishes to reward you with a special hunt.
+Is that so?
+The eve of Ravager's return will soon be upon us and the wendigo's hunger shall be unquenchable. We cannot truly fulfill his ravenous needs, but we can at least appease them for a time.{^n}{^n}But not just any meal will do. We must have the hearts of three Wendigo Ancients known as Handarroth, Ollivioth and Yuvolloth. These creatures have long ago outlived their purpose and must now perform one final duty for Ravager.{^n}{^n}The Great Wendigo Spirit has called to them and drawn them out of hiding amidst Ugdenbog and Gloomwald so that you can perform the necessary rites. Bring me their hearts. Appease the Great Spirit!
+I will gather the hearts.
+I don't want to get involved.
+I've already gathered these hearts.
+Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
+Wait, what?
+
+Don't try anything foolish.
+Um, alright, I'm leaving.
+Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
+You're welcome...
+Very well.
+Is that...Larria's body?
+Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+What was this about a hunt?
+
+Er, great!
+Rather disgusting.
+We'll speak of this later.
+Ravager will be pleased with all of your assistance, outsider, but there is always more you could do.
+What can I do to earn your trust?
+While the Aetherials and Chthonians are both our enemies, none disgust the Great One as the Chthonians do. Slaughter them by the hundreds and you shall earn the favor of Ravager.
+
+Very well.
+What's with the new outfits?
+The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+
+I see.
+
+I suppose so.
+Think I've already done too much.
+Have you dealt with that pest yet?
+Yes, she will never trouble anyone else again.
+Good, very good!{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
+Tell me more about this.
+
+Perhaps another time.
+Good, very good!{^n}{^n}Ravager will be pleased to hear of your service to the cause.
+
+Very good.
+Yes...I took care of her for good. (Lie)
+Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
+Tell me more about this.
+
+Perhaps another time.
+Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager will be interested to hear of this.
+Is there anything else you need?
+
+Very good.
+I'll be off then.
+What's with the new outfits?
+The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+
+
+This isn't what I signed up for.
+I see.
+Have you dealt with that pest yet?
+Where is the witch hiding again?
+Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog.
+
+I will deal with her.
+What's with the new outfits?
+The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+
+This isn't what I signed up for.
+I see.
+Not yet.
+What you see may come as a shock, but do not fear us.{^n}{^n}You have already proven loyal.
+What's with the new outfits?
+The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+This isn't what I signed up for.
+I see.
+
+A glorious age will soon begin.
+I'm out of here.
+Farewell.

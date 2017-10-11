@@ -1,0 +1,54 @@
+Tyvald Hallows
+Watch yourself, traveler.{^n}{^n}I'm simply hungry to spill some blood. Just give me an excuse.
+Alright, backing off.
+Watch yourself, traveler.{^n}{^n}I'm simply hungry to spill some blood. Just give me an excuse.
+Alright, backing off.
+All of our efforts, all of our sacrifices, have come to this moment.{^n}{^n}Blood shall spill and we shall feast upon flesh!
+Good, let the blood flow.
+You have helped us in these meager tasks, but know that soon the time shall come when your loyalties will be tested.{^n}{^n}Do not falter or it will be your blood I'll be spilling that day.
+Um, alright.
+Goodbye.
+Watch yourself, traveler.{^n}{^n}I'm simply hungry to spill some blood. Just give me an excuse.
+Alright, backing off.
+So, has the mine been secured? Have you butchered the pests threatening our supplies?
+Yes, the infestation has been dealt with.
+That's good news. A pity I could not spill their blood myself.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
+Thank you.
+Farewell.
+So, has the mine been secured? Have you butchered the pests threatening our supplies?
+Where is the mine?
+The Barrowholm mine entrance lies just to the east, up in the hills.{^n}{^n}Slaughter the pests infesting the mines and I'll see that you are aptly compensated.
+Alright.
+I'm still working on it.
+Since you don't seem to be entirely useless, how about lending us a hand once more?
+Sure, what is it?
+There is a matter of blood and carnage that awaits us, but Scorv will not let me leave the village unguarded, so it falls to you.{^n}{^n}Just to the east, there is an old mine that had provided jobs for the people of Barrowholm for generations. Its resources are now mostly dried up, but we've since used the abandoned tunnels to store emergency supplies. It seems something has broken through the sealed entrance and is now wreaking havoc on our food stores. We cannot allow this to happen.Go into the mine to the east of Barrowholm and exterminate whatever vermin had found their way inside and I shall see that some of our supplies are shared with you.
+I'll clear out the mine.
+This isn't my problem.
+I've already dealt with your pests.
+Really? You're quite the eager butcher.{^n}{^n}I like that. I'm starting to see why Scorv kept you around.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
+Thank you.
+Farewell.
+I need to take care of something else.
+I see that the warding aura surrounding Barrowholm appears to have been restored.{^n}{^n}So you are good for something. I'll go ahead and give Scorv the word that you can be trusted.
+Good.
+Seems we won't be spilling your blood today.{^n}{^n}Maybe you can make yourself useful once more?
+Sure, what is it?
+
+I need to take care of something else.
+If you're not out there restoring those wards, you may as well be killing something roaming this forsaken bog.{^n}{^n}In either case, you are wasting time here.
+Where are the totems again?
+There is a total of five wards placed around the egdes of Barrowholm. Three of them have failed recently, risking the safety of our people.{^n}{^n}Find the ones that fell and restore them.
+Alright.
+Alright, I'm going.
+It's too bad Scorv said you are to be left alive.{^n}{^n}You look like you could at least put up a fight before I gutted you.
+Scorv Egdenor said I should help you.
+Scorv must see something in you I don't, but very well.{^n}{^n}It is a harmless task that I have for you, though I cannot guarantee your safety.
+What do you need?
+Surrounding the village, there are six warding totems that have been crafted by a shaman many years ago. We owe much of Barrowholm's survival and beauty to the protection those totems afforded us. However, three of them have recently been damaged and we now risk the bog overtaking what remains of our home.{^n}{^n}If you wish to help us, then please step out into Ugdenbog, on the outskirts of Barrowholm, and restore the totems that had fallen. Do this for us and I am certain Scorv will give you whatever you want in exchange.
+I'll get it done.
+Not right now.
+You'd certainly try.
+We'll speak later.
+Watch yourself, traveler.{^n}{^n}I'm simply hungry to spill some blood. Just give me an excuse.
+Alright, backing off.

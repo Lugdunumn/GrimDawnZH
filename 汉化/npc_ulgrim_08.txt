@@ -1,0 +1,36 @@
+Ulgrim
+It's good to see the sun again.
+Goodbye.
+It's good to see the sun again.
+Goodbye.
+I'm sorry I cannot be of more assistance.{^n}{^n}I'll be sure to carve a few Aetherial skulls for you when I'm not on the verge of vomiting up black sludge.
+Where do we need to go?
+If my bearings are correct, the gates to Malmouth are to the north of here.{^n}{^n}Find and secure another riftgate and I shall join you.
+
+Alright.
+Are you going to be alright?
+I haven't exactly been stuck in the void for days before, but my best guess is yes, I'll get through this.
+
+Don't you die on me after all that.
+Hang in there, Ulgrim.
+I'm sure you will.
+Hang in there, Ulgrim.
+While that unpleasantness is behind us, it seems we're stepping right into another. This area has changed since I've last seen it.
+Do you know this place?
+To the north is Malmouth, of that I am sure. But it seems we're not the only ones with sights set upon the fallen city.{^n}{^n}What remains of the Cult of Ch'thon is thick here, battling with our mutual enemy for control over the city outskirts. I'm afraid I see no choice but to wade into that battlefield and carve a path to the city gates.{^n}{^n}With the Aetherials entrenched here, I am certain there's another riftgate around. Find it, secure it, and I will join you.
+I'm on it. Wait here.
+There has to be another way.
+I've already secured a way forward.
+Good thinking.{^n}{^n}Let's meet there and analyze the mess we've got ourselves in.
+I'll meet you there.
+I'll be right back.
+It's good to see the sun again.{^n}{^n}And I have you to thank for it.
+We have to keep moving.
+You're right, of course.{^n}{^n}But you have to fill me in, why are you trying to get into Aetherial territory?
+A survivor from Malmouth warned us of something awful.
+Oh...great!{^n}{^n}While the unpleasantness in the void is behind us, it seems we're stepping right into another. This area has changed since I've last seen it.
+Do you know this place?
+
+I'll be right back.
+It's good to see the sun again.
+Goodbye.

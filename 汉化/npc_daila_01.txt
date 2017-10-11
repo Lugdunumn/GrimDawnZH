@@ -1,0 +1,153 @@
+黛拉·索恩斯巴利
+Dravis cannot be allowed to achieve his goals.
+I have some questions.
+I'm sure you do.
+Is Dravis really a threat to your father?
+I cannot say for sure, but he seems convinced that he is given his relentless pursuit.{^n}{^n}Our father was powerful, the most powerful mage I had ever known, but Dravis has done some deplorable things in order to catch up.
+I have another question.
+Unfortunately we may find out.
+Hopefully we can stop him before anything happens.
+What will you do now?
+With Dravis traveling through the void, it is impossible to say where he will end up next.{^n}{^n}I have some ideas as to where he hopes to be, so perhaps I will find him there, along with these mysterious flowers.{^n}{^n}Thank you for your assistance, but unfortunately I'll have to take it from here on my own.
+Are you sure you can handle him by yourself?
+I've learned some tricks of my own.{^n}{^n}That story about the weeping willow. It really happened, though I did not give you the ending.{^n}{^n}It was a drawn out battle for our very lives, but in the end I had Dravis disarmed and the tip of my sword at his throat. Unfortunately he also learned a few things since we last saw each other.{^n}{^n}Dravis stunned me with a cloud of vile magic that I quickly worked to dispel, but by the time the haze had lifted, he was gone, his sword the only reminder of our meeting.
+I have another question.
+Don't do anything foolish.
+Be careful, Daila.
+I have another question.
+Good luck.
+You seem rather secretive about your father.
+He left us when we were still children and never returned, so I don't feel particularly protective of him.{^n}{^n}Honestly, there is so much misinformation out there, I'm not sure what to believe and what is myth.{^n}{^n}I know that he is a powerful mage and that he learned things about the arcane in his lifetime that most only dream of. He's also done some regrettable things in his day, things that Dravis now pursues.
+Regrettable things?
+When he taught us some rudimentary magic, he warned us of abusing it.{^n}{^n}In the past he had used people, often unwillingly, as sources of power; even as conduits for his rituals.{^n}{^n}He did not hold anything back. He wanted us to know that magic is often ugly and can be misused in the wrong hands.
+I have another question.
+I see.
+I have another question.
+Farewell.
+Nevermind.
+Hope you find him.
+Don't you have someplace better to be?
+I suppose I do.
+You're back. Did you find anything?
+No sign of Dravis, but I did find his minions.
+So he knew I would follow. Then the notes he's been leaving me are not just his suspicions.{^n}{^n}Somehow he knows, and he wants me dead? Or perhaps he's testing me.{^n}{^n}Is there anything else you've found? Anything at all could serve as a clue.
+I did find something on his thrall.
+Hmm, I've never seen a flower quite like this, but it cannot be a coincidence.{^n}{^n}Dravis is still bitter after our last encounter, the note on the flower confirms that.{^n}{^n}I will have to investigate further. Thank you for your assistance. You've been a tremendous help.{^n}{^n}I said I would make this worthwhile to you, and I intend to deliver. Here, the blade of my brother Dravis. He abandoned it during our last encounter. It is heavily enchanted, crafted for him by our father.{^n}{^n}It would be a joy to see Blazeheart serving a worthwhile cause once more.
+
+Hope you find him.
+Thank you for the blade.
+Hmm, I've never seen a flower quite like this, but it cannot be a coincidence.{^n}{^n}Dravis is still bitter after our last encounter, the note on the flower confirms that.{^n}{^n}I will have to investigate further. Thank you for your assistance. You've been a tremendous help.{^n}{^n}I said I would make this worthwhile to you, and I intend to deliver. Here, a mighty weapon from another era.{^n}{^n}I hope it serves you well.
+
+Hope you find him.
+Thank you for the weapon.
+There's no time to waste. Dravis' trail could go cold on me again.
+Where do I need to look again?
+There is a rift to an area of the void known as the Cinder Wastes somewhere in Mourndale.{^n}{^n}Dravis' taunts are leading me to believe that he is using the void travel again.
+I'll check it out.
+We'll find him, don't worry.
+Dravis is here, I am now sure of it thanks to you.{^n}{^n}But unfortunately where he's gone, very few can go safely.
+What do we do now?
+Dravis is right. I cannot follow him into the void, not without debilitating sickness and an overwhelming desire to mutilate my flesh and tear out my eyes...What? We don't all handle exposure to the void equally.{^n}{^n}Given that you are here and you hadn't arrived by the method I used, then you must handle yourself better than I could within that forsaken reality. Dravis taunting me to follow him there is either some sort of cruel joke, or he knows that somebody is helping me. Neither is very comforting.{^n}{^n}There is only one chthonic rift in Mourndale, and it leads into the Cinder Wastes. If Dravis really is this reckless, then that is the only place he could have gone.{^n}{^n}Please, investigate this lead for me as I cannot. If you do, I will give you something in return that's sure to make the risks worthwhile.
+I will search the Cinder Wastes.
+I'm sorry, you're on your own for this one.
+I've been there, I found only his minions.
+
+I think you're on your own from here.
+Any luck out there?
+Is this what you're looking for?
+Let's see what you found.{^n}{^n}*Dails reads it over*{^n}{^n}Yes, this is definitely from Dravis. That bastard.
+What now?
+
+Good luck with the rest.
+Any luck out there?
+Where should I be looking?
+Dravis' trail has gone cold and I'm searching nearby places for new clues. If you can help me out, search the ruins of the Malmouth Outskirts to the north of here.{^n}{^n}Look for any tomes or notes with messages written to me.
+
+I'll take a look.
+I have some questions.
+I'm sure you do.{^n}{^n}But is this really the right time?
+Who's your father?
+*Daila sighs*{^n}{^n}I knew him as Armin Thall, but have since learned that he bore many names in his lengthy lifetime. I do not know anymore which is true.{^n}{^n}Dravis now pursues relentlessly, hoping for some form of revenge. I've tracked him down as far as here, but the trail has gone cold.
+I have another question.
+I see.
+You left your husband behind?
+Oliver? He'll understand, in time.{^n}{^n}He's a good man, but he has a very narrow view of the world that doesn't leave much room for its wonders...and dangers.
+I have another question.
+I see.
+How did you get all the way out here on your own?
+Don't underestimate a girl's desire to see the world.{^n}{^n}I can take care of myself and I know ways to get around that you may not consider.
+I have another question.
+I see.
+Nevermind.
+I'm still searching
+Well, you've convinced me. Here I am, tracking my deranged brother.{^n}{^n}Now are you going to help me or not?
+Daila? What are you doing here?
+My brother, Dravis...he's become obsessed with our father. Somehow he's got in his head that our father had betrayed us when we were children, that he denied us power that was rightfully ours.{^n}{^n}In retrospect, I see it as a mercy; keeping us from the dark secrets that tormented our father's existence, nightmares of events that he cannot scour from memory.{^n}{^n}But Dravis does not see it that way. He's already harmed himself irrevocably in pursuit of our father, and has shown no sign of stopping. He believed that we should do this together, but I refused to be a part of it. However, this obsession has gone on long enough and I feel a familial responsibility towards putting a stop to this madness.{^n}{^n}I've tracked Dravis as far as here, but the trail has gone cold. I know of several leads to pursue, and now that you are here, perhaps you could help me out.If you could search the ruins of the Malmouth Outskirts to the north of here for any sign of Dravis, I'll be sure to make it worth your while. Look for any tomes or notes left behind with taunting messages written for me. Dravis loves the theatrics.
+I'll look for his clues.
+Sounds foolish.
+I think I have what you're looking for.
+
+I know where Dravis has been.
+
+I, um, found the sword, Stormheart.
+
+Whoah, hold on, I have some questions.
+
+Good luck with that.
+Hello again.{^n}{^n}I hope you're ready to write the next chapter of my story. Unfortunately this one is still a work in progress.
+Daila? What are you doing here?
+My brother, Dravis...he's become obsessed with our father. Somehow he's got in his head that our father had betrayed us when we were children, that he denied us power that was rightfully ours.{^n}{^n}In retrospect, I see it as a mercy; keeping us from the dark secrets that tormented our father's existence, nightmares of events that he cannot scour from memory.{^n}{^n}But Dravis does not see it that way. He's already harmed himself irrevocably in pursuit of our father, and has shown no sign of stopping. He believed that we should do this together, but I refused to be a part of it. However, this obsession has gone on long enough and I feel a familial responsibility towards putting a stop to this madness.{^n}{^n}I've tracked Dravis as far as here, but the trail has gone cold. I know of several leads to pursue, and now that you are here, perhaps you could help me out.{^n}{^n}If you could search the ruins of the Malmouth Outskirts to the north of here for any sign of Dravis, I'll be sure to make it worth your while. Look for any tomes or notes left behind with taunting messages written for me. Dravis loves the theatrics.
+I'll look for his clues.
+Sounds foolish.
+I think I have what you're looking for.
+What? Hand it here.{^n}{^n}*Dails reads it over*{^n}{^n}That bastard.
+What now then?
+
+Good luck with your search.
+I know where Dravis has been.
+Dravis is obsessive. He's been leaving me notes of his foolhardy pursuit all over the place, hoping that I'll stumble upon one and find him.{^n}{^n}Well, I suppose his wish is coming true. This has gone on long enough. I'm putting a stop to it.
+What are you doing out here?
+
+I need to think about all this.
+I, um, found the sword, Stormheart.
+You what?!{^n}{^n}*Daila pauses, contemplating*{^n}{^n}Well, I suppose it's rightfully yours then. It was a gift from my father, so treat it well.
+I think you should keep it.
+It served me well once, but now it brings back painful memories. I left it behind for a reason.{^n}{^n}Keep it.
+
+What are you doing out here?
+
+Very well.
+Those stories of yours...they're not really just stories, are they?
+A few embellishments here and there, but yes, they happened.{^n}{^n}Oliver likes to pretend that our lives are simple, that all of my history is just that, history; but I can't pretend like he does.
+You should take the sword.
+What are you doing out here?
+
+I see.
+What are you doing out here?
+Um, alright.
+Whoah, hold on, I have some questions.
+I'm sure you do.{^n}{^n}But is this really the right time?
+Who's your father?
+*Daila sighs*{^n}{^n}I knew him as Armin Thall, but have since learned that he bore many names in his lengthy lifetime. I do not know any more which is true.{^n}{^n}Dravis now pursues him relentlessly, hoping for some form of revenge. I've tracked him down as far as here, but the trail has gone cold.
+What are you doing out here?
+I have another question.
+I need to think about all this.
+You left your husband behind?
+Oliver? He'll understand, in time.{^n}{^n}He's a good man, but he has a very narrow view of the world that doesn't leave much room for its wonders...and dangers.
+What are you doing out here?
+I have another question.
+I need to think about all this.
+How did you get all the way out here on your own?
+Don't underestimate a girl's desire to see the world.{^n}{^n}I can take care of myself and I know ways to get around that you may not consider.
+Where'd you get that armor?
+This old thing?{^n}{^n}A relic from another life, when I was more into adventuring and less into writing about it.
+What are you doing out here?
+I have another question.
+I need to think about all this.
+What are you doing out here?
+I have another question.
+I need to think about all this.
+Nevermind.
+Good luck with that.
+Don't you have someplace better to be?
+I suppose I do.

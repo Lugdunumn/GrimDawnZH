@@ -1,0 +1,35 @@
+Ivok
+I am unsettled by your presence, inquisitor. 
+Why is that? 
+We have suffered too much at the hands of your kind. Leave me. 
+I mean you no harm.
+Your reassurance brings me no comfort. {^n}{^n}A Luminari has no business here but to bring pain and suffering to the coven.{^n}{^n}I will have my eye on you.
+I'll be going then.
+I'll be going then.
+I'll be on my way.
+Ah, one who toys with the dead, your reputation precedes you. 
+
+
+I'm sorry, but I must go.
+Ah, welcome [[ms]brother[fs]sister], your reputation precedes you.
+
+
+I'm sorry, but I must go.
+Ah, the traveler. Your reputation precedes you. 
+My reputation?
+Yes, the threads bring word of your deeds in Devil's Crossing and beyond... but be careful that you are not caught in the spider's grasp.
+What does that mean?
+Fair warning, all that is done here is seen and heard. You would be wise to tread carefully.
+
+Thank you for the warning, I think.
+Uh, ok. I'll be going then. 
+What is this place?
+This was once a place of gathering for beings of unfathomable power.{^n}{^n}Now it serves as a lowly refuge for what remains of this coven. 
+Isn't it dangerous out here? 
+Indeed, a great deal of effort is spent protecting this place.{^n}{^n}You may see signs of our labor in the wards and traps that surround the coven.
+What was that about my reputation?
+I'll be going now.
+I'll be going now.
+Find somebody else to bother and don't try anything foolish. We are watching you.
+I'll be on my way then.
+That's creepy.

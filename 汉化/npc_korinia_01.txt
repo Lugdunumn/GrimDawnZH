@@ -1,0 +1,56 @@
+Korinia
+I know you can't stand to be apart from me, but I'm sure there's somebody who could use your assistance right about now.
+
+Goodbye.
+I know you can't stand to be apart from me, but isn't there an incursion happening on the surface as we speak?{^n}{^n}Aren't you...maybe supposed to be up there too?
+What about you?
+Believe me, I'd go, but I've got people that need looking after almost as much as you do.{^n}{^n}You'll make it without me. Go on now.
+
+Alright, I'm going.
+
+Alright, I'm going.
+Goodbye.
+Welcome to Malmouth, for what it's worth.{^n}{^n}Inquisitor Creed and I have been talking. While I may have taken the lead here, I admit I do not have the military experience he does.{^n}{^n}He will defer to me for smaller operations, but commanding our troops in taking back the city will fall to him.
+I have some questions.
+What would you like to know?
+What's your role here?
+I'm the one who barks commands and everybody else listens for some reason.{^n}{^n}The inquisitor clearly has more experience than I do in war. I do not plan to stand in his way, but looking after our people is my responsibility.
+Can I ask something else?
+I see.
+What's the situation here?
+Everyone's either dead, a horribly disfigured mess or alive and hiding down here.{^n}{^n}We're quickly running out of alive, so it's a good thing you're here.{^n}{^n}Our contact with the outside world collapsed quickly after the Aetherials attacked. We've lost hope of ever taking back our city.{^n}{^n}Crown Hill, once the home to the Malmouth government and the piles of lard that grew rich off the industry here, is now the throne of Theodin Marcell, the Master of Flesh. A sickening growth is spreading outward from there that we've called the Fleshworks.
+The Fleshworks?
+It's where our people, both living and dead, are being taken. The Aetherials use human bodies as a raw material, fashioning flesh into living nightmares, transforming us into the implements of our own destruction.{^n}{^n}I have no doubts that what they are growing here is only the beginning of a grand effort. Whether Malmouth is a unique experiment or whether the horrors here are being mirrored in other once-great cities across the Erulan Empire, I can only guess. {^n}{^n}All that is happening here in Malmouth though is zealously orchestrated by Theodin Marcell, the Master of Flesh. 
+
+Can I ask something else?
+It will have to fall.
+Thanks for the info.
+Who is Theodin Marcell?
+He was an imperial surgeon from Erulan who arrived shortly before the attacks began; but in truth he was an agent of the Aetherials sent here to sow chaos in the region.{^n}{^n}Malmouth fell due to his machinations.
+
+Can I ask something else?
+We'll have to deal with him.
+Thanks for the info.
+Can I ask something else?
+Sounds awful.
+How did you survive this long?
+Me personally? My charming good looks of course. That or the arcane training. I haven't decided which one.{^n}{^n}As a group, we survived with guerilla tactics and scavenging for supplies wherever the Aetherials were thinnest. Unfortunately that's become much more difficult of late.
+Can I ask something else?
+I see.
+Forget it.
+Makes sense.
+Looking forward to working together.
+I'm sorry about the cold welcome.{^n}{^n}I had no reason to believe help was actually coming after all this time, and yet here you all are.
+Understandable.
+
+Whatever.
+We'll speak later.
+And you are?
+I'm with the Black Legion, here to help.
+The Black Legion? Where were they when the city burned?{^n}{^n}Where were they when our people were forced to flee into the sewers?{^n}{^n}Where were they when we watched our children get turned into monsters?!
+I'm sorry. The attacks happened everywhere.
+That may be true, but do not expect me to leap for joy because of empty gestures.{^n}{^n}If you are here to help, then act.
+Farewell.
+Well, we're here now.
+I'm sorry.
+Just leaving.

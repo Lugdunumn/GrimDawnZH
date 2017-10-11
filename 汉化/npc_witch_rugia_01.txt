@@ -1,0 +1,70 @@
+Seer Rugia
+So you return, questions answered and answers turned to questions.{^n}{^n}The veiled one has returned to the fold and only the marked one remains. But for how long?
+I'm going to regret this, but I have questions.
+The shroud of wonder has parted. We are all eternally seeking.{^n}{^n}How can I help you find your way?
+How did you know about the Aetherial that possessed me?
+Your arrival sent ripples through the strands. Fates cascaded upon the shores of the everlasting dream.{^n}{^n}In that moment, I felt a presence that was like you and yet, not. I delved deeper into the weave until I discovered this anomaly.
+Great, now I have more questions.
+Sounds fascinating.
+That's insanity.
+Why do you speak this way?
+The many-eyed fiend robbed me of sight, but he has granted me vision.{^n}{^n}Now I see all, feel all, dream all...
+Great, now I have more questions.
+I...see...
+What is the history of the Coven?
+*Rugia's blank eyes stare through you*{^n}{^n}A question, but what does it truly ask?{^n}{^n}Once, we were few and young and naive. We cared not for laws or justice or what was right. We only craved more.{^n}{^n}And we found it, here where the veil was shattered and remade. We found the altar and the power, but still we wanted more. In our arrogance, we were discovered. Not by man or runesigned or beast, but by gods. And the gods were angry...{^n}{^n}*Rugia sheds a single tear of blood*{^n}{^n}My sisters...burned for what they had seen, but I...I was spared by the many-eyed fiend. He saw what the others did not, a purpose yet unserved.{^n}{^n}And so I remain, alone among the intruders.
+Great, now I have more questions.
+Horrible.
+Tragic.
+How did you come to join the Coven?
+One of the first, I was.{^n}{^n}Young and full of spite.{^n}{^n}My sisters are all gone, whisked away by eldritch dreams.
+Great, now I have more questions.
+I...see...
+Why do you keep calling me the marked one?
+Marked for death, or perhaps life...or something in between.{^n}{^n}The many eyes see a purpose that we cannot. I was to speak for you, that I know; but why, when and for whom? This I cannot say.
+Great, now I have more questions.
+I...see...
+Forget it.
+It was...an uncomfortable meeting.
+One comes before us who is not ready.{^n}{^n}Perhaps another day shall rise upon which [[ms]he[fs]she] will understand.
+
+I...see...
+The spirit-touched returns and yet...the stars speak of unresolved events.{^n}{^n}Why are you here and not there?
+Where is this Aetherial again?
+Do you ask me or ask yourself?{^n}{^n}The answer lies somewhere in-between, I think.{^n}{^n}But if you are asking me, then perhaps the fates have changed. Oh how they twist and unravel deep within the flesh vats of the iron city of Malmouth.
+I'm going to regret this, but I have other questions.
+I think I know what that meant?
+I'm going to regret this, but I have questions.
+I was just leaving,
+You!{^n}{^n}*Rugia points a finger in your direction despite clearly being blind*{^n}{^n}You and I must weave a tapestry of change upon this day.
+Ok...fine. Lay on the crazy.
+Your mockery matters not. This strand was started long ago. The time has come for it to end.{^n}{^n}Within the iron city, the flesh vaults are teeming with uncertainties. Within them, another you beckons.{^n}{^n}There you must go. Find this other and make yourself whole.
+I will seek it out.
+I'd rather not.
+How do you know this?
+Your arrival sent ripples through the strands. Fates cascaded upon the shores of the everlasting dream.{^n}{^n}In that moment, I felt a presence that was like you and yet, not. I delved deeper into the weave until I discovered this anomaly.{^n}{^n}The question remains, now that you know, do you dare to meet your other?
+I will seek it out.
+I'd rather not.
+I don't have time for your rambling.
+[[ms]He[fs]She] returns.{^n}{^n}I can smell the questions upon you.
+You're right, I do have questions.
+Words are spoken, yet they carry no meaning.{^n}{^n}We are all lost in the great darkness that shall consume all.{^n}{^n}What do you hope to gleam?
+Why do you speak this way?
+The many-eyed fiend robbed me of sight, but he has granted me vision.{^n}{^n}Now I see all, feel all, dream all...
+Great, now I have more questions.
+I...see...
+What is the history of the Coven?
+*Rugia's blank eyes stare through you*{^n}{^n}A question, but what does it truly ask?{^n}{^n}We are as one, nothing less, where before we were many but not as one.{^n}{^n}The runesigned pursued, but not here, never here, for here dwells death.{^n}{^n}Nothing more to be said.
+Great, now I have more questions.
+I...see...
+How did you come to join the Coven?
+One of the first, I was.{^n}{^n}Young and full of spite.{^n}{^n}My sisters are all gone, whisked away by eldritch dreams.
+Great, now I have more questions.
+I...see...
+Forget it.
+Not today.
+One comes before us who is not ready.{^n}{^n}Perhaps another day shall rise upon which [[ms]he[fs]she] will understand.
+Huh?
+You pester me, marked one.{^n}{^n}Begone!
+Ok...then...
+I...see...

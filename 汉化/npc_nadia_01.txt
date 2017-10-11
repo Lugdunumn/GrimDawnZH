@@ -1,0 +1,17 @@
+Nadia
+What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
+Help is on the way.
+What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
+Calm down, I've been looking for you.
+Looking for us? {^n}{^n}I wouldn't have thought they'd risk sending someone else to check on us.
+Captain Wilfor sent me.
+Bless the captain. He wasn't sure we could do this, and he was right.{^n}{^n}There were others, another scavenge team. Have you seen them?
+They're safe, now you need to get out of here.
+That's good news.{^n}{^n}After we split up, I couldn't find them again. I assumed they were dead.{^n}{^n}Whatever you need to do to get us out of here, I'm ready.
+Ok, here you go. (Open Riftgate)
+I'll find them, but you need to get out of here first.
+Whatever you need to do, I'm ready.{^n}{^n}Anything to be out of here.
+Here you go. (Open Riftgate)
+Hold on a moment.
+What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
+I'll send someone to help you.

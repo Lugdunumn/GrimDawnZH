@@ -1,0 +1,15 @@
+Ugdenbog
+Cleanse the Corruption
+Slay Boss
+Mogdrogen's Avatar has shown himself before you in Ugdenbog. As the god of beasts is occupied elsewhere, he has asked you to assist him in cleansing the Ancient Grove of Ugdenbog of the vile corruption growing within it.{^n}{^n}Only when the Heart of the Forest has been purged will the grove be allowed to cleanse itself of the Aetherial and Ch'thonic taint.{^n}{^n}This task will require a Skeleton Key.
+
+Cleanse the Ancient Grove
+
+Return to Mogdrogen
+You have cleansed the corruption within the heart of the Ancient Grove.{^n}{^n}Return to Mogdrogen in Ugdenbog and report on your success.
+Speak to Mogdrogen in Ugdenbog
+
+
+
+
+

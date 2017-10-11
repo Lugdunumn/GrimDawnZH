@@ -1,0 +1,27 @@
+John Bourbon
+So another monster has been banished from this world.{^n}{^n}You're beginning to give me hope that someday there will be an end to all this tragedy.
+We can only hope.
+Anything to report on the situation in Malmouth?
+No good news yet.
+We'll talk later.
+So that's what it's gonna take then? The void?{^n}{^n}Can't say I envy you.
+We have no choice.
+I hope you know what you're doing, trusting those witches.{^n}{^n}I have faith in you and Creed, but I find these methods...unsettling.
+The Coven has good people, just misunderstood.
+I'll do whatever it takes to keep us safe.
+It's a necessary evil.
+Good luck out in Ugdenbog. I've only traveled north of Burrwitch a handful of times and the journey was never a pleasant one.{^n}{^n}I cannot imagine it's fared any better with a lack of patrols and human activity.
+Anything I should be aware of?
+Gloomwald and Ugdenbog are some of the most treacherous areas in the region, even before the Grim Dawn.{^n}{^n}Regular patrols kept the roads mostly safe for travel, but there was always a risk when traveling between Burrwitch and the northern settlements. Those that could afford it generally preferred to go by boat.{^n}{^n}I don't know what it is about that bog, but it's a breeding ground for predators.
+
+Good to know.
+What's next for Devil's Crossing?
+We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
+
+We will endure.
+Farewell.
+I knew that eliminating Krieg would not be the end of our troubles, but I never pictured this.
+What's next for Devil's Crossing?
+We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
+We will endure.
+Farewell.

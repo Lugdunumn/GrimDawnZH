@@ -174,13 +174,13 @@ ach054Title=死亡空间
 ach054Desc=在灵魂密室中存活下来。
 
 ach055Title=我来收集我的纸条
-ach055Desc=收集5条学识记录
+ach055Desc=收集5条学识记录。
 
 ach056Title=笔记收集者
-ach056Desc=收集20条学识记录
+ach056Desc=收集20条学识记录。
 
 ach057Title=学识管理者
-ach057Desc=收集50条学识记录
+ach057Desc=收集50条学识记录。
 
 ach058Title=绝望之地
 ach058Desc=在绝望之地存活下来。

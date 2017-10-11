@@ -1,0 +1,39 @@
+Arina
+You shouldn't be here.
+I go wherever I want.
+I'm leaving.
+Welcome back. Seems you're not such a stranger anymore.{^n}{^n}Perhaps the hunger drives you to keep returning to us?
+Perhaps.
+I don't think so.
+I sense a hunger in you. You must be the shaman I've heard wisper of. {^n}{^n}Welcome to our humble village. I do hope you find it satisfactory.{^n}{^n}Tell me, do the spirits offer solace? Or have they been silent?
+What's going on with this place?
+Whatever do you mean?
+
+Nevermind, what did you mean about the spirits?
+You know what, never mind.
+What spirits?
+Oh, I've just heard that shamans sometimes commune with spirits through totemic rituals.{^n}{^n}I thought that perhaps you had experienced such a ritual for yourself and had insight.
+Can't say I have.
+Oh, then you should try it for yourself.{^n}{^n}I hear it can be quite...enlightening.
+
+I'll consider it.
+Not really my thing.
+
+None of your business.
+I'm sorry, I need to go.
+I need to go.
+You must be the strange new visitor. I've heard whispers of your arrival. {^n}{^n}What can I do for you?
+What's going on with this place?
+Whatever do you mean?
+This village, how is it in such good shape?
+Well stranger, we are very devoted.{^n}{^n}We work hard and our caring leader provides us with everything we need.
+You mean Scorv Egdenor?
+Yes...of course. We have, all of us, devoted ourselves to him.{^n}{^n}In return he gives us safety and satiates our hunger.{^n}{^n}You should eat before your leave. I'd hate to see you starve to death out there in the bog.{^n}{^n}Or worse, you could end up as someone's dinner.
+That sounded like a threat.
+Certainly not. Hunger is a powerful thing.{^n}{^n}You must feed it or it may drive you mad. It's a lesson the fleshcrazed of the bog certainly take to heart.
+I'll keep that in mind.
+Sounds like crazy talk to me.
+Thank you for the warning.
+I have to get going.
+You know what, never mind.
+Nothing, I need to go.

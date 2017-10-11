@@ -1,0 +1,90 @@
+Ravager
+What a delightful creature!{^n}{^n}Even I did not suspect what you were capable of.
+How are you still alive?
+You cannot end me any more than you could stop the skies or still the seas.{^n}{^n}I am Ravager, I am eternal.
+We'll see about that! (Attack)
+Sounds like a challenge.
+And never forget it.
+Don't underestimate me again.
+A feisty little mortal. Your rage amuses me.{^n}{^n}Have you come to be torn to shreds? Or have you learned your place?
+
+I'm just getting started! (Misguidedly Attack)
+I'll be going
+What is this little thing that stands before me?
+
+Um, I'll be going.
+What is this little thing that stands before me?{^n}{^n}Have you come to offer yourself to a god, shaman? Or perhaps you've already tasted of my gift and have come to thank me?
+
+Your powers are invaluable in combat.
+As they should be, little shaman.{^n}{^n}Drink deep of my power and bring yourself closer to your god.
+
+I will.
+Farewell.
+I am wary of your gifts.
+I'd rather not discuss this.
+What is this little thing that stands before me?{^n}{^n}Have you come to offer yourself to a god?
+May I ask some questions?
+I will indulge your curiosities.
+What are you?
+I am the hunger, the giver and the taker.{^n}{^n}But none who receive my gift hunger ever again.{^n}{^n}You stand before a primal force of nature, made manifest.
+
+You do not impress me, I've faced a god and won.
+
+I have another question.
+I...see.
+Can I receive your gift?
+You wish to be remade in my image? To offer your soul to the wendigo?{^n}{^n}An amusing request, but one I shall not grant you.{^n}{^n}You entertain me, human, but you reek of Aetherial corruption. It is only by the mercy of all you have done for my servants that I not tear you apart where you stand.
+I have another question.
+I am corrupted by the Aetherials?
+The primordial servant may have left your body, but it has also left its mark.{^n}{^n}You are tainted, broken. Not even worthy of standing before me.{^n}{^n}When this world is scoured of the dead gods and their pathetic servants, the likes of you shall be next.
+
+
+I have another question.
+I see.
+Um, I think I'll be going.
+I won't just stand here and take insults from you.
+Is that so? Does the worm wish to rise above the dirt and fly as a bird?{^n}{^n}Wishes do not change our station. Learn your place and appreciate that you still live.
+
+I have another question.
+I'd rather not. (Misguidedly Attack)
+I'll leave you be, this time...
+I've defeated mightier than you for less.
+You speak of Mogdrogen? That pathetic creature has been in decline for centuries.{^n}{^n}He and I shall meet again, and this time he shall not have the upper hand.{^n}{^n}As for you, do not mock me with your empty threats, worm.
+I have another question.
+
+How's this for an empty threat? (Misguidedly Attack)
+I'll leave you be, this time...
+I see.
+What is your will?
+I shall begin by hunting down the one who scorned me. The beast god will suffer for his transgressions.{^n}{^n}Then we shall scour this world clean of dead gods and their pathetic servants.
+What has Mogdrogen done?
+At the peak of his power, the beast god strove to rule over nature as he saw fit.{^n}{^n}Others like myself rose to oppose him, many fell. My body was destroyed and my disembodied form forced to roam the veil for millennia.{^n}{^n}But I have returned, and my vengeance will be absolute.
+I have another question.
+Send that arrogant bastard my regards.
+I see.
+I have another question.
+Praise Ravager!
+I'll be going now.
+Did you see the Grim Dawn coming?
+If I told you that I sensed the great unrest stirring just beyond the veil for some time, will that make you feel better about all that has transpired?{^n}{^n}Humans amuse me, and some are even useful, but I see no purpose in altering your fate; except perhaps to deny my enemies your lives as a resource, but that can just as easily be achieved with your deaths.
+I have another question.
+That's not what I was hoping to hear.
+That's...troubling.
+You do not impress me, I've faced a god and won.
+You speak of Mogdrogen? That pathetic creature has been in decline for centuries.{^n}{^n}He and I shall meet again, and this time he shall not have the upper hand.
+I have another question.
+ (Misguidedly Attack)
+I see.
+Why the hatred of Chthonians?
+They seek to claim blood that is rightfully mine!{^n}{^n}I shall feast upon the marrow of their bones and the blood they had gathered will briefly sate my endless hunger!
+I have another question.
+I see.
+Nevermind.
+Praise Ravager!
+I'll be going now.
+I kneel before no one.
+What is this little thing that stands before me?
+What are you?
+I am the hunger, the giver and the taker.{^n}{^n}But none who receive my gift hunger ever again.{^n}{^n}You have not yet come to understand, but you will.
+I...see.
+Um, I'll be going.

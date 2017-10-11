@@ -1,6 +1,14 @@
 巴纳巴斯
 我不知道你怎么办到的，但你肯定成功了。我们收到了来自霍姆斯特德的食物，而且貌似更多的食物还在路上运送着。{^n}{^n}你以一人之力保全了这个营地的未来。我不知道该怎么感谢你，喝一杯水吧，这一杯算我请你的。
 我很高兴我们都活下来了。
+*Barnabas raises a glass of water*{^n}{^n}Well, here's to all the lives sacrificed to bring us this small respite in a sea of misery. May they find peace at last. 
+Hear, hear. 
+So you found yer way to Malmouth then?{^n}{^n}I hope you can put a stop to whatever's creating these horrors. 
+I will try. 
+It is one thing to wage war, for man to kill another man for the sake of food, land or wealth. All deplorable acts that make us less than human.{^n}{^n}But this...this thing, this Aetherial abomination made of human parts designed to butcher us all. That is war brought to entirely new repulsive lows. 
+We must persevere. 
+It is one thing to wage war, for man to kill another man for the sake of food, land or wealth. All deplorable acts that make us less than human.{^n}{^n}But this...this thing, this Aetherial abomination made of human parts designed to butcher us all. That is war brought to entirely new repulsive lows. 
+We must persevere. 
 你的事迹正在为人广泛传颂，我的朋友。{^n}{^n}*巴纳巴斯举起一杯水*{^n}{^n}敬你，还有牺牲的人们。
 只要我们坚持战斗，凯恩仍然还有希望。
 谢谢你。
@@ -50,7 +58,7 @@
 打开我身后小屋里的地窖。那个地窖连接着监狱的内部，从那儿你便可通往蛇人的洞穴。{^n}{^n}杀了可能在污染水源的蛇人女族长后就能消除水里的毒物了。
 我这就去。
 好消息是我整好了水泵。唯一的问题就是水闻起来比下水道里流出来的还要臭上十倍。{^n}{^n}怎么会这样呢？我自从那件事之后起就没再闻过这样的腐臭了……
-从哪件事起？
+从何时起？
 从许多年以前我清理过蛇人窝之后起。蛇人是一种恶心到令人想吐的两栖动物——他们通常会在沼泽或者是阴湿的洞穴里安家。{^n}{^n}为了喝水，他们会在水里分泌一种肮脏的毒液。他们喝了没事，可是这玩意会毒死人。我愿意用一堆铁币打赌一定有一窝蛇人给咱们的水泵里加着佐料呢。{^n}{^n}我老了，洞穴探险这种差事还是得靠你了。下去干掉他们吧。
 我如何去到那个洞穴？
 这把钥匙可以打开我身后小屋里的地窖。那个地窖连接着监狱的内部，从那儿你便可通往蛇人的洞穴。{^n}{^n}杀了可能在污染水源的蛇人女族长后就能消除水里的毒物了。{^n}{^n}你如果办成这件事，全恶魔十字的人都会称颂你，每杯水都会使你的名字荣耀无比。

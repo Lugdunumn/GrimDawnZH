@@ -1,0 +1,53 @@
+Inquisitor Creed
+Malmouth is a great victory for mankind, a symbol that we will not simply lie down and be conquered.
+What's our next move?
+We can't afford to underestimate our enemies. There is a real possibility that the Aetherials will retaliate in some way for this loss.{^n}{^n}We must be prepared. The first step will be to exterminate the remaining Aetherial presence and secure Malmouth against a possible attack.{^n}{^n}Between Fort Ikon and Malmouth, we now have major fortifications on both fronts, with access to the coastline and shipbuilding facilities.{^n}{^n}But every victory costs us lives, while the Aetherials are nigh limitless. Every move we make must be carefully planned.
+Agreed.
+The longer we wait, the more lives are lost.
+Korinia appears to be an Aetherial.
+Yes, Anasteria informed me of this. This development confounds me as I cannot possibly know its long-term implications.{^n}{^n}Are they truly our allies? Or is this an alliance of convenience? Or perhaps something else entirely.
+
+They've been helpful so far.
+I don't trust them.
+Farewell.
+The fighting ahead will be brutal, but we have to persevere.
+Onwards then.
+Tell me, what happened in the Fleshworks?
+The Master of Flesh is no more.
+*Creed nods his head*{^n}{^n}So it is finished then. With the demise of this fiend, a major pedestal in the Aetherial hierarchy crumbles. Their forces here will become rudderless, their collective will be scattered.{^n}{^n}Malmouth is a great victory for mankind. It will become a symbol of our resilience, that we are not done fighting for our right to exist.{^n}{^n}And we must keep on fighting, in the name of those who sacrificed their lives, for humanity itself. We will never submit!
+
+Hear, hear!
+Steel yourself.{^n}{^n}We do not know what to expect within that living nightmare.
+Farewell.
+Ulgrim needs you at Crown Hill.{^n}{^n}Get back out there!
+I'll head there now.
+Is there anything you need?
+What do I need to do again?
+The gates to Crown Hill are on the northwestern end of the Steelcap District, just past the harbor. You will need to recover the explosives left behind by the resistance and combine them with my additive at the Crown Hill gates.{^n}{^n}Be careful with that stuff, it's very potent and unstable. Once you mix it in, get ready to run.
+I'm on it.
+I've misplaced your additive.
+Misplaced a highly unstable arcane powder? What could possibly go wrong?{^n}{^n}Here. Be careful with this stuff.
+Thank you.
+Farewell.
+It is nearly time to begin the assault on Crown Hill, while the Aetherials are still reeling from our recent attack.{^n}{^n}We need to discuss our next move.
+What is the plan?
+The resistance had attempted to breach the gates of Crown Hill before, but they were not adequately prepared. The remains of their fallen still litter the streets, along with the explosives they had crafted for the task.{^n}{^n}I've prepared a powder that should magnify the properties of their makeshift bomb dramatically, enough to pierce those steel gates and give us an opening.{^n}{^n}I need you to take this powder and recover the explosives from the failed mission. Combine them at the Crown Hill gates and blast the damned things open. Only then will we have any hope of breaching the Fleshworks and destroying the Master of Flesh.{^n}{^n}Once through, secure a foothold and report to Ulgrim, who will join you in the field.
+I will breach the gates.
+This will take some preparations.
+I've breached the gates already.
+Good work. Push forward into Crown Hill and secure a foothold.{^n}{^n}Ulgrim will join you once there.
+I'm on it.
+The way to Crown Hill is clear.
+Good work.{^n}{^n}Return to Crown Hill and assess the situation with Ulgrim.
+I'm on it.
+
+What can we expect in Crown Hill?
+We know that it is the stronghold of Aetherial operations in the region. Within its walls is the center of the fleshy growth known as the Fleshworks, within which hides Theodin Marcell, the Master of Flesh.{^n}{^n}He is the mastermind behind the tragedies that befell Malmouth, Port Valbury and who knows where else. His destruction will surely disrupt Aetherial activities in the region and put a stop to whatever horrors he is preparing for humanity next.{^n}{^n}We cannot afford to fail to here.
+What was the plan again?
+I need some time to prepare.
+We'll speak of this soon.
+The outpost is ours, though it came with a cost.{^n}{^n}Those who lost their lives in the defense of mankind must never be forgotten.{^n}{^n}But we cannot let their sacrifices be in vain. We must push forward.
+What's our next move?
+
+The fighting ahead will be brutal, but we have to persevere.
+Onwards then.

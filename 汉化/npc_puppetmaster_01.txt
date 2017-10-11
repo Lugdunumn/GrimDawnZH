@@ -1,0 +1,55 @@
+Allostria
+Leave this place, mortal, while you still draw breath.{^n}{^n}My mercy only goes so far and I am not here for you.
+I'm leaving.
+So precious few moments in your brief lives, and you spend yours chasing after me?{^n}{^n}I would be flattered if it weren't so pathetic!{^n}{^n}But you have my curiosity. Tell me, what is my former vessel doing here, in the heart of the enemy?
+I'm here to end this.
+You, an abandoned vessel, think you're just going to march in here and threaten all that we've created?{^n}{^n}Don't make me laugh.
+Many of your kind have already fallen to me.
+While it's true that you've managed to disrupt our efforts in Burrwitch and spared the Black Legion from a ruthless slaughter, you merely delay the final stroke.{^n}{^n}Nothing you've done, no Aetherial you think you've killed, will save humanity from its fate.{^n}{^n}We are infinite and the old gods that subjugated us have gone from this world. None remain who can oppose us and those of your kind who do not accept this reality will perish without exception.
+
+
+Then prepare to join your failed creations! (Attack)
+You may be infinite but so is my pleasure in killing your kind! (Attack)
+
+
+It finally ends here. (Attack)
+Stay where you are, fiend.
+Why are you doing this?
+It's not like a sheep to question its own slaughter. You are but flesh for us to harvest.{^n}{^n}We have simply returned to take back what is rightfully ours.
+Take back what's yours?
+At the behest of the gods, we created and nurtured life itself. All this for promises never fulfilled.{^n}{^n}And when the gods slaughtered one another, again we served. Our reward? Banishment to the Aether.{^n}{^n}Bodiless and lost, we helplessly threw ourselves against the veil, until the day your greedy species tampered with powers beyond its comprehension. That is the day we found our means of escape.
+
+
+
+I'm here to end you. (Attack)
+Stay where you are, fiend.
+
+
+
+Your arrogance ends here. (Attack)
+Stay where you are, fiend.
+Why me?
+Did you think you were special? That you had some purpose to fulfill, some glorious destiny?{^n}{^n}You were just another weak-minded vessel that I made use of as I scoured Devil's Crossing for survivors to harvest. Who knows, you might have served me still if not for that accursed witch! Really though, I should consider it a mercy for me, as I found your mind particularly unpleasant to inhabit. {^n}{^n}You think yourself the savior of Devil's Crossing? Hardly. By my hand, you became the harbinger of their doom!
+I don't care what you say. Devil's Crossing will not fall to you.
+And I suppose you, an abandoned vessel, will stop us?{^n}{^n}Don't make me laugh.{^n}{^n}I grow tired of these questions. Despite your insignificance, you've managed to be a thorn in our side for too long.{^n}{^n}And now you've saved me the trouble of finding you.
+
+
+
+Do your worst. (Attack)
+Stay where you are, fiend.
+I don't believe you.
+Denial is a very prominent trait in your pathetic species.{^n}{^n}I do not know what god created you in their moment of weakness, but it was clearly an error. Our might is wasted upon you. With your flesh and blood, we will carve new forms, more worthy of housing our immortal spirits!{^n}{^n}But I grow tired of these questions. Despite your insignificance, you've managed to be a thorn in our side for too long.{^n}{^n}And now you've saved me the trouble of finding you.
+
+
+
+Do your worst. (Attack)
+Stay where you are, fiend.
+
+
+
+I'm here to end you. (Attack)
+Stay where you are, fiend.
+Enough of your venomous tongue! (Attack)
+Stay where you are, fiend.
+Leave this place, mortal, while you still draw breath.{^n}{^n}My mercy only goes so far and I am not here for you.
+I'm leaving.

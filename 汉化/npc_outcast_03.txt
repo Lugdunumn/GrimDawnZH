@@ -1,22 +1,22 @@
-Anasteria
-Do not bother me, petulant child.{^n}{^n}I am here under the protection of the inquisitor.
-Alright.
+安娜斯特瑞娅
+别打扰我，任性的孩子。{^n}{^n}在这儿我受审判官的保护。
+好吧。
 So another has revealed herself.{^n}{^n}This turn of events will require some thought.
 Did you think you were the only one?
-I suspected that what occurred to me could not have been a unique phenomenon, though I was not certain if others were capable of obscuring themselves from our masters.{^n}{^n}It appears my suspicions were correct.
+I suspected that what occurred to me could not have been a unique phenomenon, though I was not certain if others were capable of obscuring themselves from our masters.{^n}{^n}看起来我的怀疑是正确的。
 
 The implications could be massive.
-Interesting
+有意思。
 Have you spoken with Korinia?
 Yes, we had spoken for a time since her...revelation.{^n}{^n}She approves of aspects of humankind that I find...troubling, but our experiences are not entirely mutually exclusive.
 
-I see.
-Farewell.
+我懂了。
+再见。
 Returning the Master of Flesh to the Aether is a monumental victory for your kind.{^n}{^n}While he is not destroyed, his failure will not be taken kindly in the Aether. The punishment may be quite severe.{^n}{^n}But there is another matter which we must discuss: Korinia.
 What about her?
 
-I don't want to hear it.
-Farewell.
+我不想听。
+再见。
 Your tireless willingness to help these people is commendable.{^n}{^n}Korinia seems to have a good grasp on where to hurt the enemy the most, though I suspect there is a good reason why that may be.
 And what would that be?
 A strange sensation tore at the back of mind ever since I've ever arrived. At first, I was not sure what the source could be, but over time I have come to realize that it originated from Korinia.{^n}{^n}She does appear to be an arcanist on the surface, but her mind was clouded to me. Her aura strangely familiar. Then I realized the truth.{^n}{^n}Korinia is an Aetherial. One much like myself.
@@ -27,18 +27,18 @@ I can't confront her based on a feeling.
 I will speak to her.
 I can't confront her based on a feeling.
 I don't want to hear it.
-Farewell.
+再见。
 This Korinia is more powerful than she lets on.{^n}{^n}She is hiding something. I would not underestimate her if I were you.
 What's the problem?
 Well, nothing as of yet.{^n}{^n}There is an aura about her, shielding her mind from mine, almost as if...{^n}{^n}Just be mindful, human.
 
-Hm, alright.
-I...see.
-Can you tell me anything about the Aetherials here?
+嗯，好的。
+我...懂了。
+你能告诉我有关这里虚灵的事情吗？
 I was stationed in the west, my focus and attention upon dismantling the Legion. I was only sent information relevant to my mission, the flow of which ended promptly when concensus was reached regarding a betrayal in the ranks.{^n}{^n}However, I can tell you that Malmouth is under the authority of one Theodin Marcell, but we knew him as the Master of Flesh, the Shaper, the Manipulator.{^n}{^n}He orchestrated the Amalgamation that was intended for Homestead, as well as the annihilation of Port Valbury. Yet Malmouth was to be his greatest accomplishment.
 What's your concern with Korinia?
-Thanks for the info.
-Not much to work with, but thanks.
-I...see.
-There are more important matters than why I am here, child.{^n}{^n}Do what is necessary.
-Farewell.
+多谢提供这些情报。
+这情报用处不大，不过还是谢谢。
+我...懂了。
+还有很多比我为何在这里更为重要的事情。{^n}{^n}做你该做的事。
+再见。

@@ -9,7 +9,7 @@
 愿死亡之影守护你的道路。
 守护者扮演了什么样的角色？
 再见。
-既然你和那些凯蒙神选战士的盟友搅合在一起，那我不希望跟你有任何关系。
+既然你和那些凯蒙神选者的盟友搅合在一起，那我不希望跟你有任何关系。
 再见。
 愿死亡之影守护你的道路。
 再见。
@@ -85,21 +85,21 @@
 算了吧，听起来和让我自杀没区别。
 
 我稍后再来讨论这个话题。
-I had no idea the Black Legion worked with our kind.{^n}{^n}Come, come, there is much to be done. 
+我不知道黑色军团与我们共同进退。{^n}{^n}来，过来，我们有许多事情要做。 
  
-When I was told we may be expecting somebody from the Black Legion, I would not have imagined Haruuv would send an inquisitor.{^n}{^n}Tell me, inquisitor, why should we trust you? 
-We're all fighting for humanity. 
-True enough, inquisitor.{^n}{^n}So be it, we'll give you a chance. 
+当我被告知黑色军团的人会来协助我们的时候，我可没想到会是名审判官。{^n}{^n}告诉我，审判官，我们为什么要相信你？
+我们都为人类而战。 
+的确如此，审判官。{^n}{^n}就这样吧，我会给你一次机会。 
  
-I want to unite mankind against the true enemy. 
-A noble goal, but what is the price you're willing to pay for such aspirations?{^n}{^n}So be it, inquisitor, we'll give you a chance. 
+我想团结人类，共抗外敌。 
+高尚的目标，可是你愿意为你这般的壮志付出多少？{^n}{^n}就这样吧，审判官。我会给你一次机会。 
  
 你一定是黑色军团的代表。{^n}{^n}来，过来，有很多事情要处理。
 你想要和我谈谈吗？
 
-Welcome to this sanctum.{^n}{^n}Here you shall find peace to expand your knowledge and pursue what your soul seeks. 
-Goodbye. 
-Don't try any of your tricks while you're here, inquisitor, or your welcome will be short-lived. 
-Goodbye. 
+欢迎来到圣所。{^n}{^n}这里你能够增长学识，追求你的灵魂之所欲。
+再见。
+别在这儿耍任何花招，审判官。不然你的欢迎仪式会变成短命仪式。 
+再见。
 愿死亡之影守护你的道路。
 再见。

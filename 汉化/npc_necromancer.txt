@@ -26,7 +26,7 @@
 再见。
 你照我说的去做了么？
 独裁者们已经不存在了。
-很好。我对你的信任看来没有错。和在破碎丘陵的苦痛阶梯那里的卡尔德罗斯谈谈，他会引导你的。
+好极了。我对你的信任看来没有错。和在破碎丘陵的苦痛阶梯那里的卡尔德罗斯谈谈，他会引导你的。
 好的。
 
 再见。
@@ -36,39 +36,39 @@
 我这就去。
 
 再见。
-Greetings, fellow practitioner of the sacred art.{^n}{^n}You do not know me, but I have heard of you. I am Balvoruuk, of the Order of Death's Vigil. Your skills lead me to believe that you may just be who I need for my...assignment. 
-Assignment? 
-Yes. I am here to purge this land of several malevolent spirits. Their tainted presence has corrupted Arkovia long enough.{^n}{^n}However, my masters have underestimated the degree to which these ancient Oligarchs have surrounded themselves with their former subjects. The Arkovian Undercity is swarming with the dead; I admit, far more than I could handle without the aid of my brothers. But you, you are quickly proving to be a force of reckoning this world has never seen. Travel down into the Undercity and banish the spirits of Nomos Dred, Laudos Vagra and Rhovena Kur. When you are finished, seek out my companion, Kalderos, at the entrance to the Steps of Torment. He will guide you to your final target. 
-I will do this task. 
-I cannot do this. 
-I have already banished the Oligarchs. 
-Splendid. My trust in you was not misplaced. Speak to Kalderos at the Steps of Torment, in the Broken Hills. He will guide you. 
-Very well. 
-I want no part in this. 
-What of that spirit? 
-Does Kalderos frighten you? I would have thought a necromancer used to such sights.{^n}{^n}Do not fear, he our ally and sworn to serve. Now will you listen to my proposition or will you continue to stare into the deathless eyes of my companion? 
-What did you want me to do? 
-I don't want any part in your schemes. 
-I don't want to know. 
+你好，修习神圣技艺的同袍。{^n}{^n}你不认识我，但我听说过你。我是巴尔沃拉克，隶属于死亡守夜人教团。你的技艺让我坚信你就是我要找的……我的任务执行者。
+任务? 
+没错。我来这里是要从几个恶毒的幽灵手里净化这片土地，这些堕落的存在已经腐化安克维亚足够久了。{^n}{^n}不过，我的老师低估了独裁们身边仆从的数目。安克维亚地下城亡者横行。我不得不承认，没有我的兄弟们的帮助，他们的数量已经超出了我的能力范围。不过你拥有这个世界中不在计量范围内的力量。深入安克维亚地下城，然后放逐掉诺莫斯·德雷德，劳多斯·瓦格拉和罗文纳·库尔三人的灵魂。在你完成任务之后，前去苦痛阶梯的入口寻找我的同伴卡尔德罗斯。他会告诉你你最终的目标是什么。
+这任务我接下了。
+这任务我做不了。
+我已经放逐了那些独裁者。
+好极了。我对你的信任看来没有错。和在破碎丘陵的苦痛阶梯那里的卡尔德罗斯谈谈，他会引导你的。
+很好。
+我不想参与此事。
+那个幽魂是怎么一回事? 
+卡尔德罗斯吓到你了么？我本想一名死灵法师已经对此习以为常了呢。{^n}{^n}别怕，他是我们的盟友，已宣誓侍奉我们。现在你是要听听我的提议呢还是继续盯着我同伴那双不死不灭的眼睛？
+你要我做什么？
+我不想掺和你的阴谋。 
+我不想知道。 
 你好。你不认识我，但我听说过你。我是巴尔沃拉克，隶属于死亡守夜人教团。你的英雄事迹让我相信我的……任务需要你来完成。
 任务？
-是的。我来这里是要从几个恶毒的幽灵手里净化这片土地，这些堕落的存在已经腐化安克维亚足够久了。{^n}{^n}不过，我的老师低估了独裁们身边仆从的数目。安克维亚地下城亡者横行。我不得不承认，没有我的兄弟们的帮助，他们的数量已经超出了我的能力范围。不过你拥有这个世界中不在计量范围内的力量。深入安克维亚地下城，然后放逐掉诺莫斯·德雷德，劳多斯·瓦格拉和罗文纳·库尔三人的灵魂。在你完成任务之后，前去苦痛阶梯的入口寻找我的同伴卡尔德罗斯。他会告诉你你最终的目标是什么。
+没错。我来这里是要从几个恶毒的幽灵手里净化这片土地，这些堕落的存在已经腐化安克维亚足够久了。{^n}{^n}不过，我的老师低估了独裁们身边仆从的数目。安克维亚地下城亡者横行。我不得不承认，没有我的兄弟们的帮助，他们的数量已经超出了我的能力范围。不过你拥有这个世界中不在计量范围内的力量。深入安克维亚地下城，然后放逐掉诺莫斯·德雷德，劳多斯·瓦格拉和罗文纳·库尔三人的灵魂。在你完成任务之后，前去苦痛阶梯的入口寻找我的同伴卡尔德罗斯。他会告诉你你最终的目标是什么。
 这任务我接下了。
-这任务我干不了。
+这任务我做不了。
 我已经放逐了那些独裁者。
 你好。你不认识我，但我听说过你。我是巴尔沃拉克，隶属于死亡守夜人教团。你的英雄事迹让我相信我的……任务需要你来完成。
 好的。
 我不想参与此事。
 那个幽魂在你身边，你是一个死灵法师么？
-卡尔德罗斯吓到你了么？是，我是教团的一员。我本指望像你这样的贱民会理解执行任务中难免与受到偏见的各色人等打交道呢。{^n}{^n}你是要听听我的提议呢还是继续盯着我同伴那双不死不灭的眼睛？
+卡尔德罗斯吓到你了么？没错，我是教团的一员。我本指望像你这样的贱民会理解执行任务中难免与受到偏见的各色人等打交道呢。{^n}{^n}你是要听听我的提议呢还是继续盯着我同伴那双不死不灭的眼睛？
 你想要我做些什么？
 因为你所处的势力，我该杀了你的。
 我向你保证，对我任何形式的敌对行动都将是徒劳无功的。并且，我来这里不是为了跟你争吵的。如果你不愿意接受任务，那我们只好分道扬镳了。
-你要我做些什么？
-我们的谈话到此为止了。
-I should kill you where you stand. 
-As expected from one such as you. I assure you though, any form of hostility against me would be a futile venture.{^n}{^n}Besides, I am not here to quarrel with you. If you will not perform my task, then our meeting is at an end and you have far bigger threats to deal with than I. 
-What did you want me to do? 
-We're finished here. 
+你要我做什么？
+我们的谈话到此为止。
+因为你的立场，我该杀了你的。 
+可以预见像你这样的人会说出这番话来的。我向你保证，任何针对我的敌对行为都将是毫无意义的冒险。{^n}{^n}此外，我来这里可不是跟你争吵的。如果你不执行我的任务，那么我们的会面就到此为止了。你还有比我大的多的威胁要去解决。
+你要我做什么？ 
+我们的谈话到此为止。
 我不和你这种人打交道。
 我不想知道。

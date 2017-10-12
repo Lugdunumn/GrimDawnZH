@@ -1,11 +1,11 @@
-Anasteria
-Do not bother me, petulant child.{^n}{^n}I am here under the protection of the inquisitor.
-Alright.
-Creed has asked me to accompany him on this excursion.{^n}{^n}I will do what I can to assist in dismantling the Aetherial operations in Malmouth.
-Can you tell me anything about the Aetherials here?
+安娜斯特瑞娅
+别打扰我，任性的孩子。{^n}{^n}在这儿我受审判官的保护。
+好吧。
+克里德要我一同远行。{^n}{^n}我会尽我所能帮助粉碎虚灵在马尔茅斯的行动。
+你能告诉我有关这里虚灵的事情吗？
 I was stationed in the west, my focus and attention upon dismantling the Legion. I was only sent information relevant to my mission, the flow of which ended promptly when concensus was reached regarding a betrayal in the ranks.{^n}{^n}However, I can tell you that Malmouth is under the authority of one Theodin Marcell, but we knew him as the Master of Flesh, the Shaper, the Manipulator.{^n}{^n}He orchestrated the Amalgamation that was intended for Homestead, as well as the annihilation of Port Valbury. Yet Malmouth was to be his greatest accomplishment.
-Thanks for the info.
-Not much to work with, but thanks.
-Farewell.
-There are more important matters than why I am here, child.{^n}{^n}Do what is necessary.
-Farewell.
+多谢提供这些情报。
+这情报用处不大，不过还是谢谢。
+再见。
+孩子，还有很多比我为何在这里更为重要的事情。{^n}{^n}做你该做的事。
+再见。

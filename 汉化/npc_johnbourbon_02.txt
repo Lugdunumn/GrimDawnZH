@@ -1,27 +1,27 @@
-John Bourbon
-So another monster has been banished from this world.{^n}{^n}You're beginning to give me hope that someday there will be an end to all this tragedy.
-We can only hope.
-Anything to report on the situation in Malmouth?
-No good news yet.
-We'll talk later.
-So that's what it's gonna take then? The void?{^n}{^n}Can't say I envy you.
-We have no choice.
-I hope you know what you're doing, trusting those witches.{^n}{^n}I have faith in you and Creed, but I find these methods...unsettling.
-The Coven has good people, just misunderstood.
-I'll do whatever it takes to keep us safe.
-It's a necessary evil.
-Good luck out in Ugdenbog. I've only traveled north of Burrwitch a handful of times and the journey was never a pleasant one.{^n}{^n}I cannot imagine it's fared any better with a lack of patrols and human activity.
-Anything I should be aware of?
-Gloomwald and Ugdenbog are some of the most treacherous areas in the region, even before the Grim Dawn.{^n}{^n}Regular patrols kept the roads mostly safe for travel, but there was always a risk when traveling between Burrwitch and the northern settlements. Those that could afford it generally preferred to go by boat.{^n}{^n}I don't know what it is about that bog, but it's a breeding ground for predators.
+约翰·波旁
+又一个怪物被驱逐出了这个世界。{^n}{^n}你渐渐给了我有朝一日所有这些悲剧都将划上一个句号的希望。
+我们只能希望如此。
+关于马尔茅斯的情况有什么报告吗？
+目前还没什么好消息。
+我们之后再谈。
+这就是我们之后要面对的东西？虚空？{^n}{^n}我可不会嫉妒你。
+我们别无选择。
+我希望你知道你是在干什么，选择相信那些女巫。{^n}{^n}我相信你和克里德，但是我觉得如此行事……令人不安。
+女巫团里有好人，只是他们被误解了。
+我将为了我们的安全竭尽所能。
+这是为了大业必要的罪恶。
+祝你前往巫登沼泽的旅途顺利。我只去过几次伯尔维治的北方，那从来可算不上什么愉快的旅途。{^n}{^n}无法想象缺少巡逻队和人类活动之后的旅途会有所改善。
+有什么我需要留意的吗？
+幽暗森林和巫登沼泽在恐怖黎明之前就是本地区最危险的地方。{^n}{^n}定期的巡逻保证道路在大多数时候可以安全地旅行。但在伯尔维治和北方的居民点之间往返总是会有危险。有经济能力的人通常更愿意走水路。{^n}{^n}我不了解那片沼泽，但那里是猎食者们的繁殖地。
 
-Good to know.
-What's next for Devil's Crossing?
-We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
+幸亏知道这些事情。
+恶魔十字接下来该怎么做?
+我们会收拾好烂摊子，加固我们的防御。{^n}{^n}做好最坏的打算。{^n}{^n}一如既往，坚持不懈。
 
-We will endure.
-Farewell.
-I knew that eliminating Krieg would not be the end of our troubles, but I never pictured this.
-What's next for Devil's Crossing?
-We're going to clean up this mess, tighten our defenses.{^n}{^n}Prepare for the worst.{^n}{^n}As always, we will persevere.
-We will endure.
-Farewell.
+我们会撑过去的。
+再见。
+我之前就知道除掉克里格是不能终结我们遇到的麻烦的，可我从没预料到情况竟是如此的严峻。
+恶魔十字接下来该怎么做?
+我们会收拾好烂摊子，加固我们的防御。{^n}{^n}做好最坏的打算。{^n}{^n}一如既往，坚持不懈。
+我们会撑过去的。
+再见。

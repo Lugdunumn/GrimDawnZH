@@ -347,7 +347,7 @@ tagPOI008A=革翅目坑道入口
 tagPOI008B=革翅目坑道出口
 tagPOI009A=哈格特的实验室
 tagPOI010A=死亡守夜人教团领地入口
-tagPOI011A=凯蒙的神选战士领地入口
+tagPOI011A=凯蒙的神选者领地入口
 tagPOI012A=黑谷门
 tagPOI013A=哈伦堡
 tagPOI014A=地下墓室入口
@@ -1427,7 +1427,7 @@ tagNPC_FactionTable_01=恶魔十字赏金桌
 tagNPC_FactionTable_02=流浪者赏金桌
 tagNPC_FactionTable_03=霍姆斯特德赏金桌
 tagNPC_FactionTable_04=黑色军团赏金桌
-tagNPC_FactionTable_05=凯蒙的神选战士赏金桌
+tagNPC_FactionTable_05=凯蒙的神选者赏金桌
 tagNPC_FactionTable_06=死亡守夜人教团赏金桌
 tagNPC_FactionTable_07=放逐者赏金桌
 

@@ -28,10 +28,10 @@ tagNecromancerH04=米索纳克 ~ 护盾
 tagNecromancer_Boss01=死亡暗语者~ 拉沃克大师
 tagNecromancer_Boss02=死亡守夜人勇士~ 马卡达
 
-tagZealot_MeleeA01=凯蒙的神选战士 ~ 狂战士
-tagZealot_RangedA01=凯蒙的神选战士 ~ 狂战士
-tagZealot_CasterB01=凯蒙的神选战士 ~ 驭雷者
-tagZealot_ChampionC01=凯蒙的神选战士 ~ 剑姬
+tagZealot_MeleeA01=凯蒙的神选者 ~ 狂战士
+tagZealot_RangedA01=凯蒙的神选者 ~ 狂战士
+tagZealot_CasterB01=凯蒙的神选者 ~ 驭雷者
+tagZealot_ChampionC01=凯蒙的神选者 ~ 剑姬
 tagZealotH01=暴风侍女~ 修女奥赛蒂亚
 tagZealotH02=至高神使~ 神选者鲍德里斯 
 tagZealotH03=修女珊德莉亚 ~ 防御者

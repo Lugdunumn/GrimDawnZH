@@ -2455,7 +2455,7 @@ tagConsumable_DevotionReset=明晰药剂
 tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神之旅。"
 
 #DLC
-tagDLCIllusionRemoval=幻化消失
+tagDLCIllusionRemoval=幻化去无踪
 tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除药粉。"
 tagDLCIllusionA01=幻化：假发魔粉 
 tagDLCA01=假发魔粉  
@@ -3418,11 +3418,11 @@ tagBoosterHS_A02=霍姆斯特德的高级敕令
 tagBoosterHS_B01=霍姆斯特德的委任状
 tagBoosterHS_B02=霍姆斯特德的高阶委任状
 tagBoosterHS_B03=霍姆斯特德的神话级委任状
-tagBoosterKC_A01=凯蒙的神选战士的敕令
-tagBoosterKC_A02=凯蒙的神选战士的高级敕令
-tagBoosterKC_B01=凯蒙的神选战士的委任状
-tagBoosterKC_B02=凯蒙的神选战士的高阶委任状
-tagBoosterKC_B03=凯蒙的神选战士的神话级委任状
+tagBoosterKC_A01=凯蒙的神选者的敕令
+tagBoosterKC_A02=凯蒙的神选者的高级敕令
+tagBoosterKC_B01=凯蒙的神选者的委任状
+tagBoosterKC_B02=凯蒙的神选者的高阶委任状
+tagBoosterKC_B03=凯蒙的神选者的神话级委任状
 tagBoosterODV_A01=死亡守夜人教团的敕令
 tagBoosterODV_A02=死亡守夜人教团的高级敕令
 tagBoosterODV_B01=死亡守夜人教团的委任状

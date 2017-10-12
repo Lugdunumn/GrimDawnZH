@@ -18,8 +18,8 @@ This business with the colossus, despicable, truly despicable.
 Leave me to my work. Some of us are busy trying to end this madness. 
 You don't say? 
 I'll, uh, leave you to it. 
-You're here! Splendid!{^n}{^n}I have some good news! I dare say, I may have finally deciphered the mess of notes you brought me from Hargate's laboratory.{^n}{^n}It may be just the breakthrough we've been looking for! 
-Great! What is it? 
+你回来了!好极了!{^n}{^n}我有些好消息!我敢说，我终于把你从哈格特的实验室带来的一团糟的笔记给解密了。{^n}{^n}这可能就是我们一直都在寻找的突破口! 
+太好了!什么样的突破口? 
 What you see before you is an Aether Crystal, but not just any crystal. I've attuned it precisely to the specifications within Hargate's notes.{^n}{^n}Based on what I've uncovered, I may have stumbled upon a way to reverse the energies within the crystal and force it to release all of the tainted energies within.{^n}{^n}In theory, I should be able to do the same to living tissue. In theory... But let's begin with a simpler experiment, just the crystal itself. 
 让我们试一下。
 Hm, it appears the crystal was not as stable as I had hoped.{^n}{^n}Oh dear, there goes another finger. Are you alright?{^n}{^n}No matter, look! The crystal has lost its aether hue and is now a magnificent stable purple!{^n}{^n}Perhaps it's not the breakthrough we needed, but it is a step in the, uh, correct trajectory. With more research, and perhaps some gloves, I may able to reverse Aetherial mutations after all! 

@@ -4,8 +4,8 @@ tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
 tagSkillClassName05=奥术
 tagSkillClassName06=萨满
-tagSkillClassName07=?
-tagSkillClassName08=?
+//tagSkillClassName07=
+//tagSkillClassName08=
 tagSkillClassName09=?
 
 tagSkillClassName0102=突击者
@@ -13,35 +13,35 @@ tagSkillClassName0103=巫师之刃
 tagSkillClassName0104=剑圣
 tagSkillClassName0105=战斗法师
 tagSkillClassName0106=守卫者
-tagSkillClassName0107=
-tagSkillClassName0108=
+//tagSkillClassName0107=战术家
+//tagSkillClassName0108=死亡骑士
 tagSkillClassName0109=
 tagSkillClassName0203=烈焰术士
 tagSkillClassName0204=破坏者
 tagSkillClassName0205=[ms]巫术师[fs]女巫
 tagSkillClassName0206=元素使者
-tagSkillClassName0207=
-tagSkillClassName0208=
+//tagSkillClassName0207=净化者
+//tagSkillClassName0208=污染者
 tagSkillClassName0209=
 tagSkillClassName0304=巫师猎人
 tagSkillClassName0305=术士
 tagSkillClassName0306=咒术师
-tagSkillClassName0307=
-tagSkillClassName0308=
+//tagSkillClassName0307=欺诈者
+//tagSkillClassName0308=秘术师
 tagSkillClassName0309=
 tagSkillClassName0405=破法者
 tagSkillClassName0406=诡术刺客
-tagSkillClassName0407=
-tagSkillClassName0408=
+//tagSkillClassName0407=潜伏者
+//tagSkillClassName0408=收割者
 tagSkillClassName0409=
 tagSkillClassName0506=德鲁伊
-tagSkillClassName0507=
-tagSkillClassName0508=
+//tagSkillClassName0507=法师猎人
+//tagSkillClassName0508=缚法者
 tagSkillClassName0509=
-tagSkillClassName0607=
-tagSkillClassName0608=
+//tagSkillClassName0607=维护者
+//tagSkillClassName0608=祭司
 tagSkillClassName0609=
-tagSkillClassName0708=
+//tagSkillClassName0708=变节者
 tagSkillClassName0709=
 tagSkillClassName0809=
 
@@ -59,9 +59,9 @@ tagSkillClassDescription05=对于奥术师来说,魔法的呈现根本就不是�
 
 tagSkillClassDescription06=来自尚未被开发的北方大地,萨满们曾是他们人民的守护者和精神领袖.掌握着与自然和他们的主神莫格卓根之间的和谐之道,萨满们能够运用大自然可怕的力量对抗他们的敌人,他们甚至可以召唤野兽前来协助.萨满擅长使用威力十足的双手近战武器,但借助他们的原始魔力,他们也能轻松驾驭其他的兵器.
 
-tagSkillClassDescription07=
+//tagSkillClassDescription07=
 
-tagSkillClassDescription08=
+//tagSkillClassDescription08=
 
 tagSkillClassDescription09=
 

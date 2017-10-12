@@ -4,8 +4,8 @@ tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
 tagSkillClassName05=奥术
 tagSkillClassName06=萨满
-tagSkillClassName07=?
-tagSkillClassName08=?
+tagSkillClassName07=审判官
+tagSkillClassName08=死灵法师
 tagSkillClassName09=?
 
 tagSkillClassName0102=突击兵^T(士兵+爆破)
@@ -13,35 +13,35 @@ tagSkillClassName0103=[ms]巫师之刃^T(士兵+神秘)[fs]刀刃巫女^T(士兵
 tagSkillClassName0104=剑圣^T(士兵+夜刃)
 tagSkillClassName0105=战斗法师^T(士兵+奥术)
 tagSkillClassName0106=守卫^T(士兵+萨满)
-tagSkillClassName0107=
-tagSkillClassName0108=
+tagSkillClassName0107=战术家^T(士兵+审判)
+tagSkillClassName0108=死亡骑士^T(士兵+死灵)
 tagSkillClassName0109=
 tagSkillClassName0203=烈焰术士^T(爆破+神秘)
 tagSkillClassName0204=破坏者^T(爆破+夜刃)
 tagSkillClassName0205=[ms]巫术师^T(爆破+奥术)[fs]女巫^T(爆破+奥术)
 tagSkillClassName0206=[ms]元素使者^T(爆破+萨满)[fs]元素女郎^T(爆破+萨满)
-tagSkillClassName0207=
-tagSkillClassName0208=
+tagSkillClassName0207=净化者^T(爆破+审判)
+tagSkillClassName0208=污染者^T(爆破+死灵)
 tagSkillClassName0209=
 tagSkillClassName0304=[ms]巫师猎人^T(神秘+夜刃)[fs]魔法猎人^T(神秘+夜刃)
 tagSkillClassName0305=术士^T(神秘+奥术)
 tagSkillClassName0306=咒术师^T(神秘+萨满)
-tagSkillClassName0307=
-tagSkillClassName0308=
+tagSkillClassName0307=欺诈者^T(神秘+审判)
+tagSkillClassName0308=秘术师^T(神秘+死灵)
 tagSkillClassName0309=
 tagSkillClassName0405=破法者^T(夜刃+奥术)
 tagSkillClassName0406=诡术刺客^T(夜刃+萨满)
-tagSkillClassName0407=
-tagSkillClassName0408=
+tagSkillClassName0407=潜伏者^T(夜刃+审判)
+tagSkillClassName0408=收割者^T(夜刃+死灵)
 tagSkillClassName0409=
 tagSkillClassName0506=德鲁伊^T(奥术+萨满)
-tagSkillClassName0507=
-tagSkillClassName0508=
+tagSkillClassName0507=法师猎人^T(奥术+审判)
+tagSkillClassName0508=缚法者^T(奥术+死灵)
 tagSkillClassName0509=
-tagSkillClassName0607=
-tagSkillClassName0608=
+tagSkillClassName0607=维护者^T(萨满+审判)
+tagSkillClassName0608=祭司^T(萨满+死灵)
 tagSkillClassName0609=
-tagSkillClassName0708=
+tagSkillClassName0708=变节者^T(审判+死灵)
 tagSkillClassName0709=
 tagSkillClassName0809=
 
@@ -58,10 +58,6 @@ tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武器.�
 tagSkillClassDescription05=对于奥术师来说,魔法的呈现根本就不是什么秘密,也不是什么神的旨意,而是一门需要研究的学问.这种对知识的渴求让所有奥术师都渴望发明新法术,然后用自己的名字为之命名.奥术师随意糅合虚灵和各种元素的能量,创造出了许多能毁灭一支小型军队的法术.不过,使用了如此强大的力量,防守起来自是力不从心.
 
 tagSkillClassDescription06=来自尚未被开发的北方大地,萨满们曾是他们人民的守护者和精神领袖.掌握着与自然和他们的主神莫格卓根之间的和谐之道,萨满们能够运用大自然可怕的力量对抗他们的敌人,他们甚至可以召唤野兽前来协助.萨满擅长使用威力十足的双手近战武器,但借助他们的原始魔力,他们也能轻松驾驭其他的兵器.
-
-tagSkillClassDescription07=
-
-tagSkillClassDescription08=
 
 tagSkillClassDescription09=
 
@@ -451,17 +447,17 @@ tagClass04SkillName13C=无情终章-^F夜刃
 tagClass04SkillDescription13C=尽管惯例上被抛弃,有时毒药与元素力量的知识也能成为在战斗中占据上风的最有效的手段.
 
 
-tagClass04SkillName04X=毁灭刀锋
+tagClass04SkillName04X=毁灭刀锋-^F夜刃
 tagClass04SkillDescription04X=掠夺附近敌人的生命力,你将吸收短暂生命力的一部分.
-tagClass04SkillName07X=潜入暗影
+tagClass04SkillName07X=潜入暗影-^F夜刃
 tagClass04SkillDescription07X=更深地潜入暗影会减弱敌人的身影,阻碍他们对物理攻击的防御.
-tagClass04SkillName07C=阿玛拉斯塔的无形之刃
+tagClass04SkillName07C=阿玛拉斯塔的无形之刃-^F夜刃
 tagClass04SkillDescription07C=在夜刃参与的战斗之中,敌人身上的伤口根本看不出武器的痕迹.
-tagClass04SkillName09A=生命掠夺
+tagClass04SkillName09A=生命掠夺-^F夜刃
 tagClass04SkillDescription09A=这种技艺直接夺取敌人的生命为夜刃所用,使夜刃变得更加强壮,甚至是在猎物死亡之后.
-tagClass04SkillName12A=元气汲取
+tagClass04SkillName12A=元气汲取-^F夜刃
 tagClass04SkillDescription12A=吸取周围敌人的生气,以敌人流失的生命和能量来回复自己.
-tagClass04SkillName13D=无情终章
+tagClass04SkillName13D=无情终章-^F夜刃
 tagClass04SkillDescription13D=有时,高效地使用毒药和抗凝血剂是一种终极武器.
 
 tagClass04SkillName14A=爆裂之刃-^F夜刃
@@ -469,16 +465,16 @@ tagClass04SkillDescription14A=暗杀大师阿玛拉斯塔,在夜刃中以她的�
 tagClass04SkillName14B=致命突袭-^F夜刃
 tagClass04SkillDescription14B=阿玛拉斯塔专注于进攻,在发出一波刀阵后使用她的注魔武器继续对幸存的敌人发起快速且无情的攻击来结束他们的生命.^obuff效果,点数伤害增加到武器伤害.
 
-xtagClass04SkillName14A=致命策略
+xtagClass04SkillName14A=致命策略-^F夜刃
 xtagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺.如果使用得当,致命策略会造成毁灭性的伤害.风险在于有时它会变成软弱无力的一击.^o需要一把近战武器或者双手远程武器.当使用一把近战武器时,将会击中附近的额外敌人.
-xtagClass04SkillName14B=爆裂之刃 
+xtagClass04SkillName14B=爆裂之刃-^F夜刃
 xtagClass04SkillDescription14B=熟练掌握致命策略之后,就能以攻击目标为原点爆射出大量致人死地的幻影刀锋,对附近的敌人造成伤害.
 
-xtagClass04SkillName15A=剔骨 
+xtagClass04SkillName15A=剔骨-^F夜刃
 xtagClass04SkillDescription15A=迅猛的切割使受害者长时间出血,同时削弱他们的移动力和攻击速度.^o需要一把剑或斧.
-xtagClass04SkillName15B=阿玛拉斯塔的策略
+xtagClass04SkillName15B=阿玛拉斯塔的策略-^F夜刃
 xtagClass04SkillDescription15B=一项大师级的武技,能够更有效地切割内脏,如果完美地施放更能造成毁灭性的伤害.但同时它也有徒劳无功的危险.
-xtagClass04SkillName14C=分裂
+xtagClass04SkillName14C=分裂-^F夜刃
 xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round.As desperate measure,this method can also prove lethal at point-blank range.^o需要一把双手远程武器以施放额外的投射物. 
 
 

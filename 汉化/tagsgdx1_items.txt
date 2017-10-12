@@ -798,7 +798,7 @@ tagGDX1MedalD105=瑟兰尼尔的奖章
 tagGDX1MedalD105_Desc="高级审判官瑟兰尼尔被授予的奖章,他手持甘达尔号角独自一人勇敢地战胜了一个神秘的女巫团."
 tagGDX1MedalD106=卡拉斯特勋章
 tagGDX1MedalD113=奥祖因勋章
-tagGDX1MedalD113_Desc="奥祖因的信徒使它来焚烧自己的肉体并且奉献给愤怒之神."
+tagGDX1MedalD113_Desc="奥祖因的信徒用它来焚烧自己的肉体并且奉献给愤怒之神."
 tagGDX1MedalD114=消耗标记
 
 tagGDX1MedalF101=女巫团剑刃标记
@@ -827,7 +827,7 @@ tagGDX1Blueprint_RelicD102=设计图：圣物-复仇
 tagGDX1Blueprint_RelicD103=设计图：圣物-安克维亚的挽歌
 tagGDX1Blueprint_RelicD104=设计图：圣物-祸乱
 tagGDX1Blueprint_RelicD105=设计图：圣物-末日
-tagGDX1Blueprint_RelicD106=设计图：圣物-科瓦克的诡计
+tagGDX1Blueprint_RelicD106=设计图：圣物-寇瓦克的诡计
 tagGDX1Blueprint_RelicD107=设计图：圣物-邪术契约
 tagGDX1Blueprint_RelicD108=设计图：圣物-尼达拉的爆发
 tagGDX1Blueprint_RelicD109=设计图：圣物-永恒
@@ -1112,7 +1112,7 @@ tagGDX1RelicD104=祸乱
 tagGDX1RelicD104Desc="毁灭你的敌人."
 tagGDX1RelicD105=末日
 tagGDX1RelicD105Desc="成为命运之手，封印敌人的命运."
-tagGDX1RelicD106=科瓦克的诡计
+tagGDX1RelicD106=寇瓦克的诡计
 tagGDX1RelicD106Desc="服务我就是服务凯恩世界.  -至高之神"
 tagGDX1RelicD107=邪术契约
 tagGDX1RelicD107Desc="来自三巫神的束缚，无法解开."
@@ -1777,7 +1777,7 @@ tagGDX1Chest_DravisClue=旧的讲台
 
 tagGDX1ChestBossOneShot_Fleshshaper=主人的收藏
 tagGDX1ChestOneShot_Flesh=血肉扭曲者的藏匿物
-tagGDX1ChestOneShot_GloomwaldHidden=娜内的藏匿物
+tagGDX1ChestOneShot_GloomwaldHidden=纳内的藏匿物
 tagGDX1ChestOneShot_MalmouthHidden=雷克托的藏匿物
 
 tagGDX1Chest_MadRamblingsReward=伊旺达的礼物

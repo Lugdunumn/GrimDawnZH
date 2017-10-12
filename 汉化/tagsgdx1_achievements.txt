@@ -68,10 +68,10 @@ achGDX1021Title=大山杀手
 achGDX1021Desc=在终极难度的马尔茅斯下水道击杀加拉克洛斯，大山。
 
 achGDX1022Title=马尔茅斯的苦难
-achGDX1022Desc=在肉体密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1022Desc=在血肉密室击杀西奥丁·马塞尔，血肉塑造者。
 
 achGDX1023Title=为倒下的人复仇
-achGDX1023Desc=在终极难度的肉体密室击杀西奥丁·马塞尔，血肉塑造者。
+achGDX1023Desc=在终极难度的血肉密室击杀西奥丁·马塞尔，血肉塑造者。
 
 achGDX1024Title=破坏
 achGDX1024Desc=击败一只破坏者，温迪戈之魂的表象。

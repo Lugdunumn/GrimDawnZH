@@ -2503,14 +2503,14 @@ tagNoteExcerpt="{%t}……"
 #ItemEnchantment附魔
 
 tagEnchanted=已附魔
-tagEnchantmentName=增幅物
+tagEnchantmentName=增幅
 tagEnchantmentUsable=[右键点击来附魔一件物品]
 tagEnchantmentUnusable=[无法使用-未满足需求]
-tagEnchantmentConfirmation=确定使用这件增幅物？
-tagEnchantmentOverwrite=确定覆盖掉已有的增幅物？
-tagEnchantmentSoulboundConfirmation=确定使用这件增幅物？附魔这件装备会使它变为灵魂绑定。
-tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅物？附魔这件装备会使它变为灵魂绑定。
-tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅物吗？覆盖掉现存的增幅物会移除灵魂绑定状态。
+tagEnchantmentConfirmation=确定使用这件增幅？
+tagEnchantmentOverwrite=确定覆盖掉已有的增幅？
+tagEnchantmentSoulboundConfirmation=确定使用这件增幅？附魔这件装备会使它变为灵魂绑定。
+tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅？附魔这件装备会使它变为灵魂绑定。
+tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅吗？覆盖掉现存的增幅会移除灵魂绑定状态。
 
 tagEnchantTest=TESTNAME
 tagEnchantTestDesc="A test description."^w^n(Used in rings)
@@ -2923,92 +2923,92 @@ tagEnchantB035Desc="追随尤洛布鲁克的道路即是寻求知识之路，无
 tagEnchantB036A=放逐者的威势
 tagEnchantB036B=放逐者的威势 II
 tagEnchantB036BC=放逐者的威势 III
-tagEnchantB036Desc="由放逐者设计的至强增幅物，令使用者有如神助。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB036Desc="由放逐者设计的至强增幅，令使用者有如神助。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB037A=强效放逐者的威势
 tagEnchantB037B=强效放逐者的威势 II
 tagEnchantB037BC=强效放逐者的威势 III
-tagEnchantB037Desc="由放逐者设计的至强增幅物，令使用者有如神助。"^w^n(用于所有双手武器)
+tagEnchantB037Desc="由放逐者设计的至强增幅，令使用者有如神助。"^w^n(用于所有双手武器)
 
 tagEnchantB038A=放逐者的霜冻
 tagEnchantB038B=放逐者的霜冻 II
 tagEnchantB038BC=放逐者的霜冻 III
-tagEnchantB038Desc="由放逐者设计的至强增幅物，令使用者精通寒冰之力。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB038Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB039A=强效放逐者的霜冻
 tagEnchantB039B=强效放逐者的霜冻 II
 tagEnchantB039BC=强效放逐者的霜冻 III
-tagEnchantB039Desc="由放逐者设计的至强增幅物，令使用者精通寒冰之力。"^w^n(用于所有双手武器)
+tagEnchantB039Desc="由放逐者设计的至强增幅，令使用者精通寒冰之力。"^w^n(用于所有双手武器)
 
 tagEnchantB040A=放逐者的炼狱
 tagEnchantB040B=放逐者的炼狱 II
 tagEnchantB040BC=放逐者的炼狱 III
-tagEnchantB040Desc="由放逐者设计的至强增幅物，令使用者精通炼狱之火。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB040Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB041A=强效放逐者的炼狱
 tagEnchantB041B=强效放逐者的炼狱 II
 tagEnchantB041BC=强效放逐者的炼狱 III
-tagEnchantB041Desc="由放逐者设计的至强增幅物，令使用者精通炼狱之火。"^w^n(用于所有双手武器)
+tagEnchantB041Desc="由放逐者设计的至强增幅，令使用者精通炼狱之火。"^w^n(用于所有双手武器)
 
 tagEnchantB042A=放逐者的雷霆
 tagEnchantB042B=放逐者的雷霆 II
 tagEnchantB042BC=放逐者的雷霆 III
-tagEnchantB042Desc="由放逐者设计的至强增幅物，令使用者精通天堂之力。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB042Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB043A=强效放逐者的雷霆
 tagEnchantB043B=强效放逐者的雷霆 II
 tagEnchantB043BC=强效放逐者的雷霆 III
-tagEnchantB043Desc="由放逐者设计的至强增幅物，令使用者精通天堂之力。"^w^n(用于所有双手武器)
+tagEnchantB043Desc="由放逐者设计的至强增幅，令使用者精通天堂之力。"^w^n(用于所有双手武器)
 
 tagEnchantB044A=放逐者的毒液
 tagEnchantB044B=放逐者的毒液 II
 tagEnchantB044BC=放逐者的毒液 III
-tagEnchantB044Desc="由放逐者设计的至强增幅物，令使用者精通毒素运用。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB044Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB045A=强效放逐者的毒液
 tagEnchantB045B=强效放逐者的毒液 II
 tagEnchantB045BC=强效放逐者的毒液 III
-tagEnchantB045Desc="由放逐者设计的至强增幅物，令使用者精通毒素运用。"^w^n(用于所有双手武器)
+tagEnchantB045Desc="由放逐者设计的至强增幅，令使用者精通毒素运用。"^w^n(用于所有双手武器)
 
 tagEnchantB046A=放逐者的死亡之触
 tagEnchantB046B=放逐者的死亡之触 II
 tagEnchantB046BC=放逐者的死亡之触 III
-tagEnchantB046Desc="由放逐者设计的至强增幅物，令使用者掌握生命精华。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB046Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB047A=强效放逐者的死亡之触
 tagEnchantB047B=强效放逐者的死亡之触 II
 tagEnchantB047BC=强效放逐者的死亡之触 III
-tagEnchantB047Desc="由放逐者设计的至强增幅物，令使用者掌握生命精华。"^w^n(用于所有双手武器)
+tagEnchantB047Desc="由放逐者设计的至强增幅，令使用者掌握生命精华。"^w^n(用于所有双手武器)
 
 tagEnchantB048A=放逐者的愤怒
 tagEnchantB048B=放逐者的愤怒 II
 tagEnchantB048BC=放逐者的愤怒 III
-tagEnchantB048Desc="由放逐者设计的至强增幅物，令使用者精通虚化之力。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB048Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB049A=强效放逐者的愤怒
 tagEnchantB049B=强效放逐者的愤怒 II
 tagEnchantB049BC=强效放逐者的愤怒 III
-tagEnchantB049Desc="由放逐者设计的至强增幅物，令使用者精通虚化之力。"^w^n(用于所有双手武器)
+tagEnchantB049Desc="由放逐者设计的至强增幅，令使用者精通虚化之力。"^w^n(用于所有双手武器)
 
 tagEnchantB050A=放逐者的时空风暴
 tagEnchantB050B=放逐者的时空风暴 II
 tagEnchantB050BC=放逐者的时空风暴 III
-tagEnchantB050Desc="由放逐者设计的至强增幅物，令使用者精通混乱虚空之力。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB050Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB051A=强效放逐者的时空风暴
 tagEnchantB051B=强效放逐者的时空风暴 II
 tagEnchantB051BC=强效放逐者的时空风暴 III
-tagEnchantB051Desc="由放逐者设计的至强增幅物，令使用者精通混乱虚空之力。"^w^n(用于所有双手武器)
+tagEnchantB051Desc="由放逐者设计的至强增幅，令使用者精通混乱虚空之力。"^w^n(用于所有双手武器)
 
 tagEnchantB052A=放逐者的堡垒
 tagEnchantB052B=放逐者的堡垒 II
 tagEnchantB052BC=放逐者的堡垒 III
-tagEnchantB052Desc="由放逐者设计的至强增幅物，令使用者的皮肤犹如钢铁。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagEnchantB052Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagEnchantB053A=强效放逐者的堡垒
 tagEnchantB053B=强效放逐者的堡垒 II
 tagEnchantB053BC=强效放逐者的堡垒 III
-tagEnchantB053Desc="由放逐者设计的至强增幅物，令使用者的皮肤犹如钢铁。"^w^n(用于所有双手武器)
+tagEnchantB053Desc="由放逐者设计的至强增幅，令使用者的皮肤犹如钢铁。"^w^n(用于所有双手武器)
 
 tagEnchantB054A=自然之怒
 tagEnchantB054B=自然之怒 II

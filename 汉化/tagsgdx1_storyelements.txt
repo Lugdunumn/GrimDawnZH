@@ -6,7 +6,7 @@ tagGDX1MapUgdenbogVillage=巴罗霍尔姆
 tagGDX1MapUgdenbogCoven=女巫团避难所
 tagGDX1MapUgdenbogAltar=莱托什祭坛
 
-tagGDX1MapMalmouthEntry=孤独看守
+tagGDX1MapMalmouthEntry=孤独守望台
 tagGDX1MapMalmouthOutskirts=摩恩代尔
 tagGDX1MapMalmouthOutskirtsRuins=马尔茅斯郊外
 tagGDX1MapMalmouthOutskirtsMine=杰尔索恩矿井
@@ -24,7 +24,7 @@ tagGDX1RiftGloomwaldRiverCrossing=幽暗森林渡口传送门
 tagGDX1RiftUgdenbogCoven=女巫团避难所传送门
 tagGDX1RiftUgdenbogCenter=巫登沼泽传送门
 tagGDX1RiftUgdenbogVillage=巴罗霍尔姆传送门
-tagGDX1RiftMalmouthAetherfire=孤独看守传送门
+tagGDX1RiftMalmouthAetherfire=孤独守望台传送门
 tagGDX1RiftMalmouthOutskirts=马尔茅斯郊外传送门
 tagGDX1RiftMalmouthIndustrial=马尔茅斯钢帽街区传送门
 tagGDX1RiftMalmouthInner=马尔茅斯皇冠山丘传送门
@@ -40,13 +40,13 @@ tagGDX1WorldMapUgdenbogCoven=女巫团的{^n}避难所
 tagGDX1WorldMapMalmouthOutskirts=摩恩代尔
 tagGDX1WorldMapMalmouthOutskirtsRuins=马尔茅斯{^n}郊外
 tagGDX1WorldMapMalmouthMine=杰尔索恩{^n}矿井
-tagGDX1WorldMapMalmouthEntry=孤独看守
+tagGDX1WorldMapMalmouthEntry=孤独守望台
 tagGDX1WorldMapMalmouth=马尔茅斯
 tagGDX1WorldMapMalmouthSlums=烛光{^n}街区
 tagGDX1WorldMapMalmouthIndustrial=钢帽{^n}街区
 tagGDX1WorldMapMalmouthInner=皇冠{^n}山丘
 tagGDX1WorldMapMalmouthDocks=马尔茅斯{^n}港
-tagGDX1WorldMapMalmouthFactory=肉品加工场
+tagGDX1WorldMapMalmouthFactory=血肉加工场
 
 tagGDX1WorldMapBeastRoguelike=远古{^n}树林
 
@@ -570,8 +570,8 @@ tagGDX1NPC_IllusionistA01=维瓦拉
 tagGDX1NPC_IllusionistA02=波利亚
 tagGDX1NPC_IllusionistA03=艾里尔斯
 tagGDX1NPC_IllusionistA04=格拉多斯
-tagGDX1NPCStoreTitle_IllusionistA01=幻化师
-tagGDX1NPC_IllusionistS01=
+tagGDX1StoreTitle_IllusionistA01=幻化师
+tagGDX1NPC_IllusionistS01=艾德沃
 
 
 

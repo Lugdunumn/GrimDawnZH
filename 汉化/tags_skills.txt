@@ -2903,4 +2903,4 @@ tagEnemySkillD05=奥德里奇的权杖
 tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近的敌人.
 
 tagEnemySkillD06=血誓诅咒
-tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability. 
+tagEnemySkillD06_Desc=血誓诅咒削弱了你反抗虚空腐化力量的意志。减少你的抗性，回复力和防御能力。

@@ -140,7 +140,7 @@ tagGDX1WeaponMelee2hB102=血肉扭曲碎片
 tagGDX1WeaponMelee2hB103=碎肠者战槌
 
 tagGDX1WeaponMelee2hC101=魂裂
-tagGDX1WeaponMelee2hC101_Desc="这把镰刀的刀刃据说切割的不仅仅是肉体."
+tagGDX1WeaponMelee2hC101_Desc="这把镰刀的刀刃据说切割的不仅仅是血肉."
 tagGDX1WeaponMelee2hC102=塞萨兰的信念
 tagGDX1WeaponMelee2hC107=尤尔托斯之拳
 
@@ -798,7 +798,7 @@ tagGDX1MedalD105=瑟兰尼尔的奖章
 tagGDX1MedalD105_Desc="高级审判官瑟兰尼尔被授予的奖章,他手持甘达尔号角独自一人勇敢地战胜了一个神秘的女巫团."
 tagGDX1MedalD106=卡拉斯特勋章
 tagGDX1MedalD113=奥祖因勋章
-tagGDX1MedalD113_Desc="奥祖因的信徒用它来焚烧自己的肉体并且奉献给愤怒之神."
+tagGDX1MedalD113_Desc="奥祖因的信徒用它来焚烧自己的血肉并且奉献给愤怒之神."
 tagGDX1MedalD114=消耗标记
 
 tagGDX1MedalF101=女巫团剑刃标记
@@ -1508,10 +1508,10 @@ tagGDX1CompA118Desc="栖息在巫登沼泽野兽的皮革。沼泽的致命性�
 
 
 tagGDX1CompB101Name=^k神圣铠甲片
-tagGDX1CompB101Desc="来自一套曾经强力的铠甲，据说是由至高神自己祝福过的。"^w^n(用于护肩，胸甲和护腿)
+tagGDX1CompB101Desc="来自一套曾经强力的铠甲，据说是由至高神自己祝福过的。"^w^n(用于护肩，胸甲和头盔)
 
 tagGDX1CompB102Name=^k活体护甲
-tagGDX1CompB102Desc="在你手中扭动的铠甲片比金属更有肉感，明显是受到了虚灵的操控。"^w^n(用于护肩，胸甲和护腿)
+tagGDX1CompB102Desc="在你手中扭动的铠甲片比金属更有肉感，明显是受到了虚灵的操控。"^w^n(用于护肩，胸甲和头盔)
 
 tagGDX1CompB103Name=^k巨人铠甲片
 tagGDX1CompB103Desc="一个极为厚重的铠甲片，全套装备重量一定超过任何人所能承受的，但是仍然可以移动。"^w^n(用于胸甲和头盔)
@@ -1751,14 +1751,14 @@ tagGDX1SuffixB106_Sh_A=威风降临之
 
 #LootChests
 
-tagGDX1ChestWoodA01=风化的护胸
+tagGDX1ChestWoodA01=风化的宝箱
 tagGDX1ChestAltarD01=温迪戈的祭坛
-tagGDX1ChestMalmouthC01=钢铁护胸
-tagGDX1ChestMalmouthD01=华丽的护胸
-tagGDX1ChestFleshC01=血肉组成的护胸
-tagGDX1ChestFleshD01=肉体扭曲的护胸
+tagGDX1ChestMalmouthC01=钢铁宝箱
+tagGDX1ChestMalmouthD01=华丽的宝箱
+tagGDX1ChestFleshC01=血肉组成的宝箱
+tagGDX1ChestFleshD01=血肉扭曲的宝箱
 
-tagGDX1ChestSpecial01=卓越的护胸
+tagGDX1ChestSpecial01=卓越的宝箱
 tagGDX1ChestBucket01=不幸的尸体
 
 tagGDX1ChestFleshshaper=主人的宝藏

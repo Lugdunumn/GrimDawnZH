@@ -1,19 +1,19 @@
-Coven of Ugdenbog
-The Final Seal
-Assist Ritual
-You have made the preparations, you have gathered the materials. The time has come to perform Matron Malostria's ritual and reactivate the coven's wards protecting the refuge.{^n}{^n}As the matron will be vulnerable during the ritual, she has entrusted you in keeping her safe. Make sure that nothing interrupts her work, no matter how strange.
+巫登沼泽女巫团
+最后的封印
+协助仪式
+你已经做好了准备, 也收集了材料。 是时候执行玛洛丝崔亚夫人的仪式并重新激活女巫团守卫来保护避难所。{^n}{^n}当仪式进行时夫人会变得很脆弱, 她嘱托你保护她的安全。 无论如何一定要保证她的仪式不被任何东西所打断。
 
 
 
-Activate the Fetish to Begin the Ritual
-Assist in the Coven's Warding Ritual
+激活神像来开启仪式
+协助女巫的的守护仪式
 
 
 
 
-Return to Matron Malostria
-The ritual was a success and the Coven's wards are now active across Ugdenbog. Speak to Matron Malostria at the Coven's Refuge of the success.
-Speak to Matron Malostria at the Coven's Refuge
+回复玛洛丝崔亚夫人
+仪式成功了而且女巫团守卫已经被激活。把成功的消息告诉玛洛丝崔亚夫人
+回复在女巫团避难所的玛洛丝崔亚夫人
 
 
 

@@ -1,12 +1,12 @@
-Malmouth
-Can't Leave Them
-Find Women
-Rivia at the Resistance Hideout is concerned for the people of Malmouth that never made it to the sewers in time, particularly the women. The Aetherials seem to have taken a strange interest in women in particular. She believes some of them may still survive within the Aetherial Fleshworks. She understands that what she asks of you is incredibly dangerous, but she wants to save those women and thinks you are the only one who could.
-Rescue the Women in the Fleshworks
+马尔茅斯
+不能离开他们
+找到女人
+在反抗军藏身处的拉莉亚担心那些没有及时赶到下水道的马尔茅斯人民，特别是女性。那些虚灵看起来好像对女性特别感兴趣。她相信她们中一定还有人还活着，在虚灵的血肉工厂中。 她明白她要求你做的事情是极其危险的，但她想拯救那些女性，而且认为你是唯一能够做到的。
+拯救血肉工厂的女性
 
-Return to Rivia
-You discovered the fate of the women captured by the Aetherials. Report back to Rivia of their grisly fates.
-Speak to Rivia at the Resistance Hideout
+回复拉莉亚
+你发现了那些被虚灵抓走的女性的灾难。回复拉莉亚她们可怕的命运。
+告诉反抗军藏身处的拉莉亚
 
 
 

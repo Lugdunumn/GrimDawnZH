@@ -207,7 +207,7 @@ tagGDX1HeroSwampGolem_H04=加尔 ~ 虚空之触
 
 
 #CreatureWendigo
-tagGDX1EnemyHumanWendigo_A01=巫登沼泽食人者 ~ 肉体疯狂者
+tagGDX1EnemyHumanWendigo_A01=巫登沼泽食人者 ~ 血肉疯狂者
 tagGDX1EnemyHumanWendigo_B01=巫登沼泽食人者 ~ 吟血者
 tagGDX1EnemyHumanWendigo_C01=巫登沼泽食人者 ~ 幽灵语者
 
@@ -307,7 +307,7 @@ tagGDX1EnemySummon_AetherialSpirit=虚灵灵魂
 
 tagGDX1Boss_FactoryGuardian01=骸骨巨人·哈加瓦尔
 tagGDX1Boss_FactoryGuardian02=血肉收集者·罗达加尔
-tagGDX1Boss_Final01=血肉主宰 ~ 西奥丁·马塞尔
+tagGDX1Boss_Final01=血肉领主 ~ 西奥丁·马塞尔
 
 tagGDX1Boss_Aetherial01=血肉编织者·克里格
 tagGDX1Boss_Aetherial02=阿洛斯崔亚·心灵窃贼
@@ -356,7 +356,7 @@ tagGDX1MiniBoss_Chthonian02=拉卡瓦尔高斯·血肉饮者
 
 tagGDX1Boss_Wendigo01=破坏者的心智
 tagGDX1Boss_Wendigo02=破坏者的灵魂
-tagGDX1Boss_Wendigo03=破坏者的肉体
+tagGDX1Boss_Wendigo03=破坏者的血肉
 tagGDX1Boss_Wendigo04=纳梅迪亚, 尖啸者
 
 tagGDX1MiniBoss_Wendigo01=汉达罗斯

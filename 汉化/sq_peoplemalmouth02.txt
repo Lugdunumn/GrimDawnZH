@@ -1,13 +1,13 @@
-Malmouth
-Arming the Resistance
-Gather Supplies
-In order to fight back, the Aetherial needs to arm its resistance fighters. Without easy access to the forges and arcane circles, the resistance cannot simply forge new weapons. They have to rely on scavenging. Captain Wilfor's scavengers have become aware of two such stashes out among the ruins of the rowhouses in the Steelcap District. Recover these for the resistance.
-Find the Weapon Supplies
-Find the Arcane Supplies
+马尔茅斯
+武装反抗军
+收集物资
+为了反击虚灵，就需要把反抗军的战士武装起来。如果缺少锻造物资和奥术，抵抗就不能轻易制造新武器。他们不得不依靠拾荒来获取。威尔佛队长的拾荒者发现两个藏匿处，就在钢帽街区一排排的防御废墟中。为反抗军找到这些物资。
+寻找武器物资
+寻找神秘物资
 
-Return to Captain
-You have recovered the supplies for the resistance and should report back to Captain Wilfor at the Resistance Hideout.
-Speak to Captain Wilfor at the Resistance Hideout
+回复队长
+你已经为反抗军收集到了物资应该立即回复威尔佛队长。
+在反抗军藏身处回复威尔佛队长
 
 
 

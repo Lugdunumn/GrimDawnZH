@@ -570,7 +570,8 @@ tagGDX1NPC_IllusionistA01=维瓦拉
 tagGDX1NPC_IllusionistA02=波利亚
 tagGDX1NPC_IllusionistA03=艾里尔斯
 tagGDX1NPC_IllusionistA04=格拉多斯
-tagGDX1NPC_IllusionistS01=试炼幻术师
+tagGDX1NPCStoreTitle_IllusionistA01=幻化师
+tagGDX1NPC_IllusionistS01=
 
 
 

@@ -107,7 +107,6 @@ Very well.
 Is that...Larria's body?
 Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
 Here are the hearts.
-
 Er, great!
 Rather disgusting.
 Have you done as Ravager asked?
@@ -156,7 +155,6 @@ Have you dealt with that pest yet?
 Yes, she will never trouble anyone else again.
 Good, very good!{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
 Tell me more about this.
-
 Perhaps another time.
 Good, very good!{^n}{^n}Ravager will be pleased to hear of your service to the cause.
 

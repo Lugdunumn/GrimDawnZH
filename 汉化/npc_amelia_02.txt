@@ -37,7 +37,7 @@ I couldn't just leave him out there.
 
 Excuse me, could I have a moment of your time?{^n}{^n}I overheard that you will be headed beyond Gloomwald in the hopes of reaching Malmouth. It's noble of you to spearhead this effort, but...I was hoping there was something you could look into for me.{^n}{^n}You see, I did not travel down here alone. I was with my father. He was injured in Gloomwald and I had no choice but to leave him behind in search of aid.
 What happened?
-My father and I were part of a small group that managed to escape the confines of Malmouth's ruins. But we did not get far before the casualties began. The spreading aetherfire and roaming Aetherials saw to that. But it was not until we reached Ugdenbog that the horrors truly began. Cannibals, poisonous fumes and even carnivorous plants threatened our every move.{^n}{^n}By the time we entered Gloomwald, it was just my father and I, but we were not out of danger yet. A pack of cannibals ambushed us in the night. My father was injured in the fray. While it wasn't fatal, I had no choice but to leave him so that I could find help. Eventually, I found my way to Devil's Crossing.{^n}{^n}I'm not sure how long my father can survive on his own, he was never very good with weapons, or much of anything for that matter. Nevertheless, he's the only family I got left and I want to look for him, but the inquisitor insists that I first debrief him on every detail that I can recall on Malmouth.{^n}On your way through Gloomwald, will you spare some time and search for my father? He cannot have strayed far from the main road.
+My father and I were part of a small group that managed to escape the confines of Malmouth's ruins. But we did not get far before the casualties began. The spreading aetherfire and roaming Aetherials saw to that. But it was not until we reached Ugdenbog that the horrors truly began. Cannibals, poisonous fumes and even carnivorous plants threatened our every move.{^n}{^n}By the time we entered Gloomwald, it was just my father and I, but we were not out of danger yet. A pack of cannibals ambushed us in the night. My father was injured in the fray. While it wasn't fatal, I had no choice but to leave him so that I could find help. Eventually, I found my way to Devil's Crossing.{^n}{^n}I'm not sure how long my father can survive on his own, he was never very good with weapons, or much of anything for that matter. Nevertheless, he's the only family I got left and I want to look for him, but the inquisitor insists that I first debrief him on every detail that I can recall on Malmouth.{^n}{^n}On your way through Gloomwald, will you spare some time and search for my father? He cannot have strayed far from the main road.
 I will find him.
 I'm sorry, my mission takes priority.
 I'm sorry, not right now.
@@ -49,7 +49,7 @@ It's where I grew up. Really, it was the only home I've ever known.{^n}{^n}The d
 I have another question.
 I'm sorry for all that you endured.
 Anything you can tell me about the Aetherials over in Malmouth?
-At first, it was much like here, the dead rising with that eerie aether glow. But then the mutations started rising from the depths of the city, each more grotesque and twisted than the last. It's as if they were experimenting on the bodies of the fallen.{^n}{^n}What remains of one of their latest creations awaits you in Devil's Crossing.
+At first, it was much like here, the dead rising with that eerie aether glow. But then the mutations started rising from the depths of the city, each more grotesque and twisted than the last. It's as if they were experimenting on the bodies of the fallen.{^n}{^n}What remains of one of their latest creations awaits you here.
 I have another question.
 The horrors of the Aetherials have no limits.
 Anything I should know about the road up to Malmouth?
@@ -58,9 +58,8 @@ I have another question.
 It doesn't get easier.
 Some things you just have to accept.
 How did you make it all the way to Devil's Crossing?
-I didn't start out on my own. We were part of a group that slipped through the Aetherial defenses in Malmouth.{^n}{^n}Most of us didn't make it very far due to the aetherfire. I had to leave my father behind in Gloomwald.{^n}{^n}I was beginning to lose hope, but then I stumbled upon Devil's Crossing.
+I didn't start out on my own. We were part of a group that slipped through the Aetherial defenses in Malmouth.{^n}{^n}Most of us didn't make it very far due to the aetherfire. I had to leave my father behind in Gloomwald.{^n}{^n}I was beginning to lose hope, but then I stumbled upon this place.
 I have another question.
 You seem to be quite resourceful.
 Nevermind.
-Not yet
 Not until we've destroyed every last one.

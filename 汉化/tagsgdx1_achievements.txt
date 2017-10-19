@@ -128,13 +128,13 @@ achGDX1041Title=鲜血试练
 achGDX1041Desc=在远古树林的鲜血试练中活下来。
 
 achGDX1042Title=野性驯化
-achGDX1042Desc=在远古树林击杀加盖波尔·野性之心。
+achGDX1042Desc=在远古树林击杀加尔加伯·野性之心。
 
 achGDX1043Title=驯服未驯服的
-achGDX1043Desc=在终极难度的远古树林击杀加盖波尔·野性之心。
+achGDX1043Desc=在终极难度的远古树林击杀加尔加伯·野性之心。
 
 achGDX1044Title=不朽的野性驯化
-achGDX1044Desc=在专家模式终极难度的远古树林击杀加盖波尔·野性之心。
+achGDX1044Desc=在专家模式终极难度的远古树林击杀加尔加伯·野性之心。
 
 achGDX1045Title=远古巫登沼泽
 achGDX1045Desc=击杀克拉瓦尔·远古之水。

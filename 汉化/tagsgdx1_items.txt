@@ -419,7 +419,7 @@ tagGDX1ShoulderD110_Desc="铠甲让使用者充满了永不退却的愤怒火焰
 tagGDX1ShoulderD111=克里格的肩胄
 tagGDX1ShoulderD112=复仇者的肩铠
 tagGDX1ShoulderD113=迷失灵魂斗篷
-tagGDX1ShoulderD114=奥克塔维尔斯肩铠
+tagGDX1ShoulderD114=奥克塔维尔斯的肩铠
 tagGDX1ShoulderD115=法术天灾护肩
 tagGDX1ShoulderD116=法师杀手的护肩
 tagGDX1ShoulderD117=符文束缚者的护肩
@@ -480,7 +480,7 @@ tagGDX1TorsoD109_Desc="变化无常的命运织线总是把人类命运编织成
 tagGDX1TorsoD110=吉尔多的守卫
 tagGDX1TorsoD111=克里格的护胸
 tagGDX1TorsoD112=复仇者的铠甲
-tagGDX1TorsoD113=奥克塔维尔斯板甲
+tagGDX1TorsoD113=奥克塔维尔斯的板甲
 tagGDX1TorsoD114=戈尔巴的皮衣
 tagGDX1TorsoD115=瓦尔古尔的服饰
 tagGDX1TorsoD116=符文束缚者的铠甲
@@ -651,7 +651,7 @@ tagGDX1RingA104=保护者戒指
 tagGDX1RingB101=生命指环
 tagGDX1RingB101_Desc="戒指中的荆棘在抽血，好像是为了使藤蔓恢复新生."
 tagGDX1RingB102=藤蔓指环
-tagGDX1RingB103=加盖波尔的指环
+tagGDX1RingB103=加尔加伯的指环
 tagGDX1RingB103_Desc="触摸燃烧的戒指是痛苦的，但不会造成物理伤害。"
 
 tagGDX1RingC101=诅咒者
@@ -1148,9 +1148,9 @@ tagGDX1CraftMaterial_Ugdenbloom=巫登之花
 tagGDX1CraftMaterial_Ugdenbloom_Desc="带有如此充满活力的色彩，但它会发出一种真正的腐烂恶臭."
 
 tagGDX1CraftMaterial_HeartOfDarkness=黑暗之心
-tagGDX1CraftMaterial_HeartOfDarkness_Desc="充满邪恶能量，渴望得到一个灰白的祭坛."
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="充满邪恶能量，渴望一座灰白的祭坛."
 
-#Consumables
+#Consumable 消耗品
 
 tagGDX1ConsumableBlueprintA01=配方：饮火者药膏
 
@@ -1596,8 +1596,8 @@ tagGDX1ItemSetD102Desc="莫格卓根祝福的铠甲，被自然捍卫者所穿�
 tagGDX1ItemSetD103Name=迷失灵魂的牧羊人
 tagGDX1ItemSetD103Desc="面纱上隐藏着巨大的力量。学会掌握它，死亡本身只不过是一种消遣。- 尤若布鲁克。"
 
-tagGDX1ItemSetD104Name=奥克塔维尔斯的热情
-tagGDX1ItemSetD104Desc="奥克塔维尔斯·加拉达尔一直是光明会中最华丽的猎人，从作为要塞的校长直到他咽下最后一口气。"
+tagGDX1ItemSetD104Name=奥克塔维尔斯的狂热
+tagGDX1ItemSetD104Desc="奥克塔维尔斯·加拉达尔一直是光明会中最功勋卓著的猎魔者。他作为光明会大本营的战士长战斗至最后一息。"
 
 tagGDX1ItemSetD105Name=大灾变
 tagGDX1ItemSetD105Desc="为了所有人的安全，这些圣物被光明会分散和隐藏，免得有人收集他们再次释放它们的灾难性的力量。"

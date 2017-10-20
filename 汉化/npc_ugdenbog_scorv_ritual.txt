@@ -155,6 +155,7 @@ Have you dealt with that pest yet?
 Yes, she will never trouble anyone else again.
 Good, very good!{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
 Tell me more about this.
+
 Perhaps another time.
 Good, very good!{^n}{^n}Ravager will be pleased to hear of your service to the cause.
 

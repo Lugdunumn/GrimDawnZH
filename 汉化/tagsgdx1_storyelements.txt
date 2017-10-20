@@ -77,7 +77,7 @@ tagGDX1UGMalmouthOutskirtsCellar01=燃烧地窖
 tagGDX1UGMalmouthAetherialFactory01=感染
 tagGDX1UGMalmouthAetherialFactory02=血肉加工场
 tagGDX1UGMalmouthAetherialFactory03=血肉展览馆
-tagGDX1UGMalmouthAetherialFactory04=子宫
+tagGDX1UGMalmouthAetherialFactory04=母巢
 tagGDX1UGMalmouthAetherialFactory05=血肉密室
 tagGDX1UGMalmouthCathedral01=马西斯先驱之墓
 tagGDX1UGMalmouthCathedral01B=伊旺达的藏身处
@@ -170,7 +170,7 @@ tagGDX1POI_SteelcapDistrictEntrance=钢帽街区
 tagGDX1POI_SteelcapDistrictExit=反抗军避难所
 tagGDX1POI_FleshwrappedEnclaveEntrance=血肉包装区入口
 tagGDX1POI_FleshwrappedEnclaveExit=血肉包装区出口
-tagGDX1POI_TheWomb=子宫
+tagGDX1POI_TheWomb=母巢
 tagGDX1POI_BridgeLever=马尔茅斯桥控制装置
 
 
@@ -256,7 +256,7 @@ tagGDX1NPC_AreaF_18=亨利
 tagGDX1NPC_AreaF_19=金尼
 tagGDX1NPC_AreaF_20=艾拉琳娜
 tagGDX1NPC_AreaF_21=萨德
-tagGDX1NPC_AreaF_22=摧毁子宫
+tagGDX1NPC_AreaF_22=摧毁母巢
 tagGDX1NPC_AreaF_23=尼可·艾琳
 tagGDX1NPC_AreaF_24=妮莎
 tagGDX1NPC_AreaF_25=提莫
@@ -471,7 +471,7 @@ tagGDX1LoreObj_AreaF_NoteA14Text=我们最近折返霍姆斯特德绝不可掉�
 
 #MalmouthAetherialFactory_02
 tagGDX1LoreObj_AreaF_NoteA15Name=分娩成功
-tagGDX1LoreObj_AreaF_NoteA15Text=我很高兴地报告，我们最近对人类女性样本的实验已经非常成功。{^n}{^n}似乎主人更容易接受我们的授孕方式相比之前而言。此外，更年轻，更合适的样本显示出惊人的发展和恢复速度。她们的身体更耐用，更持久，让我们能增加授孕的速度和频率，那是惊人的结果。这些标本已证明在每一个子宫里能够容纳两个或更多的早期胚珠。我们已经将所需的怀孕期缩短了一半，为了年轻主人的长寿，我们相信我们可以进一步加快这一进程。{^n}{^n}我非常有信心，我们可以进一步改进，只要我们保持样本的稳定供应。然而，随着马尔茅斯人口的迅速减少，也许是时候动用我们在伊露兰和更远地方的储备活体了。
+tagGDX1LoreObj_AreaF_NoteA15Text=我很高兴地报告，我们最近对人类女性样本的实验已经非常成功。{^n}{^n}似乎主人更容易接受我们的授孕方式相比之前而言。此外，更年轻，更合适的样本显示出惊人的发展和恢复速度。她们的身体更耐用，更持久，让我们能增加授孕的速度和频率，那是惊人的结果。这些标本已证明在每一个母巢里能够容纳两个或更多的早期胚珠。我们已经将所需的怀孕期缩短了一半，为了年轻主人的长寿，我们相信我们可以进一步加快这一进程。{^n}{^n}我非常有信心，我们可以进一步改进，只要我们保持样本的稳定供应。然而，随着马尔茅斯人口的迅速减少，也许是时候动用我们在伊露兰和更远地方的储备活体了。
 
 #MalmouthAetherialFactory_03
 tagGDX1LoreObj_AreaF_NoteA16Name=给血肉领主的书信

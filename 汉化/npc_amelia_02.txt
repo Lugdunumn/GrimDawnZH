@@ -1,65 +1,65 @@
-Amala Torven
-I've heard the incredible news!{^n}{^n}You've actually done it! You struck at the heart of the Aetherials in Malmouth and won!{^n}{^n}Maybe it's just a dream, but perhaps some day we can return to Malmouth and even rebuild!
-One day, the Aetherials will all be gone. I'm sure of it.
-Let's take it one step at a time.
-You've actually made it to Malmouth then?{^n}{^n}I can't believe it.{^n}{^n}Tell me...how much worse has it gotten?
-I'm afraid not much of the resistance remains.
-It's just as I feared then.{^n}{^n}Is there any hope left for us then?
-I don't know, but we have to try.
-Another time, perhaps.
-Thank you for finding my father.{^n}{^n}Though the nightmare isn't over yet, I feel that at least we can breathe easier among the Black Legion.
+阿玛拉·托文
+我听到了难以置信的消息！{^n}{^n}你真的做到了！你给了马尔茅斯的虚灵沉重一击并取得了胜利！{^n}{^n}可能这只是个梦想，但也许某天我们可以返回并重建马尔茅斯！
+终有一天，虚灵们都会从这个世界消失的。我确信。
+一步一步来吧。
+你真的到了马尔茅斯？{^n}{^n}我简直无法相信。{^n}{^n}告诉我...有多糟糕？
+恐怕已经没有多少抵抗力量残存了。
+就像我当初担心的那样。{^n}{^n}我们还有希望吗？
+我不知道，但我们必须一试。
+下次吧，也许。
+感谢你找到我的父亲。{^n}{^n}虽然噩梦依然没有结束，但我觉得至少在黑色军团中我们可以活得更惬意一些。
 
-Did you and your father not get along?
-I lived with my mom in Malmouth. Father...wasn't exactly reliable, let's just put it that way.{^n}{^n}He always had one scheme or another to make us all rich, but they never panned out. Mom loaned him money several times, but he squandered it on his latest idea, or drowned in booze.{^n}{^n}But when she vanished right around the time the attacks started, I did not know who else to turn to.{^n}{^n}Now it's just the two of us. Whether I like it or not, I can't just leave him. He is my father after all.
+你和你父亲处得不好吗？
+我和我母亲住在马尔茅斯。父亲...不太可靠，这么说吧。{^n}{^n}他总是有一个又一个让我们变得富裕起来的计划，但却没有成功过。母亲好几次借给他钱，但他都挥霍在了新的主意或者酗酒上。{^n}{^n}但当母亲在袭击发生后离我而去时，我不知道还能求助于谁。{^n}{^n}现在只剩下我和我父亲了。不管我喜不喜欢，我都不能离开他。毕竟，他是我的父亲啊。
 
-Take care.
-Take care.
-Even here, in Devil's Crossing, our nightmares have found us.{^n}{^n}Is no place safe from the Aetherials?
+保重。
+保重。
+即使在这里，在恶魔十字，虚灵还是阴魂不散。{^n}{^n}虚灵眼皮底下就没有安全的地方吗？
 
-Not yet.
-Not until we've destroyed every last one.
-I am relieved that my father made it safely.
-He was a bit shaken up, but still alive.
-We were never close, but he's the only family I got left.{^n}{^n}I don't know how to thank you...oh, perhaps this.{^n}{^n}Here, take this potion. My father and I took sips from it along our journey to keep up our strength. I'm sure you'll find it useful.
+目前没有。
+不把他们全部消灭，永远不会有的。
+父亲安然无恙，我就放心了。
+他受到了一点惊吓，但还活着。
+我们以前不怎么亲近，但他是我唯一所剩的亲人了。{^n}{^n}我不知道该如何感谢你才是...噢，可能这个会比较好。{^n}{^n}来，收下这瓶药剂。我和我父亲我一路上就靠呡几口它来保持体力。我敢肯定你会觉得它有用的。
 
-Thank you. Take care.
-Have you found any sign of my father out there?
-Where should I be looking?
-You will need to travel north from Burrwitch, into Gloomwald.{^n}{^n}I had to leave my father behind when his injuries prevented him from going any further. He cannot have strayed far from the main road.
-Can I ask you about something else?
-I'll keep an eye out.
+谢谢你，多保重
+有找到任何关于我父亲的迹象吗？
+我该去哪里寻找？
+你得从伯尔维治一路北山，进入幽暗森林。{^n}{^n}那时我父亲的伤情使他再也无法继续前进，我不得不把他留在那儿。他不会离大路太远的。
+我能问问你其他事情吗？
+我会留意的。
 
-Not yet.
-Excuse me, could I have a moment of your time?{^n}{^n}My father recently arrived in Devil's Crossing. He said it was you who got him here.
+目前没有。
+抱歉，可以占用你一点时间吗？{^n}{^n}我父亲刚刚来到恶魔十字，他说是正是你把他带过来的。
 
-Excuse me, could I have a moment of your time?{^n}{^n}My father recently arrived in Devil's Crossing. He said it was you who got him here.
-I couldn't just leave him out there.
+抱歉，可以占用你一点时间吗？{^n}{^n}我父亲刚刚来到恶魔十字，他说是正是你把他带过来的。
+我不能留他一个人在那儿。
 
-Excuse me, could I have a moment of your time?{^n}{^n}I overheard that you will be headed beyond Gloomwald in the hopes of reaching Malmouth. It's noble of you to spearhead this effort, but...I was hoping there was something you could look into for me.{^n}{^n}You see, I did not travel down here alone. I was with my father. He was injured in Gloomwald and I had no choice but to leave him behind in search of aid.
-What happened?
-My father and I were part of a small group that managed to escape the confines of Malmouth's ruins. But we did not get far before the casualties began. The spreading aetherfire and roaming Aetherials saw to that. But it was not until we reached Ugdenbog that the horrors truly began. Cannibals, poisonous fumes and even carnivorous plants threatened our every move.{^n}{^n}By the time we entered Gloomwald, it was just my father and I, but we were not out of danger yet. A pack of cannibals ambushed us in the night. My father was injured in the fray. While it wasn't fatal, I had no choice but to leave him so that I could find help. Eventually, I found my way to Devil's Crossing.{^n}{^n}I'm not sure how long my father can survive on his own, he was never very good with weapons, or much of anything for that matter. Nevertheless, he's the only family I got left and I want to look for him, but the inquisitor insists that I first debrief him on every detail that I can recall on Malmouth.{^n}{^n}On your way through Gloomwald, will you spare some time and search for my father? He cannot have strayed far from the main road.
-I will find him.
-I'm sorry, my mission takes priority.
-I'm sorry, not right now.
-Even here, in Devil's Crossing, our nightmares have found us.{^n}{^n}Is no place safe from the Aetherials?
-Can I ask you some questions?
-Oh, sure.{^n}{^n}What would you like to know?
-What can you tell me about Malmouth?
-It's where I grew up. Really, it was the only home I've ever known.{^n}{^n}The day it all started, my mom never came home from the market. Father was the only other family I had in the city, so I sought him out to look for her; but when the whole city erupted into chaos, we knew that she wasn't ever coming home.{^n}{^n}Most everyone was butchered in the first conflicts. Some of us gathered in the sewers in hopes of fighting back. But it was all futile. The Aetherials let us think that we stood a chance. In truth, they were just harvesting us for their grotesque creations.{^n}{^n}A group of us had enough of the horrors, so we made a plan to escape. Only I made it to Devil's Crossing...
-I have another question.
-I'm sorry for all that you endured.
-Anything you can tell me about the Aetherials over in Malmouth?
-At first, it was much like here, the dead rising with that eerie aether glow. But then the mutations started rising from the depths of the city, each more grotesque and twisted than the last. It's as if they were experimenting on the bodies of the fallen.{^n}{^n}What remains of one of their latest creations awaits you here.
-I have another question.
-The horrors of the Aetherials have no limits.
-Anything I should know about the road up to Malmouth?
-The aetherfire was spreading rapidly, so I'm not sure there even is a way up to Malmouth anymore.{^n}{^n}But before you can worry about endless fields of fire, you'll have to make it through the wilderness in Gloomwald and Ugdenbog, and that's not much better.{^n}{^n}The mushrooms there are toxic, some even release caustic spores when you get near. The animals are ruthless, but the cannibals...knowing that they were once people makes it so much worse.{^n}{^n}I...never thought I'd have to kill people. I still feel their blood on my hands.
-I have another question.
-It doesn't get easier.
-Some things you just have to accept.
-How did you make it all the way to Devil's Crossing?
-I didn't start out on my own. We were part of a group that slipped through the Aetherial defenses in Malmouth.{^n}{^n}Most of us didn't make it very far due to the aetherfire. I had to leave my father behind in Gloomwald.{^n}{^n}I was beginning to lose hope, but then I stumbled upon this place.
-I have another question.
-You seem to be quite resourceful.
-Nevermind.
-Not until we've destroyed every last one.
+抱歉，可以占用你一点时间吗？{^n}{^n}我无意中听到你会穿越幽暗森林以抵达马尔茅斯。你这么做的确值得尊敬，但是...我希望你能为我寻找某样“东西”。{^n}{^n}你瞧，我不是一个人到这儿来的，而是和我父亲一起。他在幽暗森林受伤了，我别无选择，只好把他留下去寻找救援。
+怎么了？
+我和我父亲是成功逃离了马尔茅斯废墟的一小撮人中的一部分。在人员有所伤亡之前，正在蔓延的虚灵之火和四处游荡的虚灵们使得我们并没有走多远，直到我们抵达巫登沼泽，恐惧才真正开始。食人族，毒雾，甚至还有食肉植物威胁着我们的一举一动。{^n}{^n}在抵达幽暗森林时，只剩下我和我的父亲了，但那时我们仍然没有脱离危险。一群食人族在晚上伏击了我们，我父亲在打斗中也受了伤。虽然这伤不是致命的，但我别无选择，只能离开他以求找到援助。最终，我找到了通往恶魔十字的路。{^n}{^n}我不知道光靠我父亲一个人他能撑多久，他从不会娴熟地使用武器，或者其他什么之类的。然而，他是我所剩下的唯一的家人了，我想去找他，但审判官坚持让我第一个向他汇报我能记起的关于马尔茅斯的每一个细节。{^n}{^n}你路过幽暗森林时，可否抽出点时间来寻找我的父亲？他不会离大路太远的。
+我会找到他的。
+对不起，我得先去完成我的任务。
+对不起，现在不行。
+即使在这里，在恶魔十字，虚灵还是阴魂不散。{^n}{^n}虚灵眼皮底下就没有安全的地方吗？
+我能问你一些问题吗？
+噢，当然{^n}{^n}你想知道些什么？
+关于马尔茅斯，你都知道些什么？
+那是我长大的地方。真的，它是我心中唯一的家。{^n}{^n}自从那天起，我母亲再也没从集市上回来。父亲是我在这座城市中除母亲之外唯一的家人，所以我看到他出去找母亲了，但当整个城市都陷入混乱时，我们知道她再也没法回来了。{^n}{^n}大多数人在第一场战斗中被屠杀殆尽，一些人则聚集在下水道里以期反击，但这都变成了徒劳。虚灵让我们以为我们还有一线生机，事实上，他们只是为了他们那荒诞的造物而等着收割我们而已。{^n}{^n}我们这伙人受够了在恐慌中度日，所以制定了一个逃跑的计划，而只有我成功抵达了恶魔十字。
+我还有一个问题
+真为你所忍受过的苦难感到难过。
+能告诉我关于马尔茅斯那边儿的虚灵的事吗？
+起初，和这里一样，伴随着诡异的虚灵之光，死尸开始复活。但之后异变开始从城市深处涌现，所有人都变得越来越诡异和扭曲，就好像他们在已经倒下的尸体身上做实验一样。{^n}{^n}只剩下一只它们最后的产物被留在恶魔十字等着你。
+我还有一个问题
+虚灵带来了无尽的恐惧。
+关于去往马尔茅斯的道路，有哪些东西我得了解？
+虚灵之火蔓延得很快，所以我不确定还有没有路去马尔茅斯了。{^n}{^n}但在你担心无尽的虚灵之火之前，你必须得穿过幽暗森林和巫登沼泽的荒野地带，这和虚灵之火相比可不会好到哪里去。{^n}{^n}那儿的蘑菇有毒，而且在你靠近时还会释放腐蚀孢子。那儿的动物凶残无情，然而那些食人族...要知道，他们就是那群让情况变得更糟的人。{^n}{^n}我以前从来没想过我不得不杀人，我现在还感觉他们的鲜血就在我的双手上。
+我还有一个问题。
+再简单不过了。
+有些事儿你不接受不行。
+这一路上你是怎么到达恶魔十字的？
+启程时，我可不是一个人。我们是组团溜过马尔茅斯的虚灵防线的那群人中的一部分。{^n}{^n}我们中的大多数人都没能走多远就死于虚灵之火，我不得不把我父亲留在幽暗森林。{^n}{^n}那时我开始失去希望了，但之后我偶然发现了恶魔十字。
+我还有一个问题。
+你看上去很机智。
+没关系。
+不把他们全部消灭，永远不会有的。

@@ -1,61 +1,61 @@
-Terise
-You have no business here stranger.{^n}{^n}Leave this place before I cook you into one of my stews.
-Ok, I'll be leaving then.
-That's quite rude.
-The Great Spirit is very pleased with you stranger.{^n}{^n}All you have done for us will certainly not be forgotten.
-I'd rather just forget any of this ever happened.
-I do what I can to help.
-Ah, you're back. It's great to see you again.{^n}{^n}I must thank you.
-Thank me for what?
-Well, thanks to you we have fresh meat once again. It's been some time since I cooked with such wonderfully fresh cuts.{^n}{^n}Though Aurin always seems to get the best parts before the rest of us can get our hands on them. I think old Scorv favors her.{^n}{^n}No harm done, I'm quite happy with fresh meat whenever I can get it.
-How did I help?
-I heard it was you who went out and checked the camps. Is that not true?
-Um, It was me.
-Well then, thank you. I'm sure the Great Spirit is quite pleased with you.
-I certainly hope so.
-I'll be going now.
-No, I think you're mistaken.
-I'm glad I could help.
-I'm sorry, I need to go.
-Welcome back. I've just finished making a fesh batch of stew.{^n}{^n}Are you sure I can't interest you in trying some?
-No I'm all set.
-Suit your self.{^n}{^n}This batch is made with fresh meat, thanks to you.
-Fesh meat?
-Indeed, it seems our traps were full this time around. I heard it was you who went out to check them.{^n}{^n}Those poor creatures were horrified when you sent them back here. They had no idea what they were in for.{^n}{^n}All the better. The fear lingers in the meat leaving a truly unique flavor. It's delectable really.
-I think I'm going to be sick.
-Enjoy your stew, I'm glad I could help.
-Sure, I think I'll try some this time.
-I knew you had it in you. I could sense it.{^n}{^n}Here you are, a freshly prepared batch.
-This is delicious.
-It ought to be. It was made with fresh meat, thanks to you.
-Thanks to me?
-Indeed, those poor souls you sent back here from the traps. They had no idea what was in store for them.{^n}{^n}You should have seen the terror in their eyes. It was perfect.{^n}{^n}Fear makes the meat taste better you know.
-I think I'm going to be sick.
-I'll be going now. Thanks for the stew.
-Thank you.
-No thank you, I need to go.
-I love a [[ms]man[fs]woman] with a solid appetite.
-Any chance I could get more of that stew?
-Oh, I'm sorry.{^n}{^n}I'm afraid we're all out for now. Perhaps another time when we've acquired some fresh meat.
-Alright.
-I think I'll be on my way.
-Are you quite sure you're not hungry?
-On second thought, a bowl of stew sounds good.
-I knew you had it in you. I could sense it.{^n}{^n}Here you are, a freshly prepared batch.
+特瑞斯
+这儿没你什么事，陌生人。{^n}{^n}离开这个地方，趁我还没把你做成乱炖。
+好吧，那我走了。
+真粗鲁。
+伟大之魂对你很满意，陌生人。{^n}{^n}你为我们所做的一切不会被忘记的。
+我宁愿忘掉这一切。
+我只是尽我所能来帮忙而已。
+啊，你回来了，再次见到你真是太好了。{^n}{^n}我必须要感谢你。
+谢我什么？
+托你的福，我们又有新鲜的肉了，我已经好长时间没做过这么好吃的东西了。{^n}{^n}虽然奥琳似乎总是能在我们其他人拿到之前得到最好的那部分，但我觉得斯科夫那老家伙偏袒她。{^n}{^n}不过不碍事儿, 无论啥时候得到新鲜的肉，我都非常高兴。
+我怎么帮上忙的？
+我听说是你出去查看了营地，难道不是么？
+嗯，是我。
+那不就是了，谢谢你。我认为伟大之魂对你非常满意。
+我当然希望如此。
+我现在得走了。
+不，我想你搞错了。
+能帮忙我很高兴。
+对不起，我得走了。
+欢迎回来，我刚做完一锅菜。{^n}{^n}你不想尝尝我的手艺吗？
+不用了，我饱了。
+好好儿享用吧。{^n}{^n}这锅鲜肉是专门为你做的，谢谢你。
+鲜肉？
+对啊，我们的陷阱这次貌似装满了猎物，我听说是你出去查看的。{^n}{^n}你把他们送回这儿时，那些可怜的家伙都吓坏了，他们不知道他们正在遭受着什么。{^n}{^n}不过反而更好，挥之不去的恐惧给肉留下了很独特的风味，这真是棒极了。
+我想我要生病了。
+享受你的美餐吧，我很高兴我能帮上忙。
+当然，这次我要尝一点。
+我就知道你是这么想的，我能感觉得到。{^n}{^n}给，刚出锅的。
+真美味。
+必须的，它可是用新鲜的肉做的，谢谢你。
+谢谢我？
+对啊，那些你从陷阱里送来这儿的可怜游魂，他们都不知道等待他们的将是什么。{^n}{^n}你应该已经看见了他们眼中的恐惧，那很完美。{^n}{^n}恐惧让肉的味道更好，你懂的。
+我觉得我马上就要生病了。
+我得走了，谢谢你做的菜。
+谢谢你。
+不了，谢谢，我得走了。
+我喜欢胃口好的[[ms]先生[fs]女士]。
+我能再多吃一些吗？
+噢，抱歉{^n}{^n}恐怕暂时没有了，也许等下次我们得到一些鲜肉时可以。
+好吧。
+我得上路了。
+你真的确定不饿？
+重新考虑之后，一碗美味佳肴听起来还不错。
+我就知道你是这么想的，我能感觉得到。{^n}{^n}给，新鲜出锅的。
 
-Thanks, I'll be going now.
-I'm alright, thanks.
-Well hello there, stranger. Welcome to our humble village.{^n}{^n}You look famished. Might I offer you a bowl of stew? I made it myself right from one of Aurin's best recipes.{^n}{^n}Sure to put some meat back on those bones of yours.
-A bowl of stew sounds good.
-Excellent. I thought you might enjoy it.{^n}{^n}You have a ravenous look about you.
-It was a little gamey.
-Ah well, we haven't had much fresh meat around here recently.{^n}{^n}Though it seems that may be about to change.
-Well, thank you anyway.
-I'll be going now.
-Thanks, I'll be going now.
-No, I don't think so. 
-Well then, I must say I'm quite disappointed.{^n}{^n}I thought I sensed a hunger in you. But I was clearly mistaken.
-No harm done.
-I need to go now.
-There's no way I'm eating your stew.
-I think I'll be on my way.
+谢谢，我现在要走了。
+感觉好多了，谢谢。
+你好，陌生人。欢迎来到我们这个简陋的小村子。{^n}{^n}你看起来很饿。要吃一盘我给你做的菜么？我可是按照奥琳的顶级食谱自己做的。{^n}{^n}你可得吃饱点儿，别再饿着了。
+一碗煮菜听起来还不错。
+棒棒哒，我就觉得你会喜欢的。{^n}{^n}你看起来真是饿极了。
+口味有点重。
+好吧，我们最近都没有获得过鲜肉了。{^n}{^n}尽管状况看起来好像要改变似的。
+好吧，无论如何，谢谢你。
+我现在得走了。
+谢谢，我现在要走了。
+不，我可不这么认为。
+那好吧，我想说我很失望。{^n}{^n}我以为你饿了，但显然，我是错的。
+不碍事儿。
+我得走了。
+你做的菜我没真是没法吃。
+我得上路了。

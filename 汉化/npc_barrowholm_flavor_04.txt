@@ -1,60 +1,60 @@
-Markon
-Back off!{^n}{^n}You don't have any business being here.
-Relax, old man.
-I said, get away from me.{^n}{^n}I know what you've done. We don't want any more trouble from you.
-Ok, I'm leaving.
-Watch your back.
-I'm just passing through.
-Ah, now you know, now you have seen with your own eyes. Is he not magnificient?
-Ravager?
-Yes of course, Ravager.{^n}{^n}Who else might I be speaking of. {^n}{^n}You were there, I saw you. Scorv chose you to finalize the ritual. {^n}{^n}You spoke with the spirit. It must have been life changing.
+马尔肯
+退后点儿！{^n}{^n}这儿没你什么事。
+放松点，前辈。
+我说了，离我远点。{^n}{^n}我知道你做了些什么。别再给我们惹麻烦了。
+好吧，我走了。
+当心点儿。
+我只是路过而已。
+喔，你现在知道了吧，而且也亲眼看到了，难道他不伟大吗？
+破坏者？
+是的，当然是破坏者。{^n}{^n}除了他我还会说谁呢？{^n}{^n}你当时在那儿，我看到你了。斯科夫选择由你来完成仪式。{^n}{^n}你和灵魂沟通过，那足以改变你的一生。
 
-No, not really.
-You were spying on the ritual?
-I uh... well  yes.{^n}{^n}You caught me, you caught me red handed.{^n}{^n}How could I pass up such an opportunity?{^n}{^n}I'd have given my life for a chance to cast my gaze upon his magnificence.
+不，真的不是那样。
+你在监视着仪式？
+我，额...是的。{^n}{^n}你说对了，你说得很对。{^n}{^n}我怎么能错过这么一个机会呢？{^n}{^n}为了一睹他的壮丽辉煌，我愿意付出我的生命。
 
-Hey may yet take it. 
-Meh, I wasn't impressed.
-What? How dare you?{^n}{^n}I should hope he isn't listening right now. {^n}{^n}Great spirit... Ravager, I'm sure [[ms]he[fs]she] didn't mean it. I ask as your humble servant, please fogive this poor imbecile. 
-You just might be crazy.
-Still not impressed.
-I don't have time, sorry old man.
-The shaman returns. I knew you would bring great things to our little village.{^n}{^n}I feel that we are driven by the same things, you and I.
-And what's that?
-Hunger, my friend. The hunger that speaks to you, that calls to you in your sleep, that aches when you wake, that itches you when you find yourself lost and alone.{^n}{^n}The spirit watches you, it watches all who enter this place.{^n}{^n}Its power is real my friend. Listen when it speaks to you, give in to your hunger.
-Uh, ok. I need to go now.
-Thanks for the advice old man.
-I doubt it.
-I'm busy, I need to go.
-Welcome back. It seems Scorv was right to trust you. {^n}{^n}I sense the Great Spirit is very pleased by what you've done here.
-The spirit?
-Yes, the spirit that inhabits this place.{^n}{^n}The Wendigo, my friend. Have you paid no attention during your time here?{^n}{^n}It watches us, even now, feeding on our desires, on our hunger. It is truly glorious.
-You're insane.
-No my friend, I am one with it. Listen... it calls to you. Do you not feel it? {^n}{^n}The hunger drives us all. You must embrace it. You must feed on the flesh.
-Ok. I'm going to leave now. 
-Nope, I don't think so.
-I feel it.
-Ah, yes, of course.
-Ok. I'm going to leave now. 
-I need to get going.
-A shaman, no doubt an insatiable hunger has driven you to this place.
+也许吧。
+切，我没什么印象。
+什么？你怎么敢这么说？{^n}{^n}我希望他现在没有在听。{^n}{^n}伟大之魂...破坏者，我相信[[ms]他[fs]她]不是那个意思。作为您卑微的奴仆，我请求您原谅这个可怜的傻瓜。
+你可能疯了。
+还是没啥印象。
+我没时间，对不起，前辈。
+萨满归来，我就知道你会给我们这个小小的村子带来了不得的东西。{^n}{^n}我觉得我们被同样的事情所驱使着，你和我。
+然后呢，那是什么？
+渴望，我的朋友。向你诉说的渴望、唤你入眠的渴望，当你醒来时疼痛的渴望，当发现你自己迷失和孤独时发痒的渴望。{^n}{^n}灵魂注释着你，注释着所有进入此地的人。{^n}{^n}它的力量是真实的，我的朋友。当它对你说话时，倾听它，并屈服于你的渴望吧。
+啊，好的，我现在要走了。
+感谢你的建议，前辈。
+我有点怀疑它。
+我很忙，我要走了。
+欢迎回来，看来斯科夫相信你是对的。{^n}{^n}我感受到了伟大之魂对你在此地所做的事非常满意。
+灵魂？
+是的，一个栖息于此的灵魂。{^n}{^n}温迪戈，我的朋友。你在这儿的时候都没注意吗？{^n}{^n}它注视着我们，现在就在，它满足我们的欲望，我们的渴望，它真的很伟大。
+你疯了吧。
+不，我的朋友，我是它的信徒。听...它在叫你。感觉到了吗？{^n}{^n}饥渴驱使着我们所有人，你必须拥抱它，你必须用鲜肉喂饱它。
+好吧，我走了。
+不，我不这么认为。
+我感觉到了。
+噢，是的，当然。
+好吧，我走了。
+我得走了。
+一个萨满，毫无疑问是无尽的渴望让你来这儿的。
 
 
-What hunger?
-Oh, you seem confused.{^n}{^n}I meant the hunger for discovery, of course. You must be wondering about our wonderful village.
-Yes, tell me about Barrowholm.
-I must get going.
-I must get going.
-Ah, the newcomer. A fresh face is always welcome in Barrowholm.{^n}{^n}But what desire is it that brings you all the way out here?
-I have business with whoever is in charge.
-You'll be looking for Scorv Egdenor then.{^n}{^n}He should be somewhere about town. I'm sure he'll be interested to meet you. We don't get visitors out here very often.
+什么渴望？
+噢，你看起来很困惑。{^n}{^n}我当然是指发现的渴望。你一定对我们对我们这个奇妙的小村子充满了好奇。
+对的，跟我说说巴罗霍尔姆吧。
+我要走了。
+我要走了。
+喔，新来的。在巴罗霍尔姆，一张新鲜的面孔总是受欢迎的。{^n}{^n}但到底是什么样的欲望把你一路带到这儿来的呢？
+我找这里的头儿有事。
+那你一定是在找斯科夫·艾格德诺了。{^n}{^n}他应该在镇上的某个地方。我相信他会很高兴接见你的，访客在我们这儿可不常见。
 
-Thanks. I'll go find him.
-What can you tell me about Barrowholm?
-As much as any, I suspect. I've been here my entire life.{^n}{^n}This place is my home, always has been. I couldn't leave it if I wanted to.{^n}{^n}But there isn't much of interest that happens out in the bog, if you can believe it.{^n}{^n}Things got exciting briefly when Scorv Egdenor showed up some years back. Since then things have been good for our little town.
-Scorv just showed up?
-I couldn't tell you how long it's been but some time ago Scorv arrived here from beyond the bog.{^n}{^n}It was a desperate time for us, too many mouths to feed and too little food to go around.{^n}{^n}Scorv was a charmer. Everyone took to him right away; and who could blame us? He was a problem-solver. He generously stayed in Barrowholm and showed us what to do to survive. He promised us a better life. Better yet, he delivered upon that promise.
-Where can I find the person in charge?
-Thanks for the help. 
-That's interesting. I have to go.
-Sorry, I need to be going.
+谢谢，我会找到他的。
+关于巴罗霍尔姆，你有什么可以告诉我的？
+不会太多，我认为。我一生都在这儿。{^n}{^n}这儿是我的家，永远都是。即使我想离开它，恐怕也不行了。{^n}{^n}沼泽里没什么太多有趣的事情，如果你相信的话。{^n}{^n}几年之前，当斯科夫·艾格德诺出现时，一切才暂时变得振奋起来，从那之后我们这个小镇的状况就一直不错。
+斯科夫来过？
+我无法告诉你究竟有多长时间了，但一段时间之前斯科夫从沼泽来到了这儿。{^n}{^n}那段时间我们很绝望，很多人食不果腹，食物也无处可寻。{^n}{^n}斯科夫是个很有吸引力的人，每个人都马上依赖上了他，谁又能责怪我们呢？他善于解决问题，在巴罗霍尔姆，他非常慷慨并且教会了我们如何生存，他向我们承诺会过上更舒适、小康的生活，更好的是，如今，他兑现了他的诺言。
+我上哪儿能找到管事的人？
+谢谢。
+那很有趣，我要走了。
+对不起，我得走了。

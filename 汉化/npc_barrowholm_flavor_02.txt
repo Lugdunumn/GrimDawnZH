@@ -1,39 +1,39 @@
-Arina
-You shouldn't be here.
-I go wherever I want.
-I'm leaving.
-Welcome back. Seems you're not such a stranger anymore.{^n}{^n}Perhaps the hunger drives you to keep returning to us?
-Perhaps.
-I don't think so.
-I sense a hunger in you. You must be the shaman I've heard wisper of. {^n}{^n}Welcome to our humble village. I do hope you find it satisfactory.{^n}{^n}Tell me, do the spirits offer solace? Or have they been silent?
-What's going on with this place?
-Whatever do you mean?
+阿丽娜
+你不该来这儿的。
+我想去哪儿就去哪儿。
+我走了。
+欢迎回来，你看着不再那么陌生了。{^n}{^n}也许是饥饿驱使你返回的？
+也许吧。
+我不这么认为。
+我感觉到了你的饥饿。你一定就是那个我之前听人说过的萨满了。 {^n}{^n}欢迎来到我们简陋的小村子。我真的希望你能满意。{^n}{^n}告诉我，灵魂们有给我们慰藉吗？或者他们选择了沉默？
+这里发生什么事了？
+你到底是什么意思？
 
-Nevermind, what did you mean about the spirits?
-You know what, never mind.
-What spirits?
-Oh, I've just heard that shamans sometimes commune with spirits through totemic rituals.{^n}{^n}I thought that perhaps you had experienced such a ritual for yourself and had insight.
-Can't say I have.
-Oh, then you should try it for yourself.{^n}{^n}I hear it can be quite...enlightening.
+没关系，不过你说的灵魂是什么意思？
+没事儿的。
+什么灵魂？
+噢，我听说萨满们会通过图腾仪式和灵魂进行沟通。{^n}{^n}我觉得也许你以前也亲身经历过这样一种仪式并且看见了他们。
+我没有经历过。
+噢，那你真该亲身尝试一下。{^n}{^n}我听说这很有...启发性。
 
-I'll consider it.
-Not really my thing.
+我会考虑的。
+与我无关。
 
-None of your business.
-I'm sorry, I need to go.
-I need to go.
-You must be the strange new visitor. I've heard whispers of your arrival. {^n}{^n}What can I do for you?
-What's going on with this place?
-Whatever do you mean?
-This village, how is it in such good shape?
-Well stranger, we are very devoted.{^n}{^n}We work hard and our caring leader provides us with everything we need.
-You mean Scorv Egdenor?
-Yes...of course. We have, all of us, devoted ourselves to him.{^n}{^n}In return he gives us safety and satiates our hunger.{^n}{^n}You should eat before your leave. I'd hate to see you starve to death out there in the bog.{^n}{^n}Or worse, you could end up as someone's dinner.
-That sounded like a threat.
-Certainly not. Hunger is a powerful thing.{^n}{^n}You must feed it or it may drive you mad. It's a lesson the fleshcrazed of the bog certainly take to heart.
-I'll keep that in mind.
-Sounds like crazy talk to me.
-Thank you for the warning.
-I have to get going.
-You know what, never mind.
-Nothing, I need to go.
+与你无关。
+对不起，我得走了。
+我得走了。
+你一定就是那个新来的陌生人了，我听说过你的到来。{^n}{^n}我能为你做点什么？
+这里发生什么事了？
+你到底是什么意思？
+这个村子，怎么保持得这么好？
+陌生人，我们甘于奉献。{^n}{^n}我们工作很努力而且仁慈的领袖会给予我们想要的一切。
+你是说斯科夫·艾格德诺？
+是的，当然。我们所有人都投身于他。{^n}{^n}作为回报，他给予我们安全的庇护并让我们得以饱腹。{^n}{^n}你得吃点儿东西再走，我可不想看见你饿死在沼泽里。{^n}{^n}或者更糟糕，不幸地成为了别人的晚餐。
+听起来像在吓唬人。
+当然不是。饥饿可不是件鸡毛蒜皮的小事。{^n}{^n}你必须解决它，否则它会把你逼疯。这可是沼泽里的肉体疯狂者给我们的深刻教训。
+我会记住的。
+听起来真疯狂。
+谢谢你的提醒。
+我得赶紧走了。
+没事儿的。
+没什么，我得走了。

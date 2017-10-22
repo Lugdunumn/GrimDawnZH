@@ -17,7 +17,7 @@ tagGDX1WeaponSwordD102_Desc="没有一次背叛的感觉会比今天还深刻，
 tagGDX1WeaponSwordD105=悲痛
 tagGDX1WeaponSwordD106=火焰之心
 tagGDX1WeaponSwordD106_Desc="一个字母D被刻在浸血的剑柄上."
-tagGDX1WeaponSwordD107=贝尔戈蒂安的切刀
+tagGDX1WeaponSwordD107=贝尔戈斯安的切刀
 
 tagGDX1WeaponSwordF101=马尔茅斯切刀
 tagGDX1WeaponSwordF102=马尔茅斯之刃
@@ -168,8 +168,8 @@ tagGDX1WeaponCaster1hA104=救世主匕首
 tagGDX1WeaponCaster1hB101=巫登沼泽火焰纷争
 tagGDX1WeaponCaster1hB102=巫登沼泽寒冷纷争
 tagGDX1WeaponCaster1hB103=巫登沼泽风暴纷争
-tagGDX1WeaponCaster1hB104=升灵通道
-tagGDX1WeaponCaster1hB105=升灵根源
+tagGDX1WeaponCaster1hB104=升灵之引
+tagGDX1WeaponCaster1hB105=升灵之源
 tagGDX1WeaponCaster1hB106=霜腐魔杖
 tagGDX1WeaponCaster1hB107=死亡传播权杖
 
@@ -369,7 +369,7 @@ tagGDX1HeadD122=达加隆的面罩
 tagGDX1HeadD123=死亡守卫面罩
 tagGDX1HeadD124=预言者的面具
 tagGDX1HeadD125=黑暗之王的面罩
-tagGDX1HeadD126=贝尔戈蒂安的面具
+tagGDX1HeadD126=贝尔戈斯安的面具
 
 tagGDX1HeadF101=女巫团摧心魔面罩
 tagGDX1HeadF102=女巫团驯兽师的面罩
@@ -427,7 +427,7 @@ tagGDX1ShoulderD118=尤若布鲁克的斗篷
 tagGDX1ShoulderD119=阿拉加斯特的斗篷
 tagGDX1ShoulderD120=预言者的斗篷
 tagGDX1ShoulderD121=黑暗之王的斗篷
-tagGDX1ShoulderD122=贝尔戈蒂安的护肩
+tagGDX1ShoulderD122=贝尔戈斯安的护肩
 tagGDX1ShoulderD123=死亡守卫斗篷
 
 
@@ -490,7 +490,7 @@ tagGDX1TorsoD119=达加隆的铠甲
 tagGDX1TorsoD120=死亡守卫裹尸布
 tagGDX1TorsoD121=预言者的服饰
 tagGDX1TorsoD122=黑暗之王的服饰
-tagGDX1TorsoD123=贝尔戈蒂安的铠甲
+tagGDX1TorsoD123=贝尔戈斯安的铠甲
 
 tagGDX1TorsoF101=女巫团愤怒法衣
 tagGDX1TorsoF102=女巫团生命束缚者法衣
@@ -723,15 +723,15 @@ tagGDX1NecklaceD103_Desc="瓶子被来自温迪戈破坏者的血液装满."
 tagGDX1NecklaceD104=加达尔的污染红宝石
 tagGDX1NecklaceD105=行刑者的审判
 tagGDX1NecklaceD106=风暴先知蓝宝石
-tagGDX1NecklaceD113A=战争低语通道
-tagGDX1NecklaceD113B=毁灭低语通道
-tagGDX1NecklaceD113C=邪术低语通道
-tagGDX1NecklaceD113D=暗夜低语通道
-tagGDX1NecklaceD113E=奥术低语通道
-tagGDX1NecklaceD113F=野性低语通道
-tagGDX1NecklaceD113G=符文低语通道
-tagGDX1NecklaceD113H=不朽低语通道
-tagGDX1NecklaceD113_Desc="凝视的眼睛显示出一个画面，广袤而陌生土地上充满了怪物和恶魔，不同与凯恩世界的任何生物."
+tagGDX1NecklaceD113A=战争低语引导石
+tagGDX1NecklaceD113B=毁灭低语引导石
+tagGDX1NecklaceD113C=邪术低语引导石
+tagGDX1NecklaceD113D=暗夜低语引导石
+tagGDX1NecklaceD113E=奥术低语引导石
+tagGDX1NecklaceD113F=野性低语引导石
+tagGDX1NecklaceD113G=符文低语引导石
+tagGDX1NecklaceD113H=不朽低语引导石
+tagGDX1NecklaceD113_Desc="凝视的眼睛显示出一个画面，广袤而陌生土地上充满了怪物和恶魔，不同于凯恩世界的任何生物."
 tagGDX1NecklaceD114=永恒火焰碎片
 tagGDX1NecklaceD114_Desc="水晶里释放的火焰永远不会熄灭."
 tagGDX1NecklaceD115=迷失灵魂碎片
@@ -1025,7 +1025,7 @@ tagGDX1Blueprint_ArmorD164=设计图：神话 邪恶之血披肩
 tagGDX1Blueprint_ArmorD165=设计图：神话 阿兹拉格的恐惧战甲
 tagGDX1Blueprint_ArmorD166=设计图：神话 神铁锁子甲
 
-tagGDX1Blueprint_ArmorD167=设计图：贝尔戈蒂安的面具
+tagGDX1Blueprint_ArmorD167=设计图：贝尔戈斯安的面具
 
 tagGDX1Blueprint_AccessoryB101=设计图：灵巧徽章
 tagGDX1Blueprint_AccessoryB102=设计图：守望者徽章
@@ -1069,14 +1069,14 @@ tagGDX1Blueprint_AccessoryD117=设计图：神话 凯法·佐斯的雕纹戒指
 tagGDX1Blueprint_AccessoryD118=设计图：神话 时光动荡指环
 tagGDX1Blueprint_AccessoryD119=设计图：神话 无尽噬魂指环
 tagGDX1Blueprint_AccessoryD120=设计图：灾变之约
-tagGDX1Blueprint_AccessoryD121A=设计图：战争低语通道
-tagGDX1Blueprint_AccessoryD121B=设计图：毁灭低语通道
-tagGDX1Blueprint_AccessoryD121C=设计图：邪术低语通道
-tagGDX1Blueprint_AccessoryD121D=设计图：暗夜低语通道
-tagGDX1Blueprint_AccessoryD121E=设计图：奥术低语通道
-tagGDX1Blueprint_AccessoryD121F=设计图：野性低语通道
-tagGDX1Blueprint_AccessoryD121G=设计图：符文低语通道
-tagGDX1Blueprint_AccessoryD121H=设计图：不朽低语通道
+tagGDX1Blueprint_AccessoryD121A=设计图：战争低语引导石
+tagGDX1Blueprint_AccessoryD121B=设计图：毁灭低语引导石
+tagGDX1Blueprint_AccessoryD121C=设计图：邪术低语引导石
+tagGDX1Blueprint_AccessoryD121D=设计图：暗夜低语引导石
+tagGDX1Blueprint_AccessoryD121E=设计图：奥术低语引导石
+tagGDX1Blueprint_AccessoryD121F=设计图：野性低语引导石
+tagGDX1Blueprint_AccessoryD121G=设计图：符文低语引导石
+tagGDX1Blueprint_AccessoryD121H=设计图：不朽低语引导石
 
 tagGDX1Blueprint_AccessoryF101=设计图：虚灵闪电吊坠
 tagGDX1Blueprint_AccessoryF102=设计图：马尔茅斯之心
@@ -1456,7 +1456,7 @@ tagGDX1CompA101Name=力量之印
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，集中了造物主大量的奥术力量注入无敌的物理力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagGDX1CompA102Name=刀刃之印
-tagGDX1CompA102Desc="传说夜刃贝尔戈蒂安设计的印章，能放大刺客已经非常致命的攻击并促进目标流血。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，能放大刺客已经非常致命的攻击并促进目标流血。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagGDX1CompA103Name=天空之印
 tagGDX1CompA103Desc="奥术大师特洛赞第一个佩戴这枚印章，能够召唤天空的力量。"^w^n(用于所有类型的武器，盾牌和副手法器)
@@ -1644,8 +1644,8 @@ tagGDX1ItemSetD118Desc="星星守护着许多秘密，只说给那些足够勇�
 tagGDX1ItemSetD119Name=黑暗之王的礼物
 tagGDX1ItemSetD119Desc="冥神的礼物，送给那些拥抱他回归的凡人。"
 
-tagGDX1ItemSetD120Name=贝尔戈蒂安的屠戮
-tagGDX1ItemSetD120Desc="臭名昭著的夜刃大师曾经穿过的铠甲，贝尔戈蒂安，他肆意的屠杀和对鲜血的渴望甚至让他的雇主不安。"
+tagGDX1ItemSetD120Name=贝尔戈斯安的屠戮
+tagGDX1ItemSetD120Desc="臭名昭著的夜刃大师曾经穿过的铠甲，贝尔戈斯安，他肆意的屠杀和对鲜血的渴望甚至让他的雇主不安。"
 
 tagItemSetD001BName=审判者装甲
 tagItemSetD002BName=神圣平衡

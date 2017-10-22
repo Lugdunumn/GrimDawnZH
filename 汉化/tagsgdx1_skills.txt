@@ -472,8 +472,8 @@ tagGDX1ItemSkillD170Desc=通过纯粹的意志，你把魔法力量转为物理�
 tagGDX1ItemSkillD171Name=生命吸取者
 tagGDX1ItemSkillD171Desc=你对生命的渴望是永不满足的。甚至在你吸取敌人的生命精华时，附近的受害者也会遭受同样的命运。
 
-tagGDX1ItemSkillD172Name=贝尔戈蒂安打击
-tagGDX1ItemSkillD172Desc=用贝尔戈蒂安的愤怒打击你的敌人。当你使用默认武器攻击时，贝尔戈蒂安打击会提升你的每一次攻击强度。 ^o提高充能层数会提高加成效果。
+tagGDX1ItemSkillD172Name=贝尔戈斯安打击
+tagGDX1ItemSkillD172Desc=用贝尔戈斯安的愤怒打击你的敌人。当你使用默认武器攻击时，贝尔戈斯安打击会提升你的每一次攻击强度。 ^o提高充能层数会提高加成效果。
 
 tagGDX1ItemSkillD173Name=符文箭
 tagGDX1ItemSkillD173Desc=战斗武器和奥术特性巧妙的结合，造就了一种特别致命的组合。 ^o当你使用默认武器攻击时，霹雳符文会造成额外伤害。

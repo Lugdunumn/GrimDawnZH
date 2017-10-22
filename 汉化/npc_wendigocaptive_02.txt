@@ -1,18 +1,18 @@
-Maurene
-Have mercy! Help us escape!
-You're on your own.
-I'm sorry I can't help now.
-Have mercy! Help us escape!
-You'll be ok, I come from Barrowholm, nearby.
-Our prayers have been answered!{^n}{^n}Thank you, stranger.
-I can get you there via riftgate.
-A what?{^n}{^n}No, that's not going to work. We're not getting out of one fire to jump into another.
-I promise you, it's much safer than traversing the bog.
-*Maurene hesitates*{^n}{^n}Alright, anything to be anywhere but here.
-I'll see you in Barrowholm. (Open Riftgate)
-No time for hesitation. (Open Riftgate)
-Suit yourself.
-I'll be right back.
-I'll be right back.
-Have mercy! Help us escape!
-You're on your own.
+莫瑞恩
+可怜可怜我吧！帮助我们离开这！
+你只能靠你自己了。
+我很抱歉，现在不能帮你。
+可怜可怜我吧！帮助我们离开这！
+你会没事的，我从不远处的巴罗霍尔姆来。
+我们的祈求有回应了！{^n}{^n}谢谢你，陌生人。
+我可以通过传送门把你送过去。
+一个什么？{^n}{^n}不，这不会有用的。我们不会为此再冒一次险。
+我向你保证，这个比穿越沼泽安全多了。
+*莫瑞恩犹豫了一下*{^n}{^n}好吧，总比待在这个鬼地方强。
+我们在巴罗霍尔姆见。(打开传送门)
+没时间犹豫了。(打开传送门)
+随便你吧。
+我一会儿就回来。
+我一会儿就回来。
+可怜可怜我吧！帮助我们离开这！
+你只能靠你自己了。

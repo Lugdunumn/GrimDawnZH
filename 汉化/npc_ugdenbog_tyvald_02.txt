@@ -1,15 +1,14 @@
-Tyvald Hallows
-None will stand in our way now.
-Goodbye.
-Not even your efforts were enough to thwart us.{^n}{^n}Begone from this place before I end you.
-I'm leaving.
-It is a pity that not all share in your vision.{^n}{^n}I would have been the superior offering to the great Ravager!
-It is a shame.
-It pleases me that Ravager has returned, but I cannot help feel as if my own destiny was not realized.{^n}{^n}I wish to spill blood in his honor and feast upon the flesh of our fallen foes!
-What will you do now?
-Honestly, I do not know.{^n}{^n}I've been preparing for this moment for months and now that it's here, I feel so...empty...{^n}{^n}Not even the taste of flesh quells my unrest.
-Farewell.
-We must serve Ravager by other means.
-You will have to accept that.
-None will stand in our way now.
-Goodbye.
+泰瓦尔德·哈洛斯
+现在没有任何人能够阻挡我们。
+再见。
+你再怎么努力也不可能阻止我们了。{^n}{^n}在我结束你生命之前滚吧。
+我要离开了。
+非常遗憾你所看到的。{^n}{^n}我被选中为献祭给伟大破坏者降临的祭品！
+简直是个耻辱。
+尽管破坏者的回归是一件欣喜的事情，但是却不是选中我，命运简直是在向嘲笑我。{^n}{^n}我希望在他的荣耀光辉之下浴血奋斗打败我们敌人，并以敌人们的血肉举行盛宴。
+你会怎样做？
+实话说我并不知情。{^n}{^n}我已经为这一刻准备了数月之久，但是现在确是这样的结局，我觉得非常空虚... 
+我们必须全身心的服务破坏者。
+你将不得不接受这一切。
+现在没有任何人能够阻挡我们。
+再见。

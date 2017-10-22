@@ -1,23 +1,23 @@
-Tyvald Hallows
-It pleases me that Ravager has returned, but I cannot help feel as if my own destiny was not realized.{^n}{^n}I wish to spill blood in his honor and feast upon the flesh of our fallen foes!
-What will you do now?
-Honestly, I do not know.{^n}{^n}I've been preparing for this moment for months and now that it's here, I feel so...empty...{^n}{^n}Not even the taste of flesh quells my unrest.
-Farewell.
-We must serve Ravager by other means.
-You will have to accept that.
-All of our efforts, all of our sacrifices, have come to this moment.
-Getting out of here.
-Not even your efforts were enough to thwart us.{^n}{^n}Begone from this place before I end you.
-I'm leaving.
-None will stand in our way now.
-Goodbye.
-And so we arrive at this critical junction.{^n}{^n}I have been preparing for this moment and am ready to offer myself in the service of Ravager.{^n}{^n}Scorv informs me that it is Ravager's will that you decide who is the most worthy, so tell me, whom do you choose?
-Why should I choose you?
-I am by far the strongest within Barrowholm. None can hope to match my bloodlust or skill with a battleaxe.{^n}{^n}I personally hunted down countless fiends within Ugdenbog and fear nothing that Ravager would require of me. I will sacrifice everything for Ravager and spill an ocean of blood in his honor.
-I see.
-It might be you.
-It's going to be someone else.
-I still haven't decided.
-All of our efforts, all of our sacrifices, have come to this moment.{^n}{^n}Blood shall spill and we shall feast upon flesh!
-Good.
-Getting out of here.
+泰瓦尔德·哈洛斯
+尽管破坏者的回归是一件欣喜的事情，但是却不是选中我，命运简直是在向嘲笑我。{^n}{^n}我希望在他的荣耀光辉之下浴血奋斗打败我们敌人，并以敌人们的血肉举行盛宴！
+你会怎样做？
+实话说我并不知情。{^n}{^n}我已经为这一刻准备了数月之久，但是现在确是这样的结局，我觉得非常空虚... {^n}{^n}即使吞噬血肉也不能填满我的空虚欲望。
+再见。
+我们必须全身心的服务破坏者。
+你将不得不接受这一切。
+所有的牺牲与准备都是为了这一刻。
+离开这里。
+你再怎么努力也不可能阻止我们了。{^n}{^n}在我结束你生命之前滚吧。
+我要离开了。
+现在没有任何人能够阻挡我们。
+再见。
+我们已经来到了这个历史性的时刻。{^n}{^n}我已经等待这一刻很久了，我也能够永远的服务破坏者。{^n}{^n}斯科夫告诉我破坏者的意志是由你来选择最合适的那个人，那么告诉我吧，你的选择？ 
+我为什么要选择你？
+我是巴罗霍尔姆目前中最强的人。没有任何人敢面对杀性高涨的我与疯狂挥舞的双斧。{^n}{^n}尽管破坏者要求我不得有所行动但是我更热衷于铲除在巫登沼泽的那些恶魔。 我将会在破坏者的光荣之下献祭一切并且举办更大的鲜血盛宴。
+我明白了。
+决定是你。
+有可能是其他人。
+我还没有决定。
+所有的牺牲与准备都是为了这一刻。 .{^n}{^n}让我们来好好享受这血与肉的盛宴！
+好的。
+离开这里。

@@ -1,188 +1,187 @@
-Scorv Egdenor
-I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
-Farewell.
-Splendid work dealing with that coven meddler.{^n}{^n}I do hope you enjoy your stay.
-Farewell.
-So much anger, you really need to take an example from your allies.
-We're not finished.
-I do hope you enjoy your stay here.{^n}{^n}Barrowholm is a jewel amongst the mud.
-Farewell.
-Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
+斯科夫·艾格德诺
+我希望你在这里很开心。{^n}{^n}巴罗霍尔姆是这片土地上一颗明珠。
+再见。
+通过辛勤的工作来与这群女巫交易。{^n}{^n}我希望你在这里很开心。
+再见。
+简直令人愤怒， 你需要遵守你的合约。
+我们还没有结束。
+我希望你在这里很开心。{^n}{^n}巴罗霍尔姆是这片土地上一颗明珠。
+再见。
+欢迎，旅行者！{^n}{^n}我希望这一天你能有好运气！{^n}{^n}如果你需要休息，在此休息一会。
 
-Uh, thanks.
-Farewell.
-Have you dealt with that pest yet?
-Where would I find Larria?
-Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog, to the south of Barrowholm.
-I will deal with her.
-Not yet.
-I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society, outsider.{^n}{^n}However, not all are as willing to accept our master's visions for this region as you are.
-What is the problem?
-We've always had tense relations with the nearby gathering of witches, but so long as we stayed to our sides of the bog, we generally had no issues.{^n}{^n}In many ways, we are just as much outcasts as they are and so we have somewhat of a mutual understanding.{^n}{^n}But there is one among them, known as Larria the Hexxer, who does not respect our little truce. Unlike her sisters, she lives within Ugdenbog itself and from it she weaves eldritch magic in order to subdue our master's plans. In fact, it was her who damaged our totems.{^n}{^n}High time her meddling was ended. Find the den of this witch and...deal with her, for good.
-I will deal with Larria.
-I want no part in this.
-The master?
-Your master?
-Yes, our protector, our guiding star through the tumultuous chaos.{^n}{^n}Once we were lost and dying. The bog threatened to consume us. But the Wendigo spirit showed us another way.
-So what was the problem?
-The Wendigo spirit?
-The Wendigo spirit is ancient manifestation of life itself.{^n}{^n}It has protected us for generations, all for a little harmless worship.
-Harmless? Like those things attacking me out there?
-So what was the problem?
-I want nothing more to do with this.
-We'll talk later.
-Wendigo? You mean the things attacking me out there?
-You describe the uglier side of things, yes, but do not take the fleshcrazed as representation of the greater picture.{^n}{^n}They are but a symptom of a world that is sick. We are the true chosen of Ravager. We have been uplifted, as can you be.
-So what was the problem?
-I'm going to stop you.
-After the wards you've restored for us? Or the flesh you've hand-delivered? Or perhaps the ritual materials you helped secure within the mine?{^n}{^n}Whether you like it or not, you are in this now, and we are stronger than ever for it.{^n}{^n}Ravager's arrival is nearly upon us, and much of it is thanks to you.
-I may as well see it through...
-I'm pleased to hear it.
-So what was the problem?
-We'll talk later.
-I want nothing more to do with this.
-I want nothing more to do with this.
-We'll talk later.
-Wendigo? I want nothing to do with this.
-We'll talk later.
-We'll talk later.
-I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society.{^n}{^n}However, not all are as willing to accept our master's visions for this region as you are.
-What is the problem?
-We've always had tense relations with the nearby gathering of witches, but so long as we stayed to our sides of the bog, we generally had no issues.{^n}{^n}In many ways, we are just as much outcasts as they are and so we have somewhat of a mutual understanding.{^n}{^n}But there is one among them, known as Larria the Hexxer, who does not respect our little truce. Unlike her sisters, she lives within Ugdenbog itself and from it she weaves eldritch magic in order to subdue our master's plans. In fact, it was her who damaged our totems.{^n}{^n}High time her meddling was ended. Find the den of this witch and...deal with her, for good.
-I will deal with Larria.
-I want no part in this.
+嗯，感谢。
+再见。
+你除掉了那群有害之人么？
+我在能找到莱莉亚?
+不像她的姐妹一样隐居于她们隐蔽的小屋， 莱莉亚非常强烈的反抗我们。{^n}{^n}你可以在巴罗霍尔姆南方巫登沼泽中的某棵巨大的树附近找到她的书房.
+我来搞定她。。
+还没有。
+我十分高兴听到你已经融入了我们并找到了你的位置，外来者。{^n}{^n}在这块地区也并不是所有人如同你一般能够接受我们主人的梦想。
+所以这个问题是什么？
+我们始终与女巫聚会有着紧迫的关系, 但是我们呆在我们自己的地盘上，所以大家还算相安无事。{^n}{^n}从某些方面来说，我们都是被排挤的人因此我们在一定程度上甚至能够相互理解。{^n}{^n}但在她们之中有一个反抗的人，它就是就是妖术师莱莉亚， 从不接受我们的善意。 和她的姐妹完全不同，她独自一人居住于巫登沼泽并且使用她可怕的魔法来阻碍我们主人的计划。就是她毁坏了我们的图腾。{^n}{^n}她的破坏行为早就应该被终止了。找到她的巢穴并且干掉她，看在老天的份上。
+我会解决莱莉亚的。
+我并不想参与这件事情。
+那个怪物？
+你们的主人？
+当然，我们的保护者，从无序的混沌之中给我们指引。{^n}{^n}一旦我们迷路就会走向死亡。而且这片沼泽威胁我们的生存。但是温迪戈之魂给我们指明了道路。
+那这个问题是什么？
+温迪戈之魂?
+温迪戈之魂对我们来说是古老的神明。{^n}{^n}它给于我们一代又一代的保护， 仅仅只需要些许的祭品。
+些许？就像在那里攻击我一样？
+所以这个问题是什么？
+对于这件事我不想再节外生枝。
+我们稍后再谈。
+温迪戈? 你是指那个袭击我的东西？
+仅仅是因为你看到它的恶的一面，不要因为血肉的盛宴来夸张带来巨大的不安。 {^n}{^n}他们虽是如此病态但是是这个世界本来就存在的 。投身于破坏者是我们做出的正确抉择。你也将如同我们一样被选召。
+所以这个问题是什么？
+我要阻止你。
+不论是在你帮我们重建这个实验室之后，或者这些你亲手带回来的血肉，又或是你帮我取回来的仪式所需的材料。{^n}{^n}无论你是否喜欢这样，你已经加入了且帮助了我们，而且我们比以前都更加的强大。{^n}{^n}破坏者降临的日期马上就要来到了，这之中许多功劳都要归功于你。
+不如看看最终的结果...
+我很高兴听到这个。
+所以这个问题是什么？
+我们稍后再谈。
+对于这件事我不想再节外生枝。
+对于这件事我不想再节外生枝。
+我们稍后再谈。
+温迪戈? 我不想与这个与任何交际。
+我们稍后再谈。
+我们稍后再谈。
+我十分高兴听到你已经融入了我们并找到了你的位置，外来者。{^n}{^n}在这块地区也并不是所有人如同你一般能够接受我们主人的梦想。
+所以这个问题是什么？
+我们始终与女巫聚会有着紧迫的关系, 但是我们呆在我们自己的地盘上，所以大家还算相安无事。{^n}{^n}从某些方面来说，我们都是被排挤的人因此我们在一定程度上甚至能够相互理解。{^n}{^n}但在她们之中有一个反抗的人，它就是就是妖术师莱莉亚， 从不接受我们的善意。 和她的姐妹完全不同，她独自一人居住于巫登沼泽并且使用她可怕的魔法来阻碍我们主人的计划。就是她毁坏了我们的图腾。{^n}{^n}她的破坏行为早就应该被终止了。找到她的巢穴并且干掉她，看在老天的份上。
+我会解决莱莉亚。
+我并不想参与这件事情。
 
-We'll talk later.
-I am thoroughly pleased to hear that you've been mingling among our people and finding a place for yourself in our little society.{^n}{^n}If you can ever find it in yourself to help us further, Tyvald and Jordyth could surely use your assistance.
-We'll talk later.
-I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
-Farewell.
-I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}I hope that despicable fetish fulfills whatever purpose you needed it for.
-Farewell.
-I am so pleased that we could come to an understanding here rather than resorting to needless bickering.{^n}{^n}As promised, my stash is open to you. You are welcome to take the fetish.
-Anything else I can do to help?
+我们稍后再谈。
+我十分高兴听到你已经融入了我们并找到了你的位置。{^n}{^n}如果你能做到并且在未来时日帮助我们，泰瓦尔德和乔迪什想必非常乐意接受你的帮助。
+我们稍后再谈。
+我很高兴我们能有统一的认识而不是无意义的争吵。{^n}{^n}愿卑鄙的神像能够满足你所祈求。
+再见。
+我很高兴我们能有统一的认识而不是无意义的争吵。{^n}{^n}愿卑鄙的神像能够满足你所祈求。
+再见。
+我很高兴我们能有统一的认识而不是无意义的争吵。{^n}{^n}正如我所承诺的 ，我的储物所已经对你开放。非常欢迎你带走这个神像。
+我能帮助你什么嘛？
 
-But of course. Speak to my friends Tyvald and Jordyth if you have not already.{^n}{^n}Or perhaps eliminate some foul Chthonic spawns that plague our world.
-Why Chthonians?
-They are a threat...to us all!
-Fair enough.
-Farewell.
-Thank you.
-Is there something you need?
-So how can I help?
-Speak to Tyvald or Jordyth. Both if you're feeling generous.{^n}{^n}Help us and we will help you.
-Alright.
-Farewell.
-You strike me as a violent person.{^n}{^n}But I want you to know that despite any past transgressions, you are always welcome here.
-I had my reasons.
-*Scorv sighs*{^n}{^n}Very well, shall this dance of blood begin anew then?
-This village is finished. (Remain Hostile)
-I need to think this through.
-You're right, we can be friends.
-I'm pleased to hear it.{^n}{^n}We shall welcome you as a friend, but everything that has transpired before this moment will be forgotten.{^n}{^n}(Warning: selecting to be allies with Barrowholm will reset your Faction Reputation with them)
-Yes, let us be friends. (Reset Faction to Friendly)
-Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
-I will speak to them.
-On second thought...
-This village is finished. (Remain Hostile)
-I need to think this through.
-You strike me as somebody with an open mind.{^n}{^n}Tell me, shall we be friends?
-I think we can help each other. (Remain Friendly)
-Alright then. If you're looking for something, then it is only fair that you do something for us in return.{^n}{^n}Speak to my good friends Tyvald and Jordyth. Help them out with anything they require.{^n}{^n}Then I shall open my stash here and give you what you seek.
-I will speak to them.
-I'm not sure I can keep helping you.
-That is rather disappointing.{^n}{^n}Must we truly bicker over a misunderstanding?{^n}{^n}(Warning: selecting to be hostile with Barrowholm will reset your Faction Reputation with them)
-On second thought...
-This village is finished. (Reset Faction to Hostile)
-I need to think this through.
-Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
-I'm looking for the Ugdenbog Fetish.
-Cutting right through the formalities then?{^n}{^n}And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
-Sure, let's help each other out. (Friendly with Barrowholm)
-I'm glad you agree.{^n}{^n}It's true, we do have this relic, and it can be yours in exchange for some trivial assistance; things I am sure you will have no trouble undertaking.{^n}{^n}Speak to my friends Tyvald and Jordyth. Once I've heard back from them, I shall give you what you seek.
-I will speak to them.
-Why do you need it?
-Why do you?{^n}{^n}But frankly it comes down to reality. We live in a cruel world where many simply take what they want without any considerations for others.{^n}{^n}I see this as an opportunity for us to work together. A mutual gain.
-
-
-I'll be back.
+当然。如果你还没有准备好就找我的伙伴泰瓦尔德和乔迪什谈话吧。{^n}{^n}或许应该消除那些给我们的世界带来瘟疫的恶灵们。
+因为它对我们所有人来说是一个威胁！
+有道理。
+再见。
+谢谢你。
+我这里有什么你所需求的？
+所以我怎样才能帮助你？
+同泰瓦尔德或者乔迪什交谈吧。除非你愿意慷慨的帮我们解决。{^n}{^n}帮助我们解决的话我们也会帮助你的。
+好的
+再见。
+你就如同一个暴徒一样攻击了我。{^n}{^n}尽管你原先有犯下过罪行，但是依然欢迎你来这里。
+我有我自己的理由。
+*斯科夫的低语*{^n}{^n}很好， 我们要开始新的血之盛宴么？
+这座城镇已经完蛋了。(敌意的态度)
+我需要好好考虑一下。我需要好好考虑一下。
+你是对的，我们能够成为朋友。
+我很高兴听到这个消息。{^n}{^n}我们依然可以成为朋友，往日的恩怨在此之后都会被遗忘。{^n}{^n}(提示: 选择加入巴罗霍尔姆将会重置你的阵营声望)
+让我们成为朋友吧。(成为友好阵营)
+好了。如果你想得到某件东西，你只能够通过你做出的贡献来获取回报。{^n}{^n}同泰瓦尔德或者乔迪什交谈吧。解决他们所提出的任务。{^n}{^n}我将向你开放我的收藏并且让你获取所需。
+我会和他们交谈的。
+让我思考一会...
+这座城镇已经完蛋了。(敌意的态度)
+我需要好好考虑一下。
+你攻击了我却还如此虚情假意。{^n}{^n}告诉我，我们能够成为朋友吗？
+我认为我们能够互相帮助。 (友好的态度)
+好了。如果你想得到某件东西，你只能够通过你做出的贡献来获取回报。{^n}{^n}同泰瓦尔德或者乔迪什交谈吧。解决他们所提出的任务。{^n}{^n}我将向你开放我的收藏并且让你获取所需。
+我会和他们交谈的。
+我不能确定我能够继续帮你。
+这真是令人相当失望。{^n}{^n}我们当真要背道而驰？{^n}{^n}(提示:选择加入与巴罗霍尔姆敌对将会重置你的阵营声望)
+让我思考一会...
+这座城镇已经完蛋了。(与该阵营敌对)
+我需要好好考虑一下。
+欢迎，旅行者！{^n}{^n}我希望这一天你能有好运气！{^n}{^n}如果你需要休息，在此休息一会。
+我在寻找巫登沼泽的神像.
+你能做出正确的选择么？{^n}{^n}你是在觊觎我们的财产，我们为什么要交给你？{^n}{^n}恐怕你想从我们这里索取什么的话，就必须为我们付出。
+当然，让我们互相帮助。(与巴罗霍尔姆交好)
+我十分高兴你的选择。{^n}{^n}当然，我们有这个遗物，作为交换你要为我们做一些事情; 一些对你来说毫无难度的任务。{^n}{^n}同泰瓦尔德或者乔迪什交谈吧。一但我从他们那里得到回信，我将给你想要的。
+我会和他们交谈的。
+你为什么需要它？
+为什么是你？{^n}{^n}坦白说这都是现今生活造成的。这个残酷的世界里我们可以尽情夺取所需而且不用顾虑他人。{^n}{^n}这将是我们合作的契机。一个新的局面。
 
 
-
-I'll be back.
-I don't have time for games. Hand over the Ugdenbog Fetish.
-Pardon me? Are you making threats?{^n}{^n}We do not take kindly to that here.
-I don't have time for this.
-I feel like you're making a brash decision from which there is no turning back.{^n}{^n}Think this through and perhaps we can work something out.
-Alright, can I please have the Ugdenbog Fetish?
-And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
+我会回来的。
 
 
 
-
-I'll be back.
-This village is finished. (Hostile with Barrowholm)
-I'll be back.
-
-
-
-I'm taking what I want. (Hostile with Barrowholm)
-I'll be back.
-There is something fishy happening here and I know it.
-I don't know what you are implying, but my patience is wearing thin, as is your welcome.{^n}{^n}Can we discuss matters with a degree of civility? Or must we resort to...other means?
-This village hides great evil.
-A matter of perspective, I would say.{^n}{^n}I can tell by the way you carry yourself that you've seen a fair share of combat. Tell me, to all those you've slain, are you not the great evil?{^n}{^n}If that's how you plan to go about it, I suggest you turn around now and leave us in peace.
-
-I'm going to end this. (Hostile with Barrowholm)
-I need to think about all this.
-Perhaps I can look past all this.
-That's much better. We can get much further with words than with barbs.{^n}{^n}Now, is there a reason you are here?
-I'm looking for the Ugdenbog Fetish.
-And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
-
-
-I'll be back.
-I need to think about all this.
-I need to think about all this.
-Something feels off about this place...
-I'm not sure what you're implying, traveler.{^n}{^n}Paranoia, perhaps? It is understandable given how things are these days.
-I'm looking for the Ugdenbog Fetish.
-And if it so happens that we have in our possession this thing you seek, why should we just hand it over?{^n}{^n}I'm afraid if you want something from us, then we are going to need something from you.
-
-
-
-I'll be back.
-I'm putting a stop to this.
-I'm not sure what it is you think you are putting a stop to, but I am certain that we can resolve this misunderstanding through less violent means.{^n}{^n}Please reconsider before somebody gets hurt.
-
-This village is finished. (Hostile with Barrowholm)
-I'll be back.
-I heard some noises from the cellar.
-Ah, the meat cellar.{^n}{^n}We were very fortunate to have found a cow roaming the wilderness nearby. It's a miracle she survived so long out there or even wandered so far off from the north.{^n}{^n}What you heard was our butcher getting started on his grisly task, nothing more.
+我会回来的。
+我没有时间浪费在这游戏了。交出巫登沼泽的神像.
+宽恕我？你是在威胁我吗？{^n}{^n}我们并不乐于在此。
+我已经没有时间浪费了。
+我认为你做了一个轻率并且没有回报的决定。{^n}{^n}想想吧，或许我们一起能够解决这些。
+好吧，我能拿到巫登沼泽的神像?
+你是在觊觎我们的财产，我们为什么要交给你？{^n}{^n}恐怕你想从我们这里索取什么的话，就必须为我们付出。
 
 
 
 
-I need to think about all this.
-This talk of wendigos is unsettling.
-It's a fact of life around these parts. Ugdenbog is a dangerous place filled with equally dangerous beasts.{^n}{^n}We must take the appropriate precautions lest we become the prey of something vile.{^n}{^n}Surely you understand.
+我会回来的。
+这座城镇已经完蛋了。(与巴罗霍尔姆敌对)
+我会回来的。
+
+
+
+我只想要带走我要的的。(与巴罗霍尔姆敌对)
+我会回来的。
+这里一定有某些我猜的到的阴谋发生。
+我不知道你在暗示什么，但是我的耐性随着这你的到来已经没有了。{^n}{^n}我们是否能够心平气和的来讨论这件事情？或者我们必须求助于什么...
+在这座城市里藏着一个巨大的恶魔。
+我认为这一切取决于你。{^n}{^n}在你把自己打败之后我就告诉你。告诉我，你难道不是恶魔对于那些被你杀的人？{^n}{^n}如果这就是你想做的，那我劝你赶紧回头并且放弃争斗。
+
+我要终结这一切。 (与巴罗霍尔姆敌对)
+我需要思考这一切。
+或许我可以将这一切都当作没有发生。
+这样最好。现在我们能够好好的交流而不是争吵。{^n}{^n}所以这就是你在这里的理由？
+我在寻找巫登沼泽的神像.
+你是在觊觎我们的财产，我们为什么要交给你？{^n}{^n}恐怕你想从我们这里索取什么的话，就必须为我们付出。
+
+
+我会回来的。
+我需要思考这一切。
+我需要思考这一切。
+这个地方让我感觉有点不舒服...
+我不能明白你在暗示什么，旅行者{^n}{^n}偏执么？或许吧。但是从这一段时日所发生的事情来看是可以理解。
+我在寻找巫登沼泽的神像.
+你是在觊觎我们的财产，我们为什么要交给你？{^n}{^n}恐怕你想从我们这里索取什么的话，就必须为我们付出。
+
+
+
+我会回来的。
+我将结束这一切。
+我不能确定我们是否能够终结它，但是我相信我们能通过更少的暴力行为来解决这些问题。{^n}{^n}在有人受伤之前好好考虑一下吧。
+
+这座城镇已经完蛋了。(与巴罗霍尔姆敌对)
+我会回来的。
+我听到从酒窖传来一些声音。
+是那个储存肉的地窖。{^n}{^n}我们十分幸运的在附近荒野找到一个正在漫步的奶牛。她在这幸存下来这么久简直是个奇迹，甚至从北方安全的游荡这么远过来。{^n}{^n}你已经听说了我们的屠夫已经开始了他可怕的任务。
 
 
 
 
-I need to think about all this.
-This recipe seems..odd.
-I'm not sure what you mean.{^n}{^n}While I personally do not have a taste for particularly bloody cuts of meat, I do not fault somebody else for having such a preference.{^n}{^n}Is it really that hard to grasp that a place like this can still thrive in the current state of the world that you are so eager to find flaws?
+我需要思考这一切。
+背后讨论温迪戈令人不安。
+这是一个事实。巫登沼泽是一个充满危险的地方并且充斥着危险的野兽。{^n}{^n}我们必须采取一些防护措施来避免成为阴谋的牺牲品。{^n}{^n}你必须理解这些。
 
 
 
 
-I need to think about all this.
-I need to think about all this.
-I'll be back.
-Welcome, traveler!{^n}{^n}I hope the day finds you great fortune!{^n}{^n}Do stay for a bit if you need a rest.
-This village is immaculate!
-Thank you kindly.{^n}{^n}We do our best to maintain a little bit of normalcy in this crazy new world.
-Farewell.
-Uh, thanks.
-Farewell.
+我需要思考这一切。
+这个公式看起来有点奇怪...
+我不能确定你的意图。{^n}{^n}虽然我个人并不喜欢血肉，但是我并不厌恶那些以血肉为食的人。{^n}{^n}你如此着急找到这个裂隙的原因就是想寻找到现今世界几乎不可能存在的蓬勃生长的土地？
+
+
+
+
+我需要思考这一切。
+我需要思考这一切。
+我会回来的。
+欢迎你，旅行者！{^n}{^n}希望从今日起开启一个伟大的时代！{^n}{^n}如果你需要休息就在此停留吧。
+这个城镇是如此的令人着迷！
+十分感谢你。{^n}{^n}我们将尽量保持理智在这个疯狂的世界里。
+再见。
+谢谢。
+再见。

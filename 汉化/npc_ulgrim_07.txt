@@ -1,120 +1,120 @@
-Ulgrim
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
-I had lost all hope of ever seeing the sun again.{^n}{^n}Your arrival changed all that.{^n}{^n}Let's see if we can make it out of here together.
-Where should I go?
-Wherever we go in this pit of despair, you must take the lead. I do not know if we'll reach Malmouth as you hope, but we can try.{^n}{^n}Clear us a path and I shall join you through the shadows. Gods know there's plenty of those here.
-I'll go clear us a path.
-Can I ask you something?
-Oh, sure. We're only in the void.{^n}{^n}Perfect time to chat.
-What happened while you were in here?
-After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
+艾格瑞姆
+搞得像这个地方属于这个地方，而且你是谁还进攻这里？{^n}{^n}你有任何头绪我是谁么？
+艾格瑞姆坚持住，援助马上就到了。
+搞得像这个地方属于这个地方，而且你是谁还进攻这里？{^n}{^n}你有任何头绪我是谁么？
+艾格瑞姆坚持住，援助马上就到了。
+尽管时间在流逝但是我们已经失去了所有希望。{^n}{^n}你的到来改变了一切。{^n}{^n}让我们一起来走出这个困境。
+我接下来去哪里？
+需要你的带头我们才会进入这个幽暗的矿井。我并不知道我们是否能够到达马尔茅斯，但是我们必须尝试。{^n}{^n}鬼知道这里究竟有什么。清理出一条安全的路，我将我们同你穿越阴影。
+我会清理出一条路。
+我可以问你一些问题么？
+我们身处于虚空之中。{^n}{^n}或许应该聊一聊了。
+你曾经在这里经历了什么？
+自从你打败罗格霍瑞恩之后, 它被逼回到它诞生的地方，就是他占据我的那个地方。{^n}{^n}我不愿意接受这死亡的结局，因此我和罗格霍瑞恩开始了最后一次争斗。{^n}{^n}最后还是我胜利了，我的手逐渐恢复，但是我感觉到那个恶魔已经离开了，除非有更惨的情况即将到来。
 
-I'll go clear us a path.
-What happened in the Necropolis?
-As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
+我会清理出一条路。
+在墓地里究竟发生了什么？
+就如同我们所计划一样准备穿越巫师古墓，并中断他们正在进行的对冥灵的献祭仪式。{^n}{^n}但是已经太迟了罗格霍瑞恩已经再次被唤醒。 {^n}{^n}你来迟了一点，那个野兽已经融入了我。它汲取了所有的混乱将我拉进它的领域。{^n}{^n}在你破坏了罗格霍瑞恩的肉体之后，它不得不逃回了虚空，然而我恰好在那里。
 
-I'll go clear us a path.
-Are you going to be alright?
-Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
+我会清理出一条路。
+你好点了么？
+我们离开这里之前这些问题都会得到解决。{^n}{^n}我暂时还没有死亡，但这也是现在的问题所在。
 
-I'll go clear us a path.
-Nevermind.
-I'll clear us a path.
-Yes...yes, I think I remember now.{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
-We'll take the void to Malmouth.
-To Malmouth? Last I passed through there, it had fallen to the Aetherials, and it wasn't a pretty sight.{^n}{^n}But if you need to get there, then there must be a good reason. Though I can't say I understand why you risked coming for me if that's the priority, not that I don't appreciate it.
-We're cut off by Aetherfire. The only way is through the void.
-I see. Then the only way forward is deeper.{^n}{^n}I'm afraid I'm thoroughly spent and won't be much use to you in a fight. If we're going to get out of here, you will need to clear a path.{^n}{^n}Don't worry about me, I will join you through the shadows. Gods know there's plenty of those here.
-I will find us a way out.
-I need some time to think.
-I've already cleared a path forward.
-I would hate to have you for an enemy.{^n}{^n}I'll move ahead then. See you outside the void.
-I'll meet you there.
-Let's talk about what happened.
-Seeing as we're stuck here, I suppose we've got nowhere to be.{^n}{^n}What do you want to discuss?
+我会清理出一条路。
+不要介意。
+我会清理出一条路。
+嗯...，我想我想起来了。{^n}{^n}虚空...它已经影响了我的思维。每一次清醒过来都是那些恐怖的情景充斥在我的脑海。{^n}{^n}如果是你你会怎么做？
+我们将穿越虚空去马尔茅斯.
+去马尔茅斯? 这不是一个太好的想法，那里已经被虚灵所占领在上次我经过那里的时候。{^n}{^n}我相信你非要去那里一定有必须的理由。不是我不想感激你，只是我不知道为什么你要冒着这么大的风险来解救我。
+虚灵已经阻挡了我们的道路。唯一的办法就是穿越虚空。
+我明白了。唯一的路也是如此的艰难。{^n}{^n}恐怕我并不能在接下来的战斗中对你有所帮助。如果我们想离开这里，你需要清理出一条道路来。{^n}{^n}不要担心我，我将同你一起穿越阴影。鬼知道这里究竟有什么。
+我将找出一条出去的路。
+我需要一些时间思考。
+我已经清理出了一条路。
+我不想与你成为敌人。{^n}{^n}我第一个移动。 在虚空之外见。
+我会在那里与你相遇。
+让我们来讨论这里所发生的。
+看起来我们被困在了这里，我们已经无地可去了。{^n}{^n}你想讨论什么？
 
-What happened while you were in here?
-After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
-We'll escape the void to Malmouth.
+这里曾经发生了什么？
+在你打败罗格霍瑞恩之后, 它被迫逃回它的出生地，就是在那里它碰上了我。{^n}{^n}我并没有死亡和放弃，我和罗格霍瑞恩进行了最后的殊死搏斗。{^n}{^n}最后还是我胜利了，我的手逐渐恢复，但是我感觉到那个恶魔已经离开了，除非有更惨的情况即将到来。
+我们将离开虚空到达马尔茅斯。
 
-I'll be right back.
-What happened in the Necropolis?
-As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
-We'll escape the void to Malmouth.
+我马上回来。
+在墓地里究竟发生了什么？
+就如同我们所计划一样准备穿越巫师古墓，并中断他们正在进行的对冥灵的献祭仪式。{^n}{^n}但是已经太迟了罗格霍瑞恩已经再次被唤醒。{^n}{^n}你来迟了一点，那个野兽已经融入了我。它汲取了所有的混乱将我拉进它的领域。{^n}{^n}在你破坏了罗格霍瑞恩的肉体之后，它不得不逃回了虚空，然而我恰好在那里。
+我们将离开虚空到达马尔茅斯。
 
-I'll be right back.
-Are you going to be alright?
-Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
-We'll escape the void to Malmouth.
+我马上回来。
+你还好吗？
+我们离开这里之前这些问题都会得到解决。{^n}{^n}我暂时还没有死亡，但这也是现在的问题所在。
+我们将离开虚空到达马尔茅斯。
 
-I'll be right back.
-I'll be right back.
-Hang in there, Ulgrim. I'm coming right back.
-Ugh, my head. I yield, friend. I yield.{^n}{^n}I remember you now. We were together at the Necropolis when...{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
-
-
-Hang in there, Ulgrim. I'm coming right back.
-Is that you, mother?{^n}{^n}I'm sorry, but I'm afraid I won't make it to dinner.{^n}{^n}I'm just so tired...too...tired...
-Ulgrim, what happened to you?
-An unfortunate accident, my emperor. I'm afraid my left arm will take some time to heal, but it should not impede my duties.{^n}{^n}It is not a concern that should rise above the threats to the empire, however.
+我马上回来。
+我马上回来。
+艾格瑞姆坚持住，我马上就回来。
+啊，我的脑袋，我坚持不住了，朋友，我放弃了。{^n}{^n}我记起来了，我们曾经一起在大墓地里...{^n}{^n}虚空...它已经影响了我的思维。 每一次清醒过来都是那些恐怖的情景充斥在我的脑海。{^n}{^n}如果是你你会怎么做？
 
 
-The Loghorrean did that to you?
+艾格瑞姆坚持住，我马上就回来。
+妈妈，是你么？{^n}{^n}我很抱歉，我恐怕不能和你一起吃晚餐了。{^n}{^n}我只是太累了...太...累了...
+艾格瑞姆, 你怎么了？
+那是一个不幸的事故，我的皇帝。恐怕我的左臂还需要一段时间恢复，但是这并不阻碍我履行我的职责。{^n}{^n}无论如何，不能威胁到帝国的领土。
 
 
-Hang in there, Ulgrim. I'm coming right back.
-What happened here?
-The Loghorrean and I had ourselves our final dance.{^n}{^n}I mostly took the lead, but he proved to be a handful of a partner. Together we made a royal mess of this place.{^n}{^n}I'm sorry for the trouble. I'll happily pay the cleaning fees.
-So it's dead for good?
-Why, I certainly hope so.{^n}{^n}How many times do you have to kill a bastard before he stays down?
+是罗格霍瑞恩做的？ 
 
 
-
-Hang in there, Ulgrim. I'm coming right back.
+艾格瑞姆坚持住，我马上就回来。
+这里发生了什么？
+罗格霍瑞恩和我面对我们最后的命运。{^n}{^n}大多数时候我还是清醒的，但是他已经成为了我的一部分。让我们来闹个天翻地覆吧。{^n}{^n}造成这个麻烦感到十分抱歉。如果你能解决我很乐意支付报酬。
+所以死亡才是最好的结局？
+为什么，我当然希望如此。{^n}{^n}在他倒下之前你屠杀了多少那些该死的混蛋？
 
 
 
-Hang in there, Ulgrim. I'm coming right back.
-Snap out of it, Ulgrim.
-As you command.{^n}{^n}My emperor, your son lives, I made certain of it.{^n}{^n}He is safe in a secure location of which only I know.{^n}{^n}Your line will live on beyond this tragedy. I swear it.
-You have to listen to me, you're in trouble.
-Ah, trouble. She and I go way back. Waaay back.{^n}{^n}Did you know I slept with the Grand Inquisitor's wife once? She was a plump one, but feisty.
-Ulgrim, you're in the void.
-The void? That's ridiculous.{^n}{^n}Nothing living survives in the void.{^n}{^n}Are you an agent of Ch'thon here to lure me into a trap? I'll have you know I am well experienced in the art of murder.
+艾格瑞姆坚持住，我马上就回来。
 
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+
+艾格瑞姆坚持住，我马上就回来。
+振作起来，艾格瑞姆。
+如你所愿。{^n}{^n}我很确定你的儿子还活着，我的皇帝。{^n}{^n}他在一个只有我知道的安全的藏身之所。{^n}{^n}你的思想将会摆脱这一切痛苦的。我发誓。
+你必须听我说，你已经陷入麻烦了。
+啊，麻烦了。她和我有很深的交情。 {^n}{^n}你知道我有曾睡过大祭司阿尔多·崔格的妻子么？尽管她有点微胖，但是还是那样迷人。
+艾格瑞姆,你现在身处虚空.
+虚空? 这不可能。{^n}{^n}没有任何能在虚空生存下去。{^n}{^n}是你，冥神的代言人，你又想引诱我进入你的圈套？我会让你体会到死亡凋零的美丽。
 
 
-Hang in there, Ulgrim. I'm coming right back.
-I'm not the emperor, Ulgrim.
-Ulgrim, I haven't gone by that name in so many years...{^n}{^n}How do you know this name?
-I'm your friend, I'm here to help you.
-
-It was the name you gave me back in Burrwitch.
-Burrwitch? There's nobody living left in Burrwitch.{^n}{^n}You must be another memory, haunting me in my nightmares.{^n}{^n}Begone!
-You have to listen to me!
-The only one who would dare to command me was the emperor, and he lies dead in the capital. His blood remains on my hands to this day.{^n}{^n}I would not take this tone with me if I were you.
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+我讨厌这样做，我要改变你的想法。(攻击)
+艾格瑞姆坚持住，我马上就回来。
 
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
-Your emperor commands you to stand.
-Wait...my mind is clearing of some haze. You're not the emperor!{^n}{^n}You are an impostor. Why are you lying to me?{^n}{^n}Speak or meet my blade!
+艾格瑞姆坚持住，我马上就回来。
+我不是你的皇帝，艾格瑞姆。
+艾格瑞姆...，我已经很久没有听到这个名字了...{^n}{^n}你是怎么知道这个名字的？
+我是你的朋友，我来这里是来帮助你的。
 
-I'm sorry, Ulgrim, it's just me.
+是你在伯尔维治告诉了我你的名字。
+伯尔维治? 现在已经没有幸存者在伯尔维治了。{^n}{^n}你一定又是另一个心魔，又想来蛊惑我。{^n}{^n}滚开！
+你必须听我说！
+唯一能够指挥我的是我的皇帝，但是他已经在首都逝去了。那一天他的血顺着我的手流下去。{^n}{^n}如果我是你就不会用这种口吻说话。
+我讨厌这样做，我要改变你的想法。(攻击)
+艾格瑞姆坚持住，我马上就回来。
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+
+我讨厌这样做，我要改变你的想法。(攻击)
+艾格瑞姆坚持住，我马上就回来。
+你的皇帝命令你站起来。
+稍等...，我的记忆逐渐涌现起来了。你不是我的皇帝！!{^n}{^n}你是在冒名顶替。为什么要欺骗我？{^n}{^n}告诉我原因或者你选择吃我一刀！
+
+艾格瑞姆抱歉，只有我。
+
+我讨厌这样做，我要改变你的想法。(攻击)
+艾格瑞姆坚持住，我马上就回来。
 
 
-Hang in there, Ulgrim. I'm coming right back.
-Hang in there, Ulgrim. I'm coming right back.
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
+艾格瑞姆坚持住，我马上就回来。
+艾格瑞姆坚持住，我马上就回来。
+搞得像这个地方属于这个地方，而且你是谁还进攻这里？{^n}{^n}你有任何头绪我是谁么？
+艾格瑞姆坚持住，援助马上就到了。

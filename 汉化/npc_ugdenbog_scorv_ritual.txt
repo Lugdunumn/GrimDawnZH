@@ -1,198 +1,198 @@
-Scorv Egdenor
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
-It is a pity we could not find agreement, but as you can see, it is far too late for hostilities now.
-So you say.
-You have pleased Ravager with your actions, outsider.{^n}{^n}When this world is scoured of unbelievers and fiends, perhaps you too shall be among the chosen few who will rise up from the ashes.
-I have some questions.
-There are no secrets between us.{^n}{^n}*Scorv smiles widely*
-What is Ravager exactly?
-Ravager is as old as Cairn, the primal embodiment of hunger, of life and death; the vicious cycle of predator and prey.{^n}{^n}Wrongfully scorned by the beast god, Ravager was forced to hide within the shadows, but he has returned to us and with our worship he rivals even the gods.
-I have another question.
-I see.
-What is Ravager's plan?
-With his body remade, Ravager will rid this world of the Chthonic taint that threatens to steal the precious blood that is rightfully his.{^n}{^n}Then, all show bow before their god, or be extinguished.
-I have another question.
-That sounds horrific.
-As they should.
-What is next for Barrowholm?
-With our god manifested, we shall thrive unchallenged.{^n}{^n}None can hope to stand against us now. But we only shall go where Ravager commands.
-I have another question.
-I see.
-Forget it.
-How did you come to serve the Wendigo?
-Oh, that old tale.{^n}{^n}I was a traveler, much like yourself, but unlike you I was not one for battle. I had a partner back then, her name was Jessa. Together, we foolishly wandered into Ugdenbog and got lost. We roamed for days, sometimes circling back to where we were days before. The water was poison, the only food was more likely to eat me back than offer any sustenance. In short, we were doomed.{^n}{^n}I'm not sure who got the idea first, but we both eyed each other with a ravenous hunger fueled by desperation. I overpowered Jessa and plunged my knife into her heart. As her blood oozed out of the wound and she choked on her last words, I drank deep of the crimson. I ate well that day as tears poured down my face.{^n}{^n}The next night, my dreams were plagued by feverish visions. I was visited by a spirit. It smiled at me with a wide grin and offered solace in my misery. It said that my soul was forfeit for what I had done, but that need not be the end. It offered me an anguished tale of its banishment and how it desired only to return to the mortal realm. With my help, its aspirations could become reality. In return, it offered salvation from my cursed fate. I willingly agreed.{^n}{^n}On that day, I became the herald of Ravager.
-What about Barrowholm?
-Barrowholm was merely the start. Empowered by the Wendigo and guided by a new destiny, I set out to grow Ravager's following.{^n}{^n}He pointed me towards the nearby village, which had been struck by famine and was growing increasingly desperate. Separated from other towns by Ugdenbog, ts people made an easy target.
-So you tricked them?
-That is such a strong word.{^n}{^n}*Scorv smiles*{^n}{^n}I merely offered them a way out of their very difficult predicament. Barrowholm had never been more prosperous.
-I have another question.
-You disgust me.
-Sure, I guess.
-I have another question.
-Disturbing.
-I need to go.
-I have another question.
-Think I've heard enough.
-I need to go.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Er, great!
-Rather disgusting.
-Charming.
-I'll be leaving now.
-Farewell.
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
-A massive burden and honor has been placed upon you, outsider.{^n}{^n}Think about this carefully.
-I think I've decided.
-Who shall serve as the Ravager's flesh?
-I choose Tyvald Hallows.
-He is brash and prone to anger, but those emotions can serve Ravager well.{^n}{^n}I will proceed with the ceremony then?
-Wait, I've changed my mind.
-Who will it be then?
-Yes, bring forth the Ravager!
-Let me think about this.
-I choose Aurin Evelline.
-Yes, young Aurin is ambitious and her mind has already served Ravager well. May it continue to serve him in her death.{^n}{^n}I will proceed with the ceremony then?
+斯科夫·艾格德诺
+一个伟大的时代马上就要来临。
+我要离开这里。
+再见。
+我们不能达成协议真是可惜，但正如你所看到的，现在发动战争已经太晚了。
+正如你所言。
+外来者你应该感到幸运被破坏者操控。{^n}{^n}尽管这个世界已经充斥着无信者和魔鬼，但你就是那被选中的少数幸运儿之一。
+我有一些问题。
+我们俩之间没有任何秘密。{^n}{^n}*斯科夫大笑*
+破坏者究竟是什么来历?
+破坏者同世界一起诞生，代表人内心最深处的饥饿欲望就如同生老病死一样，来终止捕食这个恶性循环。{^n}{^n}但是由于被兽神排挤破坏者必须隐藏于阴影之中，但是他在我们的奉献之下已经回归并且同其他神在战斗。
+我有其他的问题。
+我明白了。
+那破坏者的计划是什么？
+随着破坏者降临的身体准备好，破坏者将净化这个世界的一切污秽并且取回所有一切属于他的东西。{^n}{^n}到了那时所有人要么臣服或者走向灭亡。
+我有其他的问题。
+听起来令人有点恐惧。
+达到他们所需求的。
+那么巴罗霍尔姆将会怎么样?
+当我们的神降临之后，我们将天下无敌。{^n}{^n}没有人敢于反抗我们，但是我们只会征服破坏者刀锋所向。
+我有其他的问题。
+我明白了。
+忘记它吧。
+你是怎么来到此地服侍温迪戈的？
+这已经是很久以前的事了。{^n}{^n}如同你一样我曾经也是个旅行者，但并不是像你一样孤身一人。那是我有一名同伴，她的名字叫做杰西. 我们误入了巫登沼泽并且迷路了。我们迷失了很多天，而且一直绕回我们原来经过的地方。水都是有毒的，只有食物还能吃给我们补充体力。但是我们注定难逃一死。{^n}{^n}我不敢肯定是不是我脑海中先出现了这个想法，极度绝望环境下的不可遏制的饥饿使我们的目光投向了彼此。我制服了杰西并且用我的刀捅向了杰西的心脏。在她伤口血流不止的同时她留下了最后的遗言，我喝下了那深红的血。尽管那天我吃的很饱但是眼泪从我的脸庞滑落。{^n}{^n}从隔天的夜晚我开始做噩梦。是它给了我慰藉在我痛苦的时候。他告诉我是因为我的所作所为导致灵魂缺少了一部分，而且这还不是最终的后果。它给我讲述了它被放逐的故事以及它最深的渴望就是回到人间。在我的帮助下它回归人间的渴望将能够被实现。作为回报它将解决我所遭受到的诅咒。我欣然同意了它的条件。{^n}{^n}在这一天我成为了破坏者在人间的代言。
+那关于巴罗霍尔姆了?
+巴罗霍尔姆仅仅是这一切开始的地方。在温迪戈赐予了新的命运并且在其指引之下，我开始号召大家来信仰破坏者。{^n}{^n}他指引我来到附近的村庄，那里已经因为饥荒而变得逐渐绝望的人们。因为巫登沼泽的阻碍这里与其他城镇所隔离, 而城镇的居民却不会有此困扰。
+所以你欺骗了他们？
+这是一个很严肃的指控。{^n}{^n}*斯科夫笑着*{^n}{^n}我只是给他们提供一个解决方法来摆脱他们目前的绝境。巴罗霍尔姆达到了前所未有的繁荣。
+我有其他的问题。
+你恶心到了我。
+好吧，我猜到了实际。
+我有其他的问题。
+令人不安的。
+我必须走了。
+我有其他的问题。
+我想我已经听够了。
+我必须走了。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
+嗯，非常好！
+简直令人恶心。
+多么的令人着迷。
+我现在就要走了。
+再见。
+一个伟大的时代马上就要来临。
+我要离开这里。
+再见。
+外来者，巨大的荣耀和责任降临到了你的身上。{^n}{^n}想清楚这一切。
+我认为我已经做出了选择我。
+谁将被选为破坏者降临的肉体？
+我选择泰瓦尔德·哈洛斯。
+他是一个情绪极其暴躁的人，但是这些情绪更加符合破坏者喜好。{^n}{^n}那我们就开始仪式吧？
+等一会，我要改变我的决定。
+接下来会变成什么？
+降临吧，破坏者！
+让我思考一下。
+我选择奥琳·伊夫琳。
+年轻的奥琳更有活力并且他已经做好了准备全身心奉献给破坏者。即使死亡也是更好的为破坏者服务。{^n}{^n}那我们就开始仪式吧？
 
-Yes, bring forth the Ravager!
-Let me think about this.
-I choose Jordyth Evelline.
-Ever devoted, Jordyth is Ravager's perhaps most zealous follower. A fitting conclusion to his prayers.{^n}{^n}I will proceed with the ceremony then?
+降临吧，破坏者！
+让我思考一下。
+我选择乔迪什·伊夫琳。
+论及信仰乔迪什是破坏者最疯狂的狂信徒。严格恪守他所祷告的信条。{^n}{^n}那我们就开始仪式吧？
 
-Yes, bring forth the Ravager!
-Let me think about this.
-Actualy, let me think about this more.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+降临吧，破坏者！
+让我思考一下。
+嗯，让我多想一下。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
 
-Er, great!
-Rather disgusting.
-Not yet. 
-Oh, it's you.{^n}{^n}I was hoping you would never return so that I may resist the urge to gut you with my blade.
-Why? What happened?
-It is Ravager! I do not know what I had done to scorn the Great One, but here, on the hour of his imminent return, the spirit demanded that the honor of selecting a chosen to serve as his flesh and blood go to you.{^n}{^n}To you! An outsider!{^n}{^n}The three have already come forward. The blood of one of them shall serve as the catalyst and the flesh will feed the wendigo.{^n}{^n}*Scorv sighs*{^n}{^n}It falls to you: will it be Aurin who performs the final rite? Or her brother Jordyth? Or perhaps Tyvald? Speak to the chosen and decide!
-I will carry out this honor.
-I am not comfortable with this.
-Does the chosen have to die?
-Though it pains me to lose an acolyte, it truly does, it is ultimately the will of Ravager that we all must serve.{^n}{^n}The Great One shall feast upon their flesh and through it he shall be born anew!
-I'll do it.
-I am not comfortable with this.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-So why do you want to gut me?
-Er, great!
-Rather disgusting.
-Don't try anything foolish.
-I'll just leave you alone then.
-Leave me now. I must tend to the wishes of my master.{^n}{^n}Come back when you're worthy.
-And what would that entail?
-To serve us is to serve Ravager. See to the bounty table, or slaughter the blood-thieving Chthonians.
-Very well.
+嗯，非常好！
+简直令人恶心。
+还没有。
+原来是你。{^n}{^n}我多么希望你永远不要回来，这样我就可以不必利剑相向。
+为什么？发生了什么？
+是破坏者！我真不知道是哪里触犯了他，在此地，在他即将降临的时刻，选择了你，将这份荣耀赐予了你，来选择承载他降临到这个世界上的躯体是谁。{^n}{^n}选择了你！一个外来者！{^n}{^n}他们三个已经准备好面对他们的命运。他们之中一人的血将会作为媒介而且肉体也将奉献给温迪戈。{^n}{^n}*斯科夫低语*{^n}{^n}都取决于你：是奥琳作为最终的献祭，还是她的兄弟乔迪什，又或许是泰瓦尔德？说出最终的决定吧！
+我十分荣幸得到这份荣耀。
+这个令我感到不舒服。
+这个抉择是不是注定有着死亡？
+失去作为代言人的身份令我感觉到痛苦，但是这是破坏者最终的决定我们都必须服从。{^n}{^n}神将享受他们的肉体并且将给这个世界带来新生！
+我来做吧。
+这个令我感到不舒服。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
+为什么你想要了解我？So why do you want to gut me?
+嗯，非常好！
+简直令人恶心。
+不要做任何愚蠢的事了。
+接下来我将只留下你一个人。
+放开我。 我必须服从我住人的意愿{^n}{^n}等你有价值的时候再回来吧。
+那么接下来将会发生什么了？
+为我们服务就是在服务破坏者。找到赏金桌并且干掉那些偷窃的恶灵们。
+很好。
 
-Very well.
-Mmm, the stench of rotting hearts follows you, outsider.{^n}{^n}Come, bring them to me.
-Here they are.
-Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
-Wait, what?
+很好。
+嗯，腐烂之心就是你要寻找的目标，外来者。{^n}{^n}去吧，把他们带回来给我。
+给你。
+很好，一旦破坏者复苏过来这些能够满足他的饥饿欲望。{^n}{^n}现在离开吧，外来者，在我想用这把把刀解剖你之前。
+等一会，你说什么？
 
-Don't try anything foolish.
-Um, alright, I'm leaving.
-Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
-You're welcome...
-Very well.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Here are the hearts.
-Er, great!
-Rather disgusting.
-Have you done as Ravager asked?
-Where should I look for the Ancients?
-You will find Handarroth roaming the wilds of Gloomwald. Ollivioth and Yuvolloth will likely be found among the poisonous fumes of Ugdenbog itself.{^n}{^n}Bring me their hearts. Do not keep Ravager waiting.
-Alright.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Er, great!
-Rather disgusting.
-Not yet.
-Ravager is pleased by your service to the cause, outsider.{^n}{^n}He wishes to reward you with a special hunt.
-Is that so?
-The eve of Ravager's return will soon be upon us and the wendigo's hunger shall be unquenchable. We cannot truly fulfill his ravenous needs, but we can at least appease them for a time.{^n}{^n}But not just any meal will do. We must have the hearts of three Wendigo Ancients known as Handarroth, Ollivioth and Yuvolloth. These creatures have long ago outlived their purpose and must now perform one final duty for Ravager.{^n}{^n}The Great Wendigo Spirit has called to them and drawn them out of hiding amidst Ugdenbog and Gloomwald so that you can perform the necessary rites. Bring me their hearts. Appease the Great Spirit!
-I will gather the hearts.
-I don't want to get involved.
-I've already gathered these hearts.
-Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
-Wait, what?
+不要做任何愚蠢的事了。
+嗯，好的，我马上离开。
+很好，一旦破坏者复苏过来这些能够满足他的饥饿欲望。{^n}{^n}现在离开吧，外来者。我必须要处理那些你所遗留下来的。
+欢迎你...
+很好。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
+给你心脏。
+嗯，非常好！
+简直令人恶心。
+你完成了破坏者的要求么？
+我在哪里能够找到那些古代温迪戈？
+你可以发现漫步于幽暗森林的汉达罗斯。你能够在巫登沼泽的瘴气区域找到奥利维斯和尤沃劳斯。{^n}{^n}赶紧带回他们的心脏，别让破坏者等太久。
+好的。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
+嗯，非常好！
+简直令人恶心。
+还没有。
+外来者，破坏者非常高兴你做出的贡献。{^n}{^n}如果你能够满足他的特殊要求将会给予你多余的奖励。
+真的如此么？
+破坏者回归的征兆已经显现，温迪戈的欲望也不用再被抑制。 我们可能难以完全满足他的欲望，但是至少能够暂时安抚一阵。{^n}{^n}但是并不是所有都有起到效果。三只古代温迪戈才是所需要的，它们分别是汉达罗斯、奥利维斯和尤沃劳斯。 这些生物已经活的够久了并且是时候为破坏者做出最后的贡献了。{^n}{^n}在最强大的温迪戈之魂召集之下，它们都离开了原先在巫登沼泽和幽暗森林之间的藏身处，这样你就能够取得献祭品。赶紧带回他们的心脏来安抚它！
+我会带来这些心脏的。
+我并不想卷入这件事情。
+我已经带回这些心脏。
+难以置信, 破坏者一定预料到了这些。{^n}{^n}好了这些将能够暂时满足苏醒之后破坏者的欲望了。{^n}{^n}现在离开吧，外来者，在我想用这把把刀解剖你之前。
+等一会，你说什么？
 
-Don't try anything foolish.
-Um, alright, I'm leaving.
-Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
-You're welcome...
-Very well.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-What was this about a hunt?
+不要做任何愚蠢的事了。
+嗯，好的，我马上离开。
+难以置信, 破坏者一定预料到了这些。{^n}{^n}好了这些至少能够暂时安抚一阵。{^n}{^n}现在离开吧，外来者。我必须要处理那些你所遗留下来的。
+欢迎你...
+很好。
+这是莱莉亚的尸体？
+嗯，是她，我想我们不会浪费一个如此完美的尸体？你为了打败她一定折腾了很久吧！{^n}{^n}*斯科夫大笑*{^n}{^n}破坏者将会享受她的心脏。
+这次猎杀是怎么一回事？
 
-Er, great!
-Rather disgusting.
-We'll speak of this later.
-Ravager will be pleased with all of your assistance, outsider, but there is always more you could do.
-What can I do to earn your trust?
-While the Aetherials and Chthonians are both our enemies, none disgust the Great One as the Chthonians do. Slaughter them by the hundreds and you shall earn the favor of Ravager.
+嗯，非常好！
+简直令人恶心。
+我们稍后讨论这个。
+外来者，破坏者非常高兴你做出的贡献，当然你在这里能够做出更多的贡献。
+我做什么才能够得到你的信任？
+虚灵和冥灵都是我们的敌人, 没有任何胆敢像那些冥灵一样大胆的与我们的神作对。消灭数百名的反对者将会增加你的好感度。
 
-Very well.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+很好。
+新的装备怎么样？
+靠阴谋算计的时日已经过去。今天是光荣的一天，我们收集全了温迪戈之魂所需并且迎接他的荣耀回归。
 
-I see.
+我明白了。
 
-I suppose so.
-Think I've already done too much.
-Have you dealt with that pest yet?
-Yes, she will never trouble anyone else again.
-Good, very good!{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
-Tell me more about this.
+希望如此。
+我想我已经准备好了。
+你解决了那个令人厌恶的人吗？
+当然，她将永远不会给任何人能够造成麻烦。
+很好！{^n}{^n}破坏者十分满意你做出的贡献。我会给你特殊的奖励。
+我想知道更多。
 
-Perhaps another time.
-Good, very good!{^n}{^n}Ravager will be pleased to hear of your service to the cause.
+或许下一次吧。
+很好！{^n}{^n}破坏者将十分高兴听到你解决这个问题。
 
-Very good.
-Yes...I took care of her for good. (Lie)
-Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
-Tell me more about this.
+很好。
+好的，我会好好对待她的...(谎言)
+所以你做到了...{^n}{^n}*斯科夫微笑着*{^n}{^n}破坏者十分满意你做出的贡献。我会给你特殊的奖励。
+我想知道更多。
 
-Perhaps another time.
-Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager will be interested to hear of this.
-Is there anything else you need?
+或许下一次吧。
+所以你做到了...{^n}{^n}*斯科夫微笑着*{^n}{^n}破坏者非常感兴趣听到这个。
+这里有什么你想要的么？
 
-Very good.
-I'll be off then.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+很好。
+我马上就离开。
+新的装备怎么样？
+靠阴谋算计的时日已经过去。今天是光荣的一天，我们收集全了温迪戈之魂所需并且迎接他的荣耀回归。
 
 
-This isn't what I signed up for.
-I see.
-Have you dealt with that pest yet?
-Where is the witch hiding again?
-Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog.
+这不是我所要求的。
+我明白了。
+你解决掉那些麻烦了么？
+那个女巫又藏到了哪里去了？
+不像她的姐妹们一样只是在那些偏僻的地方专心于她们的巫术，莱莉亚总是在很激烈地反抗我们。{^n}{^n}在巫登沼泽某棵巨大树的附近你能够找到她的巢穴。
 
-I will deal with her.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+我来解决她。
+新的装备怎么样？
+靠阴谋算计的时日已经过去。今天是光荣的一天，我们收集全了温迪戈之魂所需并且迎接他的荣耀回归。
 
-This isn't what I signed up for.
-I see.
-Not yet.
-What you see may come as a shock, but do not fear us.{^n}{^n}You have already proven loyal.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
-This isn't what I signed up for.
-I see.
+这并不是我所要求的。
+我明白了。
+还没有。
+你有可能看到一些令人震惊的东西，但是没有必要害怕我们。{^n}{^n}你已经被证实是忠于我们的了。
+新的装备怎么样？
+今天是光荣的一天，我们收集全了温迪戈之魂所需并且迎接他的荣耀回归。
+这并不是我所要求的。
+我明白了。
 
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
+一个伟大的时代马上就要来临。
+我要离开这里。
+再见。

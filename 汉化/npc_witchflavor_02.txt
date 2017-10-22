@@ -1,50 +1,50 @@
-Lagarria
-Hey there, you look like a tough one.{^n}{^n}It's nice to see a fellow [[ms]man[fs]woman] of action out here.
-What does that mean?
-Well, my sisters don't have a lot of respect for those of us who abstain from the arcane in favor of getting into the thick of it and coated in blood.{^n}{^n}I say a little magic is a good thing, but when it comes down to it nothing beats a big stick or a sharp blade.
-What are you doing up here?
-It's my job to keep Garradia safe, whether from humans, beasts or the occasional spirit.
+拉加瑞亚
+嘿，你看上去有点本事。{^n}{^n}我很高兴可以在这里看到一个给力[[ms]的男人[fs]的女人]。
+什么意思？
+恩，我的姐妹们其实不是很尊重我这种人，我们被奥术抛弃，身体粗壮涂满献血。{^n}{^n}我觉得会些魔法不是什么坏事，但是力量说明一切，不论是强大的魔咒或者锋利的刀锋。
+你现在在这干什么？
+我的责任是保护格蕾蒂亚的安全，不管威胁来自人类，野兽或是偶尔出现的灵魂。
 
-Keep up the good work.
-
-
-I see. Farewell.
-
-I'll be on my way.
-Hey there, can I help you?
-What are you doing up here?
-I'm Garradia's bogyguard. I go where she goes.{^n}{^n}You're not looking to cause any trouble are you?
-Certainly not.
-Good, because I'd hate to sully that pretty face of yours.
-And if I am looking for trouble? 
+努力工作吧。
 
 
-I'll take that as a compliment.
-And if I am?
-Then you've come to the right place.{^n}{^n}I could use a bit of a workout, but you don't seem like the troublemaking type.
-You're right, I'm not.
-Oh, I see.{^n}{^n}You're trying to rile me up. Well, congratulations now I'm ready for a fight.
+我明白了，再会。
+
+我这就去。
+嘿，我能帮你吗？
+你在这干什么？
+我是格蕾蒂亚的保镖。她去哪我就跟去哪。{^n}{^n}你不会是来找麻烦的吧？
+当然不是。
+很好，我其实是不想毁掉你那种漂亮的脸的。
+如果我是来找麻烦的呢？
 
 
-My work here is done.
-I'm sorry, I'll be going now.
-I'll be going.
-No, I don't think I am.
-What can you tell me about the coven?
-Well, I haven't been here long, so there isn't much I could tell you.{^n}{^n}Shortly following the Grim Dawn, I had a bad run in with some bastards looking for easy pickings. Unfortunately for them, I didn't qualify. Unfortunately for me, there were four of them and I didn't exactly make it out unscathed. Garradia found me alone and slowly dying to my injuries. She brought me here to tend to my wounds.{^n}{^n}When I was healed, she said I could stay here and train with the others. I owe her my life.{^n}I always had a penchant for violence, so I suppose my role just came naturally to me.
-A noble pursuit.
-Nobody in my life had ever shown me the kindness that Garradia has.{^n}{^n}There isn't anything I wouldn't do for her.
+我会把这当做一种赞美。
+我如果是呢？
+那么你就来对地方了。{^n}{^n}我可能要花点精力，但是你看上去不像是会惹麻烦的人。
+但是，我是的。
+好的。{^n}{^n}你想激怒我是吧，行，祝贺你，我已经准备好和你打一架了。
 
 
-Farewell.
+我在这的工作结束了。
+不好意思，我现在就去。
+我现在就去。
+不，我觉得不行。
+你能告诉我有关女巫团的事么？
+好吧，我在这而且没待多久，所以我知道的也不多。{^n}{^n}就在恐怖黎明发生了之后，我运气很不好被野兽抓到了。它们很不幸，我分量根本不足；但是我更不幸，四只野兽让我受了很重的伤才得以逃生。在我因为重伤而濒死之际，格蕾蒂亚找到了我。她把我带到这里并给我疗伤。{^n}{^n}当我伤愈之后，她说我可以留在这里并训练她的族人。我欠她一条命。{^n}我一直都有暴力倾向，所以我想是我的本性又复发了吧。
+真是神圣的工作。
+我这一生中，从没有一个人像格蕾蒂亚一样对我这么的好。{^n}{^n}我会为她做一切事情。
 
 
-Farewell.
-You seem friendlier than others I've spoken to.
-I don't immediately assume every stranger is an enemy, though a healthy bit of skepticism helps these days.{^n}{^n}Don't mistake my demeanor for softness though. Touch Garradia and you're a dead [[ms]man[fs]woman].
+再会。
 
 
-Fair enough.
-Just passing through.
-I'm sorry, but if you have business here you should speak with Garradia.
-I will, thank you.
+再会。
+你看上去比我交谈的其他人更友好一些。
+我不会认为每一个陌生人都是坏人，但是这些日子里面的确应该保持适当的怀疑。{^n}{^n}不要觉得我看上去很软弱。如果你胆敢触屏格蕾蒂亚，那你就会是死[[ms]人[fs]人]一个。
+
+
+很好。
+我就是路过。
+不好意思，如果你在这有什么事的话，请去找格蕾蒂亚。
+我会的，谢谢你。

@@ -1,14 +1,14 @@
-Annaria
-Thank you for saving us but this place gives me the creeps.{^n}{^n}I think coming here was a mistake.
-You seem a little upset.
-Do I? I guess I should try to sound more appreciative. {^n}{^n}The people here are very kind to me, but I just don't think I can handle it.{^n}{^n}This place is creepy enough during the day and at night you can hear the wailing of gods know what out in the bog. It's terrible.
-At least you're safe now.
-I suppose you're right.{^n}{^n}It's better than being stuck out there in a cage. Thank you again for saving us.
-You're right, it certainly is.
-I'm glad I could help. 
-Get over it, at least this place is safe.
-Wow, harsh.{^n}{^n}I suppose you're right. If you hadn't come along I might be something's dinner right now. 
-You're welcome.
-I'm glad I could help. 
-I don't know if I'll last long here, Ugdenbog gives me the chills.
-Farewell.
+安娜莉亚
+谢谢你救了我，但是这个地方让我毛骨悚然。{^n}{^n}或许来到此地是一个错误。
+你看上去不怎么开心。
+是吗？或许我的语气应该更感激一点。{^n}{^n}这里的人们对我都很好，但是我感觉我应付不来这一切。{^n}{^n}这个地方在白天就够可怕了，晚上在沼泽里面也会传来奇怪的声音。天知道有什么在沼泽里面，真是太可怕了。
+至少你现在安全了。
+或许你是对的。{^n}{^n}总比在外面被笼子困住好吧，还是谢谢你救我。
+你是对的，没错。
+很高兴我能帮助你。 
+别想那么多了，至少这里很安全。
+恩，是啊。{^n}{^n}你是对的，如果你没有出现，我应该已经成为某种晚餐了吧。 
+不用谢。
+很高兴我能帮助你。 
+我不知道我能不能坚持住待在这，巫登沼泽让我直冒冷汗。
+再会。

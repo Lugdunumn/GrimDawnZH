@@ -1,30 +1,30 @@
-Ulgrim
-Good work up there.{^n}{^n}One district at a time, we'll take this city back.
-Indeed.
-Be careful up there.{^n}{^n}We have no idea what else the Aetherials have brewed in their fortress.
-I'll be careful.
-It's good to have Creed here. He's got a mind for battlefield tactics.{^n}{^n}I hope these refugees cooperate. We don't have time for politics.
-Farewell.
-I knew the situation here was bad but...when your only option is a sewer...
-Gotta start somewhere.
-Good work with the bridge, but you shouldn't keep Creed waiting.
-I'll speak to him now.
-How are the slums treating you?
-What should I be doing?
-You need to make your way through the Candle District, a sewer passage leading there is not far.{^n}{^n}Use the bridge controls to open the way into the city for Creed and the Black Legion.{^n}
-On it.
-About how you'd expect.
-So this is what's left of the resistance then.{^n}{^n}We're going to need the Legion.{^n}{^n}Wait, did I just say that? Somer must have rubbed off on me.
-Wilfor mentioned bridge controls.
-Yes, that will suffice to let Creed's troops pour into the city proper.{^n}{^n}You will have to make your way through the Candle District, a more pleasant name for the city's slums. I don't expect it will be enjoyable.{^n}{^n}Carve your way through whatever horrors the Aetherials have waiting and bring down that bridge. In the meantime, I'll try to get what information I can out of these people, figure out what we're dealing with.
-I'll make sure the bridge is lowered.
-I need some time to think.
-The bridge is already down.
-Well, what are you waiting for then?{^n}{^n}If you've secured the way, then Creed will have brought in the troops. Find him outside the city and let him know we're down here.
-On it.
-I'll be back.
-So this is what's left of the resistance then.{^n}{^n}We're going to need the Legion.{^n}{^n}Wait, did I just say that? Somer must have rubbed off on me.
-Wilfor mentioned bridge controls.
+艾格瑞姆
+在这里好好工作吧。{^n}{^n}一个区域一个区域慢慢解放，我们最终将会夺回这个城市。
+的确。
+在这里小心点。{^n}{^n}我们对于虚灵从它们堡垒内源源不绝出现毫无办法。
+我会小心的。
+克里德有你在这里真好。他是一个很有战术头脑的人。 {^n}{^n}我希望那些难民能够老实合作。这要就不需要消耗精力来处理与他们的冲突。
+再见。
+我知道这选择非常坏但是这是唯一的选择...
+开始吧。
+关于桥的事情干得好，但是你不应该让克里德就等。
+我马上就通知他。
+贫民区怎么会对你们造成威胁？
+我应该做什么？
+你在这附近不远能找到一条可以避开烛光街区的下水道。{^n}{^n}使用桥梁控制器来打开桥让克里德和黑色军团进入城市。{^n}
+在这。
+正如你所期待的。
+所以这就是最后一个剩下的阻碍。{^n}{^n}我们需要黑色军团.{^n}{^n}等等，我只提到了这些，一定有什么被我遗忘了？
+威尔佛提到了桥梁控制器。
+如果你做到了这个将能够让克里德的军队更迅速进入城市。{^n}{^n}烛光街区一个相比称呼为贫民区更有意思的名字，你必须找到一条避开它的路。{^n}{^n}无论前方虚灵有着什么样可怕的准备你都一定要把桥肛下来。与此同时我也将尽全力的搜集所有关于我们敌人的消息。
+我确定桥已经放下来了。
+我需要一点时间思考。
+桥已经放下来了。
+你还在等待什么？{^n}{^n}如果你清理出了这条路，克里德将会带领军队进军。在城市外围找到他并且告诉我们的行动。
+在这。
+我马上回来。
+所以这就是最后一个剩下的阻碍{^n}{^n}我们需要黑色军团.{^n}{^n}等等，我只提到了这些，一定有什么被我遗忘了？
+威尔佛提到了桥梁控制器。 
 
-I knew the situation here was bad but...when your only option is a sewer...
-Gotta start somewhere.
+我知道这选择非常坏但是这是唯一的选择...
+开始吧。

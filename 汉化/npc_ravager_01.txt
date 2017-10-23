@@ -1,90 +1,92 @@
-Ravager
-What a delightful creature!{^n}{^n}Even I did not suspect what you were capable of.
-How are you still alive?
-You cannot end me any more than you could stop the skies or still the seas.{^n}{^n}I am Ravager, I am eternal.
-We'll see about that! (Attack)
-Sounds like a challenge.
-And never forget it.
-Don't underestimate me again.
-A feisty little mortal. Your rage amuses me.{^n}{^n}Have you come to be torn to shreds? Or have you learned your place?
+破坏者
+真是个令人愉悦的生物！我都没想到你这么厉害.
+你怎么会还活着？
+你阻止不了天空，静止不了海洋，也杀不了我。
+我们走着瞧！（攻击）
+听起来是个挑战。
+永远别忘了。
+不要再低估我的力量。
+狂躁的小人类。你的愤怒让我感到很开心。{^n}{^n}你来这儿是想被撕成碎片？还是你知道自己有几斤几两？
 
-I'm just getting started! (Misguidedly Attack)
-I'll be going
-What is this little thing that stands before me?
+我生气了！（假装攻击）
+我这就走
+什么小东西站在我面前？
 
-Um, I'll be going.
-What is this little thing that stands before me?{^n}{^n}Have you come to offer yourself to a god, shaman? Or perhaps you've already tasted of my gift and have come to thank me?
+额，我这就走。
+什么小东西站在我面前？{^n}{^n}你来这儿是把自己献祭给神？还是尝到了神的礼物跑来答谢我？
 
-Your powers are invaluable in combat.
-As they should be, little shaman.{^n}{^n}Drink deep of my power and bring yourself closer to your god.
+你的力量在战斗中的价值无法估量。
+当然啦，小萨满。{^n}{^n}深深地饮用我的力量，拉近你与神联系的纽带吧。
 
-I will.
-Farewell.
-I am wary of your gifts.
-I'd rather not discuss this.
-What is this little thing that stands before me?{^n}{^n}Have you come to offer yourself to a god?
-May I ask some questions?
-I will indulge your curiosities.
-What are you?
-I am the hunger, the giver and the taker.{^n}{^n}But none who receive my gift hunger ever again.{^n}{^n}You stand before a primal force of nature, made manifest.
+我会的。
+再见。
+我厌倦了你的礼物。
+我不想再说这个。
+什么小东西站在我面前？{^n}{^n}你是跑来将自己献祭给神的吗？
+我可以问你一些问题吗？
+我会满足你的好奇心的。
+你到底是什么？
+我是饥饿的化身，也是施恩者，索取者。{^n}{^n}不过得到我力量的人不会再感到饥饿。{^n}{^n}说白点，站在你面前的是自然的始原之魂。
 
-You do not impress me, I've faced a god and won.
+你不过如此，我曾经面对过一位神并且还战胜过他。
 
-I have another question.
-I...see.
-Can I receive your gift?
-You wish to be remade in my image? To offer your soul to the wendigo?{^n}{^n}An amusing request, but one I shall not grant you.{^n}{^n}You entertain me, human, but you reek of Aetherial corruption. It is only by the mercy of all you have done for my servants that I not tear you apart where you stand.
-I have another question.
-I am corrupted by the Aetherials?
-The primordial servant may have left your body, but it has also left its mark.{^n}{^n}You are tainted, broken. Not even worthy of standing before me.{^n}{^n}When this world is scoured of the dead gods and their pathetic servants, the likes of you shall be next.
+我有其他问题。
+我……知道了。
+我能得到你的礼物吗？
+你想让我重塑你？想将灵魂献祭给温迪戈？{^n}{^n}真是个有趣的提议，不过我不会给你的。{^n}{^n}你取悦了我，人类，不过你身上散发出虚灵的腐化。要不是你对我的仆从手下留情，我早把你大卸八块。
+我有其他问题。
+我被虚灵腐化了吗。
+那个始原的仆从也许脱离了你的身体，不过也在你身上留下了印记。{^n}{^n}你遭到了感染，支离破碎。你根本不配站在我面前。神和他们可悲的仆人从这个世界被清洗掉后，下一个就是你了。
 
 
-I have another question.
-I see.
-Um, I think I'll be going.
-I won't just stand here and take insults from you.
-Is that so? Does the worm wish to rise above the dirt and fly as a bird?{^n}{^n}Wishes do not change our station. Learn your place and appreciate that you still live.
+我有其他问题。
+我知道了。
+哦，我想我要走了。
+我不会站在这儿听你侮辱。
+是吗？驱虫希望从垃圾中爬出来向小鸟一样飞翔吗？希望改变不了你我的处境。你还是搞清楚自己的位置，感激你还能活着吧。
 
-I have another question.
-I'd rather not. (Misguidedly Attack)
-I'll leave you be, this time...
-I've defeated mightier than you for less.
-You speak of Mogdrogen? That pathetic creature has been in decline for centuries.{^n}{^n}He and I shall meet again, and this time he shall not have the upper hand.{^n}{^n}As for you, do not mock me with your empty threats, worm.
-I have another question.
+我有其他问题。
+我要是不呢。（假装攻击）
+这次……我不打扰你了。
+我轻松击败过比你强的人。
+你是说莫格卓根？那可悲家伙衰弱了几百年了。{^n}{^n}如果我再跟他交手，这次他可占不了任何便宜。{^n}{^n}至于你嘛，别用那空头威胁来嘲笑于我，蠕虫。
+我有其他问题。
 
-How's this for an empty threat? (Misguidedly Attack)
-I'll leave you be, this time...
-I see.
-What is your will?
-I shall begin by hunting down the one who scorned me. The beast god will suffer for his transgressions.{^n}{^n}Then we shall scour this world clean of dead gods and their pathetic servants.
-What has Mogdrogen done?
-At the peak of his power, the beast god strove to rule over nature as he saw fit.{^n}{^n}Others like myself rose to oppose him, many fell. My body was destroyed and my disembodied form forced to roam the veil for millennia.{^n}{^n}But I have returned, and my vengeance will be absolute.
-I have another question.
-Send that arrogant bastard my regards.
-I see.
-I have another question.
-Praise Ravager!
-I'll be going now.
-Did you see the Grim Dawn coming?
-If I told you that I sensed the great unrest stirring just beyond the veil for some time, will that make you feel better about all that has transpired?{^n}{^n}Humans amuse me, and some are even useful, but I see no purpose in altering your fate; except perhaps to deny my enemies your lives as a resource, but that can just as easily be achieved with your deaths.
-I have another question.
-That's not what I was hoping to hear.
-That's...troubling.
-You do not impress me, I've faced a god and won.
-You speak of Mogdrogen? That pathetic creature has been in decline for centuries.{^n}{^n}He and I shall meet again, and this time he shall not have the upper hand.
-I have another question.
- (Misguidedly Attack)
-I see.
-Why the hatred of Chthonians?
-They seek to claim blood that is rightfully mine!{^n}{^n}I shall feast upon the marrow of their bones and the blood they had gathered will briefly sate my endless hunger!
-I have another question.
-I see.
-Nevermind.
-Praise Ravager!
-I'll be going now.
-I kneel before no one.
-What is this little thing that stands before me?
-What are you?
-I am the hunger, the giver and the taker.{^n}{^n}But none who receive my gift hunger ever again.{^n}{^n}You have not yet come to understand, but you will.
-I...see.
-Um, I'll be going.
+尝尝这个是不是空头威胁？（假装攻击）
+这次……我就告辞啦
+我知道了。
+你想干什么？
+我首先要狩猎掉曾经蔑视过我的家伙。兽神会因他的逾矩而付出代价。{^n}{^n}然后我会清洗掉这个世界上所有的神和他们的可悲的奴仆。
+莫格卓根到底做过什么？
+在他全盛时期，这位兽神企图肆意统治自然界。{^n}{^n}有很多像我一样的生灵群起而反抗他，许多都战死了。我的肉体被摧毁，我缥缈的身体被迫在虚空漫游千年之久。{^n}{^n}不过我回来了，我复仇的火焰将无人可当。
+我有其他问题。
+带我向那傲慢的杂种问好。
+我知道了。
+我有其他问题。
+赞颂破坏者！
+我现在要走了。
+你遇见过恐怖黎明吗？
+我要是告诉你我有段时间察觉到过在虚空有一股很大的骚动，你是不是会对这发生的一切感觉好点儿？{^n}{^n}人类很能取悦我啊，有些甚至还有点用处，不过改变你的命运没有任何意义，除非用你来消灭我的敌人，不过你死了我不直接就少个敌人么。
+我有其他问题。
+这不是我想听的。
+这真是……麻烦啊。
+你不过如此，我面对过一位神并且还战胜过他。
+你是说莫格卓根？那可悲家伙衰弱了几百年了。{^n}{^n}如果我再跟他交手，这次他可占不了任何便宜。
+我有其他问题。
+（假装攻击）
+我知道了。
+为什么你这么恨冥煞？
+他们想夺走的鲜血是属于我的！{^n}{^n}我会榨干他们的骨髓，他们收集的鲜血会短暂地填补我永无止境的饥渴！
+我有其他问题。
+我知道了。
+没什么。
+赞颂破坏者！
+我要走了。
+我不会向任何人屈服。
+是什么小东西站在我面前？
+你倒是什么？
+我是饥饿的化身，也是施恩者，索取者。{^n}{^n}不过得到我力量的人不会再感到饥饿。{^n}{^n}你还不懂，不过你会的。
+我……知道了。
+嗯，我要走了。
+
+

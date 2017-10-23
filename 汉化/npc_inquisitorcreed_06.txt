@@ -1,53 +1,53 @@
-Inquisitor Creed
-Malmouth is a great victory for mankind, a symbol that we will not simply lie down and be conquered.
-What's our next move?
-We can't afford to underestimate our enemies. There is a real possibility that the Aetherials will retaliate in some way for this loss.{^n}{^n}We must be prepared. The first step will be to exterminate the remaining Aetherial presence and secure Malmouth against a possible attack.{^n}{^n}Between Fort Ikon and Malmouth, we now have major fortifications on both fronts, with access to the coastline and shipbuilding facilities.{^n}{^n}But every victory costs us lives, while the Aetherials are nigh limitless. Every move we make must be carefully planned.
-Agreed.
-The longer we wait, the more lives are lost.
-Korinia appears to be an Aetherial.
-Yes, Anasteria informed me of this. This development confounds me as I cannot possibly know its long-term implications.{^n}{^n}Are they truly our allies? Or is this an alliance of convenience? Or perhaps something else entirely.
+审判官克里德
+马尔茅斯是人类的重要胜利，象征着我们不是简单的倒下然后屈服。
+我们下一步是什么？
+我们不能去低估我们的对手。很有可能虚灵会对这次他们的损失进行报复。{^n}{^n}我们要做好准备。第一步我们首先要消灭马尔茅斯剩余的虚灵力量，保护这里不要再受到攻击。{^n}{^n}圣像堡和马尔茅斯，我们现在在前线拥有两座坚实的堡垒，并且靠近海岸，也有造船场。{^n}{^n}但是每一场的胜利，都付出了众多生命为代价，但是虚灵看上去确实无穷无尽的。我们计划的每一步都需要精打细算。
+同意。
+我们等得越久，死亡的人数就会更多。
+科瑞尼亚实际也是一个虚灵。
+是的，安娜斯特瑞娅告诉我这一点了。这个发现也混淆了我，我可能不能理解他背后的寓意。{^n}{^n}他们到底是值得信赖的盟友？或者只是值得利用才和我们结盟？或者根本就和我们想的不一样。 
 
-They've been helpful so far.
-I don't trust them.
-Farewell.
-The fighting ahead will be brutal, but we have to persevere.
-Onwards then.
-Tell me, what happened in the Fleshworks?
-The Master of Flesh is no more.
-*Creed nods his head*{^n}{^n}So it is finished then. With the demise of this fiend, a major pedestal in the Aetherial hierarchy crumbles. Their forces here will become rudderless, their collective will be scattered.{^n}{^n}Malmouth is a great victory for mankind. It will become a symbol of our resilience, that we are not done fighting for our right to exist.{^n}{^n}And we must keep on fighting, in the name of those who sacrificed their lives, for humanity itself. We will never submit!
+他们之前对我们帮助很大。
+我不信任他们。
+再见。
+面前的战斗会很残忍，但是我们还是要坚持。
+那么继续向前吧。
+告诉我，血肉加工厂里面发生了什么？
+血肉领主不复存在了。
+*克里德点了下头*{^n}{^n}所以现在就到此为止了。随着恶魔的消亡，已经一个巨大的虚灵根据地被摧毁。他们的力量将会群龙无首，而他们的聚集地也会被瓦解。{^n}{^n}马尔茅斯是人类的重要胜利，象征着我们的坚持，象征着我们没有放弃我们生存的权利。{^n}{^n}我们还要继续斗争，为了那些在战斗中牺牲的人，也为了人性和人类。我们不会投降的！
 
-Hear, hear!
-Steel yourself.{^n}{^n}We do not know what to expect within that living nightmare.
-Farewell.
-Ulgrim needs you at Crown Hill.{^n}{^n}Get back out there!
-I'll head there now.
-Is there anything you need?
-What do I need to do again?
-The gates to Crown Hill are on the northwestern end of the Steelcap District, just past the harbor. You will need to recover the explosives left behind by the resistance and combine them with my additive at the Crown Hill gates.{^n}{^n}Be careful with that stuff, it's very potent and unstable. Once you mix it in, get ready to run.
-I'm on it.
-I've misplaced your additive.
-Misplaced a highly unstable arcane powder? What could possibly go wrong?{^n}{^n}Here. Be careful with this stuff.
-Thank you.
-Farewell.
-It is nearly time to begin the assault on Crown Hill, while the Aetherials are still reeling from our recent attack.{^n}{^n}We need to discuss our next move.
-What is the plan?
-The resistance had attempted to breach the gates of Crown Hill before, but they were not adequately prepared. The remains of their fallen still litter the streets, along with the explosives they had crafted for the task.{^n}{^n}I've prepared a powder that should magnify the properties of their makeshift bomb dramatically, enough to pierce those steel gates and give us an opening.{^n}{^n}I need you to take this powder and recover the explosives from the failed mission. Combine them at the Crown Hill gates and blast the damned things open. Only then will we have any hope of breaching the Fleshworks and destroying the Master of Flesh.{^n}{^n}Once through, secure a foothold and report to Ulgrim, who will join you in the field.
-I will breach the gates.
-This will take some preparations.
-I've breached the gates already.
-Good work. Push forward into Crown Hill and secure a foothold.{^n}{^n}Ulgrim will join you once there.
-I'm on it.
-The way to Crown Hill is clear.
-Good work.{^n}{^n}Return to Crown Hill and assess the situation with Ulgrim.
-I'm on it.
+听啊！听啊！
+拿起你的武器。{^n}{^n}我们不知道在这个鲜活的噩梦背后有什么等待着我们。
+再见。
+艾格瑞姆在皇宫山丘需要你。{^n}{^n}快去那！
+我现在就去。
+你需要什么吗？
+能再跟我说一下我的任务吗？
+通往皇冠山丘的大门在钢帽区的西北角，经过这个避难所。你需要找到大门前面抵抗军留下的爆炸物然后在其中加入我的添加物。{^n}{^n}小心这个添加物，它非常强力而且不稳定，当你把他混入炸弹之后，一定要赶快远离那。
+我就去。
+我遗失了你的添加物。
+丢失了一个高不稳定性的奥术添加物？到底出了什么差错？{^n}{^n}拿着，这次小心一点。
+谢谢。
+再见。
+是时候去对皇冠山丘进行突击了，趁现在虚灵还没有从我们最近的攻击中缓过神来。{^n}{^n}我们需要讨论一下我们下一步的行动。
+计划是什么？
+抵抗军曾经也打算突破皇冠山丘的大门，但是他们当时准备还不够充分。他们残留的东西还留着那个街区，包括他们为大门坚硬外壳准备的爆破物。{^n}{^n}我准备了一种粉末，它可以极大的去提升这个爆破物的力量，使其足以贯彻钢铁的大门，然后让你通过。{^n}{^n}我需要你带着这个粉末，并重新激活之前遗留在那的爆破物。在皇宫山丘门口把他们混合在一起，然后把那个该死的大门炸开。只有这样我们才可能打开去血肉加工厂的缺口并消灭血肉领主。{^n}{^n}现在，确保一个落脚点，然后汇报给艾格瑞姆。他就会在那时候也加入战场。
+我会去破话大门。
+我需要一些时间去准备。
+我已经破坏了大门了。
+好样的。进入皇冠山丘，然后确保一个立足点。{^n}{^n}艾格瑞姆到时候会在那里加入你。
+我这就去。
+去往皇冠山丘的路已经清理出来了。
+很好。{^n}{^n}去皇冠山丘吧，去给艾格瑞姆提供帮助。
+我就去。
 
-What can we expect in Crown Hill?
-We know that it is the stronghold of Aetherial operations in the region. Within its walls is the center of the fleshy growth known as the Fleshworks, within which hides Theodin Marcell, the Master of Flesh.{^n}{^n}He is the mastermind behind the tragedies that befell Malmouth, Port Valbury and who knows where else. His destruction will surely disrupt Aetherial activities in the region and put a stop to whatever horrors he is preparing for humanity next.{^n}{^n}We cannot afford to fail to here.
-What was the plan again?
-I need some time to prepare.
-We'll speak of this soon.
-The outpost is ours, though it came with a cost.{^n}{^n}Those who lost their lives in the defense of mankind must never be forgotten.{^n}{^n}But we cannot let their sacrifices be in vain. We must push forward.
-What's our next move?
+我们在皇冠山丘会遇到什么？
+我们知道那里是虚灵控制这块区域的总基地。在那片城墙后面就是一片生长的血肉，我们也称那为血肉加工厂，血肉领主西奥丁·马塞尔也藏身在此处。{^n}{^n}他就是马尔茅斯，瓦伯利港和其他我们都不知道的区域沦陷悲剧背后的主脑。如果摧毁他肯定可以感染这一片地区虚灵的行为，也能终止他为人类准备的下一个噩梦。{^n}{^n}我们不能在这里失败。
+再说一遍，计划是什么？
+我需要一些时间去准备。
+我们稍后再说。
+外围地区已经被收复了，尽管我们付出了代价。{^n}{^n}我们不会忘记那些在保护人类生存中牺牲的人。{^n}{^n}但是我们也不能让他们白白牺牲。我们还要继续向前。
+下一步是什么？
 
-The fighting ahead will be brutal, but we have to persevere.
-Onwards then.
+面前的战斗会很残忍，但是我们还是要坚持。
+那么继续向前吧。

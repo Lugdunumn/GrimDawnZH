@@ -73,8 +73,8 @@ achGDX1022Desc=在血肉密室击杀西奥丁·马塞尔，血肉塑造者。
 achGDX1023Title=为倒下的人复仇
 achGDX1023Desc=在终极难度的血肉密室击杀西奥丁·马塞尔，血肉塑造者。
 
-achGDX1024Title=破坏
-achGDX1024Desc=击败一只破坏者，温迪戈之魂的表象。
+achGDX1024Title=掠夺
+achGDX1024Desc=击败一次掠夺者，温迪戈之魂的化身。
 
 achGDX1025Title=泥中的宝石
 achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。

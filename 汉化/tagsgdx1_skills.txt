@@ -266,7 +266,7 @@ tagGDX1ItemSkillD102Name=尸骨屏障
 tagGDX1ItemSkillD102Desc=亡灵仆从的尸骨在你身边形成一道屏障，保护你免受物理和死灵的伤害。
 
 tagGDX1ItemSkillD103Name=破坏之咬
-tagGDX1ItemSkillD103Desc=破坏者之咬能使任何敌人的意志衰竭，使他们枯萎并吸光所有生命精华。
+tagGDX1ItemSkillD103Desc=掠夺者之咬能使任何敌人的意志衰竭，使他们枯萎并吸光所有生命精华。
 
 tagGDX1ItemSkillD104Name=疯狂
 tagGDX1ItemSkillD104Desc=用斧头抨击敌人的灵魂，使他们陷入疯狂与绝望。
@@ -394,11 +394,11 @@ tagGDX1ItemSkillD144Desc=符文被刻在护甲上，保护你免受奥术伤害�
 tagGDX1ItemSkillD145Name=余烬之风
 tagGDX1ItemSkillD145Desc=召唤火焰生命体焚烧你的敌人。 ^o余烬之风受到玩家伤害加成的影响。
 
-tagGDX1ItemSkillD146Name=破坏者的死亡凝视
-tagGDX1ItemSkillD146Desc=破坏者的凝视落在附近敌人身上，削弱他们的防御能力。
+tagGDX1ItemSkillD146Name=掠夺者的死亡凝视
+tagGDX1ItemSkillD146Desc=掠夺者的凝视落在附近敌人身上，削弱他们的防御能力。
 
-tagGDX1ItemSkillD147Name=破坏者的死亡凝视
-tagGDX1ItemSkillD147Desc=破坏者的凝视落在附近敌人身上，削弱他们的防御能力。
+tagGDX1ItemSkillD147Name=掠夺者的死亡凝视
+tagGDX1ItemSkillD147Desc=掠夺者的凝视落在附近敌人身上，削弱他们的防御能力。
 
 tagGDX1ItemSkillD148Name=野性冲击
 tagGDX1ItemSkillD148Desc=原始能量会猛烈攻击你的敌人。
@@ -776,8 +776,8 @@ tagGDX1EnemySkillD05_Desc=加巴尔图恩的出现削弱生存意志，降低防
 tagGDX1EnemySkillD06=虚火标记
 tagGDX1EnemySkillD06_Desc=虚火灼烧你的灵魂，将你暴露在元素和虚化伤害中。
 
-tagGDX1EnemySkillD07=破坏者降临
-tagGDX1EnemySkillD07_Desc=破坏者的降临动摇了你，温迪戈灵魂，击碎了你的防御并降低生命值和生命回复。
+tagGDX1EnemySkillD07=掠夺者降临
+tagGDX1EnemySkillD07_Desc=掠夺者的降临动摇了你，温迪戈灵魂，击碎了你的防御并降低生命值和生命回复。
 
 tagGDX1EnemySkillD08=势不可挡的虚灵
 tagGDX1EnemySkillD08_Desc=希优顿的出现破坏了你身体，造成虚化伤害并降低你的防御能力。

@@ -338,7 +338,7 @@ tagGDX1MiniBoss_Bog07=污秽·卡拉克萨斯
 tagGDX1MiniBoss_Bog08=被困的幽灵
 tagGDX1MiniBoss_Bog09=阿弗瑞斯·骨髓疾病
 tagGDX1MiniBoss_Bog10=奈克森·阴影
-tagGDX1MiniBoss_Bog11=斯科夫, 破坏者的仆人
+tagGDX1MiniBoss_Bog11=斯科夫, 掠夺者的仆人
 
 tagGDX1MiniBoss_Bog12=艾亚·杜格尔德
 tagGDX1MiniBoss_Bog13=弗瑞斯·杜格尔德
@@ -354,9 +354,9 @@ tagGDX1MiniBoss_Chthonian01=盖博尔森, 疯狂面容
 
 tagGDX1MiniBoss_Chthonian02=拉卡瓦尔高斯·血肉饮者
 
-tagGDX1Boss_Wendigo01=破坏者的心智
-tagGDX1Boss_Wendigo02=破坏者的灵魂
-tagGDX1Boss_Wendigo03=破坏者的血肉
+tagGDX1Boss_Wendigo01=掠夺者的心智
+tagGDX1Boss_Wendigo02=掠夺者的灵魂
+tagGDX1Boss_Wendigo03=掠夺者的血肉
 tagGDX1Boss_Wendigo04=纳梅迪亚, 尖啸者
 
 tagGDX1MiniBoss_Wendigo01=汉达罗斯

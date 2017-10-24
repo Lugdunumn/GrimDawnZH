@@ -49,8 +49,8 @@ tagGDX1WeaponAxeB103=溢血切肉刀
 
 tagGDX1WeaponAxeC101=哈尔沃的剥皮者
 
-tagGDX1WeaponAxeD101=破坏者之咬
-tagGDX1WeaponAxeD101_Desc="由伟大破坏者过去表象的爪子制成."
+tagGDX1WeaponAxeD101=掠夺者之咬
+tagGDX1WeaponAxeD101_Desc="由伟大掠夺者的爪子制成."
 tagGDX1WeaponAxeD103=夜爪
 tagGDX1WeaponAxeD104=理智边缘
 tagGDX1WeaponAxeD104_Desc="目前还不确定这种武器最终是否会使受害者发疯...或者是持有者."
@@ -88,8 +88,8 @@ tagGDX1WeaponGun1hD103_Desc="严格按照白银之塔的大法师--阿格维克�
 tagGDX1WeaponGun1hD107=余烬之核
 tagGDX1WeaponGun1hD108=神盾左轮手枪
 tagGDX1WeaponGun1hD109=黑暗火焰 焚炉
-tagGDX1WeaponGun1hD110=达加隆的破坏者
-tagGDX1WeaponGun1hD111=达加隆的歼灭者
+tagGDX1WeaponGun1hD110=达加隆的掠夺者
+tagGDX1WeaponGun1hD111=达加隆的破坏者
 tagGDX1WeaponGun1hD112=哈加拉迪安执法者
 tagGDX1WeaponGun1hD112_Desc="枪膛内装满了哈加拉德原始符文的片段，每一片都注入了刺骨的寒冷."
 tagGDX1WeaponGun1hD114=加尔加伯的腐败
@@ -173,7 +173,7 @@ tagGDX1WeaponCaster1hB105=升灵之源
 tagGDX1WeaponCaster1hB106=霜腐魔杖
 tagGDX1WeaponCaster1hB107=死亡传播权杖
 
-tagGDX1WeaponCaster1hC101=破坏者之刺
+tagGDX1WeaponCaster1hC101=掠夺者之刺
 tagGDX1WeaponCaster1hC102=加拉瓦克之咬
 tagGDX1WeaponCaster1hC102_Desc="加拉瓦克大师的仪式刀刃，据说劈开了自己的面纱."
 tagGDX1WeaponCaster1hC103=奥扎德通灵者
@@ -335,8 +335,8 @@ tagGDX1HeadC105=艾柯特祖尔的号角
 tagGDX1HeadC105_Desc="这个号角仍然充满着可感知的黑暗."
 tagGDX1HeadC106=失魂的凝视
 tagGDX1HeadC107=污染的凝视
-tagGDX1HeadC108=破坏者的凝视
-tagGDX1HeadC108_Desc="虽然从物理领域击败了破坏者，但是它的精神部分仍然在面具中扭动."
+tagGDX1HeadC108=掠夺者的凝视
+tagGDX1HeadC108_Desc="虽然从物理领域击败了掠夺者，但是它的精神部分仍然在面具中扭动."
 tagGDX1HeadC109=腐蚀者的面具
 tagGDX1HeadC110=银色哨兵的面具
 tagGDX1HeadC115=风暴使者的面容
@@ -353,8 +353,8 @@ tagGDX1HeadD109=德里格的呼声
 tagGDX1HeadD109_Desc="祝福和诅咒被赋予德里格之语持有者，一个声音穿过，是女巫之神回应了他的神秘信息."
 tagGDX1HeadD110=至高之神的凝视
 tagGDX1HeadD110_Desc="至高神的神圣之光照耀着这个皇冠的持有者."
-tagGDX1HeadD111=破坏者的恐惧凝视
-tagGDX1HeadD111_Desc="虽然从物理领域击败了破坏者，但是它的精神部分仍然在面具中扭动."
+tagGDX1HeadD111=掠夺者的恐惧凝视
+tagGDX1HeadD111_Desc="虽然从物理领域击败了掠夺者，但是它的精神部分仍然在面具中扭动."
 tagGDX1HeadD112=克里格的面具
 tagGDX1HeadD113=迷失灵魂面具
 tagGDX1HeadD114=奥克塔维尔斯的面甲
@@ -719,7 +719,7 @@ tagGDX1NecklaceD101=灵魂猎手
 tagGDX1NecklaceD101_Desc="每一个被杀的敌人的灵魂被迅速捕获在这条项链之中."
 tagGDX1NecklaceD102=愤怒之焰
 tagGDX1NecklaceD103=维加尔的饥渴
-tagGDX1NecklaceD103_Desc="瓶子被来自温迪戈破坏者的血液装满."
+tagGDX1NecklaceD103_Desc="瓶子被来自温迪戈掠夺者的血液装满."
 tagGDX1NecklaceD104=加达尔的污染红宝石
 tagGDX1NecklaceD105=行刑者的审判
 tagGDX1NecklaceD106=风暴先知蓝宝石
@@ -1289,10 +1289,10 @@ tagGDX1EnchantA128A=巨像脊骨
 tagGDX1EnchantA128Desc="虚灵巨像不能轻易被忽视，只要放倒一只就能提供足够用好几个月的制作材料。"^w^n(用于戒指和项链)
 
 tagGDX1EnchantA129A=温迪戈毛皮
-tagGDX1EnchantA129Desc="粉末源自温迪戈的皮毛簇, 是破坏者的礼物。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantA129Desc="粉末源自温迪戈的皮毛簇, 是掠夺者的礼物。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantA130A=强效温迪戈毛皮
-tagGDX1EnchantA130Desc="粉末源自温迪戈的皮毛簇, 是破坏者的礼物。"^w^n(用于所有双手武器)
+tagGDX1EnchantA130Desc="粉末源自温迪戈的皮毛簇, 是掠夺者的礼物。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA131A=血鳞粉末
 tagGDX1EnchantA131Desc="粉末来自血鳞蛇人的鳞片，有时被看到在巫登沼泽漫游。"^w^n(用于所有单手武器，盾牌和法器副手)
@@ -1403,29 +1403,29 @@ tagGDX1EnchantB129Desc="夜刃制作的一种致命毒液，许多重要材料�
 tagGDX1EnchantB130A=奥秘之尘
 tagGDX1EnchantB130Desc="由吉尔达姆秘学社专门制成，这个附魔被用来提升使用者的奥术能力。"^w^n(用于戒指和项链)
 
-tagGDX1EnchantB131A=破坏者的收割
-tagGDX1EnchantB131Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它灌输了一种永不满足的饥渴。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB131A=掠夺者的收割
+tagGDX1EnchantB131Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它灌输了一种永不满足的饥渴。"^w^n(用于所有单手武器，盾牌和法器副手)
 
-tagGDX1EnchantB132A=强效破坏者的收割
-tagGDX1EnchantB132Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它灌输了一种永不满足的饥渴。"^w^n(用于所有双手武器)
+tagGDX1EnchantB132A=强效掠夺者的收割
+tagGDX1EnchantB132Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它灌输了一种永不满足的饥渴。"^w^n(用于所有双手武器)
 
-tagGDX1EnchantB133A=破坏者之眼
-tagGDX1EnchantB133Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它赋予了无与伦比的忠诚。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB133A=掠夺者之眼
+tagGDX1EnchantB133Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它赋予了无与伦比的忠诚。"^w^n(用于所有单手武器，盾牌和法器副手)
 
-tagGDX1EnchantB134A=强效破坏者之眼
-tagGDX1EnchantB134Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它赋予了无与伦比的忠诚。"^w^n(用于所有双手武器)
+tagGDX1EnchantB134A=强效掠夺者之眼
+tagGDX1EnchantB134Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它赋予了无与伦比的忠诚。"^w^n(用于所有双手武器)
 
-tagGDX1EnchantB135A=破坏者之怒
-tagGDX1EnchantB135Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它唤起了无法控制的愤怒。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB135A=掠夺者之怒
+tagGDX1EnchantB135Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它唤起了无法控制的愤怒。"^w^n(用于所有单手武器，盾牌和法器副手)
 
-tagGDX1EnchantB136A=强效破坏者之怒
-tagGDX1EnchantB136Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。它唤起了无法控制的愤怒。."^w^n(用于所有双手武器)
+tagGDX1EnchantB136A=强效掠夺者之怒
+tagGDX1EnchantB136Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。它唤起了无法控制的愤怒。."^w^n(用于所有双手武器)
 
-tagGDX1EnchantB137A=破坏者之息
-tagGDX1EnchantB137Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。与它接触会使皮肤上造成严重的伤口和水疱。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB137A=掠夺者之息
+tagGDX1EnchantB137Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。与它接触会使皮肤上造成严重的伤口和水疱。"^w^n(用于所有单手武器，盾牌和法器副手)
 
-tagGDX1EnchantB138A=强效破坏者之息
-tagGDX1EnchantB138Desc="一份破坏者赠予那些被诅咒的崇拜者的礼物。与它接触会使皮肤上造成严重的伤口和水疱。"^w^n(用于所有双手武器)
+tagGDX1EnchantB138A=强效掠夺者之息
+tagGDX1EnchantB138Desc="一份掠夺者赠予那些被诅咒的崇拜者的礼物。与它接触会使皮肤上造成严重的伤口和水疱。"^w^n(用于所有双手武器)
 
 
 tagGDX1EnchantC101A=女巫团的守护粉末
@@ -1441,11 +1441,11 @@ tagGDX1EnchantC105Desc="妖术粉末，在紧急情况通常用来灼烧创伤�
 tagGDX1EnchantC106A=马尔茅斯的筑防粉末
 tagGDX1EnchantC106Desc="妖术粉末能恢复力量即使是精疲力竭的数小时激战。"^w^n(用于所有护甲)
 tagGDX1EnchantC107A=温迪戈的血气粉末
-tagGDX1EnchantC107Desc="来自破坏者的礼物，造成失血并让使用者难以追踪。"^w^n(用于所有护甲)
+tagGDX1EnchantC107Desc="来自掠夺者的礼物，造成失血并让使用者难以追踪。"^w^n(用于所有护甲)
 tagGDX1EnchantC108A=温迪戈的魂香粉末
-tagGDX1EnchantC108Desc="来自破坏者的礼物，守护灵魂."^w^n(用于所有护甲)
+tagGDX1EnchantC108Desc="来自掠夺者的礼物，守护灵魂."^w^n(用于所有护甲)
 tagGDX1EnchantC109A=温迪戈的命息粉末
-tagGDX1EnchantC109Desc="来自破坏者的礼物，强化凡间."^w^n(用于所有护甲)
+tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体."^w^n(用于所有护甲)
 
 
 
@@ -1621,7 +1621,7 @@ tagGDX1ItemSetD111Name=法师杀手
 tagGDX1ItemSetD111Desc="法师杀手的铠甲，一小群光明会成员经过夜刃的受训，目的是消灭帝国内的施法者恶徒。"
 
 tagGDX1ItemSetD112Name=瓦尔古尔的饥渴
-tagGDX1ItemSetD112Desc="瓦尔古尔被诅咒了对生命无尽的饥渴 ，但是他也受到了破坏者·温迪戈灵魂的祝福。"
+tagGDX1ItemSetD112Desc="瓦尔古尔被诅咒了对生命无尽的饥渴 ，但是他也受到了掠夺者·温迪戈灵魂的祝福。"
 
 tagGDX1ItemSetD113Name=符文束缚者
 tagGDX1ItemSetD113Desc="符文束缚者泰利尔斯的守护铠甲，光明会宝库最初的守护者。"

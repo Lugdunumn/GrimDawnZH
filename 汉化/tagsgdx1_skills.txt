@@ -655,7 +655,7 @@ tagQuestSkill_A102=女巫团的守卫
 tagQuestSkill_A102Desc=由巫登沼泽的女巫团创造，避免受到邪恶灵魂的伤害。
 
 tagQuestSkill_A103=温迪戈的守卫
-tagQuestSkill_A103Desc=由巴罗霍尔姆的居民创造，抵御巫登沼泽的恶魔。
+tagQuestSkill_A103Desc=由河中岛的居民创造，抵御巫登沼泽的恶魔。
 
 
 #SkillDevotion

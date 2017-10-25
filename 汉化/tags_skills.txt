@@ -391,12 +391,12 @@ tagClass04SkillDescription02C=当你现身并与主要目标接触时,一片如�
 tagClass04SkillName03A=[夜刃]刀锋壁障
 tagClass04SkillDescription03A=对于一位夜刃大师来说,传言贝尔戈斯安对他的魔力缺乏有效的控制；不过他拥有不懈的意念来召唤大量的刀刃来组成一面环绕他的坚盾,使他在敌人面前获得片刻的喘息.^o技能作用期间你将不能移动.
 
-tagClass04SkillName04A=[夜刃]金铁环
+tagClass04SkillName04A=[夜刃]钢铁之环
 tagClass04SkillDescription04A=上百把幻影刀瞬间以致命的速度环绕着你,消灭附近的敌人.
-tagClass04SkillName04B=[夜刃]屠戮环
+tagClass04SkillName04B=[夜刃]屠戮之环
 tagClass04SkillDescription04B=锋利的幻影刀深深地切割圆环范围内的敌人,使他们流出大量鲜血.
-tagClass04SkillName04C=[夜刃]寒霜环
-tagClass04SkillDescription04C=强力的气动技巧使金铁环从附近的空气中获取能量,增强冰冷伤害并冻结敌人,不过需要以牺牲穿刺伤害为代价.
+tagClass04SkillName04C=[夜刃]寒霜之环
+tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量,增强冰冷伤害并冻结敌人,不过需要以牺牲穿刺伤害为代价.
 
 tagClass04SkillName05A=[夜刃]双刃
 tagClass04SkillDescription05A=夜刃技能中最基本的便是对近战双持的精通,他们喜欢使用尖利的刀刃,以及使钢铁中产生元素之寒的技艺.^o这是一项双持技能.同时开启双持近战武器的能力.
@@ -1957,8 +1957,8 @@ tagItemSkillD203Desc=一波坏死能量吸取附近敌人的生命并转移给�
 tagItemSkillD204Name=虚空行者
 tagItemSkillD204Desc=当受到虚空恶魔的魔法攻击时,你对虚空的腐蚀之力变得非常抵触,筑起一道能够承受虚空恶魔攻击的壁垒.
 
-tagItemSkillD205Name=古尔’阿玛什的守护
-tagItemSkillD205Desc=当你被物理攻击击中时,古尔’阿玛什的守护能为你抵抗物理伤害.
+tagItemSkillD205Name=古尔·阿玛什的守护
+tagItemSkillD205Desc=当你被物理攻击击中时,古尔·阿玛什的守护能为你抵抗物理伤害.
 
 tagItemSkillD206Name=幻境守护
 tagItemSkillD206Desc=在你周围区域制造闪烁的幻境来转移敌人的注意力.^o这项技能必须保持开启以持续生效.
@@ -1973,7 +1973,7 @@ tagItemSkillD209Name=野性蔓藤
 tagItemSkillD209Desc=蔓藤在你敌人周围肆意生长,缠绕并使其受到严重创伤.
 
 tagItemSkillD210Name=生者的意志
-tagItemSkillD210Desc=当你的生命在死亡边缘徘徊时,你对生存的强烈意志使你变得难以击杀.
+tagItemSkillD210Desc=当你的生命在死亡边缘徘徊时,对生存的强烈意志使你变得难以被击杀.
 
 tagItemSkillD211Name=疾风切割
 tagItemSkillD211Desc=你变得像季风一般,迅捷且难以捉摸.

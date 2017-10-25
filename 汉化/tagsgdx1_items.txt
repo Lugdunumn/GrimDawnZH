@@ -11,7 +11,7 @@ tagGDX1WeaponSwordC101=艾尔格洛斯的净化刀
 tagGDX1WeaponSwordC101_Desc="曾经被冥煞的腐烂触摸所污染，这把刀恢复了光明会昔日的辉煌."
 tagGDX1WeaponSwordC104=军团的骄傲
 
-tagGDX1WeaponSwordD101=死亡边缘
+tagGDX1WeaponSwordD101=死亡刀锋
 tagGDX1WeaponSwordD102=帕加的背叛
 tagGDX1WeaponSwordD102_Desc="没有一次背叛的感觉会比今天还深刻，审判官帕加展示了他与虚空勾结的力量，在一个光明会训练场所中."
 tagGDX1WeaponSwordD105=悲痛
@@ -905,7 +905,7 @@ tagGDX1Blueprint_WeaponC114=设计图：神话 女妖之痛
 
 tagGDX1Blueprint_WeaponD101=设计图：余烬之核
 tagGDX1Blueprint_WeaponD102=设计图：毒枪
-tagGDX1Blueprint_WeaponD103=设计图：神话 死亡边缘
+tagGDX1Blueprint_WeaponD103=设计图：神话 死亡刀锋
 tagGDX1Blueprint_WeaponD104=设计图：神话 冷焰召唤师
 tagGDX1Blueprint_WeaponD105=设计图：神话 处刑者的投弹枪
 tagGDX1Blueprint_WeaponD106=设计图：神话 北地冰龙
@@ -1530,13 +1530,13 @@ tagGDX1CompB106Desc="神秘印章唤起你先祖的记忆，甚至是那些你�
 #ItemFactionBoosters
 tagGDX1BoosterCU_A01=巫登沼泽女巫团的敕令
 tagGDX1BoosterCU_B01=巫登沼泽女巫团的委任状
-tagGDX1BoosterCW_A01=巴罗霍尔姆的敕令
-tagGDX1BoosterCW_B01=巴罗霍尔姆的委任状
+tagGDX1BoosterCW_A01=河中岛的敕令
+tagGDX1BoosterCW_B01=河中岛的委任状
 tagGDX1BoosterPM_A01=马尔茅斯人民的敕令
 tagGDX1BoosterPM_B01=马尔茅斯人民的委任状
 
 tagGDX1BoosterAetherialVanguard_C01=虚灵先锋通缉令
-tagGDX1BoosterWendigo_C01=巴罗霍尔姆通缉令
+tagGDX1BoosterWendigo_C01=河中岛通缉令
 tagGDX1BoosterBeast_C01=野兽 "通缉令"
 tagGDX1BoosterBeastDesc=你非常确定乱画的图片里的是你。
 

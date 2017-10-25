@@ -8,10 +8,10 @@ achGDX1001Title=战斗仍在继续
 achGDX1001Desc=清除伯尔维治北方的虚灵屏障。
 
 achGDX1002Title=新的友谊
-achGDX1002Desc=选择与巴罗霍尔姆的人民保持友好。
+achGDX1002Desc=选择与河中岛的人民保持友好。
 
 achGDX1003Title=新的敌人
-achGDX1003Desc=选择与巴罗霍尔姆的人民保持敌对。
+achGDX1003Desc=选择与河中岛的人民保持敌对。
 
 achGDX1004Title=进入虚空
 achGDX1004Desc=激活莱托什祭坛。
@@ -77,7 +77,7 @@ achGDX1024Title=掠夺
 achGDX1024Desc=击败一次掠夺者，温迪戈之魂的化身。
 
 achGDX1025Title=泥中的宝石
-achGDX1025Desc=巴罗霍尔姆的声望达到崇敬。
+achGDX1025Desc=河中岛的声望达到崇敬。
 
 achGDX1026Title=巫登沼泽仪式
 achGDX1026Desc=巫登沼泽女巫团的声望达到崇敬。

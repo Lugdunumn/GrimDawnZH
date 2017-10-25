@@ -1808,8 +1808,8 @@ tagGDX1Quest_ObsidianCrystal=符文黑曜石
 
 #Dungeon Doors
 tagGDX1UGDoorFactoryEntrance=血肉束缚入口
-tagGDX1UGDoorSlums=烛光街区
-tagGDX1UGDoorIndust=钢帽街区
+tagGDX1UGDoorSlums=烛光区
+tagGDX1UGDoorIndust=钢盔区
 tagGDX1UGDoorHideout=反抗军避难所
 tagGDX1UGDoorFactoryGeneric=血肉束缚之门
 tagGDX1UGDoorFactoryHeart=心脏

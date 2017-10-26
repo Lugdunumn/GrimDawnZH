@@ -1,57 +1,57 @@
-Garett Torven
-Please, just leave me alone out here...
-Alright...
-Please, just leave me alone out here...
-Alright...
-What! Who are you?{^n}{^n}Some sort of monster in disguise?!
-Calm down, I'm not going to hurt you. 
-Stay back! I...I'm a powerful Arcanist.{^n}{^n}I'm not looking for trouble.
-You must be Garett.
-What? I mean, yes, but how did you know?
-Your daughter sent me to find you.
-Amala? Oh, my sweet Amala.{^n}{^n}She made it to safety then?
-Yes, she's fine. She's at Devil's Crossing. 
-The prison? Well, so long as it's safe...{^n}{^n}I guess I can die in peace then.
-No need to be dramatic, I can get you out of here.
-No, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
-You won't be any good to her dead.
-I suppose that is true.{^n}{^n}We got together this far, I cannot abandon her again. I have been given a second chance.{^n}{^n}How do you plan on getting me there though? My leg is busted.
-Like this... (Open Riftgate)
-I don't have time for this. (Shove Garrett into a Riftgate)
-Suit yourself.
-Are you alone out here? 
-What? No...I mean, yes, now I am.{^n}{^n}What do you care?
-Well which one is it?
-There was...Amala, my daughter.{^n}{^n}We were attacked by those...things. I froze up, she...saved me, but not before one of the wretches tore up my leg.{^n}{^n}I told her to keep going, to find safety on her own. I could have probably hobbled along but, truth is, I've had enough of these horrors. I just wanted to curl up here and die.{^n}{^n}And now my daughter is out there alone. Amala's a tough girl, but I doubt even she made it far out here.
-I'm sure she's ok.
-*Garett chokes back a sob*{^n}{^n}I abandoned her...
+加雷特·托文
+请，把我一个人留在这儿好了...
+好吧...
+请，把我一个人留在这儿好了...
+好吧...
+什么!你是谁?{^n}{^n}伪装起来的怪物吗?!
+冷静，我不会伤害你的。
+别靠近!我...我是位法力高强的奥术师。{^n}{^n}我不想惹麻烦。
+你一定就是加雷特。
+什么?我的意思是是的，可你怎么知道的?
+你的女儿让我来找你。
+阿玛拉?哦，我亲爱的阿玛拉。{^n}{^n}这么说她现在安全了?
+是的，她很好。她在恶魔十字。
+那座监狱?好吧，只要那儿安全就好...{^n}{^n}我想我可以安息了。
+不用如此悲观，我能让你离开这里。
+不，我没脸再见她。{^n}{^n}作为父亲我辜负了她。在她需要我的时候我没能保护好她。{^n}{^n}我不走了...
+你死去对她来说没有任何好处。
+说得对。{^n}{^n}我们一起撑到了现在，我不能再抛弃她了。上天又给了我一次机会。{^n}{^n}可你怎么把我带走呢?我的腿坏掉了。
+就像这样... (打开传送门)
+我没时间浪费在这种事情上。(把加雷特推进传送门)
+随你的便。
+你一个人在这里吗? 
+什么?我的意思是，现在是的。{^n}{^n}你关心这个干什么?
+那之前还有谁和你在一起?
+之前是...阿玛拉，我的女儿。{^n}{^n}我们被那些...怪物攻击了。我被吓得呆住了，她救了我的命。但我的腿被一只怪物撕碎了。{^n}{^n}我叫她继续往前走，找到一个安全的地方。我本可能一瘸一拐地继续走地，但事实上我已经受够了这些恐怖的事情。我只想蜷成一团就地等死。{^n}{^n}我的女儿现在一个人流浪在外。她虽是个坚强的女孩子，可我怀疑她竟能走到那么远的地方。
+我确定她很好。
+*加雷特强忍着泪水*{^n}{^n}我抛弃了她...
 
-I've met your daughter, she is alive.
-Amala? Oh, my sweet Amala.{^n}{^n}She made it to safety then?
-Yes, she's fine. She's at Devil's Crossing. 
-The prison? Well, so long as it's safe...{^n}{^n}I guess I can die in peace then.
-No need to be dramatic, I can get you to Devil's Crossing.
-No, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
-You won't be any good to her dead.
-I don't have time for this. (Shove Garrett into a Riftgate)
-Suit yourself.
-Yes, she's fine. She's with the Black Legion.
-So she made it after all...{^n}{^n}I guess I can die in peace then.
+我见过你的女儿，她还活着。
+阿玛拉?哦，我亲爱的阿玛拉。{^n}{^n}这么说她现在安全了?
+是的，她很好。她在恶魔十字。
+那座监狱?好吧，只要那儿安全就好...{^n}{^n}我想我可以安息了。
+不用如此悲观，我能让你离开这里。
+不，我没脸再见她。{^n}{^n}作为父亲我辜负了她。在她需要我的时候我没能保护好她。{^n}{^n}我不走了...
+你死去对她来说没有任何好处。
+我没时间浪费在这种事情上。(把加雷特推进传送门)
+随你的便。
+是的，她很好。她和黑色军团在一起。
+所以她还是做到了...{^n}{^n}我想我可以安息了。
 
-Suit yourself.
-You abandoned your daughter out here?
-*Garett chokes back a sob*{^n}{^n}I know...I am a worthless cowardly wretch!
-If you're lucky, she made it to Devil's Crossing. 
-The prison? That's not that far from here.{^n}{^n}Are there other survivors there?
-Yes, I can help you get there.
-But if she's alive then...no, I cannot bear to look her in the eyes.{^n}{^n}I failed her as a father. I failed to protect her when she needed me.{^n}{^n}Leave me here...
-If she's alive, you won't be any good to her dead.
-I suppose that is true.{^n}{^n}We got together this far, I cannot abandon her again. I have been given a second chance.{^n}{^n}How do you plan on getting me there though? My leg is busted.
-Like this... (Open Riftgate)
-I don't have time for this. (Shove Garrett into a Riftgate)
-I'm not sure we have room for somebody like you.
+随你的便。
+你抛弃了你的女儿?
+*加雷特强忍着泪水*{^n}{^n}我知道...我就是个没用的胆小鬼!
+如果你走运的话，她会在恶魔十字的。 
+那坐监狱?那儿离这儿不是特别远。{^n}{^n}那儿还有其他的幸存者吗?
+是的，我可以帮你去那儿。
+但如果她还或者...不，我没脸再见她。{^n}{^n}作为父亲我辜负了她。在她需要我的时候我没能保护好她。{^n}{^n}我不走了...
+如果她还活着，你死去对她来说没有任何好处。
+说得对。{^n}{^n}我们一起撑到了现在，我不能再抛弃她了。上天又给了我一次机会。{^n}{^n}可你怎么把我带走呢?我的腿坏掉了。
+就像这样... (打开传送门)
+我没时间浪费在这种事情上。(把加雷特推进传送门)
+我觉得我们没有地方给像你这样的人居住了。
 
-Then you deserve to be out here.
-Good luck.
-Suit yourself.
-Just passing through.
+那么你在此地便是咎由自取。
+祝你好运。
+随你的便。
+我只是路过。

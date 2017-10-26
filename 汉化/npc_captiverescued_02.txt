@@ -1,25 +1,25 @@
-Ferron
-Hey, you're the one who saved us aren't you?{^n}{^n}I gotta be honest with you. I wasn't out there trying to help like the rest of them.
-Then what were you doing out there? 
-I wanted to see the big explosion.
-What explosion?
-Captain Wilfor came to me a few days ago asking if I could make a bomb for the resistance. {^n}{^n}I agreed of course, it's what I do after all.  They wanted something big. It took me a few days to cobble it together.{^n}{^n}It was a thing of beauty. Some of my best work I'm certain. I based it on an old design I found while visiting the capital once.
-So you left the base?
-There was no way I was going to miss the results of my finest work.{^n}{^n}I brought the finished piece to Wilfor and he tells me they plan to blow up the gates leading up to Crown Hill.{^n}{^n}Naturally, I tell him I want to come along, I couldn't miss a moment like that. {^n}{^n}He says I've got no business joining a military operation and I'd be a liability to his men.{^n}{^n}Wasn't going to take no for an answer though. I waited til Wilfor's men left, and then I followed. I found a good vantage point up in a nearby building where I could see the bridge. I know it was foolish. You don't need to remind me.
-What happened then?
-I watched as the men set up to cross the bridge. It looked clear at first, but then suddenly they were ambushed, totally surrounded. One of them made a break for it, tried to cross the bridge with the bomb but he never had a chance. It was a massacre.{^n}{^n}I was stunned, didn't know what to do. I don't know how long it was, but I just sat there for a while, staring at the floor. Eventually I came to and realized I was stranded out in the middle of the city.{^n}{^n}So I started to make my way back, moving from building to building, out of sight. I got lost in all the rubble and blocked streets. Aetherial patrols forced me to take roads I wasn't too familiar with.{^n}{^n}I managed to survive off of scraps. I found hiding places during the day. Wasn't til yesterday that I ran into Nadia and her crew. But then instead of being stuck here by myself I was stuck with the rest of them.{^n}{^n}That is until you arrived.
-I guess you won't be sneaking out of the walls anymore.
-That's for sure. These guys are working hard to keep us safe.{^n}{^n}I won't take that for granted again.
-That's good to hear.
-Goodbye.
-You're lucky I got to you in time.
-I'm sorry but I need to go.
-I don't think I want to know.
-I don't really have time to talk about it.
-Goodbye.
-Thank you for coming to get us.
-I'm glad I got there in time.
-You're lucky I did.
-You won't catch me outside these walls ever gain.
-Stay safe.
-I certainly hope not.
+﻿法隆
+嗨，你就是那个救了大家的人？{^n}{^n}我老实告诉你，我不像其他人一样是来帮忙的。
+那么你在这干什么？ 
+我是来见证大爆炸的。
+什么爆炸？
+威尔佛队长几天前问我是否愿意为反抗军做炸药。{^n}{^n}我欣然同意。毕竟我就是干这行的。他们想要威力巨大的炸药，所以我花了几天研制{^n}{^n}它可真是一件完美的东西，是我这辈子做的最好的炸药。我是以一个古老设计图为参考做出来的。那个设计图是我以前造访首都时发现的。
+所以你找不到你的作品了？
+我绝不可能弄丢我最得意的作品。{^n}{^n}我把炸药带给威尔佛队长，他们说想用它炸开通往皇冠高地的大门。{^n}{^n}事实上，我告诉他们我也想去，我不想错过引爆它的美妙瞬间。{^n}{^n}他们却说我跟着他们不仅帮不上忙还会拖累他们。{^n}{^n}我才不会听他们的。在威尔佛他们离开后，我偷偷跟了上去还在附近能看到桥的大楼上找了个欣赏爆炸的绝妙观察点。不用你提醒，我自己也知道这很蠢。
+后来呢？
+我看着他们过桥。一开始很顺利，但突然他们遭到了攻击，被团团包围。他们中有人杀出重围，想要带着炸药过桥，但是失败了。那是场大屠杀。{^n}{^n}我被吓傻了呆呆地坐在那，不知道该做些什么。最后我意识到我被困在城市中间。{^n}{^n}我开始往回跑，在楼房间穿梭。我在布满瓦砾的堵塞街道上迷失了方向。巡逻的虚灵又把我逼到我不熟悉的路上。{^n}{^n}在逃跑中我发现了隐藏点，所以我才逃过一劫。我遇见了娜蒂亚和她的船员。但我没有被困在这而是被其他人困住了。{^n}{^n}直到你来这儿。
+我猜你再也不敢溜出墙了。
+肯定的。那些家伙努力保护我们的安全。{^n}{^n}我再也不会认为是理所当然的了
+很高兴听到你这么说。
+再见。
+你很幸运，我及时赶到。
+我很抱歉，我要走了。
+我不想知道。
+我没时间说这个。
+再见。
+谢谢你来救我们。
+幸好我来的及时。
+你很幸运。
+我再也不出墙外去了。
+注意安全。
+你最好别。

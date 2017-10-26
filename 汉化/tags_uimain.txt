@@ -280,6 +280,7 @@ tagVideoLevel02=中
 tagVideoLevel03=低
 tagVideoLevel04=非常高
 tagVideoLevel05=关闭
+tagVideoLevel06=Ultra
 tagVideoOption01=分辨率
 tagVideoOption02=纹理
 tagVideoOption03=阴影

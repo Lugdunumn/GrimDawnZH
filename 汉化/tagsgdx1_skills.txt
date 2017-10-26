@@ -106,7 +106,7 @@ tagGDX1Class07SkillName14A=[审判官]风暴散射
 tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮风暴散射穿梭于面前的空间，以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1Class07SkillName15A=[审判官]致命瞄准
-tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的致命一击是他们所有的机会，然而只需一发足矣。
+tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们所有的机会，然而只需一发足矣。
 
 tagGDX1Class07SkillName16A=[审判官]神器技艺
 tagGDX1Class07SkillDescription16A=谨慎处理从光明会宝库中复制而来的危险圣物和神器，是所有审判官培训的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。 ^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]

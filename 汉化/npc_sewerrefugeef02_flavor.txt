@@ -1,31 +1,31 @@
-Nella
-Do you hear that? {^n}{^n}Tell me you can hear it too.
-I don't hear anything.
-I must be going crazy. I can hear it so clearly.{^n}{^n}An old woman speaking to me as if she was right here with us. 
-What does she say?
-I don't know the language she's speaking but I feel like she's calling to me.{^n}{^n}I see her in my dreams too. I don't know what to do to rid myself of her.
-Maybe you should try talking back.
-Oh, that sounds like a great idea.{^n}{^n}Then everyone else down here will think I'm crazy. 
-Don't worry about them.
-I think you probably are.
-They probably already do.
-You sound crazy to me.
-I think you might be crazy.
-Your ears are playing tricks on you.
-It is not strange to hear voices.
-Really? Everyone else down here thinks I'm crazy but I can hear it as clear as I can hear you.{^n}{^n}It's an old woman, she's speaking in a language I don't understand but I know exactly what she's saying.
-She's callling to you.
-You know of what I speak then! She's calling to me...I feel like she's calling me home.{^n}{^n}At night I have these dreams.  First I'm on the open water, then I'm in a bog. The smell is putrid and I can hear horrible sounds all around, but I'm not scared because I know exactly where I'm going.{^n}{^n}It feels so real.
-It is real. You should follow the dream.
-What? What do you mean? {^n}{^n}it's a real place? That makes so much sense.{^n}{^n}This all started when the city was attacked. I didn't know where to go.{^n}{^n}I began having these dreams. Then, a few days ago, I could make out her voice.
-Follow the voice, there's safety for people like us there.
-How do you know? {^n}{^n}How can you be sure, I might just be crazy.
-I've been there.
-You have? You've seen it with your own eyes?{^n}{^n}I can't believe this is happening. All this time I thought I was just driven mad like all the others up in the city. {^n}{^n}But if it is real, how can I get out? {^n}{^n}People say the land burns with green flame to the south. The docks are overrun and gods only know what lies to the north.
-I don't know, but good luck.
-Find a way. Follow the voice.
-Just follow the voice.
-Good luck.
-That's because you're crazy.
-Farewell.
-I'm afraid I don't.
+内拉
+你听到了吗？{^n}{^n}告诉我你也听到了。
+我没听到什么东西。
+我一定是疯了。我可以清楚地听到。{^n}{^n}一个老妇人正在和我说话就像她在我身边一样。
+她说了什么？
+我不知的她说的是什么语言但是我觉得她在召唤我。{^n}{^n}我在我的梦里也看见她了。我不知道怎么去摆脱她。
+也许你应该和她对话试试。
+噢，这也许是一个不错的主意。{^n}{^n}这里的所有人都认为我疯了。
+不用担心他们。
+我也觉得是。
+他们可能已经这么觉得了。
+在我看起来你似乎已经疯了。
+我觉得你可能是疯了。
+你的耳朵或许给了你太多幻觉。
+听到一些奇怪的声音没什么奇怪的。
+真的吗?这里所有的人都觉得我疯了。但是我能清晰地听到她，就像能听到你。{^n}{^n}这是一个老妇人，她正在说一种我完全听不懂的语言，但是我能清晰地听到她。
+她正在召唤你。
+你知道我在说什么吗？！她正在召唤我...我觉得她正在叫我回家。{^n}{^n}晚上我会做一些梦，首先我会在水里，然后转到一片沼泽，那恶心的味道真让人想吐而且我全程能听到那些恐怖的声音，但是我并不是很害怕因为我知道我在朝着什么方向一直前进。
+这是真的，你应该相信这些梦。
+什么，你在说什么？{^n}{^n}这是个真的地方？那真的解释了很多事情。{^n}{^n}这些事情都是在城市遇袭的时候开始的。我不知道该怎么做。{^n}{^n}我开始做这些梦在，嗯，几天前...我可以辨认出她的声音。
+跟随着这些声音，那里有安全的地方可以庇护你我这样的人。
+你怎么知道？{^n}{^n}你怎么这么确定，我一定是疯了。
+我去过那里。
+你去过？你用眼睛见证了一切？{^n}{^n}我不能相信这一切都发生了。一直以来我都觉得我快被逼疯了就像城市里其他的人一样。{^n}{^n}但是如果这都是真的，但我怎么离开这里？{^n}{^n}人们都说这片土地都被绿色火焰覆盖了，一直燃烧到南方。那些码头都被淹没了但是神们只知道向北方的人们散布谎言。
+我不知道，但是祝你好运。
+你会找到一条路，跟随那个声音。
+只需要跟随那个声音。
+祝你好运。
+那是因为你疯了。
+好吧。
+恐怕我不能这么做。

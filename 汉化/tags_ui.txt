@@ -528,11 +528,11 @@ tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧, 提高物理,穿刺,流血和创伤伤害. 敏捷也会提高你的近战和远程攻击的命中几率以及暴击几率. 
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧, 提高物理,穿刺,流血和创伤伤害. 灵巧也会提高你的近战和远程攻击的命中几率以及暴击几率. 
 
-tagCharAttributeDescription02=锻炼体格可以穿上更重的装备, 并能灵敏地躲开敌人的攻击. 力量也能提升你承受和回复创伤的能力以及降低被暴击的机率. 
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备, 并能灵敏地躲开敌人的攻击. 体格也能提升你承受和回复创伤的能力以及降低被暴击的机率. 
 
-tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动, 让你能承受更强的魔法装备所带来的精神负担. 智力也会增强你的魔法伤害. 
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动, 让你能承受更强的魔法装备所带来的精神负担. 精神也会增强你的魔法伤害. 
 
 tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害.
 
@@ -559,14 +559,14 @@ tagCharStatsOA=攻击能力
 tagCharStatsOALast=最后攻击:
 tagCharStatsOAHit=命中几率:
 tagCharStatsOACrit=暴击几率:
-tagCharStatsOADescription=攻击能力提升你攻击和法术的命中几率, 暴击几率和暴击伤害. 攻击能力低于敌人的防御能力会极大地增加你的未命中几率. 攻击能力受技能, 物品和敏捷影响. 
+tagCharStatsOADescription=攻击能力提升你攻击和法术的命中几率, 暴击几率和暴击伤害. 攻击能力低于敌人的防御能力会极大地增加你的未命中几率. 攻击能力受技能, 物品和灵巧影响. 
 
 tagCharStatsDAAlert=防御能力{^b}(?)
 tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自:
 tagCharStatsDAHit=被击中几率:
 tagCharStatsDACrit=被暴击几率:
-tagCharStatsDADescription=防御能力提升你闪避敌人攻击的几率, 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能, 物品和力量影响. 
+tagCharStatsDADescription=防御能力提升你闪避敌人攻击的几率, 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能, 物品和体格影响. 
 
 tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum) 
 

@@ -1,11 +1,11 @@
-Nadia
-It's a good thing you showed up when you did. {^n}{^n}I don't think we would have stayed hidden much longer. We could hear those things patrolling all around us.
-What were you doing out there?
-We were merchants and purveyors of goods before the city was overrun.{^n}{^n}Hyram thought it would be a good idea for us to return to our shops in search of supplies.{^n}{^n}So he volunteered us to help the resistance. I'll admit it made sense, but we had no idea what that poor idiot had signed us up for.{^n}{^n}I don't think he did either. People like us have no business out there fighting.
-Well, you're safe now. 
-Thanks to you. {^n}{^n}Listen, now that the resistance is rebuilding this base I'm going to set up shop again.{^n}{^n}As poorly as things went before, I think Hyram is right. People like us need to stand up and fight. We'll just do it from back behind the walls.{^n}{^n}I should be ready soon. Come see me if you need anything.
-I will. Thanks.
-Stay safe.
-It looks like the guards have this places locked down now.{^n}{^n}You certainly won't find me outside these walls any time soon.
-That's good.
-It's best you stay here.
+纳蒂亚
+当时你出现的真是太及时了。{^n}{^n}我们那时藏不了多久了，我们能听到那些怪物在周围四处巡逻。
+你们当时在外面干什么?
+城市陷落之前我们曾是些店主和百货供应商。{^n}{^n}海拉姆认为返回我们的店铺收集些补给会是个好主意。{^n}{^n}因此我们就自告奋勇要为反抗行动做出贡献。我承认收集补给没错，可我们没意识到那个倒霉鬼给我们拉了一单什么样的生意。{^n}{^n}他应该也没有意识到这主要的后果。我们这样人根本不该去外面战斗的。
+恩，你们现在安全了。
+多亏了你。{^n}{^n}听着，反抗军正在重建基地，我也要把我的商店再建起来。{^n}{^n}As poorly as things went before, I think Hyram is right. 我们这样的人也该挺身而出去战斗。我们的战场就在这些墙的后面。{^n}{^n}我的商店不久之后应该可以准备妥当。需要什么就来找我。
+我会的，谢谢。
+保重。
+看起来守卫们把这里封锁了起来。{^n}{^n}短时间内你在外面是不可能再看到我的身影了。
+很好。
+你最好还是待在这儿。

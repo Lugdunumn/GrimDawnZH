@@ -1,153 +1,153 @@
-黛拉·索恩斯巴利
-Dravis cannot be allowed to achieve his goals.
-I have some questions.
-I'm sure you do.
-Is Dravis really a threat to your father?
-I cannot say for sure, but he seems convinced that he is given his relentless pursuit.{^n}{^n}Our father was powerful, the most powerful mage I had ever known, but Dravis has done some deplorable things in order to catch up.
-I have another question.
-Unfortunately we may find out.
-Hopefully we can stop him before anything happens.
-What will you do now?
-With Dravis traveling through the void, it is impossible to say where he will end up next.{^n}{^n}I have some ideas as to where he hopes to be, so perhaps I will find him there, along with these mysterious flowers.{^n}{^n}Thank you for your assistance, but unfortunately I'll have to take it from here on my own.
-Are you sure you can handle him by yourself?
-I've learned some tricks of my own.{^n}{^n}That story about the weeping willow. It really happened, though I did not give you the ending.{^n}{^n}It was a drawn out battle for our very lives, but in the end I had Dravis disarmed and the tip of my sword at his throat. Unfortunately he also learned a few things since we last saw each other.{^n}{^n}Dravis stunned me with a cloud of vile magic that I quickly worked to dispel, but by the time the haze had lifted, he was gone, his sword the only reminder of our meeting.
-I have another question.
-Don't do anything foolish.
-Be careful, Daila.
-I have another question.
-Good luck.
-You seem rather secretive about your father.
-He left us when we were still children and never returned, so I don't feel particularly protective of him.{^n}{^n}Honestly, there is so much misinformation out there, I'm not sure what to believe and what is myth.{^n}{^n}I know that he is a powerful mage and that he learned things about the arcane in his lifetime that most only dream of. He's also done some regrettable things in his day, things that Dravis now pursues.
-Regrettable things?
-When he taught us some rudimentary magic, he warned us of abusing it.{^n}{^n}In the past he had used people, often unwillingly, as sources of power; even as conduits for his rituals.{^n}{^n}He did not hold anything back. He wanted us to know that magic is often ugly and can be misused in the wrong hands.
-I have another question.
-I see.
-I have another question.
-Farewell.
-Nevermind.
-Hope you find him.
-Don't you have someplace better to be?
-I suppose I do.
-You're back. Did you find anything?
-No sign of Dravis, but I did find his minions.
-So he knew I would follow. Then the notes he's been leaving me are not just his suspicions.{^n}{^n}Somehow he knows, and he wants me dead? Or perhaps he's testing me.{^n}{^n}Is there anything else you've found? Anything at all could serve as a clue.
-I did find something on his thrall.
-Hmm, I've never seen a flower quite like this, but it cannot be a coincidence.{^n}{^n}Dravis is still bitter after our last encounter, the note on the flower confirms that.{^n}{^n}I will have to investigate further. Thank you for your assistance. You've been a tremendous help.{^n}{^n}I said I would make this worthwhile to you, and I intend to deliver. Here, the blade of my brother Dravis. He abandoned it during our last encounter. It is heavily enchanted, crafted for him by our father.{^n}{^n}It would be a joy to see Blazeheart serving a worthwhile cause once more.
+﻿黛拉·索恩斯巴利
+不能让德拉维斯的目的得逞
+我有一些问题。
+我知道你有很多问题。
+德拉维斯真的威胁到你的父亲了吗？
+我不确定，他似乎确信，他能通过不停追寻父亲的足迹威胁到父亲。{^n}{^n}我父亲是我见过的最强大的法师。但德拉维斯为了赶上父亲做过很多可怕的事。
+我还有一个问题。
+也许我们会发现的。
+我们肯定可以在事情变严重前阻止他。
+你准备做什么？
+由于德拉维斯都是通过虚空来行动，所以无法知道他接下来的位置。{^n}{^n}但我好像知道他要去哪，所以我要带着这些神秘的花去找他。{^n}{^n}谢谢你的帮助，但从现在起我必须自己去找他了。
+你确定你可以一个人解决他吗？
+我自己也是练过的。{^n}{^n}哭泣柳树的故事是真的，但我没有告诉你结局。{^n}{^n}这是一场为了我们所有人的艰苦战斗，但最终会以我粉碎德拉维斯的阴谋而告终。不幸的是，自从上次见面后他也学会不少技能。{^n}{^n}德拉维斯使用的邪术云雾让我吃了一惊，但我很快就驱散了，就在那时四周突然烟雾缭绕，他人消失其中，只留下他的剑。
+我还有一个问题。
+别做傻事。
+小心点，黛拉
+我还有一个问题。
+祝你好运。
+你似乎不怎么了解你的父亲。
+他在我们还是孩子的时候就离开我们了，再也没有回来过。所以我对他没什么印象。{^n}{^n}说实话，关于他的传言太多了，我都分不清哪些是真的了。{^n}{^n}我只知道他是个强大的法师，他一生都在追求那些梦寐以求的奥术。但他也做了不少让他懊悔事，就和现在的德拉维斯做的事一样。
+让他懊悔的事？
+他在教我们一些基本的法术时就警告我们不要滥用。{^n}{^n}过去他很不情愿地用人作为力量来源，甚至用活人进行仪式{^n}{^n}他没有对我们隐瞒，他希望我们明白法术是丑恶的，常常被人滥用。
+我还有一个问题。
+我懂了。
+我还有一个问题。
+再会。
+没关系。
+希望你能找到他。
+难道你没有别的地方可去了吗？
+我想是的。
+你回来了，又发现什么吗？
+没找到德拉维斯，但我找到了他笔记。
+他知道我会跟来的。他留给我的这些笔记不只是纪录了他的怀疑。{^n}{^n}还有他知道的，他想杀了我？还是考验我？{^n}{^n}你还找到了什么？他留下来的任何东西都有可能是线索。
+我从他的爪牙身上找到了这些。
+嗯。我从没有见过这样的花，但这绝不是巧合。{^n}{^n}花中的笔记证实了自从上次见面后，德拉维斯就变得更疯狂了。{^n}{^n}我要深入调查。谢谢你的帮助。你帮我一个了大忙。{^n}{^n}我说过我会报答你的。给，这是我兄长德拉维斯的剑它本是父亲亲手给兄长做的，但自从我们上次碰面后他就遗弃它了，这把剑已经附过魔了。{^n}{^n}再次看到火焰之心派上用场真的很开心。
 
-Hope you find him.
-Thank you for the blade.
-Hmm, I've never seen a flower quite like this, but it cannot be a coincidence.{^n}{^n}Dravis is still bitter after our last encounter, the note on the flower confirms that.{^n}{^n}I will have to investigate further. Thank you for your assistance. You've been a tremendous help.{^n}{^n}I said I would make this worthwhile to you, and I intend to deliver. Here, a mighty weapon from another era.{^n}{^n}I hope it serves you well.
+希望你能找到他。
+谢谢你送我剑。
+嗯。我从没有见过这样的花，这绝不是巧合。{^n}{^n}花中的笔记证实了自从上次见面后，德拉维斯变得更疯狂了。{^n}{^n}我要深入调查。谢谢你的帮助。你帮我一个了大忙。{^n}{^n}我说过我会报答你的。给，一把跨时代的强力武器{^n}{^n}希望它能帮到你。
 
-Hope you find him.
-Thank you for the weapon.
-There's no time to waste. Dravis' trail could go cold on me again.
-Where do I need to look again?
-There is a rift to an area of the void known as the Cinder Wastes somewhere in Mourndale.{^n}{^n}Dravis' taunts are leading me to believe that he is using the void travel again.
-I'll check it out.
-We'll find him, don't worry.
-Dravis is here, I am now sure of it thanks to you.{^n}{^n}But unfortunately where he's gone, very few can go safely.
-What do we do now?
-Dravis is right. I cannot follow him into the void, not without debilitating sickness and an overwhelming desire to mutilate my flesh and tear out my eyes...What? We don't all handle exposure to the void equally.{^n}{^n}Given that you are here and you hadn't arrived by the method I used, then you must handle yourself better than I could within that forsaken reality. Dravis taunting me to follow him there is either some sort of cruel joke, or he knows that somebody is helping me. Neither is very comforting.{^n}{^n}There is only one chthonic rift in Mourndale, and it leads into the Cinder Wastes. If Dravis really is this reckless, then that is the only place he could have gone.{^n}{^n}Please, investigate this lead for me as I cannot. If you do, I will give you something in return that's sure to make the risks worthwhile.
-I will search the Cinder Wastes.
-I'm sorry, you're on your own for this one.
-I've been there, I found only his minions.
+希望你能找到他。
+谢谢你的武器。
+别浪费时间了。又要找不到德拉维斯的踪迹了。
+还要我去哪看看？
+马尔茅斯的某处有一个裂缝，他通向一个叫余烬荒地的虚空。{^n}{^n}德拉维斯的嘲笑使我确信他又在用这个虚空行动了。
+我会去看看的。
+别担心，我们会找到他的。
+谢谢你，我很确信德拉维斯就在这。。{^n}{^n}不幸的是，已经他已经离开了，没几个人能平安经过那。
+我们现在该怎么办？
+德拉维斯说的没错，我无法进入虚空追踪他，因为使人衰弱的疾病和那足以撕碎我的身体，让我哭出来。。。什么？我们对虚空的承受力是不同的。{^n}{^n}既然你在这，又从没用过我的方法进入虚空，我想你肯定比我更适合进去。看着我这么紧紧追着他，德拉维斯只是不停地嘲笑着我。这是残忍的玩笑，还是他知道有人在帮我。都让人觉得不舒服。{^n}{^n}马尔茅斯郊外只有一条冥煞裂缝，它通向余烬荒地。如果德拉维斯真的在那，那他就只有一个地方可以去。{^n}{^n}拜托了，继续替我追查下去。如果你做到了，我会给你奖励的。
+我会找到余烬荒地的。
+我很抱歉，你自己找吧。
+我已经去过了，我只找到一些笔记。
 
-I think you're on your own from here.
-Any luck out there?
-Is this what you're looking for?
-Let's see what you found.{^n}{^n}*Dails reads it over*{^n}{^n}Yes, this is definitely from Dravis. That bastard.
-What now?
+我想从现在起靠你自己吧。
+这里找的怎么样了？
+这是你在寻找的吗？
+让我们看看你找到了什么。{^n}{^n}*黛拉读了一遍 *{^n}{^n}这肯定是那个混蛋德拉维斯的。
+现在怎么办？
 
-Good luck with the rest.
-Any luck out there?
-Where should I be looking?
-Dravis' trail has gone cold and I'm searching nearby places for new clues. If you can help me out, search the ruins of the Malmouth Outskirts to the north of here.{^n}{^n}Look for any tomes or notes with messages written to me.
+祝你好运。
+这儿找的怎么样了？
+我该去哪找？
+德拉维斯的踪迹又不见了，我要到附近寻找新的线索。如果你愿意帮我，请到马尔茅斯郊区北部的废墟搜查下。{^n}{^n}查找所有的能给我提供信息的书记和笔记。
 
-I'll take a look.
-I have some questions.
-I'm sure you do.{^n}{^n}But is this really the right time?
-Who's your father?
-*Daila sighs*{^n}{^n}I knew him as Armin Thall, but have since learned that he bore many names in his lengthy lifetime. I do not know anymore which is true.{^n}{^n}Dravis now pursues relentlessly, hoping for some form of revenge. I've tracked him down as far as here, but the trail has gone cold.
-I have another question.
-I see.
-You left your husband behind?
-Oliver? He'll understand, in time.{^n}{^n}He's a good man, but he has a very narrow view of the world that doesn't leave much room for its wonders...and dangers.
-I have another question.
-I see.
-How did you get all the way out here on your own?
-Don't underestimate a girl's desire to see the world.{^n}{^n}I can take care of myself and I know ways to get around that you may not consider.
-I have another question.
-I see.
-Nevermind.
-I'm still searching
-Well, you've convinced me. Here I am, tracking my deranged brother.{^n}{^n}Now are you going to help me or not?
-Daila? What are you doing here?
-My brother, Dravis...he's become obsessed with our father. Somehow he's got in his head that our father had betrayed us when we were children, that he denied us power that was rightfully ours.{^n}{^n}In retrospect, I see it as a mercy; keeping us from the dark secrets that tormented our father's existence, nightmares of events that he cannot scour from memory.{^n}{^n}But Dravis does not see it that way. He's already harmed himself irrevocably in pursuit of our father, and has shown no sign of stopping. He believed that we should do this together, but I refused to be a part of it. However, this obsession has gone on long enough and I feel a familial responsibility towards putting a stop to this madness.{^n}{^n}I've tracked Dravis as far as here, but the trail has gone cold. I know of several leads to pursue, and now that you are here, perhaps you could help me out.If you could search the ruins of the Malmouth Outskirts to the north of here for any sign of Dravis, I'll be sure to make it worth your while. Look for any tomes or notes left behind with taunting messages written for me. Dravis loves the theatrics.
-I'll look for his clues.
-Sounds foolish.
-I think I have what you're looking for.
+我会去看看的。
+我有一些问题。
+我知道你有很多问题想问。{^n}{^n}但现在是说这个的时候吗？
+你父亲是谁？
+*黛拉轻叹一声*{^n}{^n}我知道的他叫阿敏 瑟尔，自从我知道他有很多个名字后，我就不知道哪个才是真的了。{^n}{^n}德拉维斯现在不停地追寻父亲的足迹，想要对他复仇。我已经追踪到这里了，但线索又断了。
+我还有一个问题。
+我明白了。
+你不管你的丈夫了吗？
+奥利弗？他早晚会理解的。{^n}{^n}他是个好人，但他的对这个世界知道的太少了，所以他不会明白这个世界有多精彩。。。和危险。
+我还有一个问题。
+我明白了。
+你是如何一个人走到这的？
+不要低估一个女孩对于闯荡世界的渴望。{^n}{^n}我能照顾好自己，我能做到你做不到的事。
+我还有一个问题。
+我明白了。
+没关系。
+我还在找。
+好吧你说服我了。我正在追踪我精神错乱的哥哥。{^n}{^n}你愿意帮我吗？
+黛拉？你在这干什么？
+我的兄长，德拉维斯。。。他痴迷于追寻我们父亲的踪迹。不知怎地，他认定父亲在我们还是孩子的时候就抛弃了我们，他剥夺了我们应有的权利。{^n}{^n}现在想想，我认为是在保护我们:让我们远离父亲心中黑暗秘密，黑暗活动，它们一直在父亲的脑中挥散不去，一直在折磨着他。{^n}{^n}但德拉维斯不这么想。他一直追踪着父亲的踪迹，时刻不忘对他复仇。他认为我和他应该联手，但我拒绝了。但是这份执念已经根植很深了，我认为是时候结束他的疯狂的想法了。{^n}{^n}我已经追踪德拉维斯到这了，但线索又断了。我知道有几个线索要查，既然你在这，也许你可以帮我查查。如果你能去马尔茅斯郊外北方的废墟找到任何关于德拉维斯的线索，我都会报答你的。查找所有留下来的书记和笔记，看是否有嘲笑我的信件。德拉维斯就喜欢这种戏剧效果。
+我会寻找他的线索的。
+听起来很蠢。
+我想我已经找到你在找的了。
 
-I know where Dravis has been.
+我知道德拉维斯去了哪里。
 
-I, um, found the sword, Stormheart.
+我，呃，找到了一把叫风暴之心的剑
 
-Whoah, hold on, I have some questions.
+喔，等一等，我有些问题。
 
-Good luck with that.
-Hello again.{^n}{^n}I hope you're ready to write the next chapter of my story. Unfortunately this one is still a work in progress.
-Daila? What are you doing here?
-My brother, Dravis...he's become obsessed with our father. Somehow he's got in his head that our father had betrayed us when we were children, that he denied us power that was rightfully ours.{^n}{^n}In retrospect, I see it as a mercy; keeping us from the dark secrets that tormented our father's existence, nightmares of events that he cannot scour from memory.{^n}{^n}But Dravis does not see it that way. He's already harmed himself irrevocably in pursuit of our father, and has shown no sign of stopping. He believed that we should do this together, but I refused to be a part of it. However, this obsession has gone on long enough and I feel a familial responsibility towards putting a stop to this madness.{^n}{^n}I've tracked Dravis as far as here, but the trail has gone cold. I know of several leads to pursue, and now that you are here, perhaps you could help me out.{^n}{^n}If you could search the ruins of the Malmouth Outskirts to the north of here for any sign of Dravis, I'll be sure to make it worth your while. Look for any tomes or notes left behind with taunting messages written for me. Dravis loves the theatrics.
-I'll look for his clues.
-Sounds foolish.
-I think I have what you're looking for.
-What? Hand it here.{^n}{^n}*Dails reads it over*{^n}{^n}That bastard.
-What now then?
+祝你好运。
+再见到你真好{^n}{^n}我希望你已经准备好写下一章故事了。不幸的是，
+黛拉？你在这干什么？？
+我的兄长，德拉维斯。。。他痴迷于追寻我们父亲的踪迹。不知怎地，他认定父亲在我们还是孩子的时候就抛弃了我们，他剥夺了我们应有的权利。{^n}{^n}现在想想，我认为是在保护我们:让我们远离父亲心中黑暗秘密，黑暗活动，它们一直在父亲的脑中挥散不去，一直在折磨着他。{^n}{^n}但德拉维斯不这么想。他一直追踪着父亲的踪迹，时刻不忘对他复仇。他认为我和他应该联手，但我拒绝了。但是这份执念已经根植很深了，我认为是时候结束他的疯狂的想法了。{^n}{^n}我已经追踪德拉维斯到这了，但线索又断了。我知道有几个线索要查，既然你在这，也许你可以帮我查查。如果你能去马尔茅斯郊外北方的废墟找到任何关于德拉维斯的线索，我都会报答你的。查找所有留下来的书记和笔记，看是否有嘲笑我的信件。德拉维斯就喜欢这种戏剧效果。
+我会寻找他的线索的。
+听起来很蠢。
+我想我已经找到你在找的了。
+什么？把它给我。{^n}{^n}*黛拉读了一遍*{^n}{^n}那个混蛋。
+现在怎么办？
 
-Good luck with your search.
-I know where Dravis has been.
-Dravis is obsessive. He's been leaving me notes of his foolhardy pursuit all over the place, hoping that I'll stumble upon one and find him.{^n}{^n}Well, I suppose his wish is coming true. This has gone on long enough. I'm putting a stop to it.
-What are you doing out here?
+祝你早点找到。
+我知道德拉维斯去哪了。
+德拉维斯。他把记载他丧心病狂的追踪笔记留在这儿，希望我能发现它们。{^n}{^n}好吧，他的愿望成真了。这种已经情况持续很久了。我必须了结它。
+你在这干什么？
 
-I need to think about all this.
-I, um, found the sword, Stormheart.
-You what?!{^n}{^n}*Daila pauses, contemplating*{^n}{^n}Well, I suppose it's rightfully yours then. It was a gift from my father, so treat it well.
-I think you should keep it.
-It served me well once, but now it brings back painful memories. I left it behind for a reason.{^n}{^n}Keep it.
+我要好好想想。
+我，呃，找到了一把叫风暴之心的剑
+你找到了什么？!{^n}{^n}*黛拉停顿了一下，沉思着*{^n}{^n}好吧，我想它归你了。这是我父亲的礼物，好好使用它。
+我想应该由你来保管。
+它曾经为我所用，但现在只能给我带来痛苦的回忆。我不要它是有原因的。{^n}{^n}拿着吧。
 
-What are you doing out here?
+你在这干什么？
 
-Very well.
-Those stories of yours...they're not really just stories, are they?
-A few embellishments here and there, but yes, they happened.{^n}{^n}Oliver likes to pretend that our lives are simple, that all of my history is just that, history; but I can't pretend like he does.
-You should take the sword.
-What are you doing out here?
+很好。
+你讲的那些故事。。。他们不只是故事对吗？
+是的，只是稍加修饰，它们都是确实发生过的。{^n}{^n}奥利弗喜欢把我们的生活想的很简单，就连我的过去也想的很简单，毫不计较。但是我做不到。
+你该拿着这把剑。
+你在这干什么？
 
-I see.
-What are you doing out here?
-Um, alright.
-Whoah, hold on, I have some questions.
-I'm sure you do.{^n}{^n}But is this really the right time?
-Who's your father?
-*Daila sighs*{^n}{^n}I knew him as Armin Thall, but have since learned that he bore many names in his lengthy lifetime. I do not know any more which is true.{^n}{^n}Dravis now pursues him relentlessly, hoping for some form of revenge. I've tracked him down as far as here, but the trail has gone cold.
-What are you doing out here?
-I have another question.
-I need to think about all this.
-You left your husband behind?
-Oliver? He'll understand, in time.{^n}{^n}He's a good man, but he has a very narrow view of the world that doesn't leave much room for its wonders...and dangers.
-What are you doing out here?
-I have another question.
-I need to think about all this.
-How did you get all the way out here on your own?
-Don't underestimate a girl's desire to see the world.{^n}{^n}I can take care of myself and I know ways to get around that you may not consider.
-Where'd you get that armor?
-This old thing?{^n}{^n}A relic from another life, when I was more into adventuring and less into writing about it.
-What are you doing out here?
-I have another question.
-I need to think about all this.
-What are you doing out here?
-I have another question.
-I need to think about all this.
-Nevermind.
-Good luck with that.
-Don't you have someplace better to be?
-I suppose I do.
+我知道了。
+你在这干什么？
+呃，好吧。
+喔，等一等，我有些问题。
+我知道你有很多问题想问。{^n}{^n}但现在是说这个的时候吗？
+你父亲是谁？
+*黛拉轻叹一声*{^n}{^n}我知道的他叫阿敏 瑟尔，自从我知道他有很多个名字后，我就不知道哪个才是真的了。{^n}{^n}德拉维斯现在不停地追寻父亲的足迹，想要对他复仇。我已经追踪到这里了，但线索又断了。
+你在这干什么？
+我还有个问题。
+我要好好想想。
+你不管你的丈夫了吗？
+奥利弗？他早晚会理解的。{^n}{^n}他是个好人，但他的对这个世界知道的太少了，所以他不会明白这个世界有多精彩。。。和危险。
+你在这干什么？
+我还有个问题。
+我要好好想想。
+你是如何一个人走到这的？
+不要低估一个女孩对于闯荡世界的渴望。{^n}{^n}我能照顾好自己，我能做到你做不到的事。
+你从哪得到这身装甲的？
+这身旧行头？{^n}{^n}我从另一个人那里继承的，那时侯我还热衷冒险而不是写冒险故事
+你在这做什么？
+我还有一个问题。
+我要好好想想。
+你在这做什么？
+我还有一个问题。
+我要好好想想。
+没关系。
+祝你好运。
+你没有别的地方去了吗？
+我想是的。

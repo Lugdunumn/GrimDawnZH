@@ -89,6 +89,7 @@ tagGDX1WeaponGun1hD107=余烬之核
 tagGDX1WeaponGun1hD108=神盾左轮手枪
 tagGDX1WeaponGun1hD109=黑暗火焰 焚炉
 tagGDX1WeaponGun1hD110=达加隆的破坏者
+tagGDX1WeaponGun1hD110_Desc="枪管内部的符文以超自然的力量将子弹击发出去。"
 tagGDX1WeaponGun1hD111=达加隆的歼灭者
 tagGDX1WeaponGun1hD112=哈加拉迪安执法者
 tagGDX1WeaponGun1hD112_Desc="枪膛内装满了哈加拉德原始符文的片段，每一片都注入了刺骨的寒冷."
@@ -1809,7 +1810,7 @@ tagGDX1Quest_ObsidianCrystal=符文黑曜石
 #Dungeon Doors
 tagGDX1UGDoorFactoryEntrance=血肉束缚入口
 tagGDX1UGDoorSlums=烛光区
-tagGDX1UGDoorIndust=钢盔区
+tagGDX1UGDoorIndust=钢盖区
 tagGDX1UGDoorHideout=反抗军避难所
 tagGDX1UGDoorFactoryGeneric=血肉束缚之门
 tagGDX1UGDoorFactoryHeart=心脏

@@ -1,17 +1,17 @@
-Nadia
-What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
-Help is on the way.
-What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
-Calm down, I've been looking for you.
-Looking for us? {^n}{^n}I wouldn't have thought they'd risk sending someone else to check on us.
-Captain Wilfor sent me.
-Bless the captain. He wasn't sure we could do this, and he was right.{^n}{^n}There were others, another scavenge team. Have you seen them?
-They're safe, now you need to get out of here.
-That's good news.{^n}{^n}After we split up, I couldn't find them again. I assumed they were dead.{^n}{^n}Whatever you need to do to get us out of here, I'm ready.
-Ok, here you go. (Open Riftgate)
-I'll find them, but you need to get out of here first.
-Whatever you need to do, I'm ready.{^n}{^n}Anything to be out of here.
-Here you go. (Open Riftgate)
-Hold on a moment.
-What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off by the Aetherials.
-I'll send someone to help you.
+纳蒂亚
+什么?又一名幸存者?{^n}{^n}欢迎来到地狱。我们被困在这里了，出路全被虚灵切断了。
+我就来帮你们。
+什么?又一名幸存者?{^n}{^n}欢迎来到地狱。我们被困在这里了，出路全被虚灵切断了。
+冷静，我就是来找你们的。
+找我们? {^n}{^n}我没想到他们会让别人冒险来救我们。
+威尔佛队长派我来的。
+赞美威尔佛队长。他之前觉得我们是做不来这件事的，他说得对。{^n}{^n}还有其他人在附近，他们是另一支拾荒队伍。你看到他们了吗？
+他们很安全，现在你们该离开这儿了。
+真是个好消息。{^n}{^n}我们分开后就再也找不到他们了。我本以为他们已经死了。{^n}{^n}不管你准备用什么法子把我们弄走，我都准备好了。
+好，出发了。(打开传送门)
+我会找到他们，可现在你们得先离开这儿。
+不管你准备用什么法子把我们弄走，我都准备好了。{^n}{^n}不管怎么样也要逃出生天。
+出发。(打开传送门)
+等一下。
+什么?又一名幸存者?{^n}{^n}欢迎来到地狱。我们被困在这里了，出路全被虚灵切断了。
+我会派人来帮你们的。

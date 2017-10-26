@@ -1,27 +1,27 @@
-Bloodsworn Nimia
-Bastard! You'll just leave us here to die?!
-You made your choice.
-You deserve far worse.
-If only your allies were as compassionate as you.
+﻿血誓·尼米亚
+混蛋！你要把我们扔在这等死吗？！
+你做出了自己的选择。
+你罪有应得。
+要是你的盟友都像你一样仁慈就好了。
 
-We're doomed...
+我们都在劫难逃。。。
 
-Bastard! You'll just leave us here to die?!
-It was not my decision.
-Gods bless you for your mercy!{^n}{^n}I cannot imagine what horrors awaited us still.{^n}{^n}We're getting out of here as soon as we get our bearings. If that's even possible.
-I hope you learned from this.
-Now get out of here.
-Please...hurry, before more Chthonians arrive.
-Alright, alright.
-By the gods, I thought you were doomed and you just...destroyed that creature!{^n}{^n}Please, spare us this torment! Let us out.
-Aren't you Bloodsworn? Why should I help you?
-I understand that the cult has caused much harm across Cairn in recent months, but you have to understand.{^n}{^n}We were desperate. We joined the cult because it offered safety, not because we believe in all this blood and Ch'thon madness. We were not even involved with the Necropolis.{^n}{^n}You have to believe me! I beg you. Destroy that runed crystal nearby and let us out.I swear we'll burn these robes and try to do something worthwhile with our second chance, assuming we even make it out of the void alive.
-Alright, I will help you. (Help them)
-You deserve to die here. (Leave them)
-I'm not dealing with Bloodsworn.
-I don't know what you are doing here, but you need to leave. Now!{^n}{^n}It approaches...
-What's happening?
-Lunal'Valgoth, the Steward of Darkness. Our tormentor.{^n}{^n}I can feel it approaching.{^n}{^n}Leave now or join our fate.
-That doesn't sound good.
-I can deal with it.
-What approaches?
+混蛋！你要把我们扔在这等死吗？！
+这不是我的决定。
+因为你的仁慈，神会保佑你的！{^n}{^n}我无法想象还有什么恐怖的东西在等着我们。{^n}{^n}我们一找到方向就马上离开这，如果能离开的话。
+我希望你能从中吸取教训。
+现在离开这吧。
+请。。。请快一点，马上会有更多的冥煞过来。
+好吧，好吧。
+神啊，我原本以为你死定了，但你。。。你打败了那个怪物！{^n}{^n}拜托了，。让我们摆脱这个折磨！救我们出去。
+你是血誓的人？我为什么要帮你？
+我知道最近几个月的冥神仪式给凯恩大陆带来了沉重的打击，但你要明白，我们也是逼不得已啊。我们加入那个仪式只是为了寻求庇护，不是因为我们信仰这些鲜血和冥煞的疯言{^n}{^n}你一定要相信我！我求你了，摧毁附近的水晶，把我们放出去。我保证我们会烧掉血誓长袍，洗心革面重新做人，不会浪费你给我的第二次机会。
+好吧，我会帮你的。(帮助他们)
+你们在这等死吧。(抛弃他们)
+我不想和血誓扯上关系。
+我不知道你在这干什么，但你最好马上离开！{^n}{^n}它要来了。。。
+发生了什么？
+是露娜瓦尔高斯，黑暗掌管者，我们的苦痛根源{^n}{^n}我能感觉到它正在接近。{^n}{^n}赶紧离开否则就跟我们一样迎接审判吧。
+这听起来不怎么妙。
+我能够处理的。
+什么来了？

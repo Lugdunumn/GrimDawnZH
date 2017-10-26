@@ -12,7 +12,7 @@ tagGDX1MapMalmouthOutskirtsRuins=马尔茅斯郊外
 tagGDX1MapMalmouthOutskirtsMine=杰尔索恩矿井
 tagGDX1MapMalmouth=马尔茅斯
 tagGDX1MapUgdenbogSlums=烛光区
-tagGDX1MapMalmouthIndustrial=钢盔区
+tagGDX1MapMalmouthIndustrial=钢盖区
 tagGDX1MapMalmouthInner=皇冠高地
 tagGDX1MapMalmouthDocks=马尔茅斯港
 
@@ -26,7 +26,7 @@ tagGDX1RiftUgdenbogCenter=巫登沼泽传送门
 tagGDX1RiftUgdenbogVillage=河中岛传送门
 tagGDX1RiftMalmouthAetherfire=孤独望传送门
 tagGDX1RiftMalmouthOutskirts=马尔茅斯郊外传送门
-tagGDX1RiftMalmouthIndustrial=马尔茅斯钢盔区传送门
+tagGDX1RiftMalmouthIndustrial=马尔茅斯钢盖区传送门
 tagGDX1RiftMalmouthInner=马尔茅斯皇冠高地传送门
 tagGDX1RiftMalmouthSewers=马尔茅斯下水道传送门
 
@@ -100,7 +100,7 @@ tagGDX1Sign_UgenbogVillage=河中岛
 tagGDX1Sign_UgenbogMine=河中岛矿井
 tagGDX1Sign_Malmouth=马尔茅斯
 tagGDX1Sign_MalmouthSlums=烛光区
-tagGDX1Sign_MalmouthIndustrial=钢盔区
+tagGDX1Sign_MalmouthIndustrial=钢盖区
 tagGDX1Sign_MalmouthInner=皇冠高地
 tagGDX1Sign_MalmouthDocks=马尔茅斯港
 
@@ -166,7 +166,7 @@ tagGDX1POI_MQSewersEntrance=马尔茅斯下水道入口
 tagGDX1POI_MQSewersExit=马尔茅斯下水道出口
 tagGDX1POI_ResistanceBase=反抗军根据地
 tagGDX1POI_ResistanceHideout=反抗军避难所
-tagGDX1POI_SteelcapDistrictEntrance=钢盔区
+tagGDX1POI_SteelcapDistrictEntrance=钢盖区
 tagGDX1POI_SteelcapDistrictExit=反抗军避难所
 tagGDX1POI_FleshwrappedEnclaveEntrance=血肉包装区入口
 tagGDX1POI_FleshwrappedEnclaveExit=血肉包装区出口
@@ -235,7 +235,7 @@ tagGDX1NPC_AreaE_28=守卫辛迪亚
 
 tagGDX1WitchWard=守护图腾
 
-tagGDX1NPC_AreaF_01=科瑞尼亚
+tagGDX1NPC_AreaF_01=科瑞尼娅
 tagGDX1NPC_AreaF_02=威尔佛队长
 tagGDX1NPC_AreaF_03=伊旺达
 tagGDX1NPC_AreaF_04=瑞维亚·霍尔
@@ -415,7 +415,7 @@ tagGDX1LoreObj_AreaF_NoteA03Text=我们是迷路的孩子，独自一人，漫�
 
 #MalmouthOutskirts_01
 tagGDX1LoreObj_AreaF_NoteA04Name=艾米·布兰诺克的日记-第1章
-tagGDX1LoreObj_AreaF_NoteA04Text=我不知道为什么我还在写这个东西。{^n}{^n}我想这是因为艾拉尔在他想要的时候能很有说服力。他说我应该每天写日记这样我们就能回忆我们的生活，记住最美好的时光。”这些可能是我们最美好的日子，我甜美的艾米，如果可以我们最好记住它们”，他总是说。我认为他是对的，我想这就是为什么我来回翻这本日记。{^n}{^n}他通常是对的，自从我们离开城市以来，我学到的东西越来越多。“城市太拥挤了，我的爱人，我们应该离开这个地方，把我们的家建在乡下”，他说，于是我们就这样做了。我们只是收拾任何我们可以携带的和走出城门。我吓坏了。我无法想象住在哪里并如何生活。马尔茅斯是我的家，我出生在钢盔区的喧嚣和污垢中。但是艾拉尔是对的，这个城市太拥挤了，这个乡村真的很美。{^n}{^n}我们给自己找了一个小而富饶的土地去种植，还有更多的空间超过任何人所能描述的。这是一个家庭开始的完美的地方，那就是我们要做的。我现在我怀我们第一个孩子已经2个月了。我知道这将是一个女孩。我一直在等待合适的时机告诉艾拉尔，但他一直很忙，在农场里辛苦地奔波着，来回奔波，去城里买东西。我不能隐瞒他更久了。他一定会很高兴的。{^n}{^n}我们最美好的日子，真的。{^n}{^n}-艾米
+tagGDX1LoreObj_AreaF_NoteA04Text=我不知道为什么我还在写这个东西。{^n}{^n}我想这是因为艾拉尔在他想要的时候能很有说服力。他说我应该每天写日记这样我们就能回忆我们的生活，记住最美好的时光。”这些可能是我们最美好的日子，我甜美的艾米，如果可以我们最好记住它们”，他总是说。我认为他是对的，我想这就是为什么我来回翻这本日记。{^n}{^n}他通常是对的，自从我们离开城市以来，我学到的东西越来越多。“城市太拥挤了，我的爱人，我们应该离开这个地方，把我们的家建在乡下”，他说，于是我们就这样做了。我们只是收拾任何我们可以携带的和走出城门。我吓坏了。我无法想象住在哪里并如何生活。马尔茅斯是我的家，我出生在钢盖区的喧嚣和污垢中。但是艾拉尔是对的，这个城市太拥挤了，这个乡村真的很美。{^n}{^n}我们给自己找了一个小而富饶的土地去种植，还有更多的空间超过任何人所能描述的。这是一个家庭开始的完美的地方，那就是我们要做的。我现在我怀我们第一个孩子已经2个月了。我知道这将是一个女孩。我一直在等待合适的时机告诉艾拉尔，但他一直很忙，在农场里辛苦地奔波着，来回奔波，去城里买东西。我不能隐瞒他更久了。他一定会很高兴的。{^n}{^n}我们最美好的日子，真的。{^n}{^n}-艾米
 
 #MalmouthOutskirts_02
 tagGDX1LoreObj_AreaF_NoteA05Name=艾米·布兰诺克的日记-第2章

@@ -23,7 +23,7 @@ achGDX1006Title=友好的争吵
 achGDX1006Desc=教训一下老朋友。
 
 achGDX1007Title=为了马尔茅斯
-achGDX1007Desc=在钢盔区夺回马尔茅斯反抗军基地。
+achGDX1007Desc=在钢盖区夺回马尔茅斯反抗军基地。
 
 achGDX1008Title=百年传说
 achGDX1008Desc=达到等级 100。

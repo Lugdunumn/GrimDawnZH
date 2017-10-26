@@ -1,30 +1,30 @@
-Markus
-Thanks for saving us.
-I was glad to help.
-You know, I think that's the last time I let anyone else volunteer me to help.{^n}{^n}I'm a dock worker, I've got no business being out there. You need some heavy stuff moved or a ship unloaded, I'm your man. {^n}{^n}But as soon as the battle starts I'm about as useful as a square wheel. It ain't like I don't try, I just don't know what I'm doing.
-You worked on the docks? 
-Yup, down at the Black Iron.{^n}{^n}It was one of the first places to fall after the Aetherials attacked. I guess they wanted to keep people from fleeing the city. Or maybe keep the empire's forces from sailing in to come to our rescue.{^n}{^n}Most of my friends died down there when the attacks started. I'd be dead too if it weren't for Korinia.
-What happened?
-When the battle broke out, the first places they hit were the guard barracks and the Black Iron docks.{^n}{^n}The city guard was decimated. Entire battalions were slaughtered while they slept, or so I heard. Come morning, there weren't but a few dozen of them left and they were scattered around the city.{^n}{^n}When the call went out that Black Iron was under attack, there was nobody to answer.{^n}{^n}We holed up in the basement of an old warehouse. When no one came to help, we just assumed we were done for.  {^n}{^n}The Aetherials were closing in all around us; we couldn't do nothin' but sit there and contemplate our end. Then Korinia came...
-Korinia came to your aid?
-She just showed up outa nowhere with a small retinue of guards.{^n}{^n}They cut through the Aetherials like weeds, but it was Korinia that lay waste to most. She musta killed near a hundred of 'em.{^n}{^n}She smashed her way into our hiding place. I swear on my mother's grave she weren't even breathing heavy. Every inch of that woman was covered in filth and blood like you can't imagine.{^n}{^n}There was somethin' else about her too, somethin' I ain't never seen before, a fire in her eyes like she was driven by something.
-What happened next?
-Korinia told us about a the resistance holing up in here and that she would cover us while we fled, but we had to run like we'd never run before.{^n}{^n}I wasn't gonna argue. We took off runnin' in the direction she pointed. I only turned back once and what I saw still gives me nightmares.{^n}{^n}She and the guards were surrounded by all manner of monstrous creation. Figured there was no chance anyone could have made it out of that alive.{^n}{^n}Thanks to her, most of us made it to safety. The guards asked about what happened to Korinia and her squad, but we thought they perished.{^n}{^n}But that night, just after sunset, she just showed up at the gates, all alone. She looked like all manner of hell had set upon her, but there she was alive and kickin'.{^n}{^n}That's one tough woman right there.
-Sounds like you owe her.
-No doubt there.{^n}{^n}That's why I agreed to go out there and help Hyram.
-You better find a way to help from back here.
-Farewell.
-Good thing she arrived in time.
-Good you made it here after all.
-She's a tough one.
-I need to go.
-The resistance could use as many strong bodies as it can get.
-Don't get me wrong, I'll do anythin' they need, so long as it's behind these walls.
+﻿马库斯
+谢谢你救了我们。
+我很高兴能帮上忙。
+你知道的，这是我最后一次无偿帮助别人。{^n}{^n}我是个码头工人，我只在这工作。你有什么需要，尽管和我说。{^n}{^n}战争打响后我就没派上什么用，不是我不想，而是我不知道该做什么。
+你在码头工作？
+是的，就在黑铁码头工作。{^n}{^n}在虚灵入侵后，它是第一批被攻陷的地方。我猜它们想阻止人类逃出城市或让帝国无法进行海上营救。{^n}{^n}我的大部分朋友在入侵刚开始时就死了。要不是科瑞尼娅，我早死了。
+发生了什么？
+战争爆发后，卫队营房和黑铁码头首当其冲。{^n}{^n}城市的守卫被消灭了，我听说整个营地的守卫都是在熟睡时被屠杀，到了早上，仅存的几十个守卫被分散到城市的四周。{^n}{^n}当黑铁码头遭到攻击发出求救时，没有人回应。{^n}{^n}我们在躲在一个旧仓库里，孤立无援，我们都认为我们完了。  {^n}{^n}除了眼睁睁看着虚灵慢慢逼近我们外什么也做不了。这时科瑞尼娅来了...
+科瑞尼娅救了你们？
+几个守卫跟随着她。{^n}{^n}他们像割草一样迅速解决了虚灵。但还是科瑞尼娅杀敌最多，几乎歼灭了100个。{^n}{^n}她走进了我们的藏身处。我发誓她几乎没有喘气。那个女人每一寸皮肤都被你无法想象的污秽和鲜血覆盖着。{^n}{^n}还有，我以前从没见过有人眼睛里燃着虚火，就像被什么驱使着一样。
+后来呢？
+科瑞尼娅告诉我们这儿有反抗军，她可以护送我们去那但我们必须以不可能的速度行进。{^n}{^n}我不想麻烦他们所以我们拒绝了她的好意。我曾返回去一次，但被所见的景象吓坏了。{^n}{^n}她和守卫们被那些怪物团团围住，看起来必死无疑。{^n}{^n}多亏了科瑞尼娅，我们才幸免于难。守卫们曾询问过科瑞尼娅和她的同伴的事，但我们知道她的同伴都死了。{^n}{^n}那天晚上太阳刚下山，她就一个人出现在城门口。肯定有很悲惨的故事发生在她身上，但她活了下来，没有放弃战斗。{^n}{^n}真是个坚强的女人。
+听起来你很佩服她。
+毫无疑问。{^n}{^n}这就是为什么我同意来这帮海拉姆。
+你最好找一条反攻的路。
+再会。
+她能及时赶到真是太好了。
+很好，毕竟你做到了。
+她真是个坚强的人。
+我要走了。
+反抗军肯定招募了所有能招募的强援
+不要误会了，我会为他们做任何事，只要是我能做的。
 
-Farewell.
-Best to stay out of the fight where it's safe.
-Leave the fighting to the people who know what they're doing.
-It was no problem.
-You're lucky I showed up.
-I'm staying put, right here behind these walls.
-Sounds like a good idea.
+再会。
+想要安全最好远离战斗。
+把战斗交给那些知道自己在做什么的人。
+没问题。
+碰上我算你走运。
+我会留在城墙后面。
+听起来不错。

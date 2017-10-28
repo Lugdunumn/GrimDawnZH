@@ -1167,13 +1167,13 @@ tagGDX1ConsumableBlueprintB103=配方：邪恶创伤药膏
 tagGDX1ConsumableBlueprintB104=配方：怒吼巨兽药剂
 tagGDX1ConsumableBlueprintB105=配方：莫格卓根药剂
 
-tagGDX1ConsumableB101=巫登果汁
+tagGDX1ConsumableB101=巫登汁液
 tagGDX1ConsumableB101Desc="一瓶由巫登之花提取物制成的香甜混合物."
 tagGDX1ConsumableB102=巫登药膏
 tagGDX1ConsumableB102Desc="一瓶由巫登之花浓缩制成的抚痛混合物."
 tagGDX1ConsumableB103=邪恶创伤药膏
 tagGDX1ConsumableB103Desc="粘稠的混合物，加速凝血."
-tagGDX1ConsumableB104=怒吼巨兽药剂
+tagGDX1ConsumableB104=咆哮巨兽药剂
 tagGDX1ConsumableB104Desc="一瓶由干的巫登之花制成的强大药剂."
 tagGDX1ConsumableB105=莫格卓根药剂
 tagGDX1ConsumableB105Desc="由莫格卓根本人制作的强大药剂."

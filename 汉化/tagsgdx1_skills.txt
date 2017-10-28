@@ -608,20 +608,20 @@ tagGDX1RelicSkillD113Desc=野兽之神的祝福围绕着你和你的仆从，保
 
 
 #ConsumableSkills
-tagGDX1ConsumableSkill_B101=Ugdenjuice
-tagGDX1ConsumableSkill_B101Desc=Fills you with a soothing warmth.
+tagGDX1ConsumableSkill_B101=巫登汁液
+tagGDX1ConsumableSkill_B101Desc=以抚慰人心的温暖充盈你的全身。
 
-tagGDX1ConsumableSkill_B102=Ugdensalve
-tagGDX1ConsumableSkill_B102Desc=Revitalizes and strengthens bones.
+tagGDX1ConsumableSkill_B102=巫登药膏
+tagGDX1ConsumableSkill_B102Desc=活化与增强骨质。
 
-tagGDX1ConsumableSkill_B103=Vilescar Ointment
-tagGDX1ConsumableSkill_B103Desc=Drastically accelerates coagulation.
+tagGDX1ConsumableSkill_B103=邪恶创伤药膏
+tagGDX1ConsumableSkill_B103Desc=大幅度的加快凝血。
 
-tagGDX1ConsumableSkill_B104=Elixir of the Dranghoul
-tagGDX1ConsumableSkill_B104Desc=Fills you with the rage of a Dranghoul.
+tagGDX1ConsumableSkill_B104=咆哮巨兽药剂
+tagGDX1ConsumableSkill_B104Desc=使你充满咆哮巨兽般的愤怒之力。
 
-tagGDX1ConsumableSkill_B105=Elixir of Mogdrogen
-tagGDX1ConsumableSkill_B105Desc=Fills you with a deeper connection to your minions.
+tagGDX1ConsumableSkill_B105=莫格卓根药剂
+tagGDX1ConsumableSkill_B105Desc=将你与你的战宠更加紧密地联系在一起。
 
 tagGDX1ConsumableSkill_F101=妖法之油
 tagGDX1ConsumableSkill_F101Desc=将你的武器涂满妖法之油。

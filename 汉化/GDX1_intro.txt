@@ -1,7 +1,7 @@
-7=^k克里德:Arum etal, arum etal,
-11=^kLo eth Solael, lo eth Bysmiel,
+7=^k克里德:设此祭坛,奉之牺牲,
+11=^k索拉尔吾神,拜斯迈吾神,
 16=^kMonem Ulgrim thon Ocollo ut Oklaine!
-22=^kAttak Seru!
+22=^k阿塔克瑟如咒!
 34=^k这样太危险.我得另辟蹊径...
 38=^e守卫:传送门-有东西要出来了!
 42=^b波旁:审判官!恶魔十字被攻击了!

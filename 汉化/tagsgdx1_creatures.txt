@@ -17,7 +17,7 @@ tagGDX1FriendlyCoven_Guard02=女巫团妖术师
 
 #CreatureFaction
 
-tagGDX1FactionCult_Guard_A01=河中岛 守卫
+tagGDX1FactionCult_Guard_A01=河中岗 守卫
 
 tagGDX1FactionCult_Melee_A01=温迪戈崇拜者 ~ 野心家
 tagGDX1FactionCult_Ranged_A01=温迪戈崇拜者 ~ 野心家

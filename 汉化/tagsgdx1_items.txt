@@ -337,7 +337,7 @@ tagGDX1HeadC105_Desc="这个号角仍然充满着可感知的黑暗."
 tagGDX1HeadC106=失魂的凝视
 tagGDX1HeadC107=污染的凝视
 tagGDX1HeadC108=掠夺者的凝视
-tagGDX1HeadC108_Desc="虽然从物理领域击败了掠夺者，但是它的精神部分仍然在面具中扭动."
+tagGDX1HeadC108_Desc="虽然从物理位面击败了掠夺者，但是它的精神部分仍然在面具中扭动."
 tagGDX1HeadC109=腐蚀者的面具
 tagGDX1HeadC110=银色哨兵的面具
 tagGDX1HeadC115=风暴使者的面容
@@ -355,7 +355,7 @@ tagGDX1HeadD109_Desc="祝福和诅咒被赋予德里格之语持有者，一个�
 tagGDX1HeadD110=至高之神的凝视
 tagGDX1HeadD110_Desc="至高神的神圣之光照耀着这个皇冠的持有者."
 tagGDX1HeadD111=掠夺者的恐惧凝视
-tagGDX1HeadD111_Desc="虽然从物理领域击败了掠夺者，但是它的精神部分仍然在面具中扭动."
+tagGDX1HeadD111_Desc="虽然从物理位面击败了掠夺者，但是它的精神部分仍然在面具中扭动."
 tagGDX1HeadD112=克里格的面具
 tagGDX1HeadD113=迷失灵魂面具
 tagGDX1HeadD114=奥克塔维尔斯的面甲
@@ -1531,13 +1531,13 @@ tagGDX1CompB106Desc="神秘印章唤起你先祖的记忆，甚至是那些你�
 #ItemFactionBoosters
 tagGDX1BoosterCU_A01=巫登沼泽女巫团的敕令
 tagGDX1BoosterCU_B01=巫登沼泽女巫团的委任状
-tagGDX1BoosterCW_A01=河中岛的敕令
-tagGDX1BoosterCW_B01=河中岛的委任状
+tagGDX1BoosterCW_A01=河中岗的敕令
+tagGDX1BoosterCW_B01=河中岗的委任状
 tagGDX1BoosterPM_A01=马尔茅斯人民的敕令
 tagGDX1BoosterPM_B01=马尔茅斯人民的委任状
 
 tagGDX1BoosterAetherialVanguard_C01=虚灵先锋通缉令
-tagGDX1BoosterWendigo_C01=河中岛通缉令
+tagGDX1BoosterWendigo_C01=河中岗通缉令
 tagGDX1BoosterBeast_C01=野兽 "通缉令"
 tagGDX1BoosterBeastDesc=你非常确定乱画的图片里的是你。
 

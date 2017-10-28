@@ -1,56 +1,56 @@
-Korinia
-I know you can't stand to be apart from me, but I'm sure there's somebody who could use your assistance right about now.
+科瑞尼娅
+我知道你离不开我，但现在肯定有人需要你帮忙。
 
-Goodbye.
-I know you can't stand to be apart from me, but isn't there an incursion happening on the surface as we speak?{^n}{^n}Aren't you...maybe supposed to be up there too?
-What about you?
-Believe me, I'd go, but I've got people that need looking after almost as much as you do.{^n}{^n}You'll make it without me. Go on now.
+再见。
+我知道你离不开我，但现在我们说话这会儿地面上虚灵不是正在入侵吗?{^n}{^n}你不该...也上去迎战吗?
+那你呢?
+相信我，我也会去的。但有人也像你一样需要我照顾呢。{^n}{^n}没有我你也行的，去吧。
 
-Alright, I'm going.
+好，我走了。
 
-Alright, I'm going.
-Goodbye.
-Welcome to Malmouth, for what it's worth.{^n}{^n}Inquisitor Creed and I have been talking. While I may have taken the lead here, I admit I do not have the military experience he does.{^n}{^n}He will defer to me for smaller operations, but commanding our troops in taking back the city will fall to him.
-I have some questions.
-What would you like to know?
-What's your role here?
-I'm the one who barks commands and everybody else listens for some reason.{^n}{^n}The inquisitor clearly has more experience than I do in war. I do not plan to stand in his way, but looking after our people is my responsibility.
-Can I ask something else?
-I see.
-What's the situation here?
-Everyone's either dead, a horribly disfigured mess or alive and hiding down here.{^n}{^n}We're quickly running out of alive, so it's a good thing you're here.{^n}{^n}Our contact with the outside world collapsed quickly after the Aetherials attacked. We've lost hope of ever taking back our city.{^n}{^n}Crown Hill, once the home to the Malmouth government and the piles of lard that grew rich off the industry here, is now the throne of Theodin Marcell, the Master of Flesh. A sickening growth is spreading outward from there that we've called the Fleshworks.
-The Fleshworks?
-It's where our people, both living and dead, are being taken. The Aetherials use human bodies as a raw material, fashioning flesh into living nightmares, transforming us into the implements of our own destruction.{^n}{^n}I have no doubts that what they are growing here is only the beginning of a grand effort. Whether Malmouth is a unique experiment or whether the horrors here are being mirrored in other once-great cities across the Erulan Empire, I can only guess. {^n}{^n}All that is happening here in Malmouth though is zealously orchestrated by Theodin Marcell, the Master of Flesh. 
+好，我走了。
+再见。
+不管怎样，都欢迎你来到马尔茅斯。{^n}{^n}我和审判官克里德一直在商谈。虽然我在这儿是管事的，但战场上还是审判官经验老到。{^n}{^n}小规模的行动他会听我调遣，但带队收复城市就要靠他了。
+我有几个问题?
+你想知道什么?
+你在这儿担任什么角色?
+我负责发号施令，其他人信任我听从我的号令。{^n}{^n}虽然审判官在战场上比我更加老到。我不会妨碍他，不过照顾我的人民我责无旁贷。
+我能问问别的事么?
+我明白了。
+这里现在情况如何?
+这儿的人要么死了，变成丑八怪，要么还活着躲在这下水道里。{^n}{^n}我们马上就不剩几个活人了，你来到这里真是件好事。{^n}{^n}自打虚灵进攻之后我们很快就和外界失去了联系。我们觉得已经没有希望夺回我们的城市了。{^n}{^n}皇冠高地曾是马尔茅斯政府的所在地，那里因为工业的兴盛积累了大量的财富。而现在那儿却成了血肉领主西奥丁·马塞尔的宝座。一种恶心的建筑正在从皇冠高地向外生长，我们把它叫做血肉工厂。
+血肉工厂?
+我们的人民不管死活都会被带到那里面去。虚灵用人类的身体作为原材料，把血肉加工成可怕的魔物。让人类变成毁灭我们自己的怪物。{^n}{^n}毫无疑问，他们所作所为只是更大劫难的预演。我不能确定马尔茅斯的实验是独一份还是说伊露兰帝国中还有其他曾经伟大的城市同样遭此大劫。{^n}{^n}马尔茅斯发生的一切全是由血肉领主，西奥丁·马塞尔精心策划和积极推动的。
 
-Can I ask something else?
-It will have to fall.
-Thanks for the info.
-Who is Theodin Marcell?
-He was an imperial surgeon from Erulan who arrived shortly before the attacks began; but in truth he was an agent of the Aetherials sent here to sow chaos in the region.{^n}{^n}Malmouth fell due to his machinations.
+我能问问别的事么?
+必须摧毁这座工厂。
+多谢告诉我这些情报。
+西奥丁·马塞尔是谁?
+他曾是帝国的一名皇家外科医生。在入侵发生后不久他便来到了这里。但实际上他是虚灵派来这里制造混乱的间谍。{^n}{^n}马尔茅斯是因为他的奸计才落入敌手。
 
-Can I ask something else?
-We'll have to deal with him.
-Thanks for the info.
-Can I ask something else?
-Sounds awful.
-How did you survive this long?
-Me personally? My charming good looks of course. That or the arcane training. I haven't decided which one.{^n}{^n}As a group, we survived with guerilla tactics and scavenging for supplies wherever the Aetherials were thinnest. Unfortunately that's become much more difficult of late.
-Can I ask something else?
-I see.
-Forget it.
-Makes sense.
-Looking forward to working together.
-I'm sorry about the cold welcome.{^n}{^n}I had no reason to believe help was actually coming after all this time, and yet here you all are.
-Understandable.
+我能问问别的事么?
+我们得解决掉他。
+多谢告诉我这些情报。
+我能问问别的事么?
+听起来形势不容乐观。
+你怎么做到活得这么久的?
+我自己吗?当然是因为我迷人的外表了。到底是因为美丽还是修练奥术，我还没想好是因为哪个呢。{^n}{^n}作为一个团体，我们靠游击战术生存，只要哪里虚灵的防守薄弱我们就去哪里收集资源。不幸的是，最近难度越来越大了。
+我能问问别的事么?
+我明白了。
+没事了。
+有道理。
+希望我们能够合作共赢。
+很抱歉冷淡地接待了你们。{^n}{^n}我实在没法相信经历过那样的灾难以后还有人来帮助我们，可你们还是来了。
+我们理解你们的难处。
 
-Whatever.
-We'll speak later.
-And you are?
-I'm with the Black Legion, here to help.
-The Black Legion? Where were they when the city burned?{^n}{^n}Where were they when our people were forced to flee into the sewers?{^n}{^n}Where were they when we watched our children get turned into monsters?!
-I'm sorry. The attacks happened everywhere.
-That may be true, but do not expect me to leap for joy because of empty gestures.{^n}{^n}If you are here to help, then act.
-Farewell.
-Well, we're here now.
-I'm sorry.
-Just leaving.
+怎样都好。
+我们稍后再谈。
+你是?
+我和黑色军团共同作战，是来帮忙的。
+黑色军团?当城市变成一片火海的时候他们在哪?{^n}{^n}当我人民被迫逃进下水道的时候他们在哪?{^n}{^n}我们眼睁睁地看着孩子们变成怪物的时候他们在哪?!
+很抱歉，到处都有虚灵在进攻。
+或许你说的是实情，但可别指望你们的无所作为就能让我一下子高兴起来。{^n}{^n}如果你们是来帮忙的，那就用行动来证明。
+再见。
+好吧，我们就是来这里帮忙的。
+抱歉。
+我先走了。

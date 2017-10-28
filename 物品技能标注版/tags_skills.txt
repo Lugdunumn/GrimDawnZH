@@ -1,4 +1,4 @@
-tagSkillClassName01=士兵
+﻿tagSkillClassName01=士兵
 tagSkillClassName02=爆破者
 tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
@@ -39,7 +39,7 @@ tagSkillClassName0507=法师猎人^T(奥术+审判)
 tagSkillClassName0508=缚法者^T(奥术+死灵)
 tagSkillClassName0509=
 tagSkillClassName0607=维护者^T(萨满+审判)
-tagSkillClassName0608=祭司^T(萨满+死灵)
+tagSkillClassName0608=[ms]祭司^T(萨满+死灵)[fs]女祭司^T(萨满+死灵)
 tagSkillClassName0609=
 tagSkillClassName0708=变节者^T(审判+死灵)
 tagSkillClassName0709=

@@ -1,4 +1,4 @@
-#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+﻿#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 tagItemNameAndStack={%s0} ({%d1})
@@ -201,7 +201,7 @@ tagWeaponAxeD002Desc="月之崇拜者的神圣武器，它曾被认为毁于神�
 tagWeaponAxeD003=凶蛮
 tagWeaponAxeD004=裂地
 tagWeaponAxeD004Desc="传说一位凡人拿着这把武器，不顾诸神的乞求而劈开了曼海尔山，由此形成了现在的曼海尔双子山。"
-tagWeaponAxeD005=天谴☆
+tagWeaponAxeD005=天谴
 tagWeaponAxeD006=死亡印记斩首斧
 
 tagWeaponAxeF001=罗瓦里的正义
@@ -2216,7 +2216,7 @@ tagRelicD005Desc="若要寻求神力，那么绝对要从发生雷暴的天空�
 tagRelicD006=清算
 tagRelicD006Desc="受汝一击，千倍奉还。"^C 为持盾物理系打造的圣物，但消费者不领情
 tagRelicD007=天灾
-tagRelicD007Desc="我无惧死神，因为我就是死亡的化身。"^C 寒冷死亡化身的圣物，简称寒门（冷门）圣物
+tagRelicD007Desc="我无惧死神，因为我就是死亡的化身。"^C 冰系的战士们，还怕莫斯劳克吗？
 tagRelicD008=奥祖因的烈火
 tagRelicD008Desc="以真火洗濯这个世界。"^C 爆破者们的最爱
 tagRelicD009=骨疽
@@ -2248,7 +2248,7 @@ tagRelicD021Desc="任何胸怀抱负的学员的第一课就是找到围绕在�
 tagRelicD022=刀剑大师护符
 tagRelicD022Desc="能够同时持握两把近战武器的象征。"^C 没有夜刃想双持近战的高级选择之一
 tagRelicD023=掠夺者护符
-tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"^C 目前想要双持手枪的高级选择之一
+tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"^C 没有审判想要双持手枪的高级选择之一
 
 #Crafting锻造
 tagCraftTabArtifactA=圣物
@@ -3568,7 +3568,7 @@ tagItemSetC017Desc="只有对曼海尔的神圣信仰最为狂热的信徒们才
 
 tagItemSetC018Name=阿卡莫斯之怒
 tagItemSetC018NameB=阿卡莫斯之怒
-tagItemSetC018Desc="安克维亚的行刑者领主阿卡莫斯的魔印。"
+tagItemSetC018Desc="安克维亚的行刑者领主阿卡莫斯的魔印。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC019Name=瘴气
 tagItemSetC019NameB=致命瘴气
@@ -3589,103 +3589,103 @@ tagItemSetC023Name=禁卫军
 tagItemSetC023Desc="久战沙场的老兵所穿的装甲，是对他们在战场上无畏献身的认可。"
 
 tagItemSetC024Name=持火者
-tagItemSetC024Desc="一颗炽烈的心脏，内部灌注了一只火焰之灵。"
+tagItemSetC024Desc="一颗炽烈的心脏，内部灌注了一只火焰之灵。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC025Name=卡里多的徽记
-tagItemSetC025Desc="卡里多大师的器物，崇尚奥术师并创造了奥术风暴的技艺。"
+tagItemSetC025Desc="卡里多大师的器物，崇尚奥术师并创造了奥术风暴的技艺。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC026Name=密尔弥冬的装甲
-tagItemSetC026Desc="黑色军团发放给精英先锋的装甲。"
+tagItemSetC026Desc="黑色军团发放给精英先锋的装甲。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC027Name=莫格卓根的平静
-tagItemSetC027Desc="很少有人能获得野兽之神的信任，而更少的人仍被他的平静注视所祝福。"
+tagItemSetC027Desc="很少有人能获得野兽之神的信任，而更少的人仍被他的平静注视所祝福。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetC028Name=奥术风暴
 tagItemSetC028Desc="伴随着虚化之力的狂暴能量。只有勇者，或是蠢货才会接近它。"
 
 tagItemSetC029Name=元素平衡
-tagItemSetC029Desc="火焰的狂怒与寒冰之力在你指尖跳动。"^o2个戒指带来华丽的输出效果
+tagItemSetC029Desc="火焰的狂怒与寒冰之力在你指尖跳动。"^o2个戒指带来华丽的输出效果（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD001Name=审判者装甲
-tagItemSetD001Desc="曼海尔的卫士中的大审判官~ 沉默的霍瓦德的盔甲。"^o肉盾套装
+tagItemSetD001Desc="曼海尔的卫士中的大审判官~ 沉默的霍瓦德的盔甲。"^o烈火肉盾套装（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD002Name=神圣平衡
-tagItemSetD002Desc="生命和死亡的本质灌注于这些刀锋之中。"^o冰火对剑，
+tagItemSetD002Desc="生命和死亡的本质灌注于这些刀锋之中。"^o冰火对剑（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD003Name=野兽召唤者的华服
-tagItemSetD003Desc="巨熊之力，夜枭之智，灵狼之怒。"
+tagItemSetD003Desc="巨熊之力，夜枭之智，灵狼之怒。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD004Name=破晓者之光
-tagItemSetD004Desc="太阳的怒火抵挡着不断侵袭的黑暗。"^o闪电反击
+tagItemSetD004Desc="太阳的怒火抵挡着不断侵袭的黑暗。"^o闪电反击（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD005Name=先驱者
-tagItemSetD005Desc="先驱者的装束，他是伊露兰边疆著名的赏金猎人。"
+tagItemSetD005Desc="先驱者的装束，他是伊露兰边疆著名的赏金猎人。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD006Name=执法官的印玺
-tagItemSetD006Desc="很多人的命运决断于一人之手。"^o万用对戒，生命恢复
+tagItemSetD006Desc="很多人的命运决断于一人之手。"^o万用对戒，生命恢复（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD007Name=屠魔者的装束
-tagItemSetD007Desc="驱魔人奥利弗·巴恩斯特德的服装，他也是曼海尔虔诚的信徒。"
+tagItemSetD007Desc="驱魔人奥利弗·巴恩斯特德的服装，他也是曼海尔虔诚的信徒。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD008Name=枪械师的双枪
-tagItemSetD008Desc="一同锻造，战为一体。"^o掷弹兵双枪
+tagItemSetD008Desc="一同锻造，战为一体。"^o掷弹兵双枪亦是技能冷却双枪（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD009Name=野性之血先锋
-tagItemSetD009Desc="一套源自蛮夷时代的收藏品。"
+tagItemSetD009Desc="一套源自蛮夷时代的收藏品。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD010Name=洞察者
-tagItemSetD010Desc="白银之塔的大法师穿过的衣服，那里是吉尔达姆秘学社的大本营。"^o混乱转虚化，帽子好用。
+tagItemSetD010Desc="白银之塔的大法师穿过的衣服，那里是吉尔达姆秘学社的大本营。"^o混乱转虚化（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD011Name=召魔者的元素
-tagItemSetD011Desc="火山的狂暴之力与北风的极寒之间获得了平衡。"
+tagItemSetD011Desc="火山的狂暴之力与北风的极寒之间获得了平衡。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD012Name=马尔科夫的堡垒
-tagItemSetD012Desc="著名战术家的装备。卡尔科夫将军在前线的每场战斗中都英勇的加入士兵们的战团。"^o盾战士力量，要么5件全套，要么2件抗性。
+tagItemSetD012Desc="著名战术家的装备。卡尔科夫将军在前线的每场战斗中都英勇的加入士兵们的战团。"^o盾战士力量，要么5件全套，要么2件抗性（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD013Name=奥祖因的化身
-tagItemSetD013Desc="这位遭遇了背叛的神灵，他沸腾的憎恨使穿戴者充斥着永不熄灭的烈焰。"^o火电与燃烧得力量。
+tagItemSetD013Desc="这位遭遇了背叛的神灵，他沸腾的憎恨使穿戴者充斥着永不熄灭的烈焰。"^o火电与燃烧得力量。（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD014Name=德里格的罩衣
-tagItemSetD014Desc="来自伟大守护者协会的高阶祭司长袍。"
+tagItemSetD014Desc="来自伟大守护者协会的高阶祭司长袍。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD015Name=死亡印记
-tagItemSetD015Desc="死亡的重担很大程度上困扰着那些抛弃了真实姓名的人。这体现了死亡印记，一位无名残忍暗杀者的遗产。"
+tagItemSetD015Desc="死亡的重担很大程度上困扰着那些抛弃了真实姓名的人。这体现了死亡印记，一位无名残忍暗杀者的遗产。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD016Name=伊斯坎德拉的团结
-tagItemSetD016Desc="伊斯坎德拉大师的悉心珍藏，是在她创造出以自己名字命名的法术那天所穿的服装。"
+tagItemSetD016Desc="伊斯坎德拉大师的悉心珍藏，是在她创造出以自己名字命名的法术那天所穿的服装。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD017Name=尤尔托斯的风暴
-tagItemSetD017Desc="尤尔托斯的化身所穿的装甲，他是天空之神，灾变风暴的施法者。"
+tagItemSetD017Desc="尤尔托斯的化身所穿的装甲，他是天空之神，灾变风暴的施法者。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD018Name=特洛赞的升华
-tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了如何利用它们难以置信的力量，尽管掌控这种原始能量充满了无尽的危险。"
+tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了如何利用它们难以置信的力量，尽管掌控这种原始能量充满了无尽的危险。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD019Name=瓦尔登的背叛
-tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"^o穿刺系套装
+tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD020Name=毒刃契约
-tagItemSetD020Desc="一群精于在武器上涂毒的夜刃穿着的护甲。"
+tagItemSetD020Desc="一群精于在武器上涂毒的夜刃穿着的护甲。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD021Name=黑炎圣约
-tagItemSetD021Desc="苍白之神的圣衣，他乃索拉尔之师，精于使用黑炎。"
+tagItemSetD021Desc="苍白之神的圣衣，他乃索拉尔之师，精于使用黑炎。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD022Name=光明卫士
-tagItemSetD022Desc="信仰的守护者，至高神之光的卫士。"^o传说中的磁暴步兵
+tagItemSetD022Desc="信仰的守护者，至高神之光的卫士。"^o传说中的磁暴步兵（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD023Name=炼狱骑士
-tagItemSetD023Desc="高若斯·瓦尔的战甲，他便是黑色军团中闻名遐迩的炼狱骑士。"
+tagItemSetD023Desc="高若斯·瓦尔的战甲，他便是黑色军团中闻名遐迩的炼狱骑士。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD024Name=阿格维克斯之怒
-tagItemSetD024Desc="阿格维克斯是位著名的奥术大师，但他力量的渴望最终导致了他的失败。"
+tagItemSetD024Desc="阿格维克斯是位著名的奥术大师，但他力量的渴望最终导致了他的失败。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD025Name=战争降生战甲
-tagItemSetD025Desc="这套战甲铸造于战争之中，它比其他任何存世的圣物都经历过更多的纷争。"
+tagItemSetD025Desc="这套战甲铸造于战争之中，它比其他任何存世的圣物都经历过更多的纷争。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD026Name=血怒者的狂乱
-tagItemSetD026Desc="北方冰封荒原的野人部落，血怒者所穿的护甲。"
+tagItemSetD026Desc="北方冰封荒原的野人部落，血怒者所穿的护甲。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD027Name=行刑者的魔印
-tagItemSetD027Desc="安克维亚的行刑者阿卡莫斯散布着恐惧，他所到之处便凶兆已然临近"
+tagItemSetD027Desc="安克维亚的行刑者阿卡莫斯散布着恐惧，他所到之处便凶兆已然临近"^o（神话级与普通的混搭不能取得套装效果）
 
 #Prefixes前缀
 

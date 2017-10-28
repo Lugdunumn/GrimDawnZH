@@ -2,7 +2,7 @@
 
 tagGDX1MapDarkWood=幽暗森林
 tagGDX1MapUgdenbog=巫登沼泽
-tagGDX1MapUgdenbogVillage=河中岗
+tagGDX1MapUgdenbogVillage=巴罗霍尔姆
 tagGDX1MapUgdenbogCoven=女巫团避难所
 tagGDX1MapUgdenbogAltar=莱托什祭坛
 
@@ -23,7 +23,7 @@ tagGDX1RiftGloomwaldEntrance=幽暗森林传送门
 tagGDX1RiftGloomwaldRiverCrossing=幽暗森林渡口传送门
 tagGDX1RiftUgdenbogCoven=女巫团避难所传送门
 tagGDX1RiftUgdenbogCenter=巫登沼泽传送门
-tagGDX1RiftUgdenbogVillage=河中岗传送门
+tagGDX1RiftUgdenbogVillage=巴罗霍尔姆传送门
 tagGDX1RiftMalmouthAetherfire=孤独望传送门
 tagGDX1RiftMalmouthOutskirts=马尔茅斯郊外传送门
 tagGDX1RiftMalmouthIndustrial=马尔茅斯钢盖区传送门
@@ -34,7 +34,7 @@ tagGDX1RiftMalmouthSewers=马尔茅斯下水道传送门
 
 tagGDX1WorldMapGloomwald=幽暗森林
 tagGDX1WorldMapUgdenbog=巫登沼泽
-tagGDX1WorldMapUgdenbogVillage=河中岗
+tagGDX1WorldMapUgdenbogVillage=巴罗霍尔姆
 tagGDX1WorldMapUgdenbogCoven=女巫团的{^n}避难所
 
 tagGDX1WorldMapMalmouthOutskirts=哀伤谷
@@ -54,7 +54,7 @@ tagGDX1WorldMapBeastRoguelike=远古{^n}树林
 
 #Underground Names
 
-tagGDX1UGUgdenbogMine01=河中岗矿井
+tagGDX1UGUgdenbogMine01=巴罗霍尔姆矿井
 tagGDX1UGUgdenbogCave01=嘉娜克希亚的巢穴
 tagGDX1UGUgdenbogCave02=莱莉亚的巢穴
 tagGDX1UGUgdenbogCave03=丛林
@@ -96,8 +96,8 @@ tagGDX1UGSecret02=死亡试炼
 #Signs
 
 tagGDX1Sign_DarkWoodRoad=荆棘海岸
-tagGDX1Sign_UgenbogVillage=河中岗
-tagGDX1Sign_UgenbogMine=河中岗矿井
+tagGDX1Sign_UgenbogVillage=巴罗霍尔姆
+tagGDX1Sign_UgenbogMine=巴罗霍尔姆矿井
 tagGDX1Sign_Malmouth=马尔茅斯
 tagGDX1Sign_MalmouthSlums=烛光区
 tagGDX1Sign_MalmouthIndustrial=钢盖区
@@ -114,13 +114,13 @@ tagGDX1Gravestone_DC03=这里埋葬着:鲁克
 tagGDX1POICarraxusDenA=卡拉克萨斯巢穴入口
 tagGDX1POICarraxusDenB=卡拉克萨斯巢穴出口
 
-tagGDX1POIBarrowholm=河中岗
+tagGDX1POIBarrowholm=巴罗霍尔姆
 
-tagGDX1POIAbandonedMineA=河中岗矿井入口
-tagGDX1POIAbandonedMineB=河中岗矿井出口
+tagGDX1POIAbandonedMineA=巴罗霍尔姆矿井入口
+tagGDX1POIAbandonedMineB=巴罗霍尔姆矿井出口
 
-tagGDX1POIBarrowholmCellarA=河中岗地窖入口
-tagGDX1POIBarrowholmCellarB=河中岗地窖出口
+tagGDX1POIBarrowholmCellarA=巴罗霍尔姆地窖入口
+tagGDX1POIBarrowholmCellarB=巴罗霍尔姆地窖出口
 
 tagGDX1POIWendigoCaveA=温迪戈巢穴入口
 tagGDX1POIWendigoCaveB=温迪戈巢穴出口
@@ -179,12 +179,12 @@ tagGDX1POI_BridgeLever=马尔茅斯桥控制装置
 #Notifications
 
 tagNotification_AreaE_Barrowholm_Clue01=你从地下室听到了一些令人不安的声音…
-tagNotification_AreaE_Barrowholm_Clue02=河中岗一定有着丰富多彩的历史...
+tagNotification_AreaE_Barrowholm_Clue02=巴罗霍尔姆一定有着丰富多彩的历史...
 tagNotification_AreaE_Barrowholm_Clue03=这个配方看起来有些古怪...
 tagNotification_AreaE_Barrowholm_CellarOpen=斯科夫的钥匙似乎适合这个地下室的门锁...
 
 tagNotification_AreaF_OuterBridgeRiftgateEvent=这个传送门充满了虚灵.
-tagNotification_AreaF_OuterBridgeRiftGateEventClear=这个传送门没有敌人.
+tagNotification_AreaF_OuterBridgeRiftGateEventClear=这个传送门的敌人已经被清除了.
 tagNotification_AreaF_RebelBaseRiftgateEvent=反抗军基地的虚灵泛滥成灾.
 tagNotification_AreaF_RebelBaseRiftgateEventClear=你清除了敌人的基地.
 tagNotification_AreaF_LiberateRebels01Found=附近有一群囚犯在呼救.
@@ -313,8 +313,8 @@ tagGDX1QuestItemUlgrimHeirloom_Desc="一个看似平凡之物。审判官克里�
 tagGDX1QuestItemUlgrimHeirloom02=艾格瑞姆的信物
 tagGDX1QuestItemUlgrimHeirloom02_Desc="用女巫团的魔法制成，它应该，有希望，找到通往艾格瑞姆的路。."
 
-tagGDX1QuestItemCellarKey_Name=河中岗地窖钥匙.
-tagGDX1QuestItemCellarKey_Desc="简单锻造的钥匙。它看起来比河中岗的任何东西都要古老和破旧."
+tagGDX1QuestItemCellarKey_Name=巴罗霍尔姆地窖钥匙.
+tagGDX1QuestItemCellarKey_Desc="简单锻造的钥匙。它看起来比巴罗霍尔姆的任何东西都要古老和破旧."
 
 
 
@@ -362,7 +362,7 @@ tagGDX1LoreObj_AreaE_Barrowholm_A01Text=在这个艰难的时刻，我经常发�
 
 #Barrowholm_02
 tagGDX1LoreObj_AreaE_Barrowholm_A02Name=奥琳的食谱
-tagGDX1LoreObj_AreaE_Barrowholm_A02Text=如今，一块像样的肉都是罕见的景象，因此我们必须怀着敬意珍惜每一次饱餐一顿的机会。虽然我发现我们最近的猎物有点硬和瘦，但它们并不完全令人不快，更像是刚被宰杀的鹿一样。我最初发现它的味道令人作呕，但之后我越来越喜欢它精致的层次之间细微的差别。{^n}{^n}作为斯科夫队伍中最受欢迎的之一，我通常都会挑选最好的肉片，所以我总是热情地去屠杀腿或手臂的部分。我要求把骨头放进去，因为它真的很有味道，能使肉在烹饪后保持多汁。不过，我最近的试验表明，更短的烹调时间是最令人最满意的。{^n}{^n}加一些切碎的黑洋葱和轻轻洒一些香草在侧面烧焦的肉上，还在流血的肉片是一个绝妙的体验，是每个河中岗的人所羡慕的。关键技巧是烧焦外面的同时保持内部仍然多汁。{^n}{^n}斯科夫他说，我的灵感可以解决肆虐的饥荒，但是我知道他这样说是为了振作我们的精神。我不值得被这样的赞美。{^n}{^n}- 奥琳·伊夫琳
+tagGDX1LoreObj_AreaE_Barrowholm_A02Text=如今，一块像样的肉都是罕见的景象，因此我们必须怀着敬意珍惜每一次饱餐一顿的机会。虽然我发现我们最近的猎物有点硬和瘦，但它们并不完全令人不快，更像是刚被宰杀的鹿一样。我最初发现它的味道令人作呕，但之后我越来越喜欢它精致的层次之间细微的差别。{^n}{^n}作为斯科夫队伍中最受欢迎的之一，我通常都会挑选最好的肉片，所以我总是热情地去屠杀腿或手臂的部分。我要求把骨头放进去，因为它真的很有味道，能使肉在烹饪后保持多汁。不过，我最近的试验表明，更短的烹调时间是最令人最满意的。{^n}{^n}加一些切碎的黑洋葱和轻轻洒一些香草在侧面烧焦的肉上，还在流血的肉片是一个绝妙的体验，是每个巴罗霍尔姆的人所羡慕的。关键技巧是烧焦外面的同时保持内部仍然多汁。{^n}{^n}斯科夫他说，我的灵感可以解决肆虐的饥荒，但是我知道他这样说是为了振作我们的精神。我不值得被这样的赞美。{^n}{^n}- 奥琳·伊夫琳
 
 #Barrowholm_03
 tagGDX1LoreObj_AreaE_Barrowholm_A03Name=通过血肉，我们成为了他的选择。
@@ -593,7 +593,7 @@ tagGDX1StoreTitle_FactionQuartermaster_04=军需官
 
 #Faction Bounty Tables
 tagGDX1NPC_FactionTable_01=巫登沼泽女巫团赏金桌
-tagGDX1NPC_FactionTable_02=河中岗赏金桌
+tagGDX1NPC_FactionTable_02=巴罗霍尔姆赏金桌
 tagGDX1NPC_FactionTable_03=马尔茅斯赏金桌
 
 

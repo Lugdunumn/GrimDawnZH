@@ -19,8 +19,8 @@ tagFactionUser9Rewards5=可进入势力特有商店
 tagFactionUser9Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器 {^n}势力特有护甲 {^n}势力特有装备设计图
 tagFactionUser9Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有装备设计图
 tagFactionUser9Rewards8=稀有增幅 {^n}该势力委任状 {^n}精英级势力护甲 {^n}势力传奇装备设计图
-tagFactionUser10=河中岗
-tagFactionUser10Info=营地:巫登沼泽{^n}{^n}河中岗，如同泥泞中的一颗宝石，洁净无瑕又平和安宁的它与其四周危险的沼泽截然不同。它的居民们保护他们的家园，对新的造访者们既热情又提防着。{^n}{^n}总之，在这个被虚灵和冥煞蹂躏着的世界中，如此完美的家园值得不惜一切代价来保护。
+tagFactionUser10=巴罗霍尔姆
+tagFactionUser10Info=营地:巫登沼泽{^n}{^n}巴罗霍尔姆，如同泥泞中的一颗宝石，洁净无瑕又平和安宁的它与其四周危险的沼泽截然不同。它的居民们保护他们的家园，对新的造访者们既热情又提防着。{^n}{^n}总之，在这个被虚灵和冥煞蹂躏着的世界中，如此完美的家园值得不惜一切代价来保护。
 tagFactionUser10Rewards1=刷新复仇级单位
 tagFactionUser10Rewards2=刷新额外英雄单位
 tagFactionUser10Rewards3=刷新额外敌人
@@ -52,7 +52,7 @@ tagFactionUser12Rewards8=N/A
 
 #Quest
 tagCodexJournalSubHeadingUgdenbog=幸存者-巫登沼泽
-tagCodexJournalSubHeadingBarrowholm=幸存者-河中岗
+tagCodexJournalSubHeadingBarrowholm=幸存者-巴罗霍尔姆
 tagCodexJournalSubHeadingMalmouth=幸存者-马尔茅斯
 
 #SkillUI

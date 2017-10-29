@@ -354,19 +354,19 @@ tagGDX1MiniBoss_Chthonian01=盖博尔森, 疯狂面容
 
 tagGDX1MiniBoss_Chthonian02=拉卡瓦尔高斯·血肉饮者
 
-tagGDX1Boss_Wendigo01=掠夺者的心智
-tagGDX1Boss_Wendigo02=掠夺者的灵魂
-tagGDX1Boss_Wendigo03=掠夺者的血肉
-tagGDX1Boss_Wendigo04=纳梅迪亚, 尖啸者
+tagGDX1Boss_Wendigo01=心智掠夺者
+tagGDX1Boss_Wendigo02=灵魂掠夺者
+tagGDX1Boss_Wendigo03=血肉掠夺者
+tagGDX1Boss_Wendigo04=尖啸者 纳梅迪亚
 
 tagGDX1MiniBoss_Wendigo01=汉达罗斯
 tagGDX1MiniBoss_Wendigo02=奥利维斯
 tagGDX1MiniBoss_Wendigo03=尤沃劳斯
-tagGDX1MiniBoss_Wendigo04=帕克拉, 转变者
+tagGDX1MiniBoss_Wendigo04=转变者 帕克拉
 
-tagGDX1Boss_Roguelike01=斯拉斯萨尔·虚灵凝视
+tagGDX1Boss_Roguelike01=虚灵凝视 斯拉斯萨尔
 tagGDX1Boss_Roguelike02=大地之壳·康尼维尔斯
-tagGDX1Boss_Roguelike03=加尔加伯·野性之心
+tagGDX1Boss_Roguelike03=野性之心 加尔加伯·
 
 tagGDX1EnclaveBoss01=德莱文·科尔
 tagGDX1EnclaveBoss02=艾尔贝兰·瑞恩

@@ -1783,7 +1783,7 @@ tagGDX1ChestOneShot_MalmouthHidden=雷克托的藏匿物
 
 tagGDX1Chest_MadRamblingsReward=伊旺达的礼物
 tagGDX1Chest_MadRamblingsLoot=伊旺达的藏匿物
-tagGDX1Chest_MadRamblingsNote=伊旺达的护胸
+tagGDX1Chest_MadRamblingsNote=伊旺达的宝箱
 
 tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
 

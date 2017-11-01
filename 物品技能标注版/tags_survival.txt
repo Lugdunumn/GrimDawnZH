@@ -38,16 +38,16 @@ tagTrap_SkillA04_Desc=附近的水晶塔散发出毒烟令你窒息，降低你�
 
 #PowerUps
 tagSkillPowerup01=艾尔洛的祝福（+33%群体控制效果抗性，50%降低DOT伤害的持续时间）
-tagSkillPowerup01Desc=你受到艾尔洛的祝福，增强你对持续性伤害与群体控制效果的抗性。
+tagSkillPowerup01Desc=你受到艾尔洛的祝福，增强你对持续性伤害与群体控制效果的抗性。（+控制抗性）
 
-tagSkillPowerup02=至高之神的指引（+60%生命值）
-tagSkillPowerup02Desc=至高之神的圣光祝福着你，赐予你无与伦比的勇气。
+tagSkillPowerup02=至高之神的指引（+60%生命值,战宠增加30%生命值）
+tagSkillPowerup02Desc=至高之神的圣光祝福着你，赐予你无与伦比的勇气。（+生命值）
 
-tagSkillPowerup03=阿玛托克的伟力（所有类型伤害修正+30%，+5%攻击能力）
-tagSkillPowerup03Desc=你被阿玛托克之灵标记，赋予你无双之力。
+tagSkillPowerup03=阿玛托克的伟力（所有类型伤害修正+30%，+4.7%OA，宠物+100%全伤，3%OA）
+tagSkillPowerup03Desc=你被阿玛托克之灵标记，赋予你无双之力。（+OA +%类型伤害）
 
-tagSkillPowerup04=奥祖因的契约（+100%能量回复，降低20%技能冷却时间）
-tagSkillPowerup04Desc=你被奥祖因标记，让你充满无尽怒火。
+tagSkillPowerup04=奥祖因的契约（+100%能量回复，降低5%技能冷却时间，宠物+10%全速）
+tagSkillPowerup04Desc=你被奥祖因标记，让你充满无尽怒火。（+能量恢复 -冷却时间）
 
 
 #Rewards

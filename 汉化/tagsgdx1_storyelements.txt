@@ -1,4 +1,4 @@
-﻿#Region Names
+#Region Names
 
 tagGDX1MapDarkWood=幽暗森林
 tagGDX1MapUgdenbog=巫登沼泽

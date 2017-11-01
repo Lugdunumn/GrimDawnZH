@@ -1,4 +1,4 @@
-﻿
+
 #CreatureFriendly
 
 tagGDX1FriendlyMalmouth_Guard01=马尔茅斯反抗军~ 游击兵
@@ -338,7 +338,7 @@ tagGDX1MiniBoss_Bog07=污秽·卡拉克萨斯
 tagGDX1MiniBoss_Bog08=被困的幽灵
 tagGDX1MiniBoss_Bog09=阿弗瑞斯·骨髓疾病
 tagGDX1MiniBoss_Bog10=奈克森·阴影
-tagGDX1MiniBoss_Bog11=斯科夫, 掠夺者的仆人
+tagGDX1MiniBoss_Bog11=掠夺者的仆人 斯科夫
 
 tagGDX1MiniBoss_Bog12=艾亚·杜格尔德
 tagGDX1MiniBoss_Bog13=弗瑞斯·杜格尔德
@@ -347,12 +347,12 @@ tagGDX1MiniBoss_Bog14=尼克·杜格尔德
 tagGDX1WitchBoss_Basilisk=岩石蛇怪
 tagGDX1WitchBoss_Spirit=邪恶的灵魂
 
-tagGDX1Boss_Chthonian01=露娜瓦尔高斯, 黑暗管家
-tagGDX1Boss_Chthonian02=艾柯特祖尔, 黑暗先驱
+tagGDX1Boss_Chthonian01=黑暗管家 露娜瓦尔高斯
+tagGDX1Boss_Chthonian02=黑暗先驱 艾柯特祖尔
 
-tagGDX1MiniBoss_Chthonian01=盖博尔森, 疯狂面容
+tagGDX1MiniBoss_Chthonian01=疯狂面容 盖博尔森
 
-tagGDX1MiniBoss_Chthonian02=拉卡瓦尔高斯·血肉饮者
+tagGDX1MiniBoss_Chthonian02=血肉饮者 拉卡瓦尔高斯
 
 tagGDX1Boss_Wendigo01=心智掠夺者
 tagGDX1Boss_Wendigo02=灵魂掠夺者
@@ -453,14 +453,14 @@ tagGDX1DevotionWraith_H04=安德隆 ~ 吸血
 
 #Bounties
 tagGDX1BountyCU04=凡诺克西斯·愤怒
-tagGDX1BountyCU05=克罗格诺斯·炽热先锋
+tagGDX1BountyCU05=炽热先锋  克罗格诺斯
 tagGDX1BountyCU06=哈布诺·虚空之选
 tagGDX1BountyCU07=希兰卡尔·污染的
 tagGDX1BountyCU08=寒冷钳爪
-tagGDX1BountyCU09=瓦加罗斯·永不满足的
+tagGDX1BountyCU09=永不满足的瓦加罗斯
 
-tagGDX1BountyCW04=达尔维高·法师之爪
-tagGDX1BountyCW05=瑞达高瓦·风暴之血
+tagGDX1BountyCW04=法师之爪 达尔维高
+tagGDX1BountyCW05=风暴之血 瑞达高瓦
 tagGDX1BountyCW06=斯维利尔斯
 tagGDX1BountyCW07=波特瑞奥斯
 tagGDX1BountyCW08=弗拉德里斯

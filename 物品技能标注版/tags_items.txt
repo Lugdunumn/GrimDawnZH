@@ -1,4 +1,4 @@
-﻿#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 tagItemNameAndStack={%s0} ({%d1})
@@ -496,8 +496,8 @@ tagWeaponCaster1hC005=虚空魔刃
 tagWeaponCaster1hC006=血瘟刻刀
 tagWeaponCaster1hC007=魂之刻刀
 tagWeaponCaster1hC007_Desc="据说这把刀不仅能切割肉体，还能伤及灵魂。"
-tagWeaponCaster1hC008=科托西安召唤者
-tagWeaponCaster1hC008_Desc="科托西安的大师们在施展奥术时偏爱使用的武器。"
+tagWeaponCaster1hC008=科托锡安召唤者
+tagWeaponCaster1hC008_Desc="科托锡安的大师们在施展奥术时偏爱使用的武器。"
 tagWeaponCaster1hC009=骤霜
 tagWeaponCaster1hC010=生命之索
 tagWeaponCaster1hC011=火花之石权杖

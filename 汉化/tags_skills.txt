@@ -488,7 +488,7 @@ tagClass05SkillName00=奥术
 tagClass05SkillDescription00=磨炼躯体与意志,方能驾驭原始的魔法力量.
 
 tagClass05SkillName01A=[奥术师]帕内蒂的复制飞弹
-tagClass05SkillDescription01A=最为杰出的科托西安奥术师帕内蒂一直在致力于改进经典的奥术飞弹.他的成就似乎违反了能量守恒定律,经他改进的飞弹会在击中敌人时复制为多枚飞弹.
+tagClass05SkillDescription01A=最为杰出的科托锡安奥术师帕内蒂一直在致力于改进经典的奥术飞弹.他的成就似乎违反了能量守恒定律,经他改进的飞弹会在击中敌人时复制为多枚飞弹.
 tagClass05SkillName01B=[奥术师]失真
 tagClass05SkillDescription01B=复制飞弹会扰动敌人的实体,使飞弹有时会穿过敌人.
 tagClass05SkillName01C=[奥术师]超压

@@ -1330,7 +1330,7 @@ tagCharLifeRegenModifier={^E}生命回复速度提高 {^H}{%.0f0}%
 tagCharConstitutionModifier={%+.0f0}% {^E}体力
 tagCharManaRegenModifier={^E}能量回复速度提高 {^H}{%.0f0}%
 
-tagCharManaLimitReserve={%+.0f0} {^E}点预留能量值
+tagCharManaLimitReserve={%.0f0} {^E}点预留能量值
 tagCharManaLimitReserveMod={%+.0f0} {^E}点预留能量值
 tagCharManaLimitReserveReduction={^E}预留能量值减少 {%.0f0}
 tagCharManaLimitReserveModifier={^E}预留能量值 {+%.0f0}%

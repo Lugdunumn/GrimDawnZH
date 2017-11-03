@@ -1,4 +1,4 @@
-#General
+﻿#General
 
 tagGameDifficultySetting01=普通难度
 tagGameDifficultySetting02=精英难度
@@ -1949,7 +1949,7 @@ DefenseFreezeR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}冻结持续时间
 DefenseKnockdown={^E}减少 {^H}{%.0f0}% {^E}击倒持续时间
 DefenseKnockdownNegative={%.0f0}% {^E}击倒抗性
 DefenseKnockdownR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^E}击倒持续时间
-DefensePetrify={^E}减少 {^H}{%.0f0}% {^E}石化持续时间
+DefensePetrify={^E}减少 {^H}{%.0f0}% {^p}石化持续时间
 DefensePetrifyNegative={%.0f0}% {^p}石化抗性
 DefensePetrifyR={^E}减少 {^H}{%.0f0}-{%.0f1}% {^p}石化持续时间
 DefenseTaunt={%.0f0}% {^E}的嘲讽抵抗(仅战宠/陷阱)

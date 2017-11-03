@@ -343,8 +343,8 @@ tagGDX1HeadC110=银色哨兵的面具
 tagGDX1HeadC115=风暴使者的面容
 tagGDX1HeadC122=恐惧行者兜帽
 tagGDX1HeadC123=光明之帽
-tagGDX1HeadC124=刺激之锅
-tagGDX1HeadC124_Desc="这只能说太刺激了."
+tagGDX1HeadC124=激情之锅
+tagGDX1HeadC124_Desc="戴上这口锅之后整个人激情十足."
 
 tagGDX1HeadD101=死灵领主的凝视
 tagGDX1HeadD102=剧毒术士诡计
@@ -1724,7 +1724,7 @@ tagGDX1PrefixB107_Sh_A=石面的
 
 
 #Suffixes
-tagGDX1SuffixA101=of 
+tagGDX1SuffixA101=之
 
 tagGDX1SuffixB101_Wpn_A=受折磨灵魂之
 tagGDX1SuffixB102_Wpn_A=灵魂守护之
@@ -1816,7 +1816,7 @@ tagGDX1UGDoorFactoryGeneric=血肉束缚之门
 tagGDX1UGDoorFactoryHeart=心脏
 tagGDX1UGDoorSewerGeneric=污水管
 tagGDX1RiftVoidExit=虚空出口
-tagGDX1WendioDoor=地下室 入口
+tagGDX1WendioDoor=地下室入口
 tagGDX1WitchDoor=住宅入口
 tagGDX1FleshFactoryDoor=血肉入口
 tagGDX1DoorMapleStump01=空洞的入口

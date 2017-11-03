@@ -1,4 +1,4 @@
-tagSkillClassName07=审判官
+﻿tagSkillClassName07=审判官
 tagSkillClassName08=死灵法师
 
 tagSkillClassName0107=战术家^T（士兵+审判）
@@ -7,7 +7,7 @@ tagSkillClassName0207=净化者^T（爆破+审判）
 tagSkillClassName0208=污染者^T（爆破+死灵）
 tagSkillClassName0307=欺诈者^T（神秘+审判）
 tagSkillClassName0308=秘术师^T（神秘+死灵）
-tagSkillClassName0407=潜伏者^T（夜刃+审判）
+tagSkillClassName0407=[ms]潜伏者^T（夜刃+审判）[fs]渗透者^T(夜刃+审判)
 tagSkillClassName0408=收割者^T（夜刃+死灵）
 tagSkillClassName0507=法师猎人^T（奥术+审判）
 tagSkillClassName0508=缚法者^T（奥术+死灵）
@@ -249,8 +249,8 @@ tagGDX1ItemSkillC109Desc=一个训练有素的光明审判官的降临，足矣�
 tagGDX1ItemSkillC110Name=毒弹爆裂
 tagGDX1ItemSkillC110Desc=从你身边爆发一阵有毒的球体
 
-tagGDX1ItemSkillC111Name=Noxious Fumes
-tagGDX1ItemSkillC111Desc=Unleash your excitement.
+tagGDX1ItemSkillC111Name=剧毒烟雾
+tagGDX1ItemSkillC111Desc=释放你的激情。
 
 tagGDX1ItemSkillC112Name=
 tagGDX1ItemSkillC112Desc=

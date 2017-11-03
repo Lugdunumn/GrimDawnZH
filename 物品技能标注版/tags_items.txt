@@ -1,4 +1,4 @@
-#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+﻿#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 tagItemNameAndStack={%s0} ({%d1})
@@ -74,10 +74,10 @@ tagWeaponSwordD007Desc="看着这把剑，你能感受到自己的死期。"
 tagWeaponSwordD008=新生
 tagWeaponSwordD008Desc="只要看到这把武器，你的内心就会充满希望。"
 tagWeaponSwordD009=死亡印记之爪
-tagWeaponSwordD010=风暴之心
+tagWeaponSwordD010=风暴之心☆
 tagWeaponSwordD010Desc="一些字母被刻入了刀柄之中：D.T."
 tagWeaponSwordD011=掠夺者之爪
-tagWeaponSwordD012=癫狂女王之爪
+tagWeaponSwordD012=癫狂女王之爪☆
 tagWeaponSwordD012Desc="和同类分开，被困于城墙之下，革翅目虫后慢慢变得疯狂。"
 tagWeaponSwordD013=毒刃剃刀
 
@@ -387,7 +387,7 @@ tagWeaponMelee2hB003=凶蛮巨斧
 tagWeaponMelee2hB004=凶蛮切肉斧
 tagWeaponMelee2hB005=凶蛮斩首斧
 tagWeaponMelee2hB006=^l阿卡莫斯之镰
-tagWeaponMelee2hB007=^l幽光战斧
+tagWeaponMelee2hB007=幽光战斧
 tagWeaponMelee2hB008=^l阿卡莫斯战争之剑
 tagWeaponMelee2hB009=^l幽光战锤
 tagWeaponMelee2hB010=^l执政官的战锤
@@ -541,7 +541,7 @@ tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
 tagWeaponCaster1hD018=黑炎剑
-tagWeaponCaster1hD019=奥德里奇的命令
+tagWeaponCaster1hD019=奥德里奇的命令☆
 tagWeaponCaster1hD019Desc="在下达他人生中最后一道命令之后，范·奥德里奇将整座城市葬送在了恐怖黎明之中。"
 
 tagWeaponCaster1hF001=军团唤火者
@@ -583,7 +583,7 @@ tagShieldA008=轻圆盾
 tagShieldA009=步兵盾
 tagShieldA010=鸢盾
 
-tagShieldB001=^l典狱长的壁垒
+tagShieldB001=典狱长的壁垒
 tagShieldB001Desc="用硬化钢和无情的恨意锻造而成。"
 tagShieldB002=^l典狱长的堡垒
 tagShieldB003=幽光盾
@@ -3661,7 +3661,7 @@ tagItemSetD018Name=特洛赞的升华
 tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了如何利用它们难以置信的力量，尽管掌控这种原始能量充满了无尽的危险。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD019Name=瓦尔登的背叛
-tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"o（神话级与普通的混搭不能取得套装效果）
+tagItemSetD019Desc="瓦尔登是凯恩最出色的射手之一，但在将伊露兰的权贵作为目标之后，他就真正变得声名狼藉。"^o（神话级与普通的混搭不能取得套装效果）
 
 tagItemSetD020Name=毒刃契约
 tagItemSetD020Desc="一群精于在武器上涂毒的夜刃穿着的护甲。"^o（神话级与普通的混搭不能取得套装效果）

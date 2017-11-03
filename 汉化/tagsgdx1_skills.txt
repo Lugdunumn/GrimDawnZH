@@ -249,8 +249,8 @@ tagGDX1ItemSkillC109Desc=一个训练有素的光明审判官的降临，足矣�
 tagGDX1ItemSkillC110Name=毒弹爆裂
 tagGDX1ItemSkillC110Desc=从你身边爆发一阵有毒的球体
 
-tagGDX1ItemSkillC111Name=Noxious Fumes
-tagGDX1ItemSkillC111Desc=Unleash your excitement.
+tagGDX1ItemSkillC111Name=剧毒烟雾
+tagGDX1ItemSkillC111Desc=释放你的激情。
 
 tagGDX1ItemSkillC112Name=
 tagGDX1ItemSkillC112Desc=

@@ -2200,7 +2200,7 @@ tagRelicC015=先祖
 tagRelicC015Desc="与先祖相同的血液之中，流淌着真正的潜力。"
 tagRelicC016=剑舞者护符
 tagRelicC016Desc="能够同时持握两把近战武器的象征。"
-tagRelicC017=掠夺者护符
+tagRelicC017=劫掠者护符
 tagRelicC017Desc="能够同时手持两把手枪进行精准射击的象征。"
 
 tagRelicD001=守护

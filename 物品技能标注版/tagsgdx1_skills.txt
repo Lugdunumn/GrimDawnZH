@@ -28,88 +28,88 @@ tagGDX1Class02SkillTracker02A=已放置迫击炮数
 #Class07
 
 tagGDX1Class07SkillName00A=审判官
-tagGDX1Class07SkillDescription00A=在对抗奥术和神秘的战斗中严格训练。
+tagGDX1Class07SkillDescription00A=经历了与奥术和神秘组织战斗的严酷历练。
 
 tagGDX1Class07SkillName01A=[审判官]痛苦之语
-tagGDX1Class07SkillDescription01A=将奥术符文精心编织进装备，审判官的声音足以对敌人造成巨大的痛苦。用一个词语让敌人在奥术力量下痛苦挣扎。
+tagGDX1Class07SkillDescription01A=将奥术符文精心织入装备，只消审判一语便可让敌人在奥能攻击下痛苦挣扎。
 tagGDX1Class07SkillName01B=[审判官]苦难之语
-tagGDX1Class07SkillDescription01B=用元素的力量强化疼痛之语，扩大影响范围并造成苦难的伤害，使目标视野模糊。
+tagGDX1Class07SkillDescription01B=用元素力量强化痛苦之语，扩大影响范围并造成使目标视觉模糊的苦难伤害。
 tagGDX1Class07SkillName01C=[审判官]死亡判决
-tagGDX1Class07SkillDescription01C=用一个词语使元素能量在敌人的体内破裂，终结他们的命运。
+tagGDX1Class07SkillDescription01C=只消一语，元素能量便会在敌人体内破裂，终结他们的命运。
 
 tagGDX1Class07SkillName02A=[审判官]艾尔格洛斯的风暴之盒
-tagGDX1Class07SkillDescription02A=打开刻有符文的艾尔格洛斯的风暴之盒，用精神能量缠绕目标，电化周围的空气，使不幸靠近的敌人受到电击。
+tagGDX1Class07SkillDescription02A=开启刻有符文的艾尔格洛斯风暴之盒，用精神能量缠绕目标并电化周围的空气，使不幸靠近的敌人受到电击。
 tagGDX1Class07SkillName02B=[审判官]闪电绳链
-tagGDX1Class07SkillDescription02B=通过闪电绳索将目标连接到你身上，使所有不幸穿越它的敌人都受到电击。绳索内的能量是有限的，如果你和目标之间的距离变得过远，它就会扯断。^o在任何特定时间内最多有3名敌人可以被连接。
+tagGDX1Class07SkillDescription02B=通过闪电绳链将目标连接到你身上，使所有不幸穿越它的敌人都受到电击。绳链的能量有限，如果你和目标之间的距离变得过远，它就会扯断。^o最多可与3名敌人保持连接。
 tagGDX1Class07SkillName02C=[审判官]阿拉加斯特的奥术织网
-tagGDX1Class07SkillDescription02C=虽然光明会被熟知是监察吉尔达姆秘学社活动的，但是认可合作在两者之间是闻所未闻的。在精确调整风暴之盒后，电磁场中充满了虚化的奥术能量。^o闪电伤害转换为虚化伤害。
+tagGDX1Class07SkillDescription02C=虽然光明会负责监察吉尔达姆秘学社的活动，但是认可合作在两者之间并非闻所未闻的。在精确地调整风暴之盒后，电磁场中充满了虚化的奥术能量。^o绳链依然附带电击伤害。
 
 tagGDX1Class07SkillName03A=[审判官]重生之语
-tagGDX1Class07SkillDescription03A=随着一道拥有摧毁敌人和振奋盟友力量的短语，充满力量的词语快速变成了审判官的武器。重生之语是审判官的无价之宝，因为在战时它有一种能力，能鼓舞审判官和他的盟友并团结他们对抗神秘的敌人。
+tagGDX1Class07SkillDescription03A=带有摧毁敌人和振奋盟友力量的短语迅速成为了审判官的作战利器。重生之语是审判官的无价之宝，因为在战时它能鼓舞审判官和他的盟友团结起来对抗神秘的敌人。
 tagGDX1Class07SkillName03B=[审判官]活力
 tagGDX1Class07SkillDescription03B=一个训练有素的审判官不会让任何事情阻挡猎物的毁灭。
 tagGDX1Class07SkillName03C=[审判官]钢铁决心
 tagGDX1Class07SkillDescription03C=重生之语能使感官敏锐并坚定对抗污秽的决心。
 tagGDX1Class07SkillName03D=[审判官]武器之语
-tagGDX1Class07SkillDescription03D=使用强大的双手武器来延伸他们的意志，审判官可以将符文刻进他们的装备并且能够更频繁地使用重生之语。^o需要装备双手近战武器或双手远程武器。
+tagGDX1Class07SkillDescription03D=将意志注入强大的双手武器，审判官可以将更多的符文刻进他们的装备并且能更频繁地使用重生之语。^o需要装备双手近战武器或双手远程武器。
 
 tagGDX1Class07SkillName04A=[审判官]伊格纳法之焰
 tagGDX1Class07SkillDescription04A=把伊格纳法之石置于胸前，只要将意志持续引导进神器，就能从掌中爆发出一道烈焰奔流。
 tagGDX1Class07SkillName04B=[审判官]增强
-tagGDX1Class07SkillDescription04B=强化伊格纳法之焰，融穿护甲并将肉体烧成灰烬。
+tagGDX1Class07SkillDescription04B=强化伊格纳法之焰，融穿护甲并将敌人烧成灰烬。
 tagGDX1Class07SkillName04C=[审判官]地狱肃清
-tagGDX1Class07SkillDescription04C=你的意志从伊格纳法之石中倾泻，肃清敌人于燃烧的地狱之中。
+tagGDX1Class07SkillDescription04C=你的意志从伊格纳法之石中倾泻而出，敌人将在地狱火海之中被肃清。
 tagGDX1Class07SkillName04D=[审判官]无尽之焰
-tagGDX1Class07SkillDescription04D=只要通过足够的训练，审判官就可以长时间地将能量和不断增长的毁灭性效果保持在伊格纳法之石中。
+tagGDX1Class07SkillDescription04D=只要通过足够的训练，审判官就能长时间地将能量维持在伊格纳法之石中并使毁灭性力量不断增长。
 tagGDX1Class07SkillName04E=[审判官]污染之焰
-tagGDX1Class07SkillDescription04E=虽然这是罕见的，但一些审判官已经堕落并信奉他们曾经对抗的力量。通过引导虚空进入伊格纳法之石，取而代之释放出一道污染之焰。
+tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=[审判官]哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文是最早收藏在光明会宝库的宝物之一，但是帝国施加压力消除了在首都的神秘活动之后，它也成为了被批准研究和通过光明会复制切断敌人逃生路线的第一神器。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响。
+tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=[审判官]凛冽
-tagGDX1Class07SkillDescription05B=哈加拉德符文释放的寒冷能量，使用受难者的头脑变迟钝，更易于被后续攻击猎杀。
+tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
 tagGDX1Class07SkillName05C=[审判官]寒潮
-tagGDX1Class07SkillDescription05C=释放哈加拉德符文全部的潜能，使弱小的敌人不寒而栗。
+tagGDX1Class07SkillDescription05C=释放哈加拉德符文的全部潜能，使弱小的敌人不寒而栗。
 
 tagGDX1Class07SkillName06A=[审判官]审判官秘印
-tagGDX1Class07SkillDescription06A=将防护性秘印刻在地上，庇护盟友并责难穿越边界的敌人，秘印的力量会随时间减弱并消失。^o审判官秘印会受到玩家伤害加成的影响。
+tagGDX1Class07SkillDescription06A=刻于地面的防护性秘印能庇护盟友并惩戒越界的敌人，秘印会随着时限而消逝。^o审判官秘印会受到玩家伤害加成的影响。
 tagGDX1Class07SkillName06A_PetSkill01=屏障
-tagGDX1Class07SkillName06A_PetSkill02=责难
+tagGDX1Class07SkillName06A_PetSkill02=惩戒
 tagGDX1Class07SkillName06B=[审判官]奥术强化
 tagGDX1Class07SkillDescription06B=站在秘印中的盟友会被奥术能量强化，将新的力量注入他们的武器和法术之中。
 tagGDX1Class07SkillName06C=[审判官]空无之境
-tagGDX1Class07SkillDescription06C=审判官秘印的铭文是可改变的，在需要时硬化屏障来抵挡投射物，但这将增加能量的流失。
+tagGDX1Class07SkillDescription06C=审判官秘印的铭文可根据需求改变，强化屏障来抵御投射物，但会增加精神负担。
 
 tagGDX1Class07SkillName07A=[审判官]卡拉斯特符文
-tagGDX1Class07SkillDescription07A=将卡拉斯特符文部署在地上，这个不稳定的神器会在敌人触碰后引发爆炸，在战场上洒出爆炸弹片并造成严重伤害。^o卡拉斯特符文需要1.5秒时间来部署并会受到玩家伤害加成的影响。
+tagGDX1Class07SkillDescription07A=将不稳定的卡拉斯特符文部署在地面，敌人触碰后将引发爆炸，抛洒于战场的爆裂弹片能造成严重伤害。^o卡拉斯特符文需要1.5秒时间来部署并会受到玩家伤害加成的影响。
 tagGDX1Class07SkillName07B=[审判官]引燃
-tagGDX1Class07SkillDescription07B=卡拉斯特符文变得越发地不稳定，使接触点附近的敌人晕眩并引发瞬间额外爆炸。
-tagGDX1Class07SkillName07A_PetSkill=震荡爆炸
+tagGDX1Class07SkillDescription07B=卡拉斯特符文变得越发地不稳定，在接触点引发瞬间的额外爆炸并眩晕附近的敌人。
+tagGDX1Class07SkillName07A_PetSkill=震荡冲击
 
 tagGDX1Class07SkillName08A=[审判官]信念光环
 tagGDX1Class07SkillDescription08A=装饰在审判官护甲上的防护性符文可以扩展到附近的盟友，提供强化的战斗意识和战争技艺。^o这项技能必须保持开启以持续生效。
 
 tagGDX1Class07SkillName09A=[审判官]责难光环
-tagGDX1Class07SkillDescription09A=审判官的存在足以唤醒敌人的恐惧，将奥术符文装饰在护甲上，让审判官心中充满烈焰冲向激烈的战场。^o这项技能必须保持开启以持续生效。
+tagGDX1Class07SkillDescription09A=审判官的存在足以唤起敌人的恐惧，装饰在护甲上奥术符文让审判官心中充满烈焰向激烈的战场进发。^o这项技能必须保持开启以持续生效。
 
 tagGDX1Class07SkillName10A=[审判官]甘达尔号角
-tagGDX1Class07SkillDescription10A=因其能使心灵碎裂的特性，研究甘达尔号角被禁止了多个世纪。但是当高级大审判官单独应对一个神秘女巫团时，在绝望中吹响号角发挥了巨大作用。能够兵不血刃让这些邪教徒开始互相血战。这赢得了审判官的称赞，之后这号角被光明会学者复制以便在野外使用，虽然效力会减弱。
+tagGDX1Class07SkillDescription10A=因其破坏心智的能力，研究甘达尔号角被禁止了多个世纪。但是当高级审判官瑟兰尼尔独自面对一整个神秘女巫团时，在绝望之中吹响号角发挥了巨大作用。邪教徒们陷入了自相残杀的混乱，瑟兰尼尔轻松地消灭了余党。这让审判官获赢得了赞扬，之后这号角被光明会学者复制用于战场，但是效力会较弱。
 
 tagGDX1Class07SkillName11A=[审判官]远程专家
-tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物，所有检察官都必须准备好仅仅依靠他们的智慧和火枪来面对敌人。熟练地使用远程武器能让训练有素的审判官从安全距离击毙猎物。^o这是一种远程武器奖励。同时开启双持远程武器的能力。
+tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物，所有检察官都必须准备好仅仅依靠他们的智慧和火枪来面对敌人。熟练地运用远程武器能让训练有素的审判官在安全距离击毙猎物。^o这是一种远程武器奖励。同时开启双持远程武器的能力。
 tagGDX1Class07SkillName12A=[审判官]爆裂子弹
-tagGDX1Class07SkillDescription12A=一颗精确校准的子弹在与目标接触时发生爆炸，并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1Class07SkillDescription12A=一颗精确校准的子弹会在接触目标时引发爆炸并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。
 tagGDX1Class07SkillName13A=[审判官]寒冰弹幕
 tagGDX1Class07SkillDescription13A=一轮充满寒冷奥术的弹幕射击将目标冻结至核心，以确保轻松击杀。^o这是一项远程技能，由默认武器攻击触发。
 tagGDX1Class07SkillName14A=[审判官]风暴散射
-tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮风暴散射穿梭于面前的空间，以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1Class07SkillName15A=[审判官]致命瞄准
 tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们所有的机会，然而只需一发足矣。
 
 tagGDX1Class07SkillName16A=[审判官]神器技艺
-tagGDX1Class07SkillDescription16A=谨慎处理从光明会宝库中复制而来的危险圣物和神器，是所有审判官培训的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。 ^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
+tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
 
 
 #Class08
@@ -118,18 +118,18 @@ tagGDX1Class08SkillName00A=死灵法师
 tagGDX1Class08SkillDescription00A=掌握着等待众生的残酷命运。
 
 tagGDX1Class08SkillName01A=[死灵法师]吸取精华
-tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟大的观念，只有死亡才能另青春永不朽。即使这种转换是不被允许的，但仍有信徒无法抗拒鲜活生命力的诱惑。
+tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟愿，哪怕这伟愿有时意味着牺牲某个人的生命让他人得以存活。这种转移生命力的行为为世人所唾弃，但仍有信徒无法抗拒鲜活生命力的诱惑。
 tagGDX1Class08SkillName01B=[死灵法师]饥渴之触
-tagGDX1Class08SkillDescription01B=对生命精华的饥渴是不能被曾经体验过的人轻易满足的，将饥渴倾注于法术，吸取精华有时会影响目标附近额外的敌人。
+tagGDX1Class08SkillDescription01B=体验过生命精华后的饥渴是无法轻易满足的。将饥渴倾注于法术，使吸取精华有时会影响目标附近额外的敌人。
 tagGDX1Class08SkillName01C=[死灵法师]分解
 tagGDX1Class08SkillDescription01C=在生命从他们的眼中消失之前，你的敌人已经开始分崩离析。
 tagGDX1Class08SkillName01D=[死灵法师]黄泉颤抖
-tagGDX1Class08SkillDescription01D=死灵法师深谙死亡低语可使坟墓的寒意延伸到不情愿的受害者身上，减缓他们的行动，但会削弱吸取生命精华的能力。
+tagGDX1Class08SkillDescription01D=死灵法师深谙死亡低语可将坟墓的寒意施加于受害者，减缓他们的行动，但会削弱吸取生命精华的能力。
 xxtagGDX1Class08SkillName01D=[死灵法师]无尽渴望
-xxtagGDX1Class08SkillDescription01D=生命精华的转移通常是一种只为极端情况而保留的做法，但有些信徒难以抵御鲜活生命力的诱惑，并屈服于自己的力量，以牺牲周围的人为代价。
+xxtagGDX1Class08SkillDescription01D=生命力的转移通常是一种只为极端情况而保留的做法，但有些信徒难以抵御鲜活生命力的诱惑，并屈服于自己的力量，以牺牲周围的人为代价来满足自己。
 
 tagGDX1Class08SkillName02A=[死灵法师]骷髅复生
-tagGDX1Class08SkillDescription02A=使骷髅残骸复生的艺术，是所有有追求的死灵法师的第一仪式之一，但是也是最基础的之一。通过纯粹的意志，死灵法师能呼唤冥界的灵魂并注入死者的骸骨。^o骷髅受到宠物伤害加成的影响。仆从力量随着技能等级而提升。
+tagGDX1Class08SkillDescription02A=使骷髅残骸复生的艺术是死灵法师追求的首要仪式，但也是最基础的。凭借纯粹的意志，死灵法师能召唤冥界的灵魂并注入死者的骸骨。如果仪式成功，会使只忠于召唤者的骷髅仆从复生。^o骷髅受到宠物伤害加成的影响。仆从的战力随着技能等级而提升。
 tagGDX1Class08SkillTracker02A=当前召唤骷髅数量
 tagGDX1Class08SkillName02A_PetSkill=古代兵器
 tagGDX1Class08SkillName02A_PetSkill02=火焰碎片
@@ -145,52 +145,52 @@ tagGDX1Class08SkillDescription02C=给你的骷髅仆从注入死灵能量，强�
 tagGDX1Class08SkillName02D=[死灵法师]尸骨利用
 tagGDX1Class08SkillDescription02D=一个熟练的死灵法师离不开资源利用。杀死的每个敌人都有机会复生成为仆从。^o玩家杀死敌人有几率激活。
 tagGDX1Class08SkillName02E=[死灵法师]尸骨仪式
-tagGDX1Class08SkillDescription02E=通过思维的强化训练，死灵法师可以无限期地将诅咒亡灵注入死者的尸骨，从而使他们逐渐聚集成一个忠实仆从的小军团。
+tagGDX1Class08SkillDescription02E=通过思维的强化训练，死灵法师可以无限期地将诅咒亡灵注入死者的尸骨，从而使他们逐渐聚集成一个忠实仆从的小军团。然而这些仆从很脆弱，因为他们身上的诅咒使他们渴望死亡的恩赐解脱。
 
 tagGDX1Class08SkillName03A=[死灵法师]骨刺收割
-tagGDX1Class08SkillDescription03A=通过死灵能量之力，死灵法师能使遗忘之骨像锯齿般从大地爆发出来，刺穿粗心的敌人。
+tagGDX1Class08SkillDescription03A=通过死灵能量之力，死灵法师能使遗忘之骨像锯齿尖刺般从大地爆发出来，刺穿毫无防备的敌人。
 tagGDX1Class08SkillName03B=[死灵法师]恐惧
-tagGDX1Class08SkillDescription03B=死灵骨尖刺穿敌人的精华，撕裂他们体内的生命，并使弱小的敌人逃窜，如果他们的生命还没有被夺走的话。
+tagGDX1Class08SkillDescription03B=死灵骨刺刺穿并撕裂了敌人体内的生命精华，让那些还没被夺走生命的弱敌落荒而逃。
 tagGDX1Class08SkillName03C=[死灵法师]灵魂收割
 tagGDX1Class08SkillDescription03C=碎裂亡者的尸骨，吸收敌人的灵魂，赋予你和你的仆从以死亡的力量。^o灵魂收割影响所有攻击和激活的宠物。
 tagGDX1Class08SkillName03D=[死灵法师]死亡收割
-tagGDX1Class08SkillDescription03D=死灵法师训练近身格斗并不少见，那些挥舞着沉重的双手武器席卷驰骋疆场者理应获得骨刺收割之名。有传言说黑暗军团雇佣了这些人进入队伍，免去他们因为违抗帝国法令的死刑。 ^o需要一把双手近战武器。
+tagGDX1Class08SkillDescription03D=训练近身作战的死灵法师并不罕见，那些挥舞着沉重的双手武器席卷驰骋疆场者理应获得尸骨收割者之名。有传言说黑暗军团雇佣了这些人进入队伍，免去他们因为违抗帝国法令的死刑。^o需要一把双手近战武器。
 
 tagGDX1Class08SkillName04A=[死灵法师]贪婪大地
-tagGDX1Class08SkillDescription04A=在你的指挥下，疾病和腐烂会穿透大地内部的裂缝并感染所有不幸靠近的敌人。
+tagGDX1Class08SkillDescription04A=在你的指挥下，疾病和腐烂会从大地的裂口喷涌而出并感染所有不幸靠近的敌人。
 tagGDX1Class08SkillName04B=[死灵法师]腐烂
 tagGDX1Class08SkillDescription04B=腐烂的有毒气体从大地散发出来，削弱站得太近的敌人决心。
 tagGDX1Class08SkillName04C=[死灵法师]腐臭喷发
 tagGDX1Class08SkillDescription04C=邪恶的死灵能量充满肉体，使被杀的敌人有时会猛烈的喷发，把疾病和脓水泼向附近的敌人。^o需要杀死敌人后发动
 
 tagGDX1Class08SkillName05A=[死灵法师]召唤疫病恶魔
-tagGDX1Class08SkillDescription05A=止步于腐烂的有毒烟雾，从大地中召唤出由尸体和腐烂的污秽组成的憎恶，并压制你的敌人。^o同一时间只能召唤一只疫病恶魔。疫病恶魔受到宠物伤害加成的影响。
+tagGDX1Class08SkillDescription05A=面对腐烂的有毒烟雾不为所动，从大地中召唤出由尸体和腐烂的污秽组成的憎恶并压制你的敌人。^o同一时间只能召唤一只疫病恶魔。疫病恶魔受到宠物伤害加成的影响。
 tagGDX1Class08SkillName05A_PetSkill=毁灭之爪
 tagGDX1Class08SkillName05A_PetSkill02=致命死亡
 tagGDX1Class08SkillName05B=[死灵法师]腐烂气息
-tagGDX1Class08SkillDescription05B=疫病恶魔传播的恶臭变得难以承受，生物周围的空气引发呕吐和视觉模糊。
+tagGDX1Class08SkillDescription05B=疫病恶魔传播的恶臭变得难以承受，这种气体会导致周围的生物呕吐和视觉模糊。
 tagGDX1Class08SkillName05C=[死灵法师]疫病爆发
 tagGDX1Class08SkillDescription05C=有毒气体在疫病恶魔的腐烂肉体中堆积，之后对毫无防备的敌人释放有毒的腐烂爆发。
 tagGDX1Class08SkillName05D=[死灵法师]不稳定畸变
-tagGDX1Class08SkillDescription05D=疫病恶魔可以作为一个强大的守卫，一部分死灵法师能使它成为高度不稳定的载体向战场传播腐烂和衰败。它将暴走横行于你的敌人并在短暂的时间后猛烈的喷发。
+tagGDX1Class08SkillDescription05D=疫病恶魔既可以作为强大的护卫，又可以由死灵仪式转变成为高度不稳定的载体向战场传播腐烂和衰败。这些不稳定的憎恶将暴走肆虐你的敌人并在短时间后猛烈的喷发。
 
 tagGDX1Class08SkillName06A=[死灵法师]幽灵束缚
-tagGDX1Class08SkillDescription06A=束缚灵魂是一种危险的做法，这样做能得到巨大的回报，获得被遗忘的知识或是保护。迫使亡者的灵魂服从，你体内充满他们的精华，给予你控制死灵的能力。^o这项技能必须保持开启以持续生效。
+tagGDX1Class08SkillDescription06A=束缚灵魂是一种危险的做法，但这样做能得到巨大的回报，获得被遗忘的知识甚至是保护。迫使亡者的灵魂服从，使你体内充满他们的精华，给予你生命力并加强控制死灵的力量。^o这项技能必须保持开启以持续生效。
 tagGDX1Class08SkillName06B=[死灵法师]幽灵之怒
 tagGDX1Class08SkillDescription06B=幽灵将给予任何胆敢伤害你的敌人以猛烈的打击，用阴间的衰弱咒语诅咒敌人。^o受到攻击时发动
 
 tagGDX1Class08SkillName07A=[死灵法师]灵魂虹吸
 tagGDX1Class08SkillDescription07A=释放可怕的死灵能量，用残酷的诅咒来收割附近敌人的灵魂，吸收他们的精华并转移到你的身上。
 tagGDX1Class08SkillName07B=[死灵法师]血沸
-tagGDX1Class08SkillDescription07B=诅咒会使你敌人的血液沸腾，使他们在进入最后的呼吸时迅速腐烂。
+tagGDX1Class08SkillDescription07B=诅咒会使敌人的血液沸腾，使他们在断气之时迅速腐烂。
 tagGDX1Class08SkillName07C=[死灵法师]灵魂灼烧
 tagGDX1Class08SkillDescription07C=将虚化能量注入灵魂虹吸，死灵法师可以延长烧灼敌人灵魂的时间，但精华转化将变得不稳定。
 
 tagGDX1Class08SkillName08A=[死灵法师]恶兆
 tagGDX1Class08SkillDescription08A=死灵法师的存在足矣惊恐敌人，鬼魂的哀嚎将粉碎敌人的信心并使混乱和恐惧在敌人中迅速蔓延。
 
-tagGDX1Class08SkillName09A=[死灵法师]收割精神
-tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精神是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵受到宠物伤害加成的影响。
+tagGDX1Class08SkillName09A=[死灵法师]精魂收割
+tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精魂是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵受到宠物伤害加成的影响。
 tagGDX1Class08SkillName09A_PetSkill=幽灵之触
 tagGDX1Class08SkillName09A_PetSkill02=活力新星
 
@@ -198,18 +198,18 @@ tagGDX1Class08SkillName10A=[死灵法师]灵魂先驱
 tagGDX1Class08SkillDescription10A=掌握了死亡，你就成为了最终命运的先驱，敌人的生命精华将成为你随意操纵的玩物。
 
 tagGDX1Class08SkillName11A=[死灵法师]死亡主宰
-tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的存在，他们的到来预示着无尽的死亡军团，死者将永远被他们的主人掌控。^o这项技能必须保持开启以持续生效。
+tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的存在，他们的到来预示着无尽的死亡军团，死者将被他们永远掌控。^o这项技能必须保持开启以持续生效。
 
 tagGDX1Class08SkillName12A=[死灵法师]收割打击
-tagGDX1Class08SkillDescription12A=将致命的死灵能量注入他们的武器，死灵法师可以造成比肉体切割更深的物理伤害。 ^o所有默认武器攻击均可激活该技能效果。
+tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。
 tagGDX1Class08SkillName13A=[死灵法师]死灵刀锋
-tagGDX1Class08SkillDescription13A=打击中带着墓穴的寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。
+tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。
 
 tagGDX1Class08SkillName14A=[死灵法师]折磨印记
-tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是你对死亡的掌握，使你可以避免。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。
+tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是对死亡的掌控使你可以延缓不可避免的宿命。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。
 
 tagGDX1Class08SkillName15A=[死灵法师]坟墓呼唤
-tagGDX1Class08SkillDescription15A=在他们主人的命令下，你的仆从能释放坟墓的力量来激励他们，使他们陷入邪恶的狂乱之中。
+tagGDX1Class08SkillDescription15A=在主人的命令下，你的仆从能释放坟墓的力量来激励他们，使他们陷入邪恶的狂乱之中。
 
 #ItemSkills
 
@@ -225,23 +225,23 @@ tagGDX1ItemSkillC101Desc=如死亡瀑布般撕裂你的敌人
 tagGDX1ItemSkillC102Name=军团士兵的火枪
 tagGDX1ItemSkillC102Desc=通过足够的训练，火枪可以缩短士兵和法师之间的差距。^o这是一个单手远程武器被动加成。
 
-tagGDX1ItemSkillC103Name=宝库守卫的瞄准
-tagGDX1ItemSkillC103Desc=保卫光明会宝库，需要最好的训练。^o这是一个单手远程武器和双手远程武器被动加成。
+tagGDX1ItemSkillC103Name=宝库守卫的目标
+tagGDX1ItemSkillC103Desc=保卫光明会宝库，需要最佳的训练。^o这是一个单手远程武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillC104Name=吸取灵魂
 tagGDX1ItemSkillC104Desc=吸取目标的灵魂来恢复自己的活力。
 
 tagGDX1ItemSkillC105Name=幻影剑
-tagGDX1ItemSkillC105Desc=将暗影魔力注入魔法剑，能将肉体撕碎像纸片一般。
+tagGDX1ItemSkillC105Desc=将暗影魔力注入魔法剑，能将肉体像纸片一般撕碎。
 
 tagGDX1ItemSkillC106Name=堕落的灵魂
 tagGDX1ItemSkillC106Desc=护甲腐化了你的灵魂，使你获得黑暗的力量并对仆从有更强的控制力。
 
 tagGDX1ItemSkillC107Name=银色标记
-tagGDX1ItemSkillC107Desc=你的目标被神圣的光明神符所标记，封印了他们的命运。这个符号对虚空恶魔特别有效。
+tagGDX1ItemSkillC107Desc=你的目标被神圣的光明神符所标记，终结他们的命运。这个符号对虚空恶魔特别有效。
 
 tagGDX1ItemSkillC108Name=恐惧行者的恩赐
-tagGDX1ItemSkillC108Desc=吸入新鲜宰杀的敌人的能量，恢复你的力量并增强你的邪恶力量。
+tagGDX1ItemSkillC108Desc=吸入新鲜宰杀的敌人能量，使你恢复体力并增强你的邪恶力量。
 
 tagGDX1ItemSkillC109Name=光明降临
 tagGDX1ItemSkillC109Desc=一个训练有素的光明审判官的降临，足矣使恶魔和异教徒不安。^o这项技能必须保持开启以持续生效。
@@ -265,8 +265,8 @@ tagGDX1ItemSkillD101Desc=把黑暗主人的意志施加于虚弱的敌人，迫�
 tagGDX1ItemSkillD102Name=尸骨屏障
 tagGDX1ItemSkillD102Desc=亡灵仆从的尸骨在你身边形成一道屏障，保护你免受物理和死灵的伤害。
 
-tagGDX1ItemSkillD103Name=破坏之咬
-tagGDX1ItemSkillD103Desc=掠夺者之咬能使任何敌人的意志衰竭，使他们枯萎并吸光所有生命精华。
+tagGDX1ItemSkillD103Name=掠夺者之咬
+tagGDX1ItemSkillD103Desc=掠夺者之咬能使敌人的意志衰竭，使他们枯萎并吸光所有生命精华。
 
 tagGDX1ItemSkillD104Name=疯狂
 tagGDX1ItemSkillD104Desc=用斧头抨击敌人的灵魂，使他们陷入疯狂与绝望。
@@ -281,13 +281,13 @@ tagGDX1ItemSkillD107Name=马尔茅斯的匠心
 tagGDX1ItemSkillD107Desc=无与伦比的防守和进攻。^o这是一个远程武器被动加成。
 
 tagGDX1ItemSkillD108Name=灰色屏障
-tagGDX1ItemSkillD108Desc=灰色骑士的屏障保护你免受残忍的伤害。
+tagGDX1ItemSkillD108Desc=灰色骑士的屏障保护你免受残酷的伤害。
 
 tagGDX1ItemSkillD109Name=视死如归
 tagGDX1ItemSkillD109Desc=当死亡来临时，你大胆地说…不。
 
 tagGDX1ItemSkillD110Name=污秽传染
-tagGDX1ItemSkillD110Desc=将污秽传染给你的敌人，削弱他们并进一步感染。
+tagGDX1ItemSkillD110Desc=将污秽传给你的敌人，使他们虚弱并深度感染。
 
 tagGDX1ItemSkillD111Name=恶魔的凝视
 tagGDX1ItemSkillD111Desc=恶魔的凝视落在敌人的身上，燃烧着他们的灵魂。
@@ -296,13 +296,13 @@ tagGDX1ItemSkillD112Name=火焰碎片
 tagGDX1ItemSkillD112Desc=点燃你踏过的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
-tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志薄弱者为你服务。
+tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志不坚者为你服务。
 
 tagGDX1ItemSkillD114Name=哈加拉德之刺
 tagGDX1ItemSkillD114Desc=从哈加拉德光明符文中释放冰刺魔法攻击敌人。
 
 tagGDX1ItemSkillD115Name=风暴牢笼
-tagGDX1ItemSkillD115Desc=巫术闪电束缚敌人的脚步，并把他们困在原地。
+tagGDX1ItemSkillD115Desc=巫术闪电束缚敌人的脚，把他们困在原地。
 
 tagGDX1ItemSkillD116Name=夜爪
 tagGDX1ItemSkillD116Desc=用暗影之刃撕碎附近敌人，撕裂伤口并削弱行动能力。
@@ -320,22 +320,22 @@ tagGDX1ItemSkillD120Name=恐惧之火
 tagGDX1ItemSkillD120Desc=虚化火焰包围并燃烧你的敌人，然后蔓延到附近的敌人。
 
 tagGDX1ItemSkillD121Name=艾尔格洛斯符文
-tagGDX1ItemSkillD121Desc=用艾尔格洛斯光明符文标记敌人，电击并暴露他们在元素之中。
+tagGDX1ItemSkillD121Desc=用艾尔格洛斯光明符文标记敌人，电击并使他们暴露在元素之中。
 
 tagGDX1ItemSkillD122Name=饥渴深渊
 tagGDX1ItemSkillD122Desc=用你的盾牌猛击，如饥似渴地吸取敌人的生命精华。^o需要一个近战武器。
 
-tagGDX1ItemSkillD123Name=守望者的目的
-tagGDX1ItemSkillD123Desc=不受盾牌重量的阻碍，这是守望者的真正目的。^o这是一个单手远程武器被动加成。
+tagGDX1ItemSkillD123Name=守望者的目标
+tagGDX1ItemSkillD123Desc=不受盾牌重量的阻碍，这是守望者的真正目标。^o这是一个单手远程武器被动加成。
 
 tagGDX1ItemSkillD124Name=地狱灾难
-tagGDX1ItemSkillD124Desc=从你身上喷出一股被污染的火焰，轻易地燃烧任何敌人。
+tagGDX1ItemSkillD124Desc=从你身上爆发出一股污染火焰，它能轻易地烧毁任何敌人。
 
 tagGDX1ItemSkillD125Name=愤怒之火
-tagGDX1ItemSkillD125Desc=从大地爆发出一阵被污染的火焰。
+tagGDX1ItemSkillD125Desc=从大地爆发出一阵污染火焰。
 
 tagGDX1ItemSkillD126Name=加达尔之焰
-tagGDX1ItemSkillD126Desc=把自己沉浸在加达尔的邪恶火焰之中，对你和你的盟友无害，但是会灼烧任何靠近的敌人。
+tagGDX1ItemSkillD126Desc=沉浸于加达尔的邪恶火焰之中，不会伤害到你和盟友，但是会灼烧任何靠近的敌人。
 
 tagGDX1ItemSkillD127Name=行刑者的刀锋
 tagGDX1ItemSkillD127Desc=释放出一阵致命的旋转刀刃杀死你的敌人。
@@ -344,22 +344,22 @@ tagGDX1ItemSkillD128Name=角斗士的毅力
 tagGDX1ItemSkillD128Desc=坚持光荣的战斗。^o这是一个近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD129Name=奸诈的手段
-tagGDX1ItemSkillD129Desc=用任何手段来获取胜利。 ^o这是一个远程武器被动加成。
+tagGDX1ItemSkillD129Desc=为了胜利不择手段。^o这是一个远程武器被动加成。
 
 tagGDX1ItemSkillD130Name=岩浆球
 tagGDX1ItemSkillD130Desc=投掷纯火飞弹，只要轻轻一碰就会爆裂。
 
-tagGDX1ItemSkillD131Name=肉体切割者
-tagGDX1ItemSkillD131Desc=从敌人中切割出一条毁灭之路，让幸存者血流不止，他们的命运已经终结。
+tagGDX1ItemSkillD131Name=血肉切割者
+tagGDX1ItemSkillD131Desc=从敌人中杀出一条血路，残存的敌人将血流不止，他们的命运已被终结。
 
 tagGDX1ItemSkillD132Name=恐怖之刃
 tagGDX1ItemSkillD132Desc=用污染的刀锋劈开敌人，石化肉体。 ^o需要一个近战武器。
 
 tagGDX1ItemSkillD133Name=虚弱腐烂
-tagGDX1ItemSkillD133Desc=用疾病感染敌人，腐烂肉体直到什么都不剩。
+tagGDX1ItemSkillD133Desc=用疾病感染敌人，腐烂他们的肉体直到什么都不剩。
 
 tagGDX1ItemSkillD134Name=释放奥术
-tagGDX1ItemSkillD134Desc=奥术能量从你身上散发出来，魔法的纯粹力量如此强烈以至于伤害附近的敌人。
+tagGDX1ItemSkillD134Desc=从你身上散发出奥术能量，魔法的纯粹力量强烈到可以对附近的敌人造成伤害。
 
 tagGDX1ItemSkillD135Name=幸运射击
 tagGDX1ItemSkillD135Desc=向敌人发射弹幕。只要多次尝试，这可能和运气毫无关系。 ^o这是一项远程技能，由默认武器攻击触发。
@@ -377,16 +377,16 @@ tagGDX1ItemSkillD139Name=虚空低语
 tagGDX1ItemSkillD139Desc=虚空低声对你说出秘密，并不是通过凡人的耳朵。
 
 tagGDX1ItemSkillD140Name=燃烧
-tagGDX1ItemSkillD140Desc=用魔法火焰灼烧敌人，烧焦肉体并熔穿盔甲。
+tagGDX1ItemSkillD140Desc=用魔法火焰灼烧敌人，熔穿盔甲并烧焦肉体。
 
 tagGDX1ItemSkillD141Name=剑刃标记
 tagGDX1ItemSkillD141Desc=目标已经被剑刃标记，他的命运已经终结。
 
 tagGDX1ItemSkillD142Name=虚空诅咒
-tagGDX1ItemSkillD142Desc=目标已经被虚空标记，狂语从它内部开始慢慢摧毁。
+tagGDX1ItemSkillD142Desc=目标已经被虚空标记，狂语将从内部开始慢慢地摧毁它。
 
 tagGDX1ItemSkillD143Name=风暴领域
-tagGDX1ItemSkillD143Desc=在你指挥下形成闪电领域，电击经过的任何敌人。
+tagGDX1ItemSkillD143Desc=在你号令下形成的闪电立场，将电击任何经过的敌人。
 
 tagGDX1ItemSkillD144Name=符文守卫
 tagGDX1ItemSkillD144Desc=符文被刻在护甲上，保护你免受奥术伤害。
@@ -407,7 +407,7 @@ tagGDX1ItemSkillD149Name=毒液冲击
 tagGDX1ItemSkillD149Desc=一阵有毒能量冲击你的敌人。
 
 tagGDX1ItemSkillD150Name=生命火焰
-tagGDX1ItemSkillD150Desc=火焰生命体燃烧你的敌人，不只是燃烧肉体。
+tagGDX1ItemSkillD150Desc=火焰生命体将燃烧你的敌人，不仅仅是燃烧肉体。
 
 tagGDX1ItemSkillD151Name=剧毒术士光环
 tagGDX1ItemSkillD151Desc=用恐怖毒液强化你和附近盟友的武器。 ^o这项技能必须保持开启以持续生效。
@@ -437,7 +437,7 @@ tagGDX1ItemSkillD159Name=荆棘波
 tagGDX1ItemSkillD159Desc=从地面爆发出一阵荆棘波穿刺你的敌人。
 
 tagGDX1ItemSkillD160Name=复仇者的力量
-tagGDX1ItemSkillD160Desc=无与伦比的物理抗性和力量。^o这是一个近战武器和双手远程武器被动加成。
+tagGDX1ItemSkillD160Desc=无与伦比的恢复力和力量。^o这是一个近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD161Name=自然复仇者
 tagGDX1ItemSkillD161Desc=复仇者的精神在你体内膨胀。
@@ -446,10 +446,10 @@ tagGDX1ItemSkillD162Name=奥术灾变
 tagGDX1ItemSkillD162Desc=一阵奥术能量在你的命令下爆发。
 
 tagGDX1ItemSkillD163Name=石之守卫
-tagGDX1ItemSkillD163Desc=一道物理屏障保护你免受伤害。
+tagGDX1ItemSkillD163Desc=一道保护你免受伤害的物理屏障。
 
 tagGDX1ItemSkillD164Name=石之守卫
-tagGDX1ItemSkillD164Desc=石之守卫硬化你的皮肤抵御物理打击并攻击伤害你的敌人。
+tagGDX1ItemSkillD164Desc=石之守卫能硬化你的皮肤抵御物理打击并攻击伤害你的敌人。
 
 tagGDX1ItemSkillD165Name=枪手的庇护
 tagGDX1ItemSkillD165Desc=最好的进攻和防御都在枪管的前端。 ^o这是一个单手远程武器被动加成。
@@ -467,10 +467,10 @@ tagGDX1ItemSkillD169Name=释放混乱
 tagGDX1ItemSkillD169Desc=在你周围释放黑暗的毁灭冲击波伤害敌人。
 
 tagGDX1ItemSkillD170Name=勇气咒语
-tagGDX1ItemSkillD170Desc=通过纯粹的意志，你把魔法力量转为物理力量。 ^o这项技能必须保持开启以持续生效。
+tagGDX1ItemSkillD170Desc=通过纯粹的意志，把魔法力量转为物理力量。 ^o这项技能必须保持开启以持续生效。
 
 tagGDX1ItemSkillD171Name=生命吸取者
-tagGDX1ItemSkillD171Desc=你对生命的渴望是永不满足的。甚至在你吸取敌人的生命精华时，附近的受害者也会遭受同样的命运。
+tagGDX1ItemSkillD171Desc=你对生命的渴望永不满足。甚至在你吸取敌人的生命精华时，附近的受害者也会遭受同样的命运。
 
 tagGDX1ItemSkillD172Name=贝尔戈斯安打击
 tagGDX1ItemSkillD172Desc=用贝尔戈斯安的愤怒打击你的敌人。当你使用默认武器攻击时，贝尔戈斯安打击会提升你的每一次攻击强度。 ^o提高充能层数会提高加成效果。
@@ -481,14 +481,14 @@ tagGDX1ItemSkillD173Desc=战斗武器和奥术特性巧妙的结合，造就了�
 tagGDX1ItemSkillD174Name=陷阱符文
 tagGDX1ItemSkillD174Desc=用陷阱符文标记敌人，限制他们的移动能力。
 
-tagGDX1ItemSkillD175Name=黑暗之王的礼物
-tagGDX1ItemSkillD175Desc=圣衣，涂抹了死神之血，在需要时给予承载者天赋。
+tagGDX1ItemSkillD175Name=黑暗之王的馈赠
+tagGDX1ItemSkillD175Desc=涂抹了死神之血的圣衣会在拥有者需要时给予馈赠。
 
 tagGDX1ItemSkillD176Name=加尔加伯的腐化
-tagGDX1ItemSkillD176Desc=加尔加伯的腐化核心烧毁敌人，然后反复造成苦难。
+tagGDX1ItemSkillD176Desc=敌人一旦被加尔加伯的腐化核心灼烧，将反复遭受折磨。
 
 tagGDX1ItemSkillD177Name=虚化火焰
-tagGDX1ItemSkillD177Desc=一片纯净的奥术火焰爆发于敌人之中。
+tagGDX1ItemSkillD177Desc=在敌人脚下爆发出纯粹的奥术烈焰。
 
 tagGDX1ItemSkillD178Name=
 tagGDX1ItemSkillD178Desc=
@@ -501,7 +501,7 @@ tagGDX1w=GrimDawn/images/evil
 
 #Component Skills
 
-tagGDX1CompSkillA101Name=力量神灵
+tagGDX1CompSkillA101Name=神灵之力
 tagGDX1CompSkillA101Desc=使你轻松摆脱敌人的打击。 ^o这项技能必须保持开启以持续生效。
 
 tagGDX1CompSkillA102Name=旋转刀刃
@@ -510,8 +510,8 @@ tagGDX1CompSkillA102Desc=在你的命令下旋转的刀刃围绕着你，撕碎�
 tagGDX1CompSkillA103Name=闪电链
 tagGDX1CompSkillA103Desc=闪电在你的指尖劈啪作响，倾泻而下摧毁敌人的阵线。
 
-tagGDX1CompSkillA104Name=酸性肃清
-tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾融化你的敌人。
+tagGDX1CompSkillA104Name=酸雾肃清
+tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾腐蚀你的敌人。
 
 tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
@@ -523,10 +523,10 @@ tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。
 
 tagGDX1CompSkillA108Name=风暴烈焰
-tagGDX1CompSkillA108Desc=释放一阵带电的火焰爆炸在战场肆虐。
+tagGDX1CompSkillA108Desc=释放一道带电的烈焰冲击肆虐战场。
 
 tagGDX1CompSkillA109Name=尖刺利刃
-tagGDX1CompSkillA109Desc=向外投掷涂有腐蚀性酸液的螺旋利刃，穿透所有敌人。
+tagGDX1CompSkillA109Desc=向外投掷涂有腐蚀性酸液的螺旋利刃，穿透沿途的所有敌人。
 
 tagGDX1CompSkillA110Name=奥术共鸣
 tagGDX1CompSkillA110Desc=精通于奥术保护你免受虚弱影响。
@@ -537,7 +537,7 @@ tagGDX1CompSkillB101Desc=用秘印中的力量彻底摧毁你的敌人
 tagGDX1CompSkillB102Name=祖先守卫
 tagGDX1CompSkillB102Desc=秘印中的力量保护你免受比你强大的力量威胁。
 
-tagGDX1CompSkillB103Name=可怕的束缚
+tagGDX1CompSkillB103Name=邪术束缚
 tagGDX1CompSkillB103Desc=束缚仆从听从你的意志。^o(被动加成)
 
 
@@ -548,10 +548,10 @@ tagGDX1RelicSkillB101Name=死亡气息
 tagGDX1RelicSkillB101Desc=从你体内爆发出一道吸血鬼能量波。
 
 tagGDX1RelicSkillB102Name=幽灵箭
-tagGDX1RelicSkillB102Desc=释放幽灵能量球削弱敌人的力量。
+tagGDX1RelicSkillB102Desc=释放幽灵能量削弱敌人的力量。
 
 tagGDX1RelicSkillB103Name=狂热
-tagGDX1RelicSkillB103Desc=进入狂热的状态撕裂你的敌人。
+tagGDX1RelicSkillB103Desc=进入狂热状态并撕裂敌人。	
 
 tagGDX1RelicSkillB104Name=盾牌猛击
 tagGDX1RelicSkillB104Desc=用盾牌猛击你的敌人，使他们进入懵逼状态。^o需要一个近战武器和盾牌。
@@ -560,24 +560,24 @@ tagGDX1RelicSkillB105Name=召唤灵魂蟹
 tagGDX1RelicSkillB105Desc=束缚一个沼泽生物的灵魂为你服务。灵魂的冰冷攻击使敌人不寒而栗。^o同一时间只能召唤一只灵魂蟹。灵魂蟹受到宠物伤害加成的影响。
 tagGDX1RelicSkillB105Name_PetSkill=蟹爪
 
-tagGDX1RelicSkillC101Name=死亡率
-tagGDX1RelicSkillC101Desc=你打破了生与死的平衡，接受两者的力量并注入你的攻击和仆从。
+tagGDX1RelicSkillC101Name=死亡命运
+tagGDX1RelicSkillC101Desc=你打破了生与死的平衡，吸收两者的力量注入你的攻击和仆从。
 
-tagGDX1RelicSkillC102Name=清洁之刃
-tagGDX1RelicSkillC102Desc=释放奥术刀刃劈砍穿透你的敌人，这刀刃在经过一段距离之后会神奇地返回起点。
+tagGDX1RelicSkillC102Name=净化之刃
+tagGDX1RelicSkillC102Desc=释放奥术刀刃劈砍穿透你的敌人，刀刃在经过一段距离之后会神奇地返回起点。
 
-tagGDX1RelicSkillD101Name=不洁爆炸
-tagGDX1RelicSkillD101Desc=释放污染的奥术能量爆炸，使敌人的生命衰竭。
+tagGDX1RelicSkillD101Name=污染冲击
+tagGDX1RelicSkillD101Desc=释放污染的奥术能量冲击，使敌人的生命衰竭。
 
 tagGDX1RelicSkillD102Name=寒冷复仇
-tagGDX1RelicSkillD102Desc=对胆敢攻击你的敌人释放寒冷力量的波涛。
+tagGDX1RelicSkillD102Desc=对胆敢攻击你的敌人释放一股寒冷力量的冲击。
 
 tagGDX1RelicSkillD103Name=召唤骸骨仆从
-tagGDX1RelicSkillD103Desc=结合百个受折磨的灵魂的残骸为你服务。这只可怕的生物切割你的敌人并用骸骨牢笼困住他们。 ^o同一时间只能召唤一只骸骨仆从。骸骨仆从受到宠物伤害加成的影响。
+tagGDX1RelicSkillD103Desc=结合了上百个受折磨灵魂的骸骨将为你效劳，这只可怕的生物劈砍着敌人并用骸骨牢笼困住他们。 ^o同一时间只能召唤一只骸骨仆从。骸骨仆从受到宠物伤害加成的影响。
 tagGDX1RelicSkillD103Name_PetSkill=骸骨之爪
 
 tagGDX1RelicSkillD104Name=元素诅咒
-tagGDX1RelicSkillD104Desc=释放一道纯元素能量击退任何前进的敌人。
+tagGDX1RelicSkillD104Desc=释放一道纯粹的元素能量击退任何前进的敌人。
 
 tagGDX1RelicSkillD105Name=毁灭力量
 tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并波及附近的敌人。
@@ -586,22 +586,22 @@ tagGDX1RelicSkillD106Name=炽热冲锋
 tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
 
 tagGDX1RelicSkillD107Name=混沌波涛
-tagGDX1RelicSkillD107Desc=释放毁灭性能量的爆炸穿透敌人在回到你身边之前。
+tagGDX1RelicSkillD107Desc=释放毁灭性能量的冲击波穿透敌人再返回你身边。
 
 tagGDX1RelicSkillD108Name=尼达拉的最后一击
-tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜欢的技能，释放飞刃刀扇于穿透敌人，并使他们张开的伤口泛起毒泡。魔法刀刃之后会飞回起点。
+tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃刀扇穿透敌人，并使他们的裂开的伤口泛起毒泡。魔法刀刃之后会飞回起点。
 
-tagGDX1RelicSkillD109Name=时间循环
-tagGDX1RelicSkillD109Desc=你的行动逐渐穿越时间。^o需要装备副手法器。
+tagGDX1RelicSkillD109Name=时空循环
+tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
 tagGDX1RelicSkillD110Name=鲜血之球
 tagGDX1RelicSkillD110Desc=向敌人投掷一个不稳定的鲜血之球。
 
 tagGDX1RelicSkillD111Name=收割弧
-tagGDX1RelicSkillD111Desc=用武器挥舞出一个弧形，劈开敌人并收割他们的灵魂。^o需要一个近战武器。
+tagGDX1RelicSkillD111Desc=用武器挥舞出一个弧形，劈砍敌人并收割他们的灵魂。^o需要一个近战武器。
 
 tagGDX1RelicSkillD112Name=伊格纳法的燃烧
-tagGDX1RelicSkillD112Desc=这个古代圣物爆发出毁灭性的火焰，对你和你的盟友无害，但是对任何站得太近的敌人来说都是毁灭性的。
+tagGDX1RelicSkillD112Desc=这个古代圣物爆发出的毁灭性火焰，不会伤害你和盟友，但是对任何靠近的敌人来说都是毁灭性的。
 
 tagGDX1RelicSkillD113Name=莫格卓根的热情
 tagGDX1RelicSkillD113Desc=野兽之神的祝福围绕着你和你的仆从，保护你免受伤害。^o这项技能必须保持开启以持续生效。
@@ -615,7 +615,7 @@ tagGDX1ConsumableSkill_B102=巫登药膏
 tagGDX1ConsumableSkill_B102Desc=活化与增强骨质。
 
 tagGDX1ConsumableSkill_B103=邪恶创伤药膏
-tagGDX1ConsumableSkill_B103Desc=大幅度的加快凝血。
+tagGDX1ConsumableSkill_B103Desc=大幅地加快凝血。
 
 tagGDX1ConsumableSkill_B104=咆哮巨兽药剂
 tagGDX1ConsumableSkill_B104Desc=使你充满咆哮巨兽般的愤怒之力。
@@ -633,7 +633,7 @@ tagGDX1ConsumableSkill_F103=虚化守卫之油
 tagGDX1ConsumableSkill_F103Desc=将你的武器涂满虚化守卫之油。
 
 tagGDX1ConsumableSkill_F104=风暴火焰酊剂
-tagGDX1ConsumableSkill_F104Desc=对附近的敌人释放带电的火焰爆炸。
+tagGDX1ConsumableSkill_F104Desc=对附近的敌人释放带电的火焰冲击。
 
 tagGDX1ConsumableSkill_F105=吞噬者之油
 tagGDX1ConsumableSkill_F105Desc=将你的武器涂满吞噬者之油。
@@ -669,50 +669,50 @@ tagGDX1Devotion_A103Desc=据说羽毛笔被神用来向人类传送法令。它�
 tagGDX1Devotion_A104=蟾蜍^g[初级]（虚化活力吸血，4换6）
 tagGDX1Devotion_A104Desc=蟾蜍代表混乱，是巫师和术士喜爱的象征。
 
-tagGDX1Devotion_B101=低语, 谣言情妇^g[中级]（冰霜酸毒，6换4）
-tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。但没有人知道低语的谣言同样可以造成毁灭性的影响。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
+tagGDX1Devotion_B101=毛莫, 谣言夫人^g[中级]（冰霜酸毒，6换4）
+tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。更没有人了解像毛莫这样可以造成毁灭性的影响的谣言。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
 tagGDX1Devotion_B102=莱托什的权杖^g[中级]（虚化，抗性，宠物，6换4）
-tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是解开分离物理和精神境界的关键。当它在天空中可见时，人们相信生者和亡者之间的屏障是最薄的。
+tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是揭开物质与精神境界面纱的关键。当它在天空中显现之时，人们相信此时生者和亡者之间的屏障是最薄的。
 tagGDX1Devotion_B103=阿拉德拉的凤凰^g[中级]（火系虚化，5换4）
-tagGDX1Devotion_B103Desc=神忠实的宠物，阿拉德拉的凤凰在星空中划过一条燃烧的光线。
+tagGDX1Devotion_B103Desc=神忠实的宠物，阿拉德拉的凤凰在星空中划过一条燃烧的火光。
 tagGDX1Devotion_B104=堤丰，灵魂狱卒^g[中级]（防御，宠物，6换4）
-tagGDX1Devotion_B104Desc=堤丰是莱托什忠实的仆人，一个警觉的猎人，狩猎那些拒绝通过死亡战车的恶劣灵魂。
+tagGDX1Devotion_B104Desc=堤丰是莱托什忠实的仆人，一个警觉的猎人，狩猎那些拒绝登上死亡战车的恶灵。
 tagGDX1Devotion_B105=吟游诗人的竖琴^g[中级]（穿刺元素，能量恢复，6换4）
-tagGDX1Devotion_B105Desc=佳丽亚吟游诗人的音乐被认为是如此迷人，以至于众神把她升入天空，这样她就能款待他们直至永恒。
+tagGDX1Devotion_B105Desc=佳丽亚吟游诗人的音乐是如此迷人，以至于众神将她升入天空，这样她就能款待他们直至永恒。
 
 tagGDX1Devotion_C101=尤尔托斯，风暴牧羊人^g[高级]（电冰霜，6）
-tagGDX1Devotion_C101Desc=在安克维亚传说里尤尔托斯是他的天神兄弟中最小的，但他仍然是一个强大的象征，因为他的雨让庄稼生长，他的闪电造成可怕的毁灭。讽刺的是鉴于他的地位，尤尔托斯是唯一安克维亚神受到的崇拜超过了帝国的兴衰。
+tagGDX1Devotion_C101Desc=在安克维亚传说中尤尔托斯的地位较低于其他天神兄弟，但他仍然是一个强大的象征，他撒下的雨水让作物丰收，他降下闪电能造成可怕的毁灭。不过具有讽刺意味的是，尤尔托斯却是安克维亚神中唯一一个受到的信奉超越了帝国兴衰。
 tagGDX1Devotion_C102=伊师塔克，春之少女^g[高级]（防御，抗性，6）
-tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊诗塔克治疗。因为所有的生物都是春之少女的孩子，所有的人都会在她温柔的拥抱中找到安慰。
+tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊诗塔克疗伤。万物皆是春之少女的孩子，所有人都会在她温柔的拥抱中找到安慰。
 tagGDX1Devotion_C103=维尔，石夫人^g[高级]（物理，防御，抗性，6）
-tagGDX1Devotion_C103Desc=通常被描绘成安克维亚传说中神的女守卫，因为她的强大，石夫人代表了凯恩本身，来自石头的勇气和力量，巍然不动对抗最大的逆境。
+tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
 tagGDX1Devotion_C104=阿塔克瑟如，幻影^g[高级]（虚化元素，6）
-tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法夫人，那些敢于使用魔法的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；她的守护足矣避开死灵法师诅咒的影响。
-tagGDX1Devotion_C105=莱托什,暗影守卫^g[高级]（活力，6）
-tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着着现实的面纱，确保没有恶魔逃脱精神境界并肆虐生者。当安克维亚诅咒蔓延开来，人民乞求莱托什一个仁慈的结束，但是没有人回来过。
+tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法守护女神，是那些敢于使用魔法之人的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；但即使是她的守护也不足矣避开死灵法师诅咒的影响。
+tagGDX1Devotion_C105=莱托什,暗影守望者^g[高级]（活力，6）
+tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言
-tagGDX1DevotionEffectB101Desc=喃喃低语的寒冷真理在你的敌人之间蔓延，就像一个拒绝死亡的谣言，粉碎了他们的思想。^o具备传播扩撒性
+tagGDX1DevotionEffectB101Desc=毛莫的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^o具备传播扩撒性
 tagGDX1DevotionEffectB102=凤凰烈焰
 tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠的太近的敌人。
-tagGDX1DevotionEffectB103=灵感
-tagGDX1DevotionEffectB103Desc=佳丽亚的旋律激励你和你的盟友向着实力悬殊的战斗挺进。
+tagGDX1DevotionEffectB103=激励
+tagGDX1DevotionEffectB103Desc=佳丽亚的旋律激励你和你的盟友无惧困难向前挺进。
 
 tagGDX1DevotionEffectC101=尤尔托斯之手
 tagGDX1DevotionEffectC101Desc=风暴牧羊人的愤怒从你的指尖散发出来，倾泻毁灭性的闪电力量穿越整个敌军。
 tagGDX1DevotionEffectC102=自然的守护者
 tagGDX1DevotionEffectC102Desc=春天的抚慰之风将你包裹在一个保护性屏障中，而你的仆从会站起来保护自然秩序。
 tagGDX1DevotionEffectC103=维尔之拳
-tagGDX1DevotionEffectC103Desc=维尔的拳头从大地升起，用大地的力量征服你的敌人。
+tagGDX1DevotionEffectC103Desc=维尔的碎裂之拳拔地而起，以大地之力征服敌人。
 tagGDX1DevotionEffectC104=奥术电流
 tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流受到玩家伤害加成的影响。
 tagGDX1DevotionEffectC104PetSkill=汹涌
 tagGDX1DevotionEffectC105=莱托什的意志
-tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已经被封印，任由莱托什的仆从，堤丰摆布。
+tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已被封印，任由莱托什的仆从堤丰摆布。
 
 
 #SkillsReallocator
-tagReclaimMastery=你必须从专精中撤销所有最远的技能点数，在你移除更多专精条点数之前。
+tagReclaimMastery=你必须从专精中撤销所有最远的技能点数，才能移除更多专精条点数。
 tagDecreaseMasteryError=无法重置专精选择。
 
 
@@ -798,4 +798,4 @@ tagGDX1EnemySkillD13=痛苦光环
 tagGDX1EnemySkillD13_Desc=格拉瓦苏尔传出的黑暗，有时会凝聚在动荡的虚空能量池中。
 
 tagGDX1EnemySkillD14=天神降临
-tagGDX1EnemySkillD14_Desc=神圣降临威胁并破坏你的存在。
+tagGDX1EnemySkillD14_Desc=神圣降临恐吓并瓦解你的实体。

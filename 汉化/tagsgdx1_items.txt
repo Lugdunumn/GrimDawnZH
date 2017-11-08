@@ -752,7 +752,7 @@ tagGDX1NecklaceF105=马尔茅斯扭曲吊坠
 tagGDX1NecklaceF106=马尔茅斯防御者垂饰
 tagGDX1NecklaceF107=温迪戈邪恶垂饰
 tagGDX1NecklaceF108=温迪戈天空吊坠
-tagGDX1NecklaceF109=虚灵闪电吊坠
+tagGDX1NecklaceF109=虚化闪电吊坠
 tagGDX1NecklaceF110=马尔茅斯之心
 tagGDX1NecklaceF111=掠夺者的饥渴
 
@@ -1079,7 +1079,7 @@ tagGDX1Blueprint_AccessoryD121F=设计图：野性低语引导之眼
 tagGDX1Blueprint_AccessoryD121G=设计图：符文低语引导之眼
 tagGDX1Blueprint_AccessoryD121H=设计图：不朽低语引导之眼
 
-tagGDX1Blueprint_AccessoryF101=设计图：虚灵闪电吊坠
+tagGDX1Blueprint_AccessoryF101=设计图：虚化闪电吊坠
 tagGDX1Blueprint_AccessoryF102=设计图：马尔茅斯之心
 tagGDX1Blueprint_AccessoryF103=设计图：掠夺者的饥渴
 tagGDX1Blueprint_AccessoryF104=设计图：致命意图徽记

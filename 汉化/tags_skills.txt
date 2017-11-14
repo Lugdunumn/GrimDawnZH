@@ -180,7 +180,7 @@ tagClass02SkillName01C=[爆破者]天火手雷
 tagClass02SkillDescription01C=当仅仅炸到一个敌人并不足够时,这项对手榴弹化学成分的炼金改造能在引爆后释放电力漩涡.
 tagClass02SkillName01D=[爆破者]破碎猛爆
 tagClass02SkillDescription01D=手榴弹爆炸产生的强烈冲击波会震荡你的敌人,造成剧烈的内部创伤.
- 
+
 tagClass02SkillName02A=[爆破者]闪光弹
 tagClass02SkillDescription02A=一道致盲闪光使敌人短暂的陷入混乱并破坏他们的防护能力.
 tagClass02SkillName02B=[爆破者]灼热之光
@@ -195,7 +195,7 @@ tagClass02SkillDescription03C=进一步的炼金改进使火焰打击对目标�
 tagClass02SkillName03D=[爆破者]炽烈硫磺
 tagClass02SkillDescription03D=使用火焰法术为火焰打击附加硫磺的混沌之力.^o远程攻击也会分裂成融化的碎片.
 tagClass02SkillName03E=[爆破者]灼热打击
-tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消耗更少的能量来打出更强的攻击,但这项技艺只有在熟练使用近战武器、双手枪械或是双手弩的时候才能完成.^o需要一把近战单手武器.
+tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消耗更少的能量来打出更强的攻击,但这项技艺只有在熟练使用近战单手武器的时候才能完成.^o需要一把近战单手武器.
 tagClass02SkillName03F=[爆破者]灼热之力
 tagClass02SkillDescription03F=当使用强力的双手近战或远程武器时,火焰打击会造成毁灭性的伤害.^o需要一把双手近战或双手远程武器.
 

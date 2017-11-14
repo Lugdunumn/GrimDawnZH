@@ -669,8 +669,8 @@ tagGDX1Devotion_A103Desc=据说羽毛笔被神用来向人类传送法令。它�
 tagGDX1Devotion_A104=蟾蜍^g[初级]（虚化活力吸血，4换6）
 tagGDX1Devotion_A104Desc=蟾蜍代表混乱，是巫师和术士喜爱的象征。
 
-tagGDX1Devotion_B101=毛莫, 谣言夫人^g[中级]（冰霜酸毒，6换4）
-tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。更没有人了解像毛莫这样可以造成毁灭性的影响的谣言。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
+tagGDX1Devotion_B101=穆谟, 谣言夫人^g[中级]（冰霜酸毒，6换4）
+tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。更没有人了解像穆谟这样可以造成毁灭性的影响的谣言。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
 tagGDX1Devotion_B102=莱托什的权杖^g[中级]（虚化，抗性，宠物，6换4）
 tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是揭开物质与精神境界面纱的关键。当它在天空中显现之时，人们相信此时生者和亡者之间的屏障是最薄的。
 tagGDX1Devotion_B103=阿拉德拉的凤凰^g[中级]（火系虚化，5换4）
@@ -692,7 +692,7 @@ tagGDX1Devotion_C105=莱托什,暗影守望者^g[高级]（活力，6）
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言
-tagGDX1DevotionEffectB101Desc=毛莫的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^o具备传播扩撒性
+tagGDX1DevotionEffectB101Desc=穆谟的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^o具备传播扩撒性
 tagGDX1DevotionEffectB102=凤凰烈焰
 tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠的太近的敌人。
 tagGDX1DevotionEffectB103=激励

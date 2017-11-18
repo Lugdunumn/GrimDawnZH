@@ -890,7 +890,7 @@ tagGDX1Blueprint_WeaponB108=设计图：霜腐魔杖
 tagGDX1Blueprint_WeaponB109=设计图：死亡传播权杖
 
 tagGDX1Blueprint_WeaponC101=设计图：反对者
-tagGDX1Blueprint_WeaponC102=设计图：强化的阿尔杜的审判
+tagGDX1Blueprint_WeaponC102=设计图：神话 阿尔杜的审判
 tagGDX1Blueprint_WeaponC103=设计图：宇宙洪流
 tagGDX1Blueprint_WeaponC104=设计图：愤怒火焰咒刃
 tagGDX1Blueprint_WeaponC105=设计图：神话 伯尔维治的和平卫士
@@ -958,6 +958,7 @@ tagGDX1Blueprint_ArmorC117=设计图：神话 持火者夹克
 tagGDX1Blueprint_ArmorC118=设计图：神话 卡里多战衣
 tagGDX1Blueprint_ArmorC119=设计图：神话 密耳弥冬的面甲
 tagGDX1Blueprint_ArmorC120=设计图：神话 莫格卓根的风帽
+tagGDX1Blueprint_ArmorC121=设计图：神话 完美主义者的风帽
 
 tagGDX1Blueprint_ArmorD101=设计图：死灵领主的凝视
 tagGDX1Blueprint_ArmorD102=设计图：剧毒术士的诡计
@@ -1132,7 +1133,7 @@ tagGDX1RelicD113Desc="孤狼之死，群狼而生."
 
 
 #Crafting
-tagGDX1CraftRandomLegendaryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级.50级以下的人物会锻造出一件史诗级装备.
+tagGDX1CraftRandomLegendaryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级.58级以下的人物可能会锻造出一件史诗级装备.
 tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为94级.58级以下的人物会锻造出一件史诗级装备.
 tagGDX1CraftRandomLegendaryItemDesc2=铁匠能打造一件符合你的等级的传奇装备，物品等级上限为94级.
 
@@ -1191,7 +1192,7 @@ tagGDX1ConsumableF105Desc="一种能将温迪戈饥渴注入武器的油."
 tagGDX1ConsumableF106=邪恶酊剂
 tagGDX1ConsumableF106Desc="打破瓶子，释放邪恶灵魂缠绕敌人."
 tagGDX1ConsumableF107=清晰药水
-tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体.^o可以放置在共享储物箱中以便供其它角色使用.
+tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体."^o可以放置在共享储物箱中以便供其它角色使用.
 
 tagGDX1Consumable_AttributeReset=重塑补药
 tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自我重塑."
@@ -1579,7 +1580,9 @@ tagGDX1ItemSetC106Desc="特殊的光明会装备，授予执行危险任务的�
 tagItemSetC009BName=盲眼
 tagItemSetC010BName=神射手的徽记
 tagItemSetC011BName=不洁圣契
+tagItemSetC016BName=帕内蒂的完美主义
 tagItemSetC017BName=黎明守卫
+tagItemSetC021BName=东方之誓
 tagItemSetC024BName=持火者
 tagItemSetC025BName=卡里多的徽记
 tagItemSetC026BName=密尔弥冬的装甲

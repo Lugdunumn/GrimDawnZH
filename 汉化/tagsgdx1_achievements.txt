@@ -97,11 +97,11 @@ achGDX1030Desc=精英难度完成马尔茅斯的灰烬。
 achGDX1031Title=马尔茅斯救世主
 achGDX1031Desc=终极难度完成马尔茅斯的灰烬。
 
-achGDX1032Title=无双杀手
-achGDX1032Desc=消灭 2000 只精英怪物 (带有星形标记)。
+achGDX1032Title=大规模灭绝
+achGDX1032Desc=清除凯恩世界的750000只怪物。
 
-achGDX1033Title=大规模灭绝
-achGDX1033Desc=清除凯恩世界的750000只怪物。
+achGDX1033Title=无双杀手
+achGDX1033Desc=消灭 2000 只精英怪物 (带有星形标记)。
 
 achGDX1034Title=疯狂的藏匿
 achGDX1034Desc=找到伊旺达神秘的藏匿物。

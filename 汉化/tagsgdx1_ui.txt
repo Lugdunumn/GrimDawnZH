@@ -80,34 +80,6 @@ tagMapSymbolTransmuteNpcDesc=亦真亦幻的幻觉。
 #Skills
 tagItemSkillModified= {^E}至 {^Z}{%s0}
 
-#Skill Wheel
-tagSkillConfig01=设置 1
-tagSkillConfig02=设置 2
-
-#Gamepad HUD
-tagGamePadSelect=选取
-tagGamePadBack=返回
-tagGamePadEquip=装备物品
-tagGamePadDrop=丢弃物品
-tagGamePadUseItem=使用物品
-tagGamePadSellItem=售出物品
-tagGamePadMoveItem=移动物品
-tagGamePadScroll=滚动
-tagGamePadAssignSkills=分配技能
-tagGamePadSwapConfig=切换设置
-tagGamePadMove=移动
-tagGamePadZoomIn=画面拉近
-tagGamePadZoomOut=画面拉远
-tagGamePadExit=退出
-tagGamePadRevert=还原
-tagGamePadSplitStack=拆分堆叠
-
-tagGamePadCharacter=角色
-tagGamePadSkills=技能
-tagGamePadMap=地图
-tagGamePadFactions=势力
-tagGamePadAchieve=成就
-
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=审判官技能加成
 tagCharStatsInquisitorSkillsBonusInfo=审判官专精中已习得的所有技能加成。

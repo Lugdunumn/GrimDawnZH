@@ -1334,6 +1334,9 @@ tagStoreTitle_MerchantC02=被诅咒的商贩
 tagNPC_MerchantC03=阿加拉德
 tagStoreTitle_MerchantC03=受折磨的灵魂
 
+tagNPC_MerchantC04=法夏
+tagStoreTitle_MerchantC04=常见的漂亮装束
+
 tagNPC_MerchantT01=流动商人
 tagStoreTitle_MerchantT01=回收商贩
 

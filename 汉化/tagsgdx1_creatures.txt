@@ -263,6 +263,33 @@ tagGDX1YetiSwampHeroH02=啮骨者
 tagGDX1YetiSwampHeroH03=腐烂之血 ~ 吸血
 tagGDX1YetiSwampHeroH04=虚灵鬃毛 ~ 腐化的
 
+#CreatureBeastRoguelike
+tagGDX1EnemyBasiliskAetherA01=虚化之舌 蛇怪
+tagGDX1EnemyBasiliskAetherB01=虚化凝视 蛇怪
+tagGDX1EnemyBasiliskAetherC01=虚化之血 蛇怪
+
+tagGDX1EnemyBasiliskChthonicA01=虚空之舌 蛇怪
+tagGDX1EnemyBasiliskChthonicB01=虚化凝视 蛇怪
+tagGDX1EnemyBasiliskChthonicC01=虚化之血 蛇怪
+
+tagGDX1EnemyBoarChthonicB01=虚空獠牙
+tagGDX1EnemyBoarChthonicC01=巨型虚空獠牙
+
+tagGDX1EnemyManticoreChthonicA01=虚空腐化的蝎尾狮
+tagGDX1EnemyManticoreChthonicB01=虚空腐化的废土漫步者
+tagGDX1EnemyManticoreChthonicC01=虚空腐化的蝎尾狮头领
+
+tagGDX1EnemySwampCrabAetherA01=血肉扭曲的螃蟹
+tagGDX1EnemySwampCrabAetherB01=血肉扭曲的尖刺之壳
+tagGDX1EnemySwampCrabAetherC01=血肉扭曲的岩石之壳
+
+tagGDX1EnemyThornedHorrorAetherA01=虚化之刺 恐兽
+tagGDX1EnemyThornedHorrorAetherB01=虚化之刺 惧兽
+tagGDX1EnemyThornedHorrorAetherC01=虚化之刺 巨型恐兽
+
+tagGDX1EnemyYetiChthonicB01=虚空之鬃 狂暴者
+tagGDX1EnemyYetiChthonicB02=虚空之鬃 鲜血之息
+tagGDX1EnemyYetiChthonicC01=虚空之鬃 雪怪头领
 
 
 #CreatureTraps

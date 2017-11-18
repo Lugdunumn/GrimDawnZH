@@ -1636,9 +1636,39 @@ ProjectileFragmentsLaunchNumber={%d0} {^E}碎片数
 ProjectilePiercingChance={%.1f0}% {^E}的几率穿过敌人
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}的几率穿过敌人
 
-
 tagTooltipPetsHeader=战宠
 tagTooltipSkillsHeader=授予技能
+
+#Skill Wheel 技能轮盘
+tagSkillConfig01=设置1
+tagSkillConfig02=设置2
+
+#Gamepad HUD 手柄界面
+tagGamePadSelect=选择
+tagGamePadBack=返回
+tagGamePadEquip=装备物品
+tagGamePadDrop=丢弃物品
+tagGamePadUseItem=使用物品
+tagGamePadSellItem=出售物品
+tagGamePadMoveItem=移动物品
+tagGamePadScroll=滚动
+tagGamePadAssignSkills=分配技能
+tagGamePadSwapConfig=切换设置
+tagGamePadMove=移动
+tagGamePadZoomIn=拉近镜头
+tagGamePadZoomOut=拉远镜头
+tagGamePadExit=退出
+tagGamePadRevert=还原
+tagGamePadSplitStack=拆分堆叠
+tagGamePadNone=N/A
+
+tagGamePadCharacter=角色
+tagGamePadSkills=技能
+tagGamePadMap=地图
+tagGamePadFactions=势力
+tagGamePadAchieve=成就
+
+tagControllerUIWarning=你现有的屏幕分辨率不支持手柄的用户界面.
 
 tagShieldBlockInfo={%.0f0}% 的几率格挡 {^W}{%.0f1} 伤害
 
@@ -1724,8 +1754,8 @@ tagSecond={^E}秒
 tagSeconds={^E}秒
 DamagePerSecond={%.0f0}{^S} 点每秒伤害(装备后)
 DamagePerSecondOffHand={%.0f0} {^S}每秒伤害(副手)
-DamagePhysicalChance={^E} 点物理伤害
-DamageBasePhysical={^S} 点物理伤害
+DamagePhysicalChance={%t0} {^E} 点物理伤害
+DamageBasePhysical={%t0} {^S} 点物理伤害
 DamageBasePierceRatio={%.0f0}% {^S}穿刺转换
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}穿刺转换
 DamageBonusPhysical={%t0} {^E}点物理伤害

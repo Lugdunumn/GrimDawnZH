@@ -40,7 +40,7 @@ tagGDX1Class07SkillDescription01C=只消一语，元素能量便会在敌人体�
 tagGDX1Class07SkillName02A=[审判官]艾尔格洛斯的风暴之盒
 tagGDX1Class07SkillDescription02A=开启刻有符文的艾尔格洛斯风暴之盒，用精神能量缠绕目标并电化周围的空气，使不幸靠近的敌人受到电击。
 tagGDX1Class07SkillName02B=[审判官]闪电绳链
-tagGDX1Class07SkillDescription02B=通过闪电绳链将目标连接到你身上，使所有不幸穿越它的敌人都受到电击。绳链的能量有限，如果你和目标之间的距离变得过远，它就会扯断。^o最多可与3名敌人保持连接。
+tagGDX1Class07SkillDescription02B=通过闪电绳链将目标连接到你身上，迅速电击目标并使所有不幸穿越它的敌人都受到电击。绳链的能量有限，如果你和目标之间的距离变得过远，它就会扯断。^o最多可与3名敌人保持连接。
 tagGDX1Class07SkillName02C=[审判官]阿拉加斯特的奥术织网
 tagGDX1Class07SkillDescription02C=虽然光明会负责监察吉尔达姆秘学社的活动，但是认可合作在两者之间并非闻所未闻的。在精确地调整风暴之盒后，电磁场中充满了虚化的奥术能量。^o绳链依然附带电击伤害。
 
@@ -106,7 +106,7 @@ tagGDX1Class07SkillName14A=[审判官]风暴散射
 tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1Class07SkillName15A=[审判官]致命瞄准
-tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们所有的机会，然而只需一发足矣。
+tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们仅有的机会，然而克敌制胜只需一发足矣。
 
 tagGDX1Class07SkillName16A=[审判官]神器技艺
 tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。 ^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
@@ -490,8 +490,8 @@ tagGDX1ItemSkillD176Desc=敌人一旦被加尔加伯的腐化核心灼烧，将�
 tagGDX1ItemSkillD177Name=虚化火焰
 tagGDX1ItemSkillD177Desc=在敌人脚下爆发出纯粹的奥术烈焰。
 
-tagGDX1ItemSkillD178Name=
-tagGDX1ItemSkillD178Desc=
+tagGDX1ItemSkillD178Name=虚空齐射
+tagGDX1ItemSkillD178Desc=灌注的虚空能量的一次齐射可以穿过你的敌人并将他们消灭。^o这是一项远程武器技能。同时开启双持远程武器的能力。
 
 tagGDX1ItemSkillD179Name=
 tagGDX1ItemSkillD179Desc=
@@ -517,7 +517,7 @@ tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
 
 tagGDX1CompSkillA106Name=虚空燃烧
-tagGDX1CompSkillA106Desc=将毁灭性虚空力量注入攻击，打击附近的敌人。^o当使用一把远程武器发动时,会击中附近多个目标。
+tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击,你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
 
 tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。
@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=元素诅咒
 tagGDX1RelicSkillD104Desc=释放一道纯粹的元素能量击退任何前进的敌人。
 
 tagGDX1RelicSkillD105Name=毁灭力量
-tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并波及附近的敌人。
+tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波粉碎敌人的防御。
 
 tagGDX1RelicSkillD106Name=炽热冲锋
 tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
@@ -594,8 +594,8 @@ tagGDX1RelicSkillD108Desc=夜刃大师尼达拉最喜爱的技能，释放飞刃
 tagGDX1RelicSkillD109Name=时空循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
-tagGDX1RelicSkillD110Name=鲜血之球
-tagGDX1RelicSkillD110Desc=向敌人投掷一个不稳定的鲜血之球。
+tagGDX1RelicSkillD110Name=血脊
+tagGDX1RelicSkillD110Desc=向敌人施放一根涂满鲜血的脊骨。
 
 tagGDX1RelicSkillD111Name=收割弧
 tagGDX1RelicSkillD111Desc=用武器挥舞出一个弧形，劈砍敌人并收割他们的灵魂。^o需要一个近战武器。

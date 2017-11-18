@@ -1,4 +1,4 @@
-
+﻿
 #Weapons
 
 
@@ -958,6 +958,7 @@ tagGDX1Blueprint_ArmorC117=设计图：神话 持火者夹克
 tagGDX1Blueprint_ArmorC118=设计图：神话 卡里多战衣
 tagGDX1Blueprint_ArmorC119=设计图：神话 密耳弥冬的面甲
 tagGDX1Blueprint_ArmorC120=设计图：神话 莫格卓根的风帽
+tagGDX1Blueprint_ArmorC121=设计图：神话 完美主义者的风帽
 
 tagGDX1Blueprint_ArmorD101=设计图：死灵领主的凝视
 tagGDX1Blueprint_ArmorD102=设计图：剧毒术士的诡计
@@ -1191,7 +1192,7 @@ tagGDX1ConsumableF105Desc="一种能将温迪戈饥渴注入武器的油."
 tagGDX1ConsumableF106=邪恶酊剂
 tagGDX1ConsumableF106Desc="打破瓶子，释放邪恶灵魂缠绕敌人."
 tagGDX1ConsumableF107=清晰药水
-tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。^o可以放置在共享储物箱中以便供其它角色使用.
+tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。"^o可以放置在共享储物箱中以便供其它角色使用.
 
 tagGDX1Consumable_AttributeReset=重塑补药
 tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自我重塑."
@@ -1381,7 +1382,7 @@ tagGDX1EnchantB122A=马尔茅斯之心
 tagGDX1EnchantB122Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成.虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用."^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB123A=强效马尔茅斯之心
-tagGDX1EnchantB123Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成.虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用."^w^n(用于所有双手武器)
+tagGDX1EnchantB123Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成.虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用.^w^n(用于所有双手武器)
 
 tagGDX1EnchantB124A=奥术之心粉末
 tagGDX1EnchantB124Desc="这种不稳定魔法粉的火热甚至可以熔穿护甲，它所蕴含的潜能值得奥术学着们冒风险."^w^n(用于戒指和项链)
@@ -1453,77 +1454,77 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体."^w^n(用于所�
 
 #ItemComponents
 
-tagGDX1CompA101Name=力量之印
+tagGDX1CompA101Name=^s力量之印
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA102Name=刀刃之印
+tagGDX1CompA102Name=^s刀刃之印
 tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA103Name=天空之印
+tagGDX1CompA103Name=^s天空之印
 tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA104Name=疫病之印
+tagGDX1CompA104Name=^s疫病之印
 tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA105Name=腐败之印
+tagGDX1CompA105Name=^s腐败之印
 tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA106Name=虚空之印
+tagGDX1CompA106Name=^s虚空之印
 tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶.那些使用它的人堕落且渴望力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA107Name=黑夜之印
+tagGDX1CompA107Name=^s黑夜之印
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA108Name=毁灭之印
+tagGDX1CompA108Name=^s毁灭之印
 tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA109Name=暗影之印
+tagGDX1CompA109Name=^s暗影之印
 tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA110Name=共鸣之印
+tagGDX1CompA110Name=^s共鸣之印
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA111Name=污染之心
+tagGDX1CompA111Name=^s污染之心
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败."^w^n(用于项链和勋章)
 
-tagGDX1CompA112Name=炽热红宝石
+tagGDX1CompA112Name=^s炽热红宝石
 tagGDX1CompA112Desc="宝石的切面闪耀着烈焰之舞."^w^n(用于项链和勋章)
 
-tagGDX1CompA113Name=符文束缚黄玉
+tagGDX1CompA113Name=^s符文束缚黄玉
 tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA114Name=血腥水晶
+tagGDX1CompA114Name=^s血腥水晶
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=魔法大地
+tagGDX1CompA115Name=^s魔法大地
 tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长."^w^n(用于所有护甲)
 
-tagGDX1CompA116Name=魔法焚烧铠甲片
+tagGDX1CompA116Name=^s魔法焚烧铠甲片
 tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量."^w^n(用于所有护甲)
 
-tagGDX1CompA117Name=刀刃铠甲片
+tagGDX1CompA117Name=^s刀刃铠甲片
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃.是强盗和残酷暴君的最爱."^w^n(用于所有护甲)
 
-tagGDX1CompA118Name=巫登沼泽皮革
+tagGDX1CompA118Name=^s巫登沼泽皮革
 tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革.致命的沼泽创造了凯恩世界最强韧的野兽."^w^n(用于所有护甲)
 
 
-tagGDX1CompB101Name=^k神圣铠甲片
+tagGDX1CompB101Name=^s神圣铠甲片
 tagGDX1CompB101Desc="据说来自至高神祝福过的强大护甲."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB102Name=^k活体护甲
+tagGDX1CompB102Name=^s活体护甲
 tagGDX1CompB102Desc="在你手中扭动的铠甲片有不同于金属的肉感，明显是受到了虚灵的操控."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB103Name=^k巨人铠甲片
+tagGDX1CompB103Name=^s巨人铠甲片
 tagGDX1CompB103Desc="这种铠甲片极为厚重，常人无法承受整套护甲的重量并移动."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB104Name=^k邪术之镜
+tagGDX1CompB104Name=^s邪术之镜
 tagGDX1CompB104Desc="镜面的颜色会随着移动而变换，凝视它会引起剧烈头痛，仿佛能看到另一个现实领域."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB105Name=^k湮灭之印
+tagGDX1CompB105Name=^s湮灭之印
 tagGDX1CompB105Desc="与奥能印章最轻微的触碰都会唤起暴力和屠戮的情绪，它渴望着杀戮."^w^n(用于项链)
 
-tagGDX1CompB106Name=^k先祖之印
+tagGDX1CompB106Name=^s先祖之印
 tagGDX1CompB106Desc="奥能印章能唤起你的先祖记忆，甚至是那些你一生中从未见过的人."^w^n(用于项链)
 
 
@@ -1579,7 +1580,9 @@ tagGDX1ItemSetC106Desc="特殊的光明会装备，授予执行危险任务的�
 tagItemSetC009BName=盲眼
 tagItemSetC010BName=神射手的徽记
 tagItemSetC011BName=不洁圣契
+tagItemSetC016BName=帕内蒂的完美主义
 tagItemSetC017BName=黎明守卫
+tagItemSetC021BName=东方之誓
 tagItemSetC024BName=持火者
 tagItemSetC025BName=卡里多的徽记
 tagItemSetC026BName=密尔弥冬的装甲

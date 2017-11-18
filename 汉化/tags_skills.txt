@@ -129,7 +129,7 @@ tagClass01SkillName06B=[士兵]佐尔汉的技艺
 tagClass01SkillDescription06B=以一个著名的格斗大师命名,攻击时放低重心,猛推敌人来使他们失去平衡.^o当使用一把近战武器发动时,会击中附近多个目标.^o所有默认武器攻击均可激活该技能效果.
 
 tagClass01SkillName07A=[士兵]战意
-tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服,反而能激起你的怒气,在攻击中蕴含更强的力量.
+tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服,反而能激起你的怒气,在攻击中蕴含更强的力量.^o受到伤害时激活.
 tagClass01SkillName08A=[士兵]曼海尔的意志
 tagClass01SkillDescription08A=当你接近死亡时,曼海尔不屈的意志将为你灌注新的力量.^o需要盾牌或者近战双手武器.
 
@@ -1606,8 +1606,8 @@ tagItemSkillD086Desc=苍穹被毁灭之力撕裂,一阵流星火雨向你的敌�
 tagItemSkillD087Name=灵魂盛宴
 tagItemSkillD087Desc=享用你附近敌人的灵魂盛宴来恢复自身.
 
-tagItemSkillD088Name=恶魔血肉
-tagItemSkillD088Desc=恶魔的血肉为你和你的仆从抵挡伤害.
+tagItemSkillD088Name=恶魔之躯
+tagItemSkillD088Desc=魔体为你抵挡伤害.
 
 tagItemSkillD089Name=恶魔主宰
 tagItemSkillD089Desc=向你的仆从发出指令,包括你盟友的仆从.^o这项技能必须保持开启以持续生效.
@@ -1664,10 +1664,10 @@ tagItemSkillD106Name=先驱者的标记
 tagItemSkillD106Desc=用先驱者的标记选定目标,这项技能也会传播到附近敌人身上.
 
 tagItemSkillD107Name=先驱者的目标
-tagItemSkillD107Desc=先驱者是远程战斗的专家,偏向于使用步枪来远程解决敌人.^o这是一项被动远程双手武器技能加成.
+tagItemSkillD107Desc=先驱者是远程战斗的专家,偏向于使用双手弩来远程解决敌人.^o这是一项被动远程双手武器技能加成.
 
 tagItemSkillD108Name=先驱者的掌控
-tagItemSkillD108Desc=先驱者由于将致命力量用神秘学识魔法揉合起来而备受推崇.^o这是一项被动远程双手武器技能加成.
+tagItemSkillD108Desc=先驱者由于将远程武器的致命力量用神秘学识魔法揉合起来而备受推崇.^o这是一项被动远程双手武器技能加成.
 
 tagItemSkillD109Name=浩劫
 tagItemSkillD109Desc=向你的敌人施放充满浩劫之力的野性喷射.
@@ -1685,7 +1685,7 @@ tagItemSkillD113Name=饥渴虫群
 tagItemSkillD113Desc=释放一群饥渴虫群来撕裂你的敌人.
 
 tagItemSkillD114Name=冰霜新星
-tagItemSkillD114Desc=释放一道寒冰波浪冻伤你的敌人.
+tagItemSkillD114Desc=对附近的敌人释放一道寒冰波浪.
 
 tagItemSkillD115Name=急冻寒冰
 tagItemSkillD115Desc=伴随着高度的集中,你吸收了附近空气中所有的热量,伤害并冻结你的敌人.

@@ -3,7 +3,7 @@ tagSkillClassName08=死灵法师
 
 tagSkillClassName0107=战术家^T（士兵+审判）
 tagSkillClassName0108=死亡骑士^T（士兵+死灵）
-tagSkillClassName0207=净化者^T（爆破+审判）
+tagSkillClassName0207=[ms]净化者^T（爆破+审判）[fs]净化女使^T（爆破+审判）
 tagSkillClassName0208=污染者^T（爆破+死灵）
 tagSkillClassName0307=欺诈者^T（神秘+审判）
 tagSkillClassName0308=秘术师^T（神秘+死灵）
@@ -40,7 +40,7 @@ tagGDX1Class07SkillDescription01C=只消一语，元素能量便会在敌人体�
 tagGDX1Class07SkillName02A=[审判官]艾尔格洛斯的风暴之盒
 tagGDX1Class07SkillDescription02A=开启刻有符文的艾尔格洛斯风暴之盒，用精神能量缠绕目标并电化周围的空气，使不幸靠近的敌人受到电击。
 tagGDX1Class07SkillName02B=[审判官]闪电绳链
-tagGDX1Class07SkillDescription02B=通过闪电绳链将目标连接到你身上，使所有不幸穿越它的敌人都受到电击。绳链的能量有限，如果你和目标之间的距离变得过远，它就会扯断。^o最多可与3名敌人保持连接。
+tagGDX1Class07SkillDescription02B=通过闪电绳链将目标连接到你身上，迅速电击目标并使所有不幸穿越它的敌人都受到电击。绳链的能量有限，如果你和目标之间的距离变得过远，它就会扯断。^o最多可与3名敌人保持连接。
 tagGDX1Class07SkillName02C=[审判官]阿拉加斯特的奥术织网
 tagGDX1Class07SkillDescription02C=虽然光明会负责监察吉尔达姆秘学社的活动，但是认可合作在两者之间并非闻所未闻的。在精确地调整风暴之盒后，电磁场中充满了虚化的奥术能量。^o绳链依然附带电击伤害。
 
@@ -106,7 +106,7 @@ tagGDX1Class07SkillName14A=[审判官]风暴散射
 tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
 
 tagGDX1Class07SkillName15A=[审判官]致命瞄准
-tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们所有的机会，然而只需一发足矣。
+tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们仅有的机会，然而克敌制胜只需一发足矣。
 
 tagGDX1Class07SkillName16A=[审判官]神器技艺
 tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
@@ -490,8 +490,8 @@ tagGDX1ItemSkillD176Desc=敌人一旦被加尔加伯的腐化核心灼烧，将�
 tagGDX1ItemSkillD177Name=虚化火焰
 tagGDX1ItemSkillD177Desc=在敌人脚下爆发出纯粹的奥术烈焰。
 
-tagGDX1ItemSkillD178Name=
-tagGDX1ItemSkillD178Desc=
+tagGDX1ItemSkillD178Name=虚空齐射
+tagGDX1ItemSkillD178Desc=灌注的虚空能量的一次齐射可以穿过你的敌人并将他们消灭。^o这是一项远程武器技能。同时开启双持远程武器的能力。
 
 tagGDX1ItemSkillD179Name=
 tagGDX1ItemSkillD179Desc=
@@ -517,7 +517,7 @@ tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
 
 tagGDX1CompSkillA106Name=虚空燃烧
-tagGDX1CompSkillA106Desc=将毁灭性虚空力量注入攻击，打击附近的敌人。^o当使用一把远程武器发动时,会击中附近多个目标。
+tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击,你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
 
 tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。
@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=元素诅咒
 tagGDX1RelicSkillD104Desc=释放一道纯粹的元素能量击退任何前进的敌人。
 
 tagGDX1RelicSkillD105Name=毁灭力量
-tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并波及附近的敌人。
+tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波粉碎敌人的防御。
 
 tagGDX1RelicSkillD106Name=炽热冲锋
 tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
@@ -595,7 +595,7 @@ tagGDX1RelicSkillD109Name=时空循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
 tagGDX1RelicSkillD110Name=鲜血之球
-tagGDX1RelicSkillD110Desc=向敌人投掷一个不稳定的鲜血之球。
+tagGDX1RelicSkillD110Desc=向敌人施放一根涂满鲜血的脊骨。
 
 tagGDX1RelicSkillD111Name=收割弧
 tagGDX1RelicSkillD111Desc=用武器挥舞出一个弧形，劈砍敌人并收割他们的灵魂。^o需要一个近战武器。
@@ -669,30 +669,30 @@ tagGDX1Devotion_A103Desc=据说羽毛笔被神用来向人类传送法令。它�
 tagGDX1Devotion_A104=蟾蜍^g[初级]（虚化活力吸血，4换6）
 tagGDX1Devotion_A104Desc=蟾蜍代表混乱，是巫师和术士喜爱的象征。
 
-tagGDX1Devotion_B101=穆谟, 谣言夫人^g[中级]（冰霜酸毒，6换4）
+tagGDX1Devotion_B101=穆谟, 谣言夫人^g[中级]（冰霜&酸毒『减抗』，6换4）
 tagGDX1Devotion_B101Desc=很少有人真正尊重语言的力量。更没有人了解像穆谟这样可以造成毁灭性的影响的谣言。据说她邪恶的舌头已经引发了无数的血腥冲突。有些人甚至说，众神因为她的阴谋而在布满星星的天空中战斗。
 tagGDX1Devotion_B102=莱托什的权杖^g[中级]（虚化，抗性，宠物，6换4）
 tagGDX1Devotion_B102Desc=飞行的莱托什权杖据说是揭开物质与精神境界面纱的关键。当它在天空中显现之时，人们相信此时生者和亡者之间的屏障是最薄的。
-tagGDX1Devotion_B103=阿拉德拉的凤凰^g[中级]（火系虚化，5换4）
+tagGDX1Devotion_B103=阿拉德拉的凤凰^g[中级]（火系虚化『固定点数伤害吸收』，5换4）
 tagGDX1Devotion_B103Desc=神忠实的宠物，阿拉德拉的凤凰在星空中划过一条燃烧的火光。
 tagGDX1Devotion_B104=堤丰，灵魂狱卒^g[中级]（防御，宠物，6换4）
 tagGDX1Devotion_B104Desc=堤丰是莱托什忠实的仆人，一个警觉的猎人，狩猎那些拒绝登上死亡战车的恶灵。
 tagGDX1Devotion_B105=吟游诗人的竖琴^g[中级]（穿刺元素，能量恢复，6换4）
 tagGDX1Devotion_B105Desc=佳丽亚吟游诗人的音乐是如此迷人，以至于众神将她升入天空，这样她就能款待他们直至永恒。
 
-tagGDX1Devotion_C101=尤尔托斯，风暴牧羊人^g[高级]（电冰霜，6）
+tagGDX1Devotion_C101=尤尔托斯，风暴牧羊人^g[高级]（电冰霜『点数元素抗降低』，6）
 tagGDX1Devotion_C101Desc=在安克维亚传说中尤尔托斯的地位较低于其他天神兄弟，但他仍然是一个强大的象征，他撒下的雨水让作物丰收，他降下闪电能造成可怕的毁灭。不过具有讽刺意味的是，尤尔托斯却是安克维亚神中唯一一个受到的信奉超越了帝国兴衰。
-tagGDX1Devotion_C102=伊师塔克，春之少女^g[高级]（防御，抗性，6）
+tagGDX1Devotion_C102=伊师塔克，春之少女^g[高级]（防御『%伤害吸收』，抗性，6）
 tagGDX1Devotion_C102Desc=在安克维亚时期很多人经常找伊诗塔克疗伤。万物皆是春之少女的孩子，所有人都会在她温柔的拥抱中找到安慰。
-tagGDX1Devotion_C103=维尔，石夫人^g[高级]（物理，防御，抗性，6）
+tagGDX1Devotion_C103=维尔，石夫人^g[高级]（物理，护甲，抗性，6）
 tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
 tagGDX1Devotion_C104=阿塔克瑟如，幻影^g[高级]（虚化元素，6）
 tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法守护女神，是那些敢于使用魔法之人的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；但即使是她的守护也不足矣避开死灵法师诅咒的影响。
-tagGDX1Devotion_C105=莱托什,暗影守望者^g[高级]（活力，6）
+tagGDX1Devotion_C105=莱托什,暗影守望者^g[高级]（活力系『减抗，减吸血抗』，虚化系6）
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言
-tagGDX1DevotionEffectB101Desc=穆谟的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^o具备传播扩撒性
+tagGDX1DevotionEffectB101Desc=穆谟的话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。^odebuff技能，具备传播扩撒性
 tagGDX1DevotionEffectB102=凤凰烈焰
 tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠的太近的敌人。
 tagGDX1DevotionEffectB103=激励
@@ -708,7 +708,7 @@ tagGDX1DevotionEffectC104=奥术电流
 tagGDX1DevotionEffectC104Desc=在地上刻下怪异的符号，迅速对附近敌人释放奥术能量电流。^o奥术电流受到玩家伤害加成的影响。
 tagGDX1DevotionEffectC104PetSkill=汹涌
 tagGDX1DevotionEffectC105=莱托什的意志
-tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已被封印，任由莱托什的仆从堤丰摆布。
+tagGDX1DevotionEffectC105Desc=用莱托什的符号标记敌人的灵魂。他们的生命和命运已被封印，任由莱托什的仆从堤丰摆布。^odebuff技能
 
 
 #SkillsReallocator

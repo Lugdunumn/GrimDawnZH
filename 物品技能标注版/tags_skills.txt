@@ -20,7 +20,7 @@ tagSkillClassName0203=烈焰术士^T(爆破+神秘)
 tagSkillClassName0204=破坏者^T(爆破+夜刃)
 tagSkillClassName0205=[ms]巫术师^T(爆破+奥术)[fs]女巫^T(爆破+奥术)
 tagSkillClassName0206=[ms]元素使者^T(爆破+萨满)[fs]元素女郎^T(爆破+萨满)
-tagSkillClassName0207=净化者^T(爆破+审判)
+tagSkillClassName0207=[ms]净化者^T(爆破+审判)[fs]净化女使^T(爆破+审判)
 tagSkillClassName0208=污染者^T(爆破+死灵)
 tagSkillClassName0209=
 tagSkillClassName0304=[ms]巫师猎人^T(神秘+夜刃)[fs]魔法猎人^T(神秘+夜刃)
@@ -58,6 +58,10 @@ tagSkillClassDescription04=夜刃们曾是为帝国望族卖命的秘密武器.�
 tagSkillClassDescription05=对于奥术师来说,魔法的呈现根本就不是什么秘密,也不是什么神的旨意,而是一门需要研究的学问.这种对知识的渴求让所有奥术师都渴望发明新法术,然后用自己的名字为之命名.奥术师随意糅合虚灵和各种元素的能量,创造出了许多能毁灭一支小型军队的法术.不过,使用了如此强大的力量,防守起来自是力不从心.
 
 tagSkillClassDescription06=来自尚未被开发的北方大地,萨满们曾是他们人民的守护者和精神领袖.掌握着与自然和他们的主神莫格卓根之间的和谐之道,萨满们能够运用大自然可怕的力量对抗他们的敌人,他们甚至可以召唤野兽前来协助.萨满擅长使用威力十足的双手近战武器,但借助他们的原始魔力,他们也能轻松驾驭其他的兵器.
+
+//tagSkillClassDescription07=
+
+//tagSkillClassDescription08=
 
 tagSkillClassDescription09=
 
@@ -125,7 +129,7 @@ tagClass01SkillName06B=佐尔汉的技艺-^F士兵
 tagClass01SkillDescription06B=以一个著名的格斗大师命名,攻击时放低重心,猛推敌人来使他们失去平衡.^o当使用一把近战武器发动时,会击中附近多个目标.^o武器被动技能,所有默认武器攻击均可激活该技能效果；近战武器反手水平挥击动作,远程武器不能攻击多个目标和没有特殊动作.
 
 tagClass01SkillName07A=战意-^F士兵
-tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服,反而能激起你的怒气,在攻击中蕴含更强的力量.
+tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服,反而能激起你的怒气,在攻击中蕴含更强的力量.^o受到伤害时激活.
 tagClass01SkillName08A=曼海尔的意志-^F士兵
 tagClass01SkillDescription08A=当你接近死亡时,曼海尔不屈的意志将为你灌注新的力量.^o需要盾牌或者近战双手武器.战士救命技能.
 
@@ -1603,8 +1607,8 @@ tagItemSkillD086Desc=苍穹被毁灭之力撕裂,一阵流星火雨向你的敌�
 tagItemSkillD087Name=灵魂盛宴
 tagItemSkillD087Desc=享用你附近敌人的灵魂盛宴来恢复自身.
 
-tagItemSkillD088Name=恶魔血肉
-tagItemSkillD088Desc=恶魔的血肉为你和你的仆从抵挡伤害.
+tagItemSkillD088Name=恶魔之躯
+tagItemSkillD088Desc=魔体为你抵挡伤害.
 
 tagItemSkillD089Name=恶魔主宰
 tagItemSkillD089Desc=向你的仆从发出指令,包括你盟友的仆从.^o这项技能必须保持开启以持续生效.
@@ -1661,10 +1665,10 @@ tagItemSkillD106Name=先驱者的标记
 tagItemSkillD106Desc=用先驱者的标记选定目标,这项技能也会传播到附近敌人身上.
 
 tagItemSkillD107Name=先驱者的目标
-tagItemSkillD107Desc=先驱者是远程战斗的专家,偏向于使用步枪来远程解决敌人.^o这是一项被动远程双手武器技能加成.
+tagItemSkillD107Desc=先驱者是远程战斗的专家,偏向于使用来双手弩远程解决敌人.^o这是一项被动远程双手武器技能加成.
 
 tagItemSkillD108Name=先驱者的掌控
-tagItemSkillD108Desc=先驱者由于将致命力量用神秘学识魔法揉合起来而备受推崇.^o这是一项被动远程双手武器技能加成.
+tagItemSkillD108Desc=先驱者由于将远程武器的致命力量用神秘学识魔法揉合起来而备受推崇.^o这是一项被动远程双手武器技能加成.
 
 tagItemSkillD109Name=浩劫
 tagItemSkillD109Desc=向你的敌人施放充满浩劫之力的野性喷射.
@@ -1682,7 +1686,7 @@ tagItemSkillD113Name=饥渴虫群
 tagItemSkillD113Desc=释放一群饥渴虫群来撕裂你的敌人.
 
 tagItemSkillD114Name=冰霜新星
-tagItemSkillD114Desc=释放一道寒冰波浪冻伤你的敌人.
+tagItemSkillD114Desc=对附近的敌人释放一道寒冰波浪.
 
 tagItemSkillD115Name=急冻寒冰
 tagItemSkillD115Desc=伴随着高度的集中,你吸收了附近空气中所有的热量,伤害并冻结你的敌人.
@@ -2368,7 +2372,7 @@ tagRelicSkillD009Name=骨疽
 tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒,使他们肉体腐坏意识缓慢.
 
 tagRelicSkillD010Name=阿格里维斯的怨恨
-tagRelicSkillD010Desc=利用阿格里维斯的愤怒,在你周围制造一阵虚化和混乱能量的漩涡.
+tagRelicSkillD010Desc=利用阿格里维斯的愤怒,在你周围制造一阵虚化和混乱能量的漩涡.^o一次发动1道环形投射物。
 
 tagRelicSkillD011Name=湮灭
 tagRelicSkillD011Desc=对你的敌人发动混沌的纯粹毁灭之力.
@@ -2517,17 +2521,17 @@ tagDevotionAffinity04Info=你 所 拥 有 秩 序 亲 和 点 数 数 量.秩 �
 tagDevotionAffinity05=原始
 tagDevotionAffinity05Info=你 所 拥 有 原 始 亲 和 点 数 数 量.原 始 生 物 象 征 着 创 造,生 命,死 亡 以 及 现 实 本 身.
 
-tagDevotion_RequiresSword=^o需要一把剑.
-tagDevotion_RequiresAxe=^o需要一把斧子.
-tagDevotion_RequiresMace=^o需要一把锤子.
-tagDevotion_RequiresCaster=^o需要一把权杖或匕首.
-tagDevotion_RequiresFocus=^o需要一件副手法器.
-tagDevotion_Requires1hRange=^o需要一把单手远程武器.
-tagDevotion_Requires2hRange=^o需要一把双手远程武器.
-tagDevotion_RequiresRange=^o需要一把远程武器.
-tagDevotion_Requires2h=^o需要一把双手近战武器或远程武器.
-tagDevotion_RequiresShield=^o需要一面盾牌.
-tagDevotion_RequiresMagic=^o需要一把权杖,匕首或者法器副手.
+tagDevotion_RequiresSword=^o需要一把『剑』（单手双手皆可）.
+tagDevotion_RequiresAxe=^o需要一把『斧子』（单手双手皆可）.
+tagDevotion_RequiresMace=^o需要一把『锤子』（单手双手皆可）.
+tagDevotion_RequiresCaster=^o需要一把『权杖』或『匕首』.
+tagDevotion_RequiresFocus=^o需要一件『副手法器』.
+tagDevotion_Requires1hRange=^o需要一把『单手远程武器』.
+tagDevotion_Requires2hRange=^o需要一把『双手远程武器』.
+tagDevotion_RequiresRange=^o需要一把『远程武器』（单手双手皆可）.
+tagDevotion_Requires2h=^o需要一把『双手近战武器』或『双手远程武器』.
+tagDevotion_RequiresShield=^o需要一面『盾牌』.
+tagDevotion_RequiresMagic=^o需要一把『权杖』,『匕首』或者『法器副手』.
 
 tagDevotion_A01=蝙蝠^g[初级]（吸血系,穿刺+活力,5换5）
 tagDevotion_A01Desc=吸血蝙蝠很容易就能找到在夜空飞行的道路,猎杀那些闪烁的失落之星来汲取他们的光能.
@@ -2543,7 +2547,7 @@ tagDevotion_A06=牧羊杖^g[初级]（召唤系,4换5）
 tagDevotion_A06Desc=牧羊人保护他的天之羊群穿行在夜空中.
 tagDevotion_A07=水手的指针^g[初级]（防御,抗性,4换5）
 tagDevotion_A07Desc=水手的指针为在大海中迷失的人们提供指引标识.它的指引之光已经拯救了大量的生命.
-tagDevotion_A08=刺客的利刃^g[初级]（物理系,穿刺系,5换5）
+tagDevotion_A08=刺客的利刃^g[初级]（物理系&穿刺系『减抗』,5换5）
 tagDevotion_A08Desc=刺杀者的匕首,制裁者杀手的最爱.
 tagDevotion_A09=守护者之眼^g[初级]（毒系,混乱系,5换5）
 tagDevotion_A09Desc=德里格,巫神,据说已经看透了层层迷雾并洞悉了一切的真相.为此,众神诅咒了他的凡人信徒,使他们变成了有上千只警戒之眼并带着脊刺的怪物.现在他永恒地伫立着看守着迷雾面纱,他那无与伦比的凝视是所有人都需要警惕的.
@@ -2569,7 +2573,7 @@ tagDevotion_A19=小恶魔^g[初级]（虚化系,5换6）
 tagDevotion_A19Desc=小恶魔是个骗术师,它的星座在整年内都飘忽不定.
 tagDevotion_A20=魔王^g[初级]（火系,5换5）
 tagDevotion_A20Desc=魔王星隐藏在黑暗的虚空之中,消灭那些不按规则运行的天星.
-tagDevotion_A21=公牛^g[初级]（物理系,5换5）
+tagDevotion_A21=公牛^g[初级]（创伤系,5换5）
 tagDevotion_A21Desc=公牛带着果决与力量在夜空中横冲直撞.
 tagDevotion_A22=幽灵^g[初级]（虚化系,电系,4换6）
 tagDevotion_A22Desc=幽灵永世地在天空中游荡,艾尔卡玛对它的最终审判永远不会通过.
@@ -2585,7 +2589,7 @@ tagDevotion_A27=猎鹰^g[初级]（暴击+%OA,3换3）
 tagDevotion_A27Desc=猎鹰翱翔于天际,寻找着下一个猎物.
 tagDevotion_A28=狼獾^g[初级]（防御系,%DA+反击,5换6）
 tagDevotion_A28Desc=狼獾象征着桀骜不驯.
-tagDevotion_A29=乌龟^g[初级]（防御系,生命+护甲,5换5）
+tagDevotion_A29=乌龟^g[初级]（防御系『点数吸收』,生命+护甲,5换5）
 tagDevotion_A29Desc=乌龟代表着刚毅与不屈.
 tagDevotion_A30=猎豹^g[初级]（暴击,4换5）
 tagDevotion_A30Desc=猎豹象征着精神力量和迅捷.
@@ -2606,15 +2610,15 @@ tagDevotion_A37Desc=狮子代表着胆气,勇猛,王者的血统.
 tagDevotion_A38=豺狼^g[初级]（攻速,3换3）
 tagDevotion_A38Desc=豺狼在天空中潜行,搜寻者易于捕捉的猎物.
 
-tagDevotion_B01=罗万的皇冠^g[中级]（元素系,5换1）
+tagDevotion_B01=罗万的皇冠^g[中级]（元素系『点数减抗』,5换2）
 tagDevotion_B01Desc=传说当罗万从王座上退位之后,他的皇冠与权杖很快就失踪了,在接下来的几天里就出现在了夜空中.
 tagDevotion_B02=艾尔卡玛的天平^g[中级]（生命+能量+恢复+吸血,6换2）
 tagDevotion_B02Desc=艾尔卡玛,审判者,主持着天堂并审判所有凡人的生命.据说人们的所有行为都被放在了他那黄金天平之上,如果邪恶部分超过了好的一面,他们的灵魂将会被放逐到虚空之中.
 tagDevotion_B03=温迪戈^g[中级]（活力系,生命+吸血,6换2）
 tagDevotion_B03Desc=温迪戈是一种原始的饥渴灵魂.很多萨满违反了正规的教义并尝试与温迪戈签订契约,祈求这种邪恶的灵魂来击败他们的敌人.但最终,控制温迪戈是极其危险的,并使得很多萨满陷入了疯狂,向他们灌注了无尽的饥渴并不可避免的导致了自相残杀.
-tagDevotion_B04=女猎手^g[中级]（流血系,%OA,7换2）
+tagDevotion_B04=女猎手^g[中级]（流血系『减抗』,%OA,7换2）
 tagDevotion_B04Desc=女猎手在夜空中巡视,追捕着她的猎物.据说除非她杀死不朽的九头蛇,否则她的无尽捕猎不会停止.
-tagDevotion_B05=残暴之熊^g[中级]（物理系,攻速+抗性,6换2）
+tagDevotion_B05=残暴之熊^g[中级]（物理系,抗性,6换2）
 tagDevotion_B05Desc=残暴之熊是傲慢与强壮力量的标志.在它的光芒下诞生的人被认为是古时的帝王降临凡尘.
 tagDevotion_B06=刺客^g[中级]（穿刺系,7换2）
 tagDevotion_B06Desc=刺杀者即死亡行刑者,很少会出现在夜空中.他的到来经常伴随着浓厚的阴云,短暂的出现后再次没入其中,一闪而逝.
@@ -2622,11 +2626,11 @@ tagDevotion_B07=魔法长者^g[中级]（火系,7换3）
 tagDevotion_B07Desc=魔法长者是所有魔法师的保护者.那些在他的注视下诞生的人据说都被赐予了祝福或者被施加了诅咒,这取决于他的视角,伴随着对奥术力量无与伦比的控制力.
 tagDevotion_B08=深秋野猪^g[中级]（盾系,抗性,7换3）
 tagDevotion_B08Desc=深秋野猪的到来标志着秋季的庆典开端以及树叶的更替.这项活动始于一场盛大的狩猎并结束于肉类与啤酒都吃干喝尽的盛宴.
-tagDevotion_B09=寡妇^g[中级]（虚化系,电系,%OA,6换3）
+tagDevotion_B09=寡妇^g[中级]（虚化系&电系『减抗』,%OA,6换3）
 tagDevotion_B09Desc=寡妇纪念着迷失者以及亡者.当夜空中有一道条状光华闪过时,据说那就是寡妇的眼泪.
-tagDevotion_B10=亡魂^g[中级]（召唤系,攻速+吸血,6换2）
+tagDevotion_B10=亡魂^g[中级]（召唤系,攻速&施法+吸血,6换2）
 tagDevotion_B10Desc=亡魂象征着死亡与悲痛.据说没有人能逃过他的死亡凝视,甚至众神本身也不能.
-tagDevotion_B11=索拉尔的巫术之刃^g[中级]（火系,混乱系,5换2）
+tagDevotion_B11=索拉尔的巫术之刃^g[中级]（火系&混乱系『减抗』,5换2）
 tagDevotion_B11Desc=据说索拉尔是三位巫神中最残忍的一个,在他不朽的事业中用他弯曲的祭祀之刃雕刻了数之不尽的受害者雕像.
 tagDevotion_B12=拜斯迈的羁绊^g[中级]（召唤系,5换3）
 tagDevotion_B12Desc=传言说巫神拜斯迈,在她走向绞刑架时抛弃了凡人的躯体并升入了天堂,那断裂的铁链是她逃离的唯一标识.
@@ -2638,9 +2642,9 @@ tagDevotion_B15=冬季之灵,阿玛托克^g[中级]（冰系,7换2）
 tagDevotion_B15Desc=在冬月内这个星座会出现在北部地平线上.据说陷入绝望中的旅行者顺着阿玛托克指引之星前进就会遇见他的小屋.那些进入其中的人们可以坐在炽热的火炉边并享受丰盛的食物,但蠢货除外.阿玛托克会进行剥夺并在接下来的夜晚享受自己的盛宴.
 tagDevotion_B16=苦难^g[中级]（毒系,活力系,暴击+%OA,7换2）
 tagDevotion_B16Desc=苦痛在天际显现的形式,在深秋野猪的盛宴后随之而来,标志着冰冷月份的开端.它将凯恩变成了疾病与荒凉之地,与兴旺的收获之月形成对比.^o
-tagDevotion_B17=螃蟹^g[中级]（防御系,5换3）
+tagDevotion_B17=螃蟹^g[中级]（防御系『点数吸收』,5换3）
 tagDevotion_B17Desc=螃蟹标志着一年中最兴盛的渔汛期到来,但同时也是最危险的大型海洋生物游向海岸的时期,那是在小鱼小虾的洄游期之后.
-tagDevotion_B18=狮蝎^g[中级]（毒系,6换2）
+tagDevotion_B18=狮蝎^g[中级]（毒系『点数减全抗』,6换2）
 tagDevotion_B18Desc=狮蝎是一种在夜空游荡并寻找下一个猎物的恶毒捕食者.它的牙齿和尾巴充满了毒液.
 tagDevotion_B19=庄严守望者^g[中级]（防御系,%DA,5换5）
 tagDevotion_B19Desc=西蒙,守望者,伫立并守卫着西蒙的病房直到死亡之日,保护帝国不受超自然现象的威胁.西蒙的永恒警戒在上天延续,就像他在活着的时候一样守望着凯恩.
@@ -2676,7 +2680,7 @@ tagDevotion_C03=至高之神的圣光^g[高级]（防御系,火系,抗性,7）
 tagDevotion_C03Desc=至高之神,众神中最伟大的一位,是世界的圣光和凯恩世界一切事物的守护者.由于他的仁慈,人们才能每天都迎来阳光.
 tagDevotion_C04=奥莱隆^g[高级]（物理系,7）
 tagDevotion_C04Desc=奥莱隆的传说可以说是惨烈的,他是战争之神.当他的国度面临着毁灭时,奥莱隆做了加入保护子民战斗的艰难抉择,而代价是他的妻子和孩子.这种损失对于这名战争英雄来说是极重的,传言说在那之后他会狂暴鲁莽地直接冲入战场,以期能有敌人的利刃送他去与家人团聚,但这从未发生.至今,当士兵们冲入战场时,他们呼唤着奥莱隆的名字来获得力量与勇气.
-tagDevotion_C05=曼海尔的方尖碑^g[高级]（防御系,盾技能,%DA+护甲+抗性,7）
+tagDevotion_C05=曼海尔的方尖碑^g[高级]（防御系,盾系『固定点数伤害吸收』,%DA+护甲+抗性,7）
 tagDevotion_C05Desc=曼海尔,大地之神,是凯恩的坚定守护者.向他祈祷的人们都会受到平等对待,不论是渴望保卫家园的人们还是希望有场丰收的农夫.远古岩石被砌成了石碑来标志曼海尔的神圣土地直到如今.
 tagDevotion_C06=天堂之矛^g[高级]（虚化系,电系,暴击+%OA,6）
 tagDevotion_C06Desc=天堂之矛是信仰之力的标志.据说这根长矛由至高之神亲自用来刺穿垂死之神并将其分裂成无数碎片.
@@ -2692,7 +2696,7 @@ tagDevotion_C11=盲眼圣者^g[高级]（元素系,7）
 tagDevotion_C11Desc=很多人旅行了成千上万里来寻求伟大盲眼圣者的智慧,但大部分都失望了,他们的灵魂不值得引起她那不朽智慧的注意.
 tagDevotion_C12=海怪,利维坦^g[高级]（冰系,生命,7）
 tagDevotion_C12Desc=星空中巨大的蛇怪,天星的吞噬者以及冰冻寒意之夜的制造者.
-tagDevotion_C13=无名勇士^g[高级]（穿刺系,流血系,爆击+攻速+吸血,7）
+tagDevotion_C13=无名勇士^g[高级]（穿刺系,流血系,爆击+攻速,7）
 tagDevotion_C13Desc=很多传说都有关于在战斗中阵亡的无名男女们,他们的勇猛和事迹从没被确认过.为了向他们致敬,天星们自动重新排列成了无名勇士的形状.
 
 tagDevotionEffectA01=双生之牙
@@ -2714,7 +2718,7 @@ tagDevotionEffectA18Desc=一波激流水浪朝着前方的敌人席卷而去.
 tagDevotionEffectA19=虚化烈焰
 tagDevotionEffectA19Desc=一阵小型的虚化之火喷向你目标的足部.^o小型地板aoe.
 tagDevotionEffectA20=烈焰洪流
-tagDevotionEffectA20Desc=邪恶的火焰环绕周身,将触碰到的敌人烧成灰烬.^o环形投射物,只能存在1组投射物.
+tagDevotionEffectA20Desc=邪恶的火焰环绕周身,将触碰到的敌人烧成灰烬.^o环形投射物.
 tagDevotionEffectA21=蛮牛冲撞
 tagDevotionEffectA21Desc=像一头冲锋的蛮牛一般用身躯急速地冲击附近的敌人.^o触发比较频繁的小aoe技能.
 tagDevotionEffectA25=食尸鬼饥渴

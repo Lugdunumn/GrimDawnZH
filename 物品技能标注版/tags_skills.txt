@@ -277,79 +277,79 @@ tagClass03SkillName01A=^g<^F神秘^g>^i召唤乌鸦
 tagClass03SkillDescription01A=召唤神话中的风暴乌鸦来援助你.风暴乌鸦是与寻常乌鸦不同的一种拥有不可思议的智慧和魔力的奇异生物.有些人坚信它们不是鸟,而是以乌鸦的形式现身的某种古老的天空之灵.^o同一时间只能召唤一只乌鸦.乌鸦会受到战宠加成影响.辅助型召唤物.
 tagClass03SkillName01B=风暴光球
 tagClass03SkillDescription01B=普通攻击.
-tagClass03SkillName01C=^g<^F爆破^g>^i血肉缝合
+tagClass03SkillName01C=^g<^F神秘^g>^i血肉缝合
 tagClass03SkillDescription01C=乌鸦能引导神秘能量治疗受伤的盟友.
-tagClass03SkillName01D=^g<^F爆破^g>^i风暴之心
+tagClass03SkillName01D=^g<^F神秘^g>^i风暴之心
 tagClass03SkillDescription01D=乌鸦能向选中的盟友注入神秘的能量,授予他们超凡的能力.
-tagClass03SkillName01E=^g<^F爆破^g>^i闪电打击
+tagClass03SkillName01E=^g<^F神秘^g>^i闪电打击
 tagClass03SkillDescription01E=风暴乌鸦召唤强力的闪电来攻击附近的敌人.
 
-tagClass03SkillName02A=^g<^F爆破^g>^i召唤地狱犬
+tagClass03SkillName02A=^g<^F神秘^g>^i召唤地狱犬
 tagClass03SkillDescription02A=从邪术国度召唤出一只地狱犬撕咬神秘学者的敌人.这种邪恶的野兽将跟随在你身旁战斗直至生命在火焰地狱里终结.^o同一时间只能召唤一只地狱犬.地狱犬会受到战宠加成影响.
-tagClass03SkillName02B=^g<^F爆破^g>^i灰烬之爪
+tagClass03SkillName02B=^g<^F神秘^g>^i灰烬之爪
 tagClass03SkillDescription02B=在地狱犬可触及的范围内使用硫磺之爪在敌人身上撕扯出一道道烈焰之弧.
-tagClass03SkillName02C=^g<^F爆破^g>^i地狱之火
+tagClass03SkillName02C=^g<^F神秘^g>^i地狱之火
 tagClass03SkillDescription02C=地狱烈火的光环围绕在地狱犬的周围,对攻击它的敌人进行烈焰反击.这种力量也会被赋予附近的友军.
-tagClass03SkillName02D=^g<^F爆破^g>^i炼狱吐息
+tagClass03SkillName02D=^g<^F神秘^g>^i炼狱吐息
 tagClass03SkillDescription02D=地狱犬向外喷吐地狱怒炎,将敌人烧成灰烬.
 tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=普通攻击
 tagClass03SkillName02F=死亡爆裂
 tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱,将附近的敌人烧成灰烬.
 
-tagClass03SkillName03A=^g<^F爆破^g>^i拜斯迈的羁绊
+tagClass03SkillName03A=^g<^F神秘^g>^i拜斯迈的羁绊
 tagClass03SkillDescription03A=强化与召唤生物之间的联结,使它们更努力更坚决地为你作战.^o技能必须开启才能保持生效.
-tagClass03SkillName03B=^g<^F爆破^g>^i掌控
+tagClass03SkillName03B=^g<^F神秘^g>^i掌控
 tagClass03SkillDescription03B=以微妙的手法操纵召唤契约,使召唤物对你忠诚无比.它们将以狂热的力量和速度为你而战.
 
-tagClass03SkillName04A=^g<^F爆破^g>^i德里格之血
+tagClass03SkillName04A=^g<^F神秘^g>^i德里格之血
 tagClass03SkillDescription04A=与伟大守护者之间的精神联系将赐予你一部分德里格的恢复能力.受到敌人攻击时将喷溅出巫神德里格身上的毒血.^o技能效果也会作用于队友身上；神秘万能buff.
-tagClass03SkillName04B=^g<^F爆破^g>^i守护者的躯体
+tagClass03SkillName04B=^g<^F神秘^g>^i守护者的躯体
 tagClass03SkillDescription04B=与德里格的深度联结致使敌人对神秘学者的进攻仿佛是在攻击守护者那坚不可摧的本体.^o神秘不缺毒抗的原因,当然还有点物理抗.
 tagClass03SkillName04C=守护者之翎
 tagClass03SkillDescription04C=牺牲所有的回复力,增强德里格之血的毒性.
 
-tagClass03SkillName05A=^g<^F爆破^g>^i索拉尔的巫火
+tagClass03SkillName05A=^g<^F神秘^g>^i索拉尔的巫火
 tagClass03SkillDescription05A=驾驭索拉尔的邪术力量,使用熵能在每一次武器攻击中灼烧敌人.^o这项技能必须保持开启以持续生效.增加混乱武器伤害.
-tagClass03SkillName05B=^g<^F爆破^g>^i二次仪式
+tagClass03SkillName05B=^g<^F神秘^g>^i二次仪式
 tagClass03SkillDescription05B=加深神秘学者与隐秘国度之间的联系,使巫火的力量变得更为强大,哪怕是最为轻微的接触也足以让敌人的生命精华燃烧殆尽.
 tagClass03SkillName05C=祭祀之剑
 tagClass03SkillDescription05C=巫火吞噬你的武器,以混沌能量凝聚其身.
 
-tagClass03SkillName06A=^g<^F爆破^g>^i虚弱诅咒
+tagClass03SkillName06A=^g<^F神秘^g>^i虚弱诅咒
 tagClass03SkillDescription06A=强大而无情的咒语使敌人失去勇气,使他们变得缓慢而脆弱.^odebuff技能.
-tagClass03SkillName06B=^g<^F爆破^g>^i易伤
+tagClass03SkillName06B=^g<^F神秘^g>^i易伤
 tagClass03SkillDescription06B=增强诅咒蕴含的邪力,以至于诅咒现在能够弱化敌人的体质,让他们无力抵抗巫术与毒药.
 
-tagClass03SkillName10A=^g<^F爆破^g>^i噬命魔印
+tagClass03SkillName10A=^g<^F神秘^g>^i噬命魔印
 tagClass03SkillDescription10A=在地面上释放一种神秘的印记,它将吞噬深陷其中的敌人的生命力.造成的伤害将以一定的比例转换为生命返还给神秘学者.
-tagClass03SkillName10B=^g<^F爆破^g>^i破灭
+tagClass03SkillName10B=^g<^F神秘^g>^i破灭
 tagClass03SkillDescription10B=将混沌本身蕴含的毁灭之力注入魔印之中.
 
-tagClass03SkillName11A=^g<^F爆破^g>^i德里格的邪眼
+tagClass03SkillName11A=^g<^F神秘^g>^i德里格的邪眼
 tagClass03SkillDescription11A=召唤隐秘国度的守护者德里格所拥有的无数只邪眼中的一只,它将迅速飞向敌人然后引爆自身.^o邪眼本体和进阶技能的爆炸范围是独立的,并不叠加.
-tagClass03SkillName11B=^g<^F爆破^g>^i血爆
+tagClass03SkillName11B=^g<^F神秘^g>^i血爆
 tagClass03SkillDescription11B=神秘的邪眼在命中敌人时爆炸,向周围的敌人喷溅毒血.
-tagClass03SkillName11C=^g<^F爆破^g>^i恐惧凝视
+tagClass03SkillName11C=^g<^F神秘^g>^i恐惧凝视
 tagClass03SkillDescription11C=不朽又可畏的巫神德里格,面对他那令人恐惧的凝视,敌人要么惊恐地呆在原地,要么直接逃之夭夭.
-tagClass03SkillName11D=^g<^F爆破^g>^i邪物喷涌
+tagClass03SkillName11D=^g<^F神秘^g>^i邪物喷涌
 tagClass03SkillDescription11D=邪眼撞上敌人时会炸出腐败的碎块,不幸身处爆炸范围内的敌人会遭受更深的痛楚.
 tagClass03SkillName11E=聚能凝视
 tagClass03SkillDescription11E=将德里格的邪恶力量引导至每只邪眼之中,使邪眼发生更为猛烈的爆炸,造成更多的伤害,但同时会延长施放邪眼的冷却时间.
 
-tagClass03SkillName12A=^g<^F爆破^g>^i附身
+tagClass03SkillName12A=^g<^F神秘^g>^i附身
 tagClass03SkillDescription12A=以身体为容器侍奉巫神索拉尔.索拉尔的意志遍布全身,用神秘力量来增强你的攻击.^o这项技能必须保持开启以持续生效.
 
-tagClass03SkillName13A=^g<^F爆破^g>^i血瘟疫
+tagClass03SkillName13A=^g<^F神秘^g>^i血瘟疫
 tagClass03SkillDescription13A=这种恶毒的,连众多神秘学者都畏之三分的诅咒会在敌人之中传播致命的瘟疫,进而不可逆转地掏空他们的生命力,他们的每个毛孔都将血流不止.
-tagClass03SkillName13B=^g<^F爆破^g>^i恶疾
+tagClass03SkillName13B=^g<^F神秘^g>^i恶疾
 tagClass03SkillDescription13B=血瘟疫将摧毁敌人的活力,即使是流出的眼泪也将变为大片的鲜血.如此阴险的巫术使神秘学者变得臭名昭著,所以许多神秘学者都死在了火刑柱上.
-tagClass03SkillName13C=^g<^F爆破^g>^i黑死病
+tagClass03SkillName13C=^g<^F神秘^g>^i黑死病
 tagClass03SkillDescription13C=身体的高热和内脏的溶解折磨着敌人,使他们在战场上的攻击落空,甚至攻击他们的队友.
 tagClass03SkillName13D=狂热怒意
 tagClass03SkillDescription13D=血瘟疫的变异对敌人与神秘学者本身来说都很危险.血瘟疫将极快的发作,不但会使造成的伤害加倍,更会令敌人患上高热,变得癫狂无比.他们将以异常的速度移动,伴随着狂暴的怒意发动攻击.而代价则是敌人变得更为脆弱.^o作死技能,大幅强化敌人输出,并削弱他们的防御.
 
-tagClass03SkillName14A=^g<^F爆破^g>^i末日闪电
+tagClass03SkillName14A=^g<^F神秘^g>^i末日闪电
 tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电,任何被它击中的敌人都将遭受重创.^o随机1-3次伤害；会被环境物体阻挡.
 
 tagClass03SkillName07A=妖术净化

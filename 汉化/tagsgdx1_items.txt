@@ -577,7 +577,7 @@ tagGDX1FeetC103=赛勒科尔的进军
 tagGDX1FeetC104=灰烬岩石之踏
 tagGDX1FeetC111=风暴步伐护足
 
-tagGDX1FeetD101=恶魔血肉胫甲
+tagGDX1FeetD101=恶魔之躯胫甲
 tagGDX1FeetD102=恶兆胫甲
 tagGDX1FeetD103=时光扭曲行者
 tagGDX1FeetD103_Desc="传说这靴子可以超越无限的时间线，但还没有人知道如何利用这力量"

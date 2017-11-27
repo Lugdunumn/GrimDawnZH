@@ -570,14 +570,14 @@ tagGDX1LegsD110_Desc="用来制作铠甲的野兽毛皮，似乎不是伊露兰�
 tagGDX1FeetB101=无畏战靴☆
 tagGDX1FeetB102=石板胫甲☆
 
-tagGDX1FeetC101=恐怖收割长靴 
+tagGDX1FeetC101=恐怖收割长靴
 tagGDX1FeetC102=死亡行者裹足
 tagGDX1FeetC102_Desc="无法确定靴子上的骨头是来自野兽还是人."
 tagGDX1FeetC103=赛勒科尔的进军
 tagGDX1FeetC104=灰烬岩石之踏
 tagGDX1FeetC111=风暴步伐护足
 
-tagGDX1FeetD101=恶魔血肉胫甲
+tagGDX1FeetD101=恶魔之躯胫甲
 tagGDX1FeetD102=恶兆胫甲
 tagGDX1FeetD103=时光扭曲行者
 tagGDX1FeetD103_Desc="传说这靴子可以超越无限的时间线，但还没有人知道如何利用这力量"

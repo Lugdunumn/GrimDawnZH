@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=元素诅咒
 tagGDX1RelicSkillD104Desc=释放一道纯粹的元素能量击退任何前进的敌人。
 
 tagGDX1RelicSkillD105Name=毁灭力量
-tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波粉碎敌人的防御。
+tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并且拉近附近的敌人。
 
 tagGDX1RelicSkillD106Name=炽热冲锋
 tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
@@ -595,7 +595,7 @@ tagGDX1RelicSkillD109Name=时空循环
 tagGDX1RelicSkillD109Desc=你的行动将穿越时空。^o需要装备副手法器。
 
 tagGDX1RelicSkillD110Name=鲜血之球
-tagGDX1RelicSkillD110Desc=向敌人施放一根涂满鲜血的脊骨。
+tagGDX1RelicSkillD110Desc=以扇形向敌人施放数根涂满鲜血的脊骨。
 
 tagGDX1RelicSkillD111Name=收割弧
 tagGDX1RelicSkillD111Desc=用武器挥舞出一个弧形，劈砍敌人并收割他们的灵魂。^o需要一个近战武器。

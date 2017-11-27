@@ -1454,77 +1454,77 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体."^w^n(用于所�
 
 #ItemComponents
 
-tagGDX1CompA101Name=^f力量之印
+tagGDX1CompA101Name=^j力量之印
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA102Name=^f刀刃之印
+tagGDX1CompA102Name=^j刀刃之印
 tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA103Name=^f天空之印
+tagGDX1CompA103Name=^j天空之印
 tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA104Name=^f疫病之印
+tagGDX1CompA104Name=^j疫病之印
 tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA105Name=^f腐败之印
+tagGDX1CompA105Name=^j腐败之印
 tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA106Name=^f虚空之印
+tagGDX1CompA106Name=^j虚空之印
 tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶.那些使用它的人堕落且渴望力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA107Name=^f黑夜之印
+tagGDX1CompA107Name=^j黑夜之印
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA108Name=^f毁灭之印
+tagGDX1CompA108Name=^j毁灭之印
 tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA109Name=^f暗影之印
+tagGDX1CompA109Name=^j暗影之印
 tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA110Name=^f共鸣之印
+tagGDX1CompA110Name=^j共鸣之印
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA111Name=^f污染之心
+tagGDX1CompA111Name=^j污染之心
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败."^w^n(用于项链和勋章)
 
-tagGDX1CompA112Name=^f炽热红宝石
+tagGDX1CompA112Name=^j炽热红宝石
 tagGDX1CompA112Desc="宝石的切面闪耀着烈焰之舞."^w^n(用于项链和勋章)
 
-tagGDX1CompA113Name=^f符文束缚黄玉
+tagGDX1CompA113Name=^j符文束缚黄玉
 tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA114Name=^f血腥水晶
+tagGDX1CompA114Name=^j血腥水晶
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=^f魔法大地
+tagGDX1CompA115Name=^j魔法大地
 tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长."^w^n(用于所有护甲)
 
-tagGDX1CompA116Name=^f魔法焚烧铠甲片
+tagGDX1CompA116Name=^j魔法焚烧铠甲片
 tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量."^w^n(用于所有护甲)
 
-tagGDX1CompA117Name=^f刀刃铠甲片
+tagGDX1CompA117Name=^j刀刃铠甲片
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃.是强盗和残酷暴君的最爱."^w^n(用于所有护甲)
 
-tagGDX1CompA118Name=^f巫登沼泽皮革
+tagGDX1CompA118Name=^j巫登沼泽皮革
 tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革.致命的沼泽创造了凯恩世界最强韧的野兽."^w^n(用于所有护甲)
 
 
-tagGDX1CompB101Name=^p神圣铠甲片
+tagGDX1CompB101Name=^j神圣铠甲片
 tagGDX1CompB101Desc="据说来自至高神祝福过的强大护甲."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB102Name=^p活体护甲
+tagGDX1CompB102Name=^j活体护甲
 tagGDX1CompB102Desc="在你手中扭动的铠甲片有不同于金属的肉感，明显是受到了虚灵的操控."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB103Name=^p巨人铠甲片
+tagGDX1CompB103Name=^j巨人铠甲片
 tagGDX1CompB103Desc="这种铠甲片极为厚重，常人无法承受整套护甲的重量并移动."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB104Name=^p邪术之镜
+tagGDX1CompB104Name=^j邪术之镜
 tagGDX1CompB104Desc="镜面的颜色会随着移动而变换，凝视它会引起剧烈头痛，仿佛能看到另一个现实领域."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB105Name=^p湮灭之印
+tagGDX1CompB105Name=^j湮灭之印
 tagGDX1CompB105Desc="与奥能印章最轻微的触碰都会唤起暴力和屠戮的情绪，它渴望着杀戮."^w^n(用于项链)
 
-tagGDX1CompB106Name=^p先祖之印
+tagGDX1CompB106Name=^j先祖之印
 tagGDX1CompB106Desc="奥能印章能唤起你的先祖记忆，甚至是那些你一生中从未见过的人."^w^n(用于项链)
 
 

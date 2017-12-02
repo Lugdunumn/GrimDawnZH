@@ -415,6 +415,7 @@ tagSurvivalArena_02=深渊残酷试炼
 tagSurvivalArena_03=沙地残酷试炼
 tagSurvivalArena_04=丛林残酷试炼
 tagSurvivalArena_05=虚空残酷试炼
+tagSurvivalArena_06=军团残酷试炼
 tagSurvivalDifficultyUnlock01=挑战者的勋章
 tagSurvivalDifficultyUnlock01_Desc=征服挑战者难度残酷试炼的证明。^o可以通过仓库给予其他人物使用。
 tagSurvivalDifficultyUnlock02=角斗者的勋章

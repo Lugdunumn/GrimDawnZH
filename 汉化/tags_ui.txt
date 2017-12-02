@@ -1727,6 +1727,7 @@ tagDotPoison=中毒
 tagDotLightning=遭受电击
 tagDotChaos=混乱
 tagDotAether=虚化
+tagDotVitality=活力衰减
 tagDotLifeLeech=生命吸取
 tagDotManaLeech=能量吸取
 tagDotPhysical=内伤

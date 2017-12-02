@@ -1,0 +1,4 @@
+#Survival Mode Tags
+
+#NPCs
+tagGDX1NPC_IllusionistS01=艾德沃

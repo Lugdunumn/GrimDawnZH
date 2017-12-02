@@ -107,6 +107,7 @@ tagGDX1Sign_MalmouthDocks=马尔茅斯港
 tagGDX1Gravestone_DC01=这里埋葬着:萨蒂娜
 tagGDX1Gravestone_DC02=这里埋葬着:哈蒙德
 tagGDX1Gravestone_DC03=这里埋葬着:鲁克
+tagGDX1Gravestone_DC04=这里埋葬着:克里克
 
 
 #Points of Interest
@@ -572,7 +573,6 @@ tagGDX1NPC_IllusionistA02=波利亚
 tagGDX1NPC_IllusionistA03=艾里尔斯
 tagGDX1NPC_IllusionistA04=格拉多斯
 tagGDX1StoreTitle_IllusionistA01=幻化师
-tagGDX1NPC_IllusionistS01=艾德沃
 
 
 

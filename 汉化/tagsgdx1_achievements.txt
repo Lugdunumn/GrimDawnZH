@@ -136,11 +136,11 @@ achGDX1043Desc=在终极难度的远古树林击杀加尔加伯·野性之心。
 achGDX1044Title=不朽的野性驯化
 achGDX1044Desc=在专家模式终极难度的远古树林击杀加尔加伯·野性之心。
 
-achGDX1045Title=远古巫登沼泽
-achGDX1045Desc=击杀克拉瓦尔·远古之水。
+achGDX1045Title=巫登古魔
+achGDX1045Desc=击杀克拉瓦尔·水域古魔。
 
 achGDX1046Title=神话杀手
-achGDX1046Desc=在终极难度击杀克拉瓦尔·远古之水。
+achGDX1046Desc=在终极难度击杀克拉瓦尔·水域古魔。
 
 achGDX1047Title=
 achGDX1047Desc=

@@ -350,7 +350,7 @@ tagGDX1MiniBoss_Aetherial06=阿加尔加拉兹
 tagGDX1MiniBoss_Aetherial07=血肉塑造者·伊吉尔弗
 tagGDX1MiniBoss_Aetherial08=德拉尔加·伯尔维治守护者
 
-tagGDX1MiniBoss_Bog01=克拉瓦尔·远古之水
+tagGDX1MiniBoss_Bog01=克拉瓦尔·水域古魔
 tagGDX1MiniBoss_Bog01_Tentacle01=克拉瓦尔的触手
 tagGDX1MiniBoss_Bog01_Tentacle02=克拉瓦尔的触手
 tagGDX1MiniBoss_Bog02=希尔瓦莉亚·丛林女王

@@ -592,7 +592,7 @@ tagClass06SkillDescription02A=新手萨满接受的第一次仪式便是向他�
 tagClass06SkillName02B=^g<^F萨满^g>^i风暴潮
 tagClass06SkillDescription02B=攻击的原始力量在目标体内汹涌释放,使他们的血管爆裂.
 tagClass06SkillName02C=^g<^F萨满^g>^i激流
-tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中,震击一个附近的目标并跳跃至更远的敌人身上.
+tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中,震击目标并跳跃至更远的敌人身上.
 tagClass06SkillName02D=雷电打击
 tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们,当向敌人释放自然的愤怒时,他们向天空之神~尤尔托斯呼唤,允许他们更加频繁的召唤雷电.^o雷电打击不是一项默认武器攻击,不能触发类似狂野饥渴的特效.
 

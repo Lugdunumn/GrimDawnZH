@@ -392,7 +392,7 @@ tagGDX1MiniBoss_Wendigo03=尤沃劳斯
 tagGDX1MiniBoss_Wendigo04=转变者 帕克拉
 
 tagGDX1Boss_Roguelike01=虚灵凝视 斯拉斯萨尔
-tagGDX1Boss_Roguelike02=大地之壳·康尼维尔斯
+tagGDX1Boss_Roguelike02=受折磨的拉加若斯
 tagGDX1Boss_Roguelike03=野性之心 加尔加伯
 tagGDX1Boss_Roguelike04=古尔盖佐
 tagGDX1Boss_Roguelike05=维尔盖佐

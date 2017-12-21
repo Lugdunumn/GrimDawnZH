@@ -218,6 +218,8 @@ tagGDX1RelicSkillTracker01A=已召唤虫群数
 tagGDX1ItemSkillB101Name=冲击波
 tagGDX1ItemSkillB101Desc=从你的攻击中爆发一阵火焰冲击波。
 
+tagGDX1ItemSkillB102Name=奇形打击
+tagGDX1ItemSkillB102Desc=伴随你的每一次攻击，血肉领主的腐化之力都会创伤你的敌人。^o当作为默认武器攻击时，奇形打击会增强你的攻击。
 
 tagGDX1ItemSkillC101Name=灵魂分裂
 tagGDX1ItemSkillC101Desc=如死亡瀑布般撕裂你的敌人
@@ -341,7 +343,7 @@ tagGDX1ItemSkillD127Name=行刑者的刀锋
 tagGDX1ItemSkillD127Desc=释放出一阵致命的旋转刀刃杀死你的敌人。
 
 tagGDX1ItemSkillD128Name=角斗士的毅力
-tagGDX1ItemSkillD128Desc=坚持光荣的战斗。^o这是一个近战武器和双手远程武器被动加成。
+tagGDX1ItemSkillD128Desc=坚持光荣的战斗。^o这是一项双手近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD129Name=奸诈的手段
 tagGDX1ItemSkillD129Desc=为了胜利不择手段。 ^o这是一个远程武器被动加成。
@@ -353,7 +355,7 @@ tagGDX1ItemSkillD131Name=血肉切割者
 tagGDX1ItemSkillD131Desc=从敌人中杀出一条血路，残存的敌人将血流不止，他们的命运已被终结。
 
 tagGDX1ItemSkillD132Name=恐怖之刃
-tagGDX1ItemSkillD132Desc=用污染的刀锋劈开敌人，石化肉体。 ^o需要一个近战武器。
+tagGDX1ItemSkillD132Desc=以堕落之力打击敌人，石化肉体。
 
 tagGDX1ItemSkillD133Name=虚弱腐烂
 tagGDX1ItemSkillD133Desc=用疾病感染敌人，腐烂他们的肉体直到什么都不剩。
@@ -437,7 +439,7 @@ tagGDX1ItemSkillD159Name=荆棘波
 tagGDX1ItemSkillD159Desc=从地面爆发出一阵荆棘波穿刺你的敌人。
 
 tagGDX1ItemSkillD160Name=复仇者的力量
-tagGDX1ItemSkillD160Desc=无与伦比的恢复力和力量。^o这是一个近战武器和双手远程武器被动加成。
+tagGDX1ItemSkillD160Desc=无与伦比的恢复力和力量。^o这是一个双手近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD161Name=自然复仇者
 tagGDX1ItemSkillD161Desc=复仇者的精神在你体内膨胀。
@@ -799,3 +801,10 @@ tagGDX1EnemySkillD13_Desc=格拉瓦苏尔传出的黑暗，有时会凝聚在动
 
 tagGDX1EnemySkillD14=天神降临
 tagGDX1EnemySkillD14_Desc=神圣降临恐吓并瓦解你的实体。
+
+tagGDX1EnemySkillD15=虚化本体
+tagGDX1EnemySkillD15_Desc=此处虚化之力强横，你将受到伤害并被削弱抗性。
+
+tagGDX1EnemySkillD16=恐惧降临
+tagGDX1EnemySkillD16_Desc=一头强大的猛兽在附近游荡，你的心中充满恐惧，并且周围的生物受到了该猛兽的鼓舞。
+

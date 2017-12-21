@@ -1073,6 +1073,8 @@ tagShoulderB022=^l赞塔兰的斗篷
 tagShoulderB023=^l赞塔兰的护肩
 tagShoulderB024=^l费比乌斯护肩
 tagShoulderB025=^l费比乌斯的肩铠
+tagShoulderB026=罗格霍瑞恩的腐化
+tagShoulderB026_Desc="伴随着虚空的腐化力量，这件装备仍在扭动着。"
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -3760,6 +3762,7 @@ tagPrefixAO010=吸蚀的
 tagPrefixAO011=侵蚀的
 tagPrefixAO012=弯曲的
 tagPrefixAO013=虚空之触的
+tagPrefixAO014=腐朽的
 
 tagPrefixB001_WpnMelee1h_A=暴君的
 tagPrefixB002_WpnMelee1h_A=残酷的

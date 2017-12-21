@@ -98,7 +98,7 @@ achGDX1031Title=马尔茅斯救世主
 achGDX1031Desc=终极难度完成马尔茅斯的灰烬。
 
 achGDX1032Title=大规模灭绝
-achGDX1032Desc=清除凯恩世界的750000只怪物。
+achGDX1032Desc=清除凯恩世界的200000只怪物。
 
 achGDX1033Title=无双杀手
 achGDX1033Desc=消灭 2000 只精英怪物 (带有星形标记)。

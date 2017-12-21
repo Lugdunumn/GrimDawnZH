@@ -173,6 +173,8 @@ tagGDX1WeaponCaster1hB104=升灵之引
 tagGDX1WeaponCaster1hB105=升灵之源
 tagGDX1WeaponCaster1hB106=霜腐魔杖
 tagGDX1WeaponCaster1hB107=死亡传播之杖
+tagGDX1WeaponCaster1hB108=西奥丁·马塞尔之心
+tagGDX1WeaponCaster1hB108_Desc="其主人的部分力量仍在其中跳动着。"
 
 tagGDX1WeaponCaster1hC101=掠夺者之刺
 tagGDX1WeaponCaster1hC102=加拉瓦克之咬
@@ -702,6 +704,8 @@ tagGDX1NecklaceA104=保护者吊坠
 
 tagGDX1NecklaceB100=萨蒂娜的纪念品
 tagGDX1NecklaceB100_Desc="一条可以抵御邪恶的吊坠.刻有铭文："将恶兆封入魔网."- 杰伊·派金斯"
+tagGDX1NecklaceB101=Gulgazor's Heart
+tagGDX1NecklaceB102=Vilgazor's Heart
 
 tagGDX1NecklaceC101=死亡低语者
 tagGDX1NecklaceC102=分割之石
@@ -1021,7 +1025,7 @@ tagGDX1Blueprint_ArmorD158=设计图：神话 灰白法师裹足
 tagGDX1Blueprint_ArmorD159=设计图：神话 龙骨护手
 tagGDX1Blueprint_ArmorD160=设计图：神话 寒冰斯考恩之爪
 tagGDX1Blueprint_ArmorD161=设计图：神话 奥术协调绑腿
-tagGDX1Blueprint_ArmorD162=设计图：神话 非常漂亮的裤子
+tagGDX1Blueprint_ArmorD162=设计图：非常漂亮的裤子
 tagGDX1Blueprint_ArmorD163=设计图：神话 泰坦肩铠
 tagGDX1Blueprint_ArmorD164=设计图：神话 邪恶之血披肩
 tagGDX1Blueprint_ArmorD165=设计图：神话 阿兹拉格的恐惧战甲
@@ -1789,6 +1793,11 @@ tagGDX1Chest_MadRamblingsLoot=伊旺达的藏匿物
 tagGDX1Chest_MadRamblingsNote=伊旺达的宝箱
 
 tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
+tagGDX1Chest_RenochCorpse=瑞诺什的遗骸
+tagGDX1Chest_UnknownCorpse=腐尸
+
+tagGDX1ChestGauntletChestD01=遗失的圣骨箱
+
 
 #Interactive Objects
 
@@ -1826,6 +1835,10 @@ tagGDX1DoorMapleStump01=空洞的入口
 tagGDX1DoorOvergrownCave=杂草丛生的洞穴入口
 tagGDX1DoorLighthouse=灯塔入口
 tagGDX1CarraxusDoor=卡拉克萨斯的巢穴
+
+tagGDX1DoorOneWayAncientGrove=林地出口
+tagGDX1EpicDoor_AncientGrove=古老林地大门
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 被莫格卓根封印着 (需要一把骸骨之钥)
 
 #Doors
 tagGDX1Door_Vine=藤蔓

@@ -9,13 +9,13 @@ tagSurvivalLastDeath=你的团队失败了。
 achGroupSurvival=残酷试炼
 
 achS001Title=试炼王者
-achS001Desc=完成残酷试炼。
+achS001Desc=完成150波残酷试炼。
 
 achS002Title=试炼征服者
-achS002Desc=在挑战者难度下完成残酷试炼。
+achS002Desc=在挑战者难度下完成150波残酷试炼。
 
 achS003Title=试炼霸主
-achS003Desc=在角斗者难度下完成残酷试炼。
+achS003Desc=在角斗者难度下完成150波残酷试炼。
 
 achS004Title=超越900000!
 achS004Desc=在一场试炼中获得至少900000分。

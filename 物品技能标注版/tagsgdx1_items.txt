@@ -122,7 +122,7 @@ tagGDX1WeaponGun2hC110=宇宙洪流
 
 tagWeaponGun2hD001B=撒旦
 tagWeaponCrossbow2hD003B=北地冰龙
-tagGDX1WeaponGun2hD101=艾尔格洛斯召唤师者
+tagGDX1WeaponGun2hD101=艾尔格洛斯召唤师
 tagGDX1WeaponGun2hD102=恐惧焚炉
 tagGDX1WeaponGun2hD102_Desc="这种武器发出的强烈火焰对使用者来说和预定目标几乎同样危险."
 tagGDX1WeaponGun2hD104=吉尔多的粉碎机
@@ -173,7 +173,7 @@ tagGDX1WeaponCaster1hB104=^l升灵之引
 tagGDX1WeaponCaster1hB105=^l升灵之源
 tagGDX1WeaponCaster1hB106=霜腐魔杖
 tagGDX1WeaponCaster1hB107=死亡传播之杖
-tagGDX1WeaponCaster1hB108=西奥丁·马塞尔之心
+tagGDX1WeaponCaster1hB108=^l西奥丁·马塞尔之心
 tagGDX1WeaponCaster1hB108_Desc="其主人的部分力量仍在其中跳动着。"
 
 tagGDX1WeaponCaster1hC101=掠夺者之刺

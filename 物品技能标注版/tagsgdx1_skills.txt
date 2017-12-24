@@ -99,14 +99,14 @@ tagGDX1Class07SkillDescription10A=因其破坏心智的能力，研究甘达尔�
 tagGDX1Class07SkillName11A=^g<^F审判^g>^i远程专家
 tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物，所有检察官都必须准备好仅仅依靠他们的智慧和火枪来面对敌人。熟练地运用远程武器能让训练有素的审判官在安全距离击毙猎物。^o这是一种远程武器奖励。同时开启双持远程武器的能力。
 tagGDX1Class07SkillName12A=^g<^F审判^g>^i爆裂子弹
-tagGDX1Class07SkillDescription12A=一颗精确校准的子弹会在接触目标时引发爆炸并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1Class07SkillDescription12A=一颗精确校准的子弹会在接触目标时引发爆炸并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。双持手枪时两把枪会同步攻击。
 tagGDX1Class07SkillName13A=^g<^F审判^g>^i寒冰弹幕
-tagGDX1Class07SkillDescription13A=一轮充满寒冷奥术的弹幕射击将目标冻结至核心，以确保轻松击杀。^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1Class07SkillDescription13A=一轮充满寒冷奥术的弹幕射击将目标冻结至核心，以确保轻松击杀。^o这是一项远程技能，由默认武器攻击触发；连续发射2枚投射物。双持手枪时每一把手枪发射2个投射物。
 tagGDX1Class07SkillName14A=^g<^F审判^g>^i风暴散射
-tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。
+tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。双持手枪时每一把手枪发射一轮投射物。
 
 tagGDX1Class07SkillName15A=^g<^F审判^g>^i致命瞄准
-tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击^w是他们仅有的机会，然而克敌制胜只需一发足矣。
+tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击；暴击时100%发动^w是他们仅有的机会，然而克敌制胜只需一发足矣。
 
 tagGDX1Class07SkillName16A=^g<^F审判^g>^i神器技艺
 tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]
@@ -118,7 +118,7 @@ tagGDX1Class08SkillName00A=死灵法师
 tagGDX1Class08SkillDescription00A=掌握着等待众生的残酷命运。
 
 tagGDX1Class08SkillName01A=^g<^F 死灵^g>^i吸取精华
-tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟愿，哪怕这伟愿有时意味着牺牲某个人的生命让他人得以存活。这种转移生命力的行为为世人所唾弃，但仍有信徒无法抗拒鲜活生命力的诱惑。
+tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟愿，哪怕这伟愿有时意味着牺牲某个人的生命让他人得以存活。这种转移生命力的行为为世人所唾弃，但仍有信徒无法抗拒鲜活生命力的诱惑。^o需要持续施法，自动攻击施法范围内的目标。
 tagGDX1Class08SkillName01B=^g<^F 死灵^g>^i饥渴之触
 tagGDX1Class08SkillDescription01B=体验过生命精华后的饥渴是无法轻易满足的。将饥渴倾注于法术，使吸取精华有时会影响目标附近额外的敌人。
 tagGDX1Class08SkillName01C=^g<^F 死灵^g>^i分解
@@ -180,7 +180,7 @@ tagGDX1Class08SkillName06B=^g<^F 死灵^g>^i幽灵之怒
 tagGDX1Class08SkillDescription06B=幽灵将给予任何胆敢伤害你的敌人以猛烈的打击，用阴间的衰弱咒语诅咒敌人。^o受到攻击时发动
 
 tagGDX1Class08SkillName07A=^g<^F 死灵^g>^i灵魂虹吸
-tagGDX1Class08SkillDescription07A=释放可怕的死灵能量，用残酷的诅咒来收割附近敌人的灵魂，吸收他们的精华并转移到你的身上。
+tagGDX1Class08SkillDescription07A=释放可怕的死灵能量，用残酷的诅咒来收割附近敌人的灵魂，吸收他们的精华并转移到你的身上。^odebuff属性攻击
 tagGDX1Class08SkillName07B=^g<^F 死灵^g>^i血沸
 tagGDX1Class08SkillDescription07B=诅咒会使敌人的血液沸腾，使他们在断气之时迅速腐烂。
 tagGDX1Class08SkillName07C=灵魂灼烧
@@ -201,9 +201,9 @@ tagGDX1Class08SkillName11A=^g<^F 死灵^g>^i死亡主宰
 tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的存在，他们的到来预示着无尽的死亡军团，死者将被他们永远掌控。^o这项技能必须保持开启以持续生效。
 
 tagGDX1Class08SkillName12A=^g<^F 死灵^g>^i收割打击
-tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。
+tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。双持近战武器时两把武器会同步攻击；双持手枪时两把枪会同步攻击。
 tagGDX1Class08SkillName13A=^g<^F 死灵^g>^i死灵刀锋
-tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。
+tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。双持手枪时两把枪会同步攻击。
 
 tagGDX1Class08SkillName14A=^g<^F 死灵^g>^i折磨印记
 tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是对死亡的掌控使你可以延缓不可避免的宿命。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。

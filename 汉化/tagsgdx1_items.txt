@@ -122,7 +122,7 @@ tagGDX1WeaponGun2hC110=宇宙洪流
 
 tagWeaponGun2hD001B=撒旦
 tagWeaponCrossbow2hD003B=北地冰龙
-tagGDX1WeaponGun2hD101=艾尔格洛斯召唤师者
+tagGDX1WeaponGun2hD101=艾尔格洛斯召唤师
 tagGDX1WeaponGun2hD102=恐惧焚炉
 tagGDX1WeaponGun2hD102_Desc="这种武器发出的强烈火焰对使用者来说和预定目标几乎同样危险."
 tagGDX1WeaponGun2hD104=吉尔多的粉碎机

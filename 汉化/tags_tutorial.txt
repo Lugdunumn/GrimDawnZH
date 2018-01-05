@@ -9,7 +9,7 @@ tagLoadingTip07={^g}小贴士: {^w}英雄怪物(以星号标识)是拥有特殊�
 tagLoadingTip08={^g}小贴士: {^w}显著低于你等级的敌人将不会掉落类似远古之心的稀有锻造材料.
 tagLoadingTip09={^g}小贴士: {^w}在精英难度,你的核心抗性将会降低25%.到终极难度则会提升至50%的惩罚.
 tagLoadingTip10={^g}小贴士: {^w}凯恩世界中存在很多秘密地点.仔细观察,你就会找到隐藏的宝藏！
-tagLoadingTip11={^g}小贴士: {^w}在老兵或者更高的难度中,首领怪物会在你阵亡后回复部分血量.
+tagLoadingTip11={^g}小贴士: {^w}在老兵难度或者更高的难度中,首领怪物会在你阵亡后回复部分血量.
 tagLoadingTip12={^g}小贴士: {^w}探索整个世界来找到一次性的宝箱,它们总是会掉落一件史诗物品,每个角色都有一次机会.
 tagLoadingTip13={^g}小贴士: {^w}史诗和传奇物品会使你获得辅助甚至是重新定义你人物架构的特有能力.
 tagLoadingTip14={^g}小贴士: {^w}一些怪物会掉落他们的特有装备,就是罕见怪物装备(特绿).
@@ -145,12 +145,12 @@ tagTutorialTip38SubtitleB=玩家间转移
 tagTutorialTip38TextD=要想在多人游戏中与其他玩家的角色交易物品,你需要使用交易功能.在玩家头像上右键并选择“交易”.
 
 tagTutorialTip39Title=发明家
-tagTutorialTip39TextA=发明家有从物品上移除镶嵌物和增幅物的能力.物品或镶嵌物其中一项将在工序中保留下来.任何的增幅物都会丢失.
+tagTutorialTip39TextA=发明家有从物品上移除镶嵌物和增幅的能力.物品或镶嵌物其中一项将在工序中保留下来.任何的增幅都会丢失.
 tagTutorialTip39SubtitleA=移除镶嵌物
-tagTutorialTip39TextB=物品上镶嵌物的移除将按物品,镶嵌物和增幅物的组合价值的比例收取费用.在拆分界面放置一个带有镶嵌物的物品来开始移除吧.
+tagTutorialTip39TextB=物品上镶嵌物的移除将按物品,镶嵌物和增幅的组合价值的比例收取费用.在拆分界面放置一个带有镶嵌物的物品来开始移除吧.
 tagTutorialTip39TextC=你可以恢复物品或者镶嵌物,但在此过程中另一件东西会被摧毁.
-tagTutorialTip39SubtitleB=只移除增幅物
-tagTutorialTip39TextD=无论何时你只移除增幅物的话,物品和镶嵌物都会被保留下来.如果一件灵魂绑定的增幅物以这种方式移除,而且物品原本并非灵魂绑定,那么物品的灵魂绑定状态也将会被移除.
+tagTutorialTip39SubtitleB=只移除增幅
+tagTutorialTip39TextD=无论何时你只移除增幅的话,物品和镶嵌物都会被保留下来.如果一件灵魂绑定的增幅以这种方式移除,而且物品原本并非灵魂绑定,那么物品的灵魂绑定状态也将会被移除.
 
 
 tagTutorialTip42Title=铁匠
@@ -190,19 +190,19 @@ tagTutorialTip49TextA=当鼠标停留在物品栏中的一件装备上时,会自
 tagTutorialTip49SubtitleA=不含镶嵌物的对比
 tagTutorialTip49TextB=你可以按住{^x}[Ctrl]{^-}键来比较武器,镶嵌物将不被计入结果.
 
-tagTutorialTip50Title=增幅物
-tagTutorialTip50TextA=增幅物可以用来附魔物品以增强其属性.如何制作增幅物的秘诀只有凯恩世界中的多种势力团体才知晓.
-tagTutorialTip50TextB=要使用增幅物进行附魔,右键点击它.一旦附魔过后,增幅物是不能被移除的,不过它可以再次附魔来被覆盖掉.
+tagTutorialTip50Title=增幅
+tagTutorialTip50TextA=增幅可以用来附魔物品以增强其属性.如何制作增幅的秘诀只有凯恩世界中的多种势力团体才知晓.
+tagTutorialTip50TextB=要使用增幅进行附魔,右键点击它.一旦附魔过后,增幅是不能被移除的,不过它可以再次附魔来被覆盖掉.
 
-tagTutorialTip51Title=增幅物附魔
-tagTutorialTip51TextA=右键单击一件增幅物,然后再左键单击你想要附魔的装备.
-tagTutorialTip51TextB=注意增幅物只能在特定的装备类型上进行附魔而且已经使用不能被移除,但是你可以通过再次附魔来覆盖掉之前的增幅物.
+tagTutorialTip51Title=增幅附魔
+tagTutorialTip51TextA=右键单击一件增幅,然后再左键单击你想要附魔的装备.
+tagTutorialTip51TextB=注意增幅只能在特定的装备类型上进行附魔而且已经使用不能被移除,但是你可以通过再次附魔来覆盖掉之前的增幅.
 
 tagTutorialTip53Title=势力军需官
 tagTutorialTip53TextA=势力军需官贩卖该势力特有的物品.只有获得该势力的信任才能购买.
 tagTutorialTip53SubtitleA=灵魂绑定装备
 tagTutorialTip53TextB=势力军需官贩卖的特有装备是灵魂绑定的,不能交易也不能放在角色共享的储物箱里.
-tagTutorialTip53TextC=如果一个灵魂绑定的增幅物用在了一件物品上,那么这件物品也将变为灵魂绑定.
+tagTutorialTip53TextC=如果一个灵魂绑定的增幅用在了一件物品上,那么这件物品也将变为灵魂绑定.
 
 tagTutorialTip55Title=势力窗口
 tagTutorialTip55TextA=使用势力窗口来查看你与凯恩世界中各股势力的关系,这将决定你为了赢得他们的青睐而需要做的事情.
@@ -277,7 +277,7 @@ tagQuickTip45={^z}快速恢复{^-} {^n}{^n}体力在你离开战斗后会转换�
 tagQuickTip46={^z}体力耗尽!{^-} {^n}{^n}当你的体力耗尽时就不能快速恢复了. {^n}收集未动过的食物与生命精华 {^n}来填充它.
 tagQuickTip47={^z}拆解{^-} {^n}{^n}拆解窗口允许你将不想要的物品 {^n}分解为各种材料.
 tagQuickTip49={^z}装备对比{^-} {^n}{^n}将鼠标指向一件物品,就会显示该物品 {^n}与你身上所穿装备的比较界面.
-tagQuickTip50={^z}增幅物{^-} {^n}{^n}增幅物可以用在装备上 {^n}来获得额外加成. {^n}它们能从势力军需官处买到, {^n}前提是声望要达到要求.
+tagQuickTip50={^z}增幅{^-} {^n}{^n}增幅可以用在装备上 {^n}来获得额外加成. {^n}它们能从势力军需官处买到, {^n}前提是声望要达到要求.
 tagQuickTip52={^z}获得声望{^-} {^n}{^n}你获得了一些凯恩势力的声望. {^n}你可以在势力窗口 {^x}[%t0]{^-}中 {^n}查看声望.
 tagQuickTip53={^z}势力军需官{^-} {^n}{^n}势力军需官允许你购买对应的物品, {^n}如果你声望达标的话.
 tagQuickTip54={^z}声望{^-} {^n}{^n}你在凯恩的某个势力声望等级提升了. {^n}势力窗口 {^x}[%t0]{^-} 包含了 {^n}更高声望等级所关联的报酬信息.

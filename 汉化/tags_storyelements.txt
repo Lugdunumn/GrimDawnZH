@@ -1,4 +1,4 @@
-#Region Names
+﻿#Region Names
 
 tagMapDevilsCrossing01=恶魔十字
 tagMapLowerCrossing01=下游渡口
@@ -347,7 +347,7 @@ tagPOI008A=革翅目坑道入口
 tagPOI008B=革翅目坑道出口
 tagPOI009A=哈格特的实验室
 tagPOI010A=死亡守夜人教团领地入口
-tagPOI011A=凯蒙的神选战士领地入口
+tagPOI011A=凯蒙的神选者领地入口
 tagPOI012A=黑谷门
 tagPOI013A=哈伦堡
 tagPOI014A=地下墓室入口
@@ -662,10 +662,10 @@ tagNPC_Flavor_AreaC_32=达尔拉
 tagNPC_Flavor_AreaC_33=维格
 tagNPC_Flavor_AreaC_34=雷纳·奥博拉什
 tagNPC_Flavor_AreaC_35=禁卫军 扎德·李
-tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
-tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
-tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
-tagNPC_Flavor_AreaC_34UNUSED=Davis Morden
+tagNPC_Flavor_AreaC_31UNUSED=伊莱恩·科布尔
+tagNPC_Flavor_AreaC_32UNUSED=朱丽亚·艾普斯沃斯
+tagNPC_Flavor_AreaC_33UNUSED=肖恩·科布尔
+tagNPC_Flavor_AreaC_34UNUSED=戴维斯·摩登
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -820,7 +820,7 @@ tagLoreObj_InquisitorCreedA06Text=我在这个阴冷的牢房已经度过了一�
 tagLoreChest_InquisitorCreed_HomesteadName=审判官克里德的讲台
 tagLoreObj_InquisitorCreedA07Name=审判官克里德的日记-第7章
 tagLoreObj_InquisitorCreedA07codexTitle=审判官克里德-第7章
-tagLoreObj_InquisitorCreedA07Text=离我上一次写日记已经有很长时间了。在我逃离克里格的实验室的过程中，我与时间和失落赛跑，穿越黑暗和火焰，并目睹了我曾熟悉的世界的崩塌。{^n}{^n}正如我猜测的，首都中极可能有关键人物已经被那种如今被称为虚灵的生物所占据，我推断只有在首都内部的支持下我们才有希望挫败虚灵。在揭开真相之前，首都之外所进行的一切行动都将被视为政治叛乱并且被帝国军队镇压。因此，我决定破釜沉舟，火速赶往伊露兰帝国的核心，并且尽力将自己隐藏起来。{^n}{^n}刚来到这里时，我谨慎地前行，并在靠近西门的一个肮脏的旅馆定了个房间以图掩饰我的到来。起初我找到曾经的老熟人，假如我察觉到他们在性格和行为举止上有所变化，就有可能揭露出虚灵的占据者。经过几次尴尬的相聚，我痛苦地发现近几年作为审判官到处东奔西走执行公务的生活使得我和旧友们失去了联系，并且无法分辨出他们的改变是由于被虚灵占据还是由于时间的流逝和褪色的记忆。最后孤注一掷的办法是回到光明会的根据地汇报并看看会由此引出什么。但我并没有什么收获。{^n}{^n}等到阳光渐淡，下方街道上的人群散去，我起身离开时却相当震惊地发现一个模糊的人影不知道用什么方法静悄悄地闯入了我的房间，避开了所有守卫。这就是我开始和帝国第一刃合作的原因。
+tagLoreObj_InquisitorCreedA07Text=离我上一次写日记已经有很长时间了。在我逃离克里格的实验室的过程中，我与时间和失落赛跑，穿越黑暗和火焰，并目睹了我曾熟悉的世界的崩塌。{^n}{^n}正如我猜测的，首都中极可能有关键人物已经被那种如今被称为虚灵的生物所占据，我推断只有在首都内部的支持下我们才有希望挫败虚灵。在揭开真相之前，首都之外所进行的一切行动都将被视为政治叛乱并且被帝国军队镇压。因此，我决定破釜沉舟，火速赶往伊露兰帝国的核心，并且尽力将自己隐藏起来。{^n}{^n}刚来到这里时，我谨慎地前行，并在靠近西门的一个肮脏的旅馆定了个房间以图掩饰我的到来。起初我找到曾经的老熟人，假如我察觉到他们在性格和行为举止上有所变化，就有可能揭露出虚灵的占据者。经过几次尴尬的相聚，我痛苦地发现近几年作为审判官到处东奔西走执行公务的生活使得我和旧友们失去了联系，并且无法分辨出他们的改变是由于被虚灵占据还是由于时间的流逝和褪色的记忆。最后孤注一掷的办法是回到光明会的大本营汇报并看看会由此引出什么。但我并没有什么收获。{^n}{^n}等到阳光渐淡，下方街道上的人群散去，我起身离开时却相当震惊地发现一个模糊的人影不知道用什么方法静悄悄地闯入了我的房间，避开了所有守卫。这就是我开始和帝国第一刃合作的原因。
 
 tagLoreObj_InquisitorCreedA08Name=审判官克里德的日记-第8章 
 tagLoreObj_InquisitorCreedA08codexTitle=审判官克里德-第8章
@@ -1066,7 +1066,7 @@ tagLoreObj_AreaCFarmer_NoteA03Name=瓦尔德的笔记
 tagLoreObj_AreaCFarmer_NoteA03Text=我们逃出来了！我到现在还不敢相信，但我们给了那些虚灵杂碎一点教训。他们永远不会想到来这种荒郊野外查探的。这里除了草木和岩石就别无他物了。当然也没有像他们那样的东西。{^n}{^n}我继续前进并搭建了一个营地，我们的小伙伴们外出探险去寻找一些浆果和柴火。他们很快就会回来的。可能并不会太多，但我想能够把这地方变成一个新家。该死的，只要他们愿意，甚至是鸟都能找到。我能看见一些鸟类偶尔在头顶盘旋。
 
 tagLoreObj_AreaCAetherial_NoteA01Name=混元体
-tagLoreObj_AreaCAetherial_NoteA01Text=意见已经达成一致。霍姆斯特德的圣地将会在两周内攻陷。随着烈焰使者从北方稳步而来，它走过的痕迹只留下火焰，它的到来使得我们有足够的力量进攻西边的人类大本营。复生者们不知疲倦的在牢笼里工作，将虚化能量注入收集来的人类与巨魔体内。但真正的工作会在谷仓内完成。{^n}{^n}事实证明人类会是...很难对付的寄主，他们的意识强力地与虚化能量作斗争。但血肉呢？很容易适应与感染。我抬头看着填满谷仓的散发着臭气的腐败尸体，感叹生命如此脆弱，就像一匹空白的布，一匹我们可以随意涂抹凯恩命运的布。{^n}{^n}血肉塑造者 赛奥丁·马瑟尔
+tagLoreObj_AreaCAetherial_NoteA01Text=意见已经达成一致。霍姆斯特德的避难所将会在两周内攻陷。随着烈焰使者从北方稳步而来，它走过的痕迹只留下火焰，它的到来使得我们有足够的力量进攻西边的人类大本营。复生者们不知疲倦的在牢笼里工作，将虚化能量注入收集来的人类与巨魔体内。但真正的工作会在谷仓内完成。{^n}{^n}事实证明人类会是...很难对付的寄主，他们的意识强力地与虚化能量作斗争。但血肉呢？很容易适应与感染。我抬头看着填满谷仓的散发着臭气的腐败尸体，感叹生命如此脆弱，就像一匹空白的布，一匹我们可以随意涂抹凯恩命运的布。{^n}{^n}血肉塑造者 赛奥丁·马瑟尔
 
 tagLoreObj_BlackLegion_NoteA01Name=黑色军团侦查报告
 tagLoreObj_BlackLegion_NoteA01Text=我写下这份书信来报告虚灵在霍姆斯特德北方愈演愈烈的活动。我动身前往山麓并穿过一些低墙院落，栅栏以及一些农舍。我小心翼翼地赶路，保证自己不被仍在田地间游荡的危险份子发现。在走到两座山间的山谷附近时，我见到了难以置信的一幕。{^n}{^n}一根既不是石头也不是血肉的怪异黑柱像低沉的阴云一般缓缓漂移。一抹绿色火光在它的核心处燃烧，巨大的缠绕触手从移动底壳上垂落而下。我越发惊惧地目睹了这个邪恶的方尖碑缓缓停下，并毫无征兆地将触手扎进了地下。土地开始枯萎并开始发出和它一样的腐化绿光。随后方尖碑将它自己也拉进了地面。随着一声毁天灭地的巨响，它开始发出无法直视的光芒。它的力量渗入了地下，传播着扭曲与腐化。{^n}{^n}我在那里徘徊了将近一个小时，而在这期间，方尖碑周围很大一片区域都已经被改变了。我刚要离开的时候，方尖碑又从地下拔出并开始前往未被感染的地区进行再次的循环。我们必须赶紧采取措施了，否则什么都剩不下了。{^n}{^n} --黑色军团第六团侦察兵，瑞纳尔·奥布莱奇
@@ -1334,6 +1334,9 @@ tagStoreTitle_MerchantC02=被诅咒的商贩
 tagNPC_MerchantC03=阿加拉德
 tagStoreTitle_MerchantC03=受折磨的灵魂
 
+tagNPC_MerchantC04=法夏
+tagStoreTitle_MerchantC04=常见的漂亮装束
+
 tagNPC_MerchantT01=流动商人
 tagStoreTitle_MerchantT01=回收商贩
 
@@ -1384,7 +1387,7 @@ tagStoreDesc_SmithA04_4=锻造的武器，护甲和饰品会被灌注以下属�
 tagNPC_SmithA05=艾特姆·法尔德
 tagStoreTitle_SmithA05=神力铁匠
 tagStoreDesc_SmithA05_1={}神力锻造
-tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成。
+tagStoreDesc_SmithA05_2=据说艾特姆·法尔德的锻锤是由星辰本身熔炼而成，可锻造最高至75级的传奇装备。
 tagStoreDesc_SmithA05_3= 
 tagStoreDesc_SmithA05_4=锻造的武器，护甲和饰品会被灌注以下属性其中之一：
 
@@ -1427,7 +1430,7 @@ tagNPC_FactionTable_01=恶魔十字赏金桌
 tagNPC_FactionTable_02=流浪者赏金桌
 tagNPC_FactionTable_03=霍姆斯特德赏金桌
 tagNPC_FactionTable_04=黑色军团赏金桌
-tagNPC_FactionTable_05=凯蒙的神选战士赏金桌
+tagNPC_FactionTable_05=凯蒙的神选者赏金桌
 tagNPC_FactionTable_06=死亡守夜人教团赏金桌
 tagNPC_FactionTable_07=放逐者赏金桌
 

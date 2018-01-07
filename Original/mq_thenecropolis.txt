@@ -1,0 +1,10 @@
+Homestead
+The Necropolis
+Enter unstable riftgate
+The necromancer leader, Lord Reginald Marrowbane, has provided you with the location of one of the unstable rifts that can get you to the Necropolis. You must enter this riftgate and travel through wherever it leads you until you find the Aetherial stronghold.
+Travel through the unstable rifts until you find the Necropolis
+
+Speak to Reginald
+You have found the location of the Necropolis and secured a local riftgate. Necromancers are now pouring in to execute on their plan. Report to Lord Reginald Marrowbane in the Dead Warren.
+Report to Lord Reginald Marrowbane in Dead Warren
+

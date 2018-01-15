@@ -88,6 +88,7 @@ tagGDX1WeaponGun1hD103_Desc="严格按照白银之塔的大法师--阿格维克�
 tagGDX1WeaponGun1hD107=余烬之核
 tagGDX1WeaponGun1hD108=神盾左轮手枪
 tagGDX1WeaponGun1hD109=黑火焚枪
+
 tagGDX1WeaponGun1hD110=达加隆的破坏者
 tagGDX1WeaponGun1hD110_Desc="枪管内部的符文以超自然的力量将子弹发射出去."
 tagGDX1WeaponGun1hD111=达加隆的歼灭者
@@ -140,7 +141,7 @@ tagGDX1WeaponMelee2hB101=^l血肉扭曲之核
 tagGDX1WeaponMelee2hB102=^l血肉扭曲碎片
 tagGDX1WeaponMelee2hB103=碎肠者战槌
 
-tagGDX1WeaponMelee2hC101=魂裂
+tagGDX1WeaponMelee2hC101=灵魂分割器
 tagGDX1WeaponMelee2hC101_Desc="传说这把镰刀的刀刃切割的不仅仅是血肉."
 tagGDX1WeaponMelee2hC102=塞萨兰的信念
 tagGDX1WeaponMelee2hC107=尤尔托斯之拳
@@ -363,6 +364,7 @@ tagGDX1HeadD113=迷失灵魂面具
 tagGDX1HeadD114=奥克塔维尔斯的面甲
 tagGDX1HeadD115=戈尔巴的面罩
 tagGDX1HeadD116=黑火头盔
+
 tagGDX1HeadD117=法术天灾面甲
 tagGDX1HeadD118=法师杀手的面罩
 tagGDX1HeadD119=瓦尔古尔的珍宝
@@ -978,6 +980,7 @@ tagGDX1Blueprint_ArmorD113=设计图：迷失灵魂面具
 tagGDX1Blueprint_ArmorD114=设计图：奥克塔维尔斯的面甲
 tagGDX1Blueprint_ArmorD115=设计图：戈尔巴的面罩
 tagGDX1Blueprint_ArmorD116=设计图：黑火头盔
+
 tagGDX1Blueprint_ArmorD117=设计图：法术天灾面甲
 tagGDX1Blueprint_ArmorD118=设计图：法师杀手的面罩
 tagGDX1Blueprint_ArmorD119=设计图：瓦尔古尔的宝石
@@ -1058,9 +1061,9 @@ tagGDX1Blueprint_AccessoryC115=设计图：神话 元素平衡蓝宝石
 tagGDX1Blueprint_AccessoryD101=设计图：神话 风暴先知蓝宝石
 tagGDX1Blueprint_AccessoryD102=设计图：神话 背信弃义的手段
 tagGDX1Blueprint_AccessoryD103=设计图：余烬束腰
-tagGDX1Blueprint_AccessoryD104=设计图：神话 卡拉斯特勋章
+tagGDX1Blueprint_AccessoryD104=设计图：卡拉斯特勋章
 tagGDX1Blueprint_AccessoryD105=设计图：消耗标记
-tagGDX1Blueprint_AccessoryD106=设计图：神话 冰火统治之戒
+tagGDX1Blueprint_AccessoryD106=设计图：冰火统治之戒
 tagGDX1Blueprint_AccessoryD107=设计图：岩石守卫腰带
 tagGDX1Blueprint_AccessoryD108=设计图：神盾护腰
 tagGDX1Blueprint_AccessoryD109=设计图：神话 仁慈化身
@@ -1735,19 +1738,19 @@ tagGDX1SuffixA101=之
 
 tagGDX1SuffixB101_Wpn_A=受折磨灵魂之
 tagGDX1SuffixB102_Wpn_A=灵魂守护之
-tagGDX1SuffixB103_Wpn_A=焚烧符文之
+tagGDX1SuffixB103_Wpn_A=焚烧符文★之
 tagGDX1SuffixB104_Wpn_A=灵魂牢笼之
 tagGDX1SuffixB105_Wpn_A=天神愤怒之
 
 tagGDX1SuffixB101_Ar_A=受折磨灵魂之
 tagGDX1SuffixB102_Ar_A=受折磨灵魂之
 tagGDX1SuffixB103_Ar_A=灵魂守护之
-tagGDX1SuffixB104_Ar_A=焚烧符文之
+tagGDX1SuffixB104_Ar_A=焚烧符文★之
 tagGDX1SuffixB105_Ar_A=灵魂牢笼之
 tagGDX1SuffixB106_Ar_A=灵魂牢笼之
 
 tagGDX1SuffixB101_Sh_A=受折磨灵魂之
-tagGDX1SuffixB102_Sh_A=焚烧符文之
+tagGDX1SuffixB102_Sh_A=焚烧符文★之
 tagGDX1SuffixB103_Sh_A=灵魂牢笼之
 tagGDX1SuffixB104_Sh_A=天神愤怒之
 tagGDX1SuffixB105_Sh_A=虚灵屏障之

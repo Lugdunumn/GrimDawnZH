@@ -23,11 +23,11 @@ tagSkillClassName0206=[ms]元素使者^T(爆破+萨满)[fs]元素女郎^T(爆破
 tagSkillClassName0207=[ms]净化者^T(爆破+审判)[fs]净化女使^T(爆破+审判)
 tagSkillClassName0208=污染者^T(爆破+死灵)
 tagSkillClassName0209=
-tagSkillClassName0304=[ms]巫师猎人^T(神秘+夜刃)[fs]魔法猎人^T(神秘+夜刃)
+tagSkillClassName0304=[ms]巫师猎人^T(神秘+夜刃)[fs]巫女猎人^T(神秘+夜刃)
 tagSkillClassName0305=术士^T(神秘+奥术)
 tagSkillClassName0306=咒术师^T(神秘+萨满)
 tagSkillClassName0307=欺诈者^T(神秘+审判)
-tagSkillClassName0308=秘术师^T(神秘+死灵)
+tagSkillClassName0308=[ms]秘法师^T（神秘+死灵）[fs]秘术师^T(神秘+死灵)
 tagSkillClassName0309=
 tagSkillClassName0405=破法者^T(夜刃+奥术)
 tagSkillClassName0406=诡术刺客^T(夜刃+萨满)
@@ -35,7 +35,7 @@ tagSkillClassName0407=[ms]潜伏者^T（夜刃+审判）[fs]渗透者^T(夜刃+�
 tagSkillClassName0408=收割者^T(夜刃+死灵)
 tagSkillClassName0409=
 tagSkillClassName0506=德鲁伊^T(奥术+萨满)
-tagSkillClassName0507=法师猎人^T(奥术+审判)
+tagSkillClassName0507=[ms]法师猎人^T（奥术+审判）[fs]法术猎人^T（奥术+审判）
 tagSkillClassName0508=缚法者^T(奥术+死灵)
 tagSkillClassName0509=
 tagSkillClassName0607=维护者^T(萨满+审判)
@@ -86,83 +86,83 @@ tagSkillUsableReady=技能已准备就绪
 tagClass01SkillName00A=士兵
 tagClass01SkillDescription00A=只有极度强健的体魄才能勇敢地面对凯恩世界残酷的现实.
 
-tagClass01SkillName01A=^g<^F士兵^g>^i节奏
+tagClass01SkillName01A=^g<^F士兵^g>^b节奏
 tagClass01SkillDescription01A=战斗时,自然地跟随周期性的节奏感,施展抑扬顿挫的打击.虽然会被敌人预判,但却强效有力,很难遭到反击.^o聚气平砍类技能,前2下普通攻击聚气[可以触发武器被动技能]『双持武器时：同步双击（两把武器同时攻击）只能聚气一次；异步攻击（两把武器一前一后攻击，可以连续聚气（共2次）』,第3下施放节奏[特殊攻击,不能触发其它武器被动技能],双持时节奏只会增强主手武器攻击.
-tagClass01SkillName01B=^g<^F士兵^g>^i战斗姿态
+tagClass01SkillName01B=^g<^F士兵^g>^b战斗姿态
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振,造成严重的出血并击中附近的额外敌人.^o远程武器,按百分比几率穿透敌人[直线aoe];近战武器攻击2-3目标.
-tagClass01SkillName01C=^g<^F士兵^g>^i致死旋律
+tagClass01SkillName01C=^g<^F士兵^g>^b致死旋律
 tagClass01SkillDescription01C=在进行一次节奏打击之后,利用技能的优势,短暂地使你所有攻击都附加额外的致命力量.^obuff效果,点数伤害增加到武器伤害里.
 tagClass01SkillName01D=不谐和弦
 tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着元素能量.
 
-tagClass01SkillName02A=^g<^F士兵^g>^i力场波
+tagClass01SkillName02A=^g<^F士兵^g>^b力场波
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气,投射出能量波眩晕敌人并造成伤害.^o该技能发动需要装备盾牌或双手近战武器；直线aoe技能,受施法速度影响,只能攻击同一水平面的敌人.
-tagClass01SkillName02B=^g<^F士兵^g>^i裂甲之力
+tagClass01SkillName02B=^g<^F士兵^g>^b裂甲之力
 tagClass01SkillDescription02B=力场波粉碎敌人的防御,针对敌人暴露出的弱点造成严重的伤害.
-tagClass01SkillName02C=^g<^F士兵^g>^i内部创伤
+tagClass01SkillName02C=^g<^F士兵^g>^b内部创伤
 tagClass01SkillDescription02C=力场波粉碎骨骼并损伤内脏,造成大量的内外出血.
 tagClass01SkillName02D=震颤
 tagClass01SkillDescription02D=以曼海尔的意志为名,使用强有力的双手武器撕裂大地.对敌人施放出具有毁灭力量的能量波.^o需要一把双手近战武器.震颤不是一种默认增强型武器攻击技能,不能触发类似马尔科夫优势的特效.
 
-tagClass01SkillName03A=^g<^F士兵^g>^i闪击
+tagClass01SkillName03A=^g<^F士兵^g>^b闪击
 tagClass01SkillDescription03A=带着毁灭性的动能冲入敌群,发动突袭.^o需要一把近战武器.当装备盾牌时,盾牌的伤害也会被计算在内.
-tagClass01SkillName03B=^g<^F士兵^g>^i攻其不备
+tagClass01SkillName03B=^g<^F士兵^g>^b攻其不备
 tagClass01SkillDescription03B=你的攻击突然而猛烈,使敌人失去平衡,降低作战能力.
 
-tagClass01SkillName04A=^g<^F士兵^g>^i战吼
+tagClass01SkillName04A=^g<^F士兵^g>^b战吼
 tagClass01SkillDescription04A=令人毛骨悚然的战吼削弱敌人的意志,分散他们的注意力.^o防御性技能,减少怪物对你的伤害.
 tagClass01SkillName04C=恐惧
 tagClass01SkillDescription04C=意志不坚定的敌人在听到你可怕的挑衅声后会四散逃逸.
-tagClass01SkillName04B=^g<^F士兵^g>^i破胆
+tagClass01SkillName04B=^g<^F士兵^g>^b破胆
 tagClass01SkillDescription04B=战吼粉碎敌人的斗志,导致他们无力与你战斗.^o能防止敌人施法,具备控制效果.
 
-tagClass01SkillName05A=^g<^F士兵^g>^i刀锋横扫
+tagClass01SkillName05A=^g<^F士兵^g>^b刀锋横扫
 tagClass01SkillDescription05A=弧形挥动武器,切开周围的多个敌人.^o需要近战武器.
-tagClass01SkillName05B=^g<^F士兵^g>^i撕裂
+tagClass01SkillName05B=^g<^F士兵^g>^b撕裂
 tagClass01SkillDescription05B=刀锋横扫的高级技巧,攻击时撕裂敌人,造成流血.
 tagClass01SkillName05C=风卷残云
 tagClass01SkillDescription05C=刀锋横扫更为强力的一种形式,战士在攻击中施展猛击,将敌人击倒在地.
 
-tagClass01SkillName06A=^g<^F士兵^g>^i马尔科夫优势
+tagClass01SkillName06A=^g<^F士兵^g>^b马尔科夫优势
 tagClass01SkillDescription06A=著名战术家马尔科夫总是谋划从高处进攻.这个经典的攻击灵感正是来自马尔科夫的战术,招牌是强力的向下攻击,摔绊敌人让他们失去平衡,削弱他们的防御.^o武器被动技能,所有武器均可激活该技能效果；单手,双手会有跳劈动作,双持近战双手向下砍击[两把武器攻击],远程武器无特殊动作；双持手枪时两把手枪同时攻击（异步，一前一后）
-tagClass01SkillName06B=^g<^F士兵^g>^i佐尔汉的技艺
+tagClass01SkillName06B=^g<^F士兵^g>^b佐尔汉的技艺
 tagClass01SkillDescription06B=以一个著名的格斗大师命名,攻击时放低重心,猛推敌人来使他们失去平衡.^o当使用一把近战武器发动时,会击中附近多个目标.^o武器被动技能,所有默认武器攻击均可激活该技能效果；近战武器反手水平挥击动作,远程武器不能攻击多个目标和没有特殊动作.双持手枪时两把手枪同时攻击（异步，一前一后）
 
-tagClass01SkillName07A=^g<^F士兵^g>^i战意
+tagClass01SkillName07A=^g<^F士兵^g>^b战意
 tagClass01SkillDescription07A=敌人攻击的刺痛无法使你屈服,反而能激起你的怒气,在攻击中蕴含更强的力量.^o受到伤害时激活.
-tagClass01SkillName08A=^g<^F士兵^g>^i曼海尔的意志
+tagClass01SkillName08A=^g<^F士兵^g>^b曼海尔的意志
 tagClass01SkillDescription08A=当你接近死亡时,曼海尔不屈的意志将为你灌注新的力量.^o需要盾牌或者近战双手武器.战士救命技能.
 
-tagClass01SkillName09A=^g<^F士兵^g>^i战争号令
+tagClass01SkillName09A=^g<^F士兵^g>^b战争号令
 tagClass01SkillDescription09A=卓越的纪律感和战术知识让你成为战斗领袖.^o此技能需开启以保持生效.
-tagClass01SkillName09B=^g<^F士兵^g>^i小队战术
+tagClass01SkillName09B=^g<^F士兵^g>^b小队战术
 tagClass01SkillDescription09B=激励你的队友,增强他们的战力.
 
-tagClass01SkillName10A=^g<^F士兵^g>^i军事素养
+tagClass01SkillName10A=^g<^F士兵^g>^b军事素养
 tagClass01SkillDescription10A=严格的军事训练增强了身体对严酷战争的耐受力.^o士兵强壮本质.
-tagClass01SkillName11A=^g<^F士兵^g>^i久经沙场
+tagClass01SkillName11A=^g<^F士兵^g>^b久经沙场
 tagClass01SkillDescription11A=战争的严苛使你获得了在战斗中存活的宝贵经验.
-tagClass01SkillName12A=^g<^F士兵^g>^i荣耀兵士
+tagClass01SkillName12A=^g<^F士兵^g>^b荣耀兵士
 tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力,使老兵们能够更轻易地切入敌人的防御空档,或是预判敌人的攻击节奏来实施反击.
 
-tagClass01SkillName13A=^g<^F士兵^g>^i曼海尔的壁垒
+tagClass01SkillName13A=^g<^F士兵^g>^b曼海尔的壁垒
 tagClass01SkillDescription13A=召唤大地之神曼海尔,护佑其追随者拥有大地般的坚韧.^o需要一面盾牌.这项技能必须保持开启以持续生效.持盾安全保障.
 
-tagClass01SkillName14A=^g<^F士兵^g>^i奥莱隆之怒
+tagClass01SkillName14A=^g<^F士兵^g>^b奥莱隆之怒
 tagClass01SkillDescription14A=召唤远古战神奥莱隆,鼓舞其追随者燃起无法动摇的凶猛战意.^o这项技能必须保持开启以持续生效.
 
-tagClass01SkillName15A=^g<^F士兵^g>^i战斗警觉
+tagClass01SkillName15A=^g<^F士兵^g>^b战斗警觉
 tagClass01SkillDescription15A=进入防御姿态,极大的增强你的战斗意志.你只能在很短的时间内维持该状态.^o需要一面盾牌.
 tagClass01SkillName15B=马尔科夫的防御
 tagClass01SkillDescription15B=马尔科夫因他的战术知识成为一名战场传奇人物,但他精湛的盾术才是使他得以常胜不败的关键.凝神专注加以充足的训练,马尔科夫能无期限地牺牲进攻能力为代价保持一种防御姿态.以期在他在发出必杀一技之前,敌人将筋疲力尽.
 
-tagClass01SkillName16=^g<^F士兵^g>^i百战之躯
+tagClass01SkillName16=^g<^F士兵^g>^b百战之躯
 tagClass01SkillDescription16=经历了无数战火洗礼,你已经见识过了最为残酷的战场.战争所谓的恐怖和小小的伤口,都已无法再阻挡你.^o士兵必备素质
 
-tagClass01SkillName17=^g<^F士兵^g>^i防守反击
+tagClass01SkillName17=^g<^F士兵^g>^b防守反击
 tagClass01SkillDescription17=进入极度灵敏的状态来发动闪电般的反击.^o这项技能必须保持开启以持续生效.
 
-tagClass01SkillName18=^g<^F士兵^g>^i防护训练
+tagClass01SkillName18=^g<^F士兵^g>^b防护训练
 tagClass01SkillDescription18=对使用盾牌进行战斗的技艺进行大量研习而提高可操控性与机动性；使你的盾牌绝对不会成为累赘,甚至能够进行攻击.^o需要一面盾牌.
 
 
@@ -172,27 +172,27 @@ tagClass01SkillDescription18=对使用盾牌进行战斗的技艺进行大量研
 tagClass02SkillName00A=爆破者
 tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的炼狱之火.
 
-tagClass02SkillName01A=^g<^F爆破^g>^i手榴弹
+tagClass02SkillName01A=^g<^F爆破^g>^b手榴弹
 tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明,使战场上的巫术操控和常规武器间的较量得到了平衡.^o飞行速度较慢,弹道容易被封堵.
-tagClass02SkillName01B=^g<^F爆破^g>^i高热冲击
+tagClass02SkillName01B=^g<^F爆破^g>^b高热冲击
 tagClass02SkillDescription01B=在标准手榴弹上的改进设计使它爆发出炽热火花并射出锋利的碎片.
 tagClass02SkillName01C=天火手雷
 tagClass02SkillDescription01C=当仅仅炸到一个敌人并不足够时,这项对手榴弹化学成分的炼金改造能在引爆后释放电力漩涡.
-tagClass02SkillName01D=^g<^F爆破^g>^i破碎猛爆
+tagClass02SkillName01D=^g<^F爆破^g>^b破碎猛爆
 tagClass02SkillDescription01D=手榴弹爆炸产生的强烈冲击波会震荡你的敌人,造成剧烈的内部创伤.
 
-tagClass02SkillName02A=^g<^F爆破^g>^i闪光弹
+tagClass02SkillName02A=^g<^F爆破^g>^b闪光弹
 tagClass02SkillDescription02A=一道致盲闪光使敌人短暂的陷入混乱并破坏他们的防护能力.^o控场技能,削减敌人防御能力.
-tagClass02SkillName02B=^g<^F爆破^g>^i灼热之光
+tagClass02SkillName02B=^g<^F爆破^g>^b灼热之光
 tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成伤害的能力.^o安全防护.
 
-tagClass02SkillName03A=^g<^F爆破^g>^i火焰打击
+tagClass02SkillName03A=^g<^F爆破^g>^b火焰打击
 tagClass02SkillDescription03A=一项致命的炼金技术,能够引燃敌人周围的空气进行攻击.^o平砍类技能,会增强被动武器技能.
-tagClass02SkillName03B=^g<^F爆破^g>^i爆裂打击
+tagClass02SkillName03B=^g<^F爆破^g>^b爆裂打击
 tagClass02SkillDescription03B=提高火焰打击的效果,有一定几率提高火焰伤害.
-tagClass02SkillName03C=^g<^F爆破^g>^i静电打击
+tagClass02SkillName03C=^g<^F爆破^g>^b静电打击
 tagClass02SkillDescription03C=进一步的炼金改进使火焰打击对目标造成电击伤害并有一定几率击退他们.
-tagClass02SkillName03D=^g<^F爆破^g>^i炽烈硫磺
+tagClass02SkillName03D=^g<^F爆破^g>^b炽烈硫磺
 tagClass02SkillDescription03D=使用火焰法术为火焰打击附加硫磺的混沌之力.^o远程攻击才会制造分裂弹.
 tagClass02SkillName03E=灼热打击
 tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消耗更少的能量来打出更强的攻击,但这项技艺只有在熟练使用近战单手武器.^o需要一把近战单手武器.
@@ -200,16 +200,16 @@ tagClass02SkillName03F=灼热之力
 tagClass02SkillDescription03F=当使用强力的双手近战或远程武器时,火焰打击会造成毁灭性的伤害.^o需要一把双手近战或双手远程武器.
 
 
-tagClass02SkillName04A=^g<^F爆破^g>^i罐式炸弹
+tagClass02SkillName04A=^g<^F爆破^g>^b罐式炸弹
 tagClass02SkillDescription04A=填装了更多爆炸物的炸药,这项恐怖的发明能够击垮一整片敌人.^o经过一次爆炸后才会产生分裂弹.
-tagClass02SkillName04B=^g<^F爆破^g>^i改良外壳
+tagClass02SkillName04B=^g<^F爆破^g>^b改良外壳
 tagClass02SkillDescription04B=对罐式炸弹外壳的调整增强了震荡威力,并在更大的爆炸范围内造成巨量创伤伤害.
 tagClass02SkillName04C=震荡炸弹
 tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,减少造成的伤害但能使敌人患上炮弹休克症.^o眩晕控场.
 
-tagClass02SkillName05A=^g<^F爆破^g>^i迫击抛射炮
+tagClass02SkillName05A=^g<^F爆破^g>^b迫击抛射炮
 tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮,直至耗尽.^o迫击炮会受到玩家伤害加成的影响.投射物会受到环境物体阻挡,投射物飞行速度较慢.
-tagClass02SkillName05B=^g<^F爆破^g>^i重型武器
+tagClass02SkillName05B=^g<^F爆破^g>^b重型武器
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害.^o同时影响基本的迫击炮技能和巨型炸弹.
 tagClass02SkillName05C=^g<^F爆破^g>^i巨型炸弹
 tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹,将向迫击抛射炮弹幕的初始方向发射.即便你的敌人存活下来,由此产生的巨大的爆炸也将给他们造成极度的恐慌.
@@ -218,43 +218,43 @@ tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹.
 tagClass02SkillName05E=电击迫击炮
 tagClass02SkillDescription05E=向敌人发射带电的迫击炮弹.
 
-tagClass02SkillName06A=^g<^F爆破^g>^i铝热地雷
+tagClass02SkillName06A=^g<^F爆破^g>^b铝热地雷
 tagClass02SkillDescription06A=投掷一组小而致命的火焰地雷,用强烈的火焰喷射烧焦敌人.^o地雷会受到玩家伤害加成的影响；地雷攻击为debuff属性.
-tagClass02SkillName06B=^g<^F爆破^g>^i地狱火地雷
+tagClass02SkillName06B=^g<^F爆破^g>^b地狱火地雷
 tagClass02SkillDescription06B=同时用烟火制造术和炼金术对铝热地雷进行改进,使它可以用灼热的火焰烧焦敌人.
 tagClass02SkillName06C=烈焰喷射
 tagClass02SkillDescription06C=喷射一束致命的白热火焰将经过的敌人烧成灰烬.
 tagClass02SkillName06D=引爆
-tagClass02SkillName07A=^g<^F爆破^g>^i防爆护盾
+tagClass02SkillName07A=^g<^F爆破^g>^b防爆护盾
 tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量所有类型伤害的护盾,并降低受到的穿刺与火焰伤害.攻击你的敌人会受到护盾的炽烈反击.^o爆破主力防护
 
-tagClass02SkillName07B=^g<^F爆破^g>^i奥祖因的选召
+tagClass02SkillName07B=^g<^F爆破^g>^b奥祖因的选召
 tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐,获得他的祝福,可以对世界造成炽烈破坏.^o影响眩晕投掷,手榴弹和罐式炸弹并需要其中的技能之一才能生效.
 
-tagClass02SkillName08A=^g<^F爆破^g>^i黑水鸡尾酒
+tagClass02SkillName08A=^g<^F爆破^g>^b黑水鸡尾酒
 tagClass02SkillDescription08A=在常规弹药将要耗尽的时候调制黑水鸡尾酒.这些简易的火焰炸弹将在碰撞后留下自燃火焰,对付密集的敌人特别有效.
-tagClass02SkillName08B=^g<^F爆破^g>^i恶魔之火
+tagClass02SkillName08B=^g<^F爆破^g>^b恶魔之火
 tagClass02SkillDescription08B=被施加巫术的火焰拥有混沌之力,能熔化敌人的肉体.
-tagClass02SkillName08C=^g<^F爆破^g>^i痛苦烈焰
+tagClass02SkillName08C=^g<^F爆破^g>^b痛苦烈焰
 tagClass02SkillDescription08C=黑水火焰造成的痛苦会削弱敌人对法术攻击的抵抗能力.
 tagClass02SkillName08D=高能配方
 tagClass02SkillDescription08D=这种更为强效的配方将使得燃烧时间延长并且削弱敌人的战斗力.
 
-tagClass02SkillName09A=^g<^F爆破^g>^i眩晕投掷
+tagClass02SkillName09A=^g<^F爆破^g>^b眩晕投掷
 tagClass02SkillDescription09A=扔出一排小型的带电金属弹暂时阻止敌人前进.^o投射物分散角度较大.
-tagClass02SkillName09B=^g<^F爆破^g>^i火力全开
+tagClass02SkillName09B=^g<^F爆破^g>^b火力全开
 tagClass02SkillDescription09B=提升每个金属弹的电力容量,并增加单次能扔出的金属弹的数量.
 tagClass02SkillName09C=迅捷投掷
 tagClass02SkillDescription09C=金属弹失去阻止敌人前进的能力,不过能更加快速的施放以消灭成群的敌人.^o让眩晕投掷变成输出技能.
 
-tagClass02SkillName12A=^g<^F爆破^g>^i附身烈焰
+tagClass02SkillName12A=^g<^F爆破^g>^b附身烈焰
 tagClass02SkillDescription12A=许多爆破者最终涉足了火焰魔法.他们运用其中的技艺将跃动的烈焰加诸自己和盟友身上,借以增强攻击力并能反击敌人.^o这项技能必须保持开启以持续生效.爆破攻击能力来源.
-tagClass02SkillName12B=^g<^F爆破^g>^i回火
+tagClass02SkillName12B=^g<^F爆破^g>^b回火
 tagClass02SkillDescription12B=将驱动防爆护盾的巫术火焰延伸至已装备的武器和护甲上,对它们使用超越传统的方法进行回火处理.^o物理穿刺和护甲强化.
 
-tagClass02SkillName13A=^g<^F爆破^g>^i复仇烈焰
+tagClass02SkillName13A=^g<^F爆破^g>^b复仇烈焰
 tagClass02SkillDescription13A=奥祖因的永恒之焰曾给世界带来生机与休养,但是背叛与折磨将其扭曲为复仇的武器.向奥祖因宣誓效忠的人将在战斗中获得活力并对他们的敌人展开猛烈的报复.^o这项技能必须保持开启以持续生效.
-tagClass02SkillName13B=^g<^F爆破^g>^i奥祖因的愤怒
+tagClass02SkillName13B=^g<^F爆破^g>^b奥祖因的愤怒
 tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人,同时发出火与电的魔法来攻击更远的敌人.
 
 tagClass02SkillName10A=闪电炸弹
@@ -273,83 +273,83 @@ tagClass02SkillDescription14A=提升伤害并击倒小到中型敌人的强力�
 tagClass03SkillName00=神秘学者
 tagClass03SkillDescription00=深入研习如何操纵与控制神秘力量.
 
-tagClass03SkillName01A=^g<^F神秘^g>^i召唤乌鸦
+tagClass03SkillName01A=^g<^F神秘^g>^b召唤乌鸦
 tagClass03SkillDescription01A=召唤神话中的风暴乌鸦来援助你.风暴乌鸦是与寻常乌鸦不同的一种拥有不可思议的智慧和魔力的奇异生物.有些人坚信它们不是鸟,而是以乌鸦的形式现身的某种古老的天空之灵.^o同一时间只能召唤一只乌鸦.乌鸦会受到战宠加成影响.辅助型召唤物.
 tagClass03SkillName01B=风暴光球
 tagClass03SkillDescription01B=普通攻击.
-tagClass03SkillName01C=^g<^F神秘^g>^i血肉缝合
+tagClass03SkillName01C=^g<^F神秘^g>^b血肉缝合
 tagClass03SkillDescription01C=乌鸦能引导神秘能量治疗受伤的盟友.
-tagClass03SkillName01D=^g<^F神秘^g>^i风暴之心
+tagClass03SkillName01D=^g<^F神秘^g>^b风暴之心
 tagClass03SkillDescription01D=乌鸦能向选中的盟友注入神秘的能量,授予他们超凡的能力.
-tagClass03SkillName01E=^g<^F神秘^g>^i闪电打击
+tagClass03SkillName01E=^g<^F神秘^g>^b闪电打击
 tagClass03SkillDescription01E=风暴乌鸦召唤强力的闪电来攻击附近的敌人.
 
-tagClass03SkillName02A=^g<^F神秘^g>^i召唤地狱犬
+tagClass03SkillName02A=^g<^F神秘^g>^b召唤地狱犬
 tagClass03SkillDescription02A=从邪术国度召唤出一只地狱犬撕咬神秘学者的敌人.这种邪恶的野兽将跟随在你身旁战斗直至生命在火焰地狱里终结.^o同一时间只能召唤一只地狱犬.地狱犬会受到战宠加成影响.
-tagClass03SkillName02B=^g<^F神秘^g>^i灰烬之爪
+tagClass03SkillName02B=^g<^F神秘^g>^b灰烬之爪
 tagClass03SkillDescription02B=在地狱犬可触及的范围内使用硫磺之爪在敌人身上撕扯出一道道烈焰之弧.
-tagClass03SkillName02C=^g<^F神秘^g>^i地狱之火
+tagClass03SkillName02C=^g<^F神秘^g>^b地狱之火
 tagClass03SkillDescription02C=地狱烈火的光环围绕在地狱犬的周围,对攻击它的敌人进行烈焰反击.这种力量也会被赋予附近的友军.
-tagClass03SkillName02D=^g<^F神秘^g>^i炼狱吐息
+tagClass03SkillName02D=^g<^F神秘^g>^b炼狱吐息
 tagClass03SkillDescription02D=地狱犬向外喷吐地狱怒炎,将敌人烧成灰烬.
 tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=普通攻击
 tagClass03SkillName02F=死亡爆裂
 tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱,将附近的敌人烧成灰烬.
 
-tagClass03SkillName03A=^g<^F神秘^g>^i拜斯迈的羁绊
+tagClass03SkillName03A=^g<^F神秘^g>^b拜斯迈的羁绊
 tagClass03SkillDescription03A=强化与召唤生物之间的联结,使它们更努力更坚决地为你作战.^o技能必须开启才能保持生效.
-tagClass03SkillName03B=^g<^F神秘^g>^i掌控
+tagClass03SkillName03B=^g<^F神秘^g>^b掌控
 tagClass03SkillDescription03B=以微妙的手法操纵召唤契约,使召唤物对你忠诚无比.它们将以狂热的力量和速度为你而战.
 
-tagClass03SkillName04A=^g<^F神秘^g>^i德里格之血
+tagClass03SkillName04A=^g<^F神秘^g>^b德里格之血
 tagClass03SkillDescription04A=与伟大守护者之间的精神联系将赐予你一部分德里格的恢复能力.受到敌人攻击时将喷溅出巫神德里格身上的毒血.^o技能效果也会作用于队友身上；神秘万能buff.
-tagClass03SkillName04B=^g<^F神秘^g>^i守护者的躯体
+tagClass03SkillName04B=^g<^F神秘^g>^b守护者的躯体
 tagClass03SkillDescription04B=与德里格的深度联结致使敌人对神秘学者的进攻仿佛是在攻击守护者那坚不可摧的本体.^o神秘不缺毒抗的原因,当然还有点物理抗.
 tagClass03SkillName04C=守护者之翎
 tagClass03SkillDescription04C=牺牲所有的回复力,增强德里格之血的毒性.
 
-tagClass03SkillName05A=^g<^F神秘^g>^i索拉尔的巫火
+tagClass03SkillName05A=^g<^F神秘^g>^b索拉尔的巫火
 tagClass03SkillDescription05A=驾驭索拉尔的邪术力量,使用熵能在每一次武器攻击中灼烧敌人.^o这项技能必须保持开启以持续生效.增加混乱武器伤害.
-tagClass03SkillName05B=^g<^F神秘^g>^i二次仪式
+tagClass03SkillName05B=^g<^F神秘^g>^b二次仪式
 tagClass03SkillDescription05B=加深神秘学者与隐秘国度之间的联系,使巫火的力量变得更为强大,哪怕是最为轻微的接触也足以让敌人的生命精华燃烧殆尽.
 tagClass03SkillName05C=祭祀之剑
 tagClass03SkillDescription05C=巫火吞噬你的武器,以混沌能量凝聚其身.
 
-tagClass03SkillName06A=^g<^F神秘^g>^i虚弱诅咒
+tagClass03SkillName06A=^g<^F神秘^g>^b虚弱诅咒
 tagClass03SkillDescription06A=强大而无情的咒语使敌人失去勇气,使他们变得缓慢而脆弱.^odebuff技能.
-tagClass03SkillName06B=^g<^F神秘^g>^i易伤
+tagClass03SkillName06B=^g<^F神秘^g>^b易伤
 tagClass03SkillDescription06B=增强诅咒蕴含的邪力,以至于诅咒现在能够弱化敌人的体质,让他们无力抵抗巫术与毒药.
 
-tagClass03SkillName10A=^g<^F神秘^g>^i噬命魔印
+tagClass03SkillName10A=^g<^F神秘^g>^b噬命魔印
 tagClass03SkillDescription10A=在地面上释放一种神秘的印记,它将吞噬深陷其中的敌人的生命力.造成的伤害将以一定的比例转换为生命返还给神秘学者.
-tagClass03SkillName10B=^g<^F神秘^g>^i破灭
+tagClass03SkillName10B=^g<^F神秘^g>^b破灭
 tagClass03SkillDescription10B=将混沌本身蕴含的毁灭之力注入魔印之中.
 
-tagClass03SkillName11A=^g<^F神秘^g>^i德里格的邪眼
+tagClass03SkillName11A=^g<^F神秘^g>^b德里格的邪眼
 tagClass03SkillDescription11A=召唤隐秘国度的守护者德里格所拥有的无数只邪眼中的一只,它将迅速飞向敌人然后引爆自身.^o邪眼本体和进阶技能的爆炸范围是独立的,并不叠加.
-tagClass03SkillName11B=^g<^F神秘^g>^i血爆
+tagClass03SkillName11B=^g<^F神秘^g>^b血爆
 tagClass03SkillDescription11B=神秘的邪眼在命中敌人时爆炸,向周围的敌人喷溅毒血.
-tagClass03SkillName11C=^g<^F神秘^g>^i恐惧凝视
+tagClass03SkillName11C=^g<^F神秘^g>^b恐惧凝视
 tagClass03SkillDescription11C=不朽又可畏的巫神德里格,面对他那令人恐惧的凝视,敌人要么惊恐地呆在原地,要么直接逃之夭夭.
-tagClass03SkillName11D=^g<^F神秘^g>^i邪物喷涌
+tagClass03SkillName11D=^g<^F神秘^g>^b邪物喷涌
 tagClass03SkillDescription11D=邪眼撞上敌人时会炸出腐败的碎块,不幸身处爆炸范围内的敌人会遭受更深的痛楚.
 tagClass03SkillName11E=聚能凝视
 tagClass03SkillDescription11E=将德里格的邪恶力量引导至每只邪眼之中,使邪眼发生更为猛烈的爆炸,造成更多的伤害,但同时会延长施放邪眼的冷却时间.
 
-tagClass03SkillName12A=^g<^F神秘^g>^i附身
+tagClass03SkillName12A=^g<^F神秘^g>^b附身
 tagClass03SkillDescription12A=以身体为容器侍奉巫神索拉尔.索拉尔的意志遍布全身,用神秘力量来增强你的攻击.^o这项技能必须保持开启以持续生效.
 
-tagClass03SkillName13A=^g<^F神秘^g>^i血瘟疫
+tagClass03SkillName13A=^g<^F神秘^g>^b血瘟疫
 tagClass03SkillDescription13A=这种恶毒的,连众多神秘学者都畏之三分的诅咒会在敌人之中传播致命的瘟疫,进而不可逆转地掏空他们的生命力,他们的每个毛孔都将血流不止.
-tagClass03SkillName13B=^g<^F神秘^g>^i恶疾
+tagClass03SkillName13B=^g<^F神秘^g>^b恶疾
 tagClass03SkillDescription13B=血瘟疫将摧毁敌人的活力,即使是流出的眼泪也将变为大片的鲜血.如此阴险的巫术使神秘学者变得臭名昭著,所以许多神秘学者都死在了火刑柱上.
-tagClass03SkillName13C=^g<^F神秘^g>^i黑死病
+tagClass03SkillName13C=^g<^F神秘^g>^b黑死病
 tagClass03SkillDescription13C=身体的高热和内脏的溶解折磨着敌人,使他们在战场上的攻击落空,甚至攻击他们的队友.
 tagClass03SkillName13D=狂热怒意
 tagClass03SkillDescription13D=血瘟疫的变异对敌人与神秘学者本身来说都很危险.血瘟疫将极快的发作,不但会使造成的伤害加倍,更会令敌人患上高热,变得癫狂无比.他们将以异常的速度移动,伴随着狂暴的怒意发动攻击.而代价则是敌人变得更为脆弱.^o作死技能,大幅强化敌人输出,并削弱他们的防御.
 
-tagClass03SkillName14A=^g<^F神秘^g>^i末日闪电
+tagClass03SkillName14A=^g<^F神秘^g>^b末日闪电
 tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电,任何被它击中的敌人都将遭受重创.^o随机1-3次伤害；会被环境物体阻挡.
 
 tagClass03SkillName07A=妖术净化
@@ -370,71 +370,71 @@ tagClass03SkillDescription15A=将目标封印于一块保护性的治愈结界�
 tagClass04SkillName00=夜刃
 tagClass04SkillDescription00=精通幻象和回旋刃的技巧.
 
-tagClass04SkillName01A=^g<^F夜刃^g>^i幻影刀
+tagClass04SkillName01A=^g<^F夜刃^g>^b幻影刀
 tagClass04SkillDescription01A=夜刃享有盛誉的技能.投掷出通过暗影魔法召唤出的刀刃,如切割纸片一般撕裂肉体.^o多重攻击技能,适合触发其它技能或特效.
-tagClass04SkillName01B=^g<^F夜刃^g>^i寻心击
+tagClass04SkillName01B=^g<^F夜刃^g>^b寻心击
 tagClass04SkillDescription01B=通过精巧的技术,召唤出锋利的的幻影刀刺穿多个目标,还能从受害者身上吸取生命力.
-tagClass04SkillName01C=^g<^F夜刃^g>^i幽冥刃
+tagClass04SkillName01C=^g<^F夜刃^g>^b幽冥刃
 tagClass04SkillDescription01C=以黑魔法强化幻影刀,是一种仅在最恶劣的情况下才会使用的令人生厌的技能.
 tagClass04SkillName01X=凝神投
 tagClass04SkillDescription01X=更加精准而且强力地投掷幻影刀,将杀伤力汇集于一次凶猛的攻击.
 tagClass04SkillName01D=狂热掷
 tagClass04SkillDescription01D=以狂热的速度连续投掷幻影刀,但是单个刀锋的杀伤力降低.
 
-tagClass04SkillName02A=^g<^F夜刃^g>^i暗影袭
+tagClass04SkillName02A=^g<^F夜刃^g>^b影击
 tagClass04SkillDescription02A=幻术与精神力量的巧妙结合使你几近消失并像梦魇中的幽灵一样现身在你的目标上方.^o需要一把近战武器,双持近战武器时,两把武器同时攻击.
-tagClass04SkillName02B=^g<^F夜刃^g>^i尼达拉的正义裁决
+tagClass04SkillName02B=^g<^F夜刃^g>^b尼达拉的正义裁决
 tagClass04SkillDescription02B=作为一个被大多数夜刃所厌弃的用毒大师,尼达拉主张结果证明一切.在传统暗影袭上辅以毒药,确保了任何在初始攻击下还存活的敌人均会以悲剧收场.
-tagClass04SkillName02C=^g<^F夜刃^g>^i暗夜降临
+tagClass04SkillName02C=^g<^F夜刃^g>^b暗夜降临
 tagClass04SkillDescription02C=当你现身并与主要目标接触时,一片如漆黑寒冷夜晚般的黑暗将降临到周围的敌人身上,冻结他们的血液并将无法控制的疲倦侵入他们的思维.
 
-tagClass04SkillName03A=^g<^F夜刃^g>^i刀锋壁障
+tagClass04SkillName03A=^g<^F夜刃^g>^b刀锋壁障
 tagClass04SkillDescription03A=对于一位夜刃大师来说,传言贝尔戈斯安对他的魔力缺乏有效的控制；不过他拥有不懈的意念来召唤大量的刀刃来组成一面环绕他的坚盾,使他在敌人面前获得片刻的喘息.^o技能作用期间你将不能移动.夜刃无敌保命技能.
 
-tagClass04SkillName04A=^g<^F夜刃^g>^i钢铁之环
+tagClass04SkillName04A=^g<^F夜刃^g>^b钢铁之环
 tagClass04SkillDescription04A=上百把幻影刀瞬间以致命的速度环绕着你,消灭附近的敌人.
-tagClass04SkillName04B=^g<^F夜刃^g>^i屠戮之环
+tagClass04SkillName04B=^g<^F夜刃^g>^b屠戮之环
 tagClass04SkillDescription04B=锋利的幻影刀深深地切割圆环范围内的敌人,使他们流出大量鲜血.^o让敌人近战攻击失误.
 tagClass04SkillName04C=寒霜之环
 tagClass04SkillDescription04C=强力的气动技巧使钢铁之环从附近的空气中获取能量,增强冰冷伤害并冻结敌人,不过需要以牺牲穿刺伤害为代价.
 
-tagClass04SkillName05A=^g<^F夜刃^g>^i双刃
+tagClass04SkillName05A=^g<^F夜刃^g>^b双刃
 tagClass04SkillDescription05A=夜刃技能中最基本的便是对近战双持的精通,他们喜欢使用尖利的刀刃,以及使钢铁中产生元素之寒的技艺.^o这是一项双持技能.同时开启双持近战武器的能力.
-tagClass04SkillName05B=^g<^F夜刃^g>^i贝尔戈斯安的力斩
-tagClass04SkillDescription05B=健壮的贝尔戈斯安是轻盈的夜刃大师中的异数,不过他在原始的力量上超越了他们.借助于他的力量,如剪刀般直接致命的攻击,贝尔戈斯安经常一击终结敌人.^o近战双持武器被动,剪刀攻击动作[两把武器攻击,一只手最多打3目标,2只手最多6目标].
-tagClass04SkillName05C=^g<^F夜刃^g>^i阿玛拉斯塔的瞬影
-tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀刃据说像一条空气中的鞭子,只留下一条快得肉眼难以捕捉的光线.这项技艺的大师能够在普通攻击的时间内打击三次.^o近战双持武器被动,武器上摇[主手,副手,副手,3次急速攻击].
-tagClass04SkillName05D=^g<^F夜刃^g>^i死亡旋风
-tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺,敌人即便存活也会像遭受千刀万剐一般血流不止.^o近战双持武器被动,快速转动攻击[两把武器攻击,同时最多攻击8目标].
-tagClass04SkillName05E=^g<^F夜刃^g>^i尼达拉的隐手
-tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合,这近乎残忍的强大技巧使得她战胜了众多敌手.^o这项技能将改变贝尔戈斯安的力斩,阿玛拉斯塔的瞬影和死亡旋风.
+tagClass04SkillName05B=^g<^F夜刃^g>^b贝尔戈斯安的切割
+tagClass04SkillDescription05B=健壮的贝尔戈斯安是轻盈的夜刃大师中的异数,不过他在原始的力量上超越了他们.借助于他的力量,如剪刀般直接致命的攻击,贝尔戈斯安经常一击终结敌人.^o近战双持武器被动,剪刀攻击动作[两把武器攻击,一只手最多打3目标,2只手最多6目标]，同步双击.
+tagClass04SkillName05C=^g<^F夜刃^g>^b阿玛拉斯塔的瞬影
+tagClass04SkillDescription05C=因其速度而成为传奇,阿玛拉斯塔的刀刃据说像一条空气中的鞭子,只留下一条快得肉眼难以捕捉的光线.这项技艺的大师能够在普通攻击的时间内打击三次.^o近战双持武器被动,武器上摇[主手,副手,副手,3次急速攻击]，异步迅速3连击但系统判定为一次攻击.
+tagClass04SkillName05D=^g<^F夜刃^g>^b死亡旋风
+tagClass04SkillDescription05D=针对多名敌人的一种毁灭性的战斗技艺,敌人即便存活也会像遭受千刀万剐一般血流不止.^o近战双持武器被动,快速转动攻击[两把武器攻击,同时最多攻击8目标]，同步大范围双击多个目标.
+tagClass04SkillName05E=^g<^F夜刃^g>^b尼达拉的隐手
+tagClass04SkillDescription05E=颇具争议的夜刃大师尼达拉在她尚不理性的年纪通过将剧毒与其他夜刃的技艺结合,这近乎残忍的强大技巧使得她战胜了众多敌手.^o这项技能将改变贝尔戈斯安的力斩,阿玛拉斯塔的瞬影和死亡旋风（提供变异效果）.
 
-tagClass04SkillName05F=^g<^F夜刃^g>^i处决
-tagClass04SkillDescription05F=伺机发动出无情的一击,以迅速解决敌人.遭此攻击侥幸存活者,也不会苟延残喘太久.^o近战双持武器被动,双手向下砍击.
+tagClass04SkillName05F=^g<^F夜刃^g>^b处决
+tagClass04SkillDescription05F=伺机发动出无情的一击,以迅速解决敌人.遭此攻击侥幸存活者,也不会苟延残喘太久.^o近战双持武器被动,双手向下砍击，同步双击.
 
-tagClass04SkillName06A=^g<^F夜刃^g>^i气爆
+tagClass04SkillName06A=^g<^F夜刃^g>^b气爆
 tagClass04SkillDescription06A=夜刃的一种绝密武技,从周围吸取精华和“元气”以达到短时间内速度与力量的爆发.由此产生的新陈代谢加速也会轻微治疗夜刃的身体.^o夜刃万用buff.
-tagClass04SkillName06B=^g<^F夜刃^g>^i暗影舞
+tagClass04SkillName06B=^g<^F夜刃^g>^b暗影舞
 tagClass04SkillDescription06B=针对战斗的冥想练习将使你能够在酣战之中保持心中的清明,看破敌人来袭的路线巧妙地躲避敌人的攻击.
-tagClass04SkillName06C=^g<^F夜刃^g>^i元素诀
+tagClass04SkillName06C=^g<^F夜刃^g>^b元素诀
 tagClass04SkillDescription06C=夜刃宗师们能够从空气中,甚至与敌人短兵相接中汲取能量,然后施放冰冷的攻击.^obuff效果,霜燃点数伤害增加武器伤害里.
 tagClass04SkillName06D=集气诀
 tagClass04SkillDescription06D=以夜刃的标准来说,肌肉过于发达和速度迟缓的贝尔戈斯安,他成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力.^o这是一项近战双持技能.同时开启双持近战武器的能力.夜刃双持近战必备.
 
-tagClass04SkillName07A=^g<^F夜刃^g>^i暗影面纱
+tagClass04SkillName07A=^g<^F夜刃^g>^b暗影面纱
 tagClass04SkillDescription07A=一片心灵面纱密布于附近敌人的头脑中,减缓他们的移动并削弱他们的战斗力.^o这项技能必须保持开启以持续生效.debuff技能.
-tagClass04SkillName07B=^g<^F夜刃^g>^i夜之寒气
+tagClass04SkillName07B=^g<^F夜刃^g>^b夜之寒气
 tagClass04SkillDescription07B=使受到暗影面纱影响的敌人感到黑夜般的深寒降临,剥夺他们的生命并削弱防御.^odebuff技能.
 
-tagClass04SkillName08A=^g<^F夜刃^g>^i刀灵
+tagClass04SkillName08A=^g<^F夜刃^g>^b刀灵
 tagClass04SkillDescription08A=召唤一片旋涡云状的致命刀刃徘徊于战场,将敌人切成碎片后化为锯齿状的碎片.^o刀灵会受到玩家的伤害加成影响.
 tagClass04SkillName08PetA=回旋刃
 tagClass04SkillName08PetB=刀刃爆发
 tagClass04SkillDescription08PetB=刀灵向四面八方发射开膛刀刃.
 
-tagClass04SkillName11A=^g<^F夜刃^g>^i刀锋陷阱
+tagClass04SkillName11A=^g<^F夜刃^g>^b刀锋陷阱
 tagClass04SkillDescription11A=你对夜刃技艺的精通使你能将敌人诱入致命的幻影刀牢笼.
-tagClass04SkillName11B=^g<^F夜刃^g>^i毁灭刀锋
+tagClass04SkillName11B=^g<^F夜刃^g>^b毁灭刀锋
 tagClass04SkillDescription11B=幻影刀消耗被其困住的敌人的生命精华并转移到你身上.
 
 tagClass04SkillName10A=刀锋阵列
@@ -442,16 +442,16 @@ tagClass04SkillDescription10A=召唤一阵幻影刀刃包围你的敌人,撕裂�
 tagClass04SkillName10B=阿玛拉斯塔的双刃
 tagClass04SkillDescription10B=一项精湛的技艺,让刀阵能使敌人的武器背叛他们,让他们承受自己的战争工具所造成的痛苦.
 
-tagClass04SkillName13A=^g<^F夜刃^g>^i幻影甲
+tagClass04SkillName13A=^g<^F夜刃^g>^b幻影甲
 tagClass04SkillDescription13A=在你周围凝聚由思想和精神的集中力量所形成的超自然屏障.这层屏障抵御物理伤害并将魔法攻击的能量转为自身能量.
 
-tagClass04SkillName13B=^g<^F夜刃^g>^i解剖
+tagClass04SkillName13B=^g<^F夜刃^g>^b解剖
 tagClass04SkillDescription13B=这是受到一流刺客极度赞赏的学识,对解剖的广泛研究使你熟悉刀剑所经之处的所有人体易受创与致命部位.^o夜刃人类屠夫与高灵巧的象征.
-tagClass04SkillName13C=^g<^F夜刃^g>^i无情终章
+tagClass04SkillName13C=^g<^F夜刃^g>^b无情终章
 tagClass04SkillDescription13C=尽管惯例上被抛弃,有时毒药与元素力量的知识也能成为在战斗中占据上风的最有效的手段.
 
 
-tagClass04SkillName04X=^g<^F夜刃^g>^i毁灭刀锋
+tagClass04SkillName04X=^g<^F夜刃^g>^b毁灭刀锋
 tagClass04SkillDescription04X=掠夺附近敌人的生命力,你将吸收短暂生命力的一部分.
 tagClass04SkillName07X=潜入暗影-^F夜刃
 tagClass04SkillDescription07X=更深地潜入暗影会减弱敌人的身影,阻碍他们对物理攻击的防御.
@@ -461,22 +461,22 @@ tagClass04SkillName09A=生命掠夺-^F夜刃
 tagClass04SkillDescription09A=这种技艺直接夺取敌人的生命为夜刃所用,使夜刃变得更加强壮,甚至是在猎物死亡之后.
 tagClass04SkillName12A=元气汲取-^F夜刃
 tagClass04SkillDescription12A=吸取周围敌人的生气,以敌人流失的生命和能量来回复自己.
-tagClass04SkillName13D=^g<^F夜刃^g>^i无情终章
+tagClass04SkillName13D=^g<^F夜刃^g>^b无情终章
 tagClass04SkillDescription13D=有时,高效地使用毒药和抗凝血剂是一种终极武器.
 
-tagClass04SkillName14A=^g<^F夜刃^g>^i爆裂之刃
+tagClass04SkillName14A=^g<^F夜刃^g>^b爆裂之刃
 tagClass04SkillDescription14A=暗杀大师阿玛拉斯塔,在夜刃中以她的敏捷而成为传奇,她自创了一种能够在攻击点爆发刀阵并刺穿附近敌人的致命幻影刀锋技艺.
-tagClass04SkillName14B=^g<^F夜刃^g>^i致命突袭
+tagClass04SkillName14B=^g<^F夜刃^g>^b致命突袭
 tagClass04SkillDescription14B=阿玛拉斯塔专注于进攻,在发出一波刀阵后使用她的注魔武器继续对幸存的敌人发起快速且无情的攻击来结束他们的生命.^obuff效果,点数伤害增加到武器伤害.
 
-xtagClass04SkillName14A=^g<^F夜刃^g>^i致命策略
+xtagClass04SkillName14A=^g<^F夜刃^g>^b致命策略
 xtagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险的技艺.如果使用得当,致命策略会造成毁灭性的伤害.风险在于有时它会变成软弱无力的一击.^o需要一把近战武器或者双手远程武器.当使用一把近战武器时,将会击中附近的额外敌人.
-xtagClass04SkillName14B=^g<^F夜刃^g>^i爆裂之刃
+xtagClass04SkillName14B=^g<^F夜刃^g>^b爆裂之刃
 xtagClass04SkillDescription14B=熟练掌握致命策略之后,就能以攻击目标为原点爆射出大量致人死地的幻影刀锋,对附近的敌人造成伤害.
 
-xtagClass04SkillName15A=^g<^F夜刃^g>^i剔骨
+xtagClass04SkillName15A=^g<^F夜刃^g>^b剔骨
 xtagClass04SkillDescription15A=迅猛的切割使受害者长时间出血,同时削弱他们的移动力和攻击速度.^o需要一把剑或斧.
-xtagClass04SkillName15B=^g<^F夜刃^g>^i阿玛拉斯塔的策略
+xtagClass04SkillName15B=^g<^F夜刃^g>^b阿玛拉斯塔的策略
 xtagClass04SkillDescription15B=一项大师级的武技,能够更有效地切割内脏,如果完美地施放更能造成毁灭性的伤害.但同时它也有徒劳无功的危险.
 xtagClass04SkillName14C=分裂-^F夜刃
 xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round.As desperate measure,this method can also prove lethal at point-blank range.^o需要一把双手远程武器以施放额外的投射物. 
@@ -488,68 +488,68 @@ xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds i
 tagClass05SkillName00=奥术
 tagClass05SkillDescription00=磨炼躯体与意志,方能驾驭原始的魔法力量.
 
-tagClass05SkillName01A=^g<^F奥术^g>^i帕内蒂的复制飞弹
+tagClass05SkillName01A=^g<^F奥术^g>^b帕内蒂的复制飞弹
 tagClass05SkillDescription01A=最为杰出的科托锡安奥术师帕内蒂一直在致力于改进经典的奥术飞弹.他的成就似乎违反了能量守恒定律,经他改进的飞弹会在击中敌人时复制为多枚飞弹.^o适合攻击集群怪物.
-tagClass05SkillName01B=^g<^F奥术^g>^i失真
+tagClass05SkillName01B=^g<^F奥术^g>^b失真
 tagClass05SkillDescription01B=复制飞弹会扰动敌人的实体,使飞弹有时会穿过敌人.
-tagClass05SkillName01C=^g<^F奥术^g>^i超压
+tagClass05SkillName01C=^g<^F奥术^g>^b超压
 tagClass05SkillDescription01C=复制飞弹周围的空气因静电能量产生过载,电击任何靠近飞弹的敌人.
-tagClass05SkillName01D=^g<^F奥术^g>^i激射
+tagClass05SkillName01D=^g<^F奥术^g>^b激射
 tagClass05SkillDescription01D=由帕内蒂的一位学生完善的一项复制飞弹的高级技巧,利用施法目标本身的能量制造出纯净的奥术能量碎片.
 tagClass05SkillName01E=震荡飞弹
 tagClass05SkillDescription01E=在实体国度中展现复制飞弹的能量,同时造成物理和精神伤害.
 
-tagClass05SkillName02A=^g<^F奥术^g>^i伊斯坎德拉的元素转换
+tagClass05SkillName02A=^g<^F奥术^g>^b伊斯坎德拉的元素转换
 tagClass05SkillDescription02A=伊斯坎德拉教导她的学生说能用敌人自身的能量来对抗敌人是最有效的致胜之道.运用这种思想,元素转换会让盟友的武器饥渴地从敌人那里汲取奥术能量,然后转换成元素伤害.^o这项技能必须保持开启以持续生效.伤害转换只适用于施法者自身.
-tagClass05SkillName02B=^g<^F奥术^g>^i过载
+tagClass05SkillName02B=^g<^F奥术^g>^b过载
 tagClass05SkillDescription02B=向元素转换魔法中注入过量的奥术力量,元素的原力在你的武器上爆裂作响.
-tagClass05SkillName02C=^g<^F奥术^g>^i元素平衡
+tagClass05SkillName02C=^g<^F奥术^g>^b元素平衡
 tagClass05SkillDescription02C=元素转换魔法臻至一种绝妙的平衡之境,狂野的闪电元素与截然相反的冰火元素和谐共处.
 tagClass05SkillName02D=化身
 tagClass05SkillDescription02D=奥术能量有多种展现形式.钻研召唤术的奥术师们常常把他们对奥术的掌握转移到忠诚的追随者身上,这样就能更好地侍奉它们的主人.^o技能效果也会延伸至队友身上.
 
-tagClass05SkillName03A=^g<^F奥术^g>^i特洛赞的天之裂片
+tagClass05SkillName03A=^g<^F奥术^g>^b特洛赞的天之裂片
 tagClass05SkillDescription03A=神话中的特洛赞是位天性自由,桀骜不驯的人物,他不愿服从帝国奥术师们的教条.当帝国最终在他山顶上的居所包围他的时候,他使用了一种从未见过的法术撕裂天空,借以羞辱他们.^o在目标区域随机降下3块天之裂片；投射物会受到环境物体阻挡.
-tagClass05SkillName03B=^g<^F奥术^g>^i冰封之核
+tagClass05SkillName03B=^g<^F奥术^g>^b冰封之核
 tagClass05SkillDescription03B=天之裂片中的冰晶会在碰撞时被释放出来,附近的敌人都将遭受极寒之冻.
-tagClass05SkillName03C=^g<^F奥术^g>^i碎裂星体
+tagClass05SkillName03C=^g<^F奥术^g>^b碎裂星体
 tagClass05SkillDescription03C=天之裂片在降落时变得更加不稳定,仿佛受到力量驱动一般造成大量的冲击.
 
-tagClass05SkillName04A=^g<^F奥术^g>^i卡里多的风暴
+tagClass05SkillName04A=^g<^F奥术^g>^b卡里多的风暴
 tagClass05SkillDescription04A=卡里多大师在塞缪尔王的军中担任将军.当他被派往前线时,他将一种法术臻至完美：通过瞬间集中的原始虚化能量的爆发,点燃他周围的空气以制造出一场奥术风暴.
-tagClass05SkillName04B=^g<^F奥术^g>^i炼狱
+tagClass05SkillName04B=^g<^F奥术^g>^b炼狱
 tagClass05SkillDescription04B=奥术风暴变为烈焰地狱,灼烧血肉融化护甲.
 tagClass05SkillName04C=阿格维克斯的愤怒
 tagClass05SkillDescription04C=阿格维克斯因为将如此巨大的力量导入奥术风暴之中而闻名遐迩.任何敢于靠近风暴范围的蠢货都会因为爆炸而化为尘埃.不过,他的法术需要极高的专注力,必须休息之后才能再次施放.
 
-tagClass05SkillName05A=^g<^F奥术^g>^i麦文的守护领域
+tagClass05SkillName05A=^g<^F奥术^g>^b麦文的守护领域
 tagClass05SkillDescription05A=令人尊敬的奥术师麦文发明的一种罕见的防御法术.以极高的专注力,在施法者周围制造出一层法术护盾.^o这项技能必须保持开启以持续生效.奥术防护力量.
-tagClass05SkillName05B=^g<^F奥术^g>^i转化
+tagClass05SkillName05B=^g<^F奥术^g>^b转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
-tagClass05SkillName06A=^g<^F奥术^g>^i阿尔布雷特的虚化射线
+tagClass05SkillName06A=^g<^F奥术^g>^b阿尔布雷特的虚化射线
 tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器；基础射速3-5hz,能量消耗巨大.
-tagClass05SkillName06B=^g<^F奥术^g>^i崩解
+tagClass05SkillName06B=^g<^F奥术^g>^b崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=堕落之力
 tagClass05SkillDescription06C=与崩解相反,用狂暴的混沌之力腐化虚化射线.
  
-tagClass05SkillName07A=^g<^F奥术^g>^i净化
+tagClass05SkillName07A=^g<^F奥术^g>^b净化
 tagClass05SkillDescription07A=在目标区域集中大量负面能量,清除敌人所有的有益的光环和法术,同时清除友军的有害状态,包括持续性伤害效果.
 
-tagClass05SkillName08A=^g<^F奥术^g>^i毁灭
+tagClass05SkillName08A=^g<^F奥术^g>^b毁灭
 tagClass05SkillDescription08A=这种法术被称为奥术师的终极毁灭力量,它将在现实世界中撕裂出一道能倾泻出原始奥术能量余烬的裂隙.这项危险而又极为耗能的法术不该被轻易使用.^o需要副手法器.在法术的持续时间内,余波会持续降落.同一时间只能施放一次毁灭.
 
-tagClass05SkillName09A=^g<^F奥术^g>^i心灵专注
+tagClass05SkillName09A=^g<^F奥术^g>^b心灵专注
 tagClass05SkillDescription09A=以专注的身心作为奥术能量的洪炉,有志于成为奥术师的人都会首先学习这种冥想术.^o奥术不缺精神的原因.
 
-tagClass05SkillName10A=^g<^F奥术^g>^i奥术意志
+tagClass05SkillName10A=^g<^F奥术^g>^b奥术意志
 tagClass05SkillDescription10A=肾上腺素在险恶的境地是能扭转战局的法宝.奥术战士们学会了如何利用这一点.
 
-tagClass05SkillName11A=^g<^F奥术^g>^i心智迅捷
+tagClass05SkillName11A=^g<^F奥术^g>^b心智迅捷
 tagClass05SkillDescription11A=奥术大师们学会了如何快速且专注地引导魔法力量而不必担心精神力局限的方法.
 
-tagClass05SkillName12A=^g<^F奥术^g>^i撕裂现实
+tagClass05SkillName12A=^g<^F奥术^g>^b撕裂现实
 tagClass05SkillDescription12A=一旦揭示了现实空间的奥秘,那么虚化之力和虚空力量对你说便如同玩物一般.
 
 tagClass05SkillName13A=奥莱克希拉的屏障
@@ -559,12 +559,12 @@ tagClass05SkillDescription13B=寒冰屏障会减速周围的敌人.
 tagClass05SkillName13C=末日霜冻
 tagClass05SkillDescription13C=寒冰屏障坍塌时将引起冰暴.
 
-tagClass05SkillName14A=^g<^F奥术^g>^i艾瑞奥特之镜
+tagClass05SkillName14A=^g<^F奥术^g>^b艾瑞奥特之镜
 tagClass05SkillDescription14A=你周围的空气瞬间变得坚如磐石,吸收所有形式的伤害并返还给攻击者.艾瑞奥特大师偏爱此项技艺.^o奥术无敌技能.
 
-tagClass05SkillName15A=^g<^F奥术^g>^i狂野之力
+tagClass05SkillName15A=^g<^F奥术^g>^b狂野之力
 tagClass05SkillDescription15A=将你的身体化为虚化能量的载体,通过你的躯体展现出可怕的奥术能量,点燃空气并散发出能使现实扭曲的波纹.^o这项技能必须保持开启以持续生效.
-tagClass05SkillName15B=^g<^F奥术^g>^i星之契约
+tagClass05SkillName15B=^g<^F奥术^g>^b星之契约
 tagClass05SkillDescription15B=很多奥术师在追求无尽之力的道路上作出了极大牺牲.其中有些人无视并投入到其他人认为极具危险,甚至是超自然的力量能源之中.这些奥术师让其他人感到深深的恐惧.^o这项技能必须保持开启以持续生效.奥术减技能冷却时间的优势.
 
 
@@ -578,85 +578,85 @@ tagClass05SkillDescription16B=完全吸干周围空气中的热量,使所有接�
 tagClass06SkillName00=萨满
 tagClass06SkillDescription00=与自然的原始力量和谐共处.
 
-tagClass06SkillName01A=^g<^F萨满^g>^i野性
+tagClass06SkillName01A=^g<^F萨满^g>^b野性
 tagClass06SkillDescription01A=你体内的野兽之力在战斗中觉醒,提高你的攻击力并使你充满自然愤怒之力.当作为默认武器攻击时,野性提高你每一击的攻击强度.^o充能型平砍技能,会增强被动武器攻击效果.
-tagClass06SkillName01B=^g<^F萨满^g>^i雄猪之韧
+tagClass06SkillName01B=^g<^F萨满^g>^b雄猪之韧
 tagClass06SkillDescription01B=信奉雄猪之力,在接下来的战斗中化身为一个残暴且势不可挡的角色.
-tagClass06SkillName01C=^g<^F萨满^g>^i风暴之触
+tagClass06SkillName01C=^g<^F萨满^g>^b风暴之触
 tagClass06SkillDescription01C=向天际呼唤,为你的武器注入狂怒的雷霆之力.
 tagClass06SkillName01D=熊罴之力
 tagClass06SkillDescription01D=萨满们供奉熊罴之灵,当进入野蛮的战斗姿态时,他们更有效的使用残暴的双手武器.^o这项技艺需要一把双手近战武器或者远程武器.
 
-tagClass06SkillName02A=^g<^F萨满^g>^i原始打击
+tagClass06SkillName02A=^g<^F萨满^g>^b原始打击
 tagClass06SkillDescription02A=新手萨满接受的第一次仪式便是向他们最喜爱的武器中灌注雷电的力量.那些在这关键的一步中存活下来的学徒将成为继承莫格卓根意志的子孙并且守卫部落.^o需要一把双手近战武器或者双手远程武器.
-tagClass06SkillName02B=^g<^F萨满^g>^i风暴潮
+tagClass06SkillName02B=^g<^F萨满^g>^b风暴潮
 tagClass06SkillDescription02B=攻击的原始力量在目标体内汹涌释放,使他们的血管爆裂.
-tagClass06SkillName02C=^g<^F萨满^g>^i激流
+tagClass06SkillName02C=^g<^F萨满^g>^b激流
 tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中,震击目标并跳跃至更远的敌人身上.
 tagClass06SkillName02D=雷电打击
 tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们,当向敌人释放自然的愤怒时,他们向天空之神~尤尔托斯呼唤,允许他们更加频繁的召唤雷电.^o雷电打击不是一项默认武器攻击,不能触发类似狂野饥渴的特效.
 
-tagClass06SkillName03A=^g<^F萨满^g>^i温迪戈图腾
+tagClass06SkillName03A=^g<^F萨满^g>^b温迪戈图腾
 tagClass06SkillDescription03A=温迪戈图腾象征着萨满仪式中更黑暗的一面,崇尚自然的邪恶双重性：必须用一人的死亡来使另一个人得以喂食并存活.一旦被放置,图腾将会吸取附近敌人的生命,同时形成疗伤的光环治疗同伴.这种图腾被大部分部落设为禁忌.尽管如此,但原始的饥渴灵魂呼唤着它并使得很多萨满陷入了疯狂,让他们充满无厌的饥渴并因此不可避免的导致了自相残杀.^o温迪戈图腾受到人物伤害的加成.萨满回血技能,需要攻击敌人时才会触发回血效果.
-tagClass06SkillName03B=^g<^F萨满^g>^i血之契约
+tagClass06SkillName03B=^g<^F萨满^g>^b血之契约
 tagClass06SkillDescription03B=与栖居在图腾中的温迪戈之灵签订契约,只要你位于光环范围内,你对血的渴望将变得无穷无尽.
 tagClass06SkillName03C=生命源泉
 tagClass06SkillName03D=治疗伤痛
 
-tagClass06SkillName04A=^g<^F萨满^g>^i风之恶魔
+tagClass06SkillName04A=^g<^F萨满^g>^b风之恶魔
 tagClass06SkillDescription04A=在过去,萨满们经常在严重干旱时期呼唤降雨.这种仪式被一些聪明的风暴召唤者所掌控,并且召唤了一个漩涡般的风之恶魔,它会朝空中扔岩石以及残骸,重创敌人并用锋芒的元素之力蹂躏他们.^o风之恶魔会随着你的伤害而加强.
-tagClass06SkillName04B=^g<^F萨满^g>^i狂风暴雨
+tagClass06SkillName04B=^g<^F萨满^g>^b狂风暴雨
 tagClass06SkillDescription04B=漩涡气流随着狂暴的力量增强.冰冻之风会使敌人麻木,并使得他们承受更多的元素伤害.
-tagClass06SkillName04C=^g<^F萨满^g>^i风暴漩涡
+tagClass06SkillName04C=^g<^F萨满^g>^b风暴漩涡
 tagClass06SkillDescription04C=发动天空的终极愤怒,向风之恶魔逐渐注入静电能,使用电球攻击附近的敌人.
 tagClass06SkillName04_Pet=呼啸之风
 
-tagClass06SkillName05A=^g<^F萨满^g>^i莫格卓根的契约
+tagClass06SkillName05A=^g<^F萨满^g>^b莫格卓根的契约
 tagClass06SkillDescription05A=向野兽之神呼唤,为自己以及附近的同伴们施加自然的祝福.^o这项技能必须保持开启以持续生效.
-tagClass06SkillName05B=^g<^F萨满^g>^i橡树皮
+tagClass06SkillName05B=^g<^F萨满^g>^b橡树皮
 tagClass06SkillDescription05B=形成远古之树的表皮,比人类文明存在更久远的永恒泰坦之神,向那些在莫格卓根祝福下的人们施加额外的保护.
-tagClass06SkillName05C=^g<^F萨满^g>^i野性之心
+tagClass06SkillName05C=^g<^F萨满^g>^b野性之心
 tagClass06SkillDescription05C=自然的野性灵魂流淌在你的静脉中,快速的愈合创伤并清除毒素.^o萨满血量的来源.
 
 tagClass06SkillName05D=岩石之心
 tagClass06SkillDescription05D=拥抱你所站立的大地,你不再于战斗中恢复生命,但你的皮肤会变得像岩石般坚硬.^o这个效果会延伸到你的同伴身上.
-tagClass06SkillName06A=^g<^F萨满^g>^i召唤荆棘兽
+tagClass06SkillName06A=^g<^F萨满^g>^b召唤荆棘兽
 tagClass06SkillDescription06A=荆棘兽是一种顽强的野兽,来自于刺木以及野性魔法.精练的萨满可以召唤这些生物来帮助战斗.^o同一时间只能召唤一只荆棘兽.荆棘兽会受到战宠加成的影响.
 tagClass06SkillName06B=岩石皮肤
 tagClass06SkillDescription06B=荆棘兽的血肉变得更加坚硬并且脊刺更厚,使其成为战场上不可忽视的恐怖存在.
-tagClass06SkillName06C=^g<^F萨满^g>^i大地猛击
+tagClass06SkillName06C=^g<^F萨满^g>^b大地猛击
 tagClass06SkillDescription06C=荆棘兽用带刺的利爪猛击大地,迸出一串尖刺来刺穿附近的敌人.
-tagClass06SkillName06D=^g<^F萨满^g>^i激励风采
+tagClass06SkillName06D=^g<^F萨满^g>^b激励风采
 tagClass06SkillDescription06D=荆棘兽在战场中保持着威风凛凛的姿态，激励着它的战友更加猛烈地攻击敌人。 
 tagClass06SkillName06E=荆棘之爪
 tagClass06SkillDescription06E=基础攻击.
 
-tagClass06SkillName07A=^g<^F萨满^g>^i狂野饥渴
+tagClass06SkillName07A=^g<^F萨满^g>^b狂野饥渴
 tagClass06SkillDescription07A=展露你最原始的一面,撕裂你的敌人并在溅出的鲜血中贪婪享乐.^o需要一把近战双手或远程双手武器.当使用近战武器时，攻击附近多个目标。这项技能会由默认武器攻击触发.
 
-tagClass06SkillName08A=^g<^F萨满^g>^i风暴召唤者的契约
+tagClass06SkillName08A=^g<^F萨满^g>^b风暴召唤者的契约
 tagClass06SkillDescription08A=与尤尔托斯~天空之神合为一体,将你的凡人躯体转变成为极具破坏力的闪电风暴的形态.^o这项技能必须保持开启以持续生效.暴击伤害的象征.
 
-tagClass06SkillName09A=^g<^F萨满^g>^i召唤原始之灵
+tagClass06SkillName09A=^g<^F萨满^g>^b召唤原始之灵
 tagClass06SkillDescription09A=传说中有一名强大的掠食者,莫格卓根的衷心仆从,他无情地猎杀任何未受邀请而踏足野兽之神领地的人.作为莫格卓根的最喜爱的追随者,你可以召唤这个原始之灵来协助战斗.^o原始之灵会受到战宠加成影响.顶级召唤物.
 tagClass06SkillName09B_Pet=毒尾打击
 tagClass06SkillDescription09B_Pet=用带毒的尾巴攻击目标.
 tagClass06SkillName009C=爪牙攻击
 tagClass06SkillDescription09C=基础攻击.
 
-tagClass06SkillName10A=^g<^F萨满^g>^i蛮力
+tagClass06SkillName10A=^g<^F萨满^g>^b蛮力
 tagClass06SkillDescription10A=对很多萨满来说,一把双手近战武器是他们和风暴之力间的引导之物.和那些偏爱花时间去阅读文献的人相比,他们认为脆弱的法杖只是玩具而已,这些实践者更喜爱一种和荒蛮联系更紧密的兽性的近战作战方式.^o需要一把近战双手武器或远程双手武器. 
 tagClass06SkillName11A=萨满神教
 tagClass06SkillDescription11A=在荒蛮中对野性的严苛训练将你的身体和意志磨练成一把野蛮的武器.
 tagClass06SkillName12A=自然之怒
 tagClass06SkillDescription12A=成为一个拥有原始自然之力的人,用牙齿、爪子以及闪电撕碎你的敌人.
-tagClass06SkillName13A=^g<^F萨满^g>^i原始羁绊
+tagClass06SkillName13A=^g<^F萨满^g>^b原始羁绊
 tagClass06SkillDescription13A=展现你野性的一面来和莫格卓根订立契约.来自野兽之神领域的生物会更积极地响应你的召唤.^o这项技能必须保持开启以持续生效.
 
-tagClass06SkillName14A=^g<^F萨满^g>^i震荡大地
+tagClass06SkillName14A=^g<^F萨满^g>^b震荡大地
 tagClass06SkillDescription14A=用大地之力进行攻击.当你用基础武器打出暴击时,地面都会由击打之力产生震动,在接触点周围发出冲击波.^o需要一把双手近战武器或者双手远程武器.这项技能会由默认武器攻击触发.暴击时100%几率发动
 
-tagClass06SkillName15A=^g<^F萨满^g>^i吞噬虫群
+tagClass06SkillName15A=^g<^F萨满^g>^b吞噬虫群
 tagClass06SkillDescription15A=在荒蛮野地中,人们必须付出任何代价以保证能够生存下去.一些萨满巫师们将此技艺牢记于心,召唤出了一种贪婪的虫群,它们饥渴地撕裂所接触到的任何东西,造成创伤并且暴露其弱点.^o攻击为debuff属性.
 tagClass06SkillName15B=致残虫群
 tagClass06SkillDescription15B=虫群攻击最易受伤的区域,撕扯眼部、关节和韧带,重创并削弱你的敌人.
@@ -665,15 +665,15 @@ tagClass06SkillDescription15C=虫群变得贪婪,寻找到新的弱点以造成�
 tagClass06SkillName15D=吸血虫群
 tagClass06SkillDescription15D=虫群会造成伤害并转换成珍贵的生命之源给你.
 
-tagClass06SkillName16A=^g<^F萨满^g>^i风暴图腾
+tagClass06SkillName16A=^g<^F萨满^g>^b风暴图腾
 tagClass06SkillDescription16A=与风暴之力沟通是风暴召唤者们的神圣仪式之一.通过足够的练习,萨满可以向一个温迪戈图腾注入闪电的破坏之力,使得它能快速的发出闪电攻击附近的敌人.^o风暴图腾受到人物的伤害加成影响.
 tagClass06SkillName16B=腐化风暴
 tagClass06SkillDescription16B=痴迷于温迪戈力量的扭曲萨满们可以腐化风暴图腾来释放使敌人活力衰竭的闪电.
 tagClass06SkillName16_Pet=风暴打击
 
-tagClass06SkillName17A=^g<^F萨满^g>^i紧缚藤蔓
+tagClass06SkillName17A=^g<^F萨满^g>^b紧缚藤蔓
 tagClass06SkillDescription17A=源于你的突发奇想,从你敌人脚下的土壤中生长出带刺的蔓藤来束缚他们的行动.^o萨满控制技能.
-tagClass06SkillName17B=^g<^F萨满^g>^i缠卷藤蔓
+tagClass06SkillName17B=^g<^F萨满^g>^b缠卷藤蔓
 tagClass06SkillDescription17B=蔓藤致命地生长,使无助的敌人被荆棘紧紧缠绕.
 
 xtagClass06SkillName13A=莫格卓根之怒
@@ -2718,7 +2718,7 @@ tagDevotionEffectA18Desc=一波激流水浪朝着前方的敌人席卷而去.
 tagDevotionEffectA19=虚化烈焰
 tagDevotionEffectA19Desc=一阵小型的虚化之火喷向你目标的足部.^o小型地板aoe.
 tagDevotionEffectA20=烈焰洪流
-tagDevotionEffectA20Desc=邪恶的火焰环绕周身,将触碰到的敌人烧成灰烬.^o环形投射物.
+tagDevotionEffectA20Desc=邪恶的火焰环绕周身,将触碰到的敌人烧成灰烬.^o环形投射物.每个所绑定触发源最多存在2组。
 tagDevotionEffectA21=蛮牛冲撞
 tagDevotionEffectA21Desc=像一头冲锋的蛮牛一般用身躯急速地冲击附近的敌人.^o触发比较频繁的小aoe技能.
 tagDevotionEffectA25=食尸鬼饥渴

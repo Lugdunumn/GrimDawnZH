@@ -151,6 +151,7 @@ tagGDX1HeroAscended_H04=乌兰纳·艾弗利斯 ~ 冰冻
 #CreatureLivingPlant
 tagGDX1EnemyLivingPlant_A00=恶毒树藤
 tagGDX1EnemyLivingPlant_A01=食肉植物
+tagGDX1EnemyLivingPlant_A02=烧焦植物
 tagGDX1EnemyLivingPlant_B00=有毒的花
 tagGDX1EnemyLivingPlant_B01=贪婪植株
 
@@ -279,6 +280,8 @@ tagGDX1EnemyManticoreChthonicA01=虚空腐化的蝎尾狮
 tagGDX1EnemyManticoreChthonicB01=虚空腐化的废土漫步者
 tagGDX1EnemyManticoreChthonicC01=虚空腐化的蝎尾狮头领
 
+tagGDX1EnemyManticoreD01=蝎尾狮 死亡追猎者
+
 tagGDX1EnemySwampCrabAetherA01=血肉扭曲的螃蟹
 tagGDX1EnemySwampCrabAetherB01=血肉扭曲的尖刺之壳
 tagGDX1EnemySwampCrabAetherC01=血肉扭曲的岩石之壳
@@ -303,6 +306,7 @@ tagGDX1EnemyTrapA02=巫登沼泽蘑菇
 tagGDX1PetArcaneSeal=奥术秘印
 tagGDX1PetConcussiveRune=震荡神符
 tagGDX1PetIceRune=寒潮神符
+tagGDX1PetManticore02=死亡追猎者
 
 tagGDX1PetBlightBeast=疫病野兽
 tagGDX1PetBlightBeastB=不稳定畸变
@@ -328,6 +332,7 @@ tagGDX1ItemPetFireDevil_Skill=火焰生命体
 
 tagGDX1EnemySummon_ObsidianBeacon=黑曜石塔
 tagGDX1EnemySummon_AetherialSpirit=虚灵灵魂
+tagGDX1EnemySummon_BurningBlood=燃烧之血
 
 
 #Boss&Quest
@@ -391,7 +396,7 @@ tagGDX1MiniBoss_Wendigo02=奥利维斯
 tagGDX1MiniBoss_Wendigo03=尤沃劳斯
 tagGDX1MiniBoss_Wendigo04=转变者 帕克拉
 
-tagGDX1Boss_Roguelike01=虚灵凝视 斯拉斯萨尔
+tagGDX1Boss_Roguelike01=虚灵凝视 斯拉萨尔
 tagGDX1Boss_Roguelike02=受折磨的拉加若斯
 tagGDX1Boss_Roguelike03=野性之心 加尔加伯
 tagGDX1Boss_Roguelike04=古尔盖佐

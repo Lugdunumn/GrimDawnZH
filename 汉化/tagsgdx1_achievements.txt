@@ -124,8 +124,8 @@ achGDX1039Desc=收集70条学识记录。
 achGDX1040Title=不朽的马尔茅斯救世主
 achGDX1040Desc=专家模式终极难度完成马尔茅斯的灰烬。
 
-achGDX1041Title=鲜血试练
-achGDX1041Desc=在远古树林的鲜血试练中活下来。
+achGDX1041Title=腐化试练
+achGDX1041Desc=在远古树林的腐化试练中活下来。
 
 achGDX1042Title=野性驯化
 achGDX1042Desc=在远古树林击杀加尔加伯·野性之心。

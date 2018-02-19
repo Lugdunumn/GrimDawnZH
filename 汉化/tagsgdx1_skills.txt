@@ -528,7 +528,7 @@ tagGDX1CompSkillA108Name=风暴烈焰
 tagGDX1CompSkillA108Desc=释放一道带电的烈焰冲击肆虐战场。
 
 tagGDX1CompSkillA109Name=尖刺利刃
-tagGDX1CompSkillA109Desc=向外投掷涂有腐蚀性酸液的螺旋利刃，穿透沿途的所有敌人。
+tagGDX1CompSkillA109Desc=向外投掷涂有腐蚀性酸液的螺旋利刃，在回到你手中之前穿透沿途的所有敌人。
 
 tagGDX1CompSkillA110Name=奥术共鸣
 tagGDX1CompSkillA110Desc=精通于奥术保护你免受虚弱影响。
@@ -608,6 +608,11 @@ tagGDX1RelicSkillD112Desc=这个古代圣物爆发出的毁灭性火焰，不会
 tagGDX1RelicSkillD113Name=莫格卓根的热情
 tagGDX1RelicSkillD113Desc=野兽之神的祝福围绕着你和你的仆从，保护你免受伤害。^o这项技能必须保持开启以持续生效。
 
+
+tagGDX1RelicSkillD114Name=召唤死亡追猎者
+tagGDX1RelicSkillD114Desc=召唤出死亡追猎者，它便是象征着莫格卓根怒火的可怕化身。它能够粉碎附近敌人对物理，毒素和流血效果的抗性。^o同一时间只能召唤一头死亡追猎者。死亡追猎者受到玩家的伤害加成影响。
+tagGDX1RelicSkillD114_Skill=黑暗光环
+tagGDX1RelicSkillD114_Desc=一头来自黑暗的生物追捕着你的敌人，粉碎他们的物理，毒素和流血抗性。
 
 #ConsumableSkills
 tagGDX1ConsumableSkill_B101=巫登汁液
@@ -753,6 +758,8 @@ tagGDX1EnemySkillA10_Desc=膨胀的瘴气威胁你的生命，降低最大生命
 tagGDX1EnemySkillA11=压制光环
 tagGDX1EnemySkillA11_Desc=虚空压迫者的出现将你淹没在黑暗中，降低最大生命值并减缓你的行动。
 
+tagGDX1EnemySkillA12=黑暗光环
+tagGDX1EnemySkillA12_Desc=一头来自暗黑的在猎杀着你，它撕裂着你的抗性。
 
 tagGDX1EnemySkillB01=时间停止光环
 tagGDX1EnemySkillB01_Desc=时间扭曲体的出现，减缓你的行动。
@@ -808,3 +815,6 @@ tagGDX1EnemySkillD15_Desc=此处虚化之力强横，你将受到伤害并被削
 tagGDX1EnemySkillD16=恐惧降临
 tagGDX1EnemySkillD16_Desc=一头强大的猛兽在附近游荡，你的心中充满恐惧，并且周围的生物受到了该猛兽的鼓舞。
 
+
+tagGDX1EnemySkillD17=燃烧之血
+tagGDX1EnemySkillD17_Desc=加尔加伯的燃烧之血灼烧着你的抗性。

@@ -75,7 +75,7 @@ tagGDX1WeaponGun1hC101B=反对者
 tagGDX1WeaponGun1hC102=阿尔杜的审判
 tagGDX1WeaponGun1hC102_Desc="审判官阿尔杜的手枪，他是杀死加尔巴图尔和异教徒的著名猎人."
 tagGDX1WeaponGun1hC103=加尔加伯之核
-tagGDX1WeaponGun1hC103_Desc="加尔加伯的污染核心燃烧得比任何火焰都要炽热."
+tagGDX1WeaponGun1hC103_Desc="昔日强大守护者的火焰仍在其心脏中闪耀着一丝火光."
 tagGDX1WeaponGun1hC108=尤尔托斯的风暴发射器
 tagGDX1WeaponGun1hC110=光明会手枪
 
@@ -190,7 +190,7 @@ tagGDX1WeaponCaster1hC116=马尔茅斯权杖
 tagGDX1WeaponCaster1hC116_Desc="瓦伯利港城市沦陷的景象充满你的脑海."
 
 tagGDX1WeaponCaster1hD101=恐惧之火
-tagGDX1WeaponCaster1hD102=穿谷之刺
+tagGDX1WeaponCaster1hD102=位面之刺
 tagGDX1WeaponCaster1hD102_Desc="刀刃轻松地撕裂现实，犹如投簧之匙."
 tagGDX1WeaponCaster1hD103=恐怖编织者
 tagGDX1WeaponCaster1hD104=冷焰召唤师
@@ -779,6 +779,8 @@ tagGDX1MedalB106=温迪戈凝视
 tagGDX1MedalB106_Desc="充血眼球的凝视会迷惑弱小的生物."
 tagGDX1MedalB107=灵巧徽章
 tagGDX1MedalB108=守望者徽章
+tagGDX1MedalB109=斯拉萨尔的盾徽
+tagGDX1MedalB109_Desc="利齿充满着被虚化力量扭曲的毒液。"
 
 tagGDX1MedalC101=神圣标记
 tagGDX1MedalC102=罪恶标记
@@ -840,6 +842,7 @@ tagGDX1Blueprint_RelicD110=设计图：圣物-屠戮
 tagGDX1Blueprint_RelicD111=设计图：圣物-尤若布鲁克的收割
 tagGDX1Blueprint_RelicD112=设计图：圣物-伊格纳法的燃烧
 tagGDX1Blueprint_RelicD113=设计图：圣物-莫格卓根的热忱
+tagGDX1Blueprint_RelicD114=设计图：圣物-死亡追猎者
 
 
 tagGDX1Blueprint_ComponentA101=设计图：力量之印
@@ -1134,6 +1137,8 @@ tagGDX1RelicD112=伊格纳法的燃烧
 tagGDX1RelicD112Desc="古代墓葬中的伊格纳法之石不是唯一被光明会净化修复的神器."
 tagGDX1RelicD113=莫格卓根的热忱
 tagGDX1RelicD113Desc="孤狼之死，群狼而生."
+tagGDX1RelicD114=死亡追猎者
+tagGDX1RelicD114Desc="恶灵寻求着解脱"
 
 
 #Crafting

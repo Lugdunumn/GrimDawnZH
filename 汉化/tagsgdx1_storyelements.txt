@@ -87,8 +87,8 @@ tagGDX1UGMalmouthFort01=高级理事会会议厅
 tagGDX1UGAncientGrove01=远古树林
 tagGDX1UGAncientGrove01A=野生丛林
 tagGDX1UGAncientGrove01B=污染林地
-tagGDX1UGAncientGrove01C=森林之心
-tagGDX1UGAncientGrove01D=鲜血试练
+tagGDX1UGAncientGrove01C=林地腹心
+tagGDX1UGAncientGrove01D=腐化试练
 
 tagGDX1UGSecret01=神选圣殿
 tagGDX1UGSecret02=死亡试炼
@@ -148,8 +148,6 @@ tagGDX1POI_BeastRoguelike02A=野生丛林入口
 tagGDX1POI_BeastRoguelike02B=野生丛林出口
 tagGDX1POI_BeastRoguelike03A=污染林地入口
 tagGDX1POI_BeastRoguelike03B=污染林地出口
-tagGDX1POI_BeastRoguelike04A=森林之心入口
-tagGDX1POI_BeastRoguelike04B=森林之心出口
 tagGDX1POI_VoidExit=虚空出口
 
 tagGDX1POI_CandleDistrictEntrance=烛光街道
@@ -199,7 +197,7 @@ tagNotification_AreaF_DocksEventFinished=在黑铁码头的虚灵已经被铲除
 
 tagNotification_WarningAncientGroveGates=通往远古树林的路已经被打开。赶快，通道不会保持太久...
 tagNotification_WarningAncientGroveGatesLocked=远古树林的入口被封印了，而且不会在此次游戏中再次打开.
-tagNotification_WarningAncientGroveChallenge=鲜血试炼结束了!
+tagNotification_WarningAncientGroveChallenge=腐化已经消失了。
 
 tagNotification_WarningAreaFSecret01=一个小小的萨蒂娜纪念品在杀戮后出现...
 
@@ -335,7 +333,7 @@ tagGDX1QuestItemDravisClue_01=德拉维斯的信
 tagGDX1QuestItemDravisClue_01_Desc=亲爱的妹妹,{^n}我又发现自己几乎说不出话来。为什么要背叛你的血亲？为什么要背弃你的哥哥，在我如此接近真相之时？{^n}{^n}不过这没有关系，不管你在不在，我都会终结我们父亲的最后一口气。如果你正在读这封信，那就太迟了，因为我再一次冒险踏上死人都不敢去的地方，活人之血与主人结合的地方。加入我的时机已经错过了，黛拉。回去吧，因为我去的地方，你不能跟来...{^n}德拉维斯
 
 tagGDX1QuestItemDravisClue_02=德拉维斯的献礼
-tagGDX1QuestItemDravisClue_02_Desc="有一张附在花上的便条：一朵带刺的花送给一个带刺的女人. -D"
+tagGDX1QuestItemDravisClue_02_Desc="有一张附在花上的便条：一朵带刺的花送给一位带刺的女人. -D"
 
 tagGDX1QuestItemMadRamblings_01=伊旺达的记忆
 tagGDX1QuestItemMadRamblings_01_Desc="日记里大部分都是疯狂的胡言乱语，但有些还是挺有趣的，如果你能弄懂它们的话."
@@ -400,6 +398,9 @@ tagGDX1LoreObj_AreaE_NoteA06Text=我们自以为聪明，掌握了这种魔法�
 tagGDX1LoreObj_AreaE_NoteA07Name=纳内的藏匿物
 tagGDX1LoreObj_AreaE_NoteA07Text=我不知道他在干什么，但在上周有两次我见到纳内驾着满载的马车驶向北方途径旧磨坊。然后两次都空车返回。他一定在那里藏了什么，我想找出来。如果他发了什么大财， 那我肯定要跟着捞上一笔。
 
+#AncientGrove 
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=莫格卓根的沉思
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=最近的事件让我心忧。{^n}{^n}一名叫做凯蒙伊露兰审判官的凡人偶然发现了一些东西，一些……古老已被遗忘的事物。就像其他鲁莽的凡人一样，他并没有丢下那该被遗忘的东西。科凡高原的地下深处正在进行着一场巨变。凯恩世界的野兽们焦躁不安，它们也感觉到了。{^n}{^n}更具神秘色彩的是，那些平日反复无常的伪神却不寻常地保持着沉默。我怀疑他们已经退入了他们的私人位面之中。在这个时间点，他们这么做绝非出于偶然。巫神们感到恐惧。他们一定关注着吸食凯蒙和其信众灵魂的那股力量。凡人们热情地顶礼膜拜滋养着它，予其力量使其成型。{^n}{^n}人类传言伟大的至高神即将回归，但我知道这只不过是可怜无助者们的一厢情愿罢了。这股被遗忘的力量令我百思不得其解，但这力量却让我感到那么的……熟悉。{^n}{^n}可以肯定的是我们即将大难临头。我已从大地和风中感觉到了，那股数千年都未再现身的力量渴望着鲜血与复仇。{^n}{^n}我必须召集我的罗瓦里们，考验他们信念的时候就要到了。
 
 #AreaF Notes
 #CultOfChthon_01
@@ -604,6 +605,6 @@ tagGDX1DevotionShrineE02=巫登沼泽
 
 tagGDX1DevotionShrineF01=马尔茅斯
 tagGDX1DevotionShrineF02=皇冠高地
-tagGDX1DevotionShrineF03=丛林
+tagGDX1DevotionShrineF03=远古树林
 
 tagGDX1DevotionShrineS03=???

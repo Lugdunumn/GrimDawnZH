@@ -1,4 +1,4 @@
-﻿tagSkillClassName07=审判官
+tagSkillClassName07=审判官
 tagSkillClassName08=死灵法师
 
 tagSkillClassName0107=战术家^T（士兵+审判）
@@ -140,7 +140,7 @@ tagGDX1Class08SkillName02A_PetSkill05=不死飞弹
 tagGDX1Class08SkillName02A_PetSkill06=死亡之箭
 tagGDX1Class08SkillName02B=^g<^F死灵^g>^b不死军团
 tagGDX1Class08SkillDescription02B=精通复活仪式减少了施法者的精神压力，使你能够保持更多的仆从。
-tagGDX1Class08SkillName02C=^g<^^F死灵^g>^b墓穴意志
+tagGDX1Class08SkillName02C=^g<^F死灵^g>^b墓穴意志
 tagGDX1Class08SkillDescription02C=给你的骷髅仆从注入死灵能量，强化他们的身体抵御物理打击。
 tagGDX1Class08SkillName02D=^g<^F死灵^g>^b尸骨利用
 tagGDX1Class08SkillDescription02D=一个熟练的死灵法师离不开资源利用。杀死的每个敌人都有机会复生成为仆从。^o玩家杀死敌人有几率激活。
@@ -194,7 +194,7 @@ tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之�
 tagGDX1Class08SkillName09A_PetSkill=幽灵之触
 tagGDX1Class08SkillName09A_PetSkill02=活力新星
 
-tagGDX1Class08SkillName10A=^g<^F 死灵^g>^b灵魂先驱
+tagGDX1Class08SkillName10A=^g<^F死灵^g>^b灵魂先驱
 tagGDX1Class08SkillDescription10A=掌握了死亡，你就成为了最终命运的先驱，敌人的生命精华将成为你随意操纵的玩物。
 
 tagGDX1Class08SkillName11A=^g<^F死灵^g>^b死亡主宰

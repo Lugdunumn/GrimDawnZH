@@ -1,4 +1,4 @@
-﻿tagSkillClassName01=士兵
+tagSkillClassName01=士兵
 tagSkillClassName02=爆破者
 tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
@@ -211,7 +211,7 @@ tagClass02SkillName05A=^g<^F爆破^g>^b迫击抛射炮
 tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮,直至耗尽.^o迫击炮会受到玩家伤害加成的影响.投射物会受到环境物体阻挡,投射物飞行速度较慢.
 tagClass02SkillName05B=^g<^F爆破^g>^b重型武器
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害.^o同时影响基本的迫击炮技能和巨型炸弹.
-tagClass02SkillName05C=^g<^F爆破^g>^i巨型炸弹
+tagClass02SkillName05C=^g<^F爆破^g>^b巨型炸弹
 tagClass02SkillDescription05C=向迫击抛射器装载代号为“大家伙”的毁灭性炸弹,将向迫击抛射炮弹幕的初始方向发射.即便你的敌人存活下来,由此产生的巨大的爆炸也将给他们造成极度的恐慌.
 tagClass02SkillName05D=火力迫击炮
 tagClass02SkillDescription05D=向敌人发射爆炸的迫击炮弹.
@@ -568,9 +568,9 @@ tagClass05SkillName15B=^g<^F奥术^g>^b星之契约
 tagClass05SkillDescription15B=很多奥术师在追求无尽之力的道路上作出了极大牺牲.其中有些人无视并投入到其他人认为极具危险,甚至是超自然的力量能源之中.这些奥术师让其他人感到深深的恐惧.^o这项技能必须保持开启以持续生效.奥术减技能冷却时间的优势.
 
 
-tagClass05SkillName16A=^g<^F奥术^g>^i奥莱克希拉的急速冻结
+tagClass05SkillName16A=^g<^F奥术^g>^b奥莱克希拉的急速冻结
 tagClass05SkillDescription16A=一位政治斗争的受害者,奥莱克希拉被判处进入黑色军团中服役.于是她之前研究奥术的学院生涯变成了在战场上艰难的求生.奥莱克希拉很快把她的学识付诸实际,创造出了一种能将一定范围内的敌人急速冻结的法术.^o这项技能将在持续时间内冻结敌人,具有冻结抵抗属性的敌人将会减少冻结的持续时间；debuff效果只有成功冻住敌人才会生效.
-tagClass05SkillName16B=^g<^F奥术^g>^i绝对零度
+tagClass05SkillName16B=^g<^F奥术^g>^b绝对零度
 tagClass05SkillDescription16B=完全吸干周围空气中的热量,使所有接触到的敌人减速和衰弱,即使最初的冻结效果已经消失.^o奥莱克希拉的急速冻结成功冻结敌人后才会生效.
 
 

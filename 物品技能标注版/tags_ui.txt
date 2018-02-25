@@ -1,4 +1,4 @@
-﻿#General
+#General
 
 tagGameDifficultySetting01=普通难度
 tagGameDifficultySetting02=精英难度

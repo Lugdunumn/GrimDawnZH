@@ -704,8 +704,8 @@ tagGDX1NecklaceA104=保护者吊坠
 
 tagGDX1NecklaceB100=萨蒂娜的纪念品
 tagGDX1NecklaceB100_Desc="一条可以抵御邪恶的吊坠.刻有铭文："将恶兆封入魔网."- 杰伊·派金斯"
-tagGDX1NecklaceB101=Gulgazor's Heart
-tagGDX1NecklaceB102=Vilgazor's Heart
+tagGDX1NecklaceB101=古尔盖佐之心
+tagGDX1NecklaceB102=维尔盖佐之心
 
 tagGDX1NecklaceC101=死亡低语者
 tagGDX1NecklaceC102=分割之石

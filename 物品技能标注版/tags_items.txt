@@ -1,4 +1,4 @@
-﻿#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
 tagItemNameAndStack={%s0} ({%d1})
@@ -1073,7 +1073,7 @@ tagShoulderB022=^l赞塔兰的斗篷
 tagShoulderB023=^l赞塔兰的护肩
 tagShoulderB024=^l费比乌斯护肩
 tagShoulderB025=^l费比乌斯的肩铠
-tagShoulderB026=罗格霍瑞恩的腐化
+tagShoulderB026=^l罗格霍瑞恩的腐化
 tagShoulderB026_Desc="伴随着虚空的腐化力量，这件装备仍在扭动着。"
 
 tagShoulderC001=剃刀背的尖刺披肩

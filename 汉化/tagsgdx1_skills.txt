@@ -25,6 +25,18 @@ tagSkillClassDescription08=虽然大多数现代死灵法师来自死亡守夜�
 
 tagGDX1Class02SkillTracker02A=已放置迫击炮数
 
+
+#Class04
+
+tagGDX1Class04SkillTracker01A=已召唤刀灵数
+
+
+#Class06
+
+tagGDX1Class06SkillTracker01A=已召唤风魔数
+tagGDX1Class06SkillTracker02A=已放置风暴图腾数
+
+
 #Class07
 
 tagGDX1Class07SkillName00A=审判官
@@ -495,8 +507,18 @@ tagGDX1ItemSkillD177Desc=在敌人脚下爆发出纯粹的奥术烈焰。
 tagGDX1ItemSkillD178Name=虚空齐射
 tagGDX1ItemSkillD178Desc=灌注的虚空能量的一次齐射可以穿过你的敌人并将他们消灭。^o这是一项远程武器技能。同时开启双持远程武器的能力。
 
-tagGDX1ItemSkillD179Name=
-tagGDX1ItemSkillD179Desc=
+tagGDX1ItemSkillD179Name=饮魔者
+tagGDX1ItemSkillD179Desc=加强你的武器与奥术能量之间的共鸣，吸收部分敌人的法术并将其中一部分返还给施法者。^o此技能必须开启才能持续生效。
+
+tagGDX1ItemSkillD180Name=召唤血浴奴仆
+tagGDX1ItemSkillD180Desc=在坟墓的折磨降临在血浴奴仆们的身上之前，召唤出他们向敌人施放活力吸取法术。^o血浴奴仆受到玩家伤害加成影响。
+tagGDX1ItemSkillD180SkillTracker=已召唤血浴奴仆数 
+
+tagGDX1ItemSkillD181Name=纳扎染之魂
+tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将敌人遭受的痛苦转化为生命力传导给你。^o同一时间只能召唤一个纳扎染的灵魂。领主纳扎染的伤害受到玩家的伤害加成。
+
+tagGDX1ItemSkillD182Name=寒舌标记
+tagGDX1ItemSkillD182Desc=寒舌的标记以在政治精英中间散播冲突和混乱而闻名。将它对敌人施放时，敌人会充满不安，感到受困。
 
 tagGDX1w=GrimDawn/images/evil
 

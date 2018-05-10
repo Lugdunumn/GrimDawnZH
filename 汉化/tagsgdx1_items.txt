@@ -86,7 +86,7 @@ tagGDX1WeaponGun1hD102_Desc="审判官安德鲁斯专门设计的手枪，能够
 tagGDX1WeaponGun1hD103=奥秘之电
 tagGDX1WeaponGun1hD103_Desc="严格按照白银之塔的大法师--阿格维克斯大师的标准打造而成的武器."
 tagGDX1WeaponGun1hD107=余烬之核
-tagGDX1WeaponGun1hD108=神盾左轮手枪
+tagGDX1WeaponGun1hD108=要塞左轮手枪
 tagGDX1WeaponGun1hD109=黑火焚枪
 tagGDX1WeaponGun1hD110=达加隆的破坏者
 tagGDX1WeaponGun1hD110_Desc="枪管内部的符文以超自然的力量将子弹发射出去."
@@ -241,7 +241,7 @@ tagGDX1ShieldD103=特瑞恩的报复
 tagGDX1ShieldD107=灰骑士
 tagGDX1ShieldD107_Desc="曼海尔的无名防御者壁垒，他独自一人对抗成群的异教徒并最终成为胜利者."
 tagGDX1ShieldD108=奥克塔维尔斯的壁垒
-tagGDX1ShieldD109=神盾防御者
+tagGDX1ShieldD109=要塞防御者
 tagGDX1ShieldD110=法术天灾壁垒
 tagGDX1ShieldD110_Desc="这盾牌能引导毁灭的力量."
 
@@ -373,6 +373,9 @@ tagGDX1HeadD123=死亡守卫面罩
 tagGDX1HeadD124=预言者的面具
 tagGDX1HeadD125=黑暗之王的面罩
 tagGDX1HeadD126=贝尔戈斯安的面具
+tagGDX1HeadD127=拉达干之面
+tagGDX1HeadD128=寒舌面具
+tagGDX1HeadD129=血骑士之面
 
 tagGDX1HeadF101=女巫团摧心魔面罩
 tagGDX1HeadF102=女巫团驯兽师的面罩
@@ -432,7 +435,9 @@ tagGDX1ShoulderD120=预言者的斗篷
 tagGDX1ShoulderD121=黑暗之王的斗篷
 tagGDX1ShoulderD122=贝尔戈斯安的护肩
 tagGDX1ShoulderD123=死亡守卫斗篷
-
+tagGDX1ShoulderD124=拉达干的斗篷
+tagGDX1ShoulderD125=寒舌护肩
+tagGDX1ShoulderD126=血骑士卷轴
 
 tagGDX1ShoulderF101=女巫团愤怒斗篷
 tagGDX1ShoulderF102=女巫团生命束缚者斗篷
@@ -494,6 +499,9 @@ tagGDX1TorsoD120=死亡守卫裹尸布
 tagGDX1TorsoD121=预言者的华服
 tagGDX1TorsoD122=黑暗之王的华服
 tagGDX1TorsoD123=贝尔戈斯安的铠甲
+tagGDX1TorsoD124=拉达干的尸衣
+tagGDX1TorsoD125=寒舌胸甲
+tagGDX1TorsoD126=血骑士之甲
 
 tagGDX1TorsoF101=女巫团愤怒法衣
 tagGDX1TorsoF102=女巫团生命束缚者法衣
@@ -628,7 +636,7 @@ tagGDX1WaistD114=撕裂者束腰
 tagGDX1WaistD115=复仇者的束腰
 tagGDX1WaistD116=灾变之约
 tagGDX1WaistD117=岩石守卫束腰
-tagGDX1WaistD118=神盾护腰
+tagGDX1WaistD118=要塞护腰
 tagGDX1WaistD119=黑焰弹药带
 
 tagGDX1WaistF101A=女巫团邪恶护腰
@@ -692,7 +700,7 @@ tagGDX1RingF104=马尔茅斯奥术印戒
 tagGDX1RingF105=马尔茅斯刀刃印戒
 tagGDX1RingF106=马尔茅斯虚灵火焰印戒
 tagGDX1RingF107=温迪戈扭曲印戒
-tagGDX1RingF108=温迪戈压迫印戒
+tagGDX1RingF108=温迪戈施魔印戒
 
 
 
@@ -747,6 +755,9 @@ tagGDX1NecklaceD119=法术天灾偏转器
 tagGDX1NecklaceD120=法师杀手保卫者
 tagGDX1NecklaceD121=符文束缚者宝石
 tagGDX1NecklaceD122=尤若布鲁克之眼
+tagGDX1NecklaceD123=拉达干之石
+tagGDX1NecklaceD124=寒舌吊坠
+tagGDX1NecklaceD125=血骑士吊坠
 
 tagGDX1NecklaceF101=女巫团亵渎者吊坠
 tagGDX1NecklaceF102=女巫团操纵者吊坠
@@ -1036,6 +1047,10 @@ tagGDX1Blueprint_ArmorD166=设计图：神话 神铁锁子甲
 
 tagGDX1Blueprint_ArmorD167=设计图：贝尔戈斯安的面具
 
+tagGDX1Blueprint_ArmorD168=设计图：拉达干之面
+tagGDX1Blueprint_ArmorD169=设计图：寒舌面具
+tagGDX1Blueprint_ArmorD170=设计图：血骑士之面
+
 tagGDX1Blueprint_AccessoryB101=设计图：灵巧徽章
 tagGDX1Blueprint_AccessoryB102=设计图：守望者徽章
 tagGDX1Blueprint_AccessoryB103=设计图：巨魔之心护腰
@@ -1065,7 +1080,7 @@ tagGDX1Blueprint_AccessoryD104=设计图：神话 卡拉斯特勋章
 tagGDX1Blueprint_AccessoryD105=设计图：消耗标记
 tagGDX1Blueprint_AccessoryD106=设计图：神话 冰火统治之戒
 tagGDX1Blueprint_AccessoryD107=设计图：岩石守卫腰带
-tagGDX1Blueprint_AccessoryD108=设计图：神盾护腰
+tagGDX1Blueprint_AccessoryD108=设计图：要塞护腰
 tagGDX1Blueprint_AccessoryD109=设计图：神话 仁慈化身
 tagGDX1Blueprint_AccessoryD110=设计图：神话 德里格的瘟疫
 tagGDX1Blueprint_AccessoryD111=设计图：神话 凯恩的复仇者
@@ -1618,7 +1633,7 @@ tagGDX1ItemSetD105Desc="为了所有人的安全，这些圣物被光明会分�
 tagGDX1ItemSetD106Name=岩石守卫
 tagGDX1ItemSetD106Desc="岩石守卫的装备，曼海尔信仰的忠诚守护者."
 
-tagGDX1ItemSetD107Name=军团的庇护
+tagGDX1ItemSetD107Name=军团之要塞
 tagGDX1ItemSetD107Desc="帕里奥纳·达尔的装备，黑色军团的持盾少女."
 
 tagGDX1ItemSetD108Name=戈尔巴的愤怒
@@ -1659,6 +1674,15 @@ tagGDX1ItemSetD119Desc="冥神赠予那些拥护他回归之人的礼物."
 
 tagGDX1ItemSetD120Name=贝尔戈斯安的屠戮
 tagGDX1ItemSetD120Desc="臭名昭著的夜刃大师曾经穿过的铠甲，贝尔戈斯安，他的肆意屠杀和对鲜血的渴望甚至让他的雇主不安."
+
+tagGDX1ItemSetD121Name=拉达干的愚蠢
+tagGDX1ItemSetD121Desc="阿斯特·拉达干的盔甲。此人乃异教徒，光明会的叛徒，转变为伟大守护者的忠实仆人。"
+
+tagGDX1ItemSetD122Name=寒舌
+tagGDX1ItemSetD122Desc="寒舌的盔甲。此人乃渗透和玩弄政治阴谋的大师，作为皇帝御前会议的一员是如此的难以捉摸。"
+
+tagGDX1ItemSetD123Name=血骑士
+tagGDX1ItemSetD123Desc="纳扎染染血的盔甲，猩红之王。从前以血骑士的名号闻名于世。"
 
 tagItemSetD001BName=审判者装甲
 tagItemSetD002BName=神圣平衡

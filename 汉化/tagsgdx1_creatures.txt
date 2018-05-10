@@ -327,7 +327,11 @@ tagGDX1ItemPetHargate=虚化水晶
 tagGDX1ItemPetKasparovSkill=结晶
 tagGDX1ItemPetFireDevil=余烬之风
 tagGDX1ItemPetFireDevil_Skill=火焰生命体
-
+tagGDX1ItemPetBloodWraith=纳扎染之魂
+tagGDX1ItemPetBloodWraith_Skill=吸血鬼之触
+tagGDX1ItemPetBloodWraith_Skill02=吸血鬼之灵
+tagGDX1ItemPetBloodSkeleton=血浴奴仆
+tagGDX1ItemPetBloodSkeleton_Skill=鲜血噬咬
 #EnemySummons
 
 tagGDX1EnemySummon_ObsidianBeacon=黑曜石塔

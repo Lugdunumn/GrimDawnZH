@@ -219,7 +219,7 @@ tagClass02SkillName05E=[爆破者]电击迫击炮
 tagClass02SkillDescription05E=向敌人发射带电的迫击炮弹.
 
 tagClass02SkillName06A=[爆破者]铝热地雷
-tagClass02SkillDescription06A=投掷一组小而致命的火焰地雷,用强烈的火焰喷射烧焦敌人.^o地雷会受到玩家伤害加成的影响.
+tagClass02SkillDescription06A=投掷一组小而致命的火焰地雷,用强烈的火焰喷射烧焦敌人.^o地雷会受到玩家伤害加成的影响，被敌人触发后持续12s.
 tagClass02SkillName06B=[爆破者]地狱火地雷
 tagClass02SkillDescription06B=同时用烟火制造术和炼金术对铝热地雷进行改进,使它可以用灼热的火焰烧焦敌人.
 tagClass02SkillName06C=[爆破者]烈焰喷射
@@ -644,7 +644,7 @@ tagClass06SkillName009C=爪牙攻击
 tagClass06SkillDescription09C=基础攻击.
 
 tagClass06SkillName10A=[萨满]蛮力
-tagClass06SkillDescription10A=对很多萨满来说,一把双手近战武器是他们和风暴之力间的引导之物.和那些偏爱花时间去阅读文献的人相比,他们认为脆弱的法杖只是玩具而已,这些实践者更喜爱一种和荒蛮联系更紧密的兽性的近战作战方式.^o需要一把近战双手武器或远程双手武器.
+tagClass06SkillDescription10A=对很多萨满来说,一把双手近战武器是他们和风暴之力间的引导之物.和那些偏爱花时间去阅读文献的人相比,他们认为脆弱的法杖只是玩具而已,这些实践者更喜爱一种和荒蛮联系更紧密的兽性的近战作战方式.^o这是一种近战双手武器或远程双手武器的加成技能.
 tagClass06SkillName11A=[萨满]萨满神教
 tagClass06SkillDescription11A=在荒蛮中对野性的严苛训练将你的身体和意志磨练成一把野蛮的武器.
 tagClass06SkillName12A=[萨满]自然之怒
@@ -653,7 +653,7 @@ tagClass06SkillName13A=[萨满]原始羁绊
 tagClass06SkillDescription13A=展现你野性的一面来和莫格卓根订立契约.来自野兽之神领域的生物会更积极地响应你的召唤.^o这项技能必须保持开启以持续生效.
 
 tagClass06SkillName14A=[萨满]震荡大地
-tagClass06SkillDescription14A=用大地之力进行攻击.当你用基础武器打出暴击时,地面都会由击打之力产生震动,在接触点周围发出冲击波.^o需要一把双手近战武器或者双手远程武器.这项技能会由默认武器攻击触发.
+tagClass06SkillDescription14A=用大地之力进行攻击.当你用基础武器打出暴击时,地面都会由击打之力产生震动,震荡出冲击波打击初始目标以及周围所有的敌人.^o需要一把双手近战武器或者双手远程武器.这项技能会由默认武器攻击触发.
 
 tagClass06SkillName15A=[萨满]吞噬虫群
 tagClass06SkillDescription15A=在荒蛮野地中,人们必须付出任何代价以保证能够生存下去.一些萨满巫师们将此技艺牢记于心,召唤出了一种贪婪的虫群,它们饥渴地撕裂所接触到的任何东西,造成创伤并且暴露其弱点.

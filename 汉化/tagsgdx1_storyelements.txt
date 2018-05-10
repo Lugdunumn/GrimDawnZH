@@ -5,6 +5,7 @@ tagGDX1MapUgdenbog=巫登沼泽
 tagGDX1MapUgdenbogVillage=巴罗霍尔姆
 tagGDX1MapUgdenbogCoven=女巫团避难所
 tagGDX1MapUgdenbogAltar=莱托什祭坛
+tagGDX1MapUgdenbogAncient=远古洞窟
 
 tagGDX1MapMalmouthEntry=孤独望
 tagGDX1MapMalmouthOutskirts=哀伤谷
@@ -401,6 +402,10 @@ tagGDX1LoreObj_AreaE_NoteA07Text=我不知道他在干什么，但在上周有�
 #AncientGrove 
 tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=莫格卓根的沉思
 tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=最近的事件让我心忧。{^n}{^n}一名叫做凯蒙伊露兰审判官的凡人偶然发现了一些东西，一些……古老已被遗忘的事物。就像其他鲁莽的凡人一样，他并没有丢下那该被遗忘的东西。科凡高原的地下深处正在进行着一场巨变。凯恩世界的野兽们焦躁不安，它们也感觉到了。{^n}{^n}更具神秘色彩的是，那些平日反复无常的伪神却不寻常地保持着沉默。我怀疑他们已经退入了他们的私人位面之中。在这个时间点，他们这么做绝非出于偶然。巫神们感到恐惧。他们一定关注着吸食凯蒙和其信众灵魂的那股力量。凡人们热情地顶礼膜拜滋养着它，予其力量使其成型。{^n}{^n}人类传言伟大的至高神即将回归，但我知道这只不过是可怜无助者们的一厢情愿罢了。这股被遗忘的力量令我百思不得其解，但这力量却让我感到那么的……熟悉。{^n}{^n}可以肯定的是我们即将大难临头。我已从大地和风中感觉到了，那股数千年都未再现身的力量渴望着鲜血与复仇。{^n}{^n}我必须召集我的罗瓦里们，考验他们信念的时候就要到了。
+
+#Kraken
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=巫登之谜
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=By decree of the Emperor of Erulan himself, I and my esteemed colleagues were to set out into the wider empire and catalogue the flora and fauna of its vast domain. Little did I think of it at the time, but not all assignments are created equal...as I write this from the dank and foreboding murk of the Ugdenbog, outside of the town of Burrwitch.{^n}{^n}In the three weeks since my arrival, I've already lost two of my escorts to, and I am being dead serious here, plants. Empyrion-forsaken plants. I might add that my specialty has always been in the acute impact of arcane energies upon natural life, not on whether a particular vine is capable of dismembering a man in two while a large bloom consumes another of my team whole!{^n}{^n}If I were not weeks out from Erulan, I would have requested reassignment. The journey was not without merit however, as I did observe some peculiar phenomena along the way; creatures that, while seemingly natural, did not exhibit the standard range of phenotypes one would expect from this region, almost as if they've been plucked out from another place and relocated here within an instant.{^n}{^n}Most fascinating of all has been the talk of the camp for days now, a creature the locals have named Kra'vall, the Ancient of the Waters. Thus far, we've caught but a glimpse of one of its massive tentacles. I can only guess as to the full size of the beast, but it is enormous and quite unlike anything else found within the waters of Ugdenbog.{^n}{^n}Our journey had brought us to what I suspect is its underwater lair and my inquisitor companion immediately began complaining of headaches much like those she's experienced when near heavy concentrations of Eldritch magic. This combined with its unusual appearance leads me to conclude that this creature, and others like it, are Eldritch in nature. But are these manifestations the fickle playthings of the Witch Gods, or perhaps something else entirely?{^n}{^n}-Gallad Nico, Imperial Archivist 
 
 #AreaF Notes
 #CultOfChthon_01

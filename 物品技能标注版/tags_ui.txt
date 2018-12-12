@@ -857,6 +857,9 @@ tagCharStatsPetOAInfo=你的战宠和召唤物的攻击能力加成的百分数�
 tagCharStatsPetDA=战宠防御能力加成
 tagCharStatsPetDAInfo=你的战宠和召唤物的防御能力加成的百分数。
 
+tagCharStatsPetPhysicalResist=战宠物理抗性
+tagCharStatsPetPhysicalResistInfo=你的战宠和召唤物的物理抗性加成的百分数。
+
 tagCharStatsPetFireResist=战宠火焰抗性
 tagCharStatsPetFireResistInfo=你的战宠和召唤物火焰抗性加成的百分数。
 
@@ -1801,7 +1804,7 @@ DamageDurationAttackSpeed=% {^E}降低敌人攻击速度
 DamageDurationCold= {^E}点霜燃伤害
 DamageDurationReduced= {^E}防御减少
 DamageDurationFire= {^E}点燃烧伤害
-DamageDurationLife= {^E}点活力衰减
+DamageDurationLife= {^E}点活力衰减伤害
 DamageDurationLifeLeach= {^E}点生命吸取
 DamageDurationLightning= {^E}点电击伤害
 DamageDurationManaLeach= {^E}点能量吸取
@@ -2076,7 +2079,7 @@ DefenseSleepMaxResist={%+.0f0}% {^E}最大昏睡抗性
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大昏睡抗性
 DefenseAllMaxResist={%+.0f0}% {^o}最大全抗性
 DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^o}最大全抗性
-DefenseReflectResist={%+.0f0}% {^E}反弹伤害降低
+DefenseReflectResist={%.0f0}% {^E}反弹伤害降低
 DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}反弹伤害降低
 
 RacialBonusPercentDamage={%+.0f0}% {^E}对{%s1}的伤害
@@ -2095,6 +2098,7 @@ tagDamageModifierCritDamage={%+.0f0}% {^o}暴击伤害
 tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}暴击伤害
 tagDamageModifierDamageMult={^W}总伤害修正 {^H}{%.0f0}% 
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}到所有类型反击伤害
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}到所有类型反击伤害
 tagTotalSpeedResistance={%.0f0}% {^p}减速抗性
 tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标

@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振,造�
 tagClass01SkillName01C=^g<^F士兵^g>^b致死旋律
 tagClass01SkillDescription01C=在进行一次节奏打击之后,利用技能的优势,短暂地使你所有攻击都附加额外的致命力量.^obuff效果,点数伤害增加到武器伤害里.
 tagClass01SkillName01D=不谐和弦
-tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着元素能量.
+tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着风暴的能量.
 
 tagClass01SkillName02A=^g<^F士兵^g>^b力场波
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气,投射出能量波眩晕敌人并造成伤害.^o该技能发动需要装备盾牌或双手近战武器；直线aoe技能,受施法速度影响,只能攻击同一水平面的敌人.
@@ -112,7 +112,7 @@ tagClass01SkillDescription03B=你的攻击突然而猛烈,使敌人失去平衡,
 tagClass01SkillName04A=^g<^F士兵^g>^b战吼
 tagClass01SkillDescription04A=令人毛骨悚然的战吼削弱敌人的意志,分散他们的注意力.^o防御性技能,减少怪物对你的伤害.
 tagClass01SkillName04C=恐惧
-tagClass01SkillDescription04C=意志不坚定的敌人在听到你可怕的挑衅声后会四散逃逸.
+tagClass01SkillDescription04C=意志不坚定的敌人在听到你可怕的挑衅声后会四散逃逸,他们的弱点暴露无遗.
 tagClass01SkillName04B=^g<^F士兵^g>^b破胆
 tagClass01SkillDescription04B=战吼粉碎敌人的斗志,导致他们无力与你战斗.^o能防止敌人施法,具备控制效果.
 
@@ -205,7 +205,7 @@ tagClass02SkillDescription04A=填装了更多爆炸物的炸药,这项恐怖的�
 tagClass02SkillName04B=^g<^F爆破^g>^b改良外壳
 tagClass02SkillDescription04B=对罐式炸弹外壳的调整增强了震荡威力,并在更大的爆炸范围内造成巨量创伤伤害.
 tagClass02SkillName04C=震荡炸弹
-tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,减少造成的伤害但能使敌人患上炮弹休克症.^o眩晕控场.
+tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,其中的电流将使敌人患上炮弹休克症.^o眩晕控场.
 
 tagClass02SkillName05A=^g<^F爆破^g>^b迫击抛射炮
 tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮,直至耗尽.^o迫击炮会受到玩家伤害加成的影响.投射物会受到环境物体阻挡,投射物飞行速度较慢.
@@ -427,7 +427,7 @@ tagClass04SkillName07B=^g<^F夜刃^g>^b夜之寒气
 tagClass04SkillDescription07B=使受到暗影面纱影响的敌人感到黑夜般的深寒降临,剥夺他们的生命并削弱防御.^odebuff技能.
 
 tagClass04SkillName08A=^g<^F夜刃^g>^b刀灵
-tagClass04SkillDescription08A=召唤一片旋涡云状的致命刀刃徘徊于战场,将敌人切成碎片后化为锯齿状的碎片.^o刀灵会受到玩家的伤害加成影响.
+tagClass04SkillDescription08A=召唤一片旋涡云状的致命刀刃徘徊于战场,以锯齿状的碎片将敌人千刀万剐.^o刀灵会受到玩家的伤害加成影响.
 tagClass04SkillName08PetA=回旋刃
 tagClass04SkillName08PetB=刀刃爆发
 tagClass04SkillDescription08PetB=刀灵向四面八方发射开膛刀刃.
@@ -1201,7 +1201,7 @@ tagItemSkillC085PetSkillName02=剧毒新星
 tagItemSkillC086Name=瘟疫
 tagItemSkillC086Desc=在你所过之处传播瘟疫与疾病.
 
-tagItemSkillC087Name=惩戒
+tagItemSkillC087Name=激怒
 tagItemSkillC087Desc=用盾牌发出的冲击波挑衅敌人.^o需要一面盾牌.
 
 tagItemSkillC088Name=奥术之怒
@@ -1829,7 +1829,7 @@ tagItemSkillD160Desc=用巨人的毁灭怒火打击并碾碎你的敌人.
 tagItemSkillD161Name=复制
 tagItemSkillD161Desc=帕內蒂在奥术复制方面的天赋让人钦佩,特别是在巨大的压力之下时.^o需要法器副手.
 
-tagItemSkillD162Name=惩戒
+tagItemSkillD162Name=反击
 tagItemSkillD162Desc=从盾牌中释放冲击波来激怒你的敌人.^o需要一面盾牌
 
 tagItemSkillD163Name=死亡狂欢
@@ -1959,7 +1959,7 @@ tagItemSkillD204Name=虚空行者
 tagItemSkillD204Desc=当受到虚空恶魔的魔法攻击时,你对虚空的腐蚀之力变得非常抵触,筑起一道能够承受虚空恶魔攻击的壁垒.
 
 tagItemSkillD205Name=古尔’阿玛什的守护
-tagItemSkillD205Desc=当你被物理攻击击中时,古尔’阿玛什的守护能为你抵抗物理伤害.
+tagItemSkillD205Desc=当你被物理攻击击中时,古尔’阿玛什的守护能为你抵挡伤害.
 
 tagItemSkillD206Name=幻境守护
 tagItemSkillD206Desc=在你周围区域制造闪烁的幻境来转移敌人的注意力.^o这项技能必须保持开启以持续生效.
@@ -2344,7 +2344,7 @@ tagRelicSkillC014Desc=一片枯萎之云环绕周身,产生能感染任何接触
 tagRelicSkillC015Name=先祖的羁绊
 tagRelicSkillC015Desc=你的先祖与你的仆从们之间的联系释放了他们以往不可能拥有的潜力.^o这项技能必须保持开启以持续生效.
 
-tagRelicSkillD001Name=守护
+tagRelicSkillD001Name=救赎
 tagRelicSkillD001Desc=用圣光灌注自身并吸收接下来的攻击,使你免受进一步的伤害.
 
 tagRelicSkillD002Name=诅咒
@@ -2405,7 +2405,7 @@ tagRelicSkillD020Name=曼海尔的壁垒
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵,为你和你的队友抵挡一定伤害.
 
 tagRelicSkillD021Name=元素混乱
-tagRelicSkillD021Desc=你冒着施法中断的风险,谨慎地平衡着元素力量.释放一股让你的敌人后悔靠近你的力量.^o需要装备法器副手.
+tagRelicSkillD021Desc=你冒着施法中断的风险,谨慎地平衡着元素力量.释放一股让你的敌人后悔靠近你的力量.
 
 
 
@@ -2886,6 +2886,29 @@ tagEnemySkillA12_Desc=本·扎尔用黑曜石牢笼困住了你,并用混沌的�
 tagEnemySkillA13=虚火标记
 tagEnemySkillA13_Desc=虚火炙烤你的灵魂,使你暴露在元素和虚化之中.
 
+tagEnemySkillA14=凝血注射
+tagEnemySkillA14_Desc=一种毒剂削弱了你的止血能力.你遭受的任何流血伤害都将变得十分危险.
+
+tagEnemySkillA15=苦难标记
+tagEnemySkillA15_Desc=你被施加了一种衰弱诅咒,对电流和生命吸取的抵抗能力减弱,攻击也难以瞄准目标.
+
+tagEnemySkillA16=死亡之眼
+tagEnemySkillA16_Desc=你被猎手盯上了,对物理攻击的防御已被削弱.
+
+tagEnemySkillA17=混沌吸噬
+tagEnemySkillA17_Desc=来自一头冥煞的诅咒正在迅速抽干你的生命精华.
+
+tagEnemySkillA18=灵魂剥离
+tagEnemySkillA18_Desc=你的灵魂被剥离出窍,削弱了你的抗性.
+
+tagEnemySkillA19=抽取力量
+tagEnemySkillA19_Desc=你的力量被一种诅咒抽走了,伤害和速度被削弱了.
+
+tagEnemySkillA20=瘟疫
+tagEnemySkillA20_Desc=你得了瘟疫,在一定时间内受到毒性伤害并且攻击和防御均被削弱.
+
+
+
 tagEnemySkillD01=熵能虚空
 tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离.
 
@@ -2903,3 +2926,33 @@ tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近�
 
 tagEnemySkillD06=血誓诅咒
 tagEnemySkillD06_Desc=血誓诅咒削弱了你反抗虚空腐化力量的意志。减少你的抗性，回复力和防御能力。
+
+tagEnemySkillD07=钩网
+tagEnemySkillD07_Desc=你被网住了,流血并减少防御能力.
+
+tagEnemySkillD08=虚空诅咒
+tagEnemySkillD08_Desc=你被一只虚空生物诅咒,妨碍了你的移动,回复和对进攻的专注力.
+
+tagEnemySkillD09=致盲之术
+tagEnemySkillD09_Desc=你被致盲咒术击中,妨碍了你的瞄准和移动.
+
+tagEnemySkillD10=巨魔咆哮
+tagEnemySkillD10_Desc=魁梧巨魔咆哮声使你气馁,削弱了你的速度和远程瞄准能力.
+
+tagEnemySkillD11=邪术诅咒
+tagEnemySkillD11_Desc=你被一头邪术生物诅咒,妨碍了你的移动,回复和对进攻的专注力.
+
+tagEnemySkillD12=生命吸取
+tagEnemySkillD12_Desc=你受到了一种吸血诅咒,它抽取着你的生命精华并削弱了你对物理攻击的防御力.
+
+tagEnemySkillD13=灵魂吸噬
+tagEnemySkillD13_Desc=你受到了一种吸血诅咒,它抽取着你的生命精华并削弱了你对物理攻击的防御力.
+
+tagEnemySkillD14=猛毒瘟疫
+tagEnemySkillD10_Desc=你被一只食尸鬼感染了,削弱了你对的进攻和防御的专注力.
+
+tagEnemySkillD15=吸噬灵魂
+tagEnemySkillD15_Desc=一只幽魂正在吸取你的魂魄,它吸收着你的生命精华.
+
+tagEnemySkillD16=
+tagEnemySkillD16_Desc=

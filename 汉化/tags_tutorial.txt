@@ -1,5 +1,5 @@
 #Loading Tips
-tagLoadingTip01={^g}小贴士: {^w}你可以通过在生命条左侧的战利品过滤按钮来根据品质(魔法及以上,稀有及以上等等)过滤战利品.
+tagLoadingTip01={^g}小贴士: {^w}你可以通过在生命条左侧的战利品过滤按钮来访问强大的战利品过滤功能.
 tagLoadingTip02={^g}小贴士: {^w}如果你找到了一座暂时无法修复的神龛,它的位置会在世界地图上显示出来.
 tagLoadingTip03={^g}小贴士: {^w}你可以在任何时候打开书典窗口来重新查阅指引教程,默认热键：H.
 tagLoadingTip04={^g}小贴士: {^w}显著低于你等级的敌人将不会提供经验值以及势力声望.
@@ -133,7 +133,6 @@ tagTutorialTip36TextB=你不能移除投资在专精上的技能点.此外,你�
 tagTutorialTip37Title=仓库窗口
 tagTutorialTip37TextA=走私者可以存储你的物品,甚至可以在你的角色间转移物品!你可以在整个凯恩世界能找到的任何走私者那里访问你的物品.
 tagTutorialTip37TextB=物品可以通过Shift+左键来快速转移.
-
 tagTutorialTip37TextC=点击物品转移来和你的其他角色分享物品.
 
 tagTutorialTip38Tile=物品转移
@@ -151,7 +150,6 @@ tagTutorialTip39TextB=物品上镶嵌物的移除将按物品,镶嵌物和增幅
 tagTutorialTip39TextC=你可以恢复物品或者镶嵌物,但在此过程中另一件东西会被摧毁.
 tagTutorialTip39SubtitleB=只移除增幅
 tagTutorialTip39TextD=无论何时你只移除增幅的话,物品和镶嵌物都会被保留下来.如果一件灵魂绑定的增幅以这种方式移除,而且物品原本并非灵魂绑定,那么物品的灵魂绑定状态也将会被移除.
-
 
 tagTutorialTip42Title=铁匠
 tagTutorialTip42TextA=铁匠有制作强大威力物品的能力.他是一位经验丰富的工匠,每个他制作的物品都细微的制作属性奖励,他的知识可以通过新的设计图来扩充.
@@ -227,7 +225,6 @@ tagTutorialTip59TextC=当一座神龛被净化后,你会获得一点虔诚点数
 tagTutorialTip60Title=信仰窗口
 tagTutorialTip60TextA=信仰窗口允许你分配虔诚点数到各种神灵或者凯恩的信仰符记之上.
 tagTutorialTip60TextB=当你完成完整星座时,你会获得亲和点数,它可以让你解锁并获得更为强大的星座.
-
 tagTutorialTip60SubtitleA=亲和点数
 tagTutorialTip60TextC=星座对应着5种亲和点数,代表着不同的神之位面.不同的星座需要不同数量的亲和点数来解锁.
 tagTutorialTip60SubtitleB=使用虔诚点数
@@ -238,9 +235,18 @@ tagTutorialTip60TextG=带有光晕的天星标志着拥有信仰之力的地方,
 
 tagTutorialTip61Title=信仰之力
 tagTutorialTip61TextA=信仰之力是能够与你来自天赋和装备的主要技能绑定的可以自动激活生效的技能.与你技能绑定的信仰之力能够从战斗和任务中获得经验值,这能使它们升级并更为强力.当绑定到宠物技能上时,它们会受到宠物伤害的影响.
-
 tagTutorialTip61SubtitleA=分配到一个主要技能
 tagTutorialTip61TextB=要分配一个信仰之力,你必须先在信仰窗口中解锁它,然后从弹出的列表中选取一个可用技能.你能够毫无惩罚地重新分配信仰之力.如果你解绑了一个信仰之力,它仍会保存已获得的经验和等级.
+
+tagTutorialTip69Title=战利品过滤
+tagTutorialTip69TextA=战利品过滤窗口使你可以调节在地上显示的物品.这个强大的工具将专注于你当前角色的需求,使恐怖黎明游戏中的大量战利品显示更加简明.
+tagTutorialTip69SubtitleA=品质过滤
+tagTutorialTip69TextB=你可以根据装备品质来显示或隐藏物品.如果其中一个选项未勾选,则无论其他分类的选项如何,该品质的物品都不会显示在地上.此规则的例外情况是专属掉落和套装,即使它们是稀有、史诗和传说物品的子类目,也仅在你想进一步微调过滤器时生效.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+tagTutorialTip69SubtitleB=类型过滤
+tagTutorialTip69TextC=你可以根据装备槽位来显示或隐藏物品.如果其中一个选项未勾选,则无论其"伤害和角色"分类选项如何,该类型的物品都不会显示在地上.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+tagTutorialTip69SubtitleC=伤害和角色过滤
+tagTutorialTip69TextD=你可以根据装备属性来显示或隐藏物品.如果其中一个选项未勾选,则只有满足至少一项过滤时才会显示在地上.{^n}{^n}默认情况下,此区域的所有选项均是已勾选状态.
+
 
 #Quick Tips
 
@@ -288,3 +294,4 @@ tagQuickTip58={^z}净化神龛{^-} {^n}{^n}神龛可以通过供奉神灵 {^n}�
 tagQuickTip59={^z}虔诚点数{^-} {^n}{^n}虔诚点数通过净化神龛来获得, {^n}并在技能窗口{^x}[%t0]{^-}中使用.
 tagQuickTip60={^z}信仰窗口{^-} {^n}{^n}信仰窗口允许你使用虔诚点数. {^n}每个点数都会令你解锁新的加成 {^n}与技能.
 tagQuickTip61={^z}信仰之力{^-} {^n}{^n}通过点击信仰窗口中的图标 {^n}并从列表中选择一项技能 {^n}来将你的信仰之力绑定到该技能上.
+tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}使用战利品过滤器调节在地上显示的战利品.

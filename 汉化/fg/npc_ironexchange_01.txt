@@ -1,0 +1,41 @@
+Garrus ~ Keeper of Iron
+Greetings, friend.{^n}{^n}I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
+I wish to make an exchange.
+Splendid!{^n}{^n}What do you have for me?
+Exchange 1 bar for 50000 Iron Bits.
+Exchange 5 bars for 250000 Iron Bits.
+Exchange 1 stack for 500000 Iron Bits.
+Exchange 5 stacks for 2500000 Iron Bits.
+I've changed my mind.
+I had something else in mind.
+I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
+
+
+Perhaps another time.
+I wish to purchase.
+Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
+Purchase 1 Iron Bar for 50000 Iron Bits.
+Purchase 5 Iron Bar for 250000 Iron Bits.
+Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
+Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
+I've changed my mind.
+I had something else in mind.
+
+
+Perhaps another time.
+Greetings, friend.{^n}{^n}I know when somebody's carrying coin, and you've got your share.{^n}{^n}Care to make an exchange for some Iron Bars?
+I wish to purchase.
+Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
+Purchase 1 Iron Bar for 50000 Iron Bits.
+Purchase 5 Iron Bar for 250000 Iron Bits.
+Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
+Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
+I've changed my mind.
+
+What would I want these for?
+I offer a humble service, no string attached.{^n}{^n}Bring me Iron Bits and in exchange you will receive Iron Bars.{^n}{^n}Pass these on to your allies or perhaps your alter egos. If they bring them to me then I will happily take them off their hands for their original value.
+
+Perhaps another time.
+Perhaps another time.
+If you've no money then move along.{^n}{^n}I only deal with those that carry serious coin.
+Goodbye.

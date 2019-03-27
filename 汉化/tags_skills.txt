@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振,造�
 tagClass01SkillName01C=[士兵]致死旋律
 tagClass01SkillDescription01C=在进行一次节奏打击之后,利用技能的优势,短暂地使你所有攻击都附加额外的致命力量.^o致死旋律激活时会影响所有的攻击.
 tagClass01SkillName01D=[士兵]不谐和弦
-tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着风暴的能量.
+tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着元素的能量.
 
 tagClass01SkillName02A=[士兵]力场波
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气,投射出能量波眩晕敌人并造成伤害.^o该技能发动需要装备盾牌或双手近战武器.
@@ -255,7 +255,7 @@ tagClass02SkillDescription12B=将驱动防爆护盾的巫术火焰延伸至已�
 tagClass02SkillName13A=[爆破者]复仇烈焰
 tagClass02SkillDescription13A=奥祖因的永恒之焰曾给世界带来生机与休养,但是背叛与折磨将其扭曲为复仇的武器.向奥祖因宣誓效忠的人将在战斗中获得活力并对他们的敌人展开猛烈的报复.^o这项技能必须保持开启以持续生效.
 tagClass02SkillName13B=[爆破者]奥祖因的愤怒
-tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人,同时发出火与电的魔法来攻击更远的敌人.
+tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人,同时发出火与电的魔法来攻击更远的敌人,并削弱他们的力量.
 
 tagClass02SkillName10A=[爆破者]闪电炸弹
 tagClass02SkillDescription10A=向敌人抛出一个强力的带电炸弹.能有效对付强壮的单个敌人.
@@ -350,7 +350,7 @@ tagClass03SkillName13D=[神秘学者]狂热怒意
 tagClass03SkillDescription13D=血瘟疫的变异对敌人与神秘学者本身来说都很危险.血瘟疫将极快的发作,不但会使造成的伤害加倍,更会令敌人患上高热,变得癫狂无比.他们将以异常的速度移动,伴随着狂暴的怒意发动攻击.而代价则是敌人变得更为脆弱.
 
 tagClass03SkillName14A=[神秘学者]末日闪电
-tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电,任何被它击中的敌人都将遭受重创.
+tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电,任何被它击中的敌人都将遭受重创.^o当闪电直接击中目标将造成双倍伤害.
 
 tagClass03SkillName07A=[神秘学者]妖术净化
 tagClass03SkillDescription07A=使敌人的法术失效,并且基于敌人剩余的能量值造成法力燃烧伤害.
@@ -527,7 +527,7 @@ tagClass05SkillName05B=[奥术师]转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
 tagClass05SkillName06A=[奥术师]阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.
+tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为0%时，虚化射线每0.3s造成伤害并消耗能量。
 tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=[奥术师]堕落之力
@@ -1304,7 +1304,6 @@ tagItemSkillC121Desc=无情切割附近的敌人并使这片区域沐浴在他�
 
 tagItemSkillC122Name=玻璃假眼
 tagItemSkillC122Desc=一只训练有素的眼睛,发出致命一击.^o这是一项被动双手远程武器技能加成.
-
 tagItemSkillC122NameB=神射手
 tagItemSkillC122DescB=熟练利用步枪与视野.^o这是一项被动双手远程武器技能加成.
 
@@ -1402,7 +1401,7 @@ tagItemSkillD021Name=虚化冲击波
 tagItemSkillD021Desc=一阵虚化能量冲击将攻击你的敌人击退.
 
 tagItemSkillD022Name=虚化烈焰
-tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰.^o需要副手法器.
+tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰.
 
 tagItemSkillD023Name=虚化奔流
 tagItemSkillD023Desc=从你体内爆发出纯净的奥术能量并在敌人之间奔涌.
@@ -1781,7 +1780,7 @@ tagItemSkillD145Name=暗影毒液
 tagItemSkillD145Desc=施放封闭于刀锋之中的邪恶毒素,将敌人的血肉化为岩石.
 
 tagItemSkillD146Name=清算
-tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.
+tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.^o施法速度为0%时，清算每0.3s造成伤害并消耗能量。
 
 tagItemSkillD147Name=黑曜石震颤
 tagItemSkillD147Desc=像黑曜石尖刺穿透大地一般地粉碎虚空与现实的屏障.
@@ -2319,7 +2318,7 @@ tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰冻他们的血液.
 
 tagRelicSkillC008Name=爆炎
-tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为0%时，爆炎每0.3s造成伤害并消耗能量。
 
 tagRelicSkillC009Name=召唤风暴魔犬 
 tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬~源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.
@@ -2949,7 +2948,7 @@ tagEnemySkillD13=灵魂吸噬
 tagEnemySkillD13_Desc=你受到了一种吸血诅咒,它抽取着你的生命精华并削弱了你对物理攻击的防御力.
 
 tagEnemySkillD14=猛毒瘟疫
-tagEnemySkillD10_Desc=你被一只食尸鬼感染了,削弱了你对的进攻和防御的专注力.
+tagEnemySkillD14_Desc=你被一只食尸鬼感染了,削弱了你对的进攻和防御的专注力.
 
 tagEnemySkillD15=吸噬灵魂
 tagEnemySkillD15_Desc=一只幽魂正在吸取你的魂魄,它吸收着你的生命精华.

@@ -4223,8 +4223,8 @@ tagShrineMogdrogenLocked= {^R} ~ 由冥煞能量封印着
 
 tagWoodenDoor=木门
 tagBarnDoor=谷仓门
-tagCageDoor=监牢之门
-tagTrollDoor=巨魔之门
+tagCageDoor=大门
+tagTrollDoor=大门
 
 tagBreakableStoneWall=破碎之墙
 tagBreakableNaturalWall=松散的土堆

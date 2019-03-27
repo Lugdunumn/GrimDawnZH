@@ -421,6 +421,8 @@ tagHUD_RightMouse_R=右键分配
 tagHUD_RightMouse_R1=这是你的次要攻击方式。点击右键来分配一个技能。
 tagHUD_CompassToggleName=指南针地图开关
 tagHUD_CompassToggleDescription=点击更改尺寸或最小化指南针地图。
+tagHUD_LootMode=战利品过滤器
+tagHUD_LootModeDescription=调整选项来显示对应的战利品。
 tagHUD_LootModeToggleOff=自动显示战利品 ^D(关闭)
 tagHUD_LootModeToggleCommon=自动显示战利品 (普通及以上)
 tagHUD_LootModeToggleMagic=自动显示战利品 ^Y(魔法及以上)
@@ -468,6 +470,102 @@ tagHUDButtonRollChat=在你的游戏中向其他玩家发送信息。
 tagHUDButtonRollFaction=关于凯恩世界各方势力的细节。
 tagHUDButtonRollAchievements=已完成的成就。
 tagHUDButtonRollOptions=保存，退出和游戏设置。
+
+#LootFilterUI
+tagLootFilterWindowTitle=战利品过滤器
+tagLootFilterTitle01=品质
+tagLootFilterTitle02=类型
+tagLootFilterTitle03=伤害
+tagLootFilterTitle04=角色
+
+tagLootFilterReset=恢复默认
+tagLootFilterResetInfo=重置过滤器设定至默认状态。
+tagLootFilterResetConfirm=是否重置过滤器设定至默认状态?
+
+tagLootFilter01=普通
+tagLootFilter01Info=显示/隐藏 普通(白色)品质的物品。
+tagLootFilter02=魔法
+tagLootFilter02Info=显示/隐藏 魔法(黄色)品质的物品。
+tagLootFilter03=稀有
+tagLootFilter03Info=显示/隐藏 稀有(绿色)品质的物品。包含从特定敌人掉落的物品，也被称为专属掉落。
+tagLootFilter04=专属掉落
+tagLootFilter04Info=显示/隐藏 从特定敌人掉落的物品，也被称为专属掉落。{^N}{^N}如果你只想看见被归为专属掉落的装备，那么请使用此过滤功能并取消勾选稀有掉落过滤选项。
+tagLootFilter05=史诗
+tagLootFilter05Info=显示/隐藏 史诗(蓝色)品质的独特物品。其中包含了套装部件。
+tagLootFilter06=传奇
+tagLootFilter06Info=显示/隐藏 传奇(紫色)品质的独特物品。其中包含了套装部件。
+tagLootFilter07=套装
+tagLootFilter07Info=显示/隐藏 套装部件。如果你只想看见被归为套装的装备，那么请使用此过滤功能并取消勾选史诗和传奇过滤选项。
+tagLootFilter08=始终显示独特物品
+tagLootFilter08Info=勾选此框以始终显示独特稀有(史诗和传奇品质)装备，无视其他过滤选项。{^N}{^N}当你在搜寻特定的魔法、稀有或专属掉落装备，但仍希望收集每个独特装备时，请使用此选项。
+
+tagLootFilter09=单手近战武器
+tagLootFilter09Info=显示/隐藏 单手斧、锤和剑。
+tagLootFilter10=双手近战武器
+tagLootFilter10Info=显示/隐藏 双手斧、锤和剑。
+tagLootFilter11=单手远程武器
+tagLootFilter11Info=显示/隐藏 单手枪。
+tagLootFilter12=双手远程武器
+tagLootFilter12Info=显示/隐藏 双手枪和弩。
+tagLootFilter13=匕首/权杖
+tagLootFilter13Info=显示/隐藏 匕首和权杖。
+tagLootFilter14=施法型副手
+tagLootFilter14Info=显示/隐藏 施法型副手。
+tagLootFilter15=盾牌
+tagLootFilter15Info=显示/隐藏 盾牌。
+tagLootFilter16=护甲
+tagLootFilter16Info=显示/隐藏 头盔，护肩，胸甲，护腿，靴子和手套。
+tagLootFilter17=饰品
+tagLootFilter17Info=显示/隐藏 项链，戒指，勋章和腰带。
+
+tagLootFilter18=物理
+tagLootFilter18Info=显示装备包含 物理或创伤伤害。
+tagLootFilter19=穿刺
+tagLootFilter19Info=显示装备包含 穿刺伤害。
+tagLootFilter20=火焰
+tagLootFilter20Info=显示装备包含 火焰或燃烧伤害。
+tagLootFilter21=冰冷
+tagLootFilter21Info=显示装备包含 冰冷或霜燃伤害。
+tagLootFilter22=闪电
+tagLootFilter22Info=显示装备包含 闪电或电击伤害。
+tagLootFilter23=酸性
+tagLootFilter23Info=显示装备包含 酸性或毒素伤害。
+tagLootFilter24=活力
+tagLootFilter24Info=显示装备包含 活力或活力衰减伤害。
+tagLootFilter25=虚化
+tagLootFilter25Info=显示装备包含 虚化伤害。
+tagLootFilter26=混乱
+tagLootFilter26Info=显示装备包含 混乱伤害。
+tagLootFilter27=流血
+tagLootFilter27Info=显示装备包含 流血伤害。
+tagLootFilter28=战宠加成
+tagLootFilter28Info=显示装备包含 战宠加成。
+
+tagLootFilter29=我的专精
+tagLootFilter29Info=显示装备包含 你所选专精的技能等级加成。
+tagLootFilter30=其他专精
+tagLootFilter30Info=显示装备包含 你未选专精的技能等级加成。
+tagLootFilter31=速度
+tagLootFilter31Info=显示装备包含 攻击、施法或移动速度加成。
+tagLootFilter32=冷却减少
+tagLootFilter32Info=显示装备包含 减少技能冷却的加成。
+tagLootFilter33=暴击伤害
+tagLootFilter33Info=显示装备包含 暴击伤害。
+tagLootFilter34=攻击能力
+tagLootFilter34Info=显示装备包含 攻击能力。
+tagLootFilter35=防御能力
+tagLootFilter35Info=显示装备包含 防御能力。
+tagLootFilter36=抗性
+tagLootFilter36Info=显示装备包含 对伤害、控制技或异常状态(如反弹伤害或降低伤害持续时间)的抗性。
+tagLootFilter37=反击
+tagLootFilter37Info=显示装备包含 反击伤害。
+
+tagLootFilter38=镶嵌物
+tagLootFilter38Info=显示/隐藏 镶嵌物。
+tagLootFilter39=只显示双词缀掉落
+tagLootFilter39Info=勾选此项只显示拥有稀有前缀和稀有后缀的物品。{^N}{^N}在你只希望寻找最强力的稀有装备或者特殊装备时再将此选项和稀有装备和/或特殊装备过滤选项搭配使用。
+
+
 
 #SkillUI
 
@@ -528,11 +626,11 @@ tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧, 提高物理,穿刺,流血和创伤伤害. 灵巧也会提高你的近战和远程攻击的命中几率以及暴击几率. 
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧, 提高物理,穿刺,流血和创伤伤害. 灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率. 
 
-tagCharAttributeDescription02=锻炼体格可以穿上更重的装备, 并能灵敏地躲开敌人的攻击. 体格也能提升你承受和回复创伤的能力以及降低被暴击的机率. 
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备, 并能灵敏地躲开敌人的攻击. 体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率. 
 
-tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动, 让你能承受更强的魔法装备所带来的精神负担. 精神也会增强你的魔法伤害. 
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动, 让你能承受更强的魔法装备所带来的精神负担. 精神也会提高你的承受能力，增强你的魔法伤害. 
 
 tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害.
 
@@ -1671,6 +1769,7 @@ tagGamePadSkills=技能
 tagGamePadMap=地图
 tagGamePadFactions=势力
 tagGamePadAchieve=成就
+tagGamePadLootFilter=战利品过滤器
 
 tagControllerUIWarning=你现有的屏幕分辨率不支持手柄的用户界面.
 
@@ -1818,6 +1917,7 @@ DamageDurationTotalSpeed=% {^E}减速目标
 DamageDurationRunSpeed=% {^E}目标移动速度降低
 DamageDurationSpellCastSpeed=% {^E}目标施法速度降低
 DamageDurationBleeding= {^E}点流血伤害
+DamageDurationElemental= {^E}元素燃烧
 
 DamageTotalDamageReductionPercent=% {^E}目标伤害降低
 DamageTotalDamageReductionAbsolute= {^E}点目标伤害降低
@@ -2100,6 +2200,7 @@ tagDamageModifierDamageMult={^E}总伤害修正 {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}到所有类型反击伤害
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}到所有类型反击伤害
 tagTotalSpeedResistance={%.0f0}% {^E}减速抗性
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}减速抗性
 tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标

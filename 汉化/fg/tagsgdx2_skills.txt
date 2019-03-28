@@ -48,7 +48,7 @@ tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔�
 tagGDX2Class09SkillName04B=火山步伐
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
 tagGDX2Class09SkillName04C=地质位移
-tag0GDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害
+tagGDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害
 tagGDX2Class09SkillName04D=火山之力
 tagGDX2Class09SkillDescription04D=被守誓者的盾牌击中时，维尔之力的复仇怒火会击倒意志不坚的敌人。^o需要装备盾牌或双手近战武器。
 

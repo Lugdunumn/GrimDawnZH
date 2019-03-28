@@ -11,7 +11,7 @@ tagFactionUser13Rewards6=新任务 {^n}领取赏金任务 {^n}势力特有武器
 tagFactionUser13Rewards7=新任务 {^n}势力特有增幅 {^n}势力特有武器 {^n}势力特有饰品 {^n}该势力赦令 {^n}势力特有设计图
 tagFactionUser13Rewards8=稀有增幅 {^n}该势力的委任状 {^n}精英级势力护甲 {^n}精英级势力设计图
 tagFactionUser14=德里格教团
-tagFactionUser14Info=营地：三巫神秘会 {^n}{^n} 宏伟守护者赐予了德里格的信徒们一副真实的景象，他们被未来的景象所吸引。许多人被低语逼疯，但是为了追寻巫神的目标成功而忍耐下来的人变成了足以改变世界的无价之宝。{^n}{^n}德里格的信徒们说，站在宏伟守护者面前是一件无与伦比的恩赐。His words of wisdom echo through the eons as he seeks to strike a balance in the tumultuous strands of fate woven by the celestials themselves. It is said that none can witness Dreeg's warped form in person without their feeble mortal mind shattering.
+tagFactionUser14Info=营地：三巫神秘会 {^n}{^n} 宏伟守护者赐予了德里格的信徒们一副真实的景象，他们被未来的景象所吸引。许多人被低语逼疯，但是为了追寻巫神的目标成功而忍耐下来的人变成了足以改变世界的无价之宝。{^n}{^n}德里格的信徒们说，站在宏伟守护者面前是一件无与伦比的恩赐。他的智慧之言千古流传，因为他试图在天神们编织的混乱命运中取得平衡。传言说目睹德里格那扭曲的身形，会使脆弱的凡人心智崩溃。
 tagFactionUser14Rewards1=N/A
 tagFactionUser14Rewards2=N/A
 tagFactionUser14Rewards3=N/A
@@ -69,7 +69,7 @@ tagEndlessFloorCounterName=区块
 tagEndlessFloorCounterInfo=当前碎界内的区块
 tagEndlessTimerName=计时器
 tagEndlessTimerNameInfo=碎裂之境变得不稳定之前的剩余时间。^n^n击杀强大的敌人或者迅速消除大量的敌人可以获得奖励时间。^n^n在时间耗尽前击杀碎界的Boss可以在碎裂之境的辉煌中领取额外的奖励。
-tagEndlessDungeonBonusTime=Carnage: {%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
+tagEndlessDungeonBonusTime=屠杀: {%d0} 怪物被击杀！^n^n+{%.0f1} 秒到计时器！
 tagEndlessDungeonHeroBonusTime=击杀强力敌人！^n^n+{%.0f0} 秒到计时器！
 
 #Inventor - Transmute
@@ -78,7 +78,7 @@ tagConvertSameSet=
 tagConvertSameSetInfo=将套装中的某件物品转换至相同套装中的另一件物品
 tagConvertRandomSet=
 tagConvertRandomSetInfo=将套装中的某件物品随机转为其他同种品级套装中某一件物品
-tagConvert=Transmute
+tagConvert=转换
 tagConvertCreateInfo=进行转换将摧毁这件物品^o(从固定来源掉落的套装物品不能用于转换)
 tagConvertInfo=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。发明家尚未掌握能力。
 tagConvertInfoB=转换室可以将一件属于某个套装的强大物品转换为相同套装中的另一件物品亦或者是转换为其他套装中的某件物品。这个过程需要一些强大的奥术能量，所以发明者直接找到了源头。
@@ -142,7 +142,7 @@ Mutator_Player_08Desc=玩家速度降低，但暴击伤害提高了。
 Mutator_Player_09=暴露
 Mutator_Player_09Desc=玩家的护甲降低，但冷却时间缩短。
 Mutator_Player_10=虚弱
-Mutator_Player_10Desc=玩家的暴击能力降低，但更容易命中目标。more likely to hit.
+Mutator_Player_10Desc=玩家的暴击能力降低，但更容易命中目标。
 
 SkillRetaliationDamageFormat={%.0f0%} {^E}的反击伤害附加至攻击
 SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}反击伤害附加至攻击 ({^H}{%.0f1} - {%.0f2}{^E})
@@ -155,5 +155,5 @@ tagCharHealIncreaseModifierR={^E}治疗效果提升 {^H}{%.0f0}% - {%.0f1}%
 #Character
 tagCharStatsHealIncrease=治疗强化
 tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加强，包括药水和攻击伤害转化为生命值。不增加生命恢复速度。
-tagCharStatsOathkeeperSkillsBonus=Oathkeeper Skills
-tagCharStatsOathkeeperSkillsBonusInfo=Bonus to all learned skills in the Oathkeeper Mastery.
+tagCharStatsOathkeeperSkillsBonus=守誓者技能
+tagCharStatsOathkeeperSkillsBonusInfo=对所有已学守誓者专精技能的加成。

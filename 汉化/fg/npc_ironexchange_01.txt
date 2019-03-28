@@ -1,41 +1,41 @@
-Garrus ~ Keeper of Iron
-Greetings, friend.{^n}{^n}I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
-I wish to make an exchange.
-Splendid!{^n}{^n}What do you have for me?
-Exchange 1 bar for 50000 Iron Bits.
-Exchange 5 bars for 250000 Iron Bits.
-Exchange 1 stack for 500000 Iron Bits.
-Exchange 5 stacks for 2500000 Iron Bits.
-I've changed my mind.
-I had something else in mind.
-I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
+盖拉斯~钢铁保管者
+欢迎你，我的朋友。{^n}{^n}我猜你带了点东西给我。{^n}{^n}或许你是想来买点什么？
+我想和你做个交易。
+妙哉!{^n}{^n}那你手里有什么要给我？
+用1块铁锭来交换 50000 铁币。
+用5块铁锭来交换 250000 铁币。
+用1堆铁锭来交换 500000 铁币。
+用5堆铁锭来交换 2500000 铁币。
+我改变主意了。
+我还有别的想法。
+我猜你带了点东西给我。{^n}{^n}或许你是想来买点什么？
 
 
-Perhaps another time.
-I wish to purchase.
-Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
-Purchase 1 Iron Bar for 50000 Iron Bits.
-Purchase 5 Iron Bar for 250000 Iron Bits.
-Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
-Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
-I've changed my mind.
-I had something else in mind.
+下次再说吧。
+买买买。
+妙哉!{^n}{^n}我有些铁锭，每个价值 50000 铁币。也许对你来说太便宜了？{^n}{^n}那用 500000 铁币购买1堆铁锭如何？
+用 50000 铁币购买1块铁锭。
+用 250000 铁币购买5块铁锭。
+用 500000 铁币购买1堆铁锭。
+用 2500000 铁币购买5堆铁锭。
+我改变主意了。
+我还有别的想法。
 
 
-Perhaps another time.
-Greetings, friend.{^n}{^n}I know when somebody's carrying coin, and you've got your share.{^n}{^n}Care to make an exchange for some Iron Bars?
-I wish to purchase.
-Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
-Purchase 1 Iron Bar for 50000 Iron Bits.
-Purchase 5 Iron Bar for 250000 Iron Bits.
-Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
-Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
-I've changed my mind.
+下次再说吧。
+欢迎你，我的朋友{^n}{^n}我知道当你看见某人带着钱时，那就会有你的份。{^n}{^n}想做个交易换取一些铁锭吗？
+我要买买买。
+妙哉!{^n}{^n}我有些铁锭，每个价值 50000 铁币。也许对你来说太便宜了？{^n}{^n}那用 500000 铁币购买1堆铁锭如何？
+用 50000 铁币购买1块铁锭。
+用 250000 铁币购买5块铁锭。
+用 500000 铁币购买1堆铁锭。
+用 2500000 铁币购买5堆铁锭。
+我改变主意了。
 
-What would I want these for?
-I offer a humble service, no string attached.{^n}{^n}Bring me Iron Bits and in exchange you will receive Iron Bars.{^n}{^n}Pass these on to your allies or perhaps your alter egos. If they bring them to me then I will happily take them off their hands for their original value.
+我要这些有什么用?
+我提供价格公道的服务，没有什么油水。{^n}{^n}把铁币带给我，作为交换，你会得到铁块。{^n}{^n}把这些带给你的盟友或者小伙伴。如果他们把这些带回我这里，我会很乐意用原价从他们手里换回来。
 
-Perhaps another time.
-Perhaps another time.
-If you've no money then move along.{^n}{^n}I only deal with those that carry serious coin.
-Goodbye.
+下次再说吧。
+下次再说吧。
+如果你没钱就滚吧。{^n}{^n}我只与那些带了重要货币的人做交易。
+再见。

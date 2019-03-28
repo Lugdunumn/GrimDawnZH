@@ -172,7 +172,7 @@ tagGDX1WeaponCaster1hB103=巫登沼泽风暴纷争
 tagGDX1WeaponCaster1hB104=升灵之引
 tagGDX1WeaponCaster1hB105=升灵之源
 tagGDX1WeaponCaster1hB106=霜腐魔杖
-tagGDX1WeaponCaster1hB107=死亡传播之杖
+tagGDX1WeaponCaster1hB107=死亡使者权杖
 tagGDX1WeaponCaster1hB108=西奥丁·马塞尔之心
 tagGDX1WeaponCaster1hB108_Desc="其主人的部分力量仍在其中跳动着。"
 
@@ -350,7 +350,7 @@ tagGDX1HeadC124=激情之锅
 tagGDX1HeadC124_Desc="戴上这口锅之后整个人激情十足."
 
 tagGDX1HeadD101=死灵领主的凝视
-tagGDX1HeadD102=剧毒术士诡计
+tagGDX1HeadD102=剧毒术士的诡计
 tagGDX1HeadD103=法术凝视
 tagGDX1HeadD104=龙骨面具
 tagGDX1HeadD109=德里格的呼声
@@ -906,7 +906,7 @@ tagGDX1Blueprint_WeaponB105=设计图：石墙防御者
 tagGDX1Blueprint_WeaponB106=设计图：法术冲击宝典
 tagGDX1Blueprint_WeaponB107=设计图：阴燃神像
 tagGDX1Blueprint_WeaponB108=设计图：霜腐魔杖
-tagGDX1Blueprint_WeaponB109=设计图：死亡传播权杖
+tagGDX1Blueprint_WeaponB109=设计图：死亡使者权杖
 
 tagGDX1Blueprint_WeaponC101=设计图：反对者
 tagGDX1Blueprint_WeaponC102=设计图：神话 阿尔杜的审判
@@ -1080,14 +1080,14 @@ tagGDX1Blueprint_AccessoryD103=设计图：余烬束腰
 tagGDX1Blueprint_AccessoryD104=设计图：神话 卡拉斯特勋章
 tagGDX1Blueprint_AccessoryD105=设计图：消耗标记
 tagGDX1Blueprint_AccessoryD106=设计图：神话 冰火统治之戒
-tagGDX1Blueprint_AccessoryD107=设计图：岩石守卫腰带
+tagGDX1Blueprint_AccessoryD107=设计图：岩石守卫束腰
 tagGDX1Blueprint_AccessoryD108=设计图：要塞护腰
 tagGDX1Blueprint_AccessoryD109=设计图：神话 仁慈化身
 tagGDX1Blueprint_AccessoryD110=设计图：神话 德里格的瘟疫
 tagGDX1Blueprint_AccessoryD111=设计图：神话 凯恩的复仇者
 tagGDX1Blueprint_AccessoryD112=设计图：神话 修补匠的精工
 tagGDX1Blueprint_AccessoryD113=设计图：神话 落锤腰带
-tagGDX1Blueprint_AccessoryD114=设计图：神话 不朽者系带
+tagGDX1Blueprint_AccessoryD114=设计图：神话 不朽圣者系带
 tagGDX1Blueprint_AccessoryD115=设计图：神话 黑暗幻想标记
 tagGDX1Blueprint_AccessoryD116=设计图：神话 诅咒者的标记
 tagGDX1Blueprint_AccessoryD117=设计图：神话 凯法·佐斯的雕纹戒指
@@ -1720,7 +1720,7 @@ tagGDX1PrefixAA101=启发的
 tagGDX1PrefixAA022=审判官的
 tagGDX1PrefixAA023=死灵法师的
 
-tagGDX1PrefixAD101=坚不可摧
+tagGDX1PrefixAD101=坚不可摧的
 
 tagGDX1PrefixAO101=卓越的
 

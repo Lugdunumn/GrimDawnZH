@@ -552,7 +552,7 @@ tagManticoreHeroH04=迅爪 尤若克西斯 ~ 迅捷
 tagManticoreHeroH05=猩红之爪 瓦罗克西斯 ~ 碾碎者
 tagManticoreHeroH06=炎鬃~ 布拉泽拉
 
-tagManticoreBoss01=女王 莫伽拉
+tagManticoreBoss01=女王 墨伽拉
 
 #CreatureObsidianDefiler 黑曜石蝎子
 
@@ -693,7 +693,7 @@ tagEnemySkeletonB04=骷髅术士
 tagEnemySkeletonC01=火焰亡魂
 tagEnemySkeletonC02=霜冻亡魂
 tagEnemySkeletonC03=风暴亡魂
-tagEnemySkeletonC04=死亡亡魂
+tagEnemySkeletonC04=死之亡魂
 
 tagSkeletonHeroH01=饮血者~ 泰布里斯
 tagSkeletonHeroH02=德里格的永世仆役~ 巴拉扎尔
@@ -846,7 +846,7 @@ tagTrollSwampHeroH02=若沃斯 ~ 伤害反弹
 tagTrollSwampHeroH03=马加洛克 ~ 虚空之触
 tagTrollSwampHeroH04=阿瓦加尔 ~ 腐化
 
-tagBossTrollB01=狂暴的苟格思
+tagBossTrollB01=狂暴的苟格斯
 tagBossTrollB02=破坏者~ 沃德拉克
 tagBossTrollB03=沼泽之王~ 贝尔戈
 
@@ -1245,7 +1245,7 @@ tagBountyHS13=费比亚斯
 tagBountyKC07=骸骨之语~ 霍威尔
 tagBountyKC08=剧毒之舌~ 依格尼亚
 tagBountyKC09=沃姆·祖尔
-tagBountyKC10=冥神选诏的战士~ 土伦
+tagBountyKC10=冥神选诏的战士~ 索尔隆
 tagBountyKC11=干枯的阿拔西斯
 tagBountyKC19=鲜血私语者~ 卢蒂雅
 tagBountyODV06=怒火~ 哈尔瓦斯塔

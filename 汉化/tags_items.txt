@@ -257,7 +257,7 @@ tagWeaponGun1hC020=冰钻
 tagWeaponGun1hD001=恶魔之舌
 tagWeaponGun1hD002=浩劫
 tagWeaponGun1hD003=释罪者
-tagWeaponGun1hD003Desc="检察官乔斯恩·法莱尔的投弹枪，曾在净化异端女巫中使用。"
+tagWeaponGun1hD003Desc="审判官乔斯恩·法莱尔的投弹枪，曾在净化异端女巫中使用。"
 tagWeaponGun1hD004=诛灭
 tagWeaponGun1hD004Desc="铲除，破坏，湮灭。"
 tagWeaponGun1hD005=奥秘魔印
@@ -1568,7 +1568,7 @@ tagRingA014=帝国戒指
 tagRingA015=黑曜石指环
 tagRingA016=帝国玺戒
 
-tagRingB001=里丹的纪念戒指
+tagRingB001=瑞丹的纪念戒指
 tagRingB001Desc="这枚指环上磨损的刻文写着：爱你的-艾米莉亚。"
 tagRingB002=^l克隆利的印玺
 tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
@@ -1596,7 +1596,7 @@ tagRingC010=抹杀
 tagRingC011=游魂指环
 tagRingC012=药剂师的智慧
 tagRingC013=皇冠印玺
-tagRingC014=皇冠宝戒 
+tagRingC014=皇冠宝戒
 tagRingC015=无畏之戒
 tagRingC016=无畏印玺
 tagRingC017=屠杀之右手戒
@@ -2128,7 +2128,7 @@ tagBlueprint_AccessoryD009=设计图: 破法者护腰
 tagBlueprint_AccessoryD010=设计图: 精通徽章
 tagBlueprint_AccessoryD011=设计图: 神性标记
 
-tagBlueprint_MiscA01=设计图：骸骨钥匙
+tagBlueprint_MiscA01=设计图：骸骨之钥
 tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
 
 tagBlueprint_MaterialA01=^f设计图：虚化集簇
@@ -2279,7 +2279,7 @@ tagCraftMaterial_AncientHeart=远古之心
 tagCraftMaterial_AncientHeart_Desc="它仍在你的袋中以令人惊骇的稳定频率勃动着。"
 tagCraftMaterial_Manticore=蝎尾狮眼球
 tagCraftMaterial_Mancitore_Desc="强大掠食者的锐眼。"
-tagCraftMaterial_SkeletonKey=骸骨钥匙
+tagCraftMaterial_SkeletonKey=骸骨之钥
 tagCraftMaterial_SkeletonKey_Desc="如果传言是真的，那么这枚钥匙将能开启任何一扇远古之门。"
 tagCraftMaterial_CultistSeal=冥煞魔印
 tagCraftMaterial_CultistSeal_Desc="冥神的信徒使用这种魔印，将强大的生物召唤至现实世界。"
@@ -2379,7 +2379,7 @@ tagConsumableBlueprintA17=^f配方：浓缩蜂王浆
 tagConsumableBlueprintA18=^f配方：蜂王浆精华
 tagConsumableBlueprintA19=^f配方：蜂王浆药剂
 tagConsumableBlueprintA19Desc="流浪者的制药秘诀。"
-tagConsumableBlueprintA20=^f配方：蜂王浆药膏
+tagConsumableBlueprintA20=^f配方：蜂王浆油膏
 tagConsumableBlueprintA20Desc="流浪者的制药秘诀。"
 
 tagConsumable_RoyalJellyBalm=^f蜂王浆药膏
@@ -2461,7 +2461,7 @@ tagConsumable_DevotionReset_Desc="净化思绪并准备进行一场新的精神�
 tagDLCIllusionRemoval=幻化去无踪
 tagDLCIllusionRemovalDesc="100%纯度的正牌幻化清除药粉。"
 tagDLCIllusionA01=幻化：假发魔粉
-tagDLCA01=假发魔粉 
+tagDLCA01=假发魔粉
 tagDLCA01Desc="高雅和风尚的定义。"
 tagDLCIllusionA02=幻化：侠盗的外套
 tagDLCA02=侠盗的外套
@@ -2908,20 +2908,20 @@ tagEnchantB032B=凯蒙的远见 II
 tagEnchantB032BC=凯蒙的远见 III
 tagEnchantB032Desc="凯蒙关于凯恩未来的预见使得神选者们在和凯恩的敌人们战斗时陷入了疯狂。"^w^n(用于戒指和项链)
 
-tagEnchantB033A=尤洛布鲁克的话语
-tagEnchantB033B=尤洛布鲁克的话语 II
-tagEnchantB033BC=尤洛布鲁克的话语 III
-tagEnchantB033Desc="在早先的一些训练中，尤洛布鲁克大师握着尸体的手臂，只能说出一个词：起来。"^w^n(用于戒指和项链)
+tagEnchantB033A=尤若布鲁克的话语
+tagEnchantB033B=尤若布鲁克的话语 II
+tagEnchantB033BC=尤若布鲁克的话语 III
+tagEnchantB033Desc="在早先的一些训练中，尤若布鲁克大师握着尸体的手臂，只能说出一个词：起来。"^w^n(用于戒指和项链)
 
-tagEnchantB034A=尤洛布鲁克的痛苦
-tagEnchantB034B=尤洛布鲁克的痛苦 II
-tagEnchantB034BC=尤洛布鲁克的痛苦 III
-tagEnchantB034Desc="尤洛布鲁克大师在安克维亚人手中承受了难以想象的痛苦。这件可怕的魔法物品试图复制其遭受的苦难。"^w^n(用于戒指和项链)
+tagEnchantB034A=尤若布鲁克的痛苦
+tagEnchantB034B=尤若布鲁克的痛苦 II
+tagEnchantB034BC=尤若布鲁克的痛苦 III
+tagEnchantB034Desc="尤若布鲁克大师在安克维亚人手中承受了难以想象的痛苦。这件可怕的魔法物品试图复制其遭受的苦难。"^w^n(用于戒指和项链)
 
-tagEnchantB035A=尤洛布鲁克之道
-tagEnchantB035B=尤洛布鲁克之道 II
-tagEnchantB035BC=尤洛布鲁克之道 III
-tagEnchantB035Desc="追随尤洛布鲁克的道路即是寻求知识之路，无论路在何方。"^w^n(用于戒指和项链)
+tagEnchantB035A=尤若布鲁克之道
+tagEnchantB035B=尤若布鲁克之道 II
+tagEnchantB035BC=尤若布鲁克之道 III
+tagEnchantB035Desc="追随尤若布鲁克的道路即是寻求知识之路，无论路在何方。"^w^n(用于戒指和项链)
 
 tagEnchantB036A=放逐者的威势
 tagEnchantB036B=放逐者的威势 II
@@ -3138,7 +3138,7 @@ tagCompA006Name=突变脓水
 tagCompA006Desc="从感染了异世界能量的生物身上取得。" ^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompA007Name=腐坏之心
-tagCompA007Desc="受死灵法术影响而不再博动的枯萎心脏。" ^w^n(用于胸甲)
+tagCompA007Desc="受死灵法术影响而不再搏动的枯萎心脏。" ^w^n(用于胸甲)
 
 tagCompA008Name=突变鳞片
 tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。" ^w^n(用于胸甲，护肩，腿甲以及手套)
@@ -4196,7 +4196,7 @@ tagBreakableDermapteranA01=革翅目集簇
 tagBreakableBonePileA01=骨堆
 tagBreakableObsidianA01=末日遗迹
 tagBreakableObsidianB01=黑曜石碎片
-tagBreakableAetherCrystal=Aether Crystal Formation 
+tagBreakableAetherCrystal=Aether Crystal Formation
 
 tagChestLocked={^R} ~ 锁着的
 tagChestLockedBoss={^R} ~ 被强大生物锁着的

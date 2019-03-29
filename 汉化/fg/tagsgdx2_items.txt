@@ -416,7 +416,7 @@ tagGDX2WaistD202_Desc="上面烙印着血红莲花，血红莲花将见到这世
 tagGDX2WaistD203=夜火之链
 tagGDX2WaistD204=白莲花
 tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上绽开的天界之花."
-tagGDX2WaistD205=Nosferattis
+tagGDX2WaistD205=诺斯费拉提斯
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
 
@@ -570,7 +570,7 @@ tagGDX2Blueprint_ArmorB203=设计图：风暴守卫紧身裤
 tagGDX2Blueprint_ArmorB204=设计图：寒霜守卫腿铠
 
 tagGDX2Blueprint_ArmorC201=设计图：神话 毁灭面甲
-tagGDX2Blueprint_ArmorC202=设计图：石父头盔 
+tagGDX2Blueprint_ArmorC202=设计图：石父头盔
 
 tagGDX2Blueprint_ArmorD201=设计图：黎明碎片之凝视
 tagGDX2Blueprint_ArmorD202=设计图：幽魂之王华冠
@@ -867,7 +867,7 @@ tagGDX2EnchantB219A=奥西尔的引导
 tagGDX2EnchantB219Desc="这种致密的魔法粉末提取自奥西尔祭司的干枯遗体上，调谐后用以更好地掌控幻术生物。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantB220A=奥西尔的智慧
-tagGDX2EnchantB220Desc="这种致密的粉末提取自奥西尔祭司的干枯遗体上， still teeming with raw arcane energies."^w^n（用于戒指和护符）
+tagGDX2EnchantB220Desc="这种致密的粉末提取自奥西尔祭司的干枯遗体上，仍然充满着原始的奥术能量。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantB221A=索拉尔的预示
 tagGDX2EnchantB221Desc="一件来自巫神索拉尔的馈赠，将不可言说的毁灭许以其敌人。"^w^n（用于全部单手武器，盾牌，以及副手法器）

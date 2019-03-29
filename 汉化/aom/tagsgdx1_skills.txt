@@ -109,7 +109,7 @@ tagGDX1Class07SkillName10A=[审判官]甘达尔号角
 tagGDX1Class07SkillDescription10A=因其破坏心智的能力，研究甘达尔号角被禁止了多个世纪。但是当高级审判官瑟兰尼尔独自面对一整个神秘女巫团时，在绝望之中吹响号角发挥了巨大作用。邪教徒们陷入了自相残杀的混乱，瑟兰尼尔轻松地消灭了余党。这让审判官获赢得了赞扬，之后这号角被光明会学者复制用于战场，但是效力会较弱。
 
 tagGDX1Class07SkillName11A=[审判官]远程专家
-tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物，所有检察官都必须准备好仅仅依靠他们的智慧和火枪来面对敌人。熟练地运用远程武器能让训练有素的审判官在安全距离击毙猎物。^o这是一种远程武器奖励。同时开启双持远程武器的能力。
+tagGDX1Class07SkillDescription11A=即使装备有一批强大的神器和圣物，所有审判官都必须准备好仅仅依靠他们的智慧和火枪来面对敌人。熟练地运用远程武器能让训练有素的审判官在安全距离击毙猎物。^o这是一种远程武器奖励。同时开启双持远程武器的能力。
 tagGDX1Class07SkillName12A=[审判官]爆裂子弹
 tagGDX1Class07SkillDescription12A=一颗精确校准的子弹会在接触目标时引发爆炸并以烈焰吞噬附近的敌人。^o这是一项远程技能，由默认武器攻击触发。
 tagGDX1Class07SkillName13A=[审判官]寒冰弹幕
@@ -513,7 +513,7 @@ tagGDX1ItemSkillD179Desc=加强你的武器与奥术之间的共鸣，吸收部�
 
 tagGDX1ItemSkillD180Name=召唤血浴奴仆
 tagGDX1ItemSkillD180Desc=在坟墓的折磨降临在血浴奴仆们的身上之前，召唤出他们向敌人施放活力吸取法术。^o血浴奴仆受到玩家伤害加成影响。
-tagGDX1ItemSkillD180SkillTracker=已召唤血浴奴仆数 
+tagGDX1ItemSkillD180SkillTracker=已召唤血浴奴仆数
 
 tagGDX1ItemSkillD181Name=纳扎染之魂
 tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将敌人遭受的痛苦转化为生命力传导给你。^o同一时间只能召唤一个纳扎染的灵魂。领主纳扎染的伤害受到玩家的伤害加成。
@@ -724,7 +724,7 @@ tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注�
 tagGDX1DevotionEffectB101=谣言
 tagGDX1DevotionEffectB101Desc=穆谟话语中包含的可怕真相在你的敌人中间流传，就像经久不衰的谣言，粉碎了他们的心智。
 tagGDX1DevotionEffectB102=凤凰烈焰
-tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠的太近的敌人。
+tagGDX1DevotionEffectB102Desc=凤凰燃烧的羽毛在你周围盘旋，把你包围在保护性屏障里并焚烧所有靠得太近的敌人。
 tagGDX1DevotionEffectB103=激励
 tagGDX1DevotionEffectB103Desc=佳丽亚的旋律激励你和你的盟友无惧困难向前挺进。
 

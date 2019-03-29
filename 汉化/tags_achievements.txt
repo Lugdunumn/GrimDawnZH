@@ -44,7 +44,7 @@ ach010Desc=与6个派系关系达到崇敬。
 ach011Title=至高之神的仆从
 ach011Desc=在凯蒙的神选者的声望达到崇敬。
 
-ach012Title=尤洛布鲁克的信徒
+ach012Title=尤若布鲁克的信徒
 ach012Desc=在死亡守夜人教团的声望达到崇敬。
 
 ach013Title=堕落的终结

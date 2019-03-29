@@ -238,7 +238,7 @@ tagGDX1ShieldD101=诅咒深渊
 tagGDX1ShieldD101_Desc="那些接受温迪戈礼物的人将被永远诅咒."
 tagGDX1ShieldD102=伊露兰守望者
 tagGDX1ShieldD102_Desc="岩石之面说只有当帝国迫切需要时它才睁开眼睛."
-tagGDX1ShieldD103=特瑞恩的报复 
+tagGDX1ShieldD103=特瑞恩的报复
 tagGDX1ShieldD107=灰骑士
 tagGDX1ShieldD107_Desc="曼海尔的无名防御者壁垒，他独自一人对抗成群的异教徒并最终成为胜利者."
 tagGDX1ShieldD108=奥克塔维尔斯的壁垒
@@ -535,7 +535,7 @@ tagGDX1HandsC111=鲜血仪式护手
 
 tagGDX1HandsD101=断裂扭曲之握
 tagGDX1HandsD101_Desc="触及虚空本体的手套被永远地扭曲."
-tagGDX1HandsD102=霸主铁护手 
+tagGDX1HandsD102=霸主铁护手
 tagGDX1HandsD103=伊格纳法的护手
 tagGDX1HandsD104=哈加拉德的极寒之握
 tagGDX1HandsD109=猩红之爪
@@ -581,7 +581,7 @@ tagGDX1LegsD110_Desc="用来制作铠甲的野兽毛皮，似乎不是伊露兰�
 tagGDX1FeetB101=无畏战靴
 tagGDX1FeetB102=石板胫甲
 
-tagGDX1FeetC101=恐怖收割长靴 
+tagGDX1FeetC101=恐怖收割长靴
 tagGDX1FeetC102=死亡行者裹足
 tagGDX1FeetC102_Desc="无法确定靴子上的骨头是来自野兽还是人."
 tagGDX1FeetC103=赛勒科尔的进军
@@ -1150,7 +1150,7 @@ tagGDX1RelicD110Desc="沉醉杀戮."
 tagGDX1RelicD111=尤若布鲁克的收割
 tagGDX1RelicD111Desc="不死领主的亲传."
 tagGDX1RelicD112=伊格纳法的燃烧
-tagGDX1RelicD112Desc="古代墓葬中的伊格纳法之石不是唯一被光明会净化修复的神器."
+tagGDX1RelicD112Desc="伊格纳法之石是光明会修复并净化的古代墓葬中的神器 。"
 tagGDX1RelicD113=莫格卓根的热忱
 tagGDX1RelicD113Desc="孤狼之死，群狼而生."
 tagGDX1RelicD114=死亡追猎者
@@ -1181,7 +1181,7 @@ tagGDX1CraftMaterial_HeartOfDarkness_Desc="充满邪恶的能量，渴望获得�
 
 tagGDX1ConsumableBlueprintA01=配方：饮火者药膏
 
-tagGDX1ConsumableA101=哈盖特的水晶
+tagGDX1ConsumableA101=哈格特的水晶
 tagGDX1ConsumableA101Desc="充满了奇怪的能量，好像有什么东西在试图逃跑..."
 
 tagGDX1ConsumableA102=卡斯帕罗夫的水晶
@@ -1822,7 +1822,7 @@ tagGDX1Chest_MadRamblingsReward=伊旺达的礼物
 tagGDX1Chest_MadRamblingsLoot=伊旺达的藏匿物
 tagGDX1Chest_MadRamblingsNote=伊旺达的宝箱
 
-tagGDX1Chest_KatrineCorpse=卡特琳的遗骸
+tagGDX1Chest_KatrineCorpse=卡崔因的遗骸
 tagGDX1Chest_RenochCorpse=瑞诺什的遗骸
 tagGDX1Chest_UnknownCorpse=腐尸
 

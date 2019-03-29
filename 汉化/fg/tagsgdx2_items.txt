@@ -1008,7 +1008,7 @@ tagGDX2BoosterEldritch_C01=寇瓦克的委任状
 
 
 #ItemSets
-tagItemSetC008CName=Amnesty
+tagItemSetC008CName=特赦
 
 tagGDX2ItemSetC201Name=巴尔迪尔的板甲
 tagGDX2ItemSetC201BName=巴尔迪尔的勋章

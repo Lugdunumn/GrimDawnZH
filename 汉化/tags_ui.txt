@@ -422,7 +422,8 @@ tagHUD_RightMouse_R1=这是你的次要攻击方式。点击右键来分配一�
 tagHUD_CompassToggleName=指南针地图开关
 tagHUD_CompassToggleDescription=点击更改尺寸或最小化指南针地图。
 tagHUD_LootMode=战利品过滤器
-tagHUD_LootModeDescription=调整选项来显示对应的战利品。
+tagHUD_LootHide=切换 显示/隐藏 物品
+tagHUD_LootModeDescription=调整选项来显示对应的战利品。切换显示/隐藏物品可用于匆忙遭遇战期间隐藏所有掉落的物品，在解决战斗后再次显示它们。
 tagHUD_LootModeToggleOff=自动显示战利品 ^D(关闭)
 tagHUD_LootModeToggleCommon=自动显示战利品 (普通及以上)
 tagHUD_LootModeToggleMagic=自动显示战利品 ^Y(魔法及以上)
@@ -473,6 +474,8 @@ tagHUDButtonRollOptions=保存，退出和游戏设置。
 
 #LootFilterUI
 tagLootFilterWindowTitle=战利品过滤器
+tagLootFilterToggleOn=显示物品
+tagLootFilterToggleOff=隐藏物品
 tagLootFilterTitle01=品质
 tagLootFilterTitle02=类型
 tagLootFilterTitle03=伤害

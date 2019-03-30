@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=目标明确
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
 tagGDX2Class09SkillName07A=清算之眼
-tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为0%时，清算之眼每0.2s造成伤害并消耗能量。
+tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.2s造成伤害并消耗能量。
 tagGDX2Class09SkillName07B=魂火
 tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。
 
@@ -625,4 +625,5 @@ tagGDX2EnemySkillD14_Desc=你忍受着对天神的敬畏。
 tagGDX2EnemySkillD15=天神雕像
 tagGDX2EnemySkillD15_Desc=一座附近的雕像增强了寇瓦克并对凡人造成伤害。
 
-
+tagGDX2EnemySkillD16=嚎风
+tagGDX2EnemySkillD16_Desc=一股强大的刺骨寒风将导致你使用的投射物无法命中目标。

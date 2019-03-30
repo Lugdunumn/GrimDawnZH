@@ -271,6 +271,7 @@ tagGDX2EnemySummon_FlameJet=岩浆爆
 tagGDX2EnemySummon_Volcano=火山
 tagGDX2EnemySummon_LightningOrb=风暴电球
 
+
 #Boss&Quest
 tagGDX2Quest_BysmielSummon_01=阿特弗召唤物
 tagGDX2Quest_WitchGodAlly=束缚野兽
@@ -382,4 +383,7 @@ tagGDX2BountyWG10=守卫者 亚哈鲁姆
 tagGDX2BountyWG11=守卫者 乌拉佐
 
 
+#Races
 
+tagRace017=增强的
+tagRace017P=增强的

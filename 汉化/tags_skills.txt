@@ -199,7 +199,6 @@ tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消�
 tagClass02SkillName03F=[爆破者]灼热之力
 tagClass02SkillDescription03F=当使用强力的双手近战或远程武器时,火焰打击会造成毁灭性的伤害.^o需要一把双手近战或双手远程武器.
 
-
 tagClass02SkillName04A=[爆破者]罐式炸弹
 tagClass02SkillDescription04A=填装了更多爆炸物的炸药,这项恐怖的发明能够击垮一整片敌人.
 tagClass02SkillName04B=[爆破者]改良外壳
@@ -219,15 +218,15 @@ tagClass02SkillName05E=[爆破者]电击迫击炮
 tagClass02SkillDescription05E=向敌人发射带电的迫击炮弹.
 
 tagClass02SkillName06A=[爆破者]铝热地雷
-tagClass02SkillDescription06A=投掷一组小而致命的火焰地雷,用强烈的火焰喷射烧焦敌人.^o地雷会受到玩家伤害加成的影响，被敌人触发后持续12s.
+tagClass02SkillDescription06A=投掷一组小而致命的火焰地雷,用强烈的火焰喷射烧焦敌人.^o地雷会受到玩家伤害加成的影响.
 tagClass02SkillName06B=[爆破者]地狱火地雷
 tagClass02SkillDescription06B=同时用烟火制造术和炼金术对铝热地雷进行改进,使它可以用灼热的火焰烧焦敌人.
 tagClass02SkillName06C=[爆破者]烈焰喷射
 tagClass02SkillDescription06C=喷射一束致命的白热火焰将经过的敌人烧成灰烬.
 tagClass02SkillName06D=[爆破者]引爆
-tagClass02SkillName07A=[爆破者]防爆护盾
-tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量所有类型伤害的护盾,并降低受到的穿刺与火焰伤害.攻击你的敌人会受到护盾的炽烈反击.
 
+tagClass02SkillName07A=[爆破者]防爆护盾
+tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量所有类型伤害的护盾,并加强防御.攻击你的敌人会受到护盾的炽烈反击.
 tagClass02SkillName07B=[爆破者]奥祖因的选召
 tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐,获得他的祝福,可以对世界造成炽烈破坏.^o影响眩晕投掷,手榴弹和罐式炸弹并需要其中的技能之一才能生效.
 
@@ -473,6 +472,7 @@ xtagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险�
 xtagClass04SkillName14B=[夜刃]爆裂之刃 
 xtagClass04SkillDescription14B=熟练掌握致命策略之后,就能以攻击目标为原点爆射出大量致人死地的幻影刀锋,对附近的敌人造成伤害.
 
+
 xtagClass04SkillName15A=[夜刃]剔骨
 xtagClass04SkillDescription15A=迅猛的切割使受害者长时间出血,同时削弱他们的移动力和攻击速度.^o需要一把剑或斧.
 xtagClass04SkillName15B=[夜刃]阿玛拉斯塔的策略
@@ -527,7 +527,7 @@ tagClass05SkillName05B=[奥术师]转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
 tagClass05SkillName06A=[奥术师]阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为0%时，虚化射线每0.3s造成伤害并消耗能量。
+tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器.^o施法速度为100%时，虚化射线每0.3s造成伤害并消耗能量。
 tagClass05SkillName06B=[奥术师]崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=[奥术师]堕落之力
@@ -1780,7 +1780,7 @@ tagItemSkillD145Name=暗影毒液
 tagItemSkillD145Desc=施放封闭于刀锋之中的邪恶毒素,将敌人的血肉化为岩石.
 
 tagItemSkillD146Name=清算
-tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.^o施法速度为0%时，清算每0.3s造成伤害并消耗能量。
+tagItemSkillD146Desc=释放一束奥术破坏能量来清除它所触碰的一切,穿透并抹除敌人的存在.^o施法速度为100%时，清算每0.3s造成伤害并消耗能量。
 
 tagItemSkillD147Name=黑曜石震颤
 tagItemSkillD147Desc=像黑曜石尖刺穿透大地一般地粉碎虚空与现实的屏障.
@@ -2099,6 +2099,7 @@ tagItemSkillD250Desc=用极其血腥的方式撕裂附近敌人.
 
 tagItemSkillD251Name=黑色标记
 tagItemSkillD251Desc=苍白之神的标记使你的敌人陷入极度痛苦之中.
+
 tagItemSkillD252Name=恐惧一击
 tagItemSkillD252Desc=隐入亡者之境,瞬间现身向敌人发动一击.
 
@@ -2318,7 +2319,7 @@ tagRelicSkillC007Name=噬魂
 tagRelicSkillC007Desc=唤起受折磨的灵魂缠绕你的敌人并冰冻他们的血液.
 
 tagRelicSkillC008Name=爆炎
-tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为0%时，爆炎每0.3s造成伤害并消耗能量。
+tagRelicSkillC008Desc=发动一束强烈到即使最坚固的护甲也无法抵挡的纯净火焰.^o这是一项引导技能,需要持续施法.施法速度为100%时，爆炎每0.3s造成伤害并消耗能量。
 
 tagRelicSkillC009Name=召唤风暴魔犬 
 tagRelicSkillC009Desc=召唤一只忠诚的风暴魔犬~源于天堂的可怕野兽.^o同一时间只能召唤一只风暴魔犬.风暴魔犬会受到战宠加成影响.

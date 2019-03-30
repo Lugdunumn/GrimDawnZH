@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=[审判官]武器之语
 tagGDX1Class07SkillDescription03D=将意志注入强大的双手武器，审判官可以将更多的符文刻进他们的装备并且能更频繁地使用重生之语。^o需要装备双手近战武器或双手远程武器。
 
 tagGDX1Class07SkillName04A=[审判官]伊格纳法之焰
-tagGDX1Class07SkillDescription04A=把伊格纳法之石置于胸前，只要将意志持续引导进神器，就能从掌中爆发出一道烈焰奔流。^o这是一项引导技能，必须按下保持施法。^o施法速度为0%时，伊格纳法之焰每0.3秒造成一次伤害。
+tagGDX1Class07SkillDescription04A=把伊格纳法之石置于胸前，只要将意志持续引导进神器，就能从掌中爆发出一道烈焰奔流。^o这是一项引导技能，必须按下保持施法。^o施法速度为100%时，伊格纳法之焰每0.3秒造成一次伤害。
 tagGDX1Class07SkillName04B=[审判官]增强
 tagGDX1Class07SkillDescription04B=强化伊格纳法之焰，融穿护甲并将敌人烧成灰烬。
 tagGDX1Class07SkillName04C=[审判官]地狱肃清
@@ -130,7 +130,7 @@ tagGDX1Class08SkillName00A=死灵法师
 tagGDX1Class08SkillDescription00A=掌握着等待众生的残酷命运。
 
 tagGDX1Class08SkillName01A=[死灵法师]吸取精华
-tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟愿，哪怕这伟愿有时意味着牺牲某个人的生命让他人得以存活。这种转移生命力的行为为世人所唾弃，但仍有信徒无法抗拒鲜活生命力的诱惑。^o施法速度为0%时，每0.3s造成一次伤害并产生吸取效果。
+tagGDX1Class08SkillDescription01A=死灵法师坚信着一个伟愿，哪怕这伟愿有时意味着牺牲某个人的生命让他人得以存活。这种转移生命力的行为为世人所唾弃，但仍有信徒无法抗拒鲜活生命力的诱惑。^o施法速度为100%时，每0.3s造成一次伤害并产生吸取效果。
 tagGDX1Class08SkillName01B=[死灵法师]饥渴之触
 tagGDX1Class08SkillDescription01B=体验过生命精华后的饥渴是无法轻易满足的。将饥渴倾注于法术，使吸取精华有时会影响目标附近额外的敌人。
 tagGDX1Class08SkillName01C=[死灵法师]分解

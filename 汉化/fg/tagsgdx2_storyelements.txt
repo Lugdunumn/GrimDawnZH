@@ -10,7 +10,7 @@ tagGDX2MapOasis=炎阳绿洲
 tagGDX2MapDeadLake=漂骨盆地
 tagGDX2MapArea03=玄武岩崖
 tagGDX2MapRuinedCity02=阿贝德废墟
-tagGDX2MapBurningSpire=燃烧尖塔 
+tagGDX2MapBurningSpire=燃烧尖塔
 tagGDX2MapArea04=炼狱荒地
 tagGDX2MapVolcano01=奥祖因之眼
 tagGDX2MapVolcano02=阿佩什深渊
@@ -19,7 +19,7 @@ tagGDX2MapArea05=科凡城遗迹
 tagGDX2MapRaisedTemple=向阳尖塔
 tagGDX2MapMessengersVolcano=赎罪洞穴
 tagGDX2MapRoadToKorvaakTemple=晋升之路
-tagGDX2MapVanguardBase=三巫神先驱
+tagGDX2MapVanguardBase=三巫神先锋营
 tagGDX2MapSecretDesertShrine=阿泽隆神龛
 tagGDX2MapSecretBaseShrine=霍兰神龛
 
@@ -32,7 +32,7 @@ tagGDX2RiftTempleOfOsyr=奥西尔神庙传送门
 tagGDX2RiftKorvanSands=科凡沙漠传送门
 tagGDX2RiftCairanDocks=凯伦码头传送门
 tagGDX2RiftOasis=炎阳绿洲传送门
-tagGDX2RiftVanguard=三巫神先驱传送门
+tagGDX2RiftVanguard=三巫神先锋营传送门
 tagGDX2RiftAbyd=阿贝德废墟传送门
 tagGDX2RiftInfernalWastes=炼狱荒地传送门
 tagGDX2RiftKorvanCity=科凡城传送门
@@ -97,7 +97,7 @@ tagGDX2Cellar=被遗忘的地窖
 tagGDX2DesertUG01=沉默深坑
 tagGDX2CairanRuins02=凯伦浴室
 tagGDX2RuinedTemple04=拉恩之墓
-tagGDX2RuinedTemple04A=拉恩的地图室 
+tagGDX2RuinedTemple04A=拉恩的地图室
 tagGDX2RuinedPass01=阿贝德基地
 tagGDX2VOTC04=伊拉之墓
 
@@ -279,7 +279,7 @@ tagGDX2QuestItemSolaelFaction02=拉恩的第二块符语
 tagGDXQuestItemSolaelFaction02_Desc="一块拉恩石碑上的残片。看起来好像是有人故意敲碎了石碑。"
 
 tagGDX2QuestItemSolaelFaction03=拉恩的第三块符语
-tagGDXQuestItemSolaelFaction03_Desc="一块拉恩石碑上的残片。看起来好像是有人故意敲碎了石碑。" 
+tagGDXQuestItemSolaelFaction03_Desc="一块拉恩石碑上的残片。看起来好像是有人故意敲碎了石碑。"
 
 tagGDX2QuestItemEldritchPower=加尔芬核心
 tagGDX2QuestItemEldritchPower_Desc="邪术能量球像某种非自然生物的心脏那样搏动。"
@@ -303,7 +303,7 @@ tagGDX2QuestItemMothersPendant=母亲的吊坠
 tagGDX2QuestItemMothersPendant_Desc="这条吊坠是尤若布鲁克唯一的遗物。上面的骨头刻有一位年轻女子的轮廓，但是没有姓名。"
 
 tagGDX2QuestItemLostTome=伊纳图姆的古卷
-tagGDX2QuestItemLostTome_Desc="这本古卷似乎记载了研制奥术圣物和护甲的方法。需要一双经过良好训练的眼睛才能完全破译。" 
+tagGDX2QuestItemLostTome_Desc="这本古卷似乎记载了研制奥术圣物和护甲的方法。需要一双经过良好训练的眼睛才能完全破译。"
 
 tagGDX2QuestItemBloodOfWatchers=守望者之血
 tagGDX2QuestItemBloodOfWatchers_Desc="当它们被消灭时，这种紫色和棕色的物质从尸体中渗出，在科凡盆地游荡。它闻起来像生锈的铁，似乎是在自己的意志下移动。"
@@ -533,21 +533,21 @@ tagGDX2NPC_SmithA01=伊格纳斯
 tagGDX2StoreTitle_SmithA01=蛊惑铁匠
 tagGDX2StoreDesc_SmithA01_1={}带有巫神的标记
 tagGDX2StoreDesc_SmithA01_2=伊格纳斯的工艺被巫神所标记。他的作品带有巫神祝福所赐的超凡特性。
-tagGDX2StoreDesc_SmithA01_3= 
+tagGDX2StoreDesc_SmithA01_3=
 tagGDX2StoreDesc_SmithA01_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX2NPC_SmithA02=艾格希亚·法尔德
 tagGDX2StoreTitle_SmithA02=天神铁匠
 tagGDX2StoreDesc_SmithA02_1={}天神锻造
 tagGDX2StoreDesc_SmithA02_2=据说艾格希亚·法尔德的锻锤是由星辰本身熔炼而成，可锻造94级的传奇装备，甚至包括被遗忘之神锻造的装备。
-tagGDX2StoreDesc_SmithA02_3= 
+tagGDX2StoreDesc_SmithA02_3=
 tagGDX2StoreDesc_SmithA02_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 tagGDX2NPC_SmithA03=艾格隆
 tagGDX2StoreTitle_SmithA03=被遗忘的铁匠
 tagGDX2StoreDesc_SmithA03_1={}沙漠锻造
 tagGDX2StoreDesc_SmithA03_2=虽然艾格隆的身子骨饱经风沙的洗礼，但他的锻锤技艺可谓是宝刀不老。
-tagGDX2StoreDesc_SmithA03_3= 
+tagGDX2StoreDesc_SmithA03_3=
 tagGDX2StoreDesc_SmithA03_4=锻造的武器，护甲和饰品会被灌注以下属性之一:
 
 #Faction Quartermasters

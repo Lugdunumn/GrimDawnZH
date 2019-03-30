@@ -1,6 +1,6 @@
 #Region Names
 tagGDX2MapEndlessDungeon=碎裂之境
-tagGDX2MapEndlessBoss=碎裂守卫的领地
+tagGDX2MapEndlessBoss=碎界守卫的领地
 tagGDX2MapEndlessTreasure=碎裂之境的辉煌
 
 #Shattered Bosses

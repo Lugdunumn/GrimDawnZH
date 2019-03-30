@@ -48,7 +48,7 @@ tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔�
 tagGDX2Class09SkillName04B=火山步伐
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
 tagGDX2Class09SkillName04C=地质位移
-tagGDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害
+tagGDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害。
 tagGDX2Class09SkillName04D=火山之力
 tagGDX2Class09SkillDescription04D=被守誓者的盾牌击中时，维尔之力的复仇怒火会击倒意志不坚的敌人。^o需要装备盾牌或双手近战武器。
 
@@ -61,7 +61,7 @@ tagGDX2Class09SkillDescription05C=正义的愤怒在守誓者及其盟友的心�
 
 tagGDX2Class09SkillName06A=升华
 tagGDX2Class09SkillDescription06A=通过深度沉思和坚定信念，守誓者可短暂地使神灵与自己同在。这道指引之光可以在艰难时刻提供慰藉，感受神的真实力量。
-tagGDX2Class09SkillName06B=目标明确 
+tagGDX2Class09SkillName06B=目标明确
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
 tagGDX2Class09SkillName07A=清算之眼
@@ -190,7 +190,7 @@ tagGDX2ItemSkillD224Desc=转投于巫神的低语之中，放弃对于你的旧�
 tagGDX2ItemSkillD225Name=暗夜吞噬
 tagGDX2ItemSkillD225Desc=尤戈尔无尽的饥饿增强你与你的盟友。^o这项技能必须保持开启以持续生效。
 
-tagGDX2ItemSkillD226Name=美德守卫 
+tagGDX2ItemSkillD226Name=美德守卫
 tagGDX2ItemSkillD226Desc=你身上爆发出一道神圣光辉，眩晕周围的敌人。
 
 tagGDX2ItemSkillD227Name=脉冲爆炸
@@ -204,7 +204,7 @@ tagGDX2ItemSkillD229Desc=在扭曲环境中凭借可怕的能量从邪术领域�
 tagGDX2ItemSkillD229_Pet01=蜘蛛獠牙
 
 tagGDX2ItemSkillD230Name=邪术碎片
-tagGDX2ItemSkillD230Desc=咒语召唤一块邪术能量水晶赋予自己与站在光环范围内的盟友力量同时伤害敌人。 
+tagGDX2ItemSkillD230Desc=咒语召唤一块邪术能量水晶赋予自己与站在光环范围内的盟友力量同时伤害敌人。
 tagGDX2ItemSkillD230_Pet01=邪术之辉
 tagGDX2ItemSkillD230_Pet01Desc=在碎片周围战斗给予你恐怖的力量并伤害周围的敌人。
 tagGDX2ItemSkillD230_Pet02=邪术烙印

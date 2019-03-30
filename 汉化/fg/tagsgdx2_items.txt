@@ -20,7 +20,7 @@ tagGDX2WeaponSwordF202=索拉尔切刀
 tagGDX2WeaponSwordF203=放血者
 
 
-tagGDX2WeaponBluntB201=天蝎击锤
+tagGDX2WeaponBluntB201=天蝎大锤
 tagGDX2WeaponBluntB202=天蝎锤棍
 tagGDX2WeaponBluntB203=甘纳'瓦卡之刺
 tagGDX2WeaponBluntB204=巴高尔之根
@@ -173,8 +173,8 @@ tagGDX2ShieldF203=守御
 #Focus
 tagGDX2FocusB201=格罗布沙之神像
 tagGDX2FocusB202=格罗布邪恶神像
-tagGDX2FocusB203=受压迫的灵魂
-tagGDX2FocusB204=受压制的灵魂
+tagGDX2FocusB203=受迫怨灵
+tagGDX2FocusB204=受制怨灵
 tagGDX2FocusB205=扎尔泽兰的档案
 
 tagGDX2FocusC201=清算法典

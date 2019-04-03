@@ -3386,6 +3386,7 @@ tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，�
 tagDifficultyUnlock={^E}解锁 {%s0} 难度
 tagDifficultyAlreadyUnlocked=你已经解锁了该难度。
 tagDifficultyUnlockDLC=你未拥有与该物品关联的DLC。
+tagDifficultyIncorrectMode=你必须处于正确的游戏模式下才能使用此物品。
 
 #ItemFactionBoosters
 

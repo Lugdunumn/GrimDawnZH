@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=目标明确
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
 tagGDX2Class09SkillName07A=清算之眼
-tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.2s造成伤害并消耗能量。
+tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.16秒造成伤害并消耗能量。
 tagGDX2Class09SkillName07B=魂火
 tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。
 
@@ -93,7 +93,7 @@ tagGDX2Class09SkillName13A=粉碎猛击
 tagGDX2Class09SkillDescription13A=这是持盾守誓者的超凡技艺，打击所产生的共鸣力量能穿透地面，并从初始目标发出附加的冲击波。^o这是一项盾牌战斗技艺，由默认武器攻击触发。需要一把近战武器与盾牌。
 
 tagGDX2Class09SkillName14A=坚毅
-tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最好的防御。即使生命逝去，灵魂也将削弱到来伤害。
+tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最好的防御。随着生命的消逝，灵魂将会奋起抵抗进一步的伤害。
 
 
 #ItemSkills
@@ -266,7 +266,7 @@ tagGDX2RelicSkillD203Name=沙暴
 tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴受到人物伤害的加成。
 
 tagGDX2RelicSkillD204Name=饥渴之触
-tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。 ^o需要一把近战武器。
+tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。 ^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。
 
 tagGDX2RelicSkillD205Name=宁静
 tagGDX2RelicSkillD205Desc=宁静会在艰难时刻把你从伤痛中解救出来。

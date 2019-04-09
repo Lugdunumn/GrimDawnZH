@@ -297,7 +297,7 @@ tagGDX2Miniboss_Beast_06=玛古尔·腐坏者
 
 tagGDX2Quest_EldritchHound_01=加尔芬，恐怖之夜
 tagGDX2Quest_EldritchHound_02=加尔芬的猎犬
-tagGDX2Quest_EldritchWraith_01= 奥卡洛斯释放的邪灵
+tagGDX2Quest_EldritchWraith_01=奥卡洛斯释放的邪灵
 tagGDX2Quest_EldritchLizard_01=奥纳瑞克斯，隐匿利刃
 tagGDX2Quest_EldritchArmor_01=伊什塔尔，心灵收割者
 tagGDX2Quest_EldritchArmor_02=伊什塔尔的守卫者

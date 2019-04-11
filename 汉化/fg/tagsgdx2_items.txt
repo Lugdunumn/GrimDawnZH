@@ -541,7 +541,7 @@ tagGDX2Blueprint_RelicD202=设计图：圣物 - 荣耀
 tagGDX2Blueprint_RelicD203=设计图：圣物 - 阿兹拉卡的时代
 tagGDX2Blueprint_RelicD204=设计图：圣物 - 尤戈尔的饥饿
 tagGDX2Blueprint_RelicD205=设计图：圣物 - 宁静
-tagGDX2Blueprint_RelicD206=设计图：圣物 - 赦免
+tagGDX2Blueprint_RelicD206=设计图：圣物 - 宽恕
 
 tagGDX2Blueprint_WaistF201A=设计图：拜斯迈致命护腰
 tagGDX2Blueprint_WaistF201B=设计图：拜斯迈致命束腰
@@ -648,7 +648,7 @@ tagGDX2Blueprint_RuneD213=设计图：台风符文
 tagGDX2Blueprint_RuneD214=设计图：奥扎德之疯狂符文
 tagGDX2Blueprint_RuneD215=设计图：可鄙之欲符文
 tagGDX2Blueprint_RuneD216=设计图：穆谟之吻符文
-tagGDX2Blueprint_RuneD217=设计图：伊斯塔克之仁慈符文
+tagGDX2Blueprint_RuneD217=设计图：伊师塔克之仁慈符文
 tagGDX2Blueprint_RuneD218=设计图：吸血之阴影符文
 tagGDX2Blueprint_RuneD219=设计图：黑暗强欲符文
 tagGDX2Blueprint_RuneD220=设计图：风暴泰坦符文
@@ -674,7 +674,7 @@ tagGDX2RelicD204Desc="万物中最无可匹敌的贪食欲望。"
 tagGDX2RelicD205=宁静
 tagGDX2RelicD205Desc="内心之平静"
 
-tagGDX2RelicD206=赦免
+tagGDX2RelicD206=宽恕
 tagGDX2RelicD206Desc="践行真正正义的强大意志。"
 
 
@@ -982,7 +982,7 @@ tagGDX2RuneD213=台风符文
 tagGDX2RuneD214=奥扎德之疯狂符文
 tagGDX2RuneD215=可鄙之欲符文
 tagGDX2RuneD216=穆谟之吻符文
-tagGDX2RuneD217=伊斯塔克之仁慈符文
+tagGDX2RuneD217=伊师塔克之仁慈符文
 tagGDX2RuneD218=吸血之阴影符文
 tagGDX2RuneD219=黑暗强欲符文
 tagGDX2RuneD220=风暴泰坦符文

@@ -18,81 +18,81 @@ tagSkillClassDescription09=无论是出身于曼海尔神庙，抑或者将自�
 tagGDX2Class09SkillName00A=守誓者
 tagGDX2Class09SkillDescription00A=天神意志的狂热化身。
 
-tagGDX2Class09SkillName01A=曼海尔神盾
+tagGDX2Class09SkillName01A=[守誓者]曼海尔神盾
 tagGDX2Class09SkillDescription01A=在曼海尔的祝福下，大地的力量涌入全身，向目标投掷魔盾，会震慑并迷惑敌人，再飞回你手中。^o需要装备盾牌。
-tagGDX2Class09SkillName01B=复仇之盾
+tagGDX2Class09SkillName01B=[守誓者]复仇之盾
 tagGDX2Class09SkillDescription01B=带着天神力量和震波的曼海尔神盾，会从初始目标开始弹射打击附近的敌人，再飞回你手中。
-tagGDX2Class09SkillName01C=报复
+tagGDX2Class09SkillName01C=[守誓者]报复
 tagGDX2Class09SkillDescription01C=坚持不懈地训练曼海尔神盾，使其成为你的复仇手段，并突破凡人身躯的极限。
-tagGDX2Class09SkillName01D=荆棘庇护
+tagGDX2Class09SkillName01D=[守誓者]荆棘庇护
 tagGDX2Class09SkillDescription01D=灌注了伟大守护者的苦痛折磨，曼海尔神盾成为了德里格意志的延伸，他的棘刺上不断滴落着毒血。
 
-tagGDX2Class09SkillName02A=正义狂热
+tagGDX2Class09SkillName02A=[守誓者]正义狂热
 tagGDX2Class09SkillDescription02A=守誓者在嘴上默念祈祷，使心中充满正义。当作为默认武器攻击时，正义狂热提升你每一次攻击的强度。 ^o提升充能等级可以提高加成效果。
-tagGDX2Class09SkillName02B=圣化
+tagGDX2Class09SkillName02B=[守誓者]圣化
 tagGDX2Class09SkillDescription02B=你的身髓在天神恩典中变得神圣化，使你获得了不可动摇的决心。
-tagGDX2Class09SkillName02C=惩戒
+tagGDX2Class09SkillName02C=[守誓者]惩戒
 tagGDX2Class09SkillDescription02C=你的专注力坚定不移，使你每次受到攻击都以千倍奉还。
-tagGDX2Class09SkillName02D=德里格的斥责
+tagGDX2Class09SkillName02D=[守誓者]德里格的斥责
 tagGDX2Class09SkillDescription02D=你的祈祷变得扭曲而黑暗，你的热忱已被德里格那疯狂的耳语所驱使。
 
-tagGDX2Class09SkillName03A=审判
+tagGDX2Class09SkillName03A=[守誓者]审判
 tagGDX2Class09SkillDescription03A=守誓者是天神审判的狂热执行者。在他们的意志之下，异教徒敌人都将得到最终审判的制裁。
-tagGDX2Class09SkillName03B=粉碎裁决
+tagGDX2Class09SkillName03B=[守誓者]粉碎裁决
 tagGDX2Class09SkillDescription03B=受到审判的敌人意志将崩溃，他们的命运已经注定。
-tagGDX2Class09SkillName03C=愤怒之心
+tagGDX2Class09SkillName03C=[守誓者]愤怒之心
 tagGDX2Class09SkillDescription03C=执行审判将使你内心充满灼热的意志，并灼烧附近的敌人。
 
-tagGDX2Class09SkillName04A=维尔之力
+tagGDX2Class09SkillName04A=[守誓者]维尔之力
 tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时,盾牌的伤害也会被计算在内.
-tagGDX2Class09SkillName04B=火山步伐
+tagGDX2Class09SkillName04B=[守誓者]火山步伐
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
-tagGDX2Class09SkillName04C=地质位移
+tagGDX2Class09SkillName04C=[守誓者]地质位移
 tagGDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害。
-tagGDX2Class09SkillName04D=火山之力
+tagGDX2Class09SkillName04D=[守誓者]火山之力
 tagGDX2Class09SkillDescription04D=被守誓者的盾牌击中时，维尔之力的复仇怒火会击倒意志不坚的敌人。^o需要装备盾牌或双手近战武器。
 
-tagGDX2Class09SkillName05A=美德降临
+tagGDX2Class09SkillName05A=[守誓者]美德降临
 tagGDX2Class09SkillDescription05A=守誓者是美德与信仰的典范，是鼓舞盟友的瑰宝。那些站在他们身旁的人会不禁激发出英勇卓绝的本领。^o这项技能必须保持开启以持续生效。
-tagGDX2Class09SkillName05B=庇护
+tagGDX2Class09SkillName05B=[守誓者]庇护
 tagGDX2Class09SkillDescription05B=守誓者的存在是无情战乱中提供慰藉的庇护之所。
-tagGDX2Class09SkillName05C=斥责
+tagGDX2Class09SkillName05C=[守誓者]斥责
 tagGDX2Class09SkillDescription05C=正义的愤怒在守誓者及其盟友的心中熊熊燃起。
 
-tagGDX2Class09SkillName06A=升华
+tagGDX2Class09SkillName06A=[守誓者]升华
 tagGDX2Class09SkillDescription06A=通过深度沉思和坚定信念，守誓者可短暂地使神灵与自己同在。这道指引之光可以在艰难时刻提供慰藉，感受神的真实力量。
-tagGDX2Class09SkillName06B=目标明确
+tagGDX2Class09SkillName06B=[守誓者]目标明确
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
-tagGDX2Class09SkillName07A=清算之眼
+tagGDX2Class09SkillName07A=[守誓者]清算之眼
 tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.16秒造成伤害并消耗能量。
-tagGDX2Class09SkillName07B=魂火
+tagGDX2Class09SkillName07B=[守誓者]魂火
 tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。
 
-tagGDX2Class09SkillName08A=召唤至高神守护者
+tagGDX2Class09SkillName08A=[守誓者]召唤至高神守护者
 tagGDX1Class09SkillTracker08A=已召唤守护者数量
 tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。
-tagGDX2Class09SkillName08B=天神化身
+tagGDX2Class09SkillName08B=[守誓者]天神化身
 tagGDX2Class09SkillDescription08B=守护者的出现会灼烧异教徒们的灵魂。
-tagGDX2Class09SkillName08C=德里格之嗣
+tagGDX2Class09SkillName08C=[守誓者]德里格之嗣
 tagGDX2Class09SkillDescription08C=被德里格的凝视所污染，天神守护者成为了酸腐的传承者，他现在效忠于曾经对立的神明。
 tagGDX2Class09SkillName08A_PetSkillA=至高神之斩
 tagGDX2Class09SkillName08A_PetSkillB=德里格之斩
 
-tagGDX2Class09SkillName09A=三巫神之路
+tagGDX2Class09SkillName09A=[守誓者]三巫神之路
 tagGDX2Class09SkillDescription09A=并不是所有守誓者都宣誓效忠于守护伊露兰帝国的神明。他们中的一些人献身于三巫神，渴望能获取一部分他们的恐怖力量。这些守誓者认为自己走上的是正道，没有被失去人性光辉的空虚承诺所蒙蔽。^o这项技能必须保持开启以持续生效。
 
-tagGDX2Class09SkillName10A=神圣使命
+tagGDX2Class09SkillName10A=[守誓者]神圣使命
 tagGDX2Class09SkillDescription10A=无论是以至高神之名举起盾牌，还是作为天神院旗帜下的一员服役，在队伍中崛起的守誓者都被认为是神圣意志和天罚的先驱。^o这项技能必须保持开启以持续生效。
 
-tagGDX2Class09SkillName11A=护卫
+tagGDX2Class09SkillName11A=[守誓者]护卫
 tagGDX2Class09SkillDescription11A=在久经沙场的守誓者手中，盾牌不仅是坚不可摧的防具，还是令人惧怕的武器。^o这是一项盾牌加成。
-tagGDX2Class09SkillName12A=重击
+tagGDX2Class09SkillName12A=[守誓者]重击
 tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。 ^o所有默认武器攻击均可激活该技能效果。当同时装备近战武器与盾牌时，也会由盾牌来触发。
-tagGDX2Class09SkillName13A=粉碎猛击
+tagGDX2Class09SkillName13A=[守誓者]粉碎猛击
 tagGDX2Class09SkillDescription13A=这是持盾守誓者的超凡技艺，打击所产生的共鸣力量能穿透地面，并从初始目标发出附加的冲击波。^o这是一项盾牌战斗技艺，由默认武器攻击触发。需要一把近战武器与盾牌。
 
-tagGDX2Class09SkillName14A=坚毅
+tagGDX2Class09SkillName14A=[守誓者]坚毅
 tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最好的防御。随着生命的消逝，灵魂将会奋起抵抗进一步的伤害。
 
 
@@ -271,7 +271,7 @@ tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，
 tagGDX2RelicSkillD205Name=宁静
 tagGDX2RelicSkillD205Desc=宁静会在艰难时刻把你从伤痛中解救出来。
 
-tagGDX2RelicSkillD206Name=赦免
+tagGDX2RelicSkillD206Name=宽恕
 tagGDX2RelicSkillD206Desc=你总是直面每一次攻击，如果有这个必要你将使用武力手段来宽恕你的敌人。^o需要装备盾牌。
 
 

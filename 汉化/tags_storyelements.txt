@@ -904,11 +904,11 @@ TagLoreObj_OldArkovia_History01Text=在我写这篇日志之时，港口上升�
 
 tagLoreObj_FloodedPassageRuins01Name=罗德拉西斯的著作-第1章
 tagLoreObj_FloodedPassageRuins01codexTitle=罗德拉西斯-第1章
-tagLoreObj_FloodedPassageRuins01Text=末日将要来临。荣耀的安克维亚，西部世界的标志，从内部瓦解了。但是不要害怕，兄弟姐妹们，因为我们是伊斯塔克的选召者。{^n}{^n}在我们祖先的神圣大地之上，即便是傲慢的统治者带来的灾难，我们也会是安全的。我们得逃离此处的永恒灾疫并返回地面，去迎接人类的第二个黎明。{^n}{^n}我怀着沉重的心情封印了神庙的入口。伊斯塔克对于墙后面该死的灵魂来说或许是仁慈的。但它们不会从这里找到慰藉的。
+tagLoreObj_FloodedPassageRuins01Text=末日将要来临。荣耀的安克维亚，西部世界的标志，从内部瓦解了。但是不要害怕，兄弟姐妹们，因为我们是伊师塔克的选召者。{^n}{^n}在我们祖先的神圣大地之上，即便是傲慢的统治者带来的灾难，我们也会是安全的。我们得逃离此处的永恒灾疫并返回地面，去迎接人类的第二个黎明。{^n}{^n}我怀着沉重的心情封印了神庙的入口。伊师塔克对于墙后面该死的灵魂来说或许是仁慈的。但它们不会从这里找到慰藉的。
 
 tagLoreObj_FloodedPassageRuins02Name=罗德拉西斯的著作-第2章
 tagLoreObj_FloodedPassageRuins02codexTitle=罗德拉西斯-第2章
-tagLoreObj_FloodedPassageRuins02Text=伊斯塔克的祝福欺骗了我们。守卫并没有保护我们。安克维亚的诅咒降临了。{^n}{^n}我们处于死亡边缘，但又无法真正死去。我的兄弟姐妹们在不断增长的疯狂下自相残杀，但他们却不断重生然后继续这循环往复的屠杀。{^n}{^n}众神已经抛弃了我们。这不会是我们的希望，反而会是坟墓...
+tagLoreObj_FloodedPassageRuins02Text=伊师塔克的祝福欺骗了我们。守卫并没有保护我们。安克维亚的诅咒降临了。{^n}{^n}我们处于死亡边缘，但又无法真正死去。我的兄弟姐妹们在不断增长的疯狂下自相残杀，但他们却不断重生然后继续这循环往复的屠杀。{^n}{^n}众神已经抛弃了我们。这不会是我们的希望，反而会是坟墓...
 
 tagLoreObj_StepsOfTorment01Name=扎尔泽兰的著作
 tagLoreObj_StepsOfTorment01codexTitle=扎尔泽兰的著作

@@ -137,10 +137,10 @@ tagGDX2ItemSkillD207Name=凤凰降临
 tagGDX2ItemSkillD207Desc=一阵火焰降临吞噬你的敌人。
 
 tagGDX2ItemSkillD208Name=骨矛
-tagGDX2ItemSkillD208Desc=释放抛射一个妖术骨矛来刺穿你的敌人。
+tagGDX2ItemSkillD208Desc=抛射出一个妖术骨矛来刺穿你的敌人。
 
 tagGDX2ItemSkillD209Name=天神降临
-tagGDX2ItemSkillD209Desc=你被至高神的光辉所笼罩。你的所到之处将会焚烧你的敌人。^o这项技能必须保持开启以持续生效。
+tagGDX2ItemSkillD209Desc=全身灌注着至高神的仁慈之光。所到之处将会焚烧你的敌人。^o这项技能必须保持开启以持续生效。
 
 tagGDX2ItemSkillD210Name=太阳黑子
 tagGDX2ItemSkillD210Desc=从天而降的炽热火焰灼烧你的目标。
@@ -176,7 +176,7 @@ tagGDX2ItemSkillD220Name=黎明碎片
 tagGDX2ItemSkillD220Desc=从你这向外爆发出最纯净的索拉丁水晶碎片再返回你之前并灼烧你的敌人。
 
 tagGDX2ItemSkillD221Name=寇瓦克的复仇
-tagGDX2ItemSkillD221Desc=一阵狂暴可怕的能量从你身上爆发，病灼烧你周围的敌人。
+tagGDX2ItemSkillD221Desc=从你身上爆发出一阵狂暴而可怕的能量，并灼烧你周围的敌人。
 
 tagGDX2ItemSkillD222Name=死灵新星
 tagGDX2ItemSkillD222Desc=死灵的能量从你体内爆发并且削弱周围敌人的力量。
@@ -619,8 +619,8 @@ tagGDX2EnemySkillD12_Desc=凯恩世界毁于火海的幻象粉碎了你的意志
 tagGDX2EnemySkillD13=毒刺突啸
 tagGDX2EnemySkillD13_Desc=被带毒的尖刺刺穿同时把你固定在地板上。
 
-tagGDX2EnemySkillD14=天界气势
-tagGDX2EnemySkillD14_Desc=你忍受着对天神的敬畏。
+tagGDX2EnemySkillD14=天神降临
+tagGDX2EnemySkillD14_Desc=天神的降临使你畏惧。
 
 tagGDX2EnemySkillD15=天神雕像
 tagGDX2EnemySkillD15_Desc=一座附近的雕像增强了寇瓦克并对凡人造成伤害。

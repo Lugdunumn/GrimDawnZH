@@ -1,4 +1,4 @@
-tagSkillClassName01=士兵
+﻿tagSkillClassName01=士兵
 tagSkillClassName02=爆破者
 tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃
@@ -6,10 +6,10 @@ tagSkillClassName05=奥术
 tagSkillClassName06=萨满
 tagSkillClassName07=审判官
 tagSkillClassName08=死灵法师
-tagSkillClassName09=?
+tagSkillClassName09=守誓者
 
 tagSkillClassName0102=突击兵^T(士兵+爆破)
-tagSkillClassName0103=[ms]巫师之刃^T(士兵+神秘)[fs]刀刃巫女^T(士兵+神秘)
+tagSkillClassName0103=巫师之刃^T(士兵+神秘)
 tagSkillClassName0104=剑圣^T(士兵+夜刃)
 tagSkillClassName0105=战斗法师^T(士兵+奥术)
 tagSkillClassName0106=守卫^T(士兵+萨满)
@@ -20,27 +20,28 @@ tagSkillClassName0203=烈焰术士^T(爆破+神秘)
 tagSkillClassName0204=破坏者^T(爆破+夜刃)
 tagSkillClassName0205=[ms]巫术师^T(爆破+奥术)[fs]女巫^T(爆破+奥术)
 tagSkillClassName0206=[ms]元素使者^T(爆破+萨满)[fs]元素女郎^T(爆破+萨满)
-tagSkillClassName0207=[ms]净化者^T(爆破+审判)[fs]净化女使^T(爆破+审判)
+tagSkillClassName0207=净化者^T(爆破+审判)
 tagSkillClassName0208=污染者^T(爆破+死灵)
 tagSkillClassName0209=
-tagSkillClassName0304=[ms]巫师猎人^T(神秘+夜刃)[fs]巫女猎人^T(神秘+夜刃)
+tagSkillClassName0304=巫师猎人^T(神秘+夜刃)
 tagSkillClassName0305=术士^T(神秘+奥术)
 tagSkillClassName0306=咒术师^T(神秘+萨满)
 tagSkillClassName0307=欺诈者^T(神秘+审判)
-tagSkillClassName0308=[ms]秘法师^T（神秘+死灵）[fs]秘术师^T(神秘+死灵)
-tagSkillClassName0309=
+tagSkillClassName0308=秘法师^T（神秘+死灵）
+tagSkillClassName0309=哨兵^T(神秘+守誓)
 tagSkillClassName0405=破法者^T(夜刃+奥术)
 tagSkillClassName0406=诡术刺客^T(夜刃+萨满)
 tagSkillClassName0407=[ms]潜伏者^T（夜刃+审判）[fs]渗透者^T(夜刃+审判)
 tagSkillClassName0408=收割者^T(夜刃+死灵)
 tagSkillClassName0409=
 tagSkillClassName0506=德鲁伊^T(奥术+萨满)
-tagSkillClassName0507=[ms]法师猎人^T（奥术+审判）[fs]法术猎人^T（奥术+审判）
+tagSkillClassName0507=法师猎人^T（奥术+审判）
 tagSkillClassName0508=缚法者^T(奥术+死灵)
 tagSkillClassName0509=
 tagSkillClassName0607=维护者^T(萨满+审判)
-tagSkillClassName0608=[ms]祭司^T(萨满+死灵)[fs]女祭司^T(萨满+死灵)
-tagSkillClassName0609=
+tagSkillClassName0608=
+tagSkillClassName0609=执政官^T
+(萨满+守誓)
 tagSkillClassName0708=变节者^T(审判+死灵)
 tagSkillClassName0709=
 tagSkillClassName0809=
@@ -93,7 +94,7 @@ tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振,造�
 tagClass01SkillName01C=^g<^F士兵^g>^b致死旋律
 tagClass01SkillDescription01C=在进行一次节奏打击之后,利用技能的优势,短暂地使你所有攻击都附加额外的致命力量.^obuff效果,点数伤害增加到武器伤害里.
 tagClass01SkillName01D=不谐和弦
-tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着风暴的能量.
+tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中,你的攻击中夹杂着元素能量.
 
 tagClass01SkillName02A=^g<^F士兵^g>^b力场波
 tagClass01SkillDescription02A=攻击时通入能量来压缩空气,投射出能量波眩晕敌人并造成伤害.^o该技能发动需要装备盾牌或双手近战武器；直线aoe技能,受施法速度影响,只能攻击同一水平面的敌人.
@@ -112,7 +113,7 @@ tagClass01SkillDescription03B=你的攻击突然而猛烈,使敌人失去平衡,
 tagClass01SkillName04A=^g<^F士兵^g>^b战吼
 tagClass01SkillDescription04A=令人毛骨悚然的战吼削弱敌人的意志,分散他们的注意力.^o防御性技能,减少怪物对你的伤害.
 tagClass01SkillName04C=恐惧
-tagClass01SkillDescription04C=意志不坚定的敌人在听到你可怕的挑衅声后会四散逃逸,他们的弱点暴露无遗.
+tagClass01SkillDescription04C=意志不坚定的敌人在听到你可怕的挑衅声后会四散逃逸.
 tagClass01SkillName04B=^g<^F士兵^g>^b破胆
 tagClass01SkillDescription04B=战吼粉碎敌人的斗志,导致他们无力与你战斗.^o能防止敌人施法,具备控制效果.
 
@@ -205,7 +206,7 @@ tagClass02SkillDescription04A=填装了更多爆炸物的炸药,这项恐怖的�
 tagClass02SkillName04B=^g<^F爆破^g>^b改良外壳
 tagClass02SkillDescription04B=对罐式炸弹外壳的调整增强了震荡威力,并在更大的爆炸范围内造成巨量创伤伤害.
 tagClass02SkillName04C=震荡炸弹
-tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,其中的电流将使敌人患上炮弹休克症.^o眩晕控场.
+tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力,减少造成的伤害但能使敌人患上炮弹休克症.^o眩晕控场.
 
 tagClass02SkillName05A=^g<^F爆破^g>^b迫击抛射炮
 tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮,直至耗尽.^o迫击炮会受到玩家伤害加成的影响.投射物会受到环境物体阻挡,投射物飞行速度较慢.
@@ -427,7 +428,7 @@ tagClass04SkillName07B=^g<^F夜刃^g>^b夜之寒气
 tagClass04SkillDescription07B=使受到暗影面纱影响的敌人感到黑夜般的深寒降临,剥夺他们的生命并削弱防御.^odebuff技能.
 
 tagClass04SkillName08A=^g<^F夜刃^g>^b刀灵
-tagClass04SkillDescription08A=召唤一片旋涡云状的致命刀刃徘徊于战场,以锯齿状的碎片将敌人千刀万剐.^o刀灵会受到玩家的伤害加成影响.
+tagClass04SkillDescription08A=召唤一片旋涡云状的致命刀刃徘徊于战场,将敌人切成碎片后化为锯齿状的碎片.^o刀灵会受到玩家的伤害加成影响.
 tagClass04SkillName08PetA=回旋刃
 tagClass04SkillName08PetB=刀刃爆发
 tagClass04SkillDescription08PetB=刀灵向四面八方发射开膛刀刃.
@@ -528,7 +529,7 @@ tagClass05SkillName05B=^g<^F奥术^g>^b转化
 tagClass05SkillDescription05B=球形护盾将吸收有害的虚弱效果,转化成为能量为你所用.
 
 tagClass05SkillName06A=^g<^F奥术^g>^b阿尔布雷特的虚化射线
-tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器；基础射速3-5hz,能量消耗巨大.
+tagClass05SkillDescription06A=一种强大奥术,能将原始的奥术能量引导为高能的毁灭射线.阿尔布雷特大师在恐怖黎明来临之前经过多年的时间使它臻至完美.^o需要装备副手法器；当施法速度为100%时，基础间隔为0.33秒，能量消耗巨大.
 tagClass05SkillName06B=^g<^F奥术^g>^b崩解
 tagClass05SkillDescription06B=倾泻你所有的能量灌注在虚化射线之中,毁灭性的力量将粉碎所有它接触到的物体.^o每次造成伤害的时间间隔之后魔法消耗都会提高.
 tagClass05SkillName06C=堕落之力
@@ -1201,7 +1202,7 @@ tagItemSkillC085PetSkillName02=剧毒新星
 tagItemSkillC086Name=瘟疫
 tagItemSkillC086Desc=在你所过之处传播瘟疫与疾病.
 
-tagItemSkillC087Name=激怒
+tagItemSkillC087Name=惩戒
 tagItemSkillC087Desc=用盾牌发出的冲击波挑衅敌人.^o需要一面盾牌.
 
 tagItemSkillC088Name=奥术之怒
@@ -1829,7 +1830,7 @@ tagItemSkillD160Desc=用巨人的毁灭怒火打击并碾碎你的敌人.
 tagItemSkillD161Name=复制
 tagItemSkillD161Desc=帕內蒂在奥术复制方面的天赋让人钦佩,特别是在巨大的压力之下时.^o需要法器副手.
 
-tagItemSkillD162Name=反击
+tagItemSkillD162Name=惩戒
 tagItemSkillD162Desc=从盾牌中释放冲击波来激怒你的敌人.^o需要一面盾牌
 
 tagItemSkillD163Name=死亡狂欢
@@ -1959,7 +1960,7 @@ tagItemSkillD204Name=虚空行者
 tagItemSkillD204Desc=当受到虚空恶魔的魔法攻击时,你对虚空的腐蚀之力变得非常抵触,筑起一道能够承受虚空恶魔攻击的壁垒.
 
 tagItemSkillD205Name=古尔’阿玛什的守护
-tagItemSkillD205Desc=当你被物理攻击击中时,古尔’阿玛什的守护能为你抵挡伤害.
+tagItemSkillD205Desc=当你被物理攻击击中时,古尔’阿玛什的守护能为你抵抗物理伤害.
 
 tagItemSkillD206Name=幻境守护
 tagItemSkillD206Desc=在你周围区域制造闪烁的幻境来转移敌人的注意力.^o这项技能必须保持开启以持续生效.
@@ -2344,7 +2345,7 @@ tagRelicSkillC014Desc=一片枯萎之云环绕周身,产生能感染任何接触
 tagRelicSkillC015Name=先祖的羁绊
 tagRelicSkillC015Desc=你的先祖与你的仆从们之间的联系释放了他们以往不可能拥有的潜力.^o这项技能必须保持开启以持续生效.
 
-tagRelicSkillD001Name=救赎
+tagRelicSkillD001Name=守护
 tagRelicSkillD001Desc=用圣光灌注自身并吸收接下来的攻击,使你免受进一步的伤害.
 
 tagRelicSkillD002Name=诅咒
@@ -2374,7 +2375,7 @@ tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒,使他们肉体腐坏意
 tagRelicSkillD010Name=阿格里维斯的怨恨
 tagRelicSkillD010Desc=利用阿格里维斯的愤怒,在你周围制造一阵虚化和混乱能量的漩涡.^o一次发动1道环形投射物。
 
-tagRelicSkillD011Name=湮灭
+tagRelicSkillD011Name=遗忘
 tagRelicSkillD011Desc=对你的敌人发动混沌的纯粹毁灭之力.
 
 tagRelicSkillD012Name=杀戮
@@ -2405,7 +2406,7 @@ tagRelicSkillD020Name=曼海尔的壁垒
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵,为你和你的队友抵挡一定伤害.
 
 tagRelicSkillD021Name=元素混乱
-tagRelicSkillD021Desc=你冒着施法中断的风险,谨慎地平衡着元素力量.释放一股让你的敌人后悔靠近你的力量.
+tagRelicSkillD021Desc=你冒着施法中断的风险,谨慎地平衡着元素力量.释放一股让你的敌人后悔靠近你的力量.^o需要装备法器副手.
 
 
 
@@ -2541,7 +2542,7 @@ tagDevotion_A03=乌鸦^g[初级]（4换5）
 tagDevotion_A03Desc=乌鸦代表了诡诈.这正是巫神将乌鸦视为伙伴与信使的缘由.
 tagDevotion_A04=铁锤^g[初级]（物理系,3换4）
 tagDevotion_A04Desc=铁锤通过神圣之力击打在铁砧上,在塔戈的紧握之下为众神打造武器装备.
-tagDevotion_A05=铁砧^g[初级]（盾系,5换5）
+tagDevotion_A05=铁砧^g[初级]（盾系，附加反击伤害，5换5）
 tagDevotion_A05Desc=铁砧吸收了铁锤的击打之力,在塔戈的神之锻炉中是不可缺少的工具.
 tagDevotion_A06=牧羊杖^g[初级]（召唤系,4换5）
 tagDevotion_A06Desc=牧羊人保护他的天之羊群穿行在夜空中.
@@ -2624,11 +2625,11 @@ tagDevotion_B06=刺客^g[中级]（穿刺系,7换2）
 tagDevotion_B06Desc=刺杀者即死亡行刑者,很少会出现在夜空中.他的到来经常伴随着浓厚的阴云,短暂的出现后再次没入其中,一闪而逝.
 tagDevotion_B07=魔法长者^g[中级]（火系,7换3）
 tagDevotion_B07Desc=魔法长者是所有魔法师的保护者.那些在他的注视下诞生的人据说都被赐予了祝福或者被施加了诅咒,这取决于他的视角,伴随着对奥术力量无与伦比的控制力.
-tagDevotion_B08=深秋野猪^g[中级]（盾系,抗性,7换3）
+tagDevotion_B08=深秋野猪^g[中级]（盾系，抗性，附加反击伤害，7换3）
 tagDevotion_B08Desc=深秋野猪的到来标志着秋季的庆典开端以及树叶的更替.这项活动始于一场盛大的狩猎并结束于肉类与啤酒都吃干喝尽的盛宴.
 tagDevotion_B09=寡妇^g[中级]（虚化系&电系『减抗』,%OA,6换3）
 tagDevotion_B09Desc=寡妇纪念着迷失者以及亡者.当夜空中有一道条状光华闪过时,据说那就是寡妇的眼泪.
-tagDevotion_B10=亡魂^g[中级]（召唤系,攻速&施法+吸血,6换2）
+tagDevotion_B10=亡魂^g[中级]（类召唤,攻速&施法+吸血,6换2）
 tagDevotion_B10Desc=亡魂象征着死亡与悲痛.据说没有人能逃过他的死亡凝视,甚至众神本身也不能.
 tagDevotion_B11=索拉尔的巫术之刃^g[中级]（火系&混乱系『减抗』,5换2）
 tagDevotion_B11Desc=据说索拉尔是三位巫神中最残忍的一个,在他不朽的事业中用他弯曲的祭祀之刃雕刻了数之不尽的受害者雕像.
@@ -2672,6 +2673,7 @@ tagDevotion_B30=艾尔洛,水域看守者^g[中级]（防御系,抗性+净化,5�
 tagDevotion_B30Desc=艾尔洛象征着水流的无尽循环以及无法阻挡的流动,使河流再生,轮流灌溉湖泊与海洋.
 tagDevotion_B31=收割者的镰刀^g[中级]（恢复系,6换6）
 tagDevotion_B31Desc=这杆长柄镰刀象征着馈赠和收获之时.在最热的月份里它会闪耀得最为明亮,为即将到来的秋之野猪让路.
+
 tagDevotion_C01=伊恩的沙漏^g[高级]（防御系,抗性+刷新CD,6）
 tagDevotion_C01Desc=伊恩是时光守护者,是命运螺纹的主宰.人们的出生与死亡都由他掌控.他的标志就是沙漏.
 tagDevotion_C02=憎恶^g[高级]（毒系,混乱系,8）
@@ -2696,7 +2698,7 @@ tagDevotion_C11=盲眼圣者^g[高级]（元素系,7）
 tagDevotion_C11Desc=很多人旅行了成千上万里来寻求伟大盲眼圣者的智慧,但大部分都失望了,他们的灵魂不值得引起她那不朽智慧的注意.
 tagDevotion_C12=海怪,利维坦^g[高级]（冰系,生命,7）
 tagDevotion_C12Desc=星空中巨大的蛇怪,天星的吞噬者以及冰冻寒意之夜的制造者.
-tagDevotion_C13=无名勇士^g[高级]（穿刺系,流血系,爆击+攻速,7）
+tagDevotion_C13=无名勇士^g[高级]（穿刺系,流血系,爆击+攻速,类召唤,7）
 tagDevotion_C13Desc=很多传说都有关于在战斗中阵亡的无名男女们,他们的勇猛和事迹从没被确认过.为了向他们致敬,天星们自动重新排列成了无名勇士的形状.
 
 tagDevotionEffectA01=双生之牙
@@ -2886,29 +2888,6 @@ tagEnemySkillA12_Desc=本·扎尔用黑曜石牢笼困住了你,并用混沌的�
 tagEnemySkillA13=虚火标记
 tagEnemySkillA13_Desc=虚火炙烤你的灵魂,使你暴露在元素和虚化之中.
 
-tagEnemySkillA14=凝血注射
-tagEnemySkillA14_Desc=一种毒剂削弱了你的止血能力.你遭受的任何流血伤害都将变得十分危险.
-
-tagEnemySkillA15=苦难标记
-tagEnemySkillA15_Desc=你被施加了一种衰弱诅咒,对电流和生命吸取的抵抗能力减弱,攻击也难以瞄准目标.
-
-tagEnemySkillA16=死亡之眼
-tagEnemySkillA16_Desc=你被猎手盯上了,对物理攻击的防御已被削弱.
-
-tagEnemySkillA17=混沌吸噬
-tagEnemySkillA17_Desc=来自一头冥煞的诅咒正在迅速抽干你的生命精华.
-
-tagEnemySkillA18=灵魂剥离
-tagEnemySkillA18_Desc=你的灵魂被剥离出窍,削弱了你的抗性.
-
-tagEnemySkillA19=抽取力量
-tagEnemySkillA19_Desc=你的力量被一种诅咒抽走了,伤害和速度被削弱了.
-
-tagEnemySkillA20=瘟疫
-tagEnemySkillA20_Desc=你得了瘟疫,在一定时间内受到毒性伤害并且攻击和防御均被削弱.
-
-
-
 tagEnemySkillD01=熵能虚空
 tagEnemySkillD01_Desc=虚空将你与混乱能量缓缓分离.
 
@@ -2926,33 +2905,3 @@ tagEnemySkillD05_Desc=奥德里奇的权杖释放的能量之弧会击打附近�
 
 tagEnemySkillD06=血誓诅咒
 tagEnemySkillD06_Desc=血誓诅咒削弱了你反抗虚空腐化力量的意志。减少你的抗性，回复力和防御能力。
-
-tagEnemySkillD07=钩网
-tagEnemySkillD07_Desc=你被网住了,流血并减少防御能力.
-
-tagEnemySkillD08=虚空诅咒
-tagEnemySkillD08_Desc=你被一只虚空生物诅咒,妨碍了你的移动,回复和对进攻的专注力.
-
-tagEnemySkillD09=致盲之术
-tagEnemySkillD09_Desc=你被致盲咒术击中,妨碍了你的瞄准和移动.
-
-tagEnemySkillD10=巨魔咆哮
-tagEnemySkillD10_Desc=魁梧巨魔咆哮声使你气馁,削弱了你的速度和远程瞄准能力.
-
-tagEnemySkillD11=邪术诅咒
-tagEnemySkillD11_Desc=你被一头邪术生物诅咒,妨碍了你的移动,回复和对进攻的专注力.
-
-tagEnemySkillD12=生命吸取
-tagEnemySkillD12_Desc=你受到了一种吸血诅咒,它抽取着你的生命精华并削弱了你对物理攻击的防御力.
-
-tagEnemySkillD13=灵魂吸噬
-tagEnemySkillD13_Desc=你受到了一种吸血诅咒,它抽取着你的生命精华并削弱了你对物理攻击的防御力.
-
-tagEnemySkillD14=猛毒瘟疫
-tagEnemySkillD10_Desc=你被一只食尸鬼感染了,削弱了你对的进攻和防御的专注力.
-
-tagEnemySkillD15=吸噬灵魂
-tagEnemySkillD15_Desc=一只幽魂正在吸取你的魂魄,它吸收着你的生命精华.
-
-tagEnemySkillD16=
-tagEnemySkillD16_Desc=

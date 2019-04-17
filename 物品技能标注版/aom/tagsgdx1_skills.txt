@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=污染之焰
 tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=^g<^F审判^g>^b哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响。
+tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响，中心总体伤害减少30%。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=^g<^F审判^g>^b凛冽
 tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
@@ -118,7 +118,7 @@ tagGDX1Class07SkillName14A=^g<^F审判^g>^b风暴散射
 tagGDX1Class07SkillDescription14A=一种应对压倒性数量敌人的无畏技艺，一轮穿梭于面前的风暴散射可以迅速扭转劣势。^o这是一项远程技能，由默认武器攻击触发。双持手枪时每一把手枪发射一轮投射物。
 
 tagGDX1Class07SkillName15A=^g<^F审判^g>^b致命瞄准
-tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^o致命一击；暴击时100%发动^w是他们仅有的机会，然而克敌制胜只需一发足矣。
+tagGDX1Class07SkillDescription15A=当审判官面对人类最强大的敌人时，有时一发射击或精确的^w是他们仅有的机会，然而克敌制胜只需一发足矣。^o致命一击；暴击时100%发动
 
 tagGDX1Class07SkillName16A=^g<^F审判^g>^b神器技艺
 tagGDX1Class07SkillDescription16A=谨慎运用从光明会宝库中复制的危险圣物和神器，是所有审判官训练的核心。在没有经验的人手里，即使出于好意使用它们也可能对其和周围的人造成毁灭的厄运。^o[影响哈格拉符文和卡拉斯特符文并需要其中的技能之一才能生效]

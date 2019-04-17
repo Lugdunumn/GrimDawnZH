@@ -4,7 +4,7 @@ tagSkillClassName0109=战争领主 ^T(士兵+守誓)
 tagSkillClassName0209=破坏盾卫 ^T(爆破+守誓)
 tagSkillClassName0309=哨兵 ^T(神秘+守誓)
 tagSkillClassName0409=[ms]苦头陀^T(夜刃+守誓)[fs]苦师太^T(夜刃+守誓)
-tagSkillClassName0509=圣殿骑士 T^(奥术+守誓)
+tagSkillClassName0509=圣殿骑士  ^T(奥术+守誓)
 tagSkillClassName0609=执政官 ^T(萨满+守誓)
 tagSkillClassName0709=帕拉丁 ^T(审判+守誓)
 tagSkillClassName0809=[ms]暴君^T(死灵+守誓)[fs]压迫者 ^T(死灵+守誓)
@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=^g<^F守誓^g>^b目标明确
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
 tagGDX2Class09SkillName07A=^g<^F守誓^g>^b清算之眼
-tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.2s造成伤害并消耗能量。
+tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器.^o攻速为100%时，清算之眼每0.16s造成伤害并消耗能量。
 tagGDX2Class09SkillName07B=^g<^F守誓^g>^b魂火
 tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。
 
@@ -137,10 +137,10 @@ tagGDX2ItemSkillD207Name=凤凰降临
 tagGDX2ItemSkillD207Desc=一阵火焰降临吞噬你的敌人。
 
 tagGDX2ItemSkillD208Name=骨矛
-tagGDX2ItemSkillD208Desc=释放抛射一个妖术骨矛来刺穿你的敌人。
+tagGDX2ItemSkillD208Desc=抛射一个妖术骨矛来刺穿你的敌人。
 
 tagGDX2ItemSkillD209Name=天神降临
-tagGDX2ItemSkillD209Desc=你被至高神的光辉所笼罩。你的所到之处将会焚烧你的敌人。^o这项技能必须保持开启以持续生效。
+tagGDX2ItemSkillD209Desc=全身灌注着至高神的仁慈之光。所到之处将会焚烧你的敌人。^o这项技能必须保持开启以持续生效。
 
 tagGDX2ItemSkillD210Name=太阳黑子
 tagGDX2ItemSkillD210Desc=从天而降的炽热火焰灼烧你的目标。

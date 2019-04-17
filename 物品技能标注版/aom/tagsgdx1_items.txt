@@ -1113,15 +1113,15 @@ tagGDX1Blueprint_AccessoryF105=设计图：监工徽记
 tagGDX1Blueprint_AccessoryF106=设计图：贪婪之王徽记
 
 #Relics
-tagGDX1RelicB101=饕餮
+tagGDX1RelicB101=饕餮-^s18
 tagGDX1RelicB101Desc="无尽饥渴."
-tagGDX1RelicB102=幽灵
+tagGDX1RelicB102=幽灵-^s5
 tagGDX1RelicB102Desc="痛苦的灵魂在这石头中激荡."
-tagGDX1RelicB103=激情
+tagGDX1RelicB103=激情-^s10
 tagGDX1RelicB103Desc="万物狂暴."
-tagGDX1RelicB104=刚毅
+tagGDX1RelicB104=刚毅-^s3
 tagGDX1RelicB104Desc="英勇作战."
-tagGDX1RelicB105=癔症
+tagGDX1RelicB105=癔症-^s14
 tagGDX1RelicB105Desc="超越死亡的疯狂."
 
 tagGDX1RelicC101=死亡命运-^s死灵Lv35
@@ -1481,77 +1481,77 @@ tagGDX1EnchantC109Desc="来自掠夺者的礼物，强化凡体."^w^n(用于所�
 
 #ItemComponents
 
-tagGDX1CompA101Name=^w力量之印
+tagGDX1CompA101Name=^w力量之印 ^sb5
 tagGDX1CompA101Desc="伟大尤尔加德佩戴的印章，聚集了大量造物主的奥术能量转为无与伦比的物理力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA102Name=^w刀刃之印
+tagGDX1CompA102Name=^w刀刃之印 ^sb3
 tagGDX1CompA102Desc="传说夜刃贝尔戈斯安设计的印章，加强刺客的致命攻击并使目标血流不止."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA103Name=^w天空之印
+tagGDX1CompA103Name=^w天空之印 ^sb6
 tagGDX1CompA103Desc="奥术大师特洛赞佩戴的第一枚印章，能够召唤天空的力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA104Name=^w疫病之印
+tagGDX1CompA104Name=^w疫病之印 ^sb15
 tagGDX1CompA104Desc="这枚印章注入了三巫神的力量，能唤起受害者曾遭受过的每一种疾病."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA105Name=^w腐败之印
+tagGDX1CompA105Name=^w腐败之印 ^sb18
 tagGDX1CompA105Desc="虽然这枚印章的创造者已被历史遗忘，但它仍有驾驭虚化的能力."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA106Name=^w虚空之印
+tagGDX1CompA106Name=^w虚空之印 ^sb19
 tagGDX1CompA106Desc="制做这枚印章的方法非常邪恶.那些使用它的人堕落且渴望力量."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA107Name=^w黑夜之印
+tagGDX1CompA107Name=^w黑夜之印 ^sb24
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA108Name=^w毁灭之印
+tagGDX1CompA108Name=^w毁灭之印 ^sb10
 tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA109Name=^w暗影之印
+tagGDX1CompA109Name=^w暗影之印 ^sb9
 tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA110Name=^w共鸣之印
+tagGDX1CompA110Name=^w共鸣之印 ^sb2
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用."^w^n(用于所有类型的武器，盾牌和副手法器)
 
-tagGDX1CompA111Name=^w污染之心
+tagGDX1CompA111Name=^w污染之心 ^sb11
 tagGDX1CompA111Desc="一颗仍在跳动的心脏，跳动伴随着虚化腐败."^w^n(用于项链和勋章)
 
-tagGDX1CompA112Name=^w炽热红宝石
+tagGDX1CompA112Name=^w炽热红宝石 ^sb14
 tagGDX1CompA112Desc="宝石的切面闪耀着烈焰之舞."^w^n(用于项链和勋章)
 
-tagGDX1CompA113Name=^w符文束缚黄玉
+tagGDX1CompA113Name=^w符文束缚黄玉 ^sb17
 tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA114Name=^w血腥水晶
+tagGDX1CompA114Name=^w血腥水晶 ^sb20
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血."^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=^w魔法大地
+tagGDX1CompA115Name=^w魔法大地 ^sb22
 tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长."^w^n(用于所有护甲)
 
-tagGDX1CompA116Name=^w魔法焚烧铠甲片
+tagGDX1CompA116Name=^w魔法焚烧铠甲片 ^sb23
 tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量."^w^n(用于所有护甲)
 
-tagGDX1CompA117Name=^w刀刃铠甲片
+tagGDX1CompA117Name=^w刀刃铠甲片 ^sb4
 tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃.是强盗和残酷暴君的最爱."^w^n(用于所有护甲)
 
-tagGDX1CompA118Name=^w巫登沼泽皮革
+tagGDX1CompA118Name=^w巫登沼泽皮革 ^sb8
 tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革.致命的沼泽创造了凯恩世界最强韧的野兽."^w^n(用于所有护甲)
 
 
-tagGDX1CompB101Name=^w神圣铠甲片
+tagGDX1CompB101Name=^w神圣铠甲片 ^sb16
 tagGDX1CompB101Desc="据说来自至高神祝福过的强大护甲."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB102Name=^w活体护甲
+tagGDX1CompB102Name=^w活体护甲 ^sb12
 tagGDX1CompB102Desc="在你手中扭动的铠甲片有不同于金属的肉感，明显是受到了虚灵的操控."^w^n(用于护肩，胸甲和头盔)
 
-tagGDX1CompB103Name=^w巨人铠甲片
+tagGDX1CompB103Name=^w巨人铠甲片 ^sb7
 tagGDX1CompB103Desc="这种铠甲片极为厚重，常人无法承受整套护甲的重量并移动."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB104Name=^w邪术之镜
+tagGDX1CompB104Name=^w邪术之镜 ^sb21
 tagGDX1CompB104Desc="镜面的颜色会随着移动而变换，凝视它会引起剧烈头痛，仿佛能看到另一个现实领域."^w^n(用于胸甲和头盔)
 
-tagGDX1CompB105Name=^w湮灭之印
+tagGDX1CompB105Name=^w湮灭之印 ^sb13
 tagGDX1CompB105Desc="与奥能印章最轻微的触碰都会唤起暴力和屠戮的情绪，它渴望着杀戮."^w^n(用于项链)
 
-tagGDX1CompB106Name=^w先祖之印
+tagGDX1CompB106Name=^w先祖之印 ^sb1
 tagGDX1CompB106Desc="奥能印章能唤起你的先祖记忆，甚至是那些你一生中从未见过的人."^w^n(用于项链)
 
 
@@ -1766,11 +1766,11 @@ tagGDX1PrefixB107_Sh_A=^g石面的
 #Suffixes
 tagGDX1SuffixA101=之
 
-tagGDX1SuffixB101_Wpn_A=^g之受折磨灵魂之
-tagGDX1SuffixB102_Wpn_A=^g之灵魂守护之
-tagGDX1SuffixB103_Wpn_A=^g之焚烧符文★之
-tagGDX1SuffixB104_Wpn_A=^g之灵魂牢笼之
-tagGDX1SuffixB105_Wpn_A=^g之天神愤怒之
+tagGDX1SuffixB101_Wpn_A=^g受折磨灵魂之
+tagGDX1SuffixB102_Wpn_A=^g灵魂守护之
+tagGDX1SuffixB103_Wpn_A=^g焚烧符文★之
+tagGDX1SuffixB104_Wpn_A=^g灵魂牢笼之
+tagGDX1SuffixB105_Wpn_A=^g天神愤怒之
 
 tagGDX1SuffixB101_Ar_A=^g受折磨灵魂之
 tagGDX1SuffixB102_Ar_A=^g受折磨灵魂之

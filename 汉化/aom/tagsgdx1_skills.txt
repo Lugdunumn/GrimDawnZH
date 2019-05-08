@@ -205,7 +205,7 @@ tagGDX1Class08SkillName09A=[死灵法师]精魂收割
 tagGDX1Class08SkillDescription09A=尤若布鲁克赋予信徒的强大技术之一。通过撕裂你的敌人，不仅可以造成严重的伤害，而且可以召唤出他们灵魂的一部分来为你服务。由此产生的精魂是不稳定的且有高度的侵略性，这使得它在战斗中非常有用。^o幽灵受到宠物伤害加成的影响。
 tagGDX1Class08SkillName09A_PetSkill=幽灵之触
 tagGDX1Class08SkillName09A_PetSkill02=活力新星
-tagGDX1Class08SkillTracker09A=当然召唤的幽魂数量
+tagGDX1Class08SkillTracker09A=当前召唤的幽魂数量
 
 tagGDX1Class08SkillName10A=[死灵法师]灵魂先驱
 tagGDX1Class08SkillDescription10A=掌握了死亡，你就成为了最终命运的先驱，敌人的生命精华将成为你随意操纵的玩物。
@@ -216,7 +216,7 @@ tagGDX1Class08SkillDescription11A=训练有素的死灵法师是一种可怕的�
 tagGDX1Class08SkillName12A=[死灵法师]收割打击
 tagGDX1Class08SkillDescription12A=将致命的死灵能量注入武器，死灵法师可以造成比肉体切割更深的伤害。 ^o所有默认武器攻击均可激活该技能效果。
 tagGDX1Class08SkillName13A=[死灵法师]死灵刀锋
-tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时,会击中附近多个目标。
+tagGDX1Class08SkillDescription13A=打击中附带着死亡寒气，你的攻击能使伤口立即坏死，这一景象甚至会使意志最坚定的敌人动摇。^o所有默认武器攻击均可激活该技能效果。当使用一把近战武器发动时，会击中附近多个目标。
 
 tagGDX1Class08SkillName14A=[死灵法师]折磨印记
 tagGDX1Class08SkillDescription14A=虽然所有人都必须面对最终的命运，但是对死亡的掌控使你可以延缓不可避免的宿命。将灵魂连接到附近的敌人，把部分伤害转移到他们身上。^o同一时间只能标记一个敌人。
@@ -233,6 +233,7 @@ tagGDX1ItemSkillB101Desc=从你的攻击中爆发一阵火焰冲击波。
 
 tagGDX1ItemSkillB102Name=奇形打击
 tagGDX1ItemSkillB102Desc=伴随你的每一次攻击，血肉领主的腐化之力都会创伤你的敌人。^o当作为默认武器攻击时，奇形打击会增强你的攻击。
+
 
 tagGDX1ItemSkillC101Name=灵魂分裂
 tagGDX1ItemSkillC101Desc=如死亡瀑布般撕裂你的敌人
@@ -308,7 +309,7 @@ tagGDX1ItemSkillD111Name=恶魔的凝视
 tagGDX1ItemSkillD111Desc=恶魔的凝视落在敌人的身上，燃烧着他们的灵魂。
 
 tagGDX1ItemSkillD112Name=火焰碎片
-tagGDX1ItemSkillD112Desc=点燃你踏过的土地。
+tagGDX1ItemSkillD112Desc=你点燃了敌人所站的土地。
 
 tagGDX1ItemSkillD113Name=真理之光
 tagGDX1ItemSkillD113Desc=神圣的真理之光笼罩你的敌人，使意志不坚者为你服务。
@@ -536,13 +537,13 @@ tagGDX1CompSkillA103Name=闪电链
 tagGDX1CompSkillA103Desc=闪电在你的指尖劈啪作响，倾泻而下摧毁敌人的阵线。
 
 tagGDX1CompSkillA104Name=酸雾肃清
-tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾腐蚀你的敌人。
+tagGDX1CompSkillA104Desc=只要保持专注，你就能从手中释放持续性邪恶酸雾腐蚀你的敌人。^o这是一项引导技能，必须按下保持施法。^o施法速度为100%时，酸雾肃清每0.3秒造成一次伤害并吸取敌人的能量。
 
 tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
 
 tagGDX1CompSkillA106Name=虚空燃烧
-tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击,你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
+tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击，你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
 
 tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。
@@ -608,7 +609,7 @@ tagGDX1RelicSkillD105Name=毁灭力量
 tagGDX1RelicSkillD105Desc=释放一道强大的物理冲击波击倒并且拉近附近的敌人。
 
 tagGDX1RelicSkillD106Name=炽热冲锋
-tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时,盾牌的伤害也会被计算在内。
+tagGDX1RelicSkillD106Desc=以至高之神之名冲锋陷阵并用神圣之火焚烧敌人。^o需要一个近战武器。当装备盾牌时，盾牌的伤害也会被计算在内。
 
 tagGDX1RelicSkillD107Name=混沌波涛
 tagGDX1RelicSkillD107Desc=释放毁灭性能量的冲击波穿透敌人再返回你身边。
@@ -718,7 +719,7 @@ tagGDX1Devotion_C103=维尔，石夫人
 tagGDX1Devotion_C103Desc=安克维亚传说中的众神之母，最强大的石夫人代表了凯恩本身，她拥有来自石头的刚毅和力量，巍然不动地对抗最大的困境。
 tagGDX1Devotion_C104=阿塔克瑟如，幻影
 tagGDX1Devotion_C104Desc=阿塔克瑟如曾是织法守护女神，是那些敢于使用魔法之人的保护神。所有安克维亚仪式都把阿塔克瑟如的象征刻进符文圈当作预防措施；但即使是她的守护也不足矣避开死灵法师诅咒的影响。
-tagGDX1Devotion_C105=莱托什,暗影守望者
+tagGDX1Devotion_C105=莱托什，暗影守望者
 tagGDX1Devotion_C105Desc=隐藏在阴影中，安克维亚伟大的守护者注视着现实世界的边界，确保没有恶魔逃脱精神境界肆虐生者。当安克维亚的诅咒蔓延开来，人民乞求莱托什的恩赐解脱，但他从未出现。
 
 tagGDX1DevotionEffectB101=谣言

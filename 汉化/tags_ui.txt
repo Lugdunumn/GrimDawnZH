@@ -210,7 +210,7 @@ tagFactionUser3Rewards6=N/A
 tagFactionUser3Rewards7=N/A
 tagFactionUser3Rewards8=N/A
 tagFactionUser4=放逐者
-tagFactionUser4Info=营地：圣像堡{^n}{^n} 人们关于神秘的安娜斯特瑞娅了解的非常少，也不知道她为何会对虚灵以及它们的计划了如指掌。她好像是突然出现的，并向黑色军团提供了敌人的行动信息，也因此拯救了很多宝贵的生命。{^n}{^n} 黑色军团的很多人都认为她是个女巫。尽管审判官克里德坚持必须保证她的安全，但他们很乐意看到把这个女巫烧死在木桩上。 
+tagFactionUser4Info=营地：圣像堡{^n}{^n} 人们关于神秘的安娜斯特瑞娅了解的非常少，也不知道她为何会对虚灵以及它们的计划了如指掌。她好像是突然出现的，并向黑色军团提供了敌人的行动信息，也因此拯救了很多宝贵的生命。{^n}{^n} 黑色军团的很多人都认为她是个女巫。尽管审判官克里德坚持必须保证她的安全，但他们很乐意看到把这个女巫烧死在木桩上。
 tagFactionUser4Rewards1=放逐者的复仇
 tagFactionUser4Rewards2=放逐者的愤怒
 tagFactionUser4Rewards3=放逐者大军
@@ -629,15 +629,15 @@ tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧， 提高物理，穿刺，流血和创伤伤害. 灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率. 
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧， 提高物理，穿刺，流血和创伤伤害. 灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率.
 
-tagCharAttributeDescription02=锻炼体格可以穿上更重的装备， 并能灵敏地躲开敌人的攻击. 体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率. 
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备， 并能灵敏地躲开敌人的攻击. 体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率.
 
-tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担. 精神也会提高你的承受能力，增强你的魔法伤害. 
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担. 精神也会提高你的承受能力，增强你的魔法伤害.
 
 tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害.
 
-tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力. 精神力越强， 就会有越多的能量在等待回复之前供你取用. 
+tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力. 精神力越强， 就会有越多的能量在等待回复之前供你取用.
 
 tagCharBonusHealth=生命值加成:
 tagCharBonusHealthRegen=生命回复加成:
@@ -667,7 +667,7 @@ tagCharStatsDA=防御能力
 tagCharStatsDALast=最后受到的攻击来自:
 tagCharStatsDAHit=被击中几率:
 tagCharStatsDACrit=被暴击几率:
-tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能， 物品和体格影响. 
+tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能， 物品和体格影响.
 
 tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% 溢出上限)
 
@@ -2283,6 +2283,7 @@ tagMove=移动到
 tagForceMove=强制移动
 tagUse=互动
 tagPickup=拾取
+tagPushToTalk=按键说话
 
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容。

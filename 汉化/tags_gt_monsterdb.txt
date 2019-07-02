@@ -9,9 +9,9 @@ MonsterDB_tagBuffsOn={^G}开{^E}
 MonsterDB_tagBuffsOff={^R}关{^E}
 MonsterDB_tagBuffsNone=无
 
-MonsterDB_tagGameVersion=游戏版本:
-MonsterDB_tagBuildVersion=BD版本:
-MonsterDB_tagDifficulty=难度:
+MonsterDB_tagGameVersion=游戏版本：
+MonsterDB_tagBuildVersion=BD版本：
+MonsterDB_tagDifficulty=难度：
 
 MonsterDB_tagMonsterLevel=怪物等级
 // Shattered Realm shard #
@@ -73,16 +73,16 @@ MonsterDB_tagSkillNumberOfSpawns={^E}生成物数量:{^H} {%s0}
 MonsterDB_tagTabSpawnLocations=刷新点
 MonsterDB_tagShowOnTheMap=在地图上显示
 # shown if monster can't appear on its own, but instead spawned by someone else (as a pet, n-th phase etc.)
-# Usage: "Spawned by: Avatar of Mogdrogen" 
-MonsterDB_tagSpawnedBy=生成自:
+# Usage: "Spawned by: Avatar of Mogdrogen"
+MonsterDB_tagSpawnedBy=生成自：
 
 # loot tab
 MonsterDB_tagTabNotableLoot=值得注意的战利品
 MonsterDB_tagLootMonsterLevel=怪物等级 {%s}
 MonsterDB_tagLootItemLevel=等级 {%s}
 MonsterDB_tagLootNone=无
-MonsterDB_tagLootHeader1=战利品及其掉落率取决于怪物级别.
-MonsterDB_tagLootHeader2=战利品掉落表随下列怪物等级下改变:
+MonsterDB_tagLootHeader1=战利品及其掉落率取决于怪物级别。
+MonsterDB_tagLootHeader2=战利品掉落表随下列怪物等级下改变：
 
 # monster list
 MonsterDB_tagListHeaderName=名称
@@ -109,7 +109,7 @@ MonsterDB_tagMonsterExtraUltimateDifficulty=终极
 MonsterDB_tagMonsterExtraDifficulty=任意
 # Usage: "Player Level 75+"
 MonsterDB_tagMonsterExtraPlayerLevel=玩家等级 {%s}
-# Defense tier for crucible 
+# Defense tier for crucible
 MonsterDB_tagMonsterExtraTier={%d0}层
 
 MonsterDB_tagMenuSettings=设置
@@ -134,5 +134,5 @@ MonsterDB_tagMenuHelp=帮助
 MonsterDB_tagMenuCheckForUpdates=检查更新...
 
 MonsterDB_tagUpdateIsAvailableShort=有可用更新
-MonsterDB_tagUpdateIsAvailable=有可用更新！你可以在这查看版本日志以及下载更新:
+MonsterDB_tagUpdateIsAvailable=有可用更新！你可以在这查看版本日志以及下载更新：
 MonsterDB_tagNoUpdates=当前版本已是最新版本

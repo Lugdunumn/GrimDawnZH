@@ -113,7 +113,7 @@ tagGameStateStarting=开始游戏……
 tagGameStateConnecting=正在连接至服务器……
 tagGameStateData=等待服务器……
 
-tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明!
+tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登录GOG Galaxy然后从GOG启动器中启动恐怖黎明！
 tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
@@ -342,7 +342,7 @@ tagVideoDesc25=各向异性过滤等级。增强纹理质量。
 tagVideoDesc26=调整天气效果等级。
 tagVideoDesc27=调整颗粒效果强度。
 tagVideoDesc28=调整光线效果强度。
-tagVideoDesc29=渲染模式 (窗口化/全屏/无边框).
+tagVideoDesc29=渲染模式 (窗口化/全屏/无边框)。
 tagVideoDesc30=图形处理器/用于着色的显示器。
 tagFullscreen=全屏
 tagFullscreenWindowed=窗口化(无边框)

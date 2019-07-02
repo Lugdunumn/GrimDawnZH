@@ -1,10 +1,10 @@
-#General
+# General
 
 tagGameDifficultySetting01=普通难度
 tagGameDifficultySetting02=精英难度
 tagGameDifficultySetting03=终极难度
 tagDifficultyUnlocked=更高难度已解锁
-tagDifficultyLevelUnlocked=你现在可以进入 {^g}{%s0}{^w}!
+tagDifficultyLevelUnlocked=你现在可以进入 {^g}{%s0}{^w}！
 
 tagAutosort=自动整理
 
@@ -28,7 +28,7 @@ tagLoreBonus=学识奖励
 tagLevelUp=等级提升
 tagLevelReached=你已经到达了 {^y}{%d0} 级
 
-#Devotion
+# Devotion
 
 tagDevotionPointAwarded=奖励 {%d0} 点虔诚点数
 tagDevotionPointsAwarded=奖励 {%d0} 点虔诚点数
@@ -37,8 +37,8 @@ tagDevotionShrineGuardian=神龛守护者
 tagDevotionUpdate=虔诚等级
 tagDevotionSkillLevelUp={^g}{%s0} {^w} 已经到达等级 {%d1}！
 tagDevotionSkillMaxLevel={^g}{%s0} {^w} 已经到达最高级别！
-tagDevotionAffinityBonus=完整星座奖励:
-tagDevotionAffinity=亲和点数:
+tagDevotionAffinityBonus=完整星座奖励：
+tagDevotionAffinity=亲和点数：
 tagDevotionSelected= (已选择)
 tagDevotionInUse= (正在使用中)
 tagDevotionConfirm=替换当前信仰之力？
@@ -46,7 +46,7 @@ tagDevotionExperienceFormat=经验: {^y}{%d0}{^w} / {^y}{%d1}
 tagDevotionSkillRank=当前等级 : {%d0} / {%d1}
 
 tagUndo=撤销
-Chat=聊天:
+Chat=聊天：
 
 tagGamePaused=游戏已经暂停
 
@@ -54,7 +54,7 @@ tagSkillNotReady={^r}这项技能还未准备就绪
 
 tagTransferStashError={^r}那件物品不能放置在这里
 
-#Riftgate
+# Riftgate
 
 tagRiftgatePersonal=个人传送裂缝
 tagRiftgateDestination=目的地
@@ -64,15 +64,15 @@ tagRiftgateError03=你无法从此处传送到所选传送门。
 tagRiftgateDialog01=打开一个新传送裂缝将会关闭你现有的。你要继续吗？
 tagRiftGateMapA01=凯恩世界
 
-#Quest
+# Quest
 
 tagQuests=激活的任务
 tagQuestLogNameNumber={%t0} ({%d1})
 tagQuestJournalNoQuests=无任务
 tagQuestJournalNoComplete=没有已完成的任务
-tagQuestIncentives=动机:
-tagQuestObjectives=目标:
-tagQuestRewards=奖励:
+tagQuestIncentives=动机：
+tagQuestObjectives=目标：
+tagQuestRewards=奖励：
 tagCodexJournalNoNotes=没有学识记录
 tagCodexJournalSubHeadingEnemy=敌人情报
 tagCodexJournalSubHeadingFaction=势力
@@ -116,7 +116,7 @@ tagConditionHasKilled={%t0} ({%d1} / {%d2})
 tagConditionHasItem={%t0} ({%d1} / {%d2})
 tagQuestRewardWindowTitle=完成任务
 tagQuestRewardWindowInterim=任务进展
-tagQuestRewardTitle=奖励:
+tagQuestRewardTitle=奖励：
 tagQuestRewardMoney={%d0} 铁币
 tagQuestRewardXP=经验值:{%d0}
 tagQuestRewardReputationPositive={%s1}声望增加 {%d0} 点
@@ -126,7 +126,7 @@ tagQuestBlockedDescription=基于游戏建立者的进度，任务在此次游�
 
 tagObjectives=目标
 
-#Faction
+# Faction
 
 tagFaction={%s0}
 tagFactionStanding=立场:{^s}{%t0}
@@ -352,7 +352,7 @@ tagFactionStateTrusted=信任
 tagFactionStateHonored=尊敬
 tagFactionStateRevered=崇敬
 
-#Faction Window 势力窗口
+# Faction Window 势力窗口
 
 tagFactionUpdated=声望等级提升
 tagFactionStatusChange={^w}你在{^b}{%s1}{^w}势力中的声望已达到{%s0}
@@ -368,9 +368,9 @@ tagFactionDiscountPositive=声望折扣: {^r}+ {%.0f0}%
 tagFactionDiscountNegative=声望折扣: {^g}- {%.0f0}%
 tagFactionDiscountZero=声望折扣: {^s}{%.0f0}%
 tagFactionProgress=距离{%s0}{^w}还需要: {^b}{%d1} 点声望值
-tagFactionKillingGain=击杀以下敌人可以获得声望:
-tagFactionKillingLoss=击杀以下敌人可以扩大你在该势力的恶名:
-tagFactionRewardsTier=下一等级解锁:
+tagFactionKillingGain=击杀以下敌人可以获得声望：
+tagFactionKillingLoss=击杀以下敌人可以扩大你在该势力的恶名：
+tagFactionRewardsTier=下一等级解锁：
 tagFactionKillCommon=普通怪物
 tagFactionKillChampion=精英怪物
 tagFactionKillHero=英雄怪物
@@ -378,13 +378,13 @@ tagFactionKillBoss=首领怪物
 tagFactionBonusRep=声望加成： {%d0}%
 tagFactionBonusInfamy=敌意加成: {%d0}%
 
-#Achievements 成就
+# Achievements 成就
 
 tagAchievements=成就
 tagAchievementUnlocked=已解锁成就！
 tagAchievementsComplete={%d0} / {%d1}
 
-#HUD
+# HUD
 
 tagHUDMenu=菜单按钮
 tagHUDAttacks=当前攻击
@@ -472,7 +472,7 @@ tagHUDButtonRollFaction=关于凯恩世界各方势力的细节。
 tagHUDButtonRollAchievements=已完成的成就。
 tagHUDButtonRollOptions=保存，退出和游戏设置。
 
-#LootFilterUI
+# LootFilterUI
 tagLootFilterWindowTitle=战利品过滤器
 tagLootFilterToggleOn=显示物品
 tagLootFilterToggleOff=隐藏物品
@@ -483,7 +483,7 @@ tagLootFilterTitle04=角色
 
 tagLootFilterReset=恢复默认
 tagLootFilterResetInfo=重置过滤器设定至默认状态。
-tagLootFilterResetConfirm=是否重置过滤器设定至默认状态?
+tagLootFilterResetConfirm=是否重置过滤器设定至默认状态？
 
 tagLootFilter01=普通
 tagLootFilter01Info=显示/隐藏 普通(白色)品质的物品。
@@ -570,7 +570,7 @@ tagLootFilter39Info=勾选此项只显示拥有稀有前缀和稀有后缀的物
 
 
 
-#SkillUI
+# SkillUI
 
 tagSkillUndoClass=撤销专精
 tagSkillUndoPoints=撤销加点
@@ -587,7 +587,7 @@ tagSkillReq03=需要学会技能{%s1}。
 tagSkillPointsRemain={%d0} 点剩余点数
 tagSkillPointsRemainSingular={%d0} 点剩余点数
 
-#Character
+# Character
 
 GenderFormat={%t0}{%0a1}
 
@@ -629,25 +629,25 @@ tagCharAttributeName03=精神
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
 
-tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧， 提高物理，穿刺，流血和创伤伤害. 灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率.
+tagCharAttributeDescription01=敏捷的思维能改进你的战斗技巧，提高物理，穿刺，流血和创伤伤害。灵巧也会提高你的承受能力，近战和远程攻击的命中几率以及暴击几率。
 
-tagCharAttributeDescription02=锻炼体格可以穿上更重的装备， 并能灵敏地躲开敌人的攻击. 体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率.
+tagCharAttributeDescription02=锻炼体格可以穿上更重的装备， 并能灵敏地躲开敌人的攻击。体格也能大副提升你承受和回复创伤的能力以及降低被暴击的机率。
 
-tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担. 精神也会提高你的承受能力，增强你的魔法伤害.
+tagCharAttributeDescription03=强大的精神力会提升你体内的能量流动， 让你能承受更强的魔法装备所带来的精神负担。精神也会提高你的承受能力，增强你的魔法伤害。
 
-tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害.
+tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和伤害。
 
-tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力. 精神力越强， 就会有越多的能量在等待回复之前供你取用.
+tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力。精神力越强， 就会有越多的能量在等待回复之前供你取用。
 
-tagCharBonusHealth=生命值加成:
-tagCharBonusHealthRegen=生命回复加成:
-tagCharBonusEnergy=能量值加成:
-tagCharBonusEnergyRegen=能量回复加成:
+tagCharBonusHealth=生命值加成：
+tagCharBonusHealthRegen=生命回复加成：
+tagCharBonusEnergy=能量值加成：
+tagCharBonusEnergyRegen=能量回复加成：
 
-tagCharBonusPhysicalDmg=物理伤害加成:
-tagCharBonusPierceDmg=穿刺伤害加成:
-tagCharBonusMagicalDmg=魔法伤害加成:
-tagCharBonusDurDmg=持续性伤害加成:
+tagCharBonusPhysicalDmg=物理伤害加成：
+tagCharBonusPierceDmg=穿刺伤害加成：
+tagCharBonusMagicalDmg=魔法伤害加成：
+tagCharBonusDurDmg=持续性伤害加成：
 
 tagCharAttributeIncrement01=每一点提升10点灵巧。
 tagCharAttributeIncrement02=每一点提升10点体格。
@@ -657,17 +657,17 @@ tagCharAttributeIncrement05=每一点提升50点能量值。
 
 tagCharStatsOAAlert=攻击能力{^b}(?)
 tagCharStatsOA=攻击能力
-tagCharStatsOALast=最后攻击:
-tagCharStatsOAHit=命中几率:
-tagCharStatsOACrit=暴击几率:
-tagCharStatsOADescription=更高的攻击能力(OA)提升你攻击和法术的命中几率， 暴击几率和暴击伤害. 攻击能力低于敌人的防御能力会极大地增加你的未命中几率(最低不会低于60%). 攻击能力受技能， 物品和灵巧影响.
+tagCharStatsOALast=最后攻击：
+tagCharStatsOAHit=命中几率：
+tagCharStatsOACrit=暴击几率：
+tagCharStatsOADescription=更高的攻击能力(OA)提升你攻击和法术的命中几率， 暴击几率和暴击伤害。攻击能力低于敌人的防御能力会极大地增加你的未命中几率(最低不会低于60%)。攻击能力受技能， 物品和灵巧影响。
 
 tagCharStatsDAAlert=防御能力{^b}(?)
 tagCharStatsDA=防御能力
-tagCharStatsDALast=最后受到的攻击来自:
-tagCharStatsDAHit=被击中几率:
-tagCharStatsDACrit=被暴击几率:
-tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害. 防御能力受技能， 物品和体格影响.
+tagCharStatsDALast=最后受到的攻击来自：
+tagCharStatsDAHit=被击中几率：
+tagCharStatsDACrit=被暴击几率：
+tagCharStatsDADescription=更高的防御能力(DA)提升你闪避敌人攻击的几率(被命中率不会低于60%)， 降低受到暴击的机率以及受到暴击时的伤害。防御能力受技能， 物品和体格影响。
 
 tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% 溢出上限)
 
@@ -703,10 +703,10 @@ tagCharLevel={%d0} 级
 tagCharXP=经验值:{%t0}
 tagCharLevelAndClass={%d0} 级{%t1}
 
-tagCharRollLeftHand=副手:
-tagCharRollRightHand=主手:
+tagCharRollLeftHand=副手：
+tagCharRollRightHand=主手：
 
-tagInfoPage=信息:
+tagInfoPage=信息：
 
 tagTimePlayedName=游戏时间
 tagTimePlayedNumber={%d0}:{%d1}:{%d2}
@@ -739,15 +739,15 @@ tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就�
 tagCharStatsHitArmor=击中几率
 tagCharStatsArmorUnprotected=无护甲
 tagCharStatsArmorNA=N/A
-tagCharStatsArmorBonus=加成:
-tagCharStatsArmorHead=头部:
-tagCharStatsArmorChest=胸部:
-tagCharStatsArmorArms=手臂:
-tagCharStatsArmorLegs=腿部:
-tagCharStatsArmorJewelry=饰品:
-tagCharStatsArmorFeet=足部:
-tagCharStatsArmorWaist=腰部:
-tagCharStatsArmorShoulders=肩部:
+tagCharStatsArmorBonus=加成：
+tagCharStatsArmorHead=头部：
+tagCharStatsArmorChest=胸部：
+tagCharStatsArmorArms=手臂：
+tagCharStatsArmorLegs=腿部：
+tagCharStatsArmorJewelry=饰品：
+tagCharStatsArmorFeet=足部：
+tagCharStatsArmorWaist=腰部：
+tagCharStatsArmorShoulders=肩部：
 
 tagFormulaLearned=已学会此设计图
 tagFormulaLearn01=你学会了如何锻造：{^t}{%t0}
@@ -761,11 +761,11 @@ tagItemCompareGround=地上的物品
 tagItemInsufficientStatus={^r}声望不足
 
 
-#CharStatsTab2人物属性栏2
+# CharStatsTab2人物属性栏2
 
 tagCharStatsMaximumSpeed=最大速度
 
-#Character人物
+# Character人物
 tagCharStatsAttacksPerSecond=每秒攻击次数
 tagCharStatsAttacksPerSecondInfoo=每秒使用武器的攻击次数，包含加成。
 tagCharStatsRunSpeed=奔跑速度
@@ -799,16 +799,16 @@ tagCharStatsArcanistSkillsBonusInfo=所有奥术师专精中已习得技能的�
 tagCharStatsShamanSkillsBonus=萨满技能加成
 tagCharStatsShamanSkillsBonusInfo=所有萨满专精中已习得技能的额外加成。
 
-#Physical物理
+# Physical物理
 tagCharStatsAttackSpeed=攻击速度
-tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速).慢速武器从攻速加成中的收益会减少.
+tagCharStatsAttackSpeedDescription=相对于基本攻速的武器攻击速度(整体攻速)。慢速武器从攻速加成中的收益会减少。
 tagCharStatsAvgDmg=武器伤害
 tagCharStatsAvgDmgDescription=使用武器攻击每一击所造成的伤害值，已含加成。
 
 tagCharStatsPhysicalAbsDmg=物理伤害
 tagCharStatsPhysicalAbsDmgInfo=使用武器攻击每一击所造成的物理伤害，已含加成。
 tagCharStatsPhysicalPercentDmg=物理伤害加成
-tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数. 不含灵巧加成.全伤害类型百分比加成已包含在内.
+tagCharStatsPhysicalPercentDmgInfo=攻击和法术造成的物理伤害额外加成的百分数。不含灵巧加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsPierceAbsDmg=穿刺伤害
 tagCharStatsPierceAbsDmgInfo=使用武器攻击每一击所造成的穿刺伤害，已含加成。
@@ -818,7 +818,7 @@ tagCharStatsPiercePercentDmgInfo=攻击和法术造成的穿刺伤害的额外�
 tagCharStatsBleedAbsDmg=流血伤害
 tagCharStatsBleedAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒流血伤害值，已含加成。
 tagCharStatsBleedPercentDmg=流血伤害加成
-tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数.全伤害类型百分比加成已包含在内.
+tagCharStatsBleedPercentDmgInfo=攻击和法术造成的流血伤害的额外加成的百分数。全伤害类型百分比加成已包含在内。
 tagCharStatsBleedDuration=流血效果持续时间
 tagCharStatsBleedDurationInfo=你的流血攻击持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
@@ -832,12 +832,12 @@ tagCharStatsInternalTraumaDurationInfo=你的内部创伤攻击持续时间的�
 tagCharStatsDamageToHealth=生命窃取
 tagCharStatsDamageToHealthInfo=武器伤害用来回复生命的百分数。
 
-#Magical魔法
+# Magical魔法
 tagCharStatsCastSpeed=施法速度
 tagCharStatsCastSpeedInfo=人物相对于基础值的施法速度(包含整体速度)。
 
 tagCharStatsCooldownReduction=冷却时间缩短
-tagCharStatsCooldownReductionInfo=技能冷却时间缩短的百分数.通过装备获得的技能不享受冷却时间减少加成和特效.
+tagCharStatsCooldownReductionInfo=技能冷却时间缩短的百分数。通过装备获得的技能不享受冷却时间减少加成和特效。
 
 tagCharStatsManaCostReduction=技能的能量消耗减少
 tagCharStatsManaCostReductionInfo=减少技能施放所消耗能量值的百分数。
@@ -848,70 +848,70 @@ tagCharStatsPercentHealthDamageInfo=基础攻击每一击所造成的计算当�
 tagCharStatsFireAbsDmg=火焰伤害
 tagCharStatsFireAbsDmgInfo=使用武器攻击每一击所造成的火焰伤害，已含加成。
 tagCharStatsFirePercentDmg=火焰伤害加成
-tagCharStatsFirePercentDmgInfo=攻击和法术造成的火焰伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsFirePercentDmgInfo=攻击和法术造成的火焰伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsColdAbsDmg=冰冷伤害
 tagCharStatsColdAbsDmgInfo=使用武器攻击每一击所造成的冰冷伤害，已含加成。
 tagCharStatsColdPercentDmg=冰冷伤害加成
-tagCharStatsColdPercentDmgInfo=攻击和法术造成的冰冷伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsColdPercentDmgInfo=攻击和法术造成的冰冷伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsLightningAbsDmg=闪电伤害
 tagCharStatsLightningAbsDmgInfo=使用武器攻击每一击所造成的闪电伤害，已含加成。
 tagCharStatsLightningPercentDmg=闪电伤害加成
-tagCharStatsLightningPercentDmgInfo=攻击和法术造成的闪电伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsLightningPercentDmgInfo=攻击和法术造成的闪电伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsAcidAbsDmg=酸性伤害
 tagCharStatsAcidAbsDmgInfo=使用武器攻击每一击所造成的酸性伤害，已含加成。
 tagCharStatsAcidPercentDmg=酸性伤害加成
-tagCharStatsAcidPercentDmgInfo=攻击和法术造成的酸性伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsAcidPercentDmgInfo=攻击和法术造成的酸性伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsVitalityAbsDmg=活力伤害
-tagCharStatsVitalityAbsDmgInfo=使用武器攻击每一击所造成的活力伤害,已含加成.
+tagCharStatsVitalityAbsDmgInfo=使用武器攻击每一击所造成的活力伤害，已含加成。
 tagCharStatsVitalityPercentDmg=活力伤害加成
-tagCharStatsVitalityPercentDmgInfo=攻击和法术造成的活力伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsVitalityPercentDmgInfo=攻击和法术造成的活力伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsAetherAbsDmg=虚化伤害
-tagCharStatsAetherAbsDmgInfo=使用武器攻击每一击所造成的虚化伤害,已含加成.
+tagCharStatsAetherAbsDmgInfo=使用武器攻击每一击所造成的虚化伤害，已含加成。
 tagCharStatsAetherPercentDmg=虚化伤害加成
 tagCharStatsAetherPercentDmgInfo=攻击和法术造成的虚化伤害的额外加成的百分数。不含精神加成。
 
 tagCharStatsChaosAbsDmg=混乱伤害
-tagCharStatsChaosAbsDmgInfo=使用武器攻击每一击所造成的混乱伤害值,已含加成.
+tagCharStatsChaosAbsDmgInfo=使用武器攻击每一击所造成的混乱伤害值，已含加成。
 tagCharStatsChaosPercentDmg=混乱伤害加成
-tagCharStatsChaosPercentDmgInfo=攻击和法术造成的混乱伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsChaosPercentDmgInfo=攻击和法术造成的混乱伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 
 tagCharStatsBurnAbsDmg=燃烧伤害
-tagCharStatsBurnAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒燃烧伤害值,已含加成.
+tagCharStatsBurnAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒燃烧伤害值，已含加成。
 tagCharStatsBurnPercentDmg=燃烧伤害加成
-tagCharStatsBurnPercentDmgInfo=攻击和法术造成的燃烧伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsBurnPercentDmgInfo=攻击和法术造成的燃烧伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 tagCharStatsBurnDuration=燃烧效果持续时间
 tagCharStatsBurnDurationInfo=你的燃烧伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsColdburnAbsDmg=霜燃伤害
 tagCharStatsColdburnAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒霜燃伤害值，已含加成。
 tagCharStatsColdburnPercentDmg=霜燃伤害加成
-tagCharStatsColdburnPercentDmgInfo=攻击和法术造成的霜燃伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsColdburnPercentDmgInfo=攻击和法术造成的霜燃伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 tagCharStatsColdburnDuration=霜燃效果持续时间
 tagCharStatsColdburnDurationInfo=你的霜燃伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsElectrocuteAbsDmg=电击伤害
 tagCharStatsElectrocuteAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒电击伤害值，已含加成。
 tagCharStatsElectrocutePercentDmg=电击伤害加成
-tagCharStatsElectrocutePercentDmgInfo=攻击和法术造成的电击伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsElectrocutePercentDmgInfo=攻击和法术造成的电击伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 tagCharStatsElectrocuteDuration=电击效果持续时间
 tagCharStatsElectrocuteDurationInfo=你的电击伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsPoisonAbsDmg=毒素伤害
 tagCharStatsPoisonAbsDmgInfo=使用武器攻击每一击所造成的5秒内每秒毒素伤害值，已含加成。
 tagCharStatsPoisonPercentDmg=毒素伤害加成
-tagCharStatsPoisonPercentDmgInfo=攻击和法术造成的毒素伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsPoisonPercentDmgInfo=攻击和法术造成的毒素伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 tagCharStatsPoisonDuration=毒素效果持续时间
 tagCharStatsPoisonDurationInfo=你的毒素伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
 tagCharStatsVitalityDecayAbsDmg=活力衰减伤害
 tagCharStatsVitalityDecayAbsDmgInfo=使用武器攻击每一击所造成的3秒内每秒活力衰减伤害值，已含加成。
 tagCharStatsVitalityDecayPercentDmg=活力衰减伤害加成
-tagCharStatsVitalityDecayPercentDmgInfo=攻击和法术造成的活力衰减伤害的额外加成的百分数.不含精神加成.全伤害类型百分比加成已包含在内.
+tagCharStatsVitalityDecayPercentDmgInfo=攻击和法术造成的活力衰减伤害的额外加成的百分数。不含精神加成。全伤害类型百分比加成已包含在内。
 tagCharStatsVitalityDecayDuration=活力衰减效果持续时间
 tagCharStatsVitalityDecayDurationInfo=你的活力衰减伤害持续时间的额外加成的百分数，每秒造成的伤害不会提高。
 
@@ -936,12 +936,12 @@ tagCharStatsDurBleeding=流血
 tagCharStatsDurLifeLeech=生命吸取
 tagCharStatsDurManaLeech=法力吸取
 
-#Pets
+# Pets
 tagCharStatsPetHealth=战宠生命加成
 tagCharStatsPetHealthInfo=你的战宠和召唤物的生命加成的百分数。
 
 tagCharStatsPetDamage=战宠伤害加成
-tagCharStatsPetDamageInfo=你的战宠和召唤物所造成的伤害加成的百分数.全伤害类型百分比加成已包含在内.
+tagCharStatsPetDamageInfo=你的战宠和召唤物所造成的伤害加成的百分数。全伤害类型百分比加成已包含在内。
 
 tagCharStatsPetAttackSpeed=战宠攻速加成
 tagCharStatsPetAttackSpeedInfo=你的战宠和召唤物的攻击速度加成的百分数。
@@ -988,9 +988,9 @@ tagCharStatsPetAetherResistInfo=你的战宠和召唤物虚化抗性加成的百
 tagCharStatsPetChaosResist=战宠混乱抗性
 tagCharStatsPetChaosResistInfo=你的战宠和召唤物混乱抗性加成的百分数。
 
-#CharStatsTab3人物属性栏3
+# CharStatsTab3人物属性栏3
 
-#Defense防御
+# Defense防御
 tagCharStatsBlockChance=格挡几率
 tagCharStatsBlockChanceDescription=格挡一次攻击的几率。
 
@@ -1033,7 +1033,7 @@ tagCharStatsSleepResistInfo=对使你昏睡的法术的抗性，昏睡效果会�
 tagCharStatsSlowResist=减速效果抗性
 tagCharStatsSlowResistInfo=对所有能减缓你攻击、施法和移动能力的法术的抗性。
 
-#Retaliation反击
+# Retaliation反击
 tagCharStatsDamageReflect=反击伤害
 tagCharStatsDamageReflectInfo=你所受到的伤害会被反馈给攻击者的比率。
 
@@ -1041,24 +1041,24 @@ tagCharStatsCurrentLifeReflect=生命反击
 tagCharStatsCurrentLifeReflectInfo=无论何时你受到攻击，以该比率基于敌人当前生命值实施反击。
 
 tagCharStatsPhysicalRet=物理反击
-tagCharStatsPhysicalRetInfo=当你被攻击时对攻击者造成的物理伤害.
+tagCharStatsPhysicalRetInfo=当你被攻击时对攻击者造成的物理伤害。
 tagCharStatsPhysicalPercentRet=物理反击加成
-tagCharStatsPhysicalPercentRetInfo=所有物理伤害反击效果加成比率.全伤害类型的加成不会影响反击伤害.
+tagCharStatsPhysicalPercentRetInfo=所有物理伤害反击效果加成比率。全伤害类型的加成不会影响反击伤害。
 
 tagCharStatsPierceRet=穿刺反击
 tagCharStatsPierceRetInfo=当你被攻击时对攻击者造成的穿刺伤害。
 tagCharStatsPiercePercentRet=穿刺加成
-tagCharStatsPiercePercentRetInfo=所有穿刺伤害反击效果加成比率.全伤害类型的加成不会影响反击伤害.
+tagCharStatsPiercePercentRetInfo=所有穿刺伤害反击效果加成比率。全伤害类型的加成不会影响反击伤害。
 
 tagCharStatsBleedRet=流血反击
 tagCharStatsBleedRetInfo=当你被攻击时对攻击者造成3秒内每秒的流血伤害。
 tagCharStatsBleedPercentRet=流血反击加成
-tagCharStatsBleedPercentRetInfo=所有流血伤害反击效果的加成比率.全伤害类型的加成不会影响反击伤害.
+tagCharStatsBleedPercentRetInfo=所有流血伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害。
 
 tagCharStatsInternalTraumaRet=创伤反击
 tagCharStatsInternalTraumaRetInfo=当你被攻击时对攻击者造成5秒内每秒的创伤伤害。
 tagCharStatsInternalTraumaPercentRet=创伤反击加成
-tagCharStatsInternalTraumaPercentRetInfo=所有创伤伤害反击效果的加成比率.全伤害类型的加成不会影响反击伤害.
+tagCharStatsInternalTraumaPercentRetInfo=所有创伤伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害。
 
 tagCharStatsFireRet=火焰反击
 tagCharStatsFireRetInfo=当你被攻击时对攻击者造成的火焰伤害。
@@ -1120,7 +1120,7 @@ tagCharStatsVitalityDecayRetInfo=当你被攻击时对攻击者造成3秒内每�
 tagCharStatsVitalityDecayPercentRet=活力衰减反击加成
 tagCharStatsVitalityDecayPercentRetInfo=所有活力衰减伤害反击效果的加成比率。全伤害类型的加成不会影响反击伤害。
 
-#Stats
+# Stats
 tagCharStatsItemLevel=平均物品等级
 tagCharStatsItemLevelInfo=你所有装备的平均物品等级。
 
@@ -1146,13 +1146,13 @@ tagRecordHighestDamageTakenInfo=你的角色单次承受过的最高伤害。
 tagRecordDeath=总死亡次数
 tagRecordDeathInfo=你的角色的死亡总数。
 
-tagCharStatsSecondaryResist=次级抗性:
+tagCharStatsSecondaryResist=次级抗性：
 
 tagCharacterStats=人物状态
 tagCharStatsFactionTitle=势力
 tagCPercentageValue={%.0f}%
 
-#Vendor
+# Vendor
 
 tagVendorTabArtifactA=手工艺制品
 tagVendorTabArtifactB=PLACEHOLDER
@@ -1165,7 +1165,7 @@ tagVendorTab03B=由旧衣物和金属废料组装而成的护甲大全，有些�
 tagVendorTab04A=饰品与消耗品
 tagVendorTab04B=古老的饰物和自制药水都在这里了。
 tagVendorTab05A=买回
-tagVendorTab05B=改变主意了? 在商人这儿可以原价买回卖出的物品。不过一旦你离开商人，出售就成交了。
+tagVendorTab05B=改变主意了？在商人这儿可以原价买回卖出的物品。不过一旦你离开商人，出售就成交了。
 
 tagFactionVendorTab01A=友善
 tagFactionVendorTab01B=声望为友善时解锁的奖励
@@ -1198,7 +1198,7 @@ CanNotBeSoldHere=这个店主不接受该物品。
 Sold=已售出
 
 
-#Crafting 锻造
+# Crafting 锻造
 
 tagCrafting=合成
 tagInventorNamePlate=发明家
@@ -1207,15 +1207,15 @@ tagCraftingComponentMissing=目前你的库存中没有这种材料。
 tagCraftingWindowTitle=发明家
 tagCraftingPanelA=装备改造
 tagCraftingPanelB=装备拆解
-tagCraftingCost=费用:
+tagCraftingCost=费用：
 tagCraftingBlueprint=设计图
 tagCraftingComponent=镶嵌物
-tagCraftingComponentRequired=原材料:
+tagCraftingComponentRequired=原材料：
 tagCraftingCombine=组合
 tagCraftingDisplayBoxHelp=在工作台上放置一张设计图来开始合成装备。
 tagCraftingBlueprintInfo=铁匠可以基于设计图使用各种各样废弃的材料合成更高级的物品。
 tagCraftingDeviceCost=铁币费用:{%t0}
-tagCraftingCreate=合成品:
+tagCraftingCreate=合成品：
 tagCraftingLearn=[右键学习]
 tagCraftingRandom={^E}+随机属性(单个或多个)
 tagCraftingQuantity={%d0}/{%d1}
@@ -1238,7 +1238,7 @@ tagCraftingProductBoxCompletion=从工作台上取走你刚刚锻造的物品。
 
 tagCraftingInsterComponent=把设计图特定的部件放入到这些空位中。
 
-#Subheadings
+# Subheadings
 
 tagCraftingAxes=斧
 tagCraftingBlunt=钝器
@@ -1284,16 +1284,16 @@ tagDividingButtonRemoveAugment=移除增幅
 tagDividingKeepItemWarning=选择回收物品将会摧毁镶嵌物和移除增幅。
 tagDividingKeepComponentWarning=选择回收镶嵌物将会摧毁物品和增幅。
 tagDividingRemoveAugmentWarning=移除增幅将会摧毁该增幅，任何由增幅附加的灵魂绑定属性也会被移除掉。
-tagDividingCost=回收花费:
+tagDividingCost=回收花费：
 
-tagDismantleDynamiteTotal=炸药总数:
-tagDismantleCost=拆解消耗:
+tagDismantleDynamiteTotal=炸药总数：
+tagDismantleCost=拆解消耗：
 tagDismantleButton=选择拆解会彻底摧毁该物品。
-tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续?
-tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留镶嵌物，继续?
+tagDismantleDestroyItemWarning=选择拆解会彻底摧毁该物品，继续？
+tagDismantleDestroyItemComponentWarning=选择拆解会彻底摧毁该物品并保留镶嵌物，继续？
 tagDismantleBoxInfo=放置一个普通级别以上的物品到工作台。
 
-#Shrine
+# Shrine
 
 tagShrineDesecrated=被亵渎的神龛
 tagShrineRuined=神龛废墟
@@ -1310,7 +1310,7 @@ tagShrineHostNotActivated=你已经在另外一局游戏中修复了这座神龛
 tagShrineBusy=这座神龛正在被其他玩家使用
 tagShrineLocked=这座神龛正在休眠中
 
-#Smuggler
+# Smuggler
 
 tagStorageRefund=退还存储空间
 tagCaravanTitle=走私者
@@ -1320,7 +1320,7 @@ tagCaravanExpand=扩展仓库
 tagCaravanItemStorage=仓库
 tagStorageInfo01=仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
 tagTransferCost=转移花费:{%d0}
-tagTransferAdd=你确定要将该物品放入共享存储中?
+tagTransferAdd=你确定要将该物品放入共享存储中？
 tagTransferInfo01=使用走私者来给其他人物转移物品。只需要把物品丢进去，你的所有角色就都能取用了。
 tagCaravanItemTransfer=共享仓库
 tagTransferInfo02=将物品放入共享仓库让你的所有人物都能使用。
@@ -1333,7 +1333,7 @@ tagTransferTab02=第二栏
 tagTransferTab03=第三栏
 tagTransferTab04=第四栏
 
-#Chat
+# Chat
 
 tagChatSend=发送给……
 tagChatCommand01=队伍
@@ -1344,13 +1344,13 @@ tagChatCommand05=禁言
 tagChatCommand06=取消禁言
 tagChatBrag=[{%t0}{%t1}{^-}]
 
-#NPC Conversation
+# NPC Conversation
 tagNpcConversationBusy=那个NPC正在和另一名玩家交谈。
 
-#Treasure Trove宝藏
+# Treasure Trove宝藏
 tagTroveBusy=那个目标正在和另一名玩家进行互动。
 
-#Maps
+# Maps
 
 tagAerialMapCenteredButton=居中
 tagAerialMapZoomText=缩放
@@ -1386,7 +1386,7 @@ tagMapSymbolShrineDesc=一座供奉远古神灵的古代神龛。
 tagMapSymbolSmith=铁匠
 tagMapSymbolSmithDesc=一位技艺精湛能够打造新物品的工匠。
 
-#SystemStatsSkillUI
+# SystemStatsSkillUI
 
 tagOptionsMenuReturn=回到游戏
 tagOptionsMenuExit=回到主菜单
@@ -1414,7 +1414,7 @@ ExperienceDisplayFormat=当前经验值:{^y}{%d0}{^w} ~ 距离下一级还需要
 
 tagExpDisplayFormat=当前经验值:{^y}{%t0}{^w} ~ 距离下一级还需要:{^y}{%t1}点经验值
 
-tagCharPointsSpent=已使用属性点数:
+tagCharPointsSpent=已使用属性点数：
 
 tagCharAttribute01={%+.0f0} {^E}灵巧
 tagCharAttribute02={%+.0f0} {^E}体格
@@ -1625,7 +1625,7 @@ FactionUnlocked=解锁{%s0}
 LevelUpFormat=升级！
 SkillPointFormat={%d0} 点技能点数
 AttributePointFormat={%d0} 点属性点数
-MenuName=名字:
+MenuName=名字：
 MenuLevel=等级:{%d0}
 ItemSkillIncrement={^L}{%s1} {^E}技能等级{^H}{+%d0}
 ItemMasteryIncrement={^L}{%s1} {^E}的所有技能{^H}{+%d0}
@@ -1660,14 +1660,14 @@ SkillWeaponDamageMainhandFormat={%.0f0%} {^E}主手伤害 ({^H}{%.0f1} - {%.0f2}
 SkillWeaponDamageOffhandFormat={%.0f0%} {^E}副手伤害 ({^H}{%.0f1} - {%.0f2}{^E})
 SkillWeaponDamagePetFormat={%.0f0%} {^E} 战宠基础攻击伤害
 SkillChargeFactor=每次充能级数
-SkillChargeMax={^E}充能等级:
+SkillChargeMax={^E}充能等级：
 SkillChargeLevel={^H}{%d0}%
 SkillChargeLevel2={^E}，{^H}{%d0}%
 SkillChargeLevelMod={%d0}%
 SkillChargeLevelMod2=，{%d0}%
 SkillChargeDuration=每级充能持续时间
 SkillChargeFactorMod=每次充能级数增加
-SkillChargeMaxMod=充能等级:
+SkillChargeMaxMod=充能等级：
 SkillChargeDurationMod=每级充能持续时间增加
 SkillChanceWeight={%d0}% {^E}的几率使用
 SkillActivationChance={^E}的几率激活
@@ -1684,9 +1684,9 @@ SkillLifePercent={%.1f0}% {^E}生命回复
 SkillManaPercent= {%.1f0}% {^E}能量回复
 SkillLifeBonusAndPercent= {%.0f1}%+{%.0f0} {^E}生命回复
 SkillManaBonusAndPercent= {%.0f1}%+{%.0f0} {^E}能量回复
-SkillPetDescriptionHeading={%s0}的属性:
-tagSkillPetAbilities={%s0}的技能:
-SkillPetDescriptionNextHeading={%s0}的下一等级:
+SkillPetDescriptionHeading={%s0}的属性：
+tagSkillPetAbilities={%s0}的技能：
+SkillPetDescriptionNextHeading={%s0}的下一等级：
 SkillPetDescriptionHealth={%.0f0} {^E}点生命值
 SkillPetDescriptionMana={%.0f0} {^E}点能量值
 SkillPetDescriptionDamageMinOnly={%.0f0} 点伤害
@@ -1712,12 +1712,12 @@ MaxSkillLevelReached=已达到技能最高等级
 ActiveMasteriesAllowedReached=已达到允许激活的专精个数
 LifeMonitorPercent={^E}当生命低于 {^H}{%.1f0}% 时{^E}激活
 FailedSkillDependancy=需要{%s0}技能
-FailedSkillDependancyAll=需要如下技能:
-FailedSkillDependancyOne=需要下列技能中的其中之一:
+FailedSkillDependancyAll=需要如下技能：
+FailedSkillDependancyOne=需要下列技能中的其中之一：
 FailedSkillDependancyName={%s0}
 FailedDevotionDependency=需要亲和点数：
 FailedDevotionDependencyName={%d0} {%s1}
-FailedConstellationDependency=星座从属于:
+FailedConstellationDependency=星座从属于：
 FailedConstellationSelfLocked=这个星座依赖于它所拥有的亲和点数。你需要从其他星座获得更多的亲和点数来遗忘它。
 ManaCost={^E}点能量消耗
 ManaCostPerSecond={^E}每秒能量消耗
@@ -1744,11 +1744,11 @@ ProjectilePiercingChanceMod=+{%.1f0}% {^E}的几率穿过敌人
 tagTooltipPetsHeader=战宠
 tagTooltipSkillsHeader=授予技能
 
-#Skill Wheel 技能轮盘
+# Skill Wheel 技能轮盘
 tagSkillConfig01=设置1
 tagSkillConfig02=设置2
 
-#Gamepad HUD 手柄界面
+# Gamepad HUD 手柄界面
 tagGamePadSelect=选择
 tagGamePadBack=返回
 tagGamePadEquip=装备物品
@@ -1776,7 +1776,7 @@ tagGamePadLootFilter=战利品过滤器
 tagGamePadDevotionSearch=搜索
 tagGamePadMinimapSize=小地图
 
-tagControllerUIWarning=你现有的屏幕分辨率不支持手柄的用户界面.
+tagControllerUIWarning=你现有的屏幕分辨率不支持手柄的用户界面。
 
 tagShieldBlockInfo={%.0f0}% 的几率格挡 {^W}{%.0f1} 伤害
 
@@ -1793,7 +1793,7 @@ GlobalChanceOfOneTag={^E}随机触发下列效果之一:{^H}
 GlobalPercentChanceOfAllTag={%.1f0}% {^E}的几率:{^H}
 GlobalPercentChanceOfOneTag={%.1f0}% {^E}的几率随机触发下列效果之一:{^H}
 tagIndent={   }
-tagDamageAbsorptionTitle={^E}伤害吸收:
+tagDamageAbsorptionTitle={^E}伤害吸收：
 formatQualifyingDamage={     {^E}%s0}
 tagQualifyingDamagePhysical=物理
 tagQualifyingDamagePierce=穿刺
@@ -2217,12 +2217,12 @@ tagSparkMaxNumberSingleMod={^E}最多影响 {^H}+{%d0} {^E}个目标
 tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
 tagSparkMaxNumberMod={^E}最多影响 {^H}{%d0} {^E} 个目标
 
-tagItemGrantSkill=授予技能:
+tagItemGrantSkill=授予技能：
 tagItemSkill=(从物品中获得)
 tagItemSkillShort=(物品)
-tagEffect=效果:
-tagSkillGrantEffect=信仰之力:
-tagDevotionAttached=绑定到:
+tagEffect=效果：
+tagSkillGrantEffect=信仰之力：
+tagDevotionAttached=绑定到：
 
 tagItemUseDirections=[右键点击来使用]
 
@@ -2241,7 +2241,7 @@ tagAttributeUndo=撤销
 tagQuestItem=任务物品
 
 
-tagCR_Jewelry=宝石:
+tagCR_Jewelry=宝石：
 tagRelicError=你不能把一个圣物或符咒附到一个史诗或传奇物品上，
 
 tagExperienceDisplayFormat=当前经验: {^y}{%t0}{^w} ~ 到达下一等级还需经验 : {^y}{%t1}
@@ -2297,12 +2297,12 @@ tagEmptyHotSlot=清空此快捷栏按钮。
 
 tagDevotionUnassigned=无技能
 
-#Stack Window
+# Stack Window
 
 tagStackOk=确定
 tagStackCancel=取消
 
-#Multiplayer
+# Multiplayer
 
 tagMPTrade=交易
 tagMPGroup=团队
@@ -2330,16 +2330,16 @@ tagMPMessageLeave={%t0}已离开你的团队。
 tagMPMessageDeny={%t0}拒绝了你的邀请。
 tagMPMessageBan={%t0}已被从游戏中封禁。
 tagMPMessageGameJoin={%t0}已加入游戏。游戏难度等级已根据人数调整。
-tagMPMessageGameLeave={%t0}已离开游戏.
-tagMPQuestionBan=你确定要从游戏中封禁{%t0}吗?
+tagMPMessageGameLeave={%t0}已离开游戏。
+tagMPQuestionBan=你确定要从游戏中封禁{%t0}吗？
 tagMPInviteAccept=接受
 tagMPInviteDeny=拒绝
 tagMPStats=游戏状态
-tagMPMapName=地图名:
-tagMPServerName=服务器名:
-tagMPServerAddress=服务器地址 :
-tagMPPing=延迟:
-tagMPTime=持续时间:
+tagMPMapName=地图名：
+tagMPServerName=服务器名：
+tagMPServerAddress=服务器地址 ：
+tagMPPing=延迟：
+tagMPTime=持续时间：
 tagMPServer=服务器名:{%t0}
 tagMPIPAddress=IP地址: {%t0}
 tagMPPort=端口: {%t0}

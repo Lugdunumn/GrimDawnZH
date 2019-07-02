@@ -1,5 +1,5 @@
-tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 www.grimdawn.com 并参与到恐怖黎明的开发中来！
-tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在Steam上发布，或者通过访问www.grimdawn.com来查看。
+tagTitleScreenText=恐怖黎明{^n}©2019 Crate Entertainment,LLC{^n}{^n}请访问我们的官网 {^b}www.grimdawn.com{^-} 并参与到恐怖黎明的开发中来！
+tagDemoScreenText=感谢游戏！{^n}{^n}恐怖黎明现在已在 Steam 上发布，或者通过访问 www.grimdawn.com 来查看。
 tagMenu01=开始游戏
 tagMenu02=自定义游戏
 tagMenu03=信息
@@ -24,11 +24,11 @@ tagMenuButton11=下载
 tagMenuChar={%d0} ~ {%d1}
 tagCharLevelClass= {%d0} 级{%t1}
 
-#Temporarypopupmessageforalphamultiplayerbuildwarning
+# Temporary popup message for alpha multiplayer build warning
 tagMenuMPWarning=欢迎加入多人游戏测试！警告：测试期间，你会遇到bug，游戏崩溃和性能问题。请到恐怖黎明论坛反馈这些问题。
 
 #
-#PlayMenu
+# Play Menu
 #
 
 tagMenuGame01=单人游戏
@@ -117,7 +117,7 @@ tagGogMustBeSignedIn=你必须登录GOG Galaxy才能进行多人游戏。请登�
 tagSteamCloudLimit=你的Steam云存档已达上限，必须先删除一个人物才能创建新的人物。
 
 #
-#Options
+# Options
 #
 
 tagGameplayTitle=基本设置
@@ -266,16 +266,22 @@ tagAudioOption03=音效音量
 tagAudioOption04=环境音量
 tagAudioOption05=对话音量
 tagAudioOption06=扬声器设置
-tagAudioOption07=音频设置
+tagAudioOption07=输出设备
 tagAudioOption08=错误语音信息
+tagAudioOption09=输入设备
+tagAudioOption10=测试麦克风
+tagAudioOption11=语音聊天
+tagAudioOption12=语音音量
+tagAudioOption13=按键说话
 tagAudioDesc01=设置主音量。
 tagAudioDesc02=设置音乐音量。
 tagAudioDesc03=设置音效音量。
 tagAudioDesc04=设置环境（世界）效果音量。
 tagAudioDesc05=设置玩家与NPC对话音量。
-tagAudioDesc06=设置扬声器音量。
-tagAudioDesc07=设置音频设备音量。
+tagAudioDesc06=设置扬声器设备。
+tagAudioDesc07=设置音频设备。
 tagAudioDesc08=启用语音错误信息提示，例如当角色无法再携带物品或技能处于冷却状态时。
+tagAudioDesc12=设置其他玩家的语音聊天音量。
 tagHeadphoneSpeakers=耳机
 tagStereoSpeakers=立体声
 tagQuadraphonicSpeakers=四声道立体声
@@ -283,9 +289,9 @@ tagSurroundSpeakers=环绕声
 tag51Speakers=5.1声道环绕声
 tag71Speakers=7.1声道环绕声
 tagVideoTitle=视频
-tagVideoResolution01=800x600
-tagVideoResolution02=1024x768
-tagVideoResolution03=1280x1024
+tagVideoResolution01=800 x 600
+tagVideoResolution02=1024 x 768
+tagVideoResolution03=1280 x 1024
 tagVideoLevel01=高
 tagVideoLevel02=中
 tagVideoLevel03=低
@@ -359,10 +365,10 @@ tagDownloadCloud=下载云存档
 
 tagUPnPCheckFail=UPnP服务无法设置你的路由器以搭建一个恐怖黎明服务器。请检查你的路由器设置并开启UPnP，或者如果不行的话，手动设置你的路由器，为UDP协议和TCP协议打开27016端口。
 
-tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动                                                                                  设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
+tagUPnPNotAvailableHelp={^n}UPnP协议不可用。恐怖黎明无法将你的路由器自动设置成因特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
 
 tagUPnPEnabledHelp=已开启UPnP，不需要手动设置。
-tagUPnPDisabledHelp=已开启UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
+tagUPnPDisabledHelp=已关闭UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
 
 tagUPnPHelp=UPnP协议将能设置你的路由器并使其与恐怖黎明游戏进行通信。要建立一个互联网上的服务器，你的路由器必须打开相应的端口。UPnP可以让恐怖黎明游戏打开这些端口，并且退出的时候再关闭它们，无需手动设置。
 
@@ -370,9 +376,9 @@ tagIPCheckHelp=网络设置检测将会检查路由器是否拥有一个有效�
 
 tagIPCheckFail=路由器的公共IP地址与互联网可见的外部IP地址不一致，通常这是因为试图在途径多个路由器之内的网络建立游戏服务器的缘故。请检查你的路由器设置并重启游戏。
 
-tagIPCheckFailMaybe=你的路由器的公共IP地址：(%t0)不是一个有效的IP地址。路由器虽然正常工作但是没有正确地返回公共地址这种情况也是可能出现的。请检查你的路由器设置，确保恐怖黎明的游戏主机不在多于一台路由器的网络之中。一些互联网提供商使用调制解调器和路由器混合的设备。如果该设备与游戏主机之间有另外一台路由器的话，你将无法建立互联网上的游戏主机。
+tagIPCheckFailMaybe=你的路由器的公共IP地址：(%t0)不是一个有效的IP地址。路由器虽然正常工作但是没有正确地返回公共地址这种情况也是可能出现的。请检查你的路由器设置，确保恐怖黎明的游戏主机不在多于一台路由器的网络之中。一些互联网提供商使用调制解调器和路由器混合的设备。如果该设备与游戏主机之间有另外一台路由器的话，你将无法建立互联网上的游戏主{^n}{^n}机。
 
-tagIPCheckPass=网络检测通过，路由器的公共IP地址和互联网可见的外部地址是相吻合的。
+tagIPCheckPass=网络检测通过，路由器的公共IP地址和互联网可见的{^n}{^n}外部地址是相吻合的。
 
 tagIPCheckUnable=无法检测网络设置。测试需要本地路由器激活UPnP协议，并且恐怖黎明游戏也要启用该协议。如果没有启用该协议，请启用协议并重启游戏，然后再次运行网络检测。
 
@@ -615,3 +621,4 @@ tagWorking=进行中...
 tagOnscreenKeyboardBackspace=删除
 tagOnscreenKeyboardCaps=大写
 tagOnscreenKeyboardReturn=回车
+tagOnscreenKeyboardSpace=空格

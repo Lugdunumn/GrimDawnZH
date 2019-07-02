@@ -1287,7 +1287,6 @@ tagLoreObj_WitchGods_NoteA05Text=符文一个接一个的熄灭了；随着它�
 tagLoreObj_WitchGods_NoteA06Name=艾格达的随笔
 tagLoreObj_WitchGods_NoteA06Text=月亮已经衰退两次了，宏伟之眼滴落着血泪。怒涛汹涌，江流转红。其他人都已沉默，但有命令留下---用血液在墙上作画。我向他们学习，但他们的意图在躲避着我。我一直在学习，因为我比较笨。伟大的守护者，请告诉我，是什么真相在逃避着我？德里格希望从这个脆弱的血肉与骨架身上得到什么？{^n}{^n}您的无尽凝视横贯整个领域。它洞悉了人所不知。它目睹了绿色火焰焚尽一切。它的触须威胁到我们的防线，我们的信念，以及我们的命运。告诉我，隐秘掌控者，该做些什么？从你姓名中溢出的那不甘的血液已经在我搜寻你声音的过程中流干了。你是否也会对我们的请求视若无睹？{^n}{^n}一片死寂。声音远去。我必须要再听一次他们的布道，否则我会发疯的！我必须看到极限以外的东西。如果巫神们不来见我，我就去找到他们正做着大头梦的地方。{^n}{^n}艾格达·克拉兹，德里格的仆从
 
-
 #Guards 守卫
 
 tagNPC_GateGuardA01=守门人 - 鲁克
@@ -1296,6 +1295,7 @@ tagNPC_GateGuardA01=守门人 - 鲁克
 #Merchants and Other Services商人等npc
 
 tagNPC_BonusItems=保管人 科利
+tagNPC_BonusItems02=蓝赛尔骑士
 
 tagNPC_MerchantA01=罗恩
 tagStoreTitle_MerchantA01=收集品商人
@@ -1397,6 +1397,8 @@ tagStoreDesc_SmithA06_1={}知己知彼
 tagStoreDesc_SmithA06_2=哈伦娜对敌人进行了研究并通过熔炉习得了对抗强敌的方法。
 tagStoreDesc_SmithA06_3=
 tagStoreDesc_SmithA06_4=已制作完成的武器，护甲和首饰拥有以下属性之一：
+
+tagNPC_PowerupsS01=泰拉利亚，不朽的大法师
 
 #Faction Quartermasters
 tagNPC_FactionQuartermaster_01=埃利斯

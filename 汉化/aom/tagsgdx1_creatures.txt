@@ -332,6 +332,7 @@ tagGDX1ItemPetBloodWraith_Skill=吸血鬼之触
 tagGDX1ItemPetBloodWraith_Skill02=吸血鬼之灵
 tagGDX1ItemPetBloodSkeleton=血浴奴仆
 tagGDX1ItemPetBloodSkeleton_Skill=鲜血噬咬
+
 #EnemySummons
 
 tagGDX1EnemySummon_ObsidianBeacon=黑曜石塔

@@ -14,6 +14,8 @@ tagGDX2WeaponSwordD201_Desc="这柄剑刃淬入的毒液散发着腐烂与胆汁
 tagGDX2WeaponSwordD202=灵魂之刃
 tagGDX2WeaponSwordD205=冷冽之心☆
 tagGDX2WeaponSwordD205_Desc=" '困于异界，速来救援' 的字样被匆忙地刻在了剑柄上。"
+tagGDX2WeaponSwordD206=沙魔之刃
+tagGDX2WeaponSwordD207=沙魔切刀
 
 tagGDX2WeaponSwordF201=拜斯迈之刃
 tagGDX2WeaponSwordF202=索拉尔切刀
@@ -30,6 +32,10 @@ tagGDX2WeaponBluntC201=卡拉斯特法槌
 
 tagGDX2WeaponBluntD201=饥渴魂灵的法槌
 tagGDX2WeaponBluntD202=阿玛托克的先驱者
+tagGDX2WeaponBluntD203=塔戈之锤
+tagGDX2WeaponBluntD204=完全正常的圆盾
+tagGDX2WeaponBluntD205=完全正常的黎明碎片
+tagGDX2WeaponBluntD206=完全正常的壁垒
 
 tagGDX2WeaponBluntF201=拜斯迈战锤
 tagGDX2WeaponBluntF202=索拉尔战锤
@@ -102,21 +108,21 @@ tagGDX2WeaponMelee2hC202=怒刃
 
 tagGDX2WeaponMelee2hD201=德里格拉'阿诺尔
 tagGDX2WeaponMelee2hD201_Desc="宏伟守护者的次席斗士，瘟疫亚瑟的宝贵武器。"
-tagGDX2WeaponMelee2hD202=纳丹之所及
+tagGDX2WeaponMelee2hD202=纳丹之触
 tagGDX2WeaponMelee2hD202_Desc="用于纪念盗贼与刺客的守护神的传奇兵刃，在遗失在漫长的岁月中之前曾被无数的夜刃持有过。"
 tagGDX2WeaponMelee2hD203=泰内布里斯之怒
 tagGDX2WeaponMelee2hD203_Desc="饮血者泰内布里斯的生命窃取者，受过虚空之心的洗礼。"
 
 tagGDX2WeaponMelee2hF201=德里格巨剑
 tagGDX2WeaponMelee2hF202=索拉尔行刑斧
-tagGDX2WeaponMelee2hF203=深怨
+tagGDX2WeaponMelee2hF203=怨恨
 tagGDX2WeaponMelee2hF203_Desc="据说德里格还是凡人时曾经用过这把剑。"
 
 
-tagGDX2WeaponCaster1hB201=^l赛格留斯的受污之剑
-tagGDX2WeaponCaster1hB201_Desc="曾经是一把神圣之剑，被虚空之触所污染。"
-tagGDX2WeaponCaster1hB202=^l赛格留斯圣剑
-tagGDX2WeaponCaster1hB202_Desc="圣父凯蒙本人传下的神圣之剑。"
+tagGDX2WeaponCaster1hB201=^l赛格留斯的受污之刃
+tagGDX2WeaponCaster1hB201_Desc="曾经是一把神圣之刃，被虚空之触所污染。"
+tagGDX2WeaponCaster1hB202=^l赛格留斯圣刃
+tagGDX2WeaponCaster1hB202_Desc="圣父凯蒙本人传下的神圣之刃。"
 tagGDX2WeaponCaster1hB203=^l绯红修女的邪恶权杖
 tagGDX2WeaponCaster1hB204=^l绯红修女的奥术权杖
 tagGDX2WeaponCaster1hB205=^l飞升威权
@@ -142,7 +148,7 @@ tagGDX2WeaponCaster1hF203=德里格邪恶编织者
 tagGDX2WeaponCaster1hF204=德里格剧毒编织者
 tagGDX2WeaponCaster1hF205=索拉尔火焰散播者
 tagGDX2WeaponCaster1hF206=索拉尔鲜血编织者
-tagGDX2WeaponCaster1hF207=拜斯迈的心灵织机
+tagGDX2WeaponCaster1hF207=拜斯迈的心灵编织者
 tagGDX2WeaponCaster1hF208=吸血魔
 
 
@@ -151,7 +157,7 @@ tagGDX2WeaponCaster1hF208=吸血魔
 tagGDX2ShieldB201=^l圣甲虫鞘壳
 tagGDX2ShieldB202=^l圣甲虫甲壳
 tagGDX2ShieldB203=^l巨像防御者
-tagGDX2ShieldB204=^l血肉扭曲者护盾
+tagGDX2ShieldB204=^l血肉扭曲护盾
 tagGDX2ShieldB205=^l黑曜石防御盾
 
 tagGDX2ShieldC201=风暴守卫
@@ -163,10 +169,11 @@ tagGDX2ShieldD201=荆棘丛生
 tagGDX2ShieldD202=坟墓之触
 tagGDX2ShieldD203=美德防御者
 tagGDX2ShieldD204=三巫神防御者
+tagGDX2ShieldD205=虚魂圆盾
 
 tagGDX2ShieldF201=拜斯迈防御者
 tagGDX2ShieldF202=德里格保护者
-tagGDX2ShieldF203=守御
+tagGDX2ShieldF203=秘术守御
 
 
 
@@ -192,6 +199,9 @@ tagGDX2FocusD204_Desc="以行动赎罪。"
 tagGDX2FocusD205=伊纳什柯之首☆
 tagGDX2FocusD205_Desc="那科凡人民的强大守卫或许已经被击败，但它的能量却诡异地毫发无损。"
 tagGDX2FocusD206=飓风神像
+tagGDX2FocusD207=伊纳什柯腐化之首☆
+tagGDX2FocusD207_Desc="那科凡人民的强大守卫已堕落成冥煞入侵者，曾经的荣耀之力已被虚空永恒地腐化。"
+tagGDX2FocusD208=皮兰的神像
 
 tagGDX2FocusF201=拜斯迈邪火神像
 tagGDX2FocusF202=拜斯迈污染神像
@@ -233,7 +243,7 @@ tagGDX2HeadD202=幽魂之王华冠
 tagGDX2HeadD202_Desc="死神亦需在其王前俯首。"
 tagGDX2HeadD203=阳焰头盔
 tagGDX2HeadD203_Desc="太阳就是如此的灿烂光明。"
-tagGDX2HeadD204=寇瓦克的号角
+tagGDX2HeadD204=寇瓦克的号角☆
 tagGDX2HeadD204_Desc="邪术领域天神的号角。"
 tagGDX2HeadD205=奥卡洛斯的面容☆
 tagGDX2HeadD206=碎境面具
@@ -247,6 +257,11 @@ tagGDX2HeadD213=飓风面具
 tagGDX2HeadD214=枯萎领主的兜帽
 tagGDX2HeadD215=卡拉加德拉的面容☆
 tagGDX2HeadD215_Desc="生动的表现了科凡城的人们拼命逃亡时的恐惧。"
+tagGDX2HeadD216=沙魔的面具
+tagGDX2HeadD217=皮兰的面容
+tagGDX2HeadD218=塔戈的头盔
+tagGDX2HeadD219=虚魂面容
+tagGDX2HeadD220=腐魔面具
 
 tagGDX2HeadF201=拜斯迈夜幕华丽头盔
 tagGDX2HeadF202=拜斯迈恐怖兜帽
@@ -291,6 +306,10 @@ tagGDX2ShoulderD211=飓风斗篷
 tagGDX2ShoulderD212=拉辛的护肩
 tagGDX2ShoulderD213=枯萎领主斗篷
 tagGDX2ShoulderD214=高尔的斗篷
+tagGDX2ShoulderD215=皮兰的斗篷
+tagGDX2ShoulderD216=塔戈的护肩
+tagGDX2ShoulderD217=虚魂斗篷
+tagGDX2ShoulderD218=腐魔护肩
 
 tagGDX2ShoulderF201=拜斯迈奥术护肩
 tagGDX2ShoulderF202=拜斯迈风幕斗篷
@@ -338,6 +357,11 @@ tagGDX2TorsoD210=三巫神护甲
 tagGDX2TorsoD211=哈拉的胸甲
 tagGDX2TorsoD212=拉辛的护甲
 tagGDX2TorsoD213=高尔的华服
+tagGDX2TorsoD214=沙魔的夹克
+tagGDX2TorsoD215=皮兰的法衣
+tagGDX2TorsoD216=塔戈的胸甲
+tagGDX2TorsoD217=虚魂护甲
+tagGDX2TorsoD218=腐魔胸甲
 
 tagGDX2TorsoF201=拜斯迈夜幕胸甲
 tagGDX2TorsoF202=拜斯迈邪恶法衣
@@ -416,7 +440,7 @@ tagGDX2WaistD202_Desc="上面烙印着血红莲花，血红莲花将见到这世
 tagGDX2WaistD203=夜火之链
 tagGDX2WaistD204=白莲花
 tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上绽开的天界之花."
-tagGDX2WaistD205=诺斯费拉提斯
+tagGDX2WaistD205=吸血鬼
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
 
@@ -430,7 +454,7 @@ tagGDX2WaistF203B=索拉尔邪恶束腰
 
 
 #Rings
-tagGDX2RingB201=^l哭泣戒指
+tagGDX2RingB201=^l爬行戒指
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
@@ -463,7 +487,7 @@ tagGDX2NecklaceB201_Desc="凯桑那不朽之眼在这挂坠中盯着你。"
 tagGDX2NecklaceB202=^l凯桑的邪术之眼
 tagGDX2NecklaceB202_Desc="凯桑那不朽之眼在这挂坠中盯着你。"
 
-tagGDX2NecklaceD113I=神圣轻语之引
+tagGDX2NecklaceD113I=神圣低语引导之眼
 
 tagGDX2NecklaceC201=奥术冰冷宝石
 tagGDX2NecklaceC202=混乱凝视
@@ -474,7 +498,7 @@ tagGDX2NecklaceD202=阿兹拉卡之沙
 tagGDX2NecklaceD203=混乱化身
 tagGDX2NecklaceD203_Desc="人类七大神圣美的之三，被虚空扭曲至面目全非。"
 tagGDX2NecklaceD204=剑刃意志
-tagGDX2NecklaceD205=沙漠之王的心脏
+tagGDX2NecklaceD205=沙王之心
 tagGDX2NecklaceD205_Desc="甘纳'瓦卡, 科凡沙漠之王的心脏。"
 tagGDX2NecklaceD206=碎境护符
 tagGDX2NecklaceD207=征服者的宝石☆
@@ -484,6 +508,7 @@ tagGDX2NecklaceD210=哈拉的护身符
 tagGDX2NecklaceD211=拉辛的宝石
 tagGDX2NecklaceD212=枯萎领主之引
 tagGDX2NecklaceD213=拜斯迈之虹膜
+tagGDX2NecklaceD214=腐魔徽章
 
 tagGDX2NecklaceF201=拜斯迈斗士坠饰
 tagGDX2NecklaceF202=拜斯迈面纱坠饰
@@ -502,7 +527,7 @@ tagGDX2MedalA200=毅力绶带
 
 tagGDX2MedalB201=^l蛇怪长牙
 tagGDX2MedalB201_Desc="那尖牙还在滴着毒液。"
-tagGDX2MedalB202=^l温迪戈眩光
+tagGDX2MedalB202=^l温迪戈怒视
 tagGDX2MedalB202_Desc="那布满血丝的眼睛饥渴地盯着你的猎物。"
 
 tagGDX2MedalC201=痛苦谎言之印
@@ -534,14 +559,14 @@ tagGDX2MedalF209=燃影印记
 
 
 #Blueprints
-tagGDX2Blueprint_RelicC201=设计图：圣物 - 坚忍
+tagGDX2Blueprint_RelicC201=设计图：圣物-坚忍
 
-tagGDX2Blueprint_RelicD201=设计图：圣物 - 沉思
-tagGDX2Blueprint_RelicD202=设计图：圣物 - 荣耀
-tagGDX2Blueprint_RelicD203=设计图：圣物 - 阿兹拉卡的时代
-tagGDX2Blueprint_RelicD204=设计图：圣物 - 尤戈尔的饥饿
-tagGDX2Blueprint_RelicD205=设计图：圣物 - 宁静
-tagGDX2Blueprint_RelicD206=设计图：圣物 - 宽恕
+tagGDX2Blueprint_RelicD201=设计图：圣物-沉思
+tagGDX2Blueprint_RelicD202=设计图：圣物-荣耀
+tagGDX2Blueprint_RelicD203=设计图：圣物-阿兹拉卡的时代
+tagGDX2Blueprint_RelicD204=设计图：圣物-尤戈尔的饥饿
+tagGDX2Blueprint_RelicD205=设计图：圣物-宁静
+tagGDX2Blueprint_RelicD206=设计图：圣物-宽恕
 
 tagGDX2Blueprint_WaistF201A=设计图：拜斯迈致命护腰
 tagGDX2Blueprint_WaistF201B=设计图：拜斯迈致命束腰
@@ -553,12 +578,12 @@ tagGDX2Blueprint_WaistF203B=设计图：索拉尔邪恶束腰
 tagGDX2Blueprint_WeaponD201=设计图：神话 仇苦烈风之裔
 tagGDX2Blueprint_WeaponD202=设计图：三巫神之裁决
 
-tagGDX2Blueprint_WeaponF201=设计图：血叮
+tagGDX2Blueprint_WeaponF201=设计图：钻血者
 tagGDX2Blueprint_WeaponF202=设计图：拜斯迈之握
 tagGDX2Blueprint_WeaponF203=设计图：拜斯迈的心灵编织者
 tagGDX2Blueprint_WeaponF204=设计图：腐化
 tagGDX2Blueprint_WeaponF205=设计图：怨恨
-tagGDX2Blueprint_WeaponF206=设计图：秘术师
+tagGDX2Blueprint_WeaponF206=设计图：秘术守御
 tagGDX2Blueprint_WeaponF207=设计图：放血者
 tagGDX2Blueprint_WeaponF208=设计图：索拉尔的吞噬者
 tagGDX2Blueprint_WeaponF209=设计图：索拉尔之语
@@ -569,7 +594,7 @@ tagGDX2Blueprint_ArmorB202=设计图：灰烬守卫护手
 tagGDX2Blueprint_ArmorB203=设计图：风暴守卫紧身裤
 tagGDX2Blueprint_ArmorB204=设计图：寒霜守卫腿铠
 
-tagGDX2Blueprint_ArmorC201=设计图：神话 毁灭面甲
+tagGDX2Blueprint_ArmorC201=设计图：神话 破灭面甲
 tagGDX2Blueprint_ArmorC202=设计图：石父头盔
 
 tagGDX2Blueprint_ArmorD201=设计图：黎明碎片之凝视
@@ -578,8 +603,8 @@ tagGDX2Blueprint_ArmorD203=设计图：阳焰头盔
 tagGDX2Blueprint_ArmorD204=设计图：神话 黎明碎片之凝视
 tagGDX2Blueprint_ArmorD205=设计图：神话 幽魂之王华冠
 tagGDX2Blueprint_ArmorD206=设计图：神话 阳焰头盔
-tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语风帽
-tagGDX2Blueprint_ArmorD208=设计图：路德里根之帽
+tagGDX2Blueprint_ArmorD207=设计图：凌冽轻语王冠
+tagGDX2Blueprint_ArmorD208=设计图：路德里根的檐帽
 tagGDX2Blueprint_ArmorD209=设计图：贩骨者的兜帽
 tagGDX2Blueprint_ArmorD210=设计图：美德凝视
 tagGDX2Blueprint_ArmorD211=设计图：哈拉的头盔
@@ -587,8 +612,13 @@ tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
 tagGDX2Blueprint_ArmorD214=设计图：剧毒领主的兜帽
 tagGDX2Blueprint_ArmorD215=设计图：高尔的华服
+tagGDX2Blueprint_ArmorD216=设计图：沙魔的面具
+tagGDX2Blueprint_ArmorD217=设计图：皮兰的面容
+tagGDX2Blueprint_ArmorD218=设计图：塔戈的头盔
+tagGDX2Blueprint_ArmorD219=设计图：虚魂面容
+tagGDX2Blueprint_ArmorD220=设计图：腐魔面具
 
-tagGDX1Blueprint_AccessoryD121I=设计图：神圣轻语之引
+tagGDX1Blueprint_AccessoryD121I=设计图：神圣低语引导之眼
 
 tagGDX2Blueprint_AccessoryD201=设计图：白莲花
 tagGDX2Blueprint_AccessoryD202=设计图：神话 血红莲花
@@ -656,25 +686,25 @@ tagGDX2Blueprint_RuneD221=设计图：闪耀终曲符文
 
 
 #Relics
-tagGDX2RelicC201=坚忍-^s守誓Lv35
+tagGDX2RelicC201=^s守誓Lv35-^c坚忍
 tagGDX2RelicC201Desc="在一切困境中坚持下去的意志。"
 
-tagGDX2RelicD201=沉思-^s守誓Lv60
+tagGDX2RelicD201=^s守誓Lv60-^c沉思
 tagGDX2RelicD201Desc="可以看见更远大图景的心灵。"
 
-tagGDX2RelicD202=荣耀-^s守誓Lv70
+tagGDX2RelicD202=^s守誓Lv70-^c荣耀
 tagGDX2RelicD202Desc="在不义的世界中对正义的不懈追求。"
 
-tagGDX2RelicD203=阿兹拉卡的时代
+tagGDX2RelicD203=^s攻击-^c阿兹拉卡的时代
 tagGDX2RelicD203Desc="时间皱褶中的一丝涟漪。"
 
-tagGDX2RelicD204=尤戈尔的饥饿
+tagGDX2RelicD204=^s攻击-^c尤戈尔的饥饿
 tagGDX2RelicD204Desc="万物中最无可匹敌的贪食欲望。"
 
-tagGDX2RelicD205=宁静-^s全技能+1
+tagGDX2RelicD205=^s全技能-^c宁静
 tagGDX2RelicD205Desc="内心之平静"
 
-tagGDX2RelicD206=宽恕-^s守誓Lv90
+tagGDX2RelicD206=^s守誓Lv90-^c宽恕
 tagGDX2RelicD206Desc="践行真正正义的强大意志。"
 
 
@@ -715,6 +745,9 @@ tagGDX2Consumable_01_Desc="这个球体被创造的目的，甚至其起源都�
 
 tagGDX2Consumable_02=天神法球
 tagGDX2Consumable_02_Desc="一件来自碎裂之境的遗留之物，它究竟是用来做什么的……"
+
+tagGDX2Consumable_03=虚空法球
+tagGDX2Consumable_03_Desc="这法球闪烁着虚空能量。拿在手里可能不太安全..."
 
 
 #ItemEnchantment
@@ -772,7 +805,7 @@ tagGDX2EnchantA217Desc="取自一种传说中的邪术生物，这种生物几�
 tagGDX2EnchantA218A=贤者荆棘粉末
 tagGDX2EnchantA218Desc="贤者荆棘因其流出的暗红色墨汁而被学者们认为是无价之宝，但是采集那种汁液的人必须极其小心地避开那些刺，以免受到永远无法真正治愈的伤害。"^w^n（用于戒指和护符）
 
-tagGDX2EnchantA219A=帷幕蠢动粉末
+tagGDX2EnchantA219A=帷幕虫粉末
 tagGDX2EnchantA219Desc="由虚空中令人不安的现象中得到的粉末，似乎虚空正以世界间的屏障为食。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantA220A=虚空盐
@@ -1066,6 +1099,22 @@ tagGDX2ItemSetD213Name=拜斯迈的饰品
 tagGDX2ItemSetD213Desc="曾经她身为凡人之时，低语女士就以收集威力强大的物品来控制孱弱生物闻名于世。在她成神之后，便不再需要这些琐碎的装饰品了。"
 
 
+tagGDX2ItemSetD214Name=科凡沙魔
+tagGDX2ItemSetD214Desc=科凡沙魔渴望成为科凡沙漠的毒蛇，难以捉摸…迅速…且致命。
+
+tagGDX2ItemSetD215Name=皮兰的沉思
+tagGDX2ItemSetD215Desc=受到老师们的蔑视后，皮兰发誓要在奥术史上留下自己的印记，但同时他的实验也扭曲了自己的身形。
+
+tagGDX2ItemSetD216Name=塔戈的技艺
+tagGDX2ItemSetD216Desc=传说是由星辰的锻造大师亲手锻造而成，这盔甲展现了身体和意志的力量。
+
+tagGDX2ItemSetD217Name=虚魂
+tagGDX2ItemSetD217Desc=这个曾经被祝福的盔甲现在充满了邪恶的能量，虚空已经永远地腐蚀了它的心。
+
+tagGDX2ItemSetD218Name=腐魔
+tagGDX2ItemSetD218Desc=腐魔酷爱杀戮，甚至在猎物腐烂很久之后还穿着它的皮肉。
+
+
 #LootChests
 
 
@@ -1126,19 +1175,19 @@ tagGDX2Door_Lava=熔岩路障
 tagGDX2EldritchRift=邪术裂隙
 
 
-tagPrefixB037_Class_A=^g战争领主的
-tagPrefixB038_Class_A=^g破盾者的
-tagPrefixB039_Class_A=^g哨兵的
-tagPrefixB040_Class_A=^g狂舞者的
-tagPrefixB041_Class_A=^g圣殿骑士的
-tagPrefixB042_Class_A=^g执政官的
-tagPrefixB043_Class_A=^g帕拉丁的
-tagPrefixB044_Class_A=^g压迫者的
-tagPrefixB045_Class_A=^g救世者的
+tagPrefixB037_Class_A=^g战争领主·
+tagPrefixB038_Class_A=^g破盾者·
+tagPrefixB039_Class_A=^g哨兵·
+tagPrefixB040_Class_A=^g狂舞者·
+tagPrefixB041_Class_A=^g圣殿骑士·
+tagPrefixB042_Class_A=^g执政官·
+tagPrefixB043_Class_A=^g帕拉丁·
+tagPrefixB044_Class_A=^g压迫者·
+tagPrefixB045_Class_A=^g救世者·
 
 
 #Affixes
-tagGDX2PrefixAA024=^y守誓者的
+tagGDX2PrefixAA024=^y守誓者·
 
 #Difficulty Unlocks
 tagGDX2DifficultyUnlock01=斗士之功绩

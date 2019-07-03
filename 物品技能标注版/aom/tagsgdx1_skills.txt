@@ -1,4 +1,4 @@
-﻿tagSkillClassName07=审判官
+tagSkillClassName07=审判官
 tagSkillClassName08=死灵法师
 
 tagSkillClassName0107=战术家^T（士兵+审判）

@@ -1,4 +1,4 @@
-﻿tagSkillClassName09=守誓者
+tagSkillClassName09=守誓者
 
 tagSkillClassName0109=战争领主^T（士兵+守誓）
 tagSkillClassName0209=破坏盾卫^T（爆破+守誓）

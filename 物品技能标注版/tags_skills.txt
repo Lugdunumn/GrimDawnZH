@@ -1,4 +1,4 @@
-﻿tagSkillClassName01=士兵
+tagSkillClassName01=士兵
 tagSkillClassName02=爆破者
 tagSkillClassName03=神秘学者
 tagSkillClassName04=夜刃

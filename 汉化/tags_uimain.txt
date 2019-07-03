@@ -368,7 +368,7 @@ tagUPnPCheckFail=UPnP服务无法设置你的路由器以搭建一个恐怖黎�
 tagUPnPNotAvailableHelp=UPnP协议不可用。恐怖黎明无法将你的路由器自动                                                                                  设置成英特网服务器请检查你的路由器设置并开启UPnP或者手动设置你的路由来为UDP协议和TCP协议打开27016端口。
 
 tagUPnPEnabledHelp=已开启UPnP，不需要手动设置。
-tagUPnPDisabledHelp=已开启UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
+tagUPnPDisabledHelp=已关闭UPnP。你的路由器上必须为UDP协议和TCP协议打开27016端口才能搭建一个恐怖黎明的服务器。
 
 tagUPnPHelp=UPnP协议将能设置你的路由器并使其与恐怖黎明游戏进行通信。要建立一个互联网上的服务器，你的路由器必须打开相应的端口。UPnP可以让恐怖黎明游戏打开这些端口，并且退出的时候再关闭它们，无需手动设置。
 

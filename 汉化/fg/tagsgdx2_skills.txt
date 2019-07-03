@@ -44,7 +44,7 @@ tagGDX2Class09SkillName03C=[守誓者]愤怒之心
 tagGDX2Class09SkillDescription03C=执行审判将使你内心充满灼热的意志，并灼烧附近的敌人。
 
 tagGDX2Class09SkillName04A=[守誓者]维尔之力
-tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时，盾牌的伤害也会被计算在内.
+tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时，盾牌的伤害也会被计算在内。
 tagGDX2Class09SkillName04B=[守誓者]火山步伐
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
 tagGDX2Class09SkillName04C=[守誓者]地质位移

@@ -1870,7 +1870,6 @@ tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 被莫格卓根封印着 (需要一�
 tagGDX1Door_Vine=藤蔓
 tagGDX1Door_Flesh=活体血肉之门
 tagGDX1Door_Puppetmaster=活体血肉之门
-+
 
 #DLC
 tagGDX1DLCIllusionA01=幻化：暗黑骑士盔甲

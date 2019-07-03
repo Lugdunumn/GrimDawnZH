@@ -2283,6 +2283,7 @@ tagMove=移动到
 tagForceMove=强制移动
 tagUse=互动
 tagPickup=拾取
+tagPushToTalk=按键说话
 
 tagUC_Button=解锁内容
 tagUC_Message=请输入你的解锁码来解锁新内容.

@@ -173,7 +173,7 @@ tagClass02SkillName00A=爆破者
 tagClass02SkillDescription00A=科学与魔法相结合的专业技能在战场上释放炽热的炼狱之火。
 
 tagClass02SkillName01A=^g<^F爆破者^g>^c手榴弹
-tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明，使战场上的巫术操控和常规武器间的较量得到了平衡。^o飞行速度较慢,弹道容易被封堵.
+tagClass02SkillDescription01A=手榴弹是一项被快速普及应用于战场的近代发明，使战场上的巫术操控和常规武器间的较量得到了平衡。^o飞行速度较慢，弹道容易被封堵。
 tagClass02SkillName01B=^g<^F爆破者^g>^c高热冲击
 tagClass02SkillDescription01B=在标准手榴弹上的改进设计使它爆发出炽热火花并射出锋利的碎片。
 tagClass02SkillName01C=^g<^F爆破者^g>^c天火手雷
@@ -182,7 +182,7 @@ tagClass02SkillName01D=^g<^F爆破者^g>^c破碎猛爆
 tagClass02SkillDescription01D=手榴弹爆炸产生的强烈冲击波会震荡你的敌人，造成剧烈的内部创伤。
 
 tagClass02SkillName02A=^g<^F爆破者^g>^c闪光弹
-tagClass02SkillDescription02A=一道致盲闪光使敌人短暂的陷入混乱并破坏他们的防护能力。^o控场技能,削减敌人防御能力。
+tagClass02SkillDescription02A=一道致盲闪光使敌人短暂的陷入混乱并破坏他们的防护能力。^o控场技能，削减敌人防御能力。
 tagClass02SkillName02B=^g<^F爆破者^g>^c灼热之光
 tagClass02SkillDescription02B=烙进敌人视网膜的残像弱化他们造成伤害的能力。^o安全防护。
 
@@ -207,7 +207,7 @@ tagClass02SkillName04C=^g<^F爆破者^g>^c震荡炸弹
 tagClass02SkillDescription04C=罐式炸弹将拥有更强的冲击力，其中的电流将使敌人患上炮弹休克症。
 
 tagClass02SkillName05A=^g<^F爆破者^g>^c迫击抛射炮
-tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮，直至耗尽。^o迫击炮会受到玩家伤害加成的影响。投射物会受到环境物体阻挡,投射物飞行速度较慢。
+tagClass02SkillDescription05A=放置持续向空中抛射爆炸物的迫击炮，直至耗尽。^o迫击炮会受到玩家伤害加成的影响。投射物会受到环境物体阻挡，投射物飞行速度较慢。
 tagClass02SkillName05B=^g<^F爆破者^g>^c重型武器
 tagClass02SkillDescription05B=强力的法术提升迫击炮弹的伤害并附加电能伤害。^o同时影响基本的迫击炮技能和巨型炸弹。
 tagClass02SkillName05C=^g<^F爆破者^g>^c巨型炸弹
@@ -294,7 +294,7 @@ tagClass03SkillDescription02D=地狱犬向外喷吐地狱怒炎，将敌人烧�
 tagClass03SkillName02E=扑咬攻击
 tagClass03SkillDescription02E=普通攻击
 tagClass03SkillName02F=死亡爆裂
-tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱,将附近的敌人烧成灰烬。
+tagClass03SkillDescription02F=地狱犬通过爆发出体内的地狱之火回归地狱，将附近的敌人烧成灰烬。
 
 tagClass03SkillName03A=^g<^F神秘学者^g>^c拜斯迈的羁绊
 tagClass03SkillDescription03A=强化与召唤生物之间的联结，使它们更努力更坚决地为你作战。^o技能必须开启才能保持生效。
@@ -304,7 +304,7 @@ tagClass03SkillDescription03B=以微妙的手法操纵召唤契约，使召唤�
 tagClass03SkillName04A=^g<^F神秘学者^g>^c德里格之血
 tagClass03SkillDescription04A=与伟大守护者之间的精神联系将赐予你一部分德里格的恢复能力。受到敌人攻击时将喷溅出巫神德里格身上的毒血。^o技能效果也会作用于队友身上；神秘万能buff。
 tagClass03SkillName04B=^g<^F神秘学者^g>^c守护者之躯
-tagClass03SkillDescription04B=与德里格的深度联结致使敌人对神秘学者的进攻仿佛是在攻击守护者那坚不可摧的本体。^o神秘不缺毒抗的原因,当然还有点物理抗。
+tagClass03SkillDescription04B=与德里格的深度联结致使敌人对神秘学者的进攻仿佛是在攻击守护者那坚不可摧的本体。^o神秘不缺毒抗的原因，当然还有点物理抗。
 tagClass03SkillName04C=^g<^F神秘学者^g>^c守护者之翎
 tagClass03SkillDescription04C=牺牲所有的回复力，增强德里格之血的毒性。
 
@@ -313,7 +313,7 @@ tagClass03SkillDescription05A=驾驭索拉尔的邪术力量，使用熵能在�
 tagClass03SkillName05B=^g<^F神秘学者^g>^c二次仪式
 tagClass03SkillDescription05B=加深神秘学者与隐秘国度之间的联系，使巫火的力量变得更为强大，哪怕是最为轻微的接触也足以让敌人的生命精华燃烧殆尽。
 tagClass03SkillName05C=^g<^F神秘学者^g>^c祭祀之剑
-tagClass03SkillDescription05C=巫火吞噬你的武器,以混沌能量凝聚其身。
+tagClass03SkillDescription05C=巫火吞噬你的武器，以混沌能量凝聚其身。
 
 tagClass03SkillName06A=^g<^F神秘学者^g>^c虚弱诅咒
 tagClass03SkillDescription06A=强大而无情的咒语使敌人失去勇气，使他们变得缓慢而脆弱。^odebuff技能。
@@ -367,10 +367,10 @@ tagClass03SkillDescription15A=将目标封印于一块保护性的治愈结界�
 #Class04
 
 tagClass04SkillName00=夜刃
-tagClass04SkillDescription00=精通幻象和回旋刃的技巧.
+tagClass04SkillDescription00=精通幻象和回旋刃的技巧。
 
 tagClass04SkillName01A=^g<^F夜刃^g>^c幻影刀
-tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤出的刀刃,如切割纸片一般撕裂肉体。^o
+tagClass04SkillDescription01A=夜刃享有盛誉的技能。投掷出通过暗影魔法召唤出的刀刃，如切割纸片一般撕裂肉体。^o
 tagClass04SkillName01B=^g<^F夜刃^g>^c寻心击
 tagClass04SkillDescription01B=通过精巧的技术，召唤出锋利的的幻影刀刺穿多个目标，还能从受害者身上吸取生命力。
 tagClass04SkillName01C=^g<^F夜刃^g>^c幽冥刃
@@ -415,9 +415,9 @@ tagClass04SkillDescription06A=夜刃的一种绝密武技，从周围吸取精�
 tagClass04SkillName06B=^g<^F夜刃^g>^c暗影舞
 tagClass04SkillDescription06B=针对战斗的冥想练习将使你能够在酣战之中保持心中的清明，看破敌人来袭的路线巧妙地躲避敌人的攻击。
 tagClass04SkillName06C=^g<^F夜刃^g>^c元素诀
-tagClass04SkillDescription06C=夜刃宗师们能够从空气中，甚至与敌人短兵相接中汲取能量，然后施放冰冷的攻击。^obuff效果,霜燃点数伤害增加武器伤害里。
+tagClass04SkillDescription06C=夜刃宗师们能够从空气中，甚至与敌人短兵相接中汲取能量，然后施放冰冷的攻击。^obuff效果，霜燃点数伤害增加武器伤害里。
 tagClass04SkillName06D=^g<^F夜刃^g>^c集气诀
-tagClass04SkillDescription06D=以夜刃的标准来说，肌肉过于发达和速度迟缓的贝尔戈斯安，他成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力。^o这是一项近战双持技能。同时开启双持近战武器的能力。夜刃双持近战必备。
+tagClass04SkillDescription06D=以夜刃的标准来说，肌肉过于发达和速度迟缓的贝尔戈斯安，他成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力。^o这是一项近战双持技能。同时开启双持近战武器的能力。^o夜刃双持近战必备
 
 tagClass04SkillName07A=^g<^F夜刃^g>^c暗影面纱
 tagClass04SkillDescription07A=一片心灵面纱密布于附近敌人的头脑中，减缓他们的移动并削弱他们的战斗力。^o这项技能必须保持开启以持续生效。debuff技能。
@@ -488,7 +488,7 @@ tagClass05SkillName00=奥术
 tagClass05SkillDescription00=磨炼躯体与意志，方能驾驭原始的魔法力量。
 
 tagClass05SkillName01A=^g<^F奥术师^g>^c帕内蒂的复制飞弹
-tagClass05SkillDescription01A=最为杰出的科托锡安奥术师帕内蒂一直在致力于改进经典的奥术飞弹。他的成就似乎违反了能量守恒定律，经他改进的飞弹会在击中敌人时复制为多枚飞弹。^o适合攻击集群怪物.
+tagClass05SkillDescription01A=最为杰出的科托锡安奥术师帕内蒂一直在致力于改进经典的奥术飞弹。他的成就似乎违反了能量守恒定律，经他改进的飞弹会在击中敌人时复制为多枚飞弹。^o适合攻击集群怪物。
 tagClass05SkillName01B=^g<^F奥术师^g>^c失真
 tagClass05SkillDescription01B=复制飞弹会扰动敌人的实体，使飞弹有时会穿过敌人。
 tagClass05SkillName01C=^g<^F奥术师^g>^c超压
@@ -704,11 +704,11 @@ xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神�
 XXXtagClass01SkillName15A=战斗暴怒
 XXXtagClass01SkillDescription15A=The heat of battle rouses savage animal impulses that heighten your strength and speed but diminish discipline lowering your defenses.
 XXXtagClass01SkillName15B=狂暴
-XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on,giving you almost super-human speed but also making you more wreckless,reducing defensive ability.
+XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on, giving you almost super-human speed but also making you more wreckless, reducing defensive ability.
 
 
 XXXtagClass03SkillName09=Fulcrum Training
-XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners.Channeling through a fulcrum can mitigate some of this damage.
+XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners. Channeling through a fulcrum can mitigate some of this damage.
 
 
 XXXtagClass04SkillName03A=毒性炸弹
@@ -717,7 +717,7 @@ XXXtagClass04SkillName03B=腐坏毒气
 XXXtagClass04SkillDescription03B=The addition of an unstable agent to the Toxic Bomb causes weakened resolve and painful convulsions.
 
 XXXtagClass03SkillName06A=元素光球
-XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat,cold,and electricity.
+XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat, cold, and electricity.
 
 
 
@@ -728,13 +728,13 @@ XXXtagClass03SkillDescription08A=A burst of wind and elemental energy knocks ene
 
 
 XXXtagClass03SkillName01C=旋风
-XXXtagClass03SkillDescription01C=The great raven controls the winds,channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
+XXXtagClass03SkillDescription01C=The great raven controls the winds, channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
 
 XXXtagClass03SkillName01D=风暴涡旋
 XXXtagClass03SkillDescription01D=Magnifies the power of Whirlwind and causes it to emit bolts of lightning.
 
 xxxtagClass05SkillName01A=邪恶毒剂
-xxxtagClass05SkillDescription01A=Bottled and hurled at enemies,this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
+xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
 
 xxxtagClass05SkillName02A=涂毒
 xxxtagClass05SkillDescription02A=将你的武器涂满堕落酿造之油。
@@ -1957,7 +1957,7 @@ tagItemSkillD204Name=虚空行者
 tagItemSkillD204Desc=当受到虚空恶魔的魔法攻击时，你对虚空的腐蚀之力变得非常抵触，筑起一道能够承受虚空恶魔攻击的壁垒。
 
 tagItemSkillD205Name=古尔·阿玛什的守护
-tagItemSkillD205Desc=当你被物理攻击击中时，古尔’阿玛什的守护能为你抵抗物理伤害。
+tagItemSkillD205Desc=当你被物理攻击击中时，古尔·阿玛什的守护能为你抵抗物理伤害。
 
 tagItemSkillD206Name=幻境守护
 tagItemSkillD206Desc=在你周围区域制造闪烁的幻境来转移敌人的注意力。^o这项技能必须保持开启以持续生效。
